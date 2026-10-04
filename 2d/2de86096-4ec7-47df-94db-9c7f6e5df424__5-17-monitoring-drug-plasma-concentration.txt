@@ -1,0 +1,3 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 5.17 Monitoring: Drug Plasma Concentration
+
+Since valproate may interact with concurrently administered drugs which are capable of enzyme induction, periodic plasma concentration determinations of valproate and concomitant drugs are recommended during the early course of therapy [see Drug Interactions (7)].

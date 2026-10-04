@@ -1,0 +1,27 @@
+DailyMed 7c58bf4a-4a92-4db8-89bc-4de1b5831efc | Atorvastatin calcium | 6 ADVERSE REACTIONS
+
+The following important adverse reactions are described below and elsewhere in the labeling:
+
+                     Myopathy and Rhabdomyolysis
+
+   [see Warnings and Precautions (
+
+    5.1)]
+
+                     Immune-Mediated Necrotizing Myopathy
+
+   [see Warnings and Precautions (
+
+    5.2)]
+
+                     Hepatic Dysfunction
+
+   [see Warnings and Precautions (
+
+    5.3)]
+
+                     Increases in HbA1c and Fasting Serum Glucose Levels
+
+   [see Warnings and Precautions (
+
+    5.4)]

@@ -1,0 +1,37 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 7.1 Effects of Co-Administered Drugs on Valproate Clearance
+
+Drugs that affect the level of expression of hepatic enzymes, particularly those that elevate levels of glucuronosyltransferases (such as ritonavir), may increase the clearance of valproate. For example, phenytoin, carbamazepine, and phenobarbital (or primidone) can double the clearance of valproate. Thus, patients on monotherapy will generally have longer half-lives and higher concentrations than patients receiving polytherapy with antiepilepsy drugs.
+
+                        In contrast, drugs that are inhibitors of cytochrome P450 isozymes, e.g., antidepressants, may be expected to have little effect on valproate clearance because cytochrome P450 microsomal mediated oxidation is a relatively minor secondary metabolic pathway compared to glucuronidation and beta-oxidation.
+
+                        Because of these changes in valproate clearance, monitoring of valproate and concomitant drug concentrations should be increased whenever enzyme inducing drugs are introduced or withdrawn.
+
+                        The following list provides information about the potential for an influence of several commonly prescribed medications on valproate pharmacokinetics. The list is not exhaustive nor could it be, since new interactions are continuously being reported.
+
+                           Drugs for which a potentially important interaction has been observed
+
+                           Aspirin
+
+                        A study involving the co-administration of aspirin at antipyretic doses (11 to 16 mg/kg) with valproate to pediatric patients (n=6) revealed a decrease in protein binding and an inhibition of metabolism of valproate. Valproate free fraction was increased 4-fold in the presence of aspirin compared to valproate alone. The β-oxidation pathway consisting of 2-E-valproic acid, 3-OH-valproic acid, and 3-keto valproic acid was decreased from 25% of total metabolites excreted on valproate alone to 8.3% in the presence of aspirin. Whether or not the interaction observed in this study applies to adults is unknown, but caution should be observed if valproate and aspirin are to be co-administered.
+
+                           Carbapenem Antibiotics
+
+                        A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) and may result in loss of seizure control. The mechanism of this interaction is not well understood. Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy. Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.15)].
+
+                           Estrogen-Containing Hormonal Contraceptives
+
+                        Estrogen-containing hormonal contraceptives may increase the clearance of valproate, which may result in decreased concentration of valproate and potentially increased seizure frequency. Prescribers should monitor serum valproate concentrations and clinical response when adding or discontinuing estrogen containing products.
+
+                           Felbamate
+
+                        A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n=10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone. Increasing the felbamate dose to 2,400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase). A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
+
+                           Methotrexate
+
+                         
+
+                        Methotrexate may decrease serum valproate levels and potentially result in increased frequency of seizures or bipolar symptoms. Prescribers should monitor serum valproate concentrations and clinical response when adding or discontinuing methotrexate and adjust valproate dosage, if necessary.
+
+                           Rifampin
+
+                        A study involving the administration of a single dose of valproate (7 mg/kg) 36 hours after 5 nights of daily dosing with rifampin (600 mg) revealed a 40% increase in the oral clearance of valproate. Valproate dosage adjustment may be necessary when it is co-administered with rifampin.

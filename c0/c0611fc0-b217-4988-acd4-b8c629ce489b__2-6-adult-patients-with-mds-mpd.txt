@@ -1,0 +1,5 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 2.6 Adult Patients With MDS/MPD
+
+Determine PDGFRb gene rearrangements status prior to initiating treatment.
+
+                        The recommended dose of imatinib mesylate tablets are 400 mg/day for adult patients with MDS/MPD.

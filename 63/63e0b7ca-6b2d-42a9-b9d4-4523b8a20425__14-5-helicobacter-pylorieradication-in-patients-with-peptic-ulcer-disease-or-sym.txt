@@ -1,0 +1,192 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 14.5 Helicobacter pyloriEradication in Patients with Peptic Ulcer Disease or Symptomatic Non-Ulcer Disease in Adults
+
+The U.S. multicenter study was a double-blind, parallel-group comparison of rabeprazole sodium delayed-release tablets, amoxicillin, and clarithromycin for 3, 7, or 10 days vs. omeprazole, amoxicillin, and clarithromycin for 10 days. Therapy consisted of rabeprazole 20 mg twice daily, amoxicillin 1,000 mg twice daily, and clarithromycin 500 mg twice daily (RAC) or omeprazole 20 mg twice daily, amoxicillin 1,000 mg twice daily, and clarithromycin 500 mg twice daily (OAC). Patients with
+
+  H. pyloriinfection were stratified in a 1:1 ratio for those with peptic ulcer disease (active or a history of ulcer in the past five years) [PUD] and those who were symptomatic but without peptic ulcer disease [NPUD], as determined by upper gastrointestinal endoscopy. The overall
+
+  H. pylorieradication rates, defined as negative
+
+  13C-UBT for
+
+  H. pylori≥6 weeks from the end of the treatment are shown in the following table. The eradication rates in the 7-day and 10-day RAC regimens were found to be similar to 10-day OAC regimen using either the Intent-to-Treat (ITT) or Per-Protocol (PP) populations. Eradication rates in the RAC 3-day regimen were inferior to the other regimens.
+
+                           Table 13:
+
+   Helicobacter pyloriEradication at
+
+  ≥
+
+  6 Weeks After the End of Treatment
+
+                                  
+
+                                  |
+                                 Treatment Group Percent (%) of Patients Cured (Number of Patients)
+
+                                  |
+                                 Difference (RAC – OAC) [95% Confidence Interval]
+
+                                  |
+
+                                  
+
+                                  |
+
+                                    7-day RAC* 
+
+                                  |
+
+                                    10-day OAC 
+
+                                  |
+                                  
+
+                                  |
+
+                                 Per Protocol
+
+     a
+
+                                  |
+                                 84.3% (N=166)
+
+                                  |
+                                 81.6% (N=179)
+
+                                  |
+                                 2.8 [-5.2, 10.7]
+
+                                  |
+
+                                 Intent-to-Treat
+
+     b
+
+                                  |
+                                 77.3% (N=194)
+
+                                  |
+                                 73.3% (N=206)
+
+                                  |
+                                 4.0 [-4.4,12.5]
+
+                                  |
+
+                                  
+
+                                  |
+
+                                    10-day RAC* 
+
+                                  |
+
+                                    10-day OAC 
+
+                                  |
+                                  
+
+                                  |
+
+                                 Per Protocol
+
+     a
+
+                                  |
+                                 86.0% (N=171)
+
+                                  |
+                                 81.6% (N=179)
+
+                                  |
+                                 4.4 [-3.3, 12.1]
+
+                                  |
+
+                                 Intent-to-Treat
+
+     b
+
+                                  |
+                                 78.1%
+
+  (N=196)
+
+                                  |
+                                 73.3%
+
+  (N=206)
+
+                                  |
+                                 4.8
+
+  [-3.6, 13.2]
+
+                                  |
+
+                                  
+
+                                  |
+
+                                    3-day RAC 
+
+                                  |
+
+                                    10-day OAC 
+
+                                  |
+                                  
+
+                                  |
+
+                                 Per Protocol
+
+     a
+
+                                  |
+                                 29.9% (N=167)
+
+                                  |
+                                 81.6% (N=179)
+
+                                  |
+                                 -51.6 [-60.6, -42.6]
+
+                                  |
+
+                                 Intent-to-Treat
+
+     b
+
+                                  |
+                                 27.3%
+
+  (N=187)
+
+                                  |
+                                 73.3%
+
+  (N=206)
+
+                                  |
+                                 -46.0
+
+  [-54.8, -37.2]
+
+                                  |
+
+                           aPatients were included in the analysis if they had
+
+  H. pyloriinfection documented at baseline, defined as a positive
+
+  13C-UBT plus rapid urease test or culture and were not protocol violators. Patients who dropped out of the study due to an adverse event related to the study drug were included in the evaluable analysis as failures of therapy.
+
+                           bPatients were included in the analysis if they had documented
+
+  H. pyloriinfection at baseline as defined above and took at least one dose of study medication. All dropouts were included as failures of therapy.
+
+                        *The 95% confidence intervals for the difference in eradication rates for 7-day RAC minus 10-day RAC are (-9.3, 6.0) in the PP population and (-9.0, 7.5) in the ITT population. 
+
+                        The recommended dosage of
+
+  rabeprazole sodium delayed-release tabletsis 20 mg twice daily with amoxicillin and clarithromycin for 7 days.

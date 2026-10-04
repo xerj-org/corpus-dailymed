@@ -1,0 +1,9 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 8.1 Pregnancy
+
+Risk Summary
+
+                        Based on its mechanism of action, NIKTIMVO may cause fetal harm when administered to pregnant women [see Clinical Pharmacology (12.1)]. There are no available data on the use of NIKTIMVO in pregnant women to evaluate for a drug-associated risk. No animal reproductive and developmental toxicity studies have been conducted with axatilimab-csfr.
+
+                        Targeted mutation of CSF-1R or CSF-1 in rodent models results in prenatal and perinatal death, deficits in growth, and pleiotropic impact on multiple organ systems, including skeletal and reproductive. Regulation by CSF-1R on non-mononuclear phagocytic cells and macrophages plays a role in the innate immune protection of the fetus and in pregnancy maintenance and embryo-fetal development. Human immunoglobulin G (IgG) is known to cross the placenta; therefore, NIKTIMVO has the potential to be transmitted from the mother to the developing fetus. Advise women of the potential risk to the fetus.
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.

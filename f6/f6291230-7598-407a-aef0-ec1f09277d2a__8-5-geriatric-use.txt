@@ -1,0 +1,26 @@
+DailyMed f6291230-7598-407a-aef0-ec1f09277d2a | celecoxib | 8.5 Geriatric Use
+
+Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions. If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [
+
+  see Warnings and Precautions (
+
+   5.1,
+
+   5.2, 
+
+   5.3,
+                              5.6,
+
+   5.13)
+
+  ].
+
+                        Of the total number of patients who received celecoxib capsules in pre-approval clinical trials, more than 3,300 were 65-74 years of age, while approximately 1,300 additional patients were 75 years and over. No substantial differences in effectiveness were observed between these subjects and younger subjects. In clinical studies comparing renal function as measured by the GFR, BUN and creatinine, and platelet function as measured by bleeding time and platelet aggregation, the results were not different between elderly and young volunteers. However, as with other NSAIDs, including those that selectively inhibit COX-2, there have been more spontaneous post-marketing reports of fatal GI events and acute renal failure in the elderly than in younger patients [
+
+  see Warnings and Precautions (
+
+   5.4,
+
+   5.6)
+
+  ].

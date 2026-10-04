@@ -1,0 +1,11 @@
+DailyMed 86a3e612-3bfe-432f-9afd-972bb8a6644e | Naproxen | 12.1 Mechanism of Action
+
+Naproxen has analgesic, anti-inflammatory, and antipyretic properties. Naproxen sodium has been developed as a more rapidly absorbed formulation of naproxen for use as an analgesic.
+
+                        The mechanism of action of naproxen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+                        Naproxen is a potent inhibitor of prostaglandin synthesis
+
+  in vitro. Naproxen concentrations reached during therapy have produced
+
+  in vivo effects. Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models. Prostaglandins are mediators of inflammation. Because naproxen is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.

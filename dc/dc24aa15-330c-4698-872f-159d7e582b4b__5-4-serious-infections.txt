@@ -1,0 +1,9 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 5.4 Serious Infections
+
+Patients receiving immunosuppressants, including mycophenolic acid delayed release, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, and new or reactivated viral infections, including opportunistic infections [see
+
+  Warnings and Precautions (
+
+   5.5)].
+
+  These infections may lead to serious, including fatal outcomes. Because of the danger of oversuppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution.

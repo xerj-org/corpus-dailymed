@@ -1,0 +1,7 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 7.4 Other Drugs Metabolized by Cytochrome P450 Isoenzymes
+
+In vivo drug-interaction data show that tolterodine immediate release does not result in clinically relevant inhibition of CYP1A2, 2D6, 2C9, 2C19, or 3A4 as evidenced by lack of influence on the marker drugs caffeine, debrisoquine, S-warfarin, and omeprazole
+  [see
+
+                                 CLINICAL PHARMACOLOGY (12.3)
+                              ].

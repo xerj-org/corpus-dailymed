@@ -1,0 +1,28 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 2.3 Recommended Doses and Schedules
+
+The recommended dosage and administration schedule for PHESGO are shown in Table 1.
+
+                           Table 1: Recommended Dosage and Administration Schedule
+
+                                 Dose |
+                                 Strength |
+                                 Administration Instructions |
+
+                                    Initial dose
+                                  |
+                                 1,200 mg pertuzumab, 600 mg trastuzumab, and 30,000 units hyaluronidase in 15 mL |
+                                 Administer subcutaneously over approximately 8 minutes |
+
+                                  |
+                                 (1,200 mg, 600 mg, and 30,000 units/15 mL) |
+                                  |
+
+                                    Maintenance dose (administer every 3 weeks) |
+                                 600 mg pertuzumab, 600 mg trastuzumab, and 20,000 units hyaluronidase in 10 mL
+
+(600 mg, 600 mg, and 20,000 units/10 mL) |
+                                 Administer subcutaneously over approximately 5 minutes every 3 weeks |
+
+                        No dose adjustments for PHESGO are required for patient body weight or for concomitant chemotherapy regimen.
+
+                        Patients currently receiving intravenous pertuzumab and trastuzumab can transition to PHESGO. In patients receiving intravenous pertuzumab and trastuzumab with < 6 weeks since their last dose, administer PHESGO as a maintenance dose of 600 mg pertuzumab/600 mg trastuzumab and every 3 weeks for subsequent administrations. In patients receiving intravenous pertuzumab and trastuzumab with ≥ 6 weeks since their last dose, administer PHESGO as an initial dose of 1,200 mg pertuzumab/600 mg trastuzumab, followed by a maintenance dose of 600 mg pertuzumab/600 mg trastuzumab every 3 weeks for subsequent administrations.

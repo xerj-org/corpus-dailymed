@@ -1,0 +1,9 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 1 INDICATIONS AND USAGE
+
+Kerendia is indicated to:
+
+                     reduce the risk of sustained estimated glomerular filtration rate (eGFR) decline, end-stage kidney disease, cardiovascular death, non-fatal myocardial infarction, and hospitalization for heart failure in adults with chronic kidney disease (CKD) associated with Type 2 diabetes mellitus (T2DM) [see Clinical Studies (14.1)].
+
+                        reduce urinary albumin-to-creatinine ratio (UACR), which is expected to reduce the risk of sustained eGFR decline and end-stage kidney disease in adults with CKD associated with Type 1 diabetes mellitus (T1DM) [see Clinical Studies (14.2)].
+
+                     reduce the risk of cardiovascular death, hospitalization for heart failure, and urgent heart failure visits in adults with heart failure with left ventricular ejection fraction (LVEF) ≥ 40% [see Clinical Studies (14.3)].

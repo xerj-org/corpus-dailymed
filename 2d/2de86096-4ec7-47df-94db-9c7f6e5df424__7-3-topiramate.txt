@@ -1,0 +1,3 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 7.3 Topiramate
+
+Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.6, 5.9, 5.10)]. Concomitant administration of topiramate with valproate has also been associated with hypothermia in patients who have tolerated either drug alone. It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.9, 5.11)].

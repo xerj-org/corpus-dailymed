@@ -1,0 +1,13 @@
+DailyMed dcd2ac5e-a42b-4fcc-ab0a-0cef02de1560 | OstiCoxib | Precautions:
+
+This product cannot be accurately dosed in dogs less than 12.5 pounds in body weight.
+
+ Consider appropriate washout times when switching from one NSAID to another or when switching from corticosteroid use to NSAID use.
+
+                  As a class, cyclooxygenase inhibitory NSAIDs may be associated with renal, gastrointestinal and hepatic toxicity. Sensitivity to drug-associated adverse events varies with the individual patient. Dogs that have experienced adverse reactions from one NSAID may experience adverse reactions from another NSAID. Patients at greatest risk for adverse events are those that are dehydrated, on concomitant diuretic therapy, or those with existing renal, cardiovascular, and/or hepatic dysfunction. Concurrent administration of potentially nephrotoxic drugs should be carefully approached and monitored. NSAIDs may inhibit the prostaglandins that maintain normal homeostatic function. Such anti-prostaglandin effects may result in clinically significant disease in patients with underlying or pre-existing disease that has not been previously diagnosed. Since NSAIDS possess the potential to produce gastrointestinal ulceration and/or gastrointestinal perforation, concomitant use of OstiCoxib with other anti-inflammatory drugs, such as NSAIDs or corticosteroids, should be avoided. The concomitant use of protein bound drugs with OstiCoxib has not been studied in dogs. Commonly used protein-bound drugs include cardiac, anticonvulsant, and behavioral medications. The influence of concomitant drugs that may inhibit the metabolism of OstiCoxib has not been evaluated. Drug compatibility should be monitored in patients requiring adjunctive therapy.
+
+                  If additional pain medication is needed after the daily dose of OstiCoxib, a non-NSAID class of analgesic may be necessary.
+
+                  Appropriate monitoring procedures should be employed during all surgical procedures. Anesthetic drugs may affect renal perfusion, approach concomitant use of anesthetics and NSAIDs cautiously. The use of parenteral fluids during surgery should be considered to decrease potential renal complications when using NSAIDs perioperatively.
+
+                  The safe use of OstiCoxib in pregnant, lactating or breeding dogs has not been evaluated.

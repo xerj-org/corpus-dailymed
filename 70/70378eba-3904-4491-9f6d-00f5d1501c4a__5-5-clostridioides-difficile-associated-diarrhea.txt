@@ -1,0 +1,5 @@
+DailyMed 70378eba-3904-4491-9f6d-00f5d1501c4a | Pantoprazole Sodium | 5.5 Clostridioides difficile-Associated Diarrhea
+
+Published observational studies suggest that PPI therapy like Pantoprazole Sodium for Injection may be associated with an increased risk of Clostridioides difficile associated diarrhea, especially in hospitalized patients. This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
+
+                        Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.

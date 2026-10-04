@@ -1,0 +1,194 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 2.2 Dosage Modifications for Adverse Reactions
+
+The recommended dose reductions for adverse reactions are listed in Table 1.
+
+                        Permanently discontinue ZEPZELCA in patients who require a dose interruption of greater than two weeks and in patients who are unable to tolerate the second dose reduction.
+
+                           Table 1: Dose Reduction for ZEPZELCA for Adverse Reactions
+
+                                       Dose Reduction
+
+                                  |
+
+                                       Total Dose
+
+                                  |
+
+                                       First
+
+                                       Second
+
+                                  |
+
+                                    2.6 mg/m2 every 21 days
+
+                                    2 mg/m2 every 21 days
+
+                                  |
+
+                        Dosage modifications for ZEPZELCA for adverse reactions are presented in Table 2.
+
+                           Table 2: Dosage Modifications for ZEPZELCA for Adverse Reactions
+
+                                    a National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.0. |
+
+                                       b Patients who have not received primary prophylaxis of G-CSF with isolated Grade 4 neutropenia (neutrophil count less than 500 cells/mm3) may receive G-CSF prophylaxis rather than undergo lurbinectedin dose reduction.
+                                  |
+
+                                       Adverse Reaction
+
+                                  |
+
+                                       Severitya
+
+                                  |
+
+                                       Dosage Modification
+
+                                  |
+
+                                    Neutropeniab
+
+                                       [see Warnings and Precautions (5.1)]
+
+                                  |
+
+                                    Grade 4
+
+                                        or
+
+                                    Any grade febrile neutropenia
+
+                                  |
+
+                                          •
+
+Withhold ZEPZELCA until absolute neutrophil count (ANC) is ≥ 1,500 cells/mm3
+
+                                          •
+
+Resume ZEPZELCA at a reduced dose
+
+                                  |
+
+                                    Thrombocytopenia
+
+                                       [see Warnings and Precautions (5.1)]
+
+                                  |
+
+                                    Grade 3 with bleeding
+
+                                        or
+
+                                    Grade 4
+
+                                  |
+
+                                          •
+
+Withhold ZEPZELCA until platelet ≥ 100,000/mm3
+
+                                          •
+
+Resume ZEPZELCA at reduced dose
+
+                                  |
+
+                                    Hepatotoxicity
+
+                                       [see Warnings and Precautions (5.2)]
+
+                                  |
+
+                                    Grade 2
+
+                                  |
+
+                                          •
+
+Withhold ZEPZELCA until Grade ≤ 1
+
+                                          •
+
+Resume ZEPZELCA at same dose
+
+                                  |
+
+                                    Grade ≥ 3
+
+                                  |
+
+                                          •
+
+Withhold ZEPZELCA until Grade ≤ 1
+
+                                          •
+
+Resume ZEPZELCA at reduced dose or permanently discontinue
+
+                                  |
+
+                                    Rhabdomyolysis
+
+                                       [see Warnings and Precautions (5.4)]
+
+                                  |
+
+                                    Grade 2
+
+                                  |
+
+                                          •
+
+Withhold ZEPZELCA until Grade ≤ 1
+
+                                          •
+
+Resume ZEPZELCA at same dose
+
+                                  |
+
+                                    Grade ≥ 3
+
+                                  |
+
+                                          •
+
+Permanently discontinue ZEPZELCA
+
+                                  |
+
+                                    Other Adverse Reactions
+
+                                       [see Adverse Reactions (6.1) and Postmarketing Experience (6.2)]
+
+                                  |
+
+                                    Grade 2
+
+                                  |
+
+                                          •
+
+Withhold ZEPZELCA until Grade ≤ 1
+
+                                          •
+
+Resume ZEPZELCA at same dose
+
+                                  |
+
+                                    Grade ≥ 3
+
+                                  |
+
+                                          •
+
+Withhold ZEPZELCA until Grade ≤ 1
+
+                                          •
+
+Resume ZEPZELCA at reduced dose or permanently discontinue
+
+                                  |

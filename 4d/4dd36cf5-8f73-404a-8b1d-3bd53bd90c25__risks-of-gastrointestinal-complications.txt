@@ -1,0 +1,9 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Risks of Gastrointestinal Complications
+
+PERCOCET is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus. 
+
+                        The administration of PERCOCET, or other opioids may obscure the diagnosis or clinical course in patients with acute abdominal conditions.
+
+                        The oxycodone in PERCOCET may cause spasm of the sphincter of Oddi. Opioids may cause increases in serum amylase. Regularly evaluate patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+                        Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids. The risk of OIED may increase as the dose and/or duration of opioids increases. Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain), and if necessary, adjust opioid therapy as clinically appropriate [see CLINICAL PHARMACOLOGY].

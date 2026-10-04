@@ -1,0 +1,5 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.13 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
+
+DCiprofloxacin is indicated in pediatric patients (less than 18 years of age) only for cUTI, prevention of inhalational anthrax (post exposure), and plague [see Indications and Usage (1.7, 1.8, 1.11)]. An increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues, has been observed [see Adverse Reactions (6.1)].
+
+                        In pre-clinical studies, oral administration of ciprofloxacin caused lameness in immature dogs. Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage. Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].

@@ -1,0 +1,3 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Hemolytic Anemia
+
+An immune mediated hemolytic anemia has been observed in patients receiving cephalosporin class antibacterials including ceftriaxone. Severe cases of hemolytic anemia, including fatalities, have been reported during treatment in both adults and children. If a patient develops anemia while on ceftriaxone, the diagnosis of a cephalosporin associated anemia should be considered and ceftriaxone stopped until the etiology is determined.

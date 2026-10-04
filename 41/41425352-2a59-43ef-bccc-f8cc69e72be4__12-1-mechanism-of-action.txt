@@ -1,0 +1,7 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 12.1 Mechanism of Action
+
+Piroxicam has analgesic, anti-inflammatory, and antipyretic properties.
+
+                        The mechanism of action of Piroxicam Capsules, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+                        Piroxicam is a potent inhibitor of prostaglandin (PG) synthesis in vitro. Piroxicam concentrations reached during therapy have produced in vivo effects. Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models. Prostaglandins are mediators of inflammation. Because piroxicam is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.

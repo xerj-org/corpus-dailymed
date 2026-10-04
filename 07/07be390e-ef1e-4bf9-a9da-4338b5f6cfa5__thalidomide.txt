@@ -1,0 +1,3 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Thalidomide
+
+Co-administration with thalidomide should be employed cautiously, as toxic epidermal necrolysis has been reported with concomitant use.

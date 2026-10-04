@@ -1,0 +1,5 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 11 DESCRIPTION
+
+Dapagliflozin, an inhibitor of SGLT2, is described chemically as (2S,3R,4R,5S,6R)-2-{4-chloro-3-[(4-ethoxyphenyl)methyl]phenyl}-6-(hydroxymethyl)oxane-3,4,5-triol. The molecular formula is C21H25ClO6 and the molecular weight is 408.88. The structural formula is:
+
+                  Dapagliflozin tablets, USP are available as a film-coated tablet for oral administration containing 5 mg dapagliflozin or 10 mg dapagliflozin, and the following inactive ingredients: anhydrous lactose, colloidal silicon dioxide, crospovidone, microcrystalline cellulose, sodium lauryl sulfate, sodium stearyl fumarate. In addition, the film coating contains the following inactive ingredients: iron oxide yellow, polyethylene glycol 3350, polyvinyl alcohol-part hydrolyzed, talc, and titanium dioxide.

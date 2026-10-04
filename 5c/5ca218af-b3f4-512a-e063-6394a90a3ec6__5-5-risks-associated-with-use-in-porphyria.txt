@@ -1,0 +1,11 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 5.5 Risks Associated with Use in Porphyria
+
+Administration of hydroxychloroquine sulfate tablets to patients with porphyria may exacerbate porphyria. Avoid hydroxychloroquine sulfate tablets in patients with porphyria.
+
+                           Hepatotoxicity Associated with Porphyria Cutanea Tarda
+
+                        Cases of hepatotoxicity have been reported when hydroxychloroquine was used in patients with porphyria cutanea tarda (PCT). Patients received dosages ranging from 200 mg twice weekly to 400 mg daily. Most of the PCT-related cases presented with marked elevations in transaminases (>20 times upper limit of the reference range) within days to a month of hydroxychloroquine initiation. In some cases, PCT was diagnosed only after the occurrence of treatment-induced liver injury, when hydroxychloroquine was prescribed for an approved indication. Some of the cases were associated with other risk factors for hepatic injury (e.g., alcohol use, concomitant hepatotoxic medications).
+
+                        Measure liver tests promptly in patients who report symptoms that may indicate liver injury, such as fatigue, rash, nausea, dark urine, or jaundice. In this clinical context, if the patient is found to have abnormal serum liver tests (e.g., ALT level greater than three times the upper limit of the reference range, total bilirubin greater than two times the upper limit of the reference range), interrupt treatment with Hydroxychloroquine sulfate tablets, and investigate further to establish the probable cause.
+
+                        The safety and effectiveness of hydroxychloroquine sulfate tablets for the treatment of PCT have not been established and hydroxychloroquine sulfate tablets are not approved for this use.

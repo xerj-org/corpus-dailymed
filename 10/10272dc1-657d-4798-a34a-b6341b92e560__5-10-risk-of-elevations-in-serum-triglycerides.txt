@@ -1,0 +1,5 @@
+DailyMed 10272dc1-657d-4798-a34a-b6341b92e560 | propofol | 5.10 Risk of Elevations in Serum Triglycerides
+
+Propofol injectable emulsion use requires caution when administered to patients with disorders of lipid metabolism such as primary hyperlipoproteinemia, diabetic hyperlipemia, and pancreatitis.
+
+                        Since propofol injectable emulsion is formulated in an oil-in-water emulsion, elevations in serum triglycerides may occur when propofol injectable emulsion is administered for extended periods of time. Patients at risk of hyperlipidemia should be monitored for increases in serum triglycerides or serum turbidity. Administration of propofol injectable emulsion should be adjusted if fat is being inadequately cleared from the body. A reduction in the quantity of concurrently administered lipids is indicated to compensate for the amount of lipid infused as part of the propofol injectable emulsion formulation; 1 mL of propofol injectable emulsion contains approximately 0.1 g of fat (1.1 kcal).

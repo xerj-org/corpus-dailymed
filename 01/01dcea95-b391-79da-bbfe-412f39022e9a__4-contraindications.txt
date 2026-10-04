@@ -1,0 +1,7 @@
+DailyMed 01dcea95-b391-79da-bbfe-412f39022e9a | Prucalopride | 4 CONTRAINDICATIONS
+
+Prucalopride tablets are contraindicated in patients with:
+
+                     A history of hypersensitivity to prucalopride tablets. Reactions including dyspnea, rash, pruritus, urticaria, and facial edema have been observed [see Adverse Reactions (6.2)].
+
+                     Intestinal perforation or obstruction due to structural or functional disorder of the gut wall, obstructive ileus, severe inflammatory conditions of the intestinal tract such as Crohn’s disease, ulcerative colitis, and toxic megacolon/megarectum.

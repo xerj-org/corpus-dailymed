@@ -1,0 +1,9 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 8.4 Pediatric Use
+
+The safety and efficacy of maraviroc have been established in pediatric patients aged from aged 2 to less than 18 years. The use of maraviroc in pediatric patients was supported by pharmacokinetic and safety data described below and by previous demonstration of efficacy in adult patients [see Indications and Usage (1)], Dosage and Administration (2.4)].
+
+                           HIV-1-Infected Pediatric Patients Aged 2 to Less Than 18 Years: The safety, pharmacokinetic profile, and antiviral activity of maraviroc were evaluated in treatment-experienced, CCR5-tropic, HIV-1-infected pediatric subjects aged 2 to less than 18 years weighing at least 10 kg in an open-label, multicenter clinical trial, A4001031 [see Adverse Reactions (6.1), Clinical Studies (14.2)]. Pharmacokinetics were evaluated in a total of 98 pediatric subjects: 85 subjects received maraviroc and concomitant medications that included potent CYP3A inhibitors with or without potent CYP3A inducers, 10 subjects received maraviroc and noninteracting medications (not containing potent CYP3A inhibitors or potent CYP3A inducers), and three subjects received maraviroc and medications that included potent CYP3A inducers without potent CYP3A inhibitors [see Clinical Pharmacology (12.3)].
+
+                        There are insufficient data to make dosing recommendations for use of maraviroc in pediatric patients concomitantly receiving potent CYP3A inhibitors and weighing less than 10 kg, or in any pediatric patients concomitantly receiving potent CYP3A inducers without a potent CYP3A inhibitor [see Dosage and Administration (2.4, 2.5)].
+
+                        Maraviroc tablets are not recommended in pediatric patients weighing less than 10 kg.

@@ -1,0 +1,137 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 2.14 Dose Adjustment for Hematologic Adverse Reactions
+
+Dose reduction or treatment interruptions for severe neutropenia and thrombocytopenia are recommended as indicated in Table 1.
+
+                           Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
+
+                                    ASM associated with eosinophilia (starting dose 100 mg)
+
+                                  |
+
+                                    ANC less than 1 x 109/L
+
+                                    and/or
+
+                                    platelets less than 50 x 109/L
+
+                                  |
+
+                                    1. Stop imatinib mesylate tablets     until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L
+
+                                    2.  Resume treatment with imatinib        mesylate tablets at previous dose      (i.e., dose before severe adverse     reaction)
+
+                                  |
+
+                                    HES/CEL with FIP1L1-PDGFRα fusion kinase (starting dose 100 mg)
+
+                                  |
+
+                                    ANC less than 1 x 109/L
+
+                                    and/or
+
+                                    platelets less than 50 x 109/L
+
+                                  |
+
+                                    1.  Stop imatinib mesylate tablets      until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L
+
+                                    2.  Resume treatment with imatinib      mesylate tablets at previous dose      (i.e., dose before severe adverse      reaction)
+
+                                  |
+
+                                    Chronic Phase CML (starting dose 400 mg)
+
+                                    MDS/MPD, ASM and HES/CEL (starting dose 400 mg)
+
+                                    GIST (starting dose 400 mg)
+
+                                  |
+
+                                    ANC less than 1 x 109/L
+
+                                    and/or
+
+                                    platelets less than 50 x 109/L
+
+                                  |
+
+                                    1.  Stop imatinib mesylate tablets      until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L
+
+                                    2.  Resume treatment with imatinib      mesylate tablets at the original      starting dose of 400 mg
+
+                                    3.  If recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate tablets at a reduced dose of 300 mg
+
+                                  |
+
+                                    Ph+ CML: Accelerated Phase and Blast Crisis (starting dose 600 mg)
+
+Ph+ ALL
+
+(starting dose 600 mg)
+
+                                  |
+
+                                    ANC less than 0.5 x 109/L
+
+                                    and/or
+
+                                    platelets less than 10 x 109/L
+
+                                  |
+
+                                    1.  Check if cytopenia is related to      leukemia (marrow aspirate or      biopsy)
+
+                                    2.  If cytopenia is unrelated to      leukemia, reduce dose of imatinib      mesylate tablets to 400 mg
+
+                                    3. If cytopenia persists 2 weeks,     reduce further to 300 mg
+
+                                    4.  If cytopenia persists 4 weeks and      is still unrelated to leukemia, stop imatinib mesylate tablets until ANC      greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x      109/L and then resume treatment      at 300 mg
+
+                                  |
+
+                                    DFSP
+
+(starting dose 800 mg)
+
+                                  |
+
+                                    ANC less than 1 x 109/L
+
+                                    and/or
+
+                                    platelets less than 50 x 109/L
+
+                                  |
+
+                                    1.  Stop  imatinib mesylate tablets      until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L
+
+                                    2.  Resume treatment with imatinib      mesylate tablets at 600 mg
+
+                                    3.  In the event of recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate tablets at reduced dose of 400 mg
+
+                                  |
+
+                                    Pediatric newly diagnosed chronic phase CML
+
+(starting dose 340 mg/m2)
+
+                                  |
+
+                                    ANC less than 1 x 109/L
+
+                                    and/or
+
+                                    platelets less than 50 x 109/L
+
+                                  |
+
+                                    1.  Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L
+
+                                    2.  Resume treatment with imatinib mesylate tablets at previous dose (i.e., dose before severe adverse reaction)
+
+                                    3.  In the event of recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate tablets at reduced dose of 260 mg/m2
+
+                                  |
+
+                                 Abbreviations: ANC, absolute neutrophil count; ASM, aggressive systemic mastocytosis; CEL, chronic eosinophilic leukemia; CML, chronic myeloid leukemia; DFSP, dermatofibrosarcoma protuberans; HES, hypereosinophilic syndrome; MDS/MPD, myelodysplastic/myeloproliferative diseases; PDGFR, platelet-derived growth factor receptor; Ph+ CML, Philadelphia chromosome positive chronic myeloid leukemia; Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia. |

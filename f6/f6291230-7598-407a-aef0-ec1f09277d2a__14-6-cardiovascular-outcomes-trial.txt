@@ -1,0 +1,315 @@
+DailyMed f6291230-7598-407a-aef0-ec1f09277d2a | celecoxib | 14.6 Cardiovascular Outcomes Trial
+
+Design
+
+  The PRECISION trial was a double-blind randomized controlled trial of cardiovascular safety in OA and RA patients with or at high risk for cardiovascular disease comparing celecoxib with naproxen and ibuprofen. Patients were randomized to a starting dose of 100 mg twice daily of celecoxib, 600 mg three times daily of ibuprofen, or 375 mg twice daily of naproxen, with the option of escalating the dose as needed for pain management. Based on labeled doses, OA patients randomized to celecoxib could not dose escalate.
+
+                        The primary endpoint, the Antiplatelet Trialists’ Collaboration (APTC) composite, was an independently adjudicated composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke with 80% power to evaluate non-inferiority. All patients were prescribed open-label esomeprazole (20-40 mg) for gastroprotection. Treatment randomization was stratified by baseline low-dose aspirin use.
+
+                        Additionally, there was a 4-month substudy assessing the effects of the three drugs on blood pressure as measured by ambulatory monitoring.
+
+                           Results
+
+  Among subjects with OA, only 0.2% (17/7259) escalated celecoxib to the 200 mg twice daily dose, whereas 54.7% (3946/7208) escalated ibuprofen to 800 mg three times daily, and 54.8% (3937/7178) escalated naproxen to the 500 mg twice daily dose. Among subjects with RA, 55.7% (453/813) escalated celecoxib to the 200 mg twice daily dose, 56.5% (470/832) escalated ibuprofen to 800 mg three times daily, and 54.6% (432/791) escalated naproxen to the 500 mg twice daily dose; however, the RA population accounted for only 10% of the trial population.
+
+  Because relatively few celecoxib patients overall (5.8% [470/8072]) dose-escalated to 200 mg twice daily, the results of the PRECISION trial are not suitable for determining the relative CV safety of celecoxib at 200 mg twice daily compared to ibuprofen and naproxen at the doses taken.
+
+                           Primary Endpoint
+
+                           The trial had two prespecified analysis populations:
+
+  • Intent-to-treat population (ITT): Comprised of all randomized subjects followed for a maximum of 30 months
+
+  • Modified Intent-to-treat population (mITT): Comprised of all randomized subjects who received at least one dose of study medication and had at least one post-baseline visit followed until the earlier of treatment discontinuation plus 30 days, or 43 months
+
+                        Celecoxib, at the 100 mg twice daily dose, as compared with either naproxen or ibuprofen at the doses taken, met all four prespecified non-inferiority criteria (p<0.001 for non-inferiority in both comparisons) for the APTC endpoint, a composite of cardiovascular death (including hemorrhagic death), non-fatal myocardial infarction, and non-fatal stroke
+
+  [see Table 5].Non-inferiority was prespecified as a hazard ratio (HR)
+
+  of ≤1.12 in both ITT and mITT analyses, and upper 95% CI of ≤1.33 for ITT analysis and ≤1.40 for mITT analysis.
+
+  The primary analysis results for ITT and mITT are described in Table 5.
+
+                           Table 5. Primary Analysis of the Adjudicated APTC Composite Endpoint
+
+                                    Intent-To-Treat Analysis (ITT, through month 30)
+
+                                  |
+
+                                  |
+
+                                    Celecoxib
+
+                                  |
+
+                                    Ibuprofen
+
+                                  |
+
+                                    Naproxen
+
+                                  |
+
+                                 N
+
+                                  |
+                                 8,072
+
+                                  |
+                                 8,040
+
+                                  |
+                                 7,969
+
+                                  |
+
+                                 Subjects with Events
+
+                                  |
+                                 188 (2.3%)
+
+                                  |
+                                 218 (2.7%)
+
+                                  |
+                                 201 (2.5%)
+
+                                  |
+
+                                 Pairwise Comparison
+
+                                  |
+
+                                    Celecoxib vs. Naproxen
+
+                                  |
+
+                                    Celecoxib vs. Ibuprofen
+
+                                  |
+
+                                    Ibuprofen vs. Naproxen
+
+                                  |
+
+                                 HR (95% CI)
+
+                                  |
+                                 0.93 (0.76, 1.13)
+
+                                  |
+                                 0.86 (0.70, 1.04)
+
+                                  |
+                                 1.08 (0.89, 1.31)
+
+                                  |
+
+                                    Modified Intent-To-Treat Analysis (mITT, on treatment plus 30 days, through month 43)
+
+                                  |
+
+                                  |
+
+                                    Celecoxib
+
+                                  |
+
+                                    Ibuprofen
+
+                                  |
+
+                                    Naproxen
+
+                                  |
+
+                                 N
+
+                                  |
+                                 8,030
+
+                                  |
+                                 7,990
+
+                                  |
+                                 7,933
+
+                                  |
+
+                                 Subjects with Events
+
+                                  |
+                                 134 (1.7%)
+
+                                  |
+                                 155 (1.9%)
+
+                                  |
+                                 144 (1.8%)
+
+                                  |
+
+                                 Pairwise Comparison
+
+                                  |
+
+                                    Celecoxib vs. Naproxen
+
+                                  |
+
+                                    Celecoxib vs. Ibuprofen
+
+                                  |
+
+                                    Ibuprofen vs. Naproxen
+
+                                  |
+
+                                 HR (95% CI)
+
+                                  |
+                                 0.90 (0.72, 1.14)
+
+                                  |
+                                 0.81 (0.64, 1.02)
+
+                                  |
+                                 1.12 (0.89, 1.40)
+
+                                  |
+
+                           Table 6. Summary of the Adjudicated APTC Components*
+
+                                    Intent-To-Treat Analysis (ITT, through month 30)
+
+                                  |
+
+                                  |
+
+                                    Celecoxib
+
+                                  |
+
+                                    Ibuprofen
+
+                                  |
+
+                                    Naproxen
+
+                                  |
+
+                                 N
+
+                                  |
+                                 8,072
+
+                                  |
+                                 8,040
+
+                                  |
+                                 7,969
+
+                                  |
+
+                                 CV Death
+
+                                  |
+                                 68 (0.8%)
+
+                                  |
+                                 80 (1.0%)
+
+                                  |
+                                 86 (1.1%)
+
+                                  |
+
+                                 Non-Fatal MI
+
+                                  |
+                                 76 (0.9%)
+
+                                  |
+                                 92 (1.1%)
+
+                                  |
+                                 66 (0.8%)
+
+                                  |
+
+                                 Non-Fatal Stroke
+
+                                  |
+                                 51 (0.6%)
+
+                                  |
+                                 53 (0.7%)
+
+                                  |
+                                 57 (0.7%)
+
+                                  |
+
+                                    Modified Intent-To-Treat Analysis (mITT, on treatment plus 30 days, through month 43)
+
+                                  |
+
+                                 N
+
+                                  |
+                                 8,030
+
+                                  |
+                                 7,990
+
+                                  |
+                                 7,933
+
+                                  |
+
+                                 CV Death
+
+                                  |
+                                 35 (0.4%)
+
+                                  |
+                                 51 (0.6%)
+
+                                  |
+                                 49 (0.6%)
+
+                                  |
+
+                                 Non-fatal MI
+
+                                  |
+                                 58 (0.7%)
+
+                                  |
+                                 76 (1.0%)
+
+                                  |
+                                 53 (0.7%)
+
+                                  |
+
+                                 Non-fatal Stroke
+
+                                  |
+                                 43 (0.5%)
+
+                                  |
+                                 32 (0.4%)
+
+                                  |
+                                 45 (0.6%)
+
+                                  |
+
+                        *A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome
+
+  In the ITT analysis population through 30 months, all-cause mortality was 1.6% in the celecoxib group, 1.8% in the ibuprofen group, and 2.0% in the naproxen group.
+
+                           Ambulatory Blood Pressure Monitoring (ABPM) Substudy
+
+  In the PRECISION-ABPM substudy, among the total of 444 analyzable patients at Month 4, celecoxib dosed at 100 mg twice daily decreased mean 24-hour systolic blood pressure (SBP) by 0.3 mmHg, whereas ibuprofen and naproxen at the doses taken increased mean 24-hour SBP by 3.7 and 1.6 mmHg, respectively. These changes resulted in a statistically significant and clinically meaningful difference of 3.9 mmHg (p=0.0009) between celecoxib and ibuprofen and a non-statistically significant difference of 1.8 (p=0.119) mmHg between celecoxib and naproxen

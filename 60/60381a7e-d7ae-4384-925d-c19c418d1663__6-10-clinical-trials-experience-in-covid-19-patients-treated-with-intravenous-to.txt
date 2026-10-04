@@ -1,0 +1,59 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 6.10 Clinical Trials Experience in COVID-19 Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+
+The safety of tocilizumab in hospitalized COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA. The analysis of adverse reactions included a total of 974 patients exposed to tocilizumab. Patients received a single, 60-minute infusion of intravenous tocilizumab 8 mg/kg (maximum dose of 800 mg). If clinical signs or symptoms worsened or did not improve, one additional dose of tocilizumab 8 mg/kg could be administered between 8- 24 hours after the initial dose.
+
+                        Adverse reactions summarized in  Table 3  occurred in at least 3% of tocilizumab-treated patients and more commonly than in patients on placebo in the pooled safety population.
+
+                           Table 3 Adverse Reactions1 Identified From the Pooled COVID-19 Safety Population
+
+                                 Adverse Reaction |
+                                 Tocilizumab
+
+8 mg per kg |
+                                 Placebo |
+
+                                  |
+                                 N = 974
+
+ (%) |
+                                 N = 483
+
+ (%) |
+
+                                 Hepatic Transaminases increased |
+                                 10% |
+                                 8% |
+
+                                 Constipation |
+                                 9 % |
+                                 8% |
+
+                                 Urinary tract infection |
+                                 5% |
+                                 4% |
+
+                                 Hypertension |
+                                 4% |
+                                 1% |
+
+                                 Hypokalaemia |
+                                 4% |
+                                 3% |
+
+                                 Anxiety |
+                                 4% |
+                                 2% |
+
+                                 Diarrhea |
+                                 4% |
+                                 2% |
+
+                                 Insomnia |
+                                 4% |
+                                 3% |
+
+                                 Nausea |
+                                 3% |
+                                 2% |
+
+                        In the pooled safety population, the rates of infection/serious infection events were 30%/19% in patients receiving tocilizumab versus 32%/23% receiving placebo.

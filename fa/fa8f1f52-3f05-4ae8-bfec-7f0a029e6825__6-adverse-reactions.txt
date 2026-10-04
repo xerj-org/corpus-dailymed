@@ -1,0 +1,13 @@
+DailyMed fa8f1f52-3f05-4ae8-bfec-7f0a029e6825 | Pemetrexed | 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+                     Myelosuppression [see Warnings and Precautions (5.1)]
+
+                     Renal failure [see Warnings and Precautions (5.2)]
+
+                     Bullous and exfoliative skin toxicity [see Warning and Precautions (5.3)]
+
+                     Interstitial pneumonitis [see Warnings and Precautions (5.4)]
+
+                     Radiation recall [see Warnings and Precautions (5.5)]

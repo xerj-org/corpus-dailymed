@@ -1,0 +1,5 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 5. 2 Hyper tension
+
+Development of hypertension and worsening of pre-existing hypertension have been reported following the use of CGRP antagonists, including UBRELVY, in the postmarketing setting. Some of the patients who developed new-onset hypertension had risk factors for hypertension. There were cases requiring initiation of pharmacological treatment for hypertension and, in some cases, hospitalization. Hypertension may occur at any time during treatment, but was most frequently reported within 7 days of therapy initiation. The CGRP antagonist was discontinued in many of the reported cases.
+
+                           Monitor patients treated with UBRELVY for new-onset hypertension, or worsening of pre-existing hypertension, and consider whether discontinuation of UBRELVY is warranted if evaluation fails to establish an alternative etiology or blood pressure is inadequately controlled.

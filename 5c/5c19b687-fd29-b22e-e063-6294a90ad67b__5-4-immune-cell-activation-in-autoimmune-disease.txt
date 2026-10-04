@@ -1,0 +1,5 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 5.4 Immune Cell Activation in Autoimmune Disease
+
+Imiquimod activates immune cells
+
+  [see Clinical Pharmacology (12.2)].Carefully monitor patients with pre-existing autoimmune conditions who are using imiquimod cream.

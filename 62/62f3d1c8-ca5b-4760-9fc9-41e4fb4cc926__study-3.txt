@@ -1,0 +1,37 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Study 3
+
+Study 3 was a double-blind, placebo-controlled, parallel-group study conducted at 47 centers in Europe comparing levetiracetam 3000 mg/day (N=180) and placebo (N=104) in patients with refractory partial-onset seizures, with or without secondary generalization, receiving only one concomitant AED. Study drug was given in two divided doses. After a prospective baseline period of 12 weeks, patients were randomized to one of two treatment groups described above. The 16-week treatment period consisted of a 4-week titration period, followed by a 12-week fixed dose evaluation period, during which concomitant AED doses were held constant. The primary measure of effectiveness was a between group comparison of the percent reduction in weekly seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period). Secondary outcome variables included the responder rate (incidence of patients with ≥50% reduction from baseline in partial-onset seizure frequency). Table 9 displays the results of the analysis of Study 3.
+
+                                 Table 9: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 3
+
+                                        |
+
+                                             Placebo
+
+                                             (N=104)
+
+                                        |
+
+                                             Levetiracetam
+
+                                             3000 mg/day
+
+                                             (N=180)
+
+                                        |
+
+                                          Percent reduction in partial seizure frequency over placebo
+
+                                        |
+
+                                          –
+
+                                        |
+
+                                          23.0%Statistically significant versus placebo
+
+                                        |
+
+                              The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 3.
+
+                                 Figure 3: Responder Rate (≥50% Reduction from Baseline) in Study 3

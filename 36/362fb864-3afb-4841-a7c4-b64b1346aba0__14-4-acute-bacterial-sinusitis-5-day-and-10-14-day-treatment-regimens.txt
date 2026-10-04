@@ -1,0 +1,37 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 14.4 Acute Bacterial Sinusitis: 5-day and 10-14 day Treatment Regimens
+
+Levofloxacin is approved for the treatment of acute bacterial sinusitis (ABS) using either 750 mg by mouth x 5 days or 500 mg by mouth once daily x 10–14 days. To evaluate the safety and efficacy of a high dose short course of levofloxacin, 780 outpatient adults with clinically and radiologically determined acute bacterial sinusitis were evaluated in a double-blind, randomized, prospective, multicenter study comparing levofloxacin 750 mg by mouth once daily for five days to levofloxacin 500 mg by mouth once daily for 10 days.
+
+                        Clinical success rates (defined as complete or partial resolution of the pre-treatment signs and symptoms of ABS to such an extent that no further antibiotic treatment was deemed necessary) in the microbiologically evaluable population were 91.4% (139/152) in the levofloxacin 750 mg group and 88.6% (132/149) in the levofloxacin 500 mg group at the test-of-cure (TOC) visit (95% CI [-4.2, 10.0] for levofloxacin 750 mg minus levofloxacin 500 mg).
+
+                        Rates of clinical success by pathogen in the microbiologically evaluable population who had specimens obtained by antral tap at study entry showed comparable results for the five- and ten-day regimens at the test-of-cure visit 22 days post treatment (see Table 14).
+
+                           Table 14: Clinical Success Rate by Pathogen at the TOC in Microbiologically Evaluable Subjects Who Underwent Antral Puncture (Acute Bacterial Sinusitis)
+
+                                  Pathogen
+                                  |
+                                  Levofloxacin
+
+ 750 mg x 5 days
+                                  |
+                                  Levofloxacin
+
+ 500 mg x 10 days
+                                  |
+
+                                  Streptococcus pneumoniae*
+                                  |
+                                  25/27 (92.6%) |
+                                  26/27 (96.3%) |
+
+                                  Haemophilus influenzae*
+                                  |
+                                  19/21 (90.5%) |
+                                  25/27 (92.6%) |
+
+                                  Moraxella catarrhalis*
+                                  |
+                                  10/11 (90.9%) |
+                                  13/13 (100%) |
+
+                        * Note: Forty percent of the subjects in this trial had specimens obtained by sinus endoscopy. The efficacy data for subjects whose specimen was obtained endoscopically were comparable to those presented in the above table.

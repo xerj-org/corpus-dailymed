@@ -1,0 +1,13 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 7.1 MAO Inhibitors (MAOIs)
+
+XADAGO is contraindicated for use with other drugs in the MAOIs class or other drugs that are potent inhibitors of monoamine oxidase (e.g., linezolid, an oxazolidinone antibacterial, which also has reversible nonselective MAO inhibition activity). Co-administration increases the risk of nonselective MAO inhibition, which may lead to hypertensive crisis
+
+  [see
+
+   Contraindications (4) and
+
+   Warnings and Precautions (5.1)]
+
+  . At least 14 days should elapse between discontinuation of XADAGO and initiation of treatment with other MAOIs.
+
+                        Isoniazid has some monoamine oxidase inhibiting activity.  Monitor for hypertension and reaction to dietary tyramine in patients treated concomitantly with isoniazid and XADAGO.

@@ -1,0 +1,7 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | 12.5 Pharmacogenomics
+
+CYP2C19 displays a known genetic polymorphism due to its deficiency in some subpopulations (e.g., approximately 3% of Caucasians and African-Americans and 17% to 23% of Asians are poor metabolizers). Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10 hours in adults, they still have minimal accumulation (23% or less) with once-daily dosing. For adult patients who are CYP2C19 poor metabolizers, no dosage adjustment is needed.
+
+                        Similar to adults, pediatric patients who have the poor metabolizer genotype of CYP2C19 (CYP2C19 *2/*2) exhibited greater than a 6-fold increase in AUC compared to pediatric extensive (CYP2C19 *1/*1) and intermediate (CYP2C19 *1/*x) metabolizers. Poor metabolizers exhibited approximately 10-fold lower apparent oral clearance compared to extensive metabolizers.
+
+                        For known pediatric poor metabolizers, a dose reduction should be considered.

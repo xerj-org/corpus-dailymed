@@ -1,0 +1,5 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.7 Hepatic Impairment
+
+Sugammadex Injection is not metabolized nor excreted by the liver; therefore, dedicated trials in patients with hepatic impairment have not been conducted. Exercise caution when administering Sugammadex Injection to patients with hepatic impairment accompanied by coagulopathy or severe edema
+
+  [see Warnings and Precautions (5.10, 5.14)].

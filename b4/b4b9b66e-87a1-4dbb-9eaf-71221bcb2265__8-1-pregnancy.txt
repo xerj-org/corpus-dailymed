@@ -1,0 +1,43 @@
+DailyMed b4b9b66e-87a1-4dbb-9eaf-71221bcb2265 | mirtazapine | 8.1 Pregnancy
+
+Risk Summary 
+
+  Prolonged experience with mirtazapine in pregnant women, based on published observational studies and postmarketing reports, has not reliably identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There are risks associated with untreated depression in pregnancy
+
+  (see Clinical Considerations).
+
+                            
+
+                        In animal reproduction studies, oral administration of mirtazapine to pregnant rats and rabbits during the period of organogenesis revealed no evidence of teratogenic effects up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg, respectively, based on mg/m
+
+  2body surface area. However, in rats, there was an increase in postimplantation loss at 20 times the MRHD based on mg/m
+
+  2body surface area. Oral administration of mirtazapine to pregnant rats during pregnancy and lactation resulted in an increase in pup deaths and a decrease in pup birth weights at doses 20 times the MRHD based on mg/m
+
+  2body surface area
+
+  (see Data). 
+
+                            
+
+  The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Clinical Considerations 
+
+                           Disease-Associated Maternal and/or Embryo/Fetal Risk 
+
+  Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants. This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy. Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+                           Data 
+
+                           Animal Data 
+
+  Mirtazapine was administered orally to pregnant rats and rabbits during the period of organogenesis at doses of 2.5, 15, and 100 mg/kg/day and 2.5, 10, and 40 mg/kg/day, respectively, which are up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg based on mg/m
+
+  2body surface area, respectively. No evidence of teratogenic effects was observed. However, in rats, there was an increase in postimplantation loss in dams treated with mirtazapine at 100 mg/kg/day which is 20 times the MRHD based on mg/m
+
+  2body surface area. Oral administration of mirtazapine at doses of 2.5, 15, and 100 mg/kg/day to pregnant rats during pregnancy and lactation resulted in an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights at 20 times the MRHD based on mg/m
+
+  2 body surface area. The cause of these deaths is not known. The no effect dose level is 3 times the MRHD based on mg/m
+
+  2body surface area.

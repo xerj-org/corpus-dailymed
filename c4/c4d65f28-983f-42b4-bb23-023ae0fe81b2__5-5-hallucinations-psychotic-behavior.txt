@@ -1,0 +1,11 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 5.5 Hallucinations / Psychotic Behavior
+
+Patients with a major psychotic disorder should ordinarily not be treated with XADAGO because of the risk of exacerbating the psychosis with an increase in central dopaminergic tone. In addition, treatments for psychosis that antagonize the effects of dopaminergic medications may exacerbate the symptoms of PD
+
+  [see
+
+   Drug Interactions (7.7)]
+
+  .
+
+                        Consider dosage reduction or stopping the medication if a patient develops hallucinations or psychotic-like behaviors while taking XADAGO.

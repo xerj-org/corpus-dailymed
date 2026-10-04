@@ -1,0 +1,15 @@
+DailyMed b4b9b66e-87a1-4dbb-9eaf-71221bcb2265 | mirtazapine | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of mirtazapine tablets. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. 
+
+                           Cardiac disorders: ventricular arrhythmia (Torsades de Pointes)
+
+                           Endocrine disorders:hyperprolactinemia (and related symptoms, e.g., galactorrhea and gynecomastia) 
+
+                           Musculoskeletal and connective tissue disorders:increased creatine kinase blood levels and rhabdomyolysis 
+
+                           Psychiatric disorders:somnambulism (ambulation and other complex behaviors out of bed)
+
+                           Reproductive system and breast disorders:priapism 
+
+                           Skin and subcutaneous tissue disorders: severe skin reactions, including DRESS, Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis

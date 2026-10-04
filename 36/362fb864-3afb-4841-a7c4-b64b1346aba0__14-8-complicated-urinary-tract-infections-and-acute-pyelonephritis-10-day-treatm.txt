@@ -1,0 +1,52 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 14.8 Complicated Urinary Tract Infections and Acute Pyelonephritis: 10-day Treatment Regimen
+
+To evaluate the safety and efficacy of the 250 mg dose, 10 day regimen of levofloxacin, 567 patients with uncomplicated UTI, mild-to-moderate cUTI, and mild-to-moderate AP were enrolled in a randomized, double-blind, multicenter clinical trial conducted in the US from June 1993 to January 1995 comparing levofloxacin 250 mg orally once daily for 10 days (285 patients) with ciprofloxacin 500 mg orally twice daily for 10 days (282 patients). Patients with a resistant pathogen, recurrent UTI, women over age 55 years, and with an indwelling catheter were initially excluded, prior to protocol amendment which took place after 30% of enrollment. Microbiological efficacy was measured by bacteriologic eradication of the baseline organism(s) at 1–12 days post-therapy in patients with a pathogen identified at baseline.
+
+                        The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC) visit for the group of all patients with a documented pathogen at baseline (modified intent to treat or mITT) and the group of patients in the mITT population who closely followed the protocol (Microbiologically Evaluable) are summarized in Table 18.
+
+                           Table 18: Bacteriological Eradication Overall (cUTI or AP) at Test-Of-Cure*
+
+                                  |
+                                  |
+                                  |
+
+                                   |
+                                  Levofloxacin
+
+                                    250 mg once daily for 10 days  |
+                                  Ciprofloxacin
+
+                                    500 mg twice daily for 10 days |
+
+                                   |
+                                 n/N |
+                                  % |
+                                 n/N |
+                                 % 
+
+                                  |
+
+                                    mITT Population†
+                                      |
+                                 174/209 |
+                                  83.3 |
+                                 184/219 |
+                                  84.0
+
+                                  |
+
+                                    Microbiologically Evaluable Population‡
+
+                                  |
+                                 164/177 |
+                                  92.7 |
+                                 159/171 |
+                                  93.0 
+
+                                  |
+
+                        * 1–9 days posttherapy for 30% of subjects enrolled prior to a protocol amendment; 5–12 days posttherapy for 70% of subjects.
+
+                        † The mITT population included patients who had a pathogen isolated at baseline. Patients with missing response were counted as failures in this analysis.
+
+                        ‡ The Microbiologically Evaluable population included mITT patients who met protocol-specified evaluability criteria.

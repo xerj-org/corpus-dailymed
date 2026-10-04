@@ -1,0 +1,9 @@
+DailyMed c05ee6a5-c98b-45f4-83fd-40781639d653 | DigiFab | 14 CLINICAL STUDIES
+
+One prospective multi-center safety, efficacy and pharmacokinetic study in patients presenting with life-threatening digoxin toxicity was conducted in U.S. and Finland.
+
+                  The objective of the study was to demonstrate safety, pharmacokinetics, and clinical response of DIGIFAB in patients. Results were compared to historical data on Digibind
+
+  ®. Fifteen patients received doses of DIGIFAB based on its theoretical binding capacity for digoxin, and based on the known amount of digoxin ingested or on blood concentrations of digoxin at the time of admission.
+
+                  Serum free digoxin concentrations fell to undetectable concentrations in all patients following DIGIFAB administration. Ten of the 15 patients studied who had baseline ECG abnormalities improved within 4 hours after the DIGIFAB infusion. The remaining 5 patients who had baseline ECG abnormalities remained unchanged throughout the 24-hour assessment period, and in one case through the 30-day follow up period. Seven out of the 15 patients (47%) studied had complete resolution of digoxin toxicity within 4 hours of DIGIFAB administration, and 14 patients (93%) were classified as having resolved their digoxin toxicity by 20 hours. In this study, where 2/15 patients had serum available for human anti-ovine antibody determination, there was no measurable immune response.

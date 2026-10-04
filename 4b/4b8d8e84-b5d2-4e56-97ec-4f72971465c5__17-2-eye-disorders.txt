@@ -1,0 +1,3 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 17.2 Eye Disorders
+
+Inform patients that blurred vision, glaucoma and cataracts are associated with nasal and inhaled corticosteroid use.  Patients should inform their healthcare providers if a change in vision is noted while using QNASL Nasal Aerosol [see Warnings and Precautions (5.2)].

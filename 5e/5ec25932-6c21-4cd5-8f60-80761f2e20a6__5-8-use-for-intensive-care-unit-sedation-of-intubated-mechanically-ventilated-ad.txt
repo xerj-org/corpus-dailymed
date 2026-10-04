@@ -1,0 +1,13 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 5.8 Use for Intensive Care Unit Sedation of Intubated, Mechanically Ventilated Adult Patients
+
+The administration of propofol injectable emulsion should be initiated as a continuous infusion and changes in the rate of administration made slowly (>5 min) in order to minimize hypotension and avoid acute overdosage [see Overdosage (10) and Dosage and Administration (2.5)].
+
+                        Patients should be monitored for early signs of significant hypotension and/or cardiovascular depression, which may be profound. These effects are responsive to discontinuation of propofol injectable emulsion, intravenous fluid administration, and/or vasopressor therapy. In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus administration should not be used during sedation in order to minimize undesirable cardiorespiratory depression.
+
+                        As with other sedative medications, there is wide interpatient variability in propofol injectable emulsion dosage requirements, and these requirements may change with time.
+
+                        Failure to reduce the infusion rate in patients receiving propofol injectable emulsion for extended periods may result in excessively high blood concentrations of the drug. Thus, titration to clinical response and daily evaluation of sedation levels are important during use of propofol injectable emulsion infusion for ICU sedation, especially when it is used for long durations.
+
+                        Opioids and paralytic agents should be discontinued and respiratory function optimized prior to weaning patients from mechanical ventilation. Infusions of propofol injectable emulsion should be adjusted to maintain a light level of sedation prior to weaning patients from mechanical ventilatory support. Throughout the weaning process, this level of sedation may be maintained in the absence of respiratory depression.
+
+                        Abrupt discontinuation of propofol injectable emulsion prior to weaning or for daily evaluation of sedation levels should be avoided. This may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation. It is therefore recommended that administration of propofol injectable emulsion be continued in order to maintain a light level of sedation throughout the weaning process until 10 to 15 minutes prior to extubation, at which time the infusion can be discontinued.

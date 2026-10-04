@@ -1,0 +1,13 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 7.3 Other Agents Affecting RAS
+
+In general, avoid combined use of RAS inhibitors.
+
+  [see
+
+   Warnings and Precautions (5.7)]
+
+  . Do not co-administer aliskiren with ramipril in patients with diabetes
+
+  [see
+
+   Contraindications (4)].

@@ -1,0 +1,7 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | DESCRIPTION
+
+Cimetidine is a histamine H2-receptor antagonist. Chemically it is N”-cyano-N-methyl-N’-[2-[[(5-methyl-1H-imidazol-4-yl)methyl]thio]-ethyl], guanidine.
+
+                  The molecular formula for cimetidine is C10H16N6S; and the molecular weight is 252.35. The structural formula for cimetidine is:
+
+Cimetidine contains an imidazole ring, and is chemically related to histamine. Cimetidine has a bitter taste and characteristic odor.

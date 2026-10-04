@@ -1,0 +1,3 @@
+DailyMed c9bd730d-c06e-47ef-b003-4dde6336f8ae | Acetazolamide | Pregnancy: Teratogenic effects
+
+Acetazolamide, administered orally or parenterally, has been shown to be teratogenic (defects of the limbs) in mice, rats, hamsters, and rabbits. There are no adequate and well-controlled studies in pregnant women. Acetazolamide should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.

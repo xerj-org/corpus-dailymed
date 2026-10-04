@@ -1,0 +1,3 @@
+DailyMed 49d314cb-90c5-4351-aa42-5838d5f7db28 | gabapentin | 2.4 Dosage in Elderly
+
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients.

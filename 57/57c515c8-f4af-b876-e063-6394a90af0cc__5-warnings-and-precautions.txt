@@ -1,0 +1,67 @@
+DailyMed 57c515c8-f4af-b876-e063-6394a90af0cc | IMPAVIDO | 5 WARNINGS AND PRECAUTIONS
+
+5.1 Embryo-Fetal Toxicity
+
+                  IMPAVIDO is contraindicated in patients who are pregnant. Based on animal data, miltefosine may cause fetal harm. Embryo-fetal toxicity, including death and fetal malformations, was observed in animals administered miltefosine prior to mating, during early pregnancy, and during organogenesis at doses lower than the maximum recommended human dose (MRHD). Advise females of reproductive potential of the potential risk to a fetus. Verify pregnancy status prior to initiating IMPAVIDO in females of reproductive potential. Advise females of reproductive potential to use effective contraception during treatment with IMPAVIDO and for 5 months after the last dose
+  [see Boxed Warning, Contraindications (4.1) and Use in Specific Populations (8.1, 8.3)].
+
+                     5.2 Impaired Semen Quality and Impaired Spermatogenesis
+
+                  IMPAVIDO may impair male fertility. Reductions in semen parameters (ejaculate volume, total sperm count, sperm concentration, sperm morphology, sperm motility) were observed in a clinical study evaluating the effects of IMPAVIDO on spermatogenesis. For all parameters, except sperm concentration, the observed reductions were reversible in most affected patients and improved within 3 to 6 months. Reductions in sperm concentration of > 50% persisted in up to 26% of patients. Reductions up to the lower limit of normal in sperm concentration (< 20 million/ mL) persisted in up to 8% of patients. Per protocol, semen parameters were not assessed beyond 6 months in any patient. The effect of IMPAVIDO on spermatogenesis may persist for an unknown duration
+   [see Adverse Reactions (6.1) and Use in Specific Populations (8.3)].
+
+                  Reductions in ejaculate volume, temporary absence of ejaculate, and scrotal tenderness were reported in an observational study of male patients who received IMPAVIDO. These adverse reactions resolved in all patients upon completion of IMPAVIDO therapy
+  [see Adverse Reactions (6.2)].
+
+                     5.3 Female Reproductive Effects
+
+                  IMPAVIDO caused impaired fertility in female rats and follicular atresia and reversible anestrus/diestrus in dogs at doses approximately 1.0 and 0.2 times the MRHD based on body surface area comparisons, respectively
+  [see Nonclinical Toxicology (13.1)]. The effects of IMPAVIDO on human female fertility have not been formally studied
+   [see Use in Specific Population (8.3)].
+
+                     5.4 Absorption of Oral Contraceptives
+
+                  Vomiting and/or diarrhea occurring during IMPAVIDO therapy may affect the absorption of oral contraceptives, and therefore compromise their efficacy. If vomiting and/or diarrhea occur during IMPAVIDO therapy, advise females to use an additional non-oral method of effective contraception
+  [see Boxed Warning, Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+
+                     5.5 Renal Effects
+
+                  Elevations of serum creatinine (Cr) were noted in clinical trials evaluating IMPAVIDO in the treatment of cutaneous, mucosal and visceral leishmaniasis. Monitor renal function weekly in patients receiving IMPAVIDO during therapy and for 4 weeks after end of therapy
+  [see Adverse Reactions (6.1)].
+
+                     5.6 Hepatic Effects
+
+                  Elevations in liver transaminases (ALT, AST) and bilirubin were noted in clinical trials evaluating IMPAVIDO in the treatment of visceral leishmaniasis. Monitor liver transaminases (ALT, AST) and bilirubin during therapy in patients receiving IMPAVIDO
+  [see Adverse Reactions (6.1)].
+
+                     5.7 Gastrointestinal Effects
+
+                  Vomiting and/or diarrhea commonly occur during IMPAVIDO administration and may result in volume depletion. Encourage fluid intake to avoid volume depletion
+  [see Adverse Reactions (6.1)].
+
+                     5.8 Thrombocytopenia
+
+                  Thrombocytopenia during therapy has been reported in patients treated for visceral leishmaniasis. Monitor platelet count during therapy for visceral leishmaniasis
+  [see Adverse Reactions (6.1, 6.2)].
+
+                     5.9 Stevens-Johnson Syndrome
+
+                  Stevens-Johnson syndrome has been reported during IMPAVIDO therapy. Discontinue IMPAVIDO if an exfoliative or bullous rash is noted during therapy
+  [see Adverse Reactions (6.1)].
+
+                     5.10 Ocular Complications
+
+                  Ocular complications including keratitis, keratopathy, acute scleritis, and anterior uveitis/iritis have been reported in patients treated with IMPAVIDO.
+
+                  Ocular complications of IMPAVIDO therapy have been reported during the treatment of all forms of leishmaniasis (cutaneous, mucosal, and visceral) and during use of IMPAVIDO for conditions other than cutaneous, mucosal and visceral leishmaniasis. Ocular complications are also known to occur in patients with leishmaniasis.
+
+                  Keratitis, keratopathy, acute scleritis, and anterior uveitis/iritis have been reported both within a few days of and after several weeks of IMPAVIDO therapy. While these ocular complications have most commonly been reported in individuals being treated for post-kala-azar dermal leishmaniasis, it is not known whether the higher frequency of reports is due to the particular form of leishmaniasis or the typically longer duration of treatment which occurs with the treatment of postkalaazar dermal leishmaniasis. The safety and effectiveness of IMPAVIDO in the treatment of post-kala-azar dermal leishmaniasis has not been established.
+
+                  Consideration should be given to having patients receive a baseline eye exam before starting IMPAVIDO.
+
+                  The most commonly reported ocular signs and symptoms after starting IMPAVIDO include: red eye, eye pain, photophobia, increased lacrimation, decreased visual acuity, corneal ulceration, corneal opacities, and partial or complete blindness which in some cases has been permanent.
+
+                  Instruct patients to discontinue IMPAVIDO immediately and follow-up with an ophthalmologist if they develop an ocular adverse reaction while on IMPAVIDO. Treatment with ocular anti inflammatory agents may be warranted.
+
+                  If it is determined that significant eye findings occurred as a result of treatment with IMPAVIDO therapy, initiate an alternative anti-leishmanial treatment. IMPAVIDO has a long half-life
+  [see Clinical Pharmacology (12.3)], therefore, it is possible, even with discontinuation of IMPAVIDO therapy, that ocular changes may not resolve.

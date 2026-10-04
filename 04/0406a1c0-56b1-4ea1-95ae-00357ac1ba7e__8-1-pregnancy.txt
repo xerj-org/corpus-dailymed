@@ -1,0 +1,29 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 8.1 Pregnancy
+
+Risk Summary
+
+                        Based on animal data showing adverse renal effects, dapagliflozin is not recommended during the second and third trimesters of pregnancy.
+
+                        Limited data with dapagliflozin in pregnant women are not sufficient to determine drug-associated risk for major birth defects or miscarriage. There are risks to the mother and fetus associated with poorly controlled diabetes and untreated heart failure in pregnancy (see Clinical Considerations).
+
+                        In animal studies, adverse renal pelvic and tubule dilatations, that were not fully reversible, were observed in rats when dapagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at all doses tested; the lowest of which provided an exposure 15-times the 10 mg clinical dose (see Data).
+
+                        The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a HbA1c greater than 7% and has been reported to be as high as 20 to 25% in women with HbA1c greater than 10%. The estimated background risk of miscarriage for the indicated population is unknown.
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                              Clinical Considerations
+
+                           Disease-associated maternal and/or embryofetal risk
+
+                        Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery and delivery complications. Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+
+                              Data
+
+                           Animal Data
+
+                        Dapagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 15, or 75 mg/kg/day, increased kidney weights and increased the incidence of renal pelvic and tubular dilatations at all dose levels. Exposure at the lowest dose tested was 15-times the 10 mg clinical dose (based on AUC). The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within a 1-month recovery period.
+
+                        In a prenatal and postnatal development study, dapagliflozin was administered to maternal rats from gestation day 6 through lactation day 21 at doses of 1, 15, or 75 mg/kg/day, and pups were indirectly exposed in utero and throughout lactation. Increased incidence or severity of renal pelvic dilatation was observed in 21-day-old pups offspring of treated dams at 75 mg/kg/day (maternal and pup dapagliflozin exposures were 1415-times and 137-times, respectively, the human values at the 10 mg clinical dose, based on AUC). Dose-related reductions in pup body weights were observed at greater or equal to 29-times the 10 mg clinical dose (based on AUC). No adverse effects on developmental endpoints were noted at 1 mg/kg/day (19-times the 10 mg clinical dose, based on AUC). These outcomes occurred with drug exposure during periods of renal development in rats that corresponds to the late second and third trimester of human development.
+
+                        In embryofetal development studies in rats and rabbits, dapagliflozin was administered throughout organogenesis, corresponding to the first trimester of human pregnancy. In rats, dapagliflozin was neither embryolethal nor teratogenic at doses up to 75 mg/kg/day (1,441-times the 10 mg clinical dose, based on AUC). Dose-related effects on the rat fetus (structural abnormalities and reduced body weight) occurred only at higher dosages, equal to or greater than 150 mg/kg (more than 2,344-times the 10 mg clinical dose, based on AUC), which were associated with maternal toxicity. No developmental toxicities were observed in rabbits at doses up to 180 mg/kg/day (1,191-times the 10 mg clinical dose, based on AUC).

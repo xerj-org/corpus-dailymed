@@ -1,0 +1,19 @@
+DailyMed ff660787-880f-4f2b-baac-fd2dbfcd79c2 | Selexipag; Selexipag TITRATION PACK | 12.2 Pharmacodynamics
+
+Cardiac Electrophysiology
+
+                        At the maximum tolerated dose of 1,600 mcg selexipag tablets twice daily, selexipag does not prolong the QT interval to any clinically relevant extent.
+
+                           Platelet Aggregation
+
+                        Both selexipag and its active metabolite caused concentration-dependent inhibition of platelet aggregation in vitro with an IC50 of 5.5 μM and 0.21 μM, respectively. However, at clinically relevant concentrations, there was no effect on platelet aggregation test parameters as seen following multiple-dose administrations of selexipag tablets in healthy subjects from 400 mcg up to 1,800 mcg twice daily.
+
+                           Pulmonary Hemodynamics
+
+                        A Phase 2 clinical study NS-304/-02 assessed hemodynamic variables after 17 weeks of oral treatment in adult patients with PAH WHO Functional Class II–III and concomitantly receiving another PAH therapy and/or phosphodiesterase type 5 (PDE-5) inhibitors. Patients titrating selexipag tablets to an individually tolerated dose (200 mcg twice daily increments up to 800 mcg twice daily) (N=33) achieved a statistically-significant mean reduction in pulmonary vascular resistance of 30.3% (95% confidence interval [CI] −44.7%, −12.2%) and an increase in cardiac index (median treatment effect) of 0.41 L/min/m2 (95% CI 0.10, 0.71) compared to placebo (N=10).
+
+                           Drug Interaction
+
+                        In a study in healthy adult subjects, selexipag tablets (400 mcg twice a day) did not influence the pharmacodynamic effect of warfarin on the international normalized ratio.
+
+                           Pediatric use information is approved for Actelion Pharmaceuticals US, Inc.'s Uptravi® (Selexipag) Tablets. However, due to Actelion Pharmaceuticals US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

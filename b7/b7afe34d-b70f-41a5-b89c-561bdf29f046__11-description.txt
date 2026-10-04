@@ -1,0 +1,31 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 11 DESCRIPTION
+
+GADAVIST (gadobutrol) injection is a paramagnetic macrocyclic gadolinium-based contrast agent for intravenous use.
+
+                  The chemical name for gadobutrol is 10–[(1SR,2RS)–2,3–dihydroxy–1–hydroxymethylpropyl]–1,4,7,10–tetraazacyclododecane–1,4,7–triacetic acid, gadolinium complex. Gadobutrol is a water-soluble, hydrophilic compound with a partition coefficient between n-butanol and buffer at pH 7.6 of 0.006, and has a molecular formula of C18H31GdN4O9 and a molecular weight of 604.72. The structural formula of gadobutrol is:
+
+                  GADAVIST is a sterile, clear, colorless to pale yellow solution. Each mL contains 604.72 mg (1 mmol) of gadobutrol (containing 1 mmol of gadolinium) and the following inactive ingredients: 0.513 mg of calcobutrol sodium, 1.211 mg of trometamol, hydrochloric acid (for pH adjustment), and water for injection. GADAVIST contains no preservatives.
+
+                  The main physicochemical properties of GADAVIST are listed in Table 3.
+
+                     Table 3: Physicochemical Properties of GADAVIST
+
+                           Parameter |
+                           Value |
+
+                           Density (g/mL at 37°C) |
+                           1.3 |
+
+                           Osmolarity at 37°C (mOsm/L solution) |
+                           1117 |
+
+                           Osmolality at 37°C (mOsm/kg H2O) |
+                           1603 |
+
+                           Viscosity at 37°C (mPa∙s) |
+                           4.96 |
+
+                           pH |
+                           6.6 to 8 |
+
+                  The thermodynamic stability constants for gadobutrol (log Ktherm and log Kcond at pH 7.4) are 21.8 and 15.3, respectively.

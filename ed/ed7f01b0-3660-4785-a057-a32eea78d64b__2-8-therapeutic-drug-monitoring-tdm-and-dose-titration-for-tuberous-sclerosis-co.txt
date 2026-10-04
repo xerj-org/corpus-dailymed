@@ -1,0 +1,85 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 2.8 Therapeutic Drug Monitoring (TDM) and Dose Titration for Tuberous Sclerosis Complex (TSC)-Associated Subependymal Giant Cell Astrocytoma (SEGA) and TSC-Associated Partial-Onset Seizures
+
+Monitor everolimus whole blood trough concentrations at time points recommended in Table 1.
+
+                           Titrate the dose to attain trough concentrations of 5 ng/mL to 15 ng/mL.
+
+                           Adjust the dose using the following equation:New dose* = current dose x (target concentration divided by current concentration)*The maximum dose increment at any titration must not exceed 5 mg. Multiple dose titrations may be required to attain the target trough concentration.
+
+                           When possible, use the same assay and laboratory for TDM throughout treatment.
+
+                           Table 1: Recommended Timing of Therapeutic Drug Monitoring
+
+                                    Event
+
+                                  |
+                                  When to Assess Trough Concentrations After Event
+
+                                  |
+
+                                 Initiation of everolimus tablets for oral suspension
+
+                                  |
+                                 1 to 2 weeks
+
+                                  |
+
+                                 Modification of everolimus tablets for oral suspension dose
+
+                                  |
+                                 1 to 2 weeks
+
+                                  |
+
+                                 Switch between AFINITOR and everolimus tablets for oral suspension
+
+                                  |
+                                 1 to 2 weeks
+
+                                  |
+
+                                 Initiation or discontinuation of moderate CYP3A inhibitor and P-gp inhibitor
+
+                                  |
+                                 2 weeks
+
+                                  |
+
+                                 Initiation or discontinuation of cannabidiol oral solution
+
+                                  |
+                                 2 weeks
+
+                                  |
+
+                                 Initiation or discontinuation of strong CYP3A inducer and P-gp inducer
+
+                                  |
+                                 2 weeks
+
+                                  |
+
+                                 Change in hepatic function
+
+                                  |
+                                 2 weeks
+
+                                  |
+
+                                 Stable dose with changing body surface area (BSA)
+
+                                  |
+                                 Every 3 to 6 months
+
+                                  |
+
+                                 Stable dose with stable BSA
+
+                                  |
+                                 Every 6 to 12 months
+
+                                  |
+
+                                 Abbreviation: P-gp, P-glycoprotein.
+
+                                  |

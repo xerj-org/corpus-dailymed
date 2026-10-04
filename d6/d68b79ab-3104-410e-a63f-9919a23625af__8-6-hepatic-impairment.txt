@@ -1,0 +1,4 @@
+DailyMed d68b79ab-3104-410e-a63f-9919a23625af | Ticagrelor | 8.6 Hepatic Impairment
+
+Ticagrelor is metabolized by the liver and impaired hepatic function can increase risks for bleeding and other adverse events. Avoid use of ticagrelor in patients with severe hepatic impairment. There is limited experience with ticagrelor in patients with moderate hepatic impairment; consider the risks and benefits of treatment, noting the probable increase in exposure to ticagrelor. No dosage adjustment is needed in patients with mild hepatic impairment [
+                           see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].

@@ -1,0 +1,44 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 2.4 Recommended Dosage in Pediatric Patients with Normal Renal Function
+
+The recommended dosage of maraviroc tablets should be based on body weight (kg) and should not exceed the recommended adult dose. The recommended dosage also differs based on concomitant medications due to drug interactions (Table 2 and Table 3) [see Drug Interactions (7.1), Use in Specific Populations (8.4)].
+
+                        Before prescribing maraviroc tablets, assess children for the ability to swallow tablets. If a child is unable to reliably swallow maraviroc tablets, the oral solution formulation should be prescribed.
+
+                        The recommended oral dosage of maraviroc tablets in pediatric patients aged 2 years and older weighing at least 10 kg is presented in Table 2.
+
+                           Table 2. Recommended Dosage in Pediatric Patients Aged 2 Years and Older Weighing at Least 10 kg (Tablets)
+
+                                 Concomitant Medications |
+                                  |
+                                 Dosage of Maraviroc Tablets Based on Weight |
+
+                                 10 kg to <14 kg |
+                                 14 kg to <20 kg |
+                                 20 kg to <30 kg |
+                                 30 kg to <40 kg |
+                                 ≥40 kg |
+
+                                 Potent CYP3A inhibitors (with or without a CYP3A inducer)Potent CYP3A inhibitors (with or without a CYP3A inducer) including: clarithromycin, cobicistat, elvitegravir/ritonavir, itraconazole, ketoconazole, nefazodone, protease inhibitors (except tipranavir/ritonavir), telithromycin.
+
+                                  |
+                                 50 mg twice daily |
+                                 50 mg twice daily |
+                                 75 mg twice daily |
+                                 100 mg twice daily |
+                                 150 mg twice daily |
+
+                                 Noninteracting concomitant medicationsNoninteracting concomitant medications including all medications that are not potent CYP3A inhibitors or inducers such as: dolutegravir, enfuvirtide, nevirapine, all NRTIs, raltegravir, and tipranavir/ritonavir.
+
+                                  |
+                                 150 mg twice daily |
+                                 200 mg twice daily |
+                                 200 mg twice daily |
+                                 300 mg twice daily |
+                                 300 mg twice daily |
+
+                                 Potent and moderate CYP3A inducers (without a potent CYP3A inhibitorPotent and moderate CYP3A inducers (without a potent CYP3A inhibitor) including: carbamazepine, efavirenz, etravirine, phenobarbital, phenytoin, and rifampin.
+
+                                  |
+                                 Not recommendedInsufficient data are available to recommend use.
+
+                                  |

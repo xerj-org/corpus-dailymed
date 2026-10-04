@@ -1,0 +1,13 @@
+DailyMed f3da2c54-74bb-4186-8cc2-f80e944e12a9 | Lidocaine and prilocaine | Geriatric Use
+
+Of the total number of patients in clinical studies of lidocaine and prilocaine cream, 180 were age 65 to 74 and 138 were 75 and over. No overall differences in safety or efficacy were observed between these patients and younger patients. Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+                        Plasma levels of lidocaine and prilocaine in geriatric and non-geriatric patients following application of a thick layer of lidocaine and prilocaine cream are very low and well below potentially toxic levels. However, there are no sufficient data to evaluate quantitative differences in systemic plasma levels of lidocaine and prilocaine between geriatric and non-geriatric patients following application of lidocaine and prilocaine cream.
+
+                        Consideration should be given for those elderly patients who have enhanced sensitivity to systemic absorption (see
+                              PRECAUTIONS
+                           ).
+
+                        After intravenous dosing, the elimination half-life of lidocaine is significantly longer in elderly patients (2.5 hours) than in younger patients (1.5 hours). (See
+                              CLINICAL PHARMACOLOGY
+                           ).

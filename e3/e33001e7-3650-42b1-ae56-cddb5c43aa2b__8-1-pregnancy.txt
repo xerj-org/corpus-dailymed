@@ -1,0 +1,21 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 8.1 Pregnancy
+
+Risk Summary
+
+                        Based on findings from animal studies and the mechanism of action, SCEMBLIX can cause embryo-fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)]. There are no available data on SCEMBLIX use in pregnant women to evaluate a drug-associated risk.
+
+                        Animal reproduction studies in pregnant rats and rabbits demonstrated that oral administration of asciminib during organogenesis induced structural abnormalities, embryo-fetal mortality, and alterations to growth (see Data).
+
+                        Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        In embryo-fetal development studies, pregnant animals received oral doses of asciminib at 25, 150, and 600 mg/kg/day in rats and at 15, 50, and 300 mg/kg/day in rabbits during the period of organogenesis.
+
+                        In rats, maternal toxicity at the asciminib dose of 600 mg/kg/day resulted in the early termination of the dose group; a complete embryo-fetal examination was not conducted for this group. Adverse embryo-fetal findings were observed at 25 and 150 mg/kg; these doses did not cause maternal toxicities. Increases in fetal weights at 25 and 150 mg/kg/day were observed, which may be related to increased ossification (i.e., increased rate of development). Malformations were evident at 150 mg/kg and included cleft palate, anasarca (edema), and cardiac abnormalities. Additional fetal findings included urinary tract and skeletal variations, observed primarily at 150 mg/kg/day. At the dose of 25 mg/kg/day, the area under the curve (AUC) exposures were equivalent to or below those achieved in patients at the 40 mg twice daily or 80 mg once daily doses, respectively. At the dose of 25 mg/kg/day, the AUC exposures were below those achieved in patients at the 200 mg twice daily dose.
+
+                        In rabbits, maternal toxicities at the asciminib dose of 300 mg/kg/day resulted in the early termination of the dose group; a complete embryo-fetal examination was not conducted for this group. Adverse embryo-fetal findings were observed at 50 mg/kg; this dose did not cause maternal toxicities. Findings at the 50 mg/kg dose included increases in early resorptions and post-implantation loss, decreases in the number of live fetuses, and cardiac malformations. At the dose of 50 mg/kg/day, the AUC exposures were 4-fold those achieved in patients at the 40 mg twice daily or 80 mg once daily doses. At the dose of 50 mg/kg/day, the AUC exposures were below those achieved in patients at the 200 mg twice daily dose.

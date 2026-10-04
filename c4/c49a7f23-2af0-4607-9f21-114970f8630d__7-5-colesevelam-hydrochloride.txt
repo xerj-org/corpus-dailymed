@@ -1,0 +1,7 @@
+DailyMed c49a7f23-2af0-4607-9f21-114970f8630d | OLMESARTAN MEDOXOMIL | 7.5 Colesevelam Hydrochloride
+
+Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan. Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect. Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose
+
+  [see
+
+   Clinical Pharmacology (12.3)].

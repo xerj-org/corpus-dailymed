@@ -1,0 +1,3 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Colesevelam
+
+Concomitant administration of colesevelam and glyburide resulted in reductions in glyburide AUC and Cmax of 32% and 47%, respectively. The reductions in glyburide AUC and Cmax were 20% and 15%, respectively when administered 1 hour before, and not significantly changed (-7% and 4%, respectively) when administered 4 hours before colesevelam.

@@ -1,0 +1,11 @@
+DailyMed a50eb0b4-1bee-4781-8eba-75e324540d36 | Ticagrelor | 4.2 Active Bleeding
+
+Ticagrelor is contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage
+
+  [see
+
+   Warnings and Precautions (5.1)
+
+                           and
+
+   Adverse Reactions (6.1)].

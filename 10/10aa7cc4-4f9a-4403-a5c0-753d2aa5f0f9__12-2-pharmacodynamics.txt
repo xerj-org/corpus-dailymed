@@ -1,0 +1,21 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 12.2 Pharmacodynamics
+
+General
+
+                            
+
+                           Dapagliflozin
+
+  Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in patients with type 2 diabetes mellitus following the administration of dapagliflozin (see Figure 1). Dapagliflozin doses of 5 or 10 mg per day in patients with type 2 diabetes mellitus for 12 weeks resulted in excretion of approximately 70 grams of glucose in the urine per day. A near maximum glucose excretion was observed at the dapagliflozin daily dosage of 20 mg. This urinary glucose excretion with dapagliflozin also results in increases in urinary volume
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  . After discontinuation of dapagliflozin, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg dosage.
+
+                           Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinary Glucose Amount versus Dapagliflozin Dose in Healthy Subjects and Subjects with Type 2 Diabetes Mellitus (T2DM) (Semi-Log Plot)
+
+                           Cardiac Electrophysiology
+
+  Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15-times the recommended maximum dose) in a study of healthy subjects. In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50-times the recommended maximum dose) of dapagliflozin in healthy subjects.

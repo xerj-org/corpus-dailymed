@@ -1,0 +1,5 @@
+DailyMed 5bc172e4-e8a2-441a-be52-279a7f890196 | Inluriyo | 2.1 Patient Selection
+
+Select patients for treatment of ER-positive, HER2-negative advanced or metastatic breast cancer with INLURIYO based on the presence of ESR1 mutation(s) in a plasma specimen using an FDA-authorized test [see Indications and Usage (1) and Clinical Studies (14)].
+
+                        Information on FDA-authorized tests for the detection of ESR1 mutations in breast cancer is available at: https://www.fda.gov/CompanionDiagnostics.

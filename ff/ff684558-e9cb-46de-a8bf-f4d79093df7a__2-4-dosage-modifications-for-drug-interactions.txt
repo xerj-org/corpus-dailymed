@@ -1,0 +1,57 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 2.4 Dosage Modifications for Drug Interactions
+
+Strong or Moderate CYP3A Inhibitors
+
+                        Concomitant strong CYP3A inhibitors are contraindicated at initiation and during ramp-up of BEQALZI. For dose adjustments after ramp-up, see Table 5. Avoid moderate CYP3A inhibitors during initiation and at the 1 mg and 2 mg dose of sonrotoclax.
+
+                           Table 5: Management of Potential BEQALZI Interactions with CYP3A Inhibitors
+
+                                 Concomitant Drug |
+                                 During Initiation and Ramp-Up Phase |
+                                 Target Daily Dose
+
+ (after ramp-up phase) |
+
+                                 Strong CYP3A inhibitors |
+                                 Contraindicated |
+                                 Reduce BEQALZI dose to 20 mg. |
+
+                                 Moderate CYP3A inhibitorsConsider alternative medicinal products or reduce the sonrotoclax dose as described in Table 6.
+
+                                  |
+                                 Avoid concomitant use of moderate CYP3A inhibitors at 1 mg and 2 mg dose of sonrotoclax. Reduce all other doses of sonrotoclax by at least 4-fold (see Table 6). |
+                                 Reduce BEQALZI dose to 80 mg.  |
+
+                        Resume the BEQALZI dosage that was used prior to treatment with a strong or moderate CYP3A inhibitor at least 5 days after discontinuation of the inhibitor.
+
+                           Table 6: BEQALZI Dose with Moderate CYP3A Inhibitor
+
+                                 Original Sonrotoclax Dose (mg) |
+                                 Sonrotoclax Dose When Administered with a Moderate CYP3A Inhibitor |
+
+                                 1 mg |
+                                 Avoid moderate CYP3A inhibitor |
+
+                                 2 mg |
+                                 Avoid moderate CYP3A inhibitor |
+
+                                 5 mg |
+                                 1 mg |
+
+                                 10 mg |
+                                 2 mg |
+
+                                 20 mg |
+                                 5 mg |
+
+                                 40 mg |
+                                 10 mg |
+
+                                 80 mg |
+                                 20 mg |
+
+                                 160 mg |
+                                 40 mg |
+
+                                 320 mg |
+                                 80 mg |

@@ -1,0 +1,6 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 5.9 Serious Skin Reactions
+
+Serious skin reactions have occurred following treatment with celecoxib, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP). These serious events may occur without warning and can be fatal.
+
+                        Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of celecoxib at the first appearance of skin rash or any other sign of hypersensitivity. Celecoxib is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)
+                           ].

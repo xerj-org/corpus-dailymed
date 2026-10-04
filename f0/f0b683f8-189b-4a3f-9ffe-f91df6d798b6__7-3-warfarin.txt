@@ -1,0 +1,3 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 7.3 Warfarin
+
+Limited case reports have suggested interference of ascorbic acid with the anticoagulation effects of warfarin, however, for patients on warfarin therapy treated with ascorbic acid doses up to 1,000 mg/day (5 times the largest recommended single dose) for 2 weeks (twice the maximum recommended duration), no effect was observed. Standard monitoring for anti-coagulation therapy should continue during ascorbic acid treatment, as per standard of care.

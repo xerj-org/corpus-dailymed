@@ -1,0 +1,9 @@
+DailyMed 07a701e2-39b7-4bb1-a7c7-d9baed4ab18a | Guanfacine Extended-Release | 8.6 Renal Impairment
+
+It may be necessary to reduce the dosage in patients with significant impairment of renal function [see
+                           Clinical Pharmacology (
+
+                              12.3
+
+                           )
+                           ] .

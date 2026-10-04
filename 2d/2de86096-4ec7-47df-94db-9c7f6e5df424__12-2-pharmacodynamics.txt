@@ -1,0 +1,13 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 12.2 Pharmacodynamics
+
+The relationship between plasma concentration and clinical response is not well documented. One contributing factor is the nonlinear, concentration dependent protein binding of valproate which affects the clearance of the drug. Thus, monitoring of total serum valproate may not provide a reliable index of the bioactive valproate species.
+
+                        For example, because the plasma protein binding of valproate is concentration dependent, the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL. Higher than expected free fractions occur in the elderly, in hyperlipidemic patients, and in patients with hepatic and renal diseases.
+
+                           Epilepsy
+
+                        The therapeutic range in epilepsy is commonly considered to be 50 to 100 mcg/mL of total valproate, although some patients may be controlled with lower or higher plasma concentrations.
+
+                           Mania
+
+                        In placebo-controlled clinical trials of acute mania, patients were dosed to clinical response with trough plasma concentrations between 85 and 125 mcg/mL [see Dosage and Administration (2.1)].

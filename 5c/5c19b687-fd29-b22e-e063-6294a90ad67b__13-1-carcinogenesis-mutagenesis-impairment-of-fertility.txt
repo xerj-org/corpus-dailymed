@@ -1,0 +1,11 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In an oral (gavage) rat carcinogenicity study, imiquimod was administered to Wistar rats on a 2 times per week (up to 6 mg/kg/day) or daily (3 mg/kg/day) dosing schedule for 24 months. No treatment-related tumors were noted in the oral rat carcinogenicity study up to the highest doses tested in this study of 6 mg/kg administered 2 times per week in female rats (7.1 times the MRHD based on weekly AUC comparison), 4 mg/kg administered 2 times per week in male rats (6.1 times the MRHD based on weekly AUC comparison) or 3 mg/kg administered 7 times per week to male and female rats (12 times the MRHD based on weekly AUC comparison).
+
+  In a dermal mouse carcinogenicity study, imiquimod cream (up to 5 mg/kg/application imiquimod or 0.3% imiquimod cream) was applied to the backs of mice 3 times per week for 24 months. A statistically significant increase in the incidence of liver adenomas and carcinomas was noted in high dose male mice compared to control male mice (21 times the MRHD based on weekly AUC comparison). An increased number of skin papillomas was observed in vehicle cream control group animals at the treated site only.
+
+  Imiquimod revealed no evidence of mutagenic or clastogenic potential based on the results of five in vitro genotoxicity tests (Ames assay, mouse lymphoma L5178Y assay, Chinese hamster ovary cell chromosome aberration assay, human lymphocyte chromosome aberration assay and SHE cell transformation assay) and three
+
+  in vivogenotoxicity tests (rat and hamster bone marrow cytogenetics assay and a mouse dominant lethal test).
+
+  Daily oral administration of imiquimod to rats, throughout mating, gestation, parturition and lactation, demonstrated no effects on growth, fertility or reproduction, at doses up to 25 times the MRHD based on AUC comparison.

@@ -1,0 +1,116 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | WARNINGS
+
+Serious Neurologic Adverse Reactions with Epidural Administration
+
+                  Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids. Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke. These serious neurologic events have been reported with and without use of fluoroscopy. The safety and effectiveness of epidural administration of corticosteroids have not been established, and corticosteroids are not approved for this use.
+
+                     General
+
+                     This product is not suitable for multi-dose use. Following administration of the desired dose, any remaining suspension should be discarded.
+
+                     Injection of methylprednisolone acetate may result in dermal and/or subdermal changes forming depressions in the skin at the injection site.
+
+                     In order to minimize the incidence of dermal and subdermal atrophy, care must be exercised not to exceed recommended doses in injections. Multiple small injections into the area of the lesion should be made whenever possible. The technique of intra-articular and intramuscular injection should include precautions against injection or leakage into the dermis. Injection into the deltoid muscle should be avoided because of a high incidence of subcutaneous atrophy.
+
+                     It is critical that, during administration of methylprednisolone acetate injectable suspension, appropriate technique be used and care taken to ensure proper placement of drug.
+
+                  Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see
+
+                        ADVERSE REACTIONS
+                     ).
+
+                  Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
+
+                  Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment. High doses of systemic corticosteroids, including methylprednisolone acetate, should not be used for the treatment of traumatic brain injury.
+
+                     Cardio-renal
+
+                  Average and large doses of corticosteroids can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium. These effects are less likely to occur with synthetic derivatives when used in large doses. Dietary salt restriction and potassium supplementation may be necessary. All corticosteroids increase calcium excretion.
+
+                  Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
+
+                  There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see
+
+                        CONTRAINDICATIONS
+                     and
+
+                        PRECAUTIONS:
+
+   Drug Interactions
+                     ,
+
+  Amphotericin B injection and potassium-depleting agents).
+
+                     Endocrine
+
+                  Hypothalamic-pituitary adrenal (HPA) axis suppression. Cushing’s syndrome, and Hyperglycemia: Monitor patients for these conditions with chronic use.
+
+                  Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment. Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
+
+                     Immunosuppression and Increased Risk of Infection
+
+                  Corticosteroids, including methylprednisolone acetate, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens. Corticosteroids can:
+
+                     Reduce resistance to new infections
+
+                     Exacerbate existing infections
+
+                     Increase the risk of disseminated infections
+
+                     Increase the risk of reactivation or exacerbation of latent infections
+
+                     Mask some signs of infection
+
+                  Corticosteroid-associated infections can be mild but can be severe and at times fatal. The rate of infectious complications increases with increasing corticosteroid dosages.
+
+                  Monitor for the development of infection and consider methylprednisolone acetate withdrawal or dosage reduction as needed.
+
+                  Do not administer methylprednisolone acetate injectable suspension by an intraarticular, intrabursal, intratendinous or intralesional route in the presence of acute local infection.
+
+                     Tuberculosis
+
+                  If methylprednisolone acetate is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, as reactivation of the disease may occur. Closely monitor such patients for reactivation. During prolonged methylprednisolone acetate therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
+
+                     Varicella Zoster and Measles Viral Infections
+
+                  Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including methylprednisolone acetate. In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
+
+                     If a methylprednisolone acetate -treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated. If varicella develops, treatment with antiviral agents may be considered.
+
+                     If a methylprednisolone acetate -treated patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
+
+                     Hepatitis B Virus Reactivation
+
+                  Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including methylprednisolone acetate. Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+
+                  Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with methylprednisolone acetate. For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
+
+                     Fungal Infections
+
+                  Corticosteroids, including methylprednisolone acetate, may exacerbate systemic fungal infections; therefore, avoid methylprednisolone acetate use in the presence of such infections unless  methylprednisolone acetate is needed to control drug  reactions. For patients on chronic methylprednisolone acetate therapy who develop systemic fungal infections, methylprednisolone acetate withdrawal or dosage reduction is recommended.
+
+                     Amebiasis
+
+                  Corticosteroids, including methylprednisolone acetate, may activate latent amebiasis. Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating methylprednisolone acetate in patients who have spent time in the tropics or patients with unexplained diarrhea.
+
+                     Strongyloides Infestation
+
+                  Corticosteroids, including methylprednisolone acetate, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation. In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+
+                     Cerebral Malaria
+
+                  Avoid corticosteroids, including methylprednisolone acetate, in patients with cerebral malaria.
+
+                     Vaccinations
+
+                     Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids. Killed or inactivated vaccines may be administered. However, the response to such vaccines cannot be predicted.
+
+                  Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison’s disease).
+
+                     Ophthalmic
+
+                  Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses. The use of systemic corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes. Corticosteroids should be used cautiously in patients with ocular herpes simplex because of corneal perforation. Corticosteroids should not be used in active ocular herpes simplex.
+
+                     Kaposi’s Sarcoma
+
+                  Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions. Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.

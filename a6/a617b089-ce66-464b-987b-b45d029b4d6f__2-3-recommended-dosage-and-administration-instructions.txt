@@ -1,0 +1,47 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 2.3 Recommended Dosage and Administration Instructions
+
+The recommended dosage of TECENTRIQ HYBREZA in adult patients and pediatric patients (12 years of age and older who weigh 40 kg or greater) is one 15 mL injection (containing 1,875 mg of atezolizumab and 30,000 units of hyaluronidase, referred to as TECENTRIQ HYBREZA) administered subcutaneously in the thigh over approximately 7 minutes every 3 weeks.
+
+                           The recommended dosage for pediatric patients 12 years of age and older who weigh less than 40 kg has not been established [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
+
+                        Administration instructions for TECENTRIQ HYBREZA as monotherapy and in combination with other therapeutic agents are presented in Table 1. For the recommended dosage of each therapeutic agent administered in combination with TECENTRIQ HYBREZA refer to the product's respective Prescribing Information.
+
+                           Table 1:	TECENTRIQ HYBREZA Administration Instructions and Duration of Therapy
+
+                                 Indication |
+                                 Administration Instructions for TECENTRIQ HYBREZA |
+                                 Duration of Therapy |
+
+                                 Adjuvant Treatment of Non-Small Cell Lung Cancer |
+                                 Administer TECENTRIQ HYBREZA as monotherapy |
+                                 Up to one year, unless there is disease recurrence or unacceptable toxicity |
+
+                                 Metastatic Non-Small Cell Lung Cancer |
+                                 Until disease progression or unacceptable toxicity |
+
+                                 Non-Small Cell Lung Cancer |
+                                 Administer TECENTRIQ HYBREZA prior to chemotherapy and bevacizumab when given on the same day. |
+                                 Until disease progression or unacceptable toxicity |
+
+                                 Small Cell Lung Cancer |
+                                 Administer TECENTRIQ HYBREZA prior to chemotherapy when given on the same day. |
+
+                                 Hepatocellular Carcinoma |
+                                 Administer TECENTRIQ HYBREZA prior to bevacizumab when given on the same day. Bevacizumab is administered intravenously at 15 mg/kg every 3 weeks. |
+
+                                 Melanoma |
+                                 Prior to initiating TECENTRIQ HYBREZA, patients should receive the following 28-day treatment cycle of cobimetinib and vemurafenib:
+                                       Days 1 to 21: cobimetinib 60 mg orally once daily in combination with 960 mg of oral vemurafenib twice daily
+
+                                       Days 22 to 28: withhold cobimetinib and administer vemurafenib 720 mg orally twice daily
+
+                                  |
+
+                                 Alveolar Soft Part Sarcoma |
+                                 Administer TECENTRIQ HYBREZA as monotherapy |
+                                 Until disease progression or unacceptable toxicity |
+
+                                    Muscle Invasive Bladder Cancer
+                                  |
+                                 Administer TECENTRIQ HYBREZA as monotherapy |
+                                 Up to one year, unless there is disease recurrence or unacceptable toxicity |

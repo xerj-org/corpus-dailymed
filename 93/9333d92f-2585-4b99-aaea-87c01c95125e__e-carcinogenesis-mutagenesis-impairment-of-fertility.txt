@@ -1,0 +1,5 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | E. Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer (See BOXED WARNINGS, WARNINGS and PRECAUTIONS).
+
+                        Long term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.

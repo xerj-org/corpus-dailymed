@@ -1,0 +1,79 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        In all controlled and uncontrolled trials performed in adult epilepsy patients, brivaracetam tablets were administered as adjunctive therapy to 2437 patients. Of these patients, 1929 were treated for at least 6 months, 1500 for at least 12 months, 1056 for at least 24 months, and 758 for at least 36 months. A total of 1558 patients (1099 patients treated with brivaracetam tablets and 459 patients treated with placebo) constituted the safety population in the pooled analysis of Phase 3 placebo-controlled studies in patients with partial-onset seizures (Studies 1, 2, and 3) [see Clinical Studies (14)]. The adverse reactions presented in Table 4 are based on this safety population; the median length of treatment in these studies was 12 weeks. Of the patients in those studies, approximately 51% were male, 74% were Caucasian, and the mean age was 38 years.
+
+                        In the Phase 3 controlled epilepsy studies, adverse events occurred in 68% of patients treated with brivaracetam tablets and 62% treated with placebo. The most common adverse reactions occurring at a frequency of at least 5% in patients treated with brivaracetam tablets doses of at least 50 mg/day and greater than placebo were somnolence and sedation (16%), dizziness (12%), fatigue (9%), and nausea and vomiting symptoms (5%).
+
+                        The discontinuation rates due to adverse events were 5%, 8%, and 7% for patients randomized to receive brivaracetam tablets at the recommended doses of 50 mg, 100 mg, and 200 mg/day, respectively, compared to 4% in patients randomized to receive placebo.
+
+                        Table 4 lists adverse reactions for brivaracetam tablets that occurred at least 2% more frequently for brivaracetam tablets doses of at least 50 mg/day than placebo.
+
+                           Table 4: Adverse Reactions in Pooled Placebo-Controlled Adjunctive Therapy Studies in Adult Patients with Partial Onset Seizures (Brivaracetam tablets 50 mg/day, 100 mg/day, and 200 mg/day)
+
+                                 Adverse Reactions |
+                                 Brivaracetam (N=803)
+
+% |
+                                 Placebo
+
+(N=459)
+
+% |
+
+                                 *Cerebellar coordination and balance disturbances includes ataxia, balance disorder, coordination abnormal, and nystagmus. |
+
+                                 Gastrointestinal disorders |
+                                  |
+                                  |
+
+                                 Nausea/vomiting symptoms |
+                                 5 |
+                                 3 |
+
+                                 Constipation |
+                                 2 |
+                                 0 |
+
+                                 Nervous system disorders |
+                                  |
+                                  |
+
+                                 Somnolence and sedation |
+                                 16 |
+                                 8 |
+
+                                 Dizziness |
+                                 12 |
+                                 7 |
+
+                                 Fatigue |
+                                 9 |
+                                 4 |
+
+                                 Cerebellar coordination and balance disturbances* |
+                                 3 |
+                                 1 |
+
+                                 Psychiatric disorders |
+                                  |
+                                  |
+
+                                 Irritability |
+                                 3 |
+                                 1 |
+
+There was no apparent dose-dependent increase in adverse reactions listed in Table 4 with the exception of somnolence and sedation.
+
+                           Pediatric Patients
+
+                        Safety of brivaracetam tablets was evaluated in two open-label, safety and pharmacokinetic trials in pediatric patients 2 months to less than 16 years of age. Across studies of pediatric patients with partial onset seizures, 186 patients received brivaracetam oral solution or tablet, of whom 123 received brivaracetam for at least 12 months. Adverse reactions reported in clinical studies of pediatric patients were generally similar to those seen in adult patients. Decreased appetite was also observed in these pediatric trials.
+
+                           Hematologic Abnormalities
+
+                        Brivaracetam tablets can cause hematologic abnormalities. In the Phase 3 controlled adjunctive epilepsy studies, a total of 1.8% of brivaracetam tablets-treated patients and 1.1% of placebo-treated patients had at least one clinically significant decreased white blood cell count (<3.0 x 109/L), and 0.3% of brivaracetam tablets-treated patients and 0% of placebo-treated patients had at least one clinically significant decreased neutrophil count (<1.0 x 109/L).
+
+                           Comparison by Sex
+
+                        There were no significant differences by sex in the incidence of adverse reactions.

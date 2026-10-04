@@ -1,0 +1,535 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety population described in the WARNINGS AND PRECAUTIONS reflects exposure to ZEPZELCA in combination with intravenous atezolizumab in the IMforte study [see Clinical Studies (14.1)], in 242 patients with extensive stage small cell lung cancer (ES-SCLC) whose disease had not progressed after initial therapy with atezolizumab, carboplatin, and etoposide. Patients received ZEPZELCA 3.2 mg/m2 intravenously (IV) in combination with atezolizumab 1,200 mg IV every 21 days until disease progression or unacceptable toxicity. Among 242 patients who received ZEPZELCA in combination with intravenous atezolizumab, 34% were exposed for 6 months or longer and 8% were exposed for greater than one year. The most common adverse reactions (≥ 15%), including laboratory abnormalities, in patients who received ZEPZELCA with atezolizumab were decreased lymphocytes, decreased platelets, decreased hemoglobin, decreased neutrophils, nausea, fatigue, increased alkaline phosphatase, decreased sodium, increased ALT, increased AST, decreased calcium, increased creatinine, musculoskeletal pain, decreased appetite and diarrhea.
+
+                           Extensive-Stage Small Cell Lung Cancer (IMforte)
+
+                        The safety of ZEPZELCA in combination with intravenous (IV) atezolizumab was evaluated in IMforte [see Clinical Studies (14)]. Patients received intravenous ZEPZELCA 3.2 mg/m2 in combination with intravenous atezolizumab 1,200 mg on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity. Primary prophylaxis of G-CSF was administered to 84% of patients. Among 242 patients who received ZEPZELCA with atezolizumab, the median duration of exposure to lurbinectedin was 4.1 months, 33% were exposed for 6 months or longer and 8% were exposed for greater than one year.
+
+                        The median age of patients who received ZEPZELCA in combination with intravenous atezolizumab was 66 years (range: 35 to 85); 62% male; 82% White, 13% Asian, and 0.8% Black or African American.
+
+                        Serious adverse reactions occurred in 31% of patients receiving ZEPZELCA in combination with atezolizumab. Serious adverse reactions occurring in > 2% were pneumonia (2.5%), respiratory tract infection (2.1%), dyspnea (2.1%), and decreased platelet count (2.1%). Fatal adverse reactions occurred in 5% of patients receiving ZEPZELCA with atezolizumab including pneumonia (3 patients), sepsis (3 patients), cardio-respiratory arrest (2 patients), myocardial infarction (2 patients), and febrile neutropenia (1 patient).
+
+                        Permanent discontinuation of ZEPZELCA due to an adverse reaction occurred in 5% of patients. The adverse reaction resulting in permanent discontinuation in ≥ 1% of patients who received ZEPZELCA was decreased neutrophil count.
+
+                        Dosage interruptions of ZEPZELCA due to an adverse reaction occurred in 25%. Adverse reactions which required dosage interruption in ≥ 2% of patients included anemia, fatigue, decreased neutrophil count, and decreased platelet count.
+
+                        Dose reductions of ZEPZELCA due to an adverse reaction occurred in 15% of patients. Adverse reactions which required dosage reduction in ≥ 2% of patients included decreased platelet count, fatigue, nausea, and vomiting.
+
+                        Table 3 summarizes the adverse reactions in IMforte.
+
+                           Table 3: Adverse Reactions (≥ 10%) in Patients with ES-SCLC Who Received ZEPZELCA in Combination with Intravenous Atezolizumab in IMforte
+
+                                 Graded per NCI CTCAE v5.0 |
+
+                                    1 Includes diarrhea and colitis. |
+
+                                    2 Includes fatigue and asthenia. |
+
+                                    3 Includes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, and pain in extremity. |
+
+                                    4Includes cough, productive cough, and upper-airway cough syndrome. |
+
+                                    5Includes dyspnea and dyspnea exertional.
+
+                                  |
+
+                                       Adverse Reaction
+
+                                  |
+
+                                       ZEPZELCA with Atezolizumab
+
+N = 242
+
+                                  |
+
+                                       Atezolizumab
+
+N = 240
+
+                                  |
+
+                                       All Grades
+
+(%)
+
+                                  |
+
+                                       Grade 3 or 4
+
+(%)
+
+                                  |
+
+                                       All Grades
+
+(%)
+
+                                  |
+
+                                       Grade 3 or 4
+
+(%)
+
+                                  |
+
+                                       Gastrointestinal
+
+                                  |
+
+                                    Nausea
+
+                                  |
+
+                                    36
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    Diarrhea1
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Vomiting
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Constipation
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                       General disorders and administration site conditions
+
+                                  |
+
+                                    Fatigue2
+
+                                  |
+
+                                    32
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                       Musculoskeletal and connective tissue disorders
+
+                                  |
+
+                                    Musculoskeletal Pain3
+
+                                  |
+
+                                    19
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    16
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                       Metabolism and Nutrition
+
+                                  |
+
+                                    Decreased appetite
+
+                                  |
+
+                                    17
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                       Respiratory, thoracic and mediastinal disorders
+
+                                  |
+
+                                    Cough4
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Dyspnea5
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    10
+
+                                  |
+
+                                    2
+
+                                  |
+
+                        Clinically relevant adverse reactions in < 10% of patients who received ZEPZELCA in combination with intravenous atezolizumab included pneumonia, phlebitis, extravasation resulting in skin necrosis, hypersensitivity, and increased creatine phosphokinase.
+
+                        Table 4 summarizes the laboratory abnormalities in IMforte.
+
+                           Table 4: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with ES‑SCLC Who Received ZEPZELCA in Combination with Intravenous Atezolizumab in IMforte
+
+                                 Graded per NCI CTCAE v5.0.
+
+                                  |
+
+                                       Laboratory Abnormality
+
+                                  |
+
+                                       ZEPZELCA with Atezolizumab
+
+N = 242
+
+                                  |
+
+                                       Atezolizumab
+
+N = 240
+
+                                  |
+
+                                       All Grades
+
+(%)
+
+                                  |
+
+                                       Grade 3 or 4
+
+(%)
+
+                                  |
+
+                                       All Grades
+
+(%)
+
+                                  |
+
+                                       Grade 3 or 4
+
+(%)
+
+                                  |
+
+                                       Hematology
+
+                                  |
+
+                                    Decreased lymphocytes
+
+                                  |
+
+                                    55
+
+                                  |
+
+                                    17
+
+                                  |
+
+                                    31
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    Decreased platelets
+
+                                  |
+
+                                    54
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    Decreased hemoglobin
+
+                                  |
+
+                                    51
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    Decreased neutrophils
+
+                                  |
+
+                                    36
+
+                                  |
+
+                                    18
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                       Chemistry
+
+                                  |
+
+                                    Increased alkaline phosphatase
+
+                                  |
+
+                                    29
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Decreased sodium
+
+                                  |
+
+                                    27
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    30
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    Increased ALT
+
+                                  |
+
+                                    25
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    18
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    Increased AST
+
+                                  |
+
+                                    24
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    22
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    Decreased calcium
+
+                                  |
+
+                                    24
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    Increased creatinine
+
+                                  |
+
+                                    21
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    0
+
+                                  |

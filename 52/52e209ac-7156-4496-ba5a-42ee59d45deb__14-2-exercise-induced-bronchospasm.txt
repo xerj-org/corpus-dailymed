@@ -1,0 +1,5 @@
+DailyMed 52e209ac-7156-4496-ba5a-42ee59d45deb | Albuterol sulfate | 14.2 Exercise-Induced Bronchospasm
+
+In a randomized, single-dose, crossover study in 24 adults and adolescents with exercise-induced bronchospasm (EIB), two inhalations of albuterol sulfate inhalation aerosol taken 30 minutes before exercise prevented EIB for the hour following exercise (defined as maintenance of FEV1 within 80% of post-dose, pre-exercise baseline values) in 83% (20 of 24) of patients as compared to 25% (6 of 24) of patients when they received placebo.
+
+                        Some patients who participated in these clinical trials were using concomitant steroid therapy.

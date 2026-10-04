@@ -1,0 +1,11 @@
+DailyMed eaeab74e-38cc-4621-9ce8-8a5d74a29a9e | Sildenafil | 5.6 Adverse Reactions with the Concomitant Use of Ritonavir
+
+The concomitant administration of the protease inhibitor ritonavir substantially increases serum concentrations of sildenafil (11-fold increase in AUC). If sildenafil tablets are prescribed to patients taking ritonavir, caution should be used. Data from subjects exposed to high systemic levels of sildenafil are limited. Decreased blood pressure, syncope, and prolonged erection were reported in some healthy volunteers exposed to high doses of sildenafil (200 to 800 mg). To decrease the chance of adverse reactions in patients taking ritonavir, a decrease in sildenafil dosage is recommended [
+
+  see Dosage and Administration 
+
+   (2.4),Drug Interactions 
+
+   (7.4),and Clinical Pharmacology
+
+                              (12.3) ] .

@@ -1,0 +1,3 @@
+DailyMed ddbef60d-c20a-4ada-928f-e87074c08a54 | NOREPINEPHRINE BITARTRATE IN SODIUM CHLORIDE | 7.2 Tricyclic Antidepressants
+
+Co-administration of Norepinephrine Bitartrate in Sodium Chloride Injection with tricyclic antidepressants (including amitriptyline, nortriptyline, protriptyline, clomipramine, desipramine, imipramine) can cause severe, prolonged hypertension. If administration of Norepinephrine Bitartrate in Sodium Chloride Injection cannot be avoided in these patients, monitor for hypertension.

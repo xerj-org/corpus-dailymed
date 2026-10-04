@@ -1,0 +1,5 @@
+DailyMed bb3b5e96-e629-4db5-8ad5-40c17c6dae18 | Clopidogrel | 8.4 Pediatric Use
+
+Safety and effectiveness in pediatric populations have not been established.
+
+                        A randomized, placebo-controlled trial (CLARINET) did not demonstrate a clinical benefit of clopidogrel in neonates and infants with cyanotic congenital heart disease palliated with a systemic-to-pulmonary arterial shunt. Possible factors contributing to this outcome were the dose of clopidogrel, the concomitant administration of aspirin, and the late initiation of therapy following shunt palliation. It cannot be ruled out that a trial with a different design would demonstrate a clinical benefit in this patient population.

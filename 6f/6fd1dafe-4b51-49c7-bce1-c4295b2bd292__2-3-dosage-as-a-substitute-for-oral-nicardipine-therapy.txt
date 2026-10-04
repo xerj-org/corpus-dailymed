@@ -1,0 +1,33 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 2.3 Dosage as a Substitute for Oral Nicardipine Therapy
+
+The intravenous infusion rate required to produce an average plasma concentration equivalent to a given oral dose at steady state is shown in the following table:
+
+                                    Oral Nicardipine Dose
+                                  |
+
+                                    Equivalent Intravenous Infusion Rate
+                                  |
+
+                                     20 mg every 8 hours
+
+                                  |
+
+                                     0.5 mg/hr
+
+                                  |
+
+                                     30 mg every 8 hours
+
+                                  |
+
+                                     1.2 mg/hr
+
+                                  |
+
+                                     40 mg every 8 hours
+
+                                  |
+
+                                     2.2 mg/hr
+
+                                  |

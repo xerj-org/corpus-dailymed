@@ -1,0 +1,25 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 7.4 Drug Interactions that may Decrease Exposure to Atorvastatin
+
+Table 4 presents drug interactions that may decrease exposure to atorvastatin and instructions for preventing or managing them.
+
+                           Table 4. Drug Interactions that may Decrease Exposure to Atorvastatin
+
+                                       Rifampin
+
+                                  |
+
+                                       Clinical Impact:
+
+                                  |
+
+                                    Concomitant administration of atorvastatin with rifampin, an inducer of cytochrome P450 3A4 and inhibitor of OATP1B1, can lead to variable reductions in plasma concentrations of atorvastatin. Due to the dual interaction mechanism of rifampin, delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
+
+                                  |
+
+                                       Intervention:
+
+                                  |
+
+                                    Administer atorvastatin and rifampin simultaneously.
+
+                                  |

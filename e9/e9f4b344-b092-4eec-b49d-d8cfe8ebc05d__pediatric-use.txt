@@ -1,0 +1,17 @@
+DailyMed e9f4b344-b092-4eec-b49d-d8cfe8ebc05d | pentobarbital sodium | Pediatric use
+
+No adequate well-controlled studies have been conducted in pediatric patients; however, safety and effectiveness of pentobarbital in pediatric patients is supported by numerous studies and case reports cited in the literature.
+
+                        Pediatric dosing information for Pentobarbital Sodium is described in the
+                              DOSAGE AND ADMINISTRATION
+                            section.
+
+                        Published juvenile animal studies demonstrate that the administration of anesthetic and sedation drugs, such as Pentobarbital Sodium Injection, USP, that either block NMDA receptors or potentiate the activity of GABA during the period of rapid brain growth or synaptogenesis, results in widespread neuronal and oligodendrocyte cell loss in the developing brain and alterations in synaptic morphology and neurogenesis. Based on comparisons across species, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately 3 years of age in humans.
+
+                        In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss. Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory. The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data (see "
+                              WARNINGS-Pediatric neurotoxicity
+                           ", "
+                              PRECAUTIONS-Pregnancy
+                           ", and "
+                              ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY
+                           ".)

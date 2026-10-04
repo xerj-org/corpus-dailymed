@@ -1,0 +1,9 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 7.7 mTOR Inhibitors or Other Drugs Known to Cause Angioedema
+
+Patients taking concomitant mTOR inhibitor (e.g., temsirolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .

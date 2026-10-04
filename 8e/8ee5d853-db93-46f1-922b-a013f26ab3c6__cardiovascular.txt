@@ -1,0 +1,7 @@
+DailyMed 8ee5d853-db93-46f1-922b-a013f26ab3c6 | Nortriptyline Hydrochloride | Cardiovascular
+
+A maximal limb-lead QRS duration of ≥0.10 seconds may be the best indication of the severity of the overdose. Intravenous sodium bicarbonate should be used to maintain the serum pH in the range of 7.45 to 7.55. If the pH response is inadequate, hyperventilation may also be used. Concomitant use of hyperventilation and sodium bicarbonate should be done with extreme caution, with frequent pH monitoring. A pH >7.60 or a pC0
+
+  2<20 mmHg is undesirable. Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium or phenytoin. Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
+
+                              In rare instances, hemoperfusion may be beneficial in acute refractory cardiovascular instability in patients with acute toxicity. However, hemodialysis, peritoneal dialysis, exchange transfusions, and forced diuresis generally have been reported as ineffective in tricyclic antidepressant poisoning.

@@ -1,0 +1,3 @@
+DailyMed a4ae481f-9e47-470a-b4d1-5a33c0df8761 | Cyclobenzaprine Hydrochloride | Impaired Hepatic Function
+
+The plasma concentration of cyclobenzaprine is increased in patients with hepatic impairment (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Hepatic Impairment). These patients are generally more susceptible to drugs with potentially sedating effects, including cyclobenzaprine. Cyclobenzaprine hydrochloride should be used with caution in subjects with mild hepatic impairment starting with a 5 mg dose and titrating slowly upward. Due to the lack of data in subjects with more severe hepatic insufficiency, the use of cyclobenzaprine in subjects with moderate to severe impairment is not recommended.

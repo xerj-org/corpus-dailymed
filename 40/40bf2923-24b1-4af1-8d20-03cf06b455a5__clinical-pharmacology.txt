@@ -1,0 +1,3 @@
+DailyMed 40bf2923-24b1-4af1-8d20-03cf06b455a5 | Carbamazepine | CLINICAL PHARMACOLOGY
+
+In controlled clinical trials, carbamazepine has been shown to be effective in the treatment of psychomotor and grand mal seizures, as well as trigeminal neuralgia.

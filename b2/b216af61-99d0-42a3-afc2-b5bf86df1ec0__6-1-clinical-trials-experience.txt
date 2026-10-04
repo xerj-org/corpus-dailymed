@@ -1,0 +1,5 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+                        The safety of ocrelizumab has been evaluated in active-controlled clinical trials of ocrelizumab administered intravenously in patients with relapsing forms of MS (RMS) (Study 1 and Study 2) [see Clinical Studies (14.1)] and primary progressive MS (PPMS) (Study 3) [see Clinical Studies (14.2)], and in an open-label, active-controlled trial of OCREVUS ZUNOVO administered subcutaneously in patients with RMS and PPMS (Study 4) [see Clinical Studies (14.3)].

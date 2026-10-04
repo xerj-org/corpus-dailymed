@@ -1,0 +1,173 @@
+DailyMed bc52489a-5149-411d-9665-2c75405ad15d | Bijuva | 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
+
+The effectiveness and safety of BIJUVA (estradiol and progesterone) capsules, 0.5 mg/100 mg and 1 mg/100 mg, on moderate to severe vasomotor symptoms (hot flushes) due to menopause were examined in a 12-week randomized, double-blind, placebo-controlled substudy of a single 52-week safety study. A total of 726 postmenopausal women were randomized to multiple dose combinations of estradiol and progesterone, and placebo; these women were 40 to 65 years of age (mean 54.6 years) and had at least 50 moderate to severe vasomotor symptoms per week at baseline. The mean number of years since last menstrual period was 5.9 years, with all women undergoing natural menopause. The primary efficacy population consisted of women who self- identified their race as: White (67%), Black/African American (31%), and "Other" (2.1%). In the substudy evaluating effects on moderate to severe vasomotor symptoms, a total of 149 women received BIJUVA (estradiol and progesterone) capsules, 0.5 mg/100 mg, 141 women received BIJUVA (estradiol and progesterone) capsules, 1 mg/100 mg, and 135 women received placebo.
+
+                        The evaluated co-primary efficacy endpoints included: 1) mean weekly reduction in frequency of moderate to severe vasomotor symptoms with BIJUVA compared to placebo at Weeks 4 and 12 and 2) mean weekly reduction in severity of moderate to severe vasomotor symptoms with BIJUVA compared to placebo at Weeks 4 and 12.
+
+                        Overall, BIJUVA (estradiol and progesterone) capsules, 0.5 mg/100 mg and 1 mg/100 mg, statistically significantly reduced both the frequency and severity of moderate to severe vasomotor symptoms from baseline compared with placebo at Weeks 4 and 12. The change from baseline in the frequency and severity of vasomotor symptoms observed and the difference from placebo are shown in Table 3 and Table 4, respectively.
+
+                           Table 3:	Mean Weekly Change from Baseline and Difference from Placebo in the Frequency of Moderate to Severe Vasomotor Symptoms
+
+                                  |
+                                 BIJUVA
+
+ 0.5 mg/100 mg
+
+ (N=149) |
+                                 BIJUVA
+
+ 1 mg/100 mg
+
+ (N=141) |
+                                 Placebo
+
+ (N=135) |
+
+                                 Definitions: SD – standard deviation; SE – standard error |
+
+                                    Week 4
+                                  |
+                                 n=144 |
+                                 n=134 |
+                                 n=126 |
+
+                                 Baseline |
+                                 72.3 (28.06) |
+                                 72.1 (27.80) |
+                                 72.3 (23.44) |
+
+                                 Mean (SD) change from baseline |
+                                 -35.1 (29.14) |
+                                 -40.6 (30.59) |
+                                 -26.4 (27.05) |
+
+                                 Difference from placeboLeast square mean difference (SE) from placebo
+
+                                  |
+                                 -8.07 (3.25) |
+                                 -12.81 (3.30) |
+                                 --- |
+
+                                 P-valueP-value of least square mean difference from placebo using mixed model repeated measures analyses
+
+                                  |
+                                 0.013 |
+                                 < 0.001 |
+                                 --- |
+
+                                   |
+                                   |
+                                   |
+                                   |
+
+                                    Week 12
+                                  |
+                                 n=129 |
+                                 n=124 |
+                                 n=115 |
+
+                                 Baseline |
+                                 72.8 (28.96) |
+                                 72.2 (25.04) |
+                                 72.2 (22.66) |
+
+                                 Mean (SD) change from baseline |
+                                 -53.7 (31.93) |
+                                 -55.1 (31.36) |
+                                 -40.2 (29.79) |
+
+                                 Difference from placebo
+                                  |
+                                 -15.07 (3.39) |
+                                 -16.58 (3.44) |
+                                 --- |
+
+                                 P-value
+                                  |
+                                 <0.001 |
+                                 <0.001 |
+                                 --- |
+
+                           Table 4:	Mean Weekly Change from Baseline and Difference from Placebo in the Severity of Moderate to Severe Vasomotor Symptoms
+
+                                  |
+                                 BIJUVA
+
+ 0.5 mg/100 mg
+
+ (N=149) |
+                                 BIJUVA
+
+ 1 mg/100 mg
+
+ (N=141) |
+                                 Placebo
+
+ (N=135) |
+
+                                 Definitions: SD – standard deviation; SE – standard error |
+
+                                    Week 4
+                                  |
+                                 n=144 |
+                                 n=134 |
+                                 n=126 |
+
+                                 Baseline |
+                                 2.51 (0.248) |
+                                 2.54 (0.325) |
+                                 2.52 (0.249) |
+
+                                 Mean (SD) change from baseline |
+                                 -0.51 (0.563) |
+                                 -0.48 (0.547) |
+                                 -0.34 (0.386) |
+
+                                 Difference from placeboLeast square mean difference (SE) from placebo
+
+                                  |
+                                 -0.17 (0.060) |
+                                 -0.13 (0.061) |
+                                 --- |
+
+                                 P-valueP-value of least square mean difference from placebo using mixed model repeated measures analyses
+
+                                  |
+                                 0.005 |
+                                 0.031 |
+                                 --- |
+
+                                   |
+                                   |
+                                   |
+                                   |
+
+                                    Week 12
+                                  |
+                                 n=129 |
+                                 n=124 |
+                                 n=115 |
+
+                                 Baseline |
+                                 2.51 (0.248) |
+                                 2.55 (0.235) |
+                                 2.52 (0.245) |
+
+                                 Mean (SD) change from baseline |
+                                 -0.90 (0.783) |
+                                 -1.12 (0.963) |
+                                 -0.56 (0.603) |
+
+                                 Difference from placebo
+                                  |
+                                 -0.39 (0.099) |
+                                 -0.57 (0.100) |
+                                 --- |
+
+                                 P-value
+                                  |
+                                 <0.001 |
+                                 <0.001 |
+                                 --- |
+
+                        Adjusting for potential confounders such as BMI, smoking, alcohol use, and baseline estradiol level, treatment with BIJUVA (estradiol and progesterone) capsules, 0.5 mg/100 mg or 1 mg/100 mg, did not demonstrate statistically significant reductions in both frequency and severity of moderate to severe vasomotor symptoms by Week 12 in women who self-identified as Black/African Americans (data not shown).

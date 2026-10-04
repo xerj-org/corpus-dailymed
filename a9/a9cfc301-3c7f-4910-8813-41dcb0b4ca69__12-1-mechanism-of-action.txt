@@ -1,0 +1,7 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 12.1 Mechanism of Action
+
+Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML. Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia. Imatinib inhibits colony formation in assays using ex vivo peripheral blood and bone marrow samples from CML patients.
+
+                           In vivo, imatinib inhibits tumor growth of BCR-ABL transfected murine myeloid cells as well as BCR-ABL positive leukemia lines derived from CML patients in blast crisis.
+
+                        Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF) and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events. In vitro, imatinib inhibits proliferation and induces apoptosis in GIST cells, which express an activating c-Kit mutation.

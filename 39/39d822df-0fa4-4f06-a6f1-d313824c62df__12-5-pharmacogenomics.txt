@@ -1,0 +1,3 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | 12.5 Pharmacogenomics
+
+CYP2D6 is absent in about 8% of Caucasians (poor metabolizers) and about 2% of most other populations. CYP2D6 can be inhibited by several drugs. Poor metabolizers of CYP2D6 will have increased (several-fold) metoprolol blood levels, decreasing metoprolol's cardioselectivity.

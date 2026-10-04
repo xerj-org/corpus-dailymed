@@ -1,0 +1,5 @@
+DailyMed 29743168-6dd7-4ee0-bc02-10dbcf2b7896 | Foscarnet Sodium | Carcinogenesis &Mutagenesis & Impairment of Fertility
+
+Carcinogenicity studies were conducted in rats and mice at oral doses of 500 mg/kg/day and 250 mg/kg/day. Oral bioavailability in unfasted rodents is < 20%. No evidence of oncogenicity was reported at plasma drug levels equal to 1/3 and 1/5, respectively, of those in humans (at the maximum recommended human daily dose) as measured by the area-under-the- time/concentration curve (AUC).
+
+                        Foscarnet sodium injection showed genotoxic effects in the BALB/3T3 in vitro transformation assay at concentrations greater than 0.5 mcg/mL and an increased frequency of chromosome aberrations in the sister chromatid exchange assay at 1000 mcg/mL. A high dose of foscarnet (350 mg/kg) caused an increase in micronucleated polychromatic erythrocytes in vivo in mice at doses that produced exposures (area under curve) comparable to that anticipated clinically.

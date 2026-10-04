@@ -1,0 +1,37 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 14 CLINICAL STUDIES
+
+Morphine sulfate extended-release capsules were studied in a double-blind, placebo-controlled, fixed-dose, parallel group trial in 295 patients with moderate to severe pain due to osteoarthritis. These patients had either a prior sub-optimal response to acetaminophen, NSAID therapy, or previously received intermittent opioid analgesic therapy. Thirty-milligrams morphine sulfate extended-release capsules administered once-daily, either in the morning or the evening, were more effective than placebo in reducing pain.
+
+                     Table 3 Change from Baseline in WOMAC OA Index Pain VAS Subscale Score
+
+                            Overall |
+                            Placebo |
+                            Morphine Sulfate
+
+            Extended-Release
+
+            Capsules QAM |
+
+                              Morphine Sulfate
+
+            Extended-Release
+
+            Capsules QPM
+
+                            |
+
+                            LS Mean |
+                            -36.23 |
+                            -75.26a
+                            |
+                            -75.39a
+                            |
+
+                            Std. Error |
+                            11.482 |
+                            11.305 |
+                            11.747 |
+
+                               a) P<0.05; REPEATED MEASURES ANALYSIS |
+
+                  This study was not designed to assess the effects of morphine sulfate extended-release capsules on the course of the osteoarthritis.

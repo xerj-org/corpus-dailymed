@@ -1,0 +1,3 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 8.5 Geriatric Use
+
+Clinical studies of immediate-release topiramate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently than younger subjects. Dosage adjustment may be necessary for elderly with creatinine clearance less than 70 mL/min/1.73 m2. Estimate GFR should be measured prior to dosing [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].

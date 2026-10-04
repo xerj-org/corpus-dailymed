@@ -1,0 +1,8 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 5.2 Hypersensitivity Reactions
+
+In postmarketing use, serious hypersensitivity reactions were observed during or shortly following sulfur hexafluoride lipid-containing microsphere administration including:
+
+                           Anaphylaxis, with manifestations that may include death, shock, bronchospasm, dyspnea, throat tightness, angioedema, edema (pharyngeal, palatal, mouth, peripheral, localized), swelling (face, eye, lip, tongue, upper airway), facial hypoesthesia, rash, urticaria, pruritus, flushing, and erythema.
+
+                        These reactions may occur in patients with no history of prior exposure to sulfur hexafluoride lipid-containing microspheres. Lumason contains PEG. There may be increased risk of serious reactions including death in patients with prior hypersensitivity reaction(s) to PEG [see Adverse Reactions (6.2)]
+                           . Clinically assess patients for prior hypersensitivity reactions to products containing PEG, such as certain colonoscopy bowel preparations and laxatives. Always have cardiopulmonary resuscitation personnel and equipment readily available prior to Lumason administration and monitor all patients for hypersensitivity reactions.

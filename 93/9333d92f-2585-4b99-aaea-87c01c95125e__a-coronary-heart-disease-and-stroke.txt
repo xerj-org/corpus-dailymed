@@ -1,0 +1,11 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | a. Coronary heart disease and stroke
+
+In the Women’s Health Initiative (WHI) study, an increase in the number of myocardial infarctions and strokes has been observed in women receiving CE compared to placebo. These observations are preliminary, and the study is continuing (See CLINICAL PHARMACOLOGY, Clinical Studies).
+
+                              In the CE/MPA substudy of WHI, an increased risk of coronary heart disease (CHD) events (defined as nonfatal myocardial infarction and CHD death) was observed in women receiving CE/MPA compared to women receiving placebo (37 vs 30 per 10,000 women-years). The increase in risk was observed in year one and persisted.
+
+                              In the same substudy of WHI, an increased risk of stroke was observed in women receiving CE/MPA compared to women receiving placebo (29 vs 21 per 10,000 women-years). The increase in risk was observed after the first year and persisted.
+
+                              In postmenopausal women with documented heart disease (n = 2,763, average age 66.7 years) a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study; HERS) treatment with CE/MPA (0.625 mg/2.5 mg per day) demonstrated no cardiovascular benefit. During an average follow-up of 4.1 years, treatment with CE/MPA did not reduce the overall rate of CHD events in postmenopausal women with established coronary heart disease. There were more CHD events in the CE/MPA-treated group than in the placebo group in year 1, but not during the subsequent years. Two thousand three hundred and twenty one women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II. Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall. Rates of CHD events were comparable among women in the CE/MPA group and the placebo group in HERS, HERS II, and overall.
+
+                              Large doses of estrogen (5 mg conjugated estrogens per day), comparable to those used to treat cancer of the prostate and breast, have been shown in a large prospective clinical trial in men to increase the risks of nonfatal myocardial infarction, pulmonary embolism, and thrombophlebitis.

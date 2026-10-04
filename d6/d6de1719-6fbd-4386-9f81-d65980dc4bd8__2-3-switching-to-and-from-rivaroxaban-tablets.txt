@@ -1,0 +1,16 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 2.3 Switching to and from Rivaroxaban Tablets
+
+Switching from Warfarin to Rivaroxaban Tablets - When switching patients from warfarin to rivaroxaban tablets, discontinue warfarin and start rivaroxaban tablets as soon as the International Normalized Ratio (INR) is below 3.0 in adults to avoid periods of inadequate anticoagulation.
+
+                           Switching from Rivaroxaban Tablets to Warfarin –
+
+                           Adults:
+
+                        No clinical trial data are available to guide converting patients from rivaroxaban tablets to warfarin. Rivaroxaban tablets affects INR, so INR measurements made during coadministration with warfarin may not be useful for determining the appropriate dose of warfarin. One approach is to discontinue rivaroxaban tablets and begin both a parenteral anticoagulant and warfarin at the time the next dose of rivaroxaban tablets would have been taken.
+
+                        Once rivaroxaban tablets are discontinued, INR testing may be done reliably 24 hours after the last dose.
+
+                           Switching from Rivaroxaban Tablets to Anticoagulants other than Warfarin - For adult patients currently taking rivaroxaban tablets and transitioning to an anticoagulant with rapid onset, discontinue rivaroxaban tablets and give the first dose of the other anticoagulant (oral or parenteral) at the time that the next rivaroxaban tablets dose would have been taken [see Drug Interactions (7.4)].
+
+                           Switching from Anticoagulants other than Warfarin to
+                           Rivaroxaban Tablets - For adult patients currently receiving an anticoagulant other than warfarin, start rivaroxaban tablets 0 to 2 hours prior to the next scheduled administration of the drug (e.g., low molecular weight heparin or non-warfarin oral anticoagulant) and omit administration of the other anticoagulant. For unfractionated heparin being administered by continuous infusion, stop the infusion and start rivaroxaban tablets at the same time.

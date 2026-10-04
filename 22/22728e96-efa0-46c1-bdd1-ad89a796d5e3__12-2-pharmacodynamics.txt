@@ -1,0 +1,3 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | 12.2 Pharmacodynamics
+
+VWF antigen (VWF:AG) and VWF:ristocetin cofactor activity (VWF:RCo) were used to assess VWF platelet binding activity. Following IV doses of ADZYNMA at the recommended dose, both VWF:AG and VWF:RCo transiently decreased for 1 to 2 days with a 15% to 25% change from baseline.

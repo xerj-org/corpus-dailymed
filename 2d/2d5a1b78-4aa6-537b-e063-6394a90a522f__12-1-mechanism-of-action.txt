@@ -1,0 +1,3 @@
+DailyMed 2d5a1b78-4aa6-537b-e063-6394a90a522f | Pitavastatin | 12.1 Mechanism of Action
+
+Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases. Sustained inhibition of cholesterol synthesis in the liver also decreases levels of very low-density lipoproteins.

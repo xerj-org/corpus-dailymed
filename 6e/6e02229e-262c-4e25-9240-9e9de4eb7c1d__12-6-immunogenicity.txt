@@ -1,0 +1,11 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of ADAs in the trials described below with the incidence of ADAs in other studies, including those of ONSWIK.
+
+                        During the 26- to 78-week treatment periods in four clinical trials in adults with type 2 diabetes mellitus [see Clinical Studies (14)], 59/858 (7%) of insulin-naïve and 34/1,016 (3%) of insulin-experienced adults treated with ONSWIK developed treatment-emergent anti-insulin efsitora alfa-gobe antibodies. In these trials, 30/1,874 (2%) of ONSWIK-treated adults developed anti-insulin efsitora alfa-gobe antibodies that cross-reacted with native insulin.
+
+                        In these trials, 23/1,874 (1%) of ONSWIK-treated adults and 23/93 (25%) of ONSWIK-treated adults with treatment-emergent anti-insuiln efsitora alfa-gobe antibodies, had estimated drug clearance that was higher than that observed in patients who were anti-insulin efsitora alfa-gobe antibody-negative. Among these 23 patients, the estimated drug clearance was approximately 5-fold higher than in patients who were anti-insulin alfa-gobe antibody-negative, and some patients had very low insulin efsitora alfa-gobe concentrations. These patients may require higher dosages of ONSWIK to achieve glycemic control [see Dosage and Administration (2.1,2.3, 2.4)].
+
+                        Neutralizing antibodies against insulin efsitora alfa-gobe were detected in 18/858 (2%) of insulin-naïve and 7/1,016 (0.7%) of insulin-experienced adults treated with ONSWIK;18/59 (31%) of insulin-naïve adults and 7/34 (21%) of insulin-experienced adults with treatment-emergent anti-insulin efsitora alfa-gobe antibodies developed neutralizing antibodies. Neutralizing antibodies against native insulin were detected in 15/1,874 (0.8%) of adults treated with ONSWIK.
+
+                        There were no identified clinically significant effects of anti-insulin efsitora alfa-gobe antibodies on the safety of ONSWIK.

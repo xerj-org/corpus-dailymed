@@ -1,0 +1,15 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+                           Males
+
+                              Effects on Spermatogenesis
+
+  In a randomized, double-blind, placebo-controlled non-inferiority study to assess the effect of pregabalin on sperm characteristics, healthy male subjects received pregabalin at a daily dose up to 600 mg (n=111) or placebo (n=109) for 13 weeks (one complete sperm cycle) followed by a 13-week washout period (off-drug). A total of 65 subjects in the pregabalin group (59%) and 62 subjects in the placebo group (57%) were included in the per protocol (PP) population. These subjects took study drug for at least 8 weeks, had appropriate timing of semen collections and did not have any significant protocol violations. Among these subjects, approximately 9% of the pregabalin group (6/65) vs. 3% in the placebo group (2/62) had greater than or equal to 50% reduction in mean sperm concentrations from baseline at Week 26 (the primary endpoint). The difference between pregabalin and placebo was within the pre-specified non-inferiority margin of 20%. There were no adverse effects of pregabalin on sperm morphology, sperm motility, serum FSH or serum testosterone levels as compared to placebo. In subjects in the PP population with greater than or equal to 50% reduction in sperm concentration from baseline, sperm concentrations were no longer reduced by greater than or equal to 50% in any affected subject after an additional 3 months off-drug. In one subject, however, subsequent semen analyses demonstrated reductions from baseline of greater than or equal to 50% at 9 and 12 months off-drug. The clinical relevance of these data is unknown.
+
+  In the animal fertility study with pregabalin in male rats, adverse reproductive and developmental effects were observed
+
+  [see
+
+   Nonclinical Toxicology (13.1)].

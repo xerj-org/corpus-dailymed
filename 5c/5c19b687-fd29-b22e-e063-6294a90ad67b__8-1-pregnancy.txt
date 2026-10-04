@@ -1,0 +1,27 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 8.1 Pregnancy
+
+Risk Summary
+
+  Available data from case reports and case series have not established a drugassociated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes when imiquimod is used during pregnancy. There are no controlled or large-scale epidemiologic studies and no exposure registries with imiquimod use in pregnant women. In animal reproduction studies, there were no adverse
+
+  developmental effects observed after oral administration of imiquimod in pregnant rats and intravenous administration of imiquimod in pregnant rabbits during organogenesis at doses up to 28 times and 115 times, respectively, the maximum recommended human dose (MRHD)
+
+  (see Data).
+
+  The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defects, loss, and other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+  The MRHD was set at two packets per treatment of imiquimod cream, 3.75%, (18.75 mg imiquimod) for the animal multiples of human exposure presented in this label.
+
+  Systemic embryofetal development studies were conducted in rats and rabbits. Oral doses of 1, 5, and 20 mg/kg/day imiquimod were administered during the period of organogenesis to pregnant female rats. In the presence of maternal toxicity, fetal effects noted at 20 mg/kg/day (163 times the MRHD based on AUC comparison) included increased resorptions, decreased fetal body weights, delays in skeletal ossication, bent limb bones, and two fetuses in one litter (2 of 1567 fetuses) demonstrated exencephaly, protruding tongues, and low-set ears. No treatmentrelated effects on embryofetal toxicity or malformation were noted at 5 mg/kg/day
+
+  (28 times the MRHD based on AUC comparison).
+
+  Intravenous doses of 0.5, 1, and 2 mg/kg/day imiquimod were administered during the period of organogenesis to pregnant female rabbits. No treatment-related effects on embryofetal toxicity or malformation were noted at 2 mg/kg/day (2.1 times the
+
+  MRHD based on BSA comparison), the highest dose evaluated in this study, or 1 mg/kg/day (115 times the MRHD based on AUC comparison).
+
+                        A combined fertility and peri- and postnatal development study was conducted in rats. Oral doses of 1, 1.5, 3, and 6 mg/kg/day imiquimod were administered to male rats from 70 days prior to mating through the mating period and to female rats from 14 days prior to mating through parturition and lactation. No effects on growth, fertility, reproduction, or postnatal development were noted at doses up to 6 mg/kg/day (25 times the MRHD based on AUC comparison), the highest dose evaluated in this study. In the absence of maternal toxicity, bent limb bones were noted in the F1 fetuses at a dose of 6 mg/kg/day (25 times the MRHD based on AUC comparison). This fetal effect was also noted in the oral rat embryofetal development study conducted with imiquimod. No treatment-related malformations were noted at 3 mg/kg/day (12 times the MRHD based on AUC comparison).

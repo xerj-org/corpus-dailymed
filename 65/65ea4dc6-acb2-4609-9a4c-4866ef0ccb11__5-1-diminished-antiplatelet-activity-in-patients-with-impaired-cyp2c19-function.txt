@@ -1,0 +1,13 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 5.1 Diminished Antiplatelet Activity in Patients with Impaired CYP2C19 Function
+
+Clopidogrel is a prodrug. Inhibition of platelet aggregation by clopidogrel is achieved through an active metabolite. The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19
+
+  [see
+
+   Boxed Warning].
+
+                        The metabolism of clopidogrel can also be impaired by drugs that inhibit CYP2C19, such as omeprazole or esomeprazole. Avoid concomitant use of clopidogrel with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of clopidogrel
+
+  [see
+
+   Drug Interactions (7.1)].

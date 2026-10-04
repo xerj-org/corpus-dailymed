@@ -1,0 +1,5 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 12.2 Pharmacodynamics
+
+In ARTS DN, a randomized, double-blind, placebo-controlled, multicenter phase IIb dose finding study in adults with CKD and T2DM, the placebo-corrected relative reduction in UACR at Day 90 was 25% and 38% in patients treated with finerenone 10 mg and 20 mg once daily, respectively. In patients treated with Kerendia, the mean systolic blood pressure decreased by 3 mmHg and the mean diastolic blood pressure decreased by 1-2 mmHg at month 1, remaining stable thereafter.
+
+                        In FIDELIO-DKD and FIGARO-DKD, randomized, double-blind, placebo-controlled, multicenter studies in adult patients with CKD associated with T2DM, the placebo-corrected relative reduction in UACR in patients randomized to finerenone was 31% (95% CI 29-34%), and 32% (95% CI 30-35%), respectively, at Month 4 and remained stable for the duration of the trial.

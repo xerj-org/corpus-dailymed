@@ -1,0 +1,17 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 12.1 Mechanism of Action
+
+Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT
+  1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland. Its action is therefore independent of the pathways for angiotensin II synthesis.
+
+                        There is also an AT
+  2 receptor found in many tissues, but AT
+  2 is not known to be associated with cardiovascular homeostasis. Valsartan has much greater affinity (about 20,000-fold) for the AT
+  1 receptor than for the AT
+  2 receptor. The increased plasma levels of angiotensin II following AT
+  1 receptor blockade with valsartan may stimulate the unblocked AT
+  2 receptor. The primary metabolite of valsartan is essentially inactive with an affinity for the AT
+  1 receptor about one200th (1/200th) that of valsartan itself.
+
+                        Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension. ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE. Because valsartan does not inhibit ACE (kininase II), it does not affect the response to bradykinin. Whether this difference has clinical relevance is not yet known. Valsartan does not bind to or block other hormone receptors or ion channels known to be important in cardiovascular regulation.
+
+                        Blockade of the angiotensin II receptor inhibits the negative regulatory feedback of angiotensin II on renin secretion, but the resulting increased plasma renin activity and angiotensin II circulating levels do not overcome the effect of valsartan on blood pressure.

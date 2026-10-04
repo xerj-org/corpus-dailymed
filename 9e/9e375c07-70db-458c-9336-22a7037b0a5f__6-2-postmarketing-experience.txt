@@ -1,0 +1,53 @@
+DailyMed 9e375c07-70db-458c-9336-22a7037b0a5f | montelukast sodium | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of montelukast sodium. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Blood and lymphatic system disorders
+
+                        increased bleeding tendency, thrombocytopenia
+
+                           Immune system disorders
+
+                        hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration
+
+                           Psychiatric disorders
+
+                        including, but not limited to, agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, dysphemia (stuttering), hallucinations, insomnia, irritability, memory impairment, obsessive-compulsive symptoms, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [see Boxed Warning, Warnings and Precautions (5.1)]
+
+                           Nervous system disorders
+
+                        drowsiness, paraesthesia/hypoesthesia, seizures
+
+                           Cardiac disorders
+
+                        palpitations
+
+                           Respiratory, thoracic and mediastinal disorders
+
+                        epistaxis, pulmonary eosinophilia
+
+                           Gastrointestinal disorders
+
+                        diarrhea, dyspepsia, nausea, pancreatitis, vomiting
+
+                           Hepatobiliary disorders
+
+                        Cases of cholestatic hepatitis, hepatocellular liver-injury, and mixed-pattern liver injury have been reported in patients treated with montelukast sodium. Most of these occurred in combination with other confounding factors, such as use of other medications, or when montelukast sodium was administered to patients who had underlying potential for liver disease such as alcohol use or other forms of hepatitis.
+
+                           Skin and subcutaneous tissue disorders
+
+                        angioedema, bruising, erythema multiforme, erythema nodosum, pruritus, Stevens-Johnson syndrome/toxic epidermal necrolysis, urticaria
+
+                           Musculoskeletal and connective tissue disorders
+
+                        arthralgia, myalgia including muscle cramps
+
+                           Renal and urinary disorders
+
+                        enuresis in children
+
+                           General disorders and administration site conditions
+
+                        edema
+
+                        Patients with asthma on therapy with montelukast sodium may present with systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition which is often treated with systemic corticosteroid therapy. These reactions have been sometimes associated with the reduction of oral corticosteroid therapy. Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see Warnings and Precautions (5.5)].

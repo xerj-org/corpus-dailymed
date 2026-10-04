@@ -1,0 +1,39 @@
+DailyMed 2141f08f-1623-4c88-a157-8dc4aebd3bda | Pentoxifylline | Pharmacokinetics and Metabolism
+
+After oral administration in aqueous solution pentoxifylline is almost completely absorbed. It undergoes a first-pass effect and the various metabolites appear in plasma very soon after dosing. Peak plasma levels of the parent compound and its metabolites are reached within 1 hour. The major metabolites are Metabolite I (1-[5-hydroxyhexyl]-3,7-dimethylxanthine) and Metabolite V (1-[3-carboxypropyl]-3,7-dimethylxanthine), and plasma levels of these metabolites are 5 and 8 times greater, respectively, than pentoxifylline.
+
+                        Following oral administration of aqueous solutions containing 100 to 400 mg of pentoxifylline, the pharmacokinetics of the parent compound and Metabolite I are dose-related and not proportional (non-linear), with half-life and area under the blood-level time curve (AUC) increasing with dose. The elimination kinetics of Metabolite V are not dose-dependent. The apparent plasma half-life of pentoxifylline varies from 0.4 to 0.8 hours and the apparent plasma half-lives of its metabolites vary from 1 to 1.6 hours. There is no evidence of accumulation or enzyme induction (Cytochrome P450) following multiple oral doses.
+
+                        Excretion is almost totally urinary; the main biotransformation product is Metabolite V. Essentially no parent drug is found in the urine. Despite large variations in plasma levels of parent compound and its metabolites, the urinary recovery of Metabolite V is consistent and shows dose proportionality. Less than 4% of the administered dose is recovered in feces. Food intake shortly before dosing delays absorption of an immediate-release dosage form but does not affect total absorption. The pentoxifylline AUC was increased and elimination rate decreased in an older population (60-68 years, n=6) compared to younger individuals (22-30 years, n=6) (see
+
+  PRECAUTIONS, Geriatric Use).
+
+                        After administration of the 400 mg extended-release pentoxifylline tablet, plasma levels of the parent compound and its metabolites reach their maximum within 2 to 4 hours and remain constant over an extended period of time. Coadministration of pentoxifylline extended-release tablets with meals resulted in an increase in mean AUC and C
+
+  maxof about 1.1 and 1.3 fold for max pentoxifylline, respectively. C
+
+  maxfor Metabolite I also increased about 1.2 fold. The extended max release of pentoxifylline from the tablet eliminates peaks and troughs in plasma levels for improved gastrointestinal tolerance.
+
+                        Patients with Hepatic Impairment
+
+                        In patients with mild to moderate liver impairment AUC and C
+
+  maxof pentoxifylline increased 6.5 max and 7.5 fold, respectively, after a single 400 mg dose of pentoxifylline extended-release tablet. AUC and C
+
+  maxof the active Metabolite I also increased 6.9 and 8.2 fold, respectively, in hepatic max impaired subjects.
+
+                        Pentoxifylline extended-release tablet have not been studied in patients with severe hepatic failure.
+
+                        Patients with Renal Impairment
+
+                        In patients with mild, moderate, or severe renal impairment the exposure to pentoxifylline and its active Metabolite I are not increased. In contrast, AUC
+
+  0-tssand C
+
+  maxof the active Metabolite V in patients with mild to moderate renal impairment increased 2.4 and 2.1 fold, respectively, with a 400 mg TID regimen of pentoxifylline extended-release tablet. In severe renal impairment AUC
+
+  0-tssand C
+
+  maxof the active Metabolite V increased 12.9 and 10.6 fold, respectively, with a 400 mg pentoxifylline extended-release tablet TID regimen. The increase in exposure to Metabolite V is only slightly smaller in both renal impairment groups if pentoxifylline extended-release tablet is
+
+  administered BID.

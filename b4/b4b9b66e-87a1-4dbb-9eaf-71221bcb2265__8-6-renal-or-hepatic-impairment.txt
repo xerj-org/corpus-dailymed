@@ -1,0 +1,13 @@
+DailyMed b4b9b66e-87a1-4dbb-9eaf-71221bcb2265 | mirtazapine | 8.6 Renal or Hepatic Impairment
+
+The clearance of mirtazapine is reduced in patients with moderate to severe renal or hepatic impairment. Consequently, plasma mirtazapine levels may be increased in these patient groups, compared to levels observed in patients without renal or hepatic impairment. Dosage decrease may be necessary when administering mirtazapine tablets to patients with moderate to severe renal or hepatic impairment
+
+  [see Warnings and Precautions (
+
+   5.13), Use in Specific Populations (
+
+   8.5), and Clinical Pharmacology (
+
+   12.3)]
+
+  .

@@ -1,0 +1,8 @@
+DailyMed aea9a3ad-c244-42be-9cd3-5df83fe2b522 | DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE | 8.6 Hepatic Impairment
+
+Since dexmedetomidine hydrochloride in 0.9% sodium chloride injection clearance decreases with increasing severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2,
+
+                              2.3)
+
+                           , Clinical Pharmacology (12.3)
+                           ].

@@ -1,0 +1,3 @@
+DailyMed c3dfa8a1-d10a-4a1a-8eba-5f4e2a5a2949 | Metformin Hydrochloride; METFORMIN HYDROCHLORIDE | 12.1 Mechanism of Action
+
+Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization. With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.

@@ -1,0 +1,71 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
+                     Important Administration Instructions
+
+  Inform all patients of the following
+
+  [see Dosage and Administration (2.1)]:
+
+  • Imiquimod cream is for topical use only and avoid contact with the eyes, lips, nostrils, or inside the anus and vagina. Instruct patients to rinse their mouth or eyes with water right away if contact with these areas occur.
+
+  • Wash their hands before and after applying imiquimod cream.
+
+  • If a imiquimod cream dose is missed, apply the next dose at the regularly scheduled time.
+
+  • Discard and do not reuse partially used packets.
+
+  • Discard pump bottles after completion of a full treatment course.
+
+  Inform patients with EGW of the following
+
+  [see Dosage and Administration 2.3 and Warnings and Precautions (5.1)]:
+
+  • Uncircumcised patients treating warts under the foreskin should retract the foreskin and clean the area daily.
+
+  • Imiquimod cream may weaken condoms and vaginal diaphragms; therefore, concurrent use is not recommended.
+
+  • Avoid sexual (genital, anal, oral) contact while imiquimod cream is on the skin.
+
+  • Do not bandage or otherwise occlude the treatment area.
+
+                     Lactation
+
+  Advise breastfeeding women to avoid application of imiquimod cream to areas with increased risk for potential ingestion by or ocular exposure to the breastfeeding child
+
+  [see Use in Specic Populations (8.2)].
+
+                     Local Skin Reactions
+
+  Inform patients of the following
+
+  [see Dosage and Administration (2.2, 2.3) and Warnings and Precautions (5.1)]:
+
+  • Local skin reactions may occur during treatment with imiquimod cream, ranging from mild to severe in intensity and extending beyond the application site onto the surrounding skin, and may require an interruption of dosing.
+
+  • For female patients being treated for EGW, apply imiquimod cream at the opening of the vagina, avoiding intravaginal application because local skin reactions may cause difficulty in passing urine.
+
+  • If severe local skin reactions occur, remove imiquimod cream by washing the treatment area with mild soap and water.
+
+  • Contact their healthcare provider promptly if they experience any sign or symptom at the application site that restricts or prohibits their daily activity or makes continued application of imiquimod cream difficult.
+
+  • Because of local skin reactions, during treatment and until healed, the treatment area is likely to appear noticeably different from normal skin.
+
+                     Local Hypopigmentation and Hyperpigmentation
+
+  Inform patients that localized hypopigmentation and hyperpigmentation have been reported following use of imiquimod cream and these skin color changes may be permanent in some patients
+
+  [see Adverse Reactions (6.2)].
+
+                     Systemic Reactions
+
+  Inform patients that they may experience flu-like systemic signs and symptoms during treatment with imiquimod cream and these symptoms may require an interruption of dosing
+
+  [see Warnings and Precautions (5.2)].
+
+                     Ultraviolet Light Exposure Risks
+
+  Instruct patients to avoid or minimize exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while using imiquimod cream. Instruct patients to use protective clothing and to not use imiquimod cream if sunburned
+
+  [see Warnings and Precautions (5.3)].

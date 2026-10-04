@@ -1,0 +1,55 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 2.2 Recommended Dosage
+
+Table 1 provides recommended doses of ascorbic acid injection based on patient population and infusion rates of diluted ascorbic acid solution.
+
+                             Table 1 Recommended Dose of ascorbic acid injection and Infusion Rate of Diluted ascorbic acid injection Solution
+
+                                  Patient Population
+
+                                  |
+                                  Ascorbic acid injection Once Daily Dose
+
+ (mg)
+
+                                  |
+                                  Infusion Rate of
+
+ Diluted Ascorbic acid injection
+
+ Solution (mg/minute)
+
+                                  |
+
+                                  Pediatric Patients age 5 months to less than 12 months
+
+                                  |
+                                  50
+
+                                  |
+                                  1.3
+
+                                  |
+
+                                  Pediatric Patients age 1 year to less than 11 years
+
+                                  |
+                                  100
+
+                                  |
+                                  3.3
+
+                                  |
+
+                                  Adults and Pediatric Patients 11 years and older
+
+                                  |
+                                  200
+
+                                  |
+                                  33
+
+                                  |
+
+                        The recommended maximum duration of daily treatment with ascorbic acid injection is seven days. If no improvement in scorbutic symptoms is observed after one week of treatment, retreat until resolution of scorbutic symptoms is observed. 
+
+                        Repeat dosing is not recommended in pediatric patients less than 11 years of age.

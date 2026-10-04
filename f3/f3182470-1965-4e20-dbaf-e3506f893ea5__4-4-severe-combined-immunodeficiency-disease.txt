@@ -1,0 +1,3 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 4.4 Severe Combined Immunodeficiency Disease
+
+Infants with Severe Combined Immunodeficiency Disease (SCID) should not receive ROTARIX. Postmarketing reports of gastroenteritis, including severe diarrhea and prolonged shedding of vaccine virus, have been reported in infants who were administered live, oral rotavirus vaccines and later identified as having SCID [see Adverse Reactions (6.2)].

@@ -1,0 +1,7 @@
+DailyMed 52cf3ba9-0a7c-4809-830e-af93d1532726 | CARBAMAZEPINE | Acute Toxicity
+
+Lowest known lethal dose: adults, 3.2 g (a 24-year-old woman died of a cardiac arrest and a 24-year-old man died of pneumonia and hypoxic encephalopathy); children, 4 g (a 14-year-old girl died of a cardiac arrest), 1.6 g (a 3-year-old girl died of aspiration pneumonia).
+
+                        Oral LD
+
+  50in animals (mg/kg): mice, 1,100 to 3,750; rats, 3,850 to 4,025; rabbits, 1,500 to 2,680; guinea pigs, 920.

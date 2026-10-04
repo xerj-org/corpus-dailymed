@@ -1,0 +1,3 @@
+DailyMed d4d29e80-2f6f-475d-b704-f9443aadf3db | Verapamil Hydrochloride | Animal pharmacology and/or animal toxicology:
+
+In chronic animal toxicology studies, verapamil caused lenticular and/or suture line changes at 30 mg/kg/day or greater, and frank cataracts at 62.5 mg/kg/day or greater in the beagle dog but not in the rat. Development of cataracts due to verapamil has not been reported in man.

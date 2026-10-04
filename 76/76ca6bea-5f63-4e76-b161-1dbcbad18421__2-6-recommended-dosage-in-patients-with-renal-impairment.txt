@@ -1,0 +1,130 @@
+DailyMed 76ca6bea-5f63-4e76-b161-1dbcbad18421 | Allopurinol | 2.6 Recommended Dosage in Patients with Renal Impairment
+
+The recommended initial dosages of allopurinol tablets in adult patients with renal impairment are shown in Tables 1 and 2
+
+  [see
+
+   Use in Specific Populations (8.6)]
+
+  .
+
+                           Patients with Gout
+
+                        The recommended initial dosages in adult patients with gout with impaired kidney function are shown in Table 1
+
+  [see
+
+   Use in Specific Populations (8.6)].
+
+                        Initiate treatment with a lower dose of allopurinol tablets and increase the dose gradually in 50 mg/day increments every 2 weeks to 4 weeks in patients with renal impairment to decrease the risk of drug induced serious adverse reactions. Use the lowest dose possible to achieve the desired effect on serum and/or urine uric acid. Monitor kidney function in gout patients with chronic kidney disease closely when initiating treatment with allopurinol tablets and decrease or withdraw the drug if increased abnormalities in kidney function appear and persist.
+
+                           Table 1. Recommended Initial Dosage in Adult Patients with Gout
+
+                                 eGFR
+
+                                  |
+                                 Initial Dosage
+
+                                  |
+
+                                 > 60 mL/minute 
+
+                                  |
+                                 No dosage modification
+
+                                  |
+
+                                 > 30 to 60 mL/minute
+
+                                  |
+                                 50 mg daily
+
+                                  |
+
+                                 > 15 to 30 mL/minute
+
+                                  |
+                                 50 mg every other day
+
+                                  |
+
+                                 5 to 15 mL/minute
+
+                                  |
+                                 50 mg twice weekly
+
+                                  |
+
+                                 < 5 mL/minute
+
+                                  |
+                                 50 mg once weekly
+
+                                  |
+
+                        The maximum dosage that should be used in patients with various levels of renal impairment is not defined at different eGFR levels. 
+
+                           Patients with Recurrent Calcium Oxalate Calculi 
+
+                        Data are insufficient to provide dosage recommendations for the treatment of recurrent calcium oxalate calculi in patients with renal impairment. Allopurinol and its metabolites are excreted by the kidney, and accumulation of the drug can occur in renal failure
+
+  [see Warnings and Precautions (5.3) and
+
+   Use in Specific Populations (8.6)].
+
+                           Hyperuricemia Associated with Cancer Therapy 
+
+                        The recommended dosage of allopurinol tablets for the management of hyperuricemia associated with cancer therapy in adult patients with renal impairment is shown in Table 2
+
+  [see
+
+   Use in Specific Populations (8.6)].
+
+                           Table 2. Recommended Dosage of Allopurinol Tablets in Adult Patients for Management of Hyperuricemia Associated with Cancer Therapy with Renal Impairment
+
+                                 eGFR
+
+                                  |
+                                 Recommended Dosage
+
+                                  |
+
+                                 > 20 mL/min to 60 mL/min
+
+                                  |
+                                 No dosage modification
+
+                                  |
+
+                                 10 mL/min to 20 mL/min
+
+                                  |
+                                 200 mg/day
+
+                                  |
+
+                                 < 10 mL/min
+
+                                  |
+                                 100 mg/day
+
+                                  |
+
+                                 On dialysis
+
+                                  |
+                                 50 mg every 12 hours, or
+
+  100 mg every 24 hours
+
+                                  |
+
+                        Treatment with allopurinol tablets has not been studied in pediatric patients with severe renal impairment (eGFR < 20 mL/min) or on dialysis. There is insufficient information to establish dosing for allopurinol tablets in pediatric patients with renal impairment. In these patients, consider the risks and potential benefits before initiating treatment with allopurinol tablets
+
+  [see 
+
+   Warnings and Precautions (5.3)and
+
+   Use in Specific Populations (8.6)]
+
+  .

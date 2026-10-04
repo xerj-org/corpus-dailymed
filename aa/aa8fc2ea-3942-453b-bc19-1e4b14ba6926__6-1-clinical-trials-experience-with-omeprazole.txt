@@ -1,0 +1,13 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 6.1 Clinical Trials Experience with Omeprazole
+
+Monotherapy
+
+                        Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety data described below reflects exposure to omeprazole delayed-release capsules in 3096 patients from worldwide clinical trials (465 patients from US studies and 2,631 patients from international studies). Indications clinically studied in US trials included duodenal ulcer, resistant ulcer, and Zollinger-Ellison syndrome. The international clinical trials were double blind and open-label in design. The most common adverse reactions reported (i.e., with an incidence rate ≥2%) from omeprazole-treated patients enrolled in these studies included headache (7%), abdominal pain (5%), nausea (4%), diarrhea (4%), vomiting (3%), and flatulence (3%).
+
+                        Additional adverse reactions that were reported with an incidence ≥1% included acid regurgitation (2%), upper respiratory infection (2%), constipation (2%), dizziness (2%), rash (2%), asthenia (1%), back pain (1%), and cough (1%).
+
+                        The clinical trial safety profile in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
+
+                        The clinical trial safety profile in pediatric patients who received omeprazole delayed-release capsules was similar to that in adult patients. Unique to the pediatric population, however, adverse reactions of the respiratory system were frequently reported in the 2 to 16 year age group (19%). In addition, accidental injuries were frequently reported in the 2 to 16 year age group (4%) [see Use in Specific Populations (8.4)].

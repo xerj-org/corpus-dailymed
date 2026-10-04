@@ -1,0 +1,5 @@
+DailyMed 49d314cb-90c5-4351-aa42-5838d5f7db28 | gabapentin | 9.3 Dependence
+
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+
+                        After discontinuation of short-term and long-term treatment with gabapentin, withdrawal symptoms have been observed in some patients. Withdrawal symptoms may occur shortly after discontinuation, usually within 48 hours. In the postmarketing setting, reported adverse reactions have included, but not been limited to, seizures, depression, suicidal ideation and behavior, agitation, confusion, disorientation, psychotic symptoms, anxiety, insomnia, nausea, pain, sweating, tremor, headache, dizziness, and malaise. The dependence potential of gabapentin has not been evaluated in human studies.

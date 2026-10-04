@@ -1,0 +1,5 @@
+DailyMed ed789dc1-0b39-4efc-990d-7b6b43a8b3ba | Irbesartan | 7.4 Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy. In general, avoid combined use of RAS inhibitors. Closely monitor blood pressure, renal function and electrolytes in patients on irbesartan tablets and other agents that affect the RAS.
+
+                        Do not coadminister aliskiren with irbesartan tablets in patients with diabetes. Avoid use of aliskiren with irbesartan tablets in patients with renal impairment (GFR <60 mL/min).

@@ -1,0 +1,7 @@
+DailyMed 70378eba-3904-4491-9f6d-00f5d1501c4a | Pantoprazole Sodium | 5.10 Hypomagnesemia and Mineral Metabolism
+
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, and in most cases after a year of therapy. Serious adverse events include tetany, arrhythmias, and seizures. Hypomagnesemia may lead to hypocalcemia and/or hypokalemia and may exacerbate underlying hypocalcemia in at-risk patients. In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
+
+                        For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
+
+                        Consider monitoring magnesium and calcium levels prior to initiation of Pantoprazole Sodium for Injection and periodically while on treatment in patients with a preexisting risk of hypocalcemia (e.g., hypoparathyroidism). Supplement with magnesium and/or calcium as necessary. If hypocalcemia is refractory to treatment, consider discontinuing the PPI.

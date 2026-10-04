@@ -1,0 +1,3 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Nonteratogenic Effects:
+
+In rats, in the Segment I (fertility and general reproduction) and Segment III (perinatal and postnatal) studies with intravenously administered ceftriaxone, no adverse effects were noted on various reproductive parameters during gestation and lactation, including postnatal growth, functional behavior and reproductive ability of the offspring, at doses of 586 mg/kg/day or less.

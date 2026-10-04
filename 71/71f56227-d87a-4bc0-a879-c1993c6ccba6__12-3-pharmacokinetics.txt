@@ -1,0 +1,59 @@
+DailyMed 71f56227-d87a-4bc0-a879-c1993c6ccba6 | Dexmethylphenidate HydrochlorideExtended-Release | 12.3 Pharmacokinetics
+
+Absorption
+
+                        Dexmethylphenidate hydrochloride extended-release capsules produces a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when orally administered to healthy adults. The initial rate of absorption for dexmethylphenidate hydrochloride extended-release capsules is similar to that of dexmethylphenidate immediate-release tablets as shown by the similar rate parameters between the 2 formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1.5 hours (typical range 1 to 4 hours). The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for dexmethylphenidate hydrochloride extended-release capsules given once daily (about 6.5 hours; range, 4.5 to 7 hours) compared to dexmethylphenidate immediate-release tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for dexmethylphenidate hydrochloride extended-release capsules.
+
+                        Dexmethylphenidate hydrochloride extended-release capsules given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and fewer peak and trough fluctuations than dexmethylphenidate immediate-release tablets given in 2 doses given 4 hours apart. This is due to an earlier onset and more prolonged absorption from the delayed-release beads (see Figure 1).
+
+                        The ratio of geometric mean of AUC(0-inf) and Cmax after administration of dexmethylphenidate hydrochloride extended-release capsules given once daily are 1.02 and 0.86 respectively, to the same total dose of dexmethylphenidate immediate-release tablets given in 2 doses 4 hours apart. The variability in Cmax, Cmin, and AUC is similar between dexmethylphenidate hydrochloride extended-release capsules and dexmethylphenidate hydrochloride immediate-release tablets with approximately a 3-fold range in each.
+
+                        Approximately 90% of the dose is absorbed after oral administration of radiolabeled racemic methylphenidate. However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22% to 25%.
+
+                           Figure 1. Mean Dexmethylphenidate Plasma Concentration-Time Profiles After Administration 1 x 20 mg Dexmethylphenidate Hydrochloride Extended-release Capsules (n = 24) Capsules and 2 x 10 mg Dexmethylphenidate Hydrochloride Immediate-Release Tablets (n = 25)
+
+                        After single dose administration, dexmethylphenidate hydrochloride extended-release capsules demonstrated dose proportional pharmacokinetics (PK) in the range of 5 mg to 40 mg.
+
+                        For patients unable to swallow the capsule, the contents may be sprinkled on applesauce and administered [see Dosage and Administration (2)].
+
+                           Distribution
+
+                        The plasma protein binding of dexmethylphenidate is not known; racemic methylphenidate is bound to plasma proteins by 12% to 15%, independent of concentration. Dexmethylphenidate shows a volume of distribution of 2.65 ± 1.11 L/kg.
+
+                           Elimination
+
+                        Plasma dexmethylphenidate concentrations decline monophasically following oral administration of dexmethylphenidate hydrochloride extended-release capsules. The mean terminal elimination half-life of dexmethylphenidate was about 3 hours in healthy adults. Pediatric patients tend to have slightly shorter half-lives with means of 2 to 3 hours. Dexmethylphenidate was eliminated with a mean clearance of 0.40 ± 0.12 L/hr/kg after intravenous administration.
+
+                           Metabolism
+
+                        In humans, dexmethylphenidate is metabolized primarily via de-esterification to d-α-phenyl-piperidine acetic acid (also known as d-ritalinic acid). This metabolite has little or no pharmacological activity. There is no in vivo interconversion to the l-threo-enantiomer.
+
+                           Excretion
+
+                        After oral dosing of radiolabeled racemic methylphenidate in humans, about 90% of the radioactivity was recovered in urine. The main urinary metabolite of racemic dl-methylphenidate was dl-ritalinic acid, accountable for approximately 80% of the dose. Urinary excretion of parent compound accounted for 0.5% of an intravenous dose.
+
+                           Studies in Specific Populations
+
+                           Male and Female Patients
+
+                        After administration of dexmethylphenidate hydrochloride extended-release capsules, the first peak, (Cmax1) was on average 45% higher in women. The interpeak minimum and the second peak also tended to be slightly higher in women although the difference was not statistically significant, and these patterns remained even after weight normalization.
+
+                           Racial or Ethnic Groups
+
+                        There is insufficient experience with the use of dexmethylphenidate hydrochloride extended-release capsules to detect ethnic variations in pharmacokinetics.
+
+                           Pediatric Patients
+
+                        The pharmacokinetics of dexmethylphenidate after dexmethylphenidate hydrochloride extended-release capsules administration have not been studied in pediatrics less than 18 years of age. When a similar formulation of racemic methylphenidate was examined in 15 patients between 10 and 12 years of age, and 3 patients with ADHD between 7 and 9 years of age, the time to the first peak was similar, although the time until the between peak minimum, and the time until the second peak were delayed and more variable in pediatric patients compared to adults. After administration of the same dose to pediatric patients and adults, concentrations in pediatric patients were approximately twice the concentrations observed in adults. This higher exposure is almost completely due to smaller body size as no relevant age-related differences in dexmethylphenidate pharmacokinetic parameters (i.e., clearance and volume of distribution) are observed after normalization to dose and weight.
+
+                           Patients with Renal Impairment
+
+                        There is no experience with the use of dexmethylphenidate hydrochloride extended-release capsules in patients with renal impairment. Since renal clearance is not an important route of methylphenidate elimination, renal impairment is expected to have little effect on the pharmacokinetics of dexmethylphenidate hydrochloride extended-release capsules.
+
+                           Patients with Hepatic Impairment
+
+                        There is no experience with the use of dexmethylphenidate hydrochloride extended-release capsules in patients with hepatic impairment.
+
+                           Drug Interaction Studies
+
+                        Methylphenidate is not metabolized by cytochrome P450 (CYP) isoenzymes to a clinically relevant extent. Inducers or inhibitors of CYPs are not expected to have any relevant impact on methylphenidate pharmacokinetics. Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, or 3A. Clinically, methylphenidate coadministration did not increase plasma concentrations of the CYP2D6 substrate desipramine.

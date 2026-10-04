@@ -1,0 +1,86 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 12.3 Pharmacokinetics
+
+Absorption
+
+                        Morphine sulfate extended-release capsules consist of two components, an immediate-release component and an extended-release component.
+
+                        The oral bioavailability of morphine is less than 40% and shows large inter-individual variability due to extensive pre-systemic metabolism.
+
+                        Following single-dose oral administration of a 60 mg dose of morphine sulfate extended-release capsules under fasting conditions, morphine concentrations of approximately 3 to 6 ng/mL were achieved within 30 minutes after dosing and maintained for the 24-hour dosing interval. The pharmacokinetics of morphine sulfate extended-release capsules were shown to be dose-proportional over a single oral dose range of 30 to 120 mg in healthy volunteers and a multiple oral dose range of at least 30 to 180 mg in patients with chronic moderate to severe pain.
+
+                           Food Effect: When a 60 mg dose of morphine sulfate extended-release capsules was administered immediately following a high fat meal, peak morphine concentrations and AUC values were similar to those observed when the dose of morphine sulfate extended-release capsules was administered in a fasting state, although achievement of initial concentrations was delayed by approximately 1 hour under fed conditions. Therefore, morphine sulfate extended-release capsules can be administered without regard to food. When the contents of morphine sulfate extended-release capsules were administered by sprinkling on applesauce, the rate and extent of morphine absorption were found to be bioequivalent to the same dose when administered as an intact capsule.
+
+                           Steady State: Steady-state plasma concentrations of morphine are achieved 2 to 3 days after initiation of once-daily administration of morphine sulfate extended-release capsules.
+
+                        Morphine sulfate extended-release 60 mg capsules (once-daily) and 10 mg morphine oral solution (6 times daily) were equally bioavailable.
+
+                           Graph 1
+
+                           Mean Steady-State Plasma Morphine Concentrations Following Once-Daily Administration of morphine sulfate extended-release capsules or 6-Times Daily Administration of Morphine Solution
+
+                        A once-daily dose of morphine sulfate extended-release capsules provided similar Cmax, Cmin, and AUC values and peak-trough fluctuations (% FL, Cmax-Cmin/Cav) compared to 6-times daily administration of the same total daily dose of morphine oral solution (Table 2).
+
+                           Table 2 Pharmacokinetic Data Mean ± SD
+
+                                  Parameter
+                                  |
+
+                                    Morphine Sulfate Extended Release Capsules Once-Daily
+                                  |
+
+                                    Morphine Oral Solution
+
+            6-Times Daily
+                                  |
+
+                                  AUC (ng/mL.h) |
+                                  273.25 ± 81.24 |
+                                  279.11 ± 63.00 |
+
+                                  Cmax (ng/mL) |
+                                  18.65 ± 7.13 |
+                                  19.96 ± 4.82 |
+
+                                  Cmin (ng/mL) |
+                                  6.98 ± 2.44 |
+                                  6.61 ±2.15 |
+
+                                  % FL |
+                                  106.38 ± 78.14 |
+                                  116.22 ± 26.67 |
+
+                           Distribution
+
+                        Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen and brain. Although the primary site of action is the CNS, only small quantities cross the blood-brain barrier. Morphine also crosses the placental membranes and has been found in breast milk [see Use in Specific Populations (8.1, 8.3)]. The volume of distribution of morphine is approximately 1 to 6 L/kg, and morphine is 20 to 35% reversibly bound to plasma proteins.
+
+                           Elimination
+
+                           Metabolism
+
+                           The major pathways of morphine metabolism include glucuronidation to produce metabolites including morphine-3-glucuronide, M3G (about 50%) and morphine-6-glucuronide, M6G (about 5 to 15%) and sulfation in the liver to produce morphine-3-etheral sulfate. A small fraction (less than 5%) of morphine is demethylated. M6G has been shown to have analgesic activity but crosses the blood-brain barrier poorly, while M3G has no significant analgesic activity.
+
+                           Excretion
+
+                           Approximately 10% of a morphine dose is excreted unchanged in the urine. Elimination of morphine is primarily via hepatic metabolism to glucuronide metabolites M3G and M6G which are then renally excreted. A small amount of the glucuronide metabolites is excreted in the bile and there is some minor enterohepatic recycling. Seven to 10% of administered morphine is excreted in the feces. The mean adult plasma clearance of morphine is about 20 to 30 mL/minute/kg. The effective terminal half-life of morphine after IV administration is reported to be approximately 2 hours. The terminal elimination half-life of morphine following single dose of morphine sulfate extended-release capsules administration is approximately 24 hrs.
+
+                         Specific Populations
+
+                           Sex
+
+                           An analysis of pharmacokinetic data from healthy subjects taking morphine sulfate extended-release capsules indicated that morphine concentrations were similar in males and females.
+
+                           Race/Ethnicity
+
+                           Chinese subjects given intravenous morphine had a higher clearance when compared to Caucasian subjects (1852 +/- 116 mL/min compared to 1495 +/- 80 mL/min).
+
+                           Hepatic Impairment
+
+                           Morphine pharmacokinetics are altered in individuals with cirrhosis. Clearance was found to decrease with a corresponding increase in half-life. The M3G and M6G to morphine plasma AUC ratios also decreased in these subjects, indicating diminished metabolic activity. Adequate studies of the pharmacokinetics of morphine in patients with severe hepatic impairment have not been conducted. 
+
+                           Renal Impairment
+
+                           Morphine pharmacokinetics are altered in patients with renal failure. The AUC is increased and clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function. Adequate studies of the pharmacokinetics of morphine in patients with severe renal impairment have not been conducted. 
+
+                           Drug Interaction/Alcohol Interaction
+
+                           In in vitro studies of the dissolution of morphine sulfate extended-release capsules 30 mg mixed with 900 mL of buffer solutions containing ethanol (20% and 40%), the amount of morphine released increased in an alcohol concentration-dependent manner. While the relevance of in vitro lab tests regarding morphine sulfate extended-release capsules to the clinical setting remains to be determined, this acceleration of release may correlate with in vivo rapid release of the total morphine dose, which could result in the absorption of a potentially fatal dose of morphine.

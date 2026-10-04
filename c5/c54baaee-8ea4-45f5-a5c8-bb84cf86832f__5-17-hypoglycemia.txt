@@ -1,0 +1,3 @@
+DailyMed c54baaee-8ea4-45f5-a5c8-bb84cf86832f | Methadone Hydrochloride | 5.17 Hypoglycemia
+
+Cases of methadone-associated hypoglycemia have been reported, some resulting in hospitalization. In many cases, patients had predisposing risk factors (e.g., diabetes). The relationship between methadone and hypoglycemia is not fully understood but may be dose dependent. If hypoglycemia is suspected, monitor blood glucose levels, and manage the patient as clinically appropriate.

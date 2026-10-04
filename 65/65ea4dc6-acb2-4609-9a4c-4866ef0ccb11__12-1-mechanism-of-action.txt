@@ -1,0 +1,4 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 12.1 Mechanism of Action
+
+Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y
+  12 class of ADP receptors on platelets.

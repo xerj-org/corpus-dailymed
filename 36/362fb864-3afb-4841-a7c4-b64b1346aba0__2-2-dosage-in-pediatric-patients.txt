@@ -1,0 +1,63 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 2.2 Dosage in Pediatric Patients
+
+The dosage in pediatric patients ≥ 6 months of age is described below in Table 2.
+
+                           Table 2: Dosage in Pediatric Patients ≥ 6 months of age
+
+                                  Type of Infection*
+
+                                  |
+                                  Dose
+                                  |
+                                  Freq. Once Every
+                                  |
+                                  Duration†
+
+                                  |
+
+                                  Inhalational Anthrax (post-exposure)‡,§
+
+                                  |
+
+                                  Pediatric patients > 50 kg |
+                                  500 mg |
+                                  24 hr |
+                                  60 days§
+                                  |
+
+                                  Pediatric patients < 50 kg and ≥ 6 months of age |
+                                  8 mg/kg
+
+            (not to exceed 250 mg per dose) |
+                                  12 hr |
+                                  60 days§
+                                  |
+
+                                  Plague¶
+
+                                  |
+
+                                  Pediatric patients > 50 kg |
+                                  500 mg |
+                                  24 hr |
+                                  10 to 14 days |
+
+                                  Pediatric patients < 50 kg and ≥ 6 months of age |
+                                  8 mg/kg
+
+            (not to exceed 250 mg per dose) |
+                                  12 hr |
+                                  10 to 14 days |
+
+                        * Due to Bacillus anthracis [see Indications and Usage (1.13
+
+                           )] and Yersinia pestis [see Indications and Usage (1.14)].
+
+                        † Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
+
+                        ‡ Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B.
+                           anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)].
+
+                        § The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.11), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+
+                        ¶ Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.

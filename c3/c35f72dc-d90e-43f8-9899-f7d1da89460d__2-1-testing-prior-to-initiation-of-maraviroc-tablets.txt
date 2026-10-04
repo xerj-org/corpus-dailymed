@@ -1,0 +1,5 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 2.1 Testing prior to Initiation of Maraviroc Tablets
+
+Prior to initiation of maraviroc tablets for treatment of HIV-1 infection, test all patients for CCR5 tropism using a highly sensitive tropism assay. Maraviroc tablets are recommended for patients with only CCR5-tropic HIV-1 infection. Outgrowth of pre-existing low-level CXCR4- or dual/mixed-tropic HIV-1 not detected by tropism testing at screening has been associated with virologic failure on maraviroc tablets [see Microbiology (12.4), Clinical Studies (14.1)].
+
+                        Monitor patients for ALT, AST, and bilirubin prior to initiation of maraviroc tablets and at other time points during treatment as clinically indicated [see Warnings and Precautions (5.1)].

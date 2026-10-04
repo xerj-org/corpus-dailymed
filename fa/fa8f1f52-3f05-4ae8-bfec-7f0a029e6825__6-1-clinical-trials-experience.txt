@@ -1,0 +1,5 @@
+DailyMed fa8f1f52-3f05-4ae8-bfec-7f0a029e6825 | Pemetrexed | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reactions rates cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
+
+                        In clinical trials, the most common adverse reactions (incidence ≥20%) of pemetrexed for injection, when administered as a single agent, are fatigue, nausea, and anorexia. The most common adverse reactions (incidence ≥20%) of pemetrexed for injection, when administered in combination with cisplatin are vomiting, neutropenia, anemia, stomatitis/pharyngitis, thrombocytopenia, and constipation. The most common adverse reactions (incidence ≥20%) of pemetrexed for injection, when administered in combination with pembrolizumab and platinum chemotherapy, are fatigue/asthenia, nausea, constipation, diarrhea, decreased appetite, rash, vomiting, cough, dyspnea, and pyrexia.

@@ -1,0 +1,5 @@
+DailyMed d57720ab-9f83-4da9-a57f-0d55e00a605c | ATORVASTATIN CALCIUM | 12.1 Mechanism of Action
+
+Atorvastatin is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol.  
+
+                        In animal models, atorvastatin calcium lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; atorvastatin calcium also reduces LDL production and the number of LDL particles.

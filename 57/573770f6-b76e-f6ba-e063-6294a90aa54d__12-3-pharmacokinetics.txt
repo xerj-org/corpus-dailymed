@@ -1,0 +1,9 @@
+DailyMed 573770f6-b76e-f6ba-e063-6294a90aa54d | QUZYTTIR | 12.3 Pharmacokinetics
+
+In a single dose crossover study in healthy volunteers under fasting conditions, cetirizine reached a mean C
+
+  maxof 495 ng/mL and 1344 ng/mL following single dose intravenous (IV) administration of 5 mg and 10 mg, respectively, injected over a period of 1 to 1.5 minutes. Peak concentrations were reached at 0.06 hour (range 0.03 to 0.07 hour) and 0.03 hour (range 0.03 to 2.00 hour) for cetirizine hydrochloride 5 mg and 10 mg IV injection, respectively. The mean systemic exposure (AUC
+
+  0-inf) for cetirizine hydrochloride 5 mg and 10 mg IV injection was 1318 ng·hr/mL and 2746 ng·hr/mL, respectively. The AUC
+
+  0-inffor cetirizine hydrochloride 10 mg oral tablet in the study was 2651 ng·hr/mL.

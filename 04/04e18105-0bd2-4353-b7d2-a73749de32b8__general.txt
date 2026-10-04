@@ -1,0 +1,13 @@
+DailyMed 04e18105-0bd2-4353-b7d2-a73749de32b8 | Glipizide | General
+
+Macrovascular Outcomes: There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with glipizide or any other anti-diabetic drug.
+
+                           Renal and Hepatic Disease: The metabolism and excretion of glipizide may be slowed in patients with impaired renal and/or hepatic function. If hypoglycemia should occur in such patients, it may be prolonged and appropriate management should be instituted.
+
+                           Hypoglycemia: All sulfonylurea drugs are capable of producing severe hypoglycemia. Proper patient selection, dosage, and instructions are important to avoid hypoglycemic episodes. Renal or hepatic insufficiency may cause elevated blood levels of glipizide and the latter may also diminish gluconeogenic capacity, both of which increase the risk of serious hypoglycemic reactions. Elderly, debilitated or malnourished patients, and those with adrenal or pituitary insufficiency, are particularly susceptible to the hypoglycemic action of glucose-lowering drugs. Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs. Hypoglycemia is more likely to occur when caloric intake is deficient, after severe or prolonged exercise, when alcohol is ingested, or when more than one glucose-lowering drug is used.
+
+                           Loss of Control of Blood Glucose: When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a loss of control may occur. At such times, it may be necessary to discontinue glipizide and administer insulin.
+
+                        The effectiveness of any oral hypoglycemic drug, including glipizide, in lowering blood glucose to a desired level decreases in many patients over a period of time, which may be due to progression of the severity of the diabetes or to diminished responsiveness to the drug. This phenomenon is known as secondary failure, to distinguish it from primary failure in which the drug is ineffective in an individual patient when first given.
+
+                           Hemolytic Anemia: Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia. Because glipizide belongs to the class of sulfonylurea agents, caution should be used in patients with G6PD deficiency and a non-sulfonylurea alternative should be considered. In postmarketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.

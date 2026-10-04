@@ -1,0 +1,3 @@
+DailyMed 14869f9e-6a66-4f75-b0fc-4d808b1ee85e | Diltiazem Hydrochloride | CLINICAL PHARMACOLOGY
+
+The therapeutic benefits achieved with diltiazem are believed to be related to its ability to inhibit the influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.

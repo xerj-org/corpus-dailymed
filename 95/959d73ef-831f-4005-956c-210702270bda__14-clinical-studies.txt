@@ -1,0 +1,106 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 14 CLINICAL STUDIES
+
+The efficacy of REVTORPYK in combination with fulvestrant, with or without palbociclib, was evaluated in Study 1 of VIKTORIA-1 (NCT05501886), an open label, randomized, multicenter clinical trial that enrolled 392 adult patients with locally advanced (inoperable) or metastatic HR-positive, HER2-negative (defined as immunohistochemistry (IHC) 0 or 1+, or IHC 2+/in situ hybridization (ISH-)) breast cancer without a detectable PIK3CA mutation. The PIK3CA status was assessed centrally for the following PIK3CA mutations: C420R, E542K, E545A, E545D [1635G>T only], E545G, E545K, Q546E, H1047L, H1047R, and H1047Y.  
+
+                  All patients were required to have progression on or after treatment with a CDK4/6 inhibitor and a non-steroidal aromatase inhibitor (AI) therapy. Patients could have received up to two prior lines of endocrine therapy for locally advanced (inoperable) or metastatic disease. Patients were excluded from the trial if they had Type 1 or uncontrolled Type 2 diabetes mellitus (requiring systemic insulin therapy), HbA1c >6.4%, and prior treatment with a PI3K inhibitor, AKT inhibitor, or mTOR inhibitor.
+
+                  Patients were randomized (1:1:1) to three arms as follows:
+
+                     Arm A (N=131): REVTORPYK 180 mg intravenously once weekly for 3 weeks on followed by 1 week off (Days 1, 8, 15 for each 28-day cycle) in combination with fulvestrant 500 mg intramuscularly on cycle 1 Days 1 and 15, and then at Day 1 of each subsequent 28-day cycle, and palbociclib 125 mg orally once daily for 21 days followed by 7 days off treatment for each 28-day cycle (G+F+P), or
+
+                     Arm B (N=130): REVTORPYK 180 mg intravenously once weekly for 3 weeks on followed by 1 week off (Days 1, 8, 15 for each 28-day cycle) in combination with fulvestrant 500 mg intramuscularly on cycle 1 Days 1 and 15, and then at Day 1 of each subsequent 28-day cycle (G+F), or
+
+                     Arm C (N=131): Fulvestrant 500 mg intramuscularly on cycle 1 Days 1 and 15, and then at Day 1 of each subsequent 28-day cycle (F).
+
+                  In addition, all pre/perimenopausal women were required to receive a gonadotropin-releasing hormone (GnRH) agonist. Randomization was stratified by presence of visceral metastases (yes or no), duration on immediate prior therapy (≤6 months or >6 months) and geographical region (Region 1: US or Region 2: Rest of World). Patients received treatment until disease progression or unacceptable toxicity. Patients on Arm C had the option to cross over to study Arm A or Arm B at the time of disease progression.
+
+                  The major efficacy outcome was comparison of progression-free survival (PFS) assessed by blinded independent central review between patients enrolled in Arm A (G+F+P) and Arm C (F), and between patients enrolled in Arm B (G+F) and Arm C (F) evaluated according to Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1. Additional efficacy outcome measures were overall survival (OS), objective response rate (ORR) and duration of response (DoR).
+
+                  The baseline demographic and disease characteristics were: median age 56 years (range: 28 to 83 years); 99% female, of which 26% were pre/perimenopausal; 70% White, 16% Asian, 7% unknown, 2% Black or African American; 65% Not Hispanic/Latino, 28% Hispanic or Latino, 7% not reported/unknown; 100% had Stage IV breast cancer; all patients had prior endocrine therapy and prior CDK4/6 inhibitor therapy; 79% had visceral metastases; and Eastern Cooperative Oncology Group (ECOG) performance status of 0 (59%) or 1 (41%).
+
+                  Efficacy results are summarized in Table 6 and Figures 1 and 2. At the time of the PFS analysis, OS data were not mature with 25% deaths in the overall population.
+
+                     Table 6: Efficacy Results in Patients with Locally Advanced or Metastatic Breast Cancer in Study 1 of VIKTORIA-1
+
+                           CI = confidence interval; CR = complete response; PR = partial response, NE = not estimable |
+
+                            |
+
+                                 REVTORPYK + Fulvestrant+ Palbociclib
+
+                                 N=131
+
+                            |
+
+                              REVTORPYK + Fulvestrant
+
+                              N=130
+                            |
+
+                              Fulvestrant
+
+                              N=131
+                            |
+
+                              Progression-Free Survival (PFS)
+                            |
+
+                            Patients with events, n (%) |
+                           59 (45) |
+                           69 (53) |
+                           89 (68) |
+
+                            MedianBased on Kaplan-Meier estimates.
+
+, months (95% CI) |
+                           9.3 (7.2, 16.6) |
+                           7.4 (5.5, 9.9) |
+                           2.0 (1.8, 2.3) |
+
+                            Hazard ratio (95% CI)Stratified Cox regression model, confidence intervals for hazard ratio is based on the score test (D.Y. Lin 2016).
+
+                            |
+                           0.24Arm A (REVTORPYK plus fulvestrant and palbociclib) versus Arm C (fulvestrant).
+
+ (0.17, 0.35) |
+                           0.33Arm B (REVTORPYK plus fulvestrant) versus Arm C (fulvestrant).
+
+ (0.24, 0.48) |
+                           N/A |
+
+                            p-value |
+                           <0.0001
+                            |
+                           <0.0001
+                            |
+                           N/A |
+
+                              Objective Response Rate (ORR)
+                            |
+
+                            Patients with measurable disease |
+                           124 |
+                           113 |
+                           105 |
+
+                            Patients with CR or PR, n (%) |
+                           39 (32) |
+                           32 (28) |
+                           1 (1.0) |
+
+                            95% CI |
+                           23, 40 |
+                           20, 38 |
+                           0, 5 |
+
+                              Duration of Response (DoR)
+                            |
+
+                            Median, months (95% CI) |
+                           17.5 (8.8, NE) |
+                           12.0 (8.1, NE) |
+                           NE (NE, NE) |
+
+                     Figure 1: Kaplan-Meier Plot of Progression-Free Survival in Study 1 of VIKTORIA-1: REVTORPYK Plus Fulvestrant and Palbociclib versus Fulvestrant
+
+                     Figure 2: Kaplan-Meier Plot of Progression-Free Survival in Study 1 of VIKTORIA-1: REVTORPYK Plus Fulvestrant versus Fulvestrant

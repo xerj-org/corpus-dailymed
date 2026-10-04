@@ -1,0 +1,33 @@
+DailyMed 52e209ac-7156-4496-ba5a-42ee59d45deb | Albuterol sulfate | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications during pregnancy. For more information, contact the Mothers To Baby Pregnancy Studies conducted by the Organization of Teratology Information Specialists at 1-877-311-8972 or visit http://mothertobaby.org/pregnancystudies/.
+
+                        Risk Summary
+
+                        There are no randomized clinical studies of use of albuterol during pregnancy. Available data from published epidemiological studies and postmarketing case reports of pregnancy outcomes following inhaled albuterol use do not consistently demonstrate a risk of major birth defects or miscarriage. There are clinical considerations with use of albuterol in pregnant women [see CLINICAL CONSIDERATIONS]. In animal reproduction studies, when albuterol sulfate was administered subcutaneously to pregnant mice there was evidence of cleft palate at less than and up to 9 times the maximum recommended human daily inhalation dose (MRHDID) [see DATA].
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown. In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                        Clinical Considerations
+
+                           Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+                        In women with poorly or moderately controlled asthma, there is an increased risk of preeclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate. Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control.
+
+                           Labor or Delivery
+
+                        Because of the potential for beta-agonist interference with uterine contractility, use of albuterol sulfate inhalation aerosol for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk. Albuterol sulfate inhalation aerosol has not been approved for the management of pre-term labor. Serious adverse reactions, including pulmonary edema, have been reported during or following treatment of premature labor with beta2-agonists, including albuterol.
+
+                        Data
+
+                           Animal Data
+
+                        In a mouse reproduction study, subcutaneously administered albuterol sulfate produced cleft palate formation in 5 of 111 (4.5%) fetuses at an exposure nine-tenths of the MRHDID for adults (on a mg/m2basis at a maternal dose of 0.25 mg/kg) and in 10 of 108 (9.3%) fetuses at approximately 9 times the MRHDID (on a mg/m2basis at a maternal dose of 2.5 mg/kg). Similar effects were not observed at approximately one-eleventh the MRHDID for adults (on a mg/m2basis at a maternal dose of 0.025 mg/kg). Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated subcutaneously with isoproterenol (positive control).
+
+                        In a rabbit reproduction study, orally administered albuterol sulfate induced cranioschisis in 7 of 19 fetuses (37%) at approximately 750 times the MRHDID (on a mg/m2basis at a maternal dose of 50 mg/kg).
+
+                        In a rat reproduction study, an albuterol sulfate/HFA-134a formulation administered by inhalation did not produce any teratogenic effects at exposures approximately 80 times the MRHDID (on a mg/m2basis at a maternal dose of 10.5 mg/kg).
+
+                        A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material is transferred from the maternal circulation to the fetus.

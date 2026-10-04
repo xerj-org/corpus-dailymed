@@ -1,0 +1,3 @@
+DailyMed 3eb584dc-f72d-4545-96fa-ab3d47be41ce | Mycophenolate mofetil | 5.12 Blood Donation
+
+Patients should not donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil because their blood or blood products might be administered to a female of reproductive potential or a pregnant woman.

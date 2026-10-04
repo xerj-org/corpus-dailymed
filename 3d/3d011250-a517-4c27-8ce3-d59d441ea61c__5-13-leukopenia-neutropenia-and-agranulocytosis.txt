@@ -1,0 +1,11 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 5.13 Leukopenia, Neutropenia and Agranulocytosis
+
+Leukopenia, neutropenia and agranulocytosis (including fatal cases) have been reported during treatment with antipsychotic drugs, including haloperidol decanoate [
+
+  see Adverse Reactions(
+
+  6.2)].
+
+                        Possible risk factors for antipsychotic drug-associated leukopenia and neutropenia include pre-existing low WBC and history of drug-induced leukopenia and neutropenia.
+
+                        Perform frequent complete blood count (CBC) monitoring during the first few months of haloperidol decanoate therapy in patients with a history of a clinically significant low WBC, drug-induced leukopenia or neutropenia. Consider discontinuing haloperidol decanoate inpatients who have a clinically significant decline in their WBC in the absence of other causative factors. Discontinue haloperidol decanoate in patients with clinically significant neutropenia or an absolute neutrophil count of <1,000/mm3 and monitor closely until the neutropenia resolves.

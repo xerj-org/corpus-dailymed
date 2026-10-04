@@ -1,0 +1,3 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 7.2 Carbamazepine
+
+Co-administration with carbamazepine may increase exposure to carbamazepine-epoxide, the active metabolite of carbamazepine. Though available data did not reveal any safety concerns, if tolerability issues arise when co-administered, carbamazepine dose reduction should be considered [see Clinical Pharmacology (12.3)].

@@ -1,0 +1,3 @@
+DailyMed 23a5de40-76d0-4117-8d31-2b2f8a6b0a28 | Benzonatate | PRECAUTIONS
+
+Benzonatate is chemically related to anesthetic agents of the para-amino-benzoic acid class (e.g. procaine; tetracaine) and has been associated with adverse CNS effects possibly related to a prior sensitivity to related agents or interaction with concomitant medication.

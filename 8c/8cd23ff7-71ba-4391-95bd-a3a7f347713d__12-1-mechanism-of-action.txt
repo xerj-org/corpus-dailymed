@@ -1,0 +1,5 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 12.1 Mechanism of Action
+
+Tolterodine acts as a competitive antagonist of acetylcholine at postganglionic muscarinic receptors. Both urinary bladder contraction and salivation are mediated via cholinergic muscarinic receptors.
+
+                        After oral administration, tolterodine is metabolized in the liver, resulting in the formation of 5-hydroxymethyl tolterodine (5-HMT), the major pharmacologically active metabolite. 5-HMT, which exhibits an antimuscarinic activity similar to that of tolterodine, contributes significantly to the therapeutic effect. Both tolterodine and 5-HMT exhibit a high specificity for muscarinic receptors, since both show negligible activity or affinity for other neurotransmitter receptors and other potential cellular targets, such as calcium channels.

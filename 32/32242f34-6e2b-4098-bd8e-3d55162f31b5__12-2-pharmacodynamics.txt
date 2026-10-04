@@ -1,0 +1,3 @@
+DailyMed 32242f34-6e2b-4098-bd8e-3d55162f31b5 | DEXMEDETOMIDINE HYDROCHLORIDE | 12.2 Pharmacodynamics
+
+In a study in healthy adult volunteers (N=10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when dexmedetomidine hydrochloride in 0.9% sodium chloride injection was administered by intravenous infusion at doses within the recommended dose range (0.2 mcg/kg/hr to 0.7 mcg/kg/hr).

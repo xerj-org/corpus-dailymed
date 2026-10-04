@@ -1,0 +1,3 @@
+DailyMed 1b2e5656-9da9-4fab-bf01-ed75896b836a | Glipizide | Titration
+
+Dosage adjustments should ordinarily be in increments of 2.5 to 5 mg, as determined by blood glucose response. At least several days should elapse between titration steps. If response to a single dose is not satisfactory, dividing that dose may prove effective. The maximum recommended once daily dose is 15 mg. Doses above 15 mg should ordinarily be divided and given before meals of adequate caloric content. The maximum recommended total daily dose is 40 mg.

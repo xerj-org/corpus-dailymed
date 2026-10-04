@@ -1,0 +1,95 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Active duodenal ulcer
+
+Cimetidine accelerates the rate of duodenal ulcer healing. Healing rates reported in U.S. and foreign controlled trials with oral cimetidine are summarized below, beginning with the regimen providing the lowest nocturnal dose.
+
+                                       Table 3. Duodenal Ulcer Healing Rates with Various Oral Cimetidine Dosage Regimens1
+
+                                                   Regimen
+
+                                              |
+
+                                                   300 mg four times daily
+
+                                              |
+
+                                                   400 mg times daily
+
+                                              |
+
+                                                   800 mg at bedtime
+
+                                              |
+
+                                                   1600 mg at bedtime
+
+                                              |
+
+                                                week 4
+
+                                              |
+
+                                                68%
+
+                                              |
+
+                                                73%
+
+                                              |
+
+                                                80%
+
+                                              |
+
+                                                86%
+
+                                              |
+
+                                                week 6
+
+                                              |
+
+                                                80%
+
+                                              |
+
+                                                80%
+
+                                              |
+
+                                                89%
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                                week 8
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                                92%
+
+                                              |
+
+                                                94%
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                       1.Averages from controlled clinical trials.
+
+                                    A U.S., double-blind, placebo-controlled, dose-ranging study demonstrated that all once-daily at bedtime cimetidine regimens were superior to placebo in ulcer healing and that cimetidine 800 mg at bedtime healed 75% of patients at four weeks. The healing rate with 800 mg at bedtime was significantly superior to 400 mg at bedtime (66%) and not significantly different from 1600 mg at bedtime (81%).
+
+                                    In the U.S. dose-ranging trial, over 80% of patients receiving cimetidine 800 mg at bedtime experienced nocturnal pain relief after one day. Relief from daytime pain was reported in 70% of patients after two days. As with ulcer healing, the 800 mg at bedtime dose was superior to 400 mg at bedtime and not different from 1600 mg at bedtime.
+
+                                    In foreign, double-blind studies with cimetidine 800 mg at bedtime, 79 to 85% of patients were healed at four weeks.
+
+                                    While short-term treatment with cimetidine can result in complete healing of the duodenal ulcer, acute therapy will not prevent ulcer recurrence after cimetidine has been discontinued. Some follow-up studies have reported that the rate of recurrence once therapy was discontinued was slightly higher for patients healed on cimetidine than for patients healed on other forms of therapy; however, the cimetidine-treated patients generally had more severe disease.

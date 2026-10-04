@@ -1,0 +1,3 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Hemolytic Anemia
+
+Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia. Because glyburide belongs to the class of sulfonylurea agents, caution should be used in patients with G6PD deficiency and a non-sulfonylurea alternative should be considered. In postmarketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.

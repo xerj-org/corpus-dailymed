@@ -1,0 +1,73 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 2.5 Dosage Modifications for Myelosuppression
+
+Withhold or reduce Nilotinib Capsules dosage for hematological toxicities (neutropenia, thrombocytopenia) that are not related to underlying leukemia (Table 3) [see Warnings and Precautions (
+
+                              5.1
+
+                           )].
+
+                         
+
+                           Table 3: Dosage Adjustments for Neutropenia and Thrombocytopenia
+
+                                     Diagnosis
+
+                                  |
+
+                                     Degree of myelosuppression
+
+                                  |
+
+                                     Dosage adjustment
+
+                                  |
+
+                                    Adult patients with:
+
+                                       Newly diagnosed Ph+ CML in chronic phase at 300 mg twice daily
+
+                                       Resistant or intolerant Ph+ CML in chronic phase or accelerated phase at 400 mg twice daily
+
+                                  |
+
+                                    ANC less than 1 x 109/L and/or platelet counts less than 50 x 109/L
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                  |
+
+                                       Stop Nilotinib Capsules, and monitor blood counts.
+
+                                       Resume within 2 weeks at prior dose if ANC greater than 1 x 109/L and platelets greater than 50 x 109/L.
+
+                                       If blood counts remain low for greater than 2 weeks, reduce the dose to 400 mg once daily.
+
+                                     
+
+                                     
+
+                                     
+
+                                  |
+
+                                    Abbreviations: ANC, absolute neutrophil count; Ph+ CML, Philadelphia chromosome positive chronic myeloid leukemia. 
+
+                                  |
+
+                         
+
+                           Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Tasigna
+                           ®
+                            (nilotinib) capsules. However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

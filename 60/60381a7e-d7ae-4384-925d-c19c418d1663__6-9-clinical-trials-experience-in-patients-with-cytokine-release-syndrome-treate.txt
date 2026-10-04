@@ -1,0 +1,3 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 6.9 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+
+In a retrospective analysis of pooled outcome data from multiple clinical trials 45 patients were treated with tocilizumab 8 mg/kg (12 mg/kg for patients less than 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CAR T cell-induced CRS. A median of 1 dose of tocilizumab (range, 1-4 doses) was administered. No adverse reactions related to tocilizumab were reported [see Clinical Studies (14.9)].

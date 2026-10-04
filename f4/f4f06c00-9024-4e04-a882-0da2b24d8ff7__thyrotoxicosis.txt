@@ -1,0 +1,5 @@
+DailyMed f4f06c00-9024-4e04-a882-0da2b24d8ff7 | Atenolol | Thyrotoxicosis
+
+Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism. Abrupt withdrawal of beta blockade might precipitate a thyroid storm; therefore, patients suspected of developing thyrotoxicosis from whom atenolol tablets therapy is to be withdrawn should be monitored closely. (See
+
+  DOSAGE AND ADMINISTRATION.)

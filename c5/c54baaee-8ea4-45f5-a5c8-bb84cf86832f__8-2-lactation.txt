@@ -1,0 +1,11 @@
+DailyMed c54baaee-8ea4-45f5-a5c8-bb84cf86832f | Methadone Hydrochloride | 8.2 Lactation
+
+Risk Summary
+
+                        Based on two small clinical studies, methadone was present in low levels in human milk, but the exposed infants in these studies did not show adverse reactions. Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day which is approximately 2 to 3% of the oral maternal dose. There have been rare case reports of sedation and respiratory depression in infants exposed to methadone through breast milk (see Data). Monitor infants exposed to methadone hydrochloride tablets for oral suspension through breastmilk for excess sedation and respiratory depression. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for methadone and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+
+                           Data
+
+                        In a study of ten breastfeeding women maintained on oral methadone doses of 10 to 80 mg/day, methadone concentrations from 50 to 570 mcg/L in milk were reported, which, in the majority of samples, were lower than maternal serum drug concentrations at steady state. Peak methadone levels in milk occur approximately 4 to 5 hours after an oral dose.
+
+                        In a study of twelve breastfeeding women maintained on oral methadone doses of 20 to 80 mg/day, methadone concentrations from 39 to 232 mcg/L in milk were reported. Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day, which is approximately 2 to 3% of the oral maternal dose. Methadone has been detected in very low plasma concentrations in some infants whose mothers were taking methadone.

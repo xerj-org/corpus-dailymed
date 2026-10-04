@@ -1,0 +1,3 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Drugs that May Decrease Haloperidol Plasma Concentrations
+
+Coadministration of haloperidol with potent enzyme inducers of CYP3A4 may gradually decrease the plasma concentrations of haloperidol to such an extent that efficacy may be reduced.  Examples include (but are not limited to):  carbamazepine, phenobarbital, phenytoin, rifampin, St John's Wort (Hypericum, perforatum).

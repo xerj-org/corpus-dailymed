@@ -1,0 +1,11 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 8.4 Pediatric Use
+
+The safety and effectiveness of piperacillin and tazobactam for injection for intra-abdominal infections, and nosocomial pneumonia have been established in pediatric patients 2 months of age and older.
+
+                        Use of piperacillin and tazobactam for injection in pediatric patients 2 months of age and older with intra-abdominal infections including appendicitis and/or peritonitis is supported by evidence from well-controlled studies and pharmacokinetic studies in adults and in pediatric patients. This includes a prospective, randomized, comparative, open-label clinical trial with 542 pediatric patients 2 to 12 years of age with intra-abdominal infections (including appendicitis and/or peritonitis), in which 273 pediatric patients received piperacillin and tazobactam [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+
+                        Use of piperacillin and tazobactam for injection in pediatric patients 2 months of age and older with nosocomial pneumonia is supported by evidence from well-controlled studies in adults with nosocomial pneumonia, a simulation study performed with a population pharmacokinetic model, and a retrospective, cohort study of pediatric patients with nosocomial pneumonia in which 140 pediatric patients were treated with piperacillin and tazobactam for injection and 267 patients treated with comparators (which included ticarcillin-clavulanate, carbapenems, ceftazidime, cefepime, or ciprofloxacin) [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+
+                        The safety and effectiveness of piperacillin and tazobactam for injection have not been established in pediatric patients less than 2 months of age [see Clinical Pharmacology (12) and Dosage and Administration (2)].
+
+                        Dosage of piperacillin and tazobactam for injection in pediatric patients with renal impairment has not been determined.

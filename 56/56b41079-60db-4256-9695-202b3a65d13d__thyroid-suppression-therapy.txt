@@ -1,0 +1,7 @@
+DailyMed 56b41079-60db-4256-9695-202b3a65d13d | Armour Thyroid | Thyroid Suppression Therapy —
+
+Administration of thyroid hormone in doses higher than those produced physiologically by the gland results in suppression of the production of endogenous hormone. This is the basis for the thyroid suppression test and is used as an aid in the diagnosis of patients with signs of mild hyperthyroidism in whom base line laboratory tests appear normal, or to demonstrate thyroid gland autonomy in patients with Grave’s ophthalmopathy. 131I uptake is determined before and after the administration of the exogenous hormone. A 50% or greater suppression of uptake indicates a normal thyroid-pituitary axis and thus rules out thyroid gland autonomy.
+
+                        For adults, the usual suppressive dose of levothyroxine (T4) is 1.56 mcg/kg of body weight per day given for 7 to 10 days. These doses usually yield normal serum T4 and T3 levels and lack of response to TSH.
+
+                        Thyroid hormones should be administered cautiously to patients in whom there is strong suspicion of thyroid gland autonomy, in view of the fact that the exogenous hormone effects will be additive to the endogenous source.

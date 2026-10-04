@@ -1,0 +1,7 @@
+DailyMed 5b224d7f-fecb-4531-9d27-008347777c9d | MYCOPHENOLIC ACID | 5.3 Lymphoma and Other Malignancies
+
+Patients receiving immunosuppressants, including mycophenolic acid delayed-release tablets, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Adverse Reactions (6)]. The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
+
+                        As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
+
+                        Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients. The majority of PTLD events appear related to Epstein-Barr Virus (EBV) infection. The risk of PTLD appears greatest in those individuals who are EBV seronegative, a population which includes many young children.

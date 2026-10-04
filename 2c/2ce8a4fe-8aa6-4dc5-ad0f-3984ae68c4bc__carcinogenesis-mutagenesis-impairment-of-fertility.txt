@@ -1,0 +1,13 @@
+DailyMed 2ce8a4fe-8aa6-4dc5-ad0f-3984ae68c4bc | Lidocaine | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                           A minor metabolite, 2, 6-xylidine, has been found to be carcinogenic in rats.  The blood concentration of this metabolite is negligible following application of LIDOCAINE PATCH 5%.
+
+                              Mutagenesis
+
+                           Lidocaine HCl is not mutagenic in Salmonella/mammalian microsome test nor clastogenic in chromosome aberration assay with human lymphocytes and mouse micronucleus test.
+
+                              Impairment of Fertility
+
+                           The effect of LIDOCAINE PATCH 5% on fertility has not been studied.

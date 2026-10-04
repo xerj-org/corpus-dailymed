@@ -1,0 +1,3 @@
+DailyMed 0ef9de1a-b786-4b6c-a250-3f5ac532b16a | METFORMIN HYDROCHLORIDE | 8.5 Geriatric Use
+
+Clinical studies of metformin hydrochloride extended-release tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis. Assess renal function more frequently in elderly patients [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].

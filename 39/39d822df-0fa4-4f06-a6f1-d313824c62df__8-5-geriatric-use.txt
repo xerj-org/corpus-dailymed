@@ -1,0 +1,7 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | 8.5 Geriatric Use
+
+Clinical studies of metoprolol tartrate tablets in hypertension did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience in hypertensive patients has not identified differences in responses between elderly and younger patients.
+
+                        In worldwide clinical trials of metoprolol tartrate tablets in myocardial infarction, where approximately 478 patients were over 65 years of age (0 over 75 years of age), no age-related differences in safety and effectiveness were found. Other reported clinical experience in myocardial infarction has not identified differences in response between the elderly and younger patients.
+
+                        In general, use a low initial starting dose in elderly patients given their greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

@@ -1,0 +1,192 @@
+DailyMed c604e181-e336-4194-bf96-f65dd164d461 | Selexipag; Selexipag TITRATION PACK | 14.1 Efficacy of Selexipag Tablets in Adult Patients with Pulmonary Arterial Hypertension
+
+The effect of selexipag tablets on progression of PAH was demonstrated in a multi-center, double-blind, placebo-controlled, parallel group, event-driven study (GRIPHON) in 1,156 adult patients with symptomatic (WHO Functional Class I [0.8%], II [46%], III [53%], and IV [1%]) PAH. Patients were randomized to either placebo (N = 582), or selexipag tablets (N = 574). The dose was increased in weekly intervals by increments of 200 mcg twice a day to the highest tolerated dose up to 1,600 mcg twice a day.
+
+                        The primary study endpoint was the time to first occurrence up to end-of-treatment of: a) death, b) hospitalization for PAH, c) PAH worsening resulting in need for lung transplantation, or balloon atrial septostomy, d) initiation of parenteral prostanoid therapy or chronic oxygen therapy, or e) other disease progression based on a 15% decrease from baseline in 6-minute walk distance (6MWD) plus worsening of Functional Class or need for additional PAH-specific therapy.
+
+                        The mean age was 48 years, the majority of patients were white (65%) and female (80%). Nearly all patients were in WHO Functional Class II and III at baseline.
+
+                        Idiopathic or heritable PAH was the most common etiology in the study population (58%) followed by PAH associated with connective tissue disease (29%), PAH associated with congenital heart disease with repaired shunts (10%), drugs and toxins (2%), and HIV (1%).
+
+                        At baseline, the majority of enrolled patients (80%) were being treated with a stable dose of another PAH therapy (15%), a PDE-5 inhibitor (32%), or both (33%).
+
+                        Patients on selexipag tablets achieved doses within the following groups: 200 mcg to 400 mcg (23%), 600 mcg to 1,000 mcg (31%) and 1,200 mcg to 1,600 mcg (43%).
+
+                        Treatment with selexipag tablets resulted in a 40% reduction (99% CI: 22 to 54%; two-sided log-rank p-value < 0.0001) of the occurrence of primary endpoint events compared to placebo (Table 4; Figure 3). The beneficial effect of selexipag was primarily attributable to a reduction in hospitalization for PAH and a reduction in other disease progression events (Table 4). The observed benefit of selexipag was similar regardless of the dose achieved when patients were titrated to their highest tolerated dose [see Dosage and Administration (2.1)].
+
+                           Figure 3 Kaplan-Meier Estimates of the First Morbidity-Mortality Event in GRIPHON
+
+                           Table 4: Primary Endpoints and Related Components in GRIPHON
+
+                                  |
+
+                                     Selexipag
+
+                                     N=574
+
+                                  |
+
+                                     Placebo
+
+                                     N=582
+
+                                  |
+
+                                     Hazard Ratio
+
+                                     (99% CI)
+
+                                  |
+
+                                     p-value
+
+                                  |
+
+                                  |
+
+                                     n
+
+                                  |
+
+                                     %
+
+                                  |
+
+                                     n
+
+                                  |
+
+                                     %
+
+                                  |
+                                  |
+                                  |
+
+                                     Primary endpoint events up to the end of treatment
+
+                                  |
+
+                                  All primary endpoint events
+
+ As first event:
+
+                                  |
+                                  155
+
+                                  |
+                                  27.0
+
+                                  |
+                                  242
+
+                                  |
+                                  41.6
+
+                                  |
+                                  0.60 [0.46,0.78]
+
+                                  |
+                                  <0.0001
+
+                                  |
+
+                                  • Hospitalization for PAH
+
+ • Other disease progression (Decrease in 6MWD plus worsening functional class or need for other therapy)
+
+ • Death
+
+                                  |
+                                  78
+
+ 38
+
+                                  |
+                                  13.6
+
+ 6.6
+
+                                  |
+                                  109
+
+ 100
+
+                                  |
+                                  18.7
+
+ 17.2
+
+                                  |
+                                  |
+                                  |
+
+                                  28
+
+                                  |
+                                  4.9
+
+                                  |
+                                  18
+
+                                  |
+                                  3.1
+
+                                  |
+
+                                  • Parenteral prostanoid or chronic oxygen therapy
+
+ • PAH worsening resulting in need for lung transplantation or balloon atrial septostomy
+
+                                  |
+                                  10
+
+ 1
+
+                                  |
+                                  1.7
+
+ 0.2
+
+                                  |
+                                  13
+
+ 2
+
+                                  |
+                                  2.2
+
+ 0.3
+
+                                  |
+
+                                  |
+
+                                  |
+
+                        It is not known if the excess number of deaths in the selexipag group is drug-related because there were so few deaths and the imbalance was not observed until 18 months into GRIPHON.
+
+                        Figures 4A, B, and C show time to first event analyses for primary endpoint components of hospitalization for PAH (A), other disease progression (B), and death (C) all censored 7 days after any primary end point event (because many patients on placebo transitioned to open-label selexipag at this point).
+
+                           Figure 4A Hospitalization for PAH as the First Endpoint in GRIPHON
+
+                           Figure 4B Disease Progression as the First Endpoint in GRIPHON
+
+                           Figure 4C Death as the First Endpoint in GRIPHON
+
+                        The treatment effect of selexipag on time to first primary event was consistent irrespective of background PAH therapy (i.e. in combination with another PAH therapy, PDE-5i, both, or without background therapy) (Figure 5).
+
+                           Figure 5 Subgroup Analyses of the Primary Endpoint in GRIPHON
+
+                        Note: Race group "Other" is not displayed in analysis, as the population is less than 30. EU = Number of selexipag patients with events, NU = Number of patients randomized to selexipag, EP = Number of Placebo patients with events, NP = Number of patients randomized to Placebo, HR = Hazard Ratio, CI = Confidence Interval, the size of the squares represent the number of patients in the subgroup.
+
+                        Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all were pre-specified. The 99% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+                           6-Minute Walk Distance (6MWD)
+
+                        Exercise capacity was evaluated as a secondary endpoint. Median absolute change from baseline to week 26 in 6MWD measured at trough (i.e., at approximately 12 hours post-dose) was +4 meters with selexipag and -9 meters in the placebo group. This resulted in a placebo-corrected median treatment effect of 12 meters (99% CI: 1, 24 meters; two-sided p = 0.005).
+
+                           Long-Term Treatment of PAH
+
+                        In long-term follow-up of patients who were treated with selexipag in the pivotal study and the open-label extension (N=574), Kaplan-Meier estimates of survival of these patients across the GRIPHON study and the long-term extension study at 1, 2, 5 and 7 years were 92%, 85%, 71%, and 63%, respectively. The median exposure to selexipag was 3 years. These uncontrolled observations do not allow comparison with a control group not given selexipag and cannot be used to determine the long-term effect of selexipag on mortality.
+
+                           Pediatric use information is approved for Actelion Pharmaceuticals US, Inc.'s Uptravi® (Selexipag) Tablets. However, due to Actelion Pharmaceuticals US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

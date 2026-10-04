@@ -1,0 +1,15 @@
+DailyMed bc99e6af-7050-4653-a681-5b252305a970 | Diclofenac SodiumDelayed Release | Risk Summary
+
+Use of NSAIDs, including diclofenac, can cause premature closure of the fetal ductus arteriosusand fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment. Because of these risks, limit dose and duration of Diclofenac Sodium use between about 20 and 30 weeks of gestation, and avoid Diclofenac Sodium use at about 30 weeks of gestation and later in pregnancy.
+
+                                 Premature Closure of Fetal Ductus Arteriosus
+
+  Use of NSAIDs, including Diclofenac Sodium, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+                                 Oligohydramnios/Neonatal Renal Impairment
+
+  Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+
+  Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive. In animal reproduction studies, no evidence of teratogenicity was observed in mice, rats or rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.5 and 1 times, respectively, the maximum recommended human dose (MRHD) of diclofenac sodium delayedrelease, 200mg/day, despite the presence of maternal and fetal toxicity at these doses (see     ).
+
+  The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. [see     WARNINGS; Fetal Toxicity].

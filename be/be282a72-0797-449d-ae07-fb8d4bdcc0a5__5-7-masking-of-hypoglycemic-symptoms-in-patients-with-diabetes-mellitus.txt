@@ -1,0 +1,3 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 5.7 Masking of Hypoglycemic Symptoms in Patients with Diabetes Mellitus
+
+Beta-adrenergic blocking agents should be administered with caution in patients subject to spontaneous hypoglycemia or to diabetic patients (especially those with labile diabetes) who are receiving insulin or oral hypoglycemic agents. Beta-adrenergic receptor blocking agents may mask the signs and symptoms of acute hypoglycemia.

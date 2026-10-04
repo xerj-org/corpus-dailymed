@@ -1,0 +1,11 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 5.3 Cardiovascular Abnormalities
+
+The most common overall cardiac adverse reactions observed in three pooled lanreotide injection cardiac studies in patients with acromegaly were sinus bradycardia (12/217, 5.5%), bradycardia (6/217, 2.8%), and hypertension (12/217, 5.5%) [see
+                                 Adverse 
+
+                                 Reactions (6.1)
+                              ].
+
+                        In 81 patients with baseline heart rates of 60 beats per minute (bpm) or greater treated with lanreotide injection in Study 3, the incidence of heart rate less than 60 bpm was 23% (19/81) as compared to 16% (15/94) of placebo treated patients; 10 patients (12%) had documented heart rates less than 60 bpm on more than one visit. The incidence of documented episodes of heart rate less than 50 bpm as well as the incidence of bradycardia reported as an adverse event was 1% in each treatment group. Initiate appropriate medical management in patients who develop symptomatic bradycardia.
+
+                        In patients without underlying cardiac disease, lanreotide injection may lead to a decrease in heart rate without necessarily reaching the threshold of bradycardia. In patients suffering from cardiac disorders prior to lanreotide injection treatment, sinus bradycardia may occur. Care should be taken when initiating treatment with lanreotide injection in patients with bradycardia.

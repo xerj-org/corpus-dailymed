@@ -1,0 +1,7 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 5.4 Thrombotic Thrombocytopenic Purpura (TTP)
+
+TTP, sometimes fatal, has been reported following use of clopidogrel tablets, sometimes after a short exposure (<2 weeks). TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange). It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever
+
+  [see
+
+   Adverse Reactions (6.2)].

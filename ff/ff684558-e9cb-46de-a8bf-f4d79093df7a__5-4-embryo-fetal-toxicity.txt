@@ -1,0 +1,5 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 5.4 Embryo-Fetal Toxicity
+
+Based on findings in animals and its mechanism of action, BEQALZI can cause fetal harm when administered to a pregnant woman. In embryo-fetal development toxicity studies conducted in pregnant mice and rabbits, oral administration of sonrotoclax during the period of organogenesis caused adverse developmental outcomes, including structural abnormalities and altered fetal growth at approximately ≥2 times the clinical exposure based on the area under the concentration-time curve (AUC) at the recommended dose in humans (320 mg/day).
+
+                        Advise patients of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with BEQALZI and for 1 week after the last dose. Advise males with female partners of reproductive potential to use effective contraception during treatment and for 1 week after the last dose [see Use in Specific Populations (8.1, 8.3)].

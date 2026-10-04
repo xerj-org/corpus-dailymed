@@ -1,0 +1,5 @@
+DailyMed c9bd730d-c06e-47ef-b003-4dde6336f8ae | Acetazolamide | WARNINGS
+
+Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias, and anaphylaxis. Sensitizations may recur when a sulfonamide is readministered irrespective of the route of administration. If signs of hypersensitivity or other serious reactions occur, discontinue use of this drug.
+
+                  Caution is advised for patients receiving concomitant high-dose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, metabolic acidosis, coma, and death have been reported.

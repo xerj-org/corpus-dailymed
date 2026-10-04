@@ -1,0 +1,7 @@
+DailyMed 01dcea95-b391-79da-bbfe-412f39022e9a | Prucalopride | 8.6 Renal Impairment
+
+No dosage adjustment is required for patients with mild and moderate renal impairment (creatinine clearance at least 30 mL/min, as determined from a 24-hour urine collection in the clinical trial).
+
+                        Prucalopride is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function. A decreased dosage is recommended in patients with severe renal impairment (creatinine clearance less than 30 mL/min, as determined from a 24-hour urine collection in the clinical trial) [see Dosage and Administration (2)].
+
+                        Avoid prucalopride tablets in patients with end-stage renal disease requiring dialysis [see Clinical Pharmacology (12.3)].

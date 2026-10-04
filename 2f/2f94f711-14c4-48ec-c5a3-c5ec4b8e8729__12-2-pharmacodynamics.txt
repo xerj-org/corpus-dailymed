@@ -1,0 +1,5 @@
+DailyMed 2f94f711-14c4-48ec-c5a3-c5ec4b8e8729 | Lidocaine Hydrochloride and Epinephrine | 12.2 Pharmacodynamics
+
+Excessive blood levels may cause changes in cardiac output, total peripheral resistance, and mean arterial pressure. With central neural blockade these changes may be attributable to block of autonomic fibers, a direct depressant effect of the local anesthetic agent on various components of the cardiovascular system, and/or the beta-adrenergic receptor stimulating action of epinephrine when present. The net effect is normally a modest hypotension when the recommended dosages are not exceeded.
+
+                        Factors such as acidosis and the use of CNS stimulants and depressants affect the CNS levels of lidocaine hydrochloride required to produce overt systemic effects. Objective adverse manifestations become increasingly apparent with increasing venous plasma levels above 6 mcg free base per mL.

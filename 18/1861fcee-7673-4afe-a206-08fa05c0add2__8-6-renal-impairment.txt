@@ -1,0 +1,4 @@
+DailyMed 1861fcee-7673-4afe-a206-08fa05c0add2 | NovoLog Mix 70/30 | 8.6 Renal Impairment
+
+The effect of renal impairment on the pharmacokinetics of NOVOLOG MIX 70/30 has not been studied. Some studies with human insulin have shown increased circulating levels of insulin in patients with renal failure. Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent NOVOLOG MIX 70/30 dose adjustment and more frequent blood glucose monitoring
+                              [see Warnings and Precautions (5.3)].

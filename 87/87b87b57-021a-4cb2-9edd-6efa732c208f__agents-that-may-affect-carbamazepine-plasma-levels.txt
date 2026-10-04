@@ -1,0 +1,13 @@
+DailyMed 87b87b57-021a-4cb2-9edd-6efa732c208f | Carbamazepine | Agents That May Affect Carbamazepine Plasma Levels
+
+When carbamazepine is given with drugs that can increase or decrease carbamazepine levels, close monitoring of carbamazepine levels is indicated and dosage adjustment may be required.
+
+                           Agents That Increase Carbamazepine Levels
+
+  CYP3A4 inhibitors inhibit carbamazepine metabolism and can thus increase plasma carbamazepine levels. Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, (e.g., erythromycin, clarithromycin), fluoxetine, fluvoxamine, trazodone, omeprazole, oxybutynin, isoniazid, niacinamide (nicotinamide), azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.
+
+                        Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10, 11-transdiol derivative from carbamazepine-10,11 epoxide. Coadministration of inhibitors of human microsomal epoxide hydrolase may result in increased carbamazepine-10,11 epoxide plasma concentrations. Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, valproic acid, or brivaracetam.
+
+                           Agents That Decrease Carbamazepine Levels
+
+  CYP3A4 inducers can increase the rate of carbamazepine metabolism. Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include cisplatin, doxorubicin HCl, felbamate, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.

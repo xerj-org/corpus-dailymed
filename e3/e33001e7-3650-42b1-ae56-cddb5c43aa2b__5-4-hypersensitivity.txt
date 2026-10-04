@@ -1,0 +1,3 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 5.4 Hypersensitivity
+
+Hypersensitivity occurred in 172 of 556 (31%) patients receiving SCEMBLIX, with Grade 3 or 4 hypersensitivity reported in 6 (1.1%) patients [see Adverse Reactions (6.1)]. Reactions included rash, edema, and bronchospasm. Monitor patients for signs and symptoms of hypersensitivity and initiate appropriate treatment as clinically indicated; for Grade 3 or higher hypersensitivity, temporarily withhold, reduce dose, or permanently discontinue SCEMBLIX depending on persistence of hypersensitivity [see Dosage and Administration (2.4)].

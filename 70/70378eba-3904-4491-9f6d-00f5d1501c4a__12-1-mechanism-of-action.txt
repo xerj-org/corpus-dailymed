@@ -1,0 +1,3 @@
+DailyMed 70378eba-3904-4491-9f6d-00f5d1501c4a | Pantoprazole Sodium | 12.1 Mechanism of Action
+
+Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H+, K+)-ATPase enzyme system at the secretory surface of the gastric parietal cell. This effect leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus. The binding to the (H+, K+)-ATPase results in a duration of antisecretory effect that persists longer than 24 hours for all doses tested (20 mg to 120 mg).

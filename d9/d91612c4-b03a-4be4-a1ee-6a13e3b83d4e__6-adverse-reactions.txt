@@ -1,0 +1,9 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 6 ADVERSE REACTIONS
+
+The following important adverse reactions are described elsewhere in the labeling:
+
+                     Somnolence and Sedation [see Warnings and Precautions (5.1)]
+
+                     Suicidal Behavior and Ideation [see Warnings and Precautions (5.2)]
+
+                     Withdrawal of Antiepileptic Drugs [see Warnings and Precautions (5.3)]

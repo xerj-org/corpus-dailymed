@@ -1,0 +1,3 @@
+DailyMed ce15ad07-3286-478f-9f30-1db6a45ed402 | Pravastatin Sodium | 5.2 Immune-Mediated Necrotizing Myopathy
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use, including reports of recurrence when the same or a different statin was administered. IMNM is characterized by proximal muscle weakness and elevated serum creatine kinase that persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents. Additional neuromuscular and serologic testing may be necessary. Treatment with immunosuppressive agents may be required. Discontinue pravastatin  if IMNM is suspected.

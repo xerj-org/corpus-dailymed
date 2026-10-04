@@ -1,0 +1,5 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 6.2 Clinical Trials Experience in Rheumatoid Arthritis Patients Treated with Subcutaneous Tocilizumab (Tocilizumab-SC)
+
+The tocilizumab-SC data in rheumatoid arthritis (RA) includes 2 double-blind, controlled, multicenter studies. Study SC-I was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week subcutaneously and 8 mg/kg intravenously every four weeks in 1262 adult subjects with rheumatoid arthritis. Study SC-II was a placebo controlled superiority study that evaluated the safety and efficacy of tocilizumab 162 mg administered every other week subcutaneously or placebo in 656 patients. All patients in both studies received background non-biologic DMARDs.
+
+                        The safety observed for tocilizumab-SC administered subcutaneously was consistent with the known safety profile of intravenous tocilizumab, with the exception of injection site reactions (ISRs), which were more common with tocilizumab-SC compared with placebo SC injections (IV arm).

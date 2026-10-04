@@ -1,0 +1,43 @@
+DailyMed e76f35a5-711c-c511-9fd8-b8c4c0b43b85 | Deflazacort Oral Suspension | 14 CLINICAL STUDIES
+
+The effectiveness of deflazacort for the treatment of DMD was established in Study 1, a multicenter, randomized, double-blind, placebo-controlled, 52-week study conducted in the US and Canada. The study population consisted of 196 male pediatric patients 5 to 15 years of age with documented mutation of the dystrophin gene, onset of weakness before 5 years of age, and serum creatinine kinase activity at least 10 times the upper limit of normal (ULN) at some stage in their illness. Patients were randomized to therapy with deflazacort (0.9 or 1.2 mg/kg/day), an active comparator, or placebo. A comparison to placebo was made after 12 weeks of treatment. After 12 weeks, placebo patients were re-randomized to receive either deflazacort or the active comparator; all patients continued treatment for an additional 40 weeks. Baseline characteristics were comparable between the treatment arms.
+
+                  In Study 1, efficacy was evaluated by assessing the change between Baseline and Week 12 in average strength of 18 muscle groups. Individual muscle strength was graded using a modified Medical Research Council (MRC) 11-point scale, with higher scores representing greater strength.
+
+                  The change in average muscle strength score between Baseline and Week 12 was significantly greater for the deflazacort 0.9 mg/kg/day dose group than for the placebo group (see Table 2).
+
+                     Table 2: Analysis of Change from Baseline at Week 12 in Average Muscle Strength Score (Study 1)
+
+                              Treatment 
+                            |
+
+                              N
+                            |
+
+                                 Change from Baseline
+
+                              LS Mean (95% CI) 
+                            |
+
+                              P-value
+                            |
+
+                           Deflazacort 0.9 mg/kg/day |
+                           51  |
+                           0.15 (0.01, 0.28)  |
+                           0.017  |
+
+                           Placebo |
+                           50  |
+                           -0.10 (-0.23, 0.03)  |
+                            |
+
+                  Compared with the deflazacort 0.9 mg/kg/day group, the deflazacort 1.2 mg/kg/day group demonstrated a small additional benefit compared to placebo at Week 12, but had a greater incidence of adverse reactions. Therefore, use of a 1.2 mg/kg/day dosage of deflazacort is not recommended [see Dosage and Administration (
+
+                        2.2
+
+                     )].
+
+                  Although not a pre-specified statistical analysis, compared with placebo, the deflazacort 0.9 mg/kg/day dose group demonstrated at Week 52 the persistence of the treatment effect observed at Week 12 and the small advantage of the 1.2 mg/kg/day dose that was observed at Week 12 was no longer present. Also not statistically controlled for multiple comparisons, results on several timed measures of patient function (i.e., time to stand from supine, time to climb 4 stairs, and time to walk or run 30 feet) numerically favored deflazacort 0.9 mg/kg/day at Week 12, in comparison with placebo.
+
+                  An additional randomized, double-blind, placebo-controlled, 104-week clinical trial evaluated deflazacort in comparison to placebo (Study 2). The study population consisted of 29 male children 6 to 12 years of age with a DMD diagnosis confirmed by the documented presence of abnormal dystrophin or a confirmed mutation of the dystrophin gene. The results of the analysis of the primary endpoint of average muscle strength scores in Study 2 (graded on a 0-5 scale) at 2 years were not statistically significant, possibly because of a limited number of patients remaining in the placebo arm (subjects were discontinued from the trial when they lost ambulation). Although not statistically controlled for multiple comparisons, average muscle strength scores at Months 6 and 12, as well as the average time to loss of ambulation, numerically favored deflazacort in comparison with placebo.

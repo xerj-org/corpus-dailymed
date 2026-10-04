@@ -1,0 +1,13 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 5.11 Renal Toxicity
+
+Proteinuria with or without moderate reduction in glomerular filtration rate have been reported with the use of hydroxychloroquine sulfate tablets.
+
+                        Renal biopsy showed phospholipidosis without immune deposits, inflammation, and/or increased cellularity. Physicians should consider phospholipidosis as a possible cause of renal injury in patients with underlying connective tissue disorders who are receiving hydroxychloroquine sulfate tablets. Drug- induced phospholipidosis may occur in other organ systems
+
+  [see Warnings and Precautions (
+
+   5.1,
+
+   5.8)].
+
+  Discontinue hydroxychloroquine sulfate tablets if renal toxicity is suspected or demonstrated by tissue biopsy.

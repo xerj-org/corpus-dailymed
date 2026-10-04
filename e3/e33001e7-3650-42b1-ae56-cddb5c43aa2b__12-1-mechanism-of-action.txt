@@ -1,0 +1,3 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 12.1 Mechanism of Action
+
+Asciminib is an ABL/BCR-ABL1 tyrosine kinase inhibitor. Asciminib inhibits the ABL1 kinase activity of the BCR::ABL1 fusion protein, by binding to the ABL myristoyl pocket. In studies conducted in vitro or in animal models of CML, asciminib showed activity against wild-type BCR::ABL1 and several mutant forms of the kinase, including the T315I mutation.

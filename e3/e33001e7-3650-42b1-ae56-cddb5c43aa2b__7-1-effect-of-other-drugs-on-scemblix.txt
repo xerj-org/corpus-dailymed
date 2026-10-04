@@ -1,0 +1,13 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 7.1 Effect of Other Drugs on SCEMBLIX
+
+Strong CYP3A4 Inhibitors
+
+                        Asciminib is a CYP3A4 substrate. Concomitant use of SCEMBLIX with a strong CYP3A4 inhibitor increases both the asciminib Cmax and AUC, which may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)]. Closely monitor for adverse reactions in patients treated with SCEMBLIX at 200 mg twice daily with concomitant use of strong CYP3A4 inhibitors.
+
+                           Itraconazole Oral Solution Containing Hydroxypropyl-β-cyclodextrin
+
+                        Concomitant use of SCEMBLIX with itraconazole oral solution containing hydroxypropyl-β-cyclodextrin decreases asciminib Cmax and AUC, which may reduce SCEMBLIX efficacy [see Clinical Pharmacology (12.3)]. Avoid coadministration of SCEMBLIX at all recommended doses with itraconazole oral solution containing hydroxypropyl-β-cyclodextrin.
+
+                           Strong CYP3A4 Inducers
+
+                        Concomitant use of SCEMBLIX with strong CYP3A4 inducers decreases both the asciminib Cmax and AUC [see Clinical Pharmacology (12.3)].

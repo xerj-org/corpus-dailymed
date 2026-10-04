@@ -1,0 +1,37 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Postmarketing Experience
+
+The following adverse reactions relating to the active moiety haloperidol have been identified during postapproval use of haloperidol or haloperidol decanoate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia
+
+                           Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles
+
+                           Endocrine Disorders: Inappropriate antidiuretic hormone secretion
+
+                           Gastrointestinal Disorders: Vomiting, Nausea
+
+                           General  Disorders  and  Administration  Site  Conditions:  Sudden  death,  Face  edema, Edema, Hyperthermia, Hypothermia
+
+                           Hepatobiliary Disorders: Acute hepatic failure, Hepatitis, Cholestasis, Jaundice, Liver function test abnormal
+
+                           Immune System Disorders: Anaphylactic reaction, Hypersensitivity
+
+                           Investigations: Electrocardiogram QT prolonged, Weight decreased
+
+                           Metabolic and Nutritional Disorders: Hypoglycemia
+
+                           Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis
+
+                           Nervous System Disorders: Convulsion, Headache, Opisthotonus, Tardive dystonia
+
+                           Pregnancy, Puerperium and Perinatal Conditions: Drug withdrawal syndrome neonatal
+
+                           Psychiatric Disorders: Agitation, Confusional state, Depression, Insomnia
+
+                           Renal and Urinary Disorders: Urinary retention
+
+                           Reproductive System and Breast Disorders: Priapism, Gynecomastia
+
+                           Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
+
+                           Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis

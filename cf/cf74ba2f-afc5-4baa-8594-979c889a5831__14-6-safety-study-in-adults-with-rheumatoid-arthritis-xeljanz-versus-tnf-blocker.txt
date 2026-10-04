@@ -1,0 +1,504 @@
+DailyMed cf74ba2f-afc5-4baa-8594-979c889a5831 | XELJANZ; XELJANZXR | 14.6 Safety Study in Adults with Rheumatoid Arthritis (XELJANZ Versus TNF-blocker)
+
+A randomized open-label trial (RA Safety Study 1; NCT02092467) was conducted to evaluate safety with XELJANZ tablets (referred to as “XELJANZ” in this subsection of labeling) at two doses, 5 mg twice daily (N=1455) and 10 mg twice daily (N=1456), versus the TNF-blocker control (N=1451) in RA patients 50 years of age and older with at least one cardiovascular risk factor. The co-primary endpoints were adjudicated MACE (defined as cardiovascular death, non-fatal MI, and non-fatal stroke) and adjudicated malignancy (excluding non-melanoma skin cancer). The study was designed to exclude a prespecified risk margin of 1.8 for the hazard ratio of combined XELJANZ regimens versus the TNF-blocker control for each co-primary endpoint. An independent committee conducted a blinded evaluation of the co-primary endpoints according to predefined criteria (adjudication). The study was event-driven and patients were followed until a sufficient number of primary outcome events accrued. Other endpoints included mortality, serious infections, and thromboembolic events. The median on-study follow-up time was 4 years.
+
+                        The mean age of the population was 61 years (range: 50 to 88 years). Most patients were female (78%) and Caucasian (77%). Patients had a diagnosis of RA for a mean of 10 years, and a median swollen and tender joint count of 11 and 15 respectively. Cardiovascular risk factors included cigarette smoking (current or past) (48%), hypertension (66%), high density lipoprotein <40 mg/dL (12%), diabetes mellitus (17%), family history of premature coronary heart disease (15%), extra-articular disease associated with RA (37%), and history of coronary artery disease (11%).
+
+                        The non-inferiority criterion was not met for the primary comparison of the combined XELJANZ dosages to TNF blockers since the upper limit of the 95% CI exceeded the pre-specified non-inferiority criterion of 1.8 (for MACE, the upper limit of the 95% CI was 1.94; for malignancies excluding NMSC, the upper limit of the 95% CI was 2.09).
+
+                        Table 22 shows the study results for each of the co-primary endpoints, and other endpoints. There was an increased risk of death, MACE, malignancies, serious infections, thromboembolic events, and fractures associated with both dosages of XELJANZ.
+
+                           Table 22: Results of RA Safety Study 1 in Adults with Rheumatoid Arthritis 50 years of Age and Older with at Least One Cardiovascular Risk Factor
+
+                                    Endpoint
+                                  |
+
+                                    TNF Blocker
+
+                                    N=1451
+
+                                    PY=5526
+                                  |
+
+                                    XELJANZ
+
+                                    5 mg
+
+                                    Twice Daily
+
+                                    N=1455
+
+                                    PY=5551
+                                  |
+
+                                    XELJANZ
+
+                                    10 mg
+
+                                    Twice Daily
+
+                                    N=1456
+
+                                    PY=5371
+                                  |
+
+                                 Note: XELJANZ 10 mg twice daily was discontinued by the Data Monitoring Committee due to safety concerns, and ongoing patients switched from XELJANZ 10 mg to XELJANZ 5 mg. The column “XELJANZ 10 mg Twice Daily” includes all events and follow-up for patients randomized to XELJANZ 10 mg twice daily. A XELJANZ (refers to tablets and oral solution) 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA, PsA, AS, or pcJIA [see Dosage and Administration (2.3)].
+
+N indicates number of patients; n indicates number of patients with events.
+
+IR indicates incidence rate per 100 person-year (PY).
+
+NMSC: Non-melanoma Skin Cancer; MACE: Major Adverse Cardiac Events; HR: Hazard Ratio; DVT: Deep Vein Thrombosis; PE: Pulmonary Embolism; VTE: Venous Thromboembolism, first occurrence of a VTE, defined as the composite of adjudicated DVT and adjudicated PE; ATE: Arterial Thromboembolism; TE: Thromboembolism, first occurrence of a TE, defined as the composite of adjudicated VTE and unadjudicated ATE. |
+
+                                       MACE, n [IR]
+
+                                  |
+
+                                    43 [0.79]
+
+                                  |
+
+                                    50 [0.91]
+
+                                  |
+
+                                    59 [1.11]
+
+                                  |
+
+                                        HR (95% CI)HR (95%) CI for XELJANZ vs. TNF Blocker (Univariate Cox Proportional Hazard Model).
+
+                                  |
+
+                                  |
+
+                                    1.16 (0.77, 1.74)
+
+                                  |
+
+                                    1.41 (0.95, 2.10)
+
+                                  |
+
+                                      MI,MI and Stroke include fatal and non-fatal events.
+
+ n [IR]
+
+                                  |
+
+                                    11 [0.20]
+
+                                  |
+
+                                    20 [0.36]
+
+                                  |
+
+                                    21 [0.39]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+                                  |
+
+                                    1.81 (0.87, 3.79)
+
+                                  |
+
+                                    1.97 (0.95, 4.09)
+
+                                  |
+
+                                      Stroke, n [IR]
+
+                                  |
+
+                                    20 [0.36]
+
+                                  |
+
+                                    18 [0.33]
+
+                                  |
+
+                                    21 [0.39]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+
+                                  |
+
+                                    0.89 (0.47, 1.69)
+
+                                  |
+
+                                    1.08 (0.59, 2.00)
+
+                                  |
+
+                                      Cardiovascular Death, n [IR]
+
+                                  |
+
+                                    15 [0.27]
+
+                                  |
+
+                                    18 [0.32]
+
+                                  |
+
+                                    25 [0.47]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+                                  |
+
+                                    1.20 (0.60, 2.37)
+
+                                  |
+
+                                    1.71 (0.90, 3.24)
+
+                                  |
+
+                                       Malignancies Excl. NMSC, n [IR]
+
+                                  |
+
+                                    42 [0.77]
+
+                                  |
+
+                                    62 [1.13]
+
+                                  |
+
+                                    60 [1.13]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+                                  |
+
+                                    1.47 (1.00, 2.18)
+
+                                  |
+
+                                    1.48 (1.00, 2.19)
+
+                                  |
+
+                                      Malignancies Excl. NMSC
+
+(among current and past smokers)Data and analyses for Malignancies excluding NMSC for current and ex-smokers are included. There were 720 current and ex-smokers randomized to XELJANZ 5 mg, 704 to XELJANZ 10 mg, and 679 to TNF blockers.
+
+                                  |
+
+                                    25 [0.99]
+
+                                  |
+
+                                    41 [1.53]
+
+                                  |
+
+                                    48 [1.91]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+                                  |
+
+                                    1.55 (0.94, 2.55)
+
+                                  |
+
+                                    1.94 (1.19, 3.14)
+
+                                  |
+
+                                       All Death
+
+                                  |
+
+                                    38 [0.69]
+
+                                  |
+
+                                    49 [0.88]
+
+                                  |
+
+                                    66 [1.23]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+
+                                  |
+
+                                    1.29 (0.84, 1.96)
+
+                                  |
+
+                                    1.79 (1.20, 2.66)
+
+                                  |
+
+                                       Serious Infections
+
+                                  |
+
+                                    133 [2.52]
+
+                                  |
+
+                                    155 [2.95]
+
+                                  |
+
+                                    184 [3.65]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+
+                                  |
+
+                                    1.17 (0.93, 1.47)
+
+                                  |
+
+                                    1.44 (1.15, 1.80)
+
+                                  |
+
+                                       DVT
+
+                                  |
+
+                                    9 [0.16]
+
+                                  |
+
+                                    12 [0.22]
+
+                                  |
+
+                                    15 [0.28]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+
+                                  |
+
+                                    1.33 (0.56, 3.15)
+
+                                  |
+
+                                    1.72 (0.75, 3.92)
+
+                                  |
+
+                                       PE
+
+                                  |
+
+                                    3 [0.05]
+
+                                  |
+
+                                    10 [0.18]
+
+                                  |
+
+                                    26 [0.49]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+
+                                  |
+
+                                    3.32 (0.91, 12.08)
+
+                                  |
+
+                                    8.95 (2.71, 29.56)
+
+                                  |
+
+                                       VTE
+
+                                  |
+
+                                    12 [0.22]
+
+                                  |
+
+                                    18 [0.33]
+
+                                  |
+
+                                    36 [0.68]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+
+                                  |
+
+                                    1.50 (0.72, 3.10)
+
+                                  |
+
+                                    3.10 (1.61, 5.96)
+
+                                  |
+
+                                       ATE
+
+                                  |
+
+                                    45 [0.83]
+
+                                  |
+
+                                    51 [0.93]
+
+                                  |
+
+                                    55 [1.04]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+
+                                  |
+
+                                    1.13 (0.76, 1.69)
+
+                                  |
+
+                                    1.26 (0.85, 1.87)
+
+                                  |
+
+                                       TE
+
+                                  |
+
+                                    56 [1.03]
+
+                                  |
+
+                                    67 [1.23]
+
+                                  |
+
+                                    86 [1.65]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+                                  |
+
+                                    1.19 (0.84, 1.70)
+
+                                  |
+
+                                    1.60 (1.14, 2.23)
+
+                                  |
+
+                                       All Fractures
+
+                                  |
+
+                                    121 [2.32]
+
+                                  |
+
+                                    138 [2.64]
+
+                                  |
+
+                                    141 [2.80]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+                                  |
+
+                                    1.14 (0.90, 1.46)
+
+                                  |
+
+                                    1.21 (0.95, 1.54)
+
+                                  |
+
+                                       Osteoporotic Fractures
+
+                                  |
+
+                                    49 [0.91]
+
+                                  |
+
+                                    58 [1.07]
+
+                                  |
+
+                                    70 [1.34]
+
+                                  |
+
+                                        HR (95% CI)
+
+                                  |
+                                  |
+
+                                    1.18 (0.81, 1.73)
+
+                                  |
+
+                                    1.48 (1.03, 2.13)
+
+                                  |
+
+                        Lymphomas and lung cancers, which are a subset of all malignancies in RA Safety Study 1, were observed at a higher rate in patients treated with XELJANZ 5 mg twice a day and XELJANZ 10 mg twice a day compared to those treated with TNF blockers. Lymphoma was reported for 4 patients who received XELJANZ 5 mg twice a day, 6 patients who received XELJANZ 10 mg twice a day, and 1 patient who received TNF blockers (Incidence Rate [IR] of 0.07, 0.11, and 0.02 per 100 patient-years, respectively). Among current and past smokers, lung cancer was reported for 13 patients who received XELJANZ 5 mg twice a day, 15 patients who received XELJANZ 10 mg twice a day, and 7 patients who received TNF blockers (IR of 0.48, 0.59, and 0.27 per 100 patient-years, respectively).
+
+                        Given these increased risks, XELJANZ (tablets and oral solution) 10 mg twice daily (or XELJANZ XR (extended-release tablets) 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, AS or pcJIA [see Dosage and Administration (2.3, 2.4)].
+
+                        The overall fractures and osteoporotic fractures were observed at a higher rate in both XELJANZ treatment groups compared to the TNF blocker treatment group. The observed incidence rate of osteoporotic fractures was higher in women than men, and was highest in women on XELJANZ 10 mg twice daily (1.56 per 100 patient-years), followed by XELJANZ 5 mg twice daily (1.26 per 100 patient-years), and TNF blockers (1.01 per 100 patient-years).

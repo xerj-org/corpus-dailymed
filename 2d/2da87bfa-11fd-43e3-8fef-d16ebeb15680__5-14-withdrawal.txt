@@ -1,0 +1,5 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 5.14 Withdrawal
+
+Do not rapidly reduce or abruptly discontinue morphine sulfate extended-release capsules in a patient physically dependent on opioids. When discontinuing morphine sulfate extended-release capsules in a physically dependent patient, gradually taper the dosage. Rapid tapering of meperidine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+
+                        Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including morphine sulfate extended-release capsules. In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].

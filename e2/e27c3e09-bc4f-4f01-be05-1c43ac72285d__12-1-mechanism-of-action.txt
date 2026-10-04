@@ -1,0 +1,3 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 12.1 Mechanism of Action
+
+Nilotinib is an inhibitor of the BCR-ABL kinase. Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of ABL protein. In vitro, nilotinib inhibited BCR-ABL mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML. Under the conditions of the assays, nilotinib was able to overcome imatinib resistance resulting from BCR-ABL kinase mutations, in 32 out of 33 mutations tested. Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: BCR-ABL (20 to 60 nM), PDGFR (69 nM), c-KIT (210 nM), CSF-1R (125 to 250 nM), and DDR1 (3.7 nM).

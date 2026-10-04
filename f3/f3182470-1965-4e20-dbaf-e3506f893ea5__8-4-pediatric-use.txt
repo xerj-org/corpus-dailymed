@@ -1,0 +1,5 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 8.4 Pediatric Use
+
+Safety and effectiveness of ROTARIX in infants younger than 6 weeks or older than 24 weeks of age have not been evaluated.
+
+                        The effectiveness of ROTARIX in pre-term infants has not been established. Safety data are available in pre-term infants (ROTARIX = 134, placebo = 120) with a reported gestational age ≤36 weeks. These pre-term infants were followed for SAEs up to 30 to 90 days after Dose 2. SAEs were observed in 5.2% of recipients of ROTARIX as compared with 5.0% of placebo recipients. No deaths or cases of intussusception were reported in this population.

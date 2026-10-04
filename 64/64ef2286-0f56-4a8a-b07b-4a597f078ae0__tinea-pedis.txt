@@ -1,0 +1,46 @@
+DailyMed 64ef2286-0f56-4a8a-b07b-4a597f078ae0 | Oxistat | Tinea Pedis
+
+The clinical trial for the lotion formulation line extension involved 332 evaluable patients with clinically and microbiologically established tinea pedis. Of these evaluable patients, 64% were diagnosed with hyperkeratotic plantar tinea pedis and 28% with interdigital tinea pedis. Seventy-seven percent (77%) had disease secondary to infection with Trichophyton rubrum, 18% had disease secondary to infection with Trichophyton mentagrophytes, and 4% had disease secondary to infection with Epidermophyton floccosum.
+
+                        The results of this clinical trial at the 2-week post-treatment follow-up visit are shown in the following table:
+
+                                 Patient Outcome |
+                                 OXISTAT Lotion |
+                                 Vehicle |
+
+                                 b.i.d. |
+                                 q.d. |
+
+                                    Mycological cure
+
+                                  |
+
+                                    67%
+
+                                  |
+
+                                    64%
+
+                                  |
+
+                                    28%
+
+                                  |
+
+                                    Treatment success
+
+                                  |
+
+                                    41%
+
+                                  |
+
+                                    34%
+
+                                  |
+
+                                    10%
+
+                                  |
+
+                        In this study, the improvement and cure rates of the b.i.d.- and q.d.-treated groups did not differ significantly (95% confidence interval) from each other but were statistically (95% confidence interval) superior to the vehicle-treated group.

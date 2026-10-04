@@ -1,0 +1,3 @@
+DailyMed c604e181-e336-4194-bf96-f65dd164d461 | Selexipag; Selexipag TITRATION PACK | 12.1 Mechanism of Action
+
+Selexipag is a prostacyclin receptor (IP receptor) agonist that is structurally distinct from prostacyclin. Selexipag is hydrolyzed by carboxylesterase 1 to yield its active metabolite, which is approximately 37-fold as potent as selexipag. Selexipag and the active metabolite are selective for the IP receptor versus other prostanoid receptors (EP1 to 4, DP, FP, and TP).

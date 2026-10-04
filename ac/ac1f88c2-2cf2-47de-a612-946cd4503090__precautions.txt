@@ -1,0 +1,17 @@
+DailyMed ac1f88c2-2cf2-47de-a612-946cd4503090 | Lorazepam | PRECAUTIONS
+
+In patients with depression, a possibility for suicide should be borne in mind; benzodiazepines should not be used in such patients without adequate antidepressant therapy.
+
+                  Lorazepam should be used with caution in patients with compromised respiratory function (e.g., COPD, sleep apnea syndrome).
+
+                  Elderly or debilitated patients may be more susceptible to the sedative effects of lorazepam. Therefore, these patients should be monitored frequently and have their dosage adjusted carefully according to patient response; the initial dosage should not exceed 2 mg.
+
+                  Paradoxical reactions have been occasionally reported during benzodiazepine use. Such reactions may be more likely to occur in children and the elderly. Should these occur, use of the drug should be discontinued.
+
+                  The usual precautions for treating patients with impaired renal or hepatic function should be observed. As with all benzodiazepines, the use of lorazepam may worsen hepatic encephalopathy; therefore, lorazepam should be used with caution in patients with severe hepatic insufficiency and/or encephalopathy. Dosage for patients with severe hepatic insufficiency should be adjusted carefully according to patient response; lower doses may be sufficient in such patients.
+
+                  In patients where gastrointestinal or cardiovascular disorders coexist with anxiety, it should be noted that lorazepam has not been shown to be of significant benefit in treating the gastrointestinal or cardiovascular component.
+
+                  Esophageal dilation occurred in rats treated with lorazepam for more than 1 year at 6 mg/kg/day. The no- effect dose was 1.25 mg/kg/day (approximately 6 times the maximum human therapeutic dose of 10 mg/day). The effect was reversible only when the treatment was withdrawn within 2 months of first observation of the phenomenon. The clinical significance of this is unknown. However, use of lorazepam for prolonged periods and in geriatric patients requires caution, and there should be frequent monitoring for symptoms of upper GI disease.
+
+                  Safety and effectiveness of lorazepam in children of less than 12 years have not been established.

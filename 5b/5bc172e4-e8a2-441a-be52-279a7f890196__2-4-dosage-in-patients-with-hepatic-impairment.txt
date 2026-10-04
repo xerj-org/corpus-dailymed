@@ -1,0 +1,5 @@
+DailyMed 5bc172e4-e8a2-441a-be52-279a7f890196 | Inluriyo | 2.4 Dosage in Patients with Hepatic Impairment
+
+The recommended dosage of INLURIYO for patients with moderate (Child-Pugh B) or severe (Child-Pugh C) hepatic impairment is 200 mg once daily. Monitor for increased adverse reactions [see Clinical Pharmacology (12.3)].
+
+                        Refer to the Prescribing Information for dosage modification for severe hepatic impairment for abemaciclib when used in combination with INLURIYO.

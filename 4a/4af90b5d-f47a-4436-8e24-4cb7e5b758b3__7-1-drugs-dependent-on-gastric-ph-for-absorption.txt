@@ -1,0 +1,7 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 7.1 Drugs Dependent on Gastric pH for Absorption
+
+Famotidine can reduce the absorption of other drugs due to its effect on reducing intragastric acidity, leading to loss of efficacy of the concomitant drug.
+
+                        Concomitant administration of famotidine for oral suspension with dasatinib, delavirdine  mesylate, cefditoren, and fosamprenavir is not recommended.
+
+                        See the prescribing information for other drugs dependent on gastric pH for absorption for administration instructions, including atazanavir, erlotinib, ketoconazole, itraconazole, ledipasvir/sofosbuvir, nilotinib, and rilpivirine.

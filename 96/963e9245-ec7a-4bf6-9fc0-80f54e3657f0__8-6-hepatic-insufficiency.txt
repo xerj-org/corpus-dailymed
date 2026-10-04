@@ -1,0 +1,3 @@
+DailyMed 963e9245-ec7a-4bf6-9fc0-80f54e3657f0 | telmisartan | 8.6 Hepatic Insufficiency
+
+Monitor carefully and uptitrate slowly in patients with biliary obstructive disorders or hepatic insufficiency     [see       Warnings and Precautions (5.4)].

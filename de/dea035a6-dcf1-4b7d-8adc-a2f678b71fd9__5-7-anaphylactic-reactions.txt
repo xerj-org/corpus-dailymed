@@ -1,0 +1,6 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 5.7 Anaphylactic Reactions
+
+Celecoxib has been associated with anaphylactic reactions in patients with and without known hypersensitivity to celecoxib and in patients with aspirin sensitive asthma. Celecoxib is a sulfonamide and both NSAIDs and sulfonamides may cause allergic type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people [see Contraindications (4) and Warnings and Precautions (5.8)
+                           ].
+
+                        Seek emergency help if any anaphylactic reaction occurs.

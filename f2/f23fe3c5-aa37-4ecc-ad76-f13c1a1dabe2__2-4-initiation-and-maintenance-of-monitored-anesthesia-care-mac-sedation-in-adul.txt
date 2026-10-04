@@ -1,0 +1,47 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 2.4 Initiation and Maintenance of Monitored Anesthesia Care (MAC) Sedation in Adult Patients
+
+When propofol injectable emulsion is administered for MAC sedation, rates of administration should be individualized and titrated to clinical response. In most patients, the rates of propofol injectable emulsion administration will be in the range of 25 mcg/kg/min to 75 mcg/kg/min.
+
+                        During initiation of MAC sedation, slow infusion or slow injection techniques are preferable over rapid bolus administration. During maintenance of MAC sedation, a variable rate infusion is preferable over intermittent bolus dose administration. In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation [
+
+  see Warnings and Precautions (
+
+   5.12)
+
+  ]. A rapid bolus injection may result in undesirable cardiorespiratory depression.
+
+                        Initiation of MAC Sedation in Adult Patients
+
+  For initiation of MAC sedation, either an infusion or a slow injection method may be utilized while closely monitoring cardiorespiratory function. With the infusion method, sedation may be initiated by infusing propofol injectable emulsion at 100 mcg/kg/min to 150 mcg/kg/min (6 mg/kg/hour to 9 mg/kg/hour) for a period of 3 minutes to 5 minutes and titrating to the desired clinical effect while closely monitoring respiratory function. With the slow injection method for initiation, patients will require approximately 0.5 mg/kg administered over 3 minutes to 5 minutes and titrated to clinical responses. When propofol injectable emulsion is administered slowly over 3 minutes to 5 minutes, most patients will be adequately sedated, and the peak drug effect can be achieved while minimizing undesirable cardiorespiratory effects occurring at high plasma levels.
+
+                        In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation [
+
+  see Warnings and Precautions (
+
+   5.12)
+
+  ]. The rate of administration should be over 3 minutes to 5 minutes and the dosage of propofol injectable emulsion should be reduced to approximately 80% of the usual adult dosage in these patients according to their condition, responses, and changes in vital signs.
+
+                        Maintenance of MAC Sedation in Adult Patients
+
+  For maintenance of sedation, a variable rate infusion method is preferable over an intermittent bolus dose method.With the variable rate infusion method, patients will generally require maintenance rates of 25 mcg/kg/min to 75 mcg/kg/min (1.5 mg/kg/hour to 4.5 mg/kg/hour) during the first 10 minutes to 15 minutes of sedation maintenance. Infusion rates should subsequently be decreased over time to 25 mcg/kg/min to 50 mcg/kg/min and adjusted to clinical responses. In titrating to clinical effect, allow approximately 2 minutes for onset of peak drug effect.
+
+                        Infusion rates should always be titrated downward in the absence of clinical signs of light sedation until mild responses to stimulation are obtained in order to avoid sedative administration of propofol injectable emulsion at rates higher than are clinically necessary.
+
+                        If the intermittent bolus dose method is used, increments of propofol injectable emulsion 10 mg (1 mL) or 20 mg (2 mL) can be administered and titrated to desired clinical effect. With the intermittent bolus method of sedation maintenance, there is increased potential for respiratory depression, transient increases in sedation depth, and prolongation of recovery.
+
+                        In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation [
+
+  see Warnings and Precautions (
+
+   5.12)
+
+  ]. The rate of administration and the dosage of propofol injectable emulsion should be reduced to approximately 80% of the usual adult dosage in these patients according to their condition, responses, and changes in vital signs.
+
+                        Propofol injectable emulsion can be administered as the sole agent for maintenance of MAC sedation during surgical/diagnostic procedures. When propofol injectable emulsion sedation is supplemented with opioid and/or benzodiazepine medications, these agents increase the sedative and respiratory effects of propofol injectable emulsion and may also result in a slower recovery profile [
+
+  see Drug Interactions (
+
+   7)
+
+  ].

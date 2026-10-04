@@ -1,0 +1,9 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 5.16 Hypothermia with Concomitant Valproic Acid Use
+
+Hypothermia, defined as a drop in body core temperature to < 35°C (95°F), has been reported in association with topiramate use with concomitant valproic acid  both in conjunction with hyperammonemia and in the absence of hyperammonemia. This adverse reaction in patients using concomitant topiramate and valproate can occur after starting topiramate treatment or after increasing the daily dose of topiramate
+
+  [see Drug Interactions (
+
+   7.1)]
+
+  . Consideration should be given to stopping topiramate or valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalities including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems. Clinical management and assessment should include examination of blood ammonia levels.

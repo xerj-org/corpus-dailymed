@@ -1,0 +1,3 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Skeletal Muscle Myopathy and Neuropathy
+
+Skeletal muscle myopathy or neuropathy leading to progressive weakness and atrophy of proximal muscle groups, and abnormal nerve conduction, have been reported. Muscle and nerve biopsies have shown associated phospholipidosis. Assess muscle strength and deep tendon reflexes periodically in patients on long-term therapy with chloroquine. Discontinue chloroquine if muscle or nerve toxicity is suspected or demonstrated by tissue biopsy.

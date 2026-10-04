@@ -1,0 +1,15 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 12.2 Pharmacodynamics
+
+The glucose-lowering effect of ONSWIK at steady-state was measured with a euglycemic glucose clamp study in 53 adults with type 2 diabetes mellitus. The glucose infusion rate (GIR) measured in three euglycemic clamps from 0 to 24 hours, 72 to 96 hours and 144 to 168 hours post dose, along with the model-derived GIR profile show the duration of the glucose lowering effect to cover the weekly dosing interval (see
+
+                           Figure 1).
+
+                        At steady-state, the mean maximum glucose-lowering effect occurred between Days 4 and 5, with a peak-trough ratio of 1.07. The glucose-lowering response was stable over the dosing interval, with low day-to-day variability of 2% (coefficient of variation for the glucose infusion rate at steady-state).
+
+                        The glucose-lowering effect of ONSWIK lasted approximately 4 to 6 weeks after the last weekly injection.
+
+                        Following a dosage adjustment, initial changes in FBG are expected within 1 to 2 weeks, with the full treatment effect of the dosage adjustment occurring in approximately 4 weeks [see Dosage and Administration (2.1, 2.3, 2.4), Warnings and Precautions (5.4)].
+
+                           Figure 1: Pharmacodynamic Effect of ONSWIK at Steady-State Following Weekly Subcutaneous Injections of 4 units/kg Weekly Dose in Adults with Type 2 Diabetes Mellitus
+
+                        Notes: Gray dots are means and bars are standard errors of the mean glucose infusion rate (GIR). Black solid line is mean of model-predicted GIR profiles for the weekly dosing interval.

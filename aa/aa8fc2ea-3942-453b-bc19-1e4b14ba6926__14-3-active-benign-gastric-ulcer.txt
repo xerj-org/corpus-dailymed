@@ -1,0 +1,139 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 14.3 Active Benign Gastric Ulcer
+
+In a U.S. multicenter, double-blind, study of omeprazole 40 mg once daily, 20 mg once daily, and placebo in 520 patients with endoscopically diagnosed gastric ulcer, the following results were obtained.
+
+                           Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
+
+                                  |
+
+                                    Omeprazole
+
+20 mg once daily
+
+(n = 202)
+
+                                  |
+
+                                    Omeprazole
+
+40 mg once daily
+
+(n = 214)
+
+                                  |
+
+                                    Placebo
+
+(n = 104)
+
+                                  |
+
+                                    Week 4
+
+                                  |
+
+                                    47.5
+                                          1
+
+                                  |
+
+                                    55.6
+                                          1
+
+                                  |
+
+                                    30.8
+
+                                  |
+
+                                    Week 8
+
+                                  |
+
+                                    74.8
+                                          1
+
+                                  |
+
+                                    82.7
+                                          1,2
+
+                                  |
+
+                                    48.1
+
+                                  |
+
+                           1 (p < 0.01) Omeprazole 40 mg or 20 mg versus placebo.
+
+                           2 (p < 0.05) Omeprazole 40 mg versus 20 mg.
+
+                        For the stratified groups of patients with ulcer size less than or equal to 1 cm, no difference in healing rates between 40 mg and 20 mg was detected at either 4 or 8 weeks. For patients with ulcer size greater than 1 cm, 40 mg was significantly more effective than 20 mg at 8 weeks.
+
+                        In a foreign, multinational, double-blind study of 602 patients with endoscopically diagnosed gastric ulcer, omeprazole 40 mg once daily, 20 mg once daily, and ranitidine 150 mg twice a day were evaluated. 
+
+                           Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
+
+                                  |
+
+                                    Omeprazole
+
+20 mg once daily
+
+(n = 200)
+
+                                  |
+
+                                    Omeprazole
+
+40 mg once daily
+
+(n = 187)
+
+                                  |
+
+                                    Ranitidine
+
+150 mg
+
+                                    twice daily (n = 199)
+
+                                  |
+
+                                    Week 4
+
+                                  |
+
+                                    63.5
+
+                                  |
+
+                                    78.1
+                                          1,2
+
+                                  |
+
+                                    56.3
+
+                                  |
+
+                                    Week 8
+
+                                  |
+
+                                    81.5
+
+                                  |
+
+                                    91.4
+                                          1,2
+
+                                  |
+
+                                    78.4
+
+                                  |
+
+                           1 (p < 0.01) omeprazole 40 mg versus ranitidine.
+
+                           2 (p < 0.01) omeprazole 40 mg versus 20 mg.

@@ -1,0 +1,5 @@
+DailyMed af47bf67-1f07-4650-8064-24c38afc4656 | ZUNVEYL | 5.3 Cardiovascular Conditions
+
+Because of their pharmacological action, cholinesterase inhibitors, including ZUNVEYL, have vagotonic effects on the sinoatrial and atrioventricular nodes, leading to bradycardia and AV block. Bradycardia and all types of heart block have been reported in patients taking cholinesterase inhibitors, both with and without known underlying cardiac conduction abnormalities. Therefore, all patients should be considered at risk for adverse effects on cardiac conduction.
+
+                        Patients treated with galantamine up to 24 mg/day using the recommended dosing schedule showed a dose-related increase in risk of syncope (placebo 0.7% [2/286]; 4 mg twice daily 0.4% [3/692]; 8 mg twice daily 1.3% [7/552]; 12 mg twice daily 2.2% [6/273]).

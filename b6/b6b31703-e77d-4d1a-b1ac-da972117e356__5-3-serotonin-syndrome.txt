@@ -1,0 +1,25 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 5.3 Serotonin Syndrome
+
+Serotonergic antidepressants, including mirtazapine tablets, can precipitate serotonin syndrome, a potentially life-threatening condition. The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs
+
+  [see Contraindications (
+
+   4), Drug Interactions (
+
+   7)]
+
+  . Serotonin syndrome can also occur when these drugs are used alone. 
+
+  Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+  The concomitant use of mirtazapine  tablets with MAOIs is contraindicated. In addition, do not initiate mirtazapine tablets in a patient being treated with MAOIs such as linezolid or intravenous methylene blue. No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection). If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking mirtazapine tablets, discontinue mirtazapine tablets before initiating treatment with the MAOI
+
+  [see Contraindications (
+
+   4), Drug Interactions (
+
+   7)]
+
+  . 
+
+  Monitor all patients taking mirtazapine tablets for the emergence of serotonin syndrome. Discontinue treatment with mirtazapine tablets and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment. If concomitant use of mirtazapine tablets with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.

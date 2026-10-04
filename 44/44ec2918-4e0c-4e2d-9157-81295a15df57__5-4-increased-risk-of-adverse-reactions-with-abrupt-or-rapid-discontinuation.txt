@@ -1,0 +1,7 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 5.4 Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation
+
+As with all antiepileptic drugs (AEDs), withdraw pregabalin gradually to minimize the potential of increased seizure frequency in patients with seizure disorders.
+
+  Following abruptorrapid discontinuation of pregabalin, some patients reported symptoms including insomnia, nausea, headache, anxiety, hyperhidrosis, and diarrhea [see Adverse Reactions (6.2), Drug Abuse and Dependence (9.3)]. Suicidal behavior and ideation have also been reported in patients after discontinuation of pregabalin [see Warnings and Precautions (5.3)].
+
+  If pregabalin is discontinued, taper the drug gradually over a minimum of 1 week rather than discontinue the drug abruptly.

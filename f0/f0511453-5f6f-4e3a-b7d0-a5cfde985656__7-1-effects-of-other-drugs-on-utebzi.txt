@@ -1,0 +1,5 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 7.1 Effects of Other Drugs on UTEBZI
+
+OAT1 and OAT3 Transporter Inhibitors
+
+                        Concomitant use of UTEBZI and organic anion transporter 1 (OAT1) and 3 (OAT3) inhibitors is generally not recommended. If concomitant use with UTEBZI is necessary, monitor more frequently for adverse reactions associated with UTEBZI (e.g., diarrhea and headache) [see Adverse Reactions (6.1)]. Tebipenem is an OAT1 and OAT3 substrate and concomitant use of OAT1 and OAT3 transporter inhibitor drugs (e.g., probenecid) with UTEBZI results in increased tebipenem plasma concentrations [see Clinical Pharmacology (12.3)].

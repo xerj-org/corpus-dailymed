@@ -1,0 +1,27 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 8.1 Pregnancy
+
+Risk Summary
+
+                           There are no adequate and well-controlled studies with brimonidine tartrate/timolol maleate ophthalmic solution in pregnant women.
+
+ Limited available data from postmarketing safety reports and published literature reviews with brimonidine tartrate/timolol maleate ophthalmic solution use in pregnant women are insufficient to establish a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes (see Data).
+
+ In animal studies, brimonidine crossed the placenta and entered into the fetal circulation to a limited extent. Oral administration of brimonidine tartrate or timolol maleate to pregnant rats and rabbits during organogenesis at dose exposures 580 and 37 times the recommended human ophthalmic dose (RHOD) resulted in no adverse developmental effects (see Data).
+
+Oral administration of timolol maleate to mice, rats, and rabbits during organogenesis at dose exposures up to 4,200 times the RHOD resulted in no evidence of fetal malformations (see Data).
+
+ The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+                           Data
+
+                           Human Data
+
+                           Limited available data from postmarketing safety reports and published literature with topical use of brimonidine ophthalmic solution in pregnant women are insufficient to inform a drug-associated risk of pregnancy-related adverse outcomes including miscarriage, stillbirth, congenital anomaly, and events experienced by the breastfed infant.
+
+                           Animal Data
+
+                           Embryofetal development studies were conducted with oral administration of brimonidine tartrate during organogenesis in rats (gestation days 6 to 15) and rabbits (gestation days 6 to 18). No adverse developmental effects were observed in rats up to 2.5 mg/kg/day and rabbits up to 5 mg/kg/day. These doses represent exposures 580 and 37 times higher, respectively, than the recommended human ophthalmic dose (RHOD) of brimonidine tartrate/timolol maleate ophthalmic solution at 1 drop in both eyes twice daily.
+
+ Orally administered brimonidine crossed the placenta in pregnant rats and entered the fetal circulation to a limited extent.
+
+  Embryofetal development studies conducted with timolol during organogenesis in mice, rats, and rabbits at oral doses up to 50 mg/kg/day [4,200 times the maximum recommended human ophthalmic dose of 0.012 mg/kg/day on a mg/kg basis (MRHOD)] demonstrated no evidence of fetal malformations. Although delayed fetal ossification was observed at this dose in rats, there were no adverse effects on postnatal development of offspring. Doses of 1,000 mg/kg/day (83,000 times the MRHOD) were maternotoxic in mice and resulted in an increased number of fetal resorptions. Increased fetal resorptions were also seen in rabbits at doses 8,300 times the MRHOD without apparent maternotoxicity.

@@ -1,0 +1,15 @@
+DailyMed 55d6aee1-01ca-4791-8404-386664b4ab07 | Olmesartan Medoxomil and Hydrochlorothiazide | 7.6 Use of Hydrochlorothiazide with Other Drugs
+
+When administered concurrently the following drugs may interact with thiazide diuretics:
+
+                           Antidiabetic drugs (oral agents and insulin):Dosage adjustment of the antidiabetic drug may be required.
+
+                           Ion exchange resins:Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4 – 6 hours after the administration of resins would potentially minimize the interaction
+
+  [see Clinical Pharmacology (
+
+   12.3)]
+
+  .
+
+                           Corticosteroids, ACTH:Intensified electrolyte depletion, particularly hypokalemia.

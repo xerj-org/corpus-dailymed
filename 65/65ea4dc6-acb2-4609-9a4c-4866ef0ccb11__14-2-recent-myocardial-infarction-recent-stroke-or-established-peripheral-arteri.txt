@@ -1,0 +1,88 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 14.2 Recent Myocardial Infarction, Recent Stroke, or Established Peripheral Arterial Disease
+
+CAPRIE
+
+The CAPRIE trial was a 19,185-patient, 304-center, international, randomized, double-blind, parallel-group study comparing clopidogrel (75 mg daily) to aspirin (325 mg daily). To be eligible to enroll, patients had to have: 1) recent history of myocardial infarction (within 35 days); 2) recent histories of ischemic stroke (within 6 months) with at least a week of residual neurological signs; and/or 3) established peripheral arterial disease (PAD). Patients received randomized treatment for an average of 1.6 years (maximum of 3 years).
+
+                        The trial's primary outcome was the time to first occurrence of new ischemic stroke (fatal or not), new myocardial infarction (fatal or not), or other vascular death. Deaths not easily attributable to nonvascular causes were all classified as vascular.
+
+                           Table 6: Outcome Events in the CAPRIE Primary Analysis
+
+                                  |
+
+                                       Clopidogrel
+
+                                  |
+
+                                       Aspirin
+
+                                  |
+
+                                    Patients
+                                  |
+
+                                    n=9,599
+                                  |
+
+                                    n=9,586
+                                  |
+
+                                    Ischemic stroke (fatal or not)
+
+                                  |
+
+                                    438 (4.6%)
+
+                                  |
+
+                                    461 (4.8%)
+
+                                  |
+
+                                    MI (fatal or not)
+
+                                  |
+
+                                    275 (2.9%)
+
+                                  |
+
+                                    333 (3.5%)
+
+                                  |
+
+                                    Other vascular death
+
+                                  |
+
+                                    226 (2.4%)
+
+                                  |
+
+                                    226 (2.4%)
+
+                                  |
+
+                                    Total
+
+                                  |
+
+                                    939 (9.8%)
+
+                                  |
+
+                                    1020 (10.6%)
+
+                                  |
+
+                        As shown in Table 6, clopidogrel was associated with a lower incidence of outcome events, primarily MI. The overall relative risk reduction (9.8% vs 10.6%) was 8.7%, p=0.045. Similar results were obtained when all-cause mortality and all-cause strokes were counted instead of vascular mortality and ischemic strokes (risk reduction 6.9%). In patients who survived an on-study stroke or myocardial infarction, the incidence of subsequent events was lower in the clopidogrel group.
+
+                        The curves showing the overall event rate are shown in Figure 7. The event curves separated early and continued to diverge over the 3-year follow-up period.
+
+                           Figure 7: Fatal or Nonfatal Vascular Events in the CAPRIE Study
+
+                        The statistical significance favoring clopidogrel over aspirin was marginal (p=0.045). However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of clopidogrel is substantial.
+
+                        The CAPRIE trial enrolled a population that had recent MI, recent stroke, or PAD. The efficacy of clopidogrel relative to aspirin was heterogeneous across these subgroups (p=0.043) (see Figure 8). Nonetheless this difference may be a chance occurrence because the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel over aspirin in the individual patient subgroups. The benefit was most apparent in patients who were enrolled because of peripheral arterial disease and less apparent in stroke patients. In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was not numerically superior to aspirin.
+
+                           Figure 8: Hazard Ratio and 95% CI by Baseline Subgroups in the CAPRIE Study

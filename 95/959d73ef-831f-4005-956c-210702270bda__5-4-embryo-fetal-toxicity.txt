@@ -1,0 +1,7 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 5.4 Embryo-Fetal Toxicity
+
+Based on its mechanism of action, REVTORPYK can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)]. Inhibition of PI3K and mTOR pathways have been associated with adverse embryo-fetal growth and lethality in animals.
+
+                        Advise patients of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with REVTORPYK and for 2 weeks after the last dose. Advise male patients with female partners of reproductive potential to use effective contraception during treatment with REVTORPYK and for 2 weeks after the last dose [see Use in Specific Populations (8.1, 8.3)].
+
+                        REVTORPYK is used in combination with fulvestrant, with or without palbociclib. Refer to the Prescribing Information of fulvestrant and palbociclib for pregnancy and contraception information. When REVTORPYK is used in combination, advise patients to use effective contraception during treatment and for the longest post-treatment duration recommended in the Prescribing Information of any of the individual products.

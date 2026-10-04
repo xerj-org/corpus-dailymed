@@ -1,0 +1,5 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Pharmacokinetics
+
+Cimetidine is rapidly absorbed after oral administration and peak levels occur in 45 to 90 minutes. The half-life of cimetidine is approximately 2 hours. Blood concentrations remain above that required to provide 80% inhibition of basal gastric acid secretion for 4 to 5 hours following a dose of 300 mg.
+
+                              The principal route of excretion of cimetidine is the urine. Following oral administration, the drug is extensively metabolized, the sulfoxide being the major metabolite. Following a single oral dose, 48% of the drug is recovered from the urine after 24 hours as the parent compound.

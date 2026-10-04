@@ -1,0 +1,43 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
+                     Stomatitis
+
+                  Inform patients of the risk of stomatitis. Advise patients to contact their healthcare provider if they experience any symptoms (e.g., painful redness, swelling, or sores in the mouth). Inform patients to use steroid-containing mouthwash for prophylaxis and treatment of stomatitis. Instruct patients not to eat or drink for at least 1 hour after administration of the steroid-containing mouthwash [see Warnings and Precautions (5.1)].
+
+                     Dermatologic Adverse Reactions
+
+Inform patients of the risks of dermatologic adverse reactions, including rash. Advise patients to limit sun exposure during treatment. Advise patients to contact their healthcare provider immediately if they develop a new rash [see Warnings and Precautions (5.2)].
+
+                     Hyperglycemia
+
+Inform patients of the risks of hyperglycemia and the need for monitoring of fasting blood glucose and HbA1c periodically during treatment. Advise patients to contact their healthcare provider immediately for signs and symptoms of hyperglycemia (e.g., excessive thirst, urinating more often, blurred vision, confusion, difficulty breathing, or increased appetite with weight loss) [see Warnings and Precautions (5.3)].
+
+                     Embryo-Fetal Toxicity
+
+                     Inform pregnant women and females of reproductive potential of the potential risk to a fetus. Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
+
+                     Advise females of reproductive potential to use effective contraception during treatment with REVTORPYK and for 2 weeks after the last dose [see Use in Specific Populations (8.3)].
+
+                     Advise male patients with female partners of reproductive potential to use effective contraception during treatment with REVTORPYK and for 2 weeks after the last dose [see Use in Specific Populations (8.3)].
+
+                     Refer to the Prescribing Information of palbociclib and fulvestrant for pregnancy and contraception information. When used in combination with REVTORPYK, advise patients to use effective contraception during treatment and for the longest post-treatment duration recommended in the Prescribing Information of any of the individual products.
+
+                     Lactation
+
+                     Advise women not to breastfeed during treatment with REVTORPYK and for 2 weeks after the last dose [see Use in Specific Populations (8.2)]. Refer to the Prescribing Information of palbociclib and fulvestrant for lactation information. When used in combination, advise patients not to breastfeed during treatment and for the longest post-treatment duration recommended in the Prescribing Information of any of the individual products.
+
+                     Infertility
+
+                     Advise females and males of reproductive potential that REVTORPYK may impair fertility [see Use in Specific Populations (8.3)]. Refer to the Prescribing Information of palbociclib and fulvestrant for infertility information.
+
+                  This product's labeling may have been updated. For full prescribing information, please visit www.celcuity.com. 
+
+                  Manufactured for:
+
+Celcuity Inc.
+
+2800 Campus Dr, Suite 140
+
+Minneapolis, MN 55441

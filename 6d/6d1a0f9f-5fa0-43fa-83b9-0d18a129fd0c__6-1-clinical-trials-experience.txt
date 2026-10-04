@@ -1,0 +1,1137 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug (or of another development program of a different formulation of the same drug) and may not reflect the rates observed in practice.
+
+                           Parkinson’s Disease  
+
+                        During the premarketing development of ropinirole tablets, patients received ropinirole tablets either without L-dopa (early Parkinson’s disease trials) or as concomitant therapy with L-dopa (advanced Parkinson’s disease trials). Because these 2 populations may have differential risks for various adverse reactions, this section will in general present adverse reaction data for these 2 populations separately.
+
+                           Early Parkinson’s Disease (without L-dopa): 
+
+                        In the double-blind, placebo-controlled trials in patients with early-stage Parkinson’s disease, the most commonly observed adverse reactions in patients treated with ropinirole tablets (incidence at least 5% greater than placebo) were nausea, somnolence, dizziness, syncope, asthenic condition (i.e., asthenia, fatigue, and/or malaise), viral infection, leg edema, vomiting, and dyspepsia.
+
+                        Approximately 24% of patients treated with ropinirole tablets who participated in the double-blind, placebo-controlled early Parkinson’s disease (without L-dopa) trials discontinued treatment due to adverse reactions compared with 13% of patients who received placebo. The most common adverse reactions in patients treated with ropinirole tablets (incidence at least 2% greater than placebo) of sufficient severity to cause discontinuation were nausea and dizziness.
+
+                        Table 3 lists treatment-emergent adverse reactions that occurred in at least 2% of patients with early Parkinson’s disease (without L-dopa) treated with ropinirole tablets participating in the double-blind, placebo-controlled trials and were numerically more common than the incidence for placebo-treated patients. In these trials, either ropinirole tablets or placebo was used as early therapy (i.e., without L-dopa).
+
+                           Table 3. Treatment-Emergent Adverse Reaction Incidence in Double-blind, Placebo-Controlled Early Parkinson’s Disease (without L-dopa) Trials (Events ≥2% of Patients Treated with Ropinirole Tablets and Numerically More Frequent than the Placebo Group)a
+
+                                    Body System/
+
+                                    Adverse Reaction 
+
+                                  |
+
+                                    Ropinirole Tablets 
+
+                                    (n = 157)
+
+                                     (%)
+
+                                  |
+
+                                    Placebo
+
+                                    (n = 147)
+
+                                    (%)
+
+                                  |
+
+                                 Autonomic nervous system
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                  Flushing
+
+                                  |
+                                 3
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Dry mouth
+
+                                  |
+                                 5
+
+                                  |
+                                 3
+
+                                  |
+
+                                  Increased sweating
+
+                                  |
+                                 6
+
+                                  |
+                                 4
+
+                                  |
+
+                                 Body as a whole
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                  Asthenic conditionb 
+
+                                  |
+                                 16
+
+                                  |
+                                 5
+
+                                  |
+
+                                  Chest pain
+
+                                  |
+                                 4
+
+                                  |
+                                 2
+
+                                  |
+
+                                  Dependent edema
+
+                                  |
+                                 6
+
+                                  |
+                                 3
+
+                                  |
+
+                                  Leg edema
+
+                                  |
+                                 7
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Pain
+
+                                  |
+                                 8
+
+                                  |
+                                 4
+
+                                  |
+
+                                 Cardiovascular general
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                  Hypertension
+
+                                  |
+                                 5
+
+                                  |
+                                 3
+
+                                  |
+
+                                  Hypotension
+
+                                  |
+                                 2
+
+                                  |
+                                 0
+
+                                  |
+
+                                  Orthostatic symptoms
+
+                                  |
+                                 6
+
+                                  |
+                                 5
+
+                                  |
+
+                                  Syncope
+
+                                  |
+                                 12
+
+                                  |
+                                 1
+
+                                  |
+
+                                 Central/peripheral nervous system
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                  Dizziness
+
+                                  |
+                                 40
+
+                                  |
+                                 22
+
+                                  |
+
+                                  Hyperkinesia
+
+                                  |
+                                 2
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Hypesthesia
+
+                                  |
+                                 4
+
+                                  |
+                                 2
+
+                                  |
+
+                                  Vertigo
+
+                                  |
+                                 2
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Gastrointestinal
+
+ Abdominal pain
+
+                                  |
+                                 6
+
+                                  |
+                                 3
+
+                                  |
+
+                                  Anorexia
+
+                                  |
+                                 4
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Dyspepsia
+
+                                  |
+                                 10
+
+                                  |
+                                 5
+
+                                  |
+
+                                  Flatulence
+
+                                  |
+                                 3
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Nausea
+
+                                  |
+                                 60
+
+                                  |
+                                 22
+
+                                  |
+
+                                  Vomiting
+
+                                  |
+                                 12
+
+                                  |
+                                 7
+
+                                  |
+
+                                 Heart rate/rhythm
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                  Extrasystoles
+
+                                  |
+                                 2
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Atrial fibrillation
+
+                                  |
+                                 2
+
+                                  |
+                                 0
+
+                                  |
+
+                                  Palpitation
+
+                                  |
+                                 3
+
+                                  |
+                                 2
+
+                                  |
+
+                                  Tachycardia
+
+                                  |
+                                 2
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Metabolic/nutritional  Increased alkaline  phosphatase
+
+                                  |
+                                 3
+
+                                  |
+                                 1
+
+                                  |
+
+                                 Psychiatric
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                  Amnesia
+
+                                  |
+                                 3
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Impaired  concentration
+
+                                  |
+                                 2
+
+                                  |
+                                 0
+
+                                  |
+
+                                  Confusion
+
+                                  |
+                                 5
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Hallucination
+
+                                  |
+                                 5
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Somnolence
+
+                                  |
+                                 40
+
+                                  |
+                                 6
+
+                                  |
+
+                                  Yawning
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Reproductive male  Impotence
+
+                                  |
+                                 3
+
+                                  |
+                                 1
+
+                                  |
+
+                                 Resistance mechanism  Viral infection
+
+                                  |
+                                 11
+
+                                  |
+                                 3
+
+                                  |
+
+                                 Respiratory
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                  Bronchitis
+
+                                  |
+                                 3
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Dyspnea
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                  Pharyngitis
+
+                                  |
+                                 6
+
+                                  |
+                                 4
+
+                                  |
+
+                                  Rhinitis
+
+                                  |
+                                 4
+
+                                  |
+                                 3
+
+                                  |
+
+                                  Sinusitis
+
+                                  |
+                                 4
+
+                                  |
+                                 3
+
+                                  |
+
+                                 Urinary
+
+ Urinary tract  infection
+
+                                  |
+                                 5
+
+                                  |
+                                 4
+
+                                  |
+
+                                 Vascular extracardiac Peripheral ischemia
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Vision
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                  Eye abnormality
+
+                                  |
+                                 3
+
+                                  |
+                                 1
+
+                                  |
+
+                                  Abnormal vision
+
+                                  |
+                                 6
+
+                                  |
+                                 3
+
+                                  |
+
+                                  Xerophthalmia
+
+                                  |
+                                 2
+
+                                  |
+                                 0
+
+                                  |
+
+                            
+
+                           a Patients may have reported multiple adverse reactions during the trial or at discontinuation; thus, patients may be included in more than one category.
+
+                           b Asthenic condition (i.e., asthenia, fatigue, and/or malaise).
+
+                           Advanced Parkinson’s Disease (with L-dopa)  
+
+                        In the double-blind, placebo-controlled trials in patients with advanced-stage Parkinson’s disease, the most commonly observed adverse reactions in patients treated with ropinirole tablets (incidence at least 5 % greater than placebo) were dyskinesia, somnolence, nausea, dizziness, confusion, hallucinations, increased sweating, and headache.
+
+                        Approximately 24% of patients who received ropinirole tablets in the double-blind, placebo-controlled advanced Parkinson’s disease (with L-dopa) trials discontinued treatment due to adverse reactions compared with 18% of patients who received placebo. The most common adverse reaction in patients treated with ropinirole tablets (incidence at least 2% greater than placebo) of sufficient severity to cause discontinuation was dizziness.
+
+                        Table 4 lists treatment-emergent adverse reactions that occurred in at least 2% of patients with advanced Parkinson’s disease (with L-dopa) treated with ropinirole tablets  who participated in the double-blind, placebo-controlled trials and were numerically more common than the incidence for placebo-treated patients. In these trials, either ropinirole tablets or placebo was used as an adjunct to L-dopa.
+
+                           Table 4. Treatment-Emergent Adverse Reaction Incidence in Double-blind, Placebo-Controlled Advanced Parkinson’s Disease (with L-dopa) Trials (Events ≥2% of Patients Treated with Ropinirole Tablets and Numerically More Frequent than the Placebo Group)a
+
+                                    Body System/Adverse Reaction 
+
+                                  |
+
+                                    Ropinirole Tablets
+
+                                    (n = 208)
+
+                                    (%)
+
+                                  |
+
+                                    Placebo
+
+                                    (n = 120)
+
+                                    (%)
+
+                                  |
+
+                                 Autonomic nervous system  Dry mouth
+
+ Increased sweating
+
+                                  |
+                                 5
+
+7
+
+                                  |
+                                 1
+
+2
+
+                                  |
+
+                                 Body as a whole
+
+ Increased drug level
+
+ Pain
+
+                                  |
+                                 7
+
+5
+
+                                  |
+                                 3
+
+3
+
+                                  |
+
+                                 Cardiovascular general  Hypotension
+
+ Syncope
+
+                                  |
+                                 2
+
+3
+
+                                  |
+                                 1
+
+2
+
+                                  |
+
+                                 Central/peripheral nervous system
+
+ Dizziness
+
+ Dyskinesia
+
+ Falls
+
+ Headache
+
+ Hypokinesia
+
+ Paresis
+
+ Paresthesia
+
+ Tremor
+
+                                  |
+                                 26
+
+34
+
+ 10
+
+17
+
+5
+
+3
+
+5
+
+6
+
+                                  |
+                                 16
+
+13
+
+ 7
+
+12
+
+4
+
+0
+
+3
+
+3
+
+                                  |
+
+                                 Gastrointestinal
+
+ Abdominal pain
+
+ Constipation
+
+ Diarrhea
+
+ Dysphagia
+
+ Flatulence
+
+ Nausea
+
+ Increased saliva
+
+ Vomiting
+
+                                  |
+                                 9
+
+6
+
+5
+
+2
+
+2
+
+30
+
+2
+
+7  
+
+                                  |
+                                 8
+
+3
+
+3
+
+1
+
+1
+
+18
+
+1
+
+4  
+
+                                  |
+
+                                 Metabolic/nutritional
+
+  Weight decrease
+
+                                  |
+                                 2
+
+                                  |
+                                 1
+
+                                  |
+
+                                 Musculoskeletal
+
+ Arthralgia
+
+ Arthritis
+
+                                  |
+                                 7
+
+ 3
+
+                                  |
+                                 5
+
+1
+
+                                  |
+
+                                  Psychiatric
+
+ Amnesia
+
+ Anxiety
+
+ Confusion
+
+ Abnormal dreaming
+
+ Hallucination
+
+ Nervousness
+
+ Somnolence
+
+                                  |
+                                 5
+
+6
+
+9
+
+3
+
+10
+
+5
+
+20  
+
+                                  |
+                                 1
+
+3
+
+2
+
+2
+
+4
+
+3
+
+8  
+
+                                  |
+
+                                  Red blood cell
+
+ Anemia
+
+                                  |
+                                 2
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Resistance mechanism
+
+ Upper respiratory  tract infection
+
+                                  |
+                                 9
+
+                                  |
+                                 8
+
+                                  |
+
+                                 Respiratory
+
+ Dyspnea
+
+                                  |
+                                 3
+
+                                  |
+                                 2
+
+                                  |
+
+                                 Urinary
+
+ Pyuria
+
+ Urinary  incontinence
+
+ Urinary tract  infection
+
+                                  |
+                                  
+
+2
+
+ 
+
+2
+
+ 
+
+6
+
+                                  |
+                                 1
+
+1
+
+3
+
+                                  |
+
+                                 Vision
+
+ Diplopia
+
+                                  |
+                                 2
+
+                                  |
+                                 1
+
+                                  |
+
+                            
+
+                           aPatients may have reported multiple adverse reactions during the trial or at discontinuation; thus, patients may be included in more than one category.
+
+                           Restless Legs Syndrome  
+
+                        In the double-blind, placebo-controlled trials in patients with RLS, the most commonly observed adverse reactions in patients treated with ropinirole tablets (incidence at least 5% greater than placebo) were nausea, vomiting, somnolence, dizziness, and asthenic condition (i.e., asthenia, fatigue, and/or malaise).
+
+                        Approximately 5% of patients treated with ropinirole tablets who participated in the double-blind, placebo-controlled trials in the treatment of RLS discontinued treatment due to adverse reactions compared with 4% of patients who received placebo. The most common adverse reaction in patients treated with ropinirole tablets (incidence at least 2% greater than placebo) of sufficient severity to cause discontinuation was nausea.
+
+                        Table 5 lists treatment-emergent adverse reactions that occurred in at least 2% of patients with RLS treated with ropinirole tablets participating in the 12-week, double-blind, placebo-controlled trials and were numerically more common than the incidence for placebo-treated patients.
+
+                           Table 5. Treatment-Emergent Adverse Reaction Incidence in Double-blind, Placebo- Controlled Restless Legs SyndromeTrials (Events ≥2% of Patients Treated with Ropinirole Tablets and Numerically More Frequent than the Placebo Group)a
+
+                                    Body System/Adverse Reaction
+
+                                  |
+
+                                    Ropinirole Tablets
+
+                                    (n = 496)
+
+                                    (%)
+
+                                  |
+
+                                    Placebo
+
+                                    (n =500)
+
+                                    (%)
+
+                                  |
+
+                                 Ear and labyrinth
+
+ Vertigo
+
+                                  |
+                                 2
+
+                                  |
+                                 1
+
+                                  |
+
+                                 Gastrointestinal
+
+ Nausea
+
+ Vomiting
+
+ Diarrhea
+
+ Dyspepsia
+
+ Dry mouth
+
+ Abdominal pain  upper
+
+                                  |
+                                 40
+
+11
+
+5
+
+4
+
+3
+
+3
+
+                                  |
+                                 8
+
+2
+
+3
+
+3
+
+2
+
+1
+
+                                  |
+
+                                 General disorders and administration site conditions
+
+ Asthenic conditionb 
+
+ Edema peripheral
+
+                                  |
+                                 9
+
+2
+
+                                  |
+                                 4
+
+ 1
+
+                                  |
+
+                                 Infections and infestations  Nasopharyngitis
+
+ Influenza
+
+                                  |
+                                 9
+
+3
+
+                                  |
+                                 8
+
+2
+
+                                  |
+
+                                 Musculoskeletal and connective tissue
+
+ Arthralgia
+
+ Muscle cramps
+
+ Pain in extremity
+
+                                  |
+                                 4
+
+3
+
+3
+
+                                  |
+                                 3
+
+2
+
+2
+
+                                  |
+
+                                 Nervous system
+
+ Somnolence
+
+ Dizziness
+
+ Paresthesia 
+
+                                  |
+                                 12
+
+11
+
+3
+
+                                  |
+                                 6
+
+5
+
+1
+
+                                  |
+
+                                 Respiratory, thoracic, and mediastinal
+
+ Cough
+
+  Nasal congestion
+
+                                  |
+                                 3
+
+2
+
+                                  |
+                                 2
+
+1
+
+                                  |
+
+                                 Skin and subcutaneous tissue
+
+ Hyperhidrosis 
+
+                                  |
+                                  
+
+ 
+
+3
+
+                                  |
+                                  
+
+ 
+
+1
+
+                                  |
+
+                           aPatients may have reported multiple adverse reactions during the trial or at discontinuation;
+
+                        thus, patients may be included in more than one category.
+
+                           bAsthenic condition (i.e., asthenia, fatigue, and/or malaise).

@@ -1,0 +1,65 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions have been reported and described in the Warnings and Precautions section of the labeling:
+
+                     Cardiac Arrest in Obstetrical Anesthesia
+
+   [see
+
+    Warnings and Precautions (5.1)]
+
+                     Dose-Related Toxicity
+
+   [see
+
+    Warnings and Precautions (5.2)]
+
+                     Methemoglobinemia
+
+   [see
+
+    Warnings and Precautions (5.3)]
+
+                     Chondrolysis with Intra-Articular Infusion
+
+   [see
+
+    Warnings and Precautions (5.5)]
+
+                     Severe, Persistent Hypertension, Cerebrovascular Accidents, and Bradycardia Due to Drug Interactions
+
+   [see
+
+    Warnings and Precautions (5.6)]
+
+                     Cardiac Arrest with Intravenous Regional Anesthesia Use
+
+   [see
+
+    Contraindications (4),
+
+    Warnings and Precautions (5.7)]
+
+                     Allergic-Type Reactions
+
+   [see
+
+    Warnings and Precautions (5.8)]
+
+                     Systemic Toxicities with Unintended Intravascular or Intrathecal Injection
+
+   [see
+
+    Warnings and Precautions (5.9)]
+
+                     Respiratory Arrest Following Retrobulbar Block
+
+   [see
+
+    Warnings and Precautions (5.15)]
+
+                  The following adverse reactions from voluntary reports or clinical studies have been reported with bupivacaine or bupivacaine and epinephrine. Because many of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                  Adverse reactions to Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection are characteristic of those associated with other amide-type local anesthetics. A major cause of adverse reactions to this group of drugs is excessive plasma levels, which may be due to overdosage, unintentional intravascular injection, or slow metabolic degradation.
+
+                  The most commonly encountered acute adverse reactions that demand immediate counter-measures were related to the CNS and the cardiovascular system. These adverse reactions were generally dose-related and due to high plasma levels which may have resulted from overdosage, rapid absorption from the injection site, diminished tolerance, or from unintentional intravascular injection of the local anesthetic solution. In addition to systemic dose-related toxicity, unintentional intrathecal injection of drug during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column (especially in the head and neck region) has resulted in underventilation or apnea ("Total or High Spinal"). Also, hypotension due to loss of sympathetic tone and respiratory paralysis or underventilation due to cephalad extension of the motor level of anesthesia have occurred. This has led to secondary cardiac arrest when untreated.

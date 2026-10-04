@@ -1,0 +1,7 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 7.2 Effect of ZORTRESS on Other Drugs
+
+Statins
+
+                        Single-dose administration of Zortress with either atorvastatin or pravastatin to healthy subjects did not influence the pharmacokinetics of atorvastatin, pravastatin and everolimus, as well as total HMG-CoA reductase bioreactivity in plasma to a clinically relevant extent. However, these results cannot be extrapolated to other HMG-CoA reductase inhibitors. Patients should be monitored for the development of rhabdomyolysis and other adverse reactions as described in the respective labeling for these products.
+
+                        Due to an interaction with cyclosporine, clinical studies of Zortress with cyclosporine conducted in kidney transplant patients strongly discouraged patients receiving HMG-CoA reductase inhibitors such as simvastatin and lovastatin [see Warnings and Precautions (5.11)].

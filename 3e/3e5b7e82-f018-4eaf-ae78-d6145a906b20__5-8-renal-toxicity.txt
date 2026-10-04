@@ -1,0 +1,3 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 5.8 Renal Toxicity
+
+Severe, including fatal, renal toxicity can occur after administration of rituximab-containing products, including RITUXAN HYCELA. Renal toxicity has occurred in patients who experience tumor lysis syndrome and in patients with administered concomitant cisplatin therapy during clinical trials. The combination of cisplatin and RITUXAN HYCELA is not an approved treatment regimen. Monitor closely for signs of renal failure and discontinue RITUXAN HYCELA in patients with a rising serum creatinine or oliguria [see Warnings and Precautions (5.5)].

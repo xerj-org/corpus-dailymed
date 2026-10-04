@@ -1,0 +1,3 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 5.13 Interaction with Methotrexate
+
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities. In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].

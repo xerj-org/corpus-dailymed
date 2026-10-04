@@ -1,0 +1,67 @@
+DailyMed e5516161-2fbc-4cec-a780-77a471fa73d4 | OstiCoxib EQ | Clinical Pharmacology:
+
+Relative Bioavailability Study
+
+                  A pharmacokinetic study was conducted to compare the relative bioavailability of an oral firocoxib tablet containing 57 mg firocoxib to the approved paste formulation. The criteria for the Test/Reference (T/R) ratios and the 90% Confidence Intervals (CI) of firocoxib tablets (test product) were adjusted on the basis of the safety and effectiveness data for firocoxib oral paste (reference product). The lower bound of the 90% CI for effectiveness was defined by the minimal effective plasma concentration in the study used to support the dosage characterization of firocoxib oral paste. Effectiveness was based upon the area under the plasma drug concentration-time curve to the last quantifiable concentration (AUClast), with the effectiveness criteria set at a T/R ratio of greater than or equal to 0.77 and a last corresponding lower bound for the 90% CI set at 0.71. The upper bound of the 90% CI for safety was defined by the maximum safe plasma concentration (Cmax) in the study used to establish a margin of safety for the firocoxib oral paste. Based upon that margin of safety, product safety was defined as a T/R of less than or equal to 1.53, with a corresponding upper bound for the 90% CI of 1.71.
+
+                  The relative bioavailability study was a randomized, two period, two sequence crossover study in thirty horses. Eachhorse received a single tablet (57 mg firocoxib) and a single tube of paste (56.7 mg firocoxib). Blood samples werecollected at 15 minutes, 45 minutes, 1, 1.5, 2, 3, 4, 6, 8, 12, 24, 32, 48,72, 96 and 120 hours following each treatment. Samples were analyzed by LC-MS/MS for firocoxib concentrations.
+
+                  The results of the relative bioavailability study are summarized in Table 2. The Cmax and AUClast of firocoxib tablets were within the adjusted 90% CI for safety and effectiveness and met the criteria established for successfully demonstrating that firocoxib tablets will be safe and effective. Therefore, firocoxib tablets and firocoxib oral paste are acceptable as pharmaceutical alternatives.
+
+                  There was a substantial difference in the Tmax(time to maximum plasma concentration) between firocoxib oral paste and firocoxib tablets. The Tmax ranged from 0.25-4 hours for firocoxib oral paste and 0.25-12 hours for firocoxib tablets. The difference in the rate and extent of absorption was greatest within the first three hours after administration. The meanterminal elimination half-life of firocoxib oral paste (45.45 hours) was similar to that of firocoxib tablets (44.49 hours).
+
+                     Table 2: Relative Bioavailability Results for firocoxib oral paste (Reference) and firocoxib tablets (Test) (n=30 horses)
+
+                           Parameter |
+                           Units |
+                           Reference
+
+ Geometric
+
+ Mean |
+                           Test
+
+ Geometric
+
+ Mean |
+                           Test/
+
+ Reference |
+                           Lower
+
+ 90% CI |
+                           Upper
+
+ 90% CI |
+
+                           Cmax
+                            |
+                           ng/mL |
+                           78.44 |
+                           58.85 |
+                           0.75 |
+                           67.92 |
+                           82.88 |
+
+                           AUClast
+                            |
+                           hr*ng/mL |
+                           2515.77 |
+                           2336.32 |
+                           0.93 |
+                           86.37 |
+                           99.85 |
+
+                  Cmax= maximum observed plasma concentration
+
+ AUClast= Area Under the Curve to the last quantifiable time point
+
+ CI= Confidence Interval
+
+                  The major metabolism mechanism of firocoxib in the horse is decyclopropylmethylation followed by glucuronidation of
+
+ that metabolite. Based upon radiolabel studies done for the firocoxib paste formulation, the majority of firocoxib is eliminated in the urine as the decyclopropylmethylated metabolite. Despite a high degree of plasma protein binding (98%), firocoxib exhibits a large volume of distribution (mean Vd(ss) = 1652 mL/kg). The terminal elimination half-life (T1/2) in plasma averages 30-40 hours after IV, oral paste or tablet dosing. Therefore, drug accumulation occurs with repeated dose administrations and steady state concentrations are achieved beyond 6-8 daily oral doses in the horse.
+
+                  Mode of Action
+
+                  Firocoxib Tablets for Horses is a cyclooxygenase-inhibiting (coxib) class, non-narcotic, non-steroidal anti-inflammatory drug (NSAID) with anti-inflammatory, analgesic and antipyretic activity1 in animal models. Based on in vitro horse data, firocoxib is a selective inhibitor of prostaglandin biosynthesis through inhibition of the inducible cyclooxygenase-2-isoenzyme (COX-2)2 . Firocoxib selectivity for the constitutive isoenzyme, cyclooxygenase-1 (COX-1) is relatively low. However, the clinical significance of these in vitro selectivity findings has not been established.

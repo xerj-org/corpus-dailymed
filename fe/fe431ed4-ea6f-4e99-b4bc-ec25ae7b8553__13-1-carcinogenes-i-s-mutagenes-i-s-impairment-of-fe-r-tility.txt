@@ -1,0 +1,7 @@
+DailyMed fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553 | KYBELLA | 13.1 Carcinogenes i s, Mutagenes i s, Impairment of Fe r tility
+
+Long-term studies in animals have not been performed to evaluate the carcinogenic potential of deoxycholic acid. 
+
+                        Deoxycholic acid was negative in a battery of in vitro (Ames test and chromosomal aberration assay in human lymphocytes) and in vivo (rat erythrocyte micronucleus assay) genetic toxicology assays.
+
+                        No effects on fertility were observed in male and female rats administered deoxycholic acid at subcutaneous doses up to 50 mg/kg (5 times the MRHD based on a mg/m2 comparison) once weekly prior to and during the mating period and through gestation day 7 in female rats.

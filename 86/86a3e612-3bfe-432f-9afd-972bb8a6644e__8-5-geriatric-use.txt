@@ -1,0 +1,27 @@
+DailyMed 86a3e612-3bfe-432f-9afd-972bb8a6644e | Naproxen | 8.5 Geriatric Use
+
+The hepatic and renal tolerability of long-term naproxen administration was studied in two double-blind clinical trials involving 586 patients. Of the patients studied, 98 patients were age 65 and older and 10 of the 98 patients were age 75 and older. NAPROXEN was administered at doses of 375 mg twice daily or 750 mg twice daily for up to 6 months. Transient abnormalities of laboratory tests assessing hepatic and renal function were noted in some patients, although there were no differences noted in the occurrence of abnormal values among different age groups.
+
+                        Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions. If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects
+  [see
+   Warnings and Precautions (5.1,
+   5.2,
+   5.3,
+   5.6,
+
+                              5.14)
+
+                           ].
+
+                        Studies indicate that although total plasma concentration of naproxen is unchanged, the unbound plasma fraction of naproxen is increased in the elderly. The clinical significance of this finding is unclear, although it is possible that the increase in free naproxen concentration could be associated with an increase in the rate of adverse events per a given dosage in some elderly patients. Caution is advised when high doses are required and some adjustment of dosage may be required in elderly patients. As with other drugs used in the elderly, it is prudent to use the lowest effective dose.
+
+                        Experience indicates that geriatric patients may be particularly sensitive to certain adverse effects of nonsteroidal anti- inflammatory drugs. Elderly or debilitated patients seem to tolerate peptic ulceration or bleeding less well when these events do occur. Most spontaneous reports of fatal GI events are in the geriatric population
+  [see
+   Warnings and Precautions (5.2)].
+
+                        Naproxen is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function
+  [see
+   Clinical Pharmacology (12.3)].
+  Geriatric patients may be at a greater risk for the development of a form of renal toxicity precipitated by reduced prostaglandin formation during administration of nonsteroidal anti-inflammatory drugs
+  [see
+   Warnings and Precautions (5.6)]

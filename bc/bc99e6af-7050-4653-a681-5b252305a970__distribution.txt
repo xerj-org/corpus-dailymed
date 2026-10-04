@@ -1,0 +1,7 @@
+DailyMed bc99e6af-7050-4653-a681-5b252305a970 | Diclofenac SodiumDelayed Release | Distribution
+
+The apparent volume of distribution (V/F) of diclofenac sodium is 1.4 L/kg.
+
+                              Diclofenac is more than 99% bound to human serum proteins, primarily to albumin. Serum protein binding is constant over the concentration range (0.15-105 mcg/ml) achieved with recommended doses.
+
+                              Diclofenac diffuses into and out of the synovial fluid. Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels. It is not known whether diffusion into the joint plays a role in the effectiveness of diclofenac.

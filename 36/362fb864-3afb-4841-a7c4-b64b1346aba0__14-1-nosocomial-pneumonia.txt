@@ -1,0 +1,79 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 14.1 Nosocomial Pneumonia
+
+Adult patients with clinically and radiologically documented nosocomial pneumonia were enrolled in a multicenter, randomized, open-label study comparing intravenous levofloxacin (750 mg once daily) followed by oral levofloxacin (750 mg once daily) for a total of 7-15 days to intravenous imipenem/cilastatin (500–1000 mg every 6–8 hours daily) followed by oral ciprofloxacin (750 mg every 12 hours daily) for a total of 7-15 days. Levofloxacin-treated patients received an average of 7 days of intravenous therapy (range: 1-16 days); comparator-treated patients received an average of 8 days of intravenous therapy (range: 1-19 days).
+
+                        Overall, in the clinically and microbiologically evaluable population, adjunctive therapy was empirically initiated at study entry in 56 of 93 (60.2%) patients in the levofloxacin arm and 53 of 94 (56.4%) patients in the comparator arm. The average duration of adjunctive therapy was 7 days in the levofloxacin arm and 7 days in the comparator. In clinically and microbiologically evaluable patients with documented Pseudomonas aeruginosa infection, 15 of 17 (88.2%) received ceftazidime (N=11) or piperacillin/tazobactam (N=4) in the levofloxacin arm and 16 of 17 (94.1%) received an aminoglycoside in the comparator arm. Overall, in clinically and microbiologically evaluable patients, vancomycin was added to the treatment regimen of 37 of 93 (39.8%) patients in the levofloxacin arm and 28 of 94 (29.8%) patients in the comparator arm for suspected methicillin-resistant S. aureus infection.
+
+                        Clinical success rates in clinically and microbiologically evaluable patients at the posttherapy visit (primary study endpoint assessed on day 3-15 after completing therapy) were 58.1% for levofloxacin and 60.6% for comparator. The 95% CI for the difference of response rates (levofloxacin minus comparator) was [-17.2, 12.0]. The microbiological eradication rates at the posttherapy visit were 66.7% for levofloxacin and 60.6% for comparator. The 95% CI for the difference of eradication rates (levofloxacin minus comparator) was [-8.3, 20.3]. Clinical success and microbiological eradication rates by pathogen are detailed in Table 9.
+
+                           Table 9: Clinical Success Rates and Bacteriological Eradication Rates (Nosocomial Pneumonia)
+
+                                  Pathogen
+                                  |
+                                  N
+                                  |
+                                  Levoflocaxin No. (%) of
+
+ Patients Microbiologic/Clinical Outcomes
+                                  |
+                                  N
+                                  |
+                                  Imipenem/Cilastatin No. (%) of Patients Microbiologic/Clinical Outcomes
+                                  |
+
+                                  MSSA*
+                                  |
+                                  21 |
+                                  14 (66.7)/13 (61.9) |
+                                  19 |
+                                  13 (68.4)/15 (78.9) |
+
+                                  P. aeruginosa
+                                    †
+                                  |
+                                  17 |
+                                  10 (58.8)/11 (64.7) |
+                                  17 |
+                                  5 (29.4)/7 (41.2) |
+
+                                  S. marcescens
+                                  |
+                                  11 |
+                                  9 (81.8)/7 (63.6) |
+                                  7 |
+                                  2 (28.6)/3 (42.9) |
+
+                                  E. coli
+                                  |
+                                  12 |
+                                  10 (83.3)/7 (58.3) |
+                                  11 |
+                                  7 (63.6 )/8 (72.7) |
+
+                                  K. pneumoniae
+                                    ‡
+                                  |
+                                  11 |
+                                  9 (81.8)/5 (45.5) |
+                                  7 |
+                                  6 (85.7)/3 (42.9) |
+
+                                  H. influenzae
+                                  |
+                                  16 |
+                                  13 (81.3)/10 (62.5) |
+                                  15 |
+                                  14 (93.3)/11 (73.3) |
+
+                                  S. pneumoniae
+                                  |
+                                  4 |
+                                  3 (75.0)/3 (75.0) |
+                                  7 |
+                                  5 (71.4)/4 (57.1) |
+
+                        * Methicillin-susceptible S. aureus
+
+                        † See above text for use of combination therapy
+
+                        ‡ The observed differences in rates for the clinical and microbiological outcomes may reflect other factors that were not accounted for in the study

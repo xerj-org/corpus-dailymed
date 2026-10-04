@@ -1,0 +1,5 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 2.1 General Dosing Recommendations
+
+Ropinirole tablets can be taken with or without food [see Clinical Pharmacology (12.3)].
+
+  If a significant interruption in therapy with ropinirole tablets have occurred, retitration of therapy may be warranted.

@@ -1,0 +1,7 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 12.3 Pharmacokinetics
+
+The pharmacokinetics (PK) of pertuzumab and trastuzumab were characterized in the FeDeriCa trial following subcutaneous administration of PHESGO (1200 mg pertuzumab/600 mg trastuzumab initial dose followed by 600 mg pertuzumab/600 mg trastuzumab every 3 weeks) and intravenous administration of pertuzumab and trastuzumab (840 mg pertuzumab/8 mg/kg trastuzumab initial dose followed by 420 mg pertuzumab/6 mg/kg trastuzumab every 3 weeks). Trastuzumab is estimated to reach concentrations that are <1 mcg/mL by 7 months in at least 95% patients.
+
+                        Pertuzumab Cycle 7 Ctrough was 88.7 mcg/mL for PHESGO and 72.4 mcg/mL for intravenous pertuzumab with a geometric mean ratio (GMR) of 1.22 (90% CI: 1.14–1.31). Trastuzumab Cycle 7 Ctrough was 57.5 mcg/mL for PHESGO and 43.2 mcg/mL for intravenous trastuzumab with a GMR of 1.33 (90% CI: 1.24–1.43) [see Clinical Studies (14.2)].
+
+                        Following subcutaneous administration of PHESGO, the pertuzumab median Cycle 7 Cmax was 34% lower and AUC0-21days was 5% higher than that following intravenous administration of pertuzumab. The median trastuzumab Cycle 7 Cmax was 31% lower and AUC0-21days was 10% higher, than that following intravenous administration of trastuzumab.

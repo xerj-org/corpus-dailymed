@@ -1,0 +1,9 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of ZEPZELCA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           General disorders and administration site conditions: Extravasation including tissue necrosis requiring debridement.
+
+                           Musculoskeletal and connective tissue disorders: Rhabdomyolysis.
+
+                           Metabolism and nutrition disorders: Tumor lysis syndrome.

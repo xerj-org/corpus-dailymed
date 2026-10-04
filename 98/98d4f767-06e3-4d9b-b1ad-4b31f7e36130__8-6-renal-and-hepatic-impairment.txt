@@ -1,0 +1,9 @@
+DailyMed 98d4f767-06e3-4d9b-b1ad-4b31f7e36130 | PAROXETINE | 8.6 Renal and Hepatic Impairment
+
+Increased plasma concentrations of paroxetine occur in patients with renal and hepatic impairment. The initial dosage of paroxetine should be reduced in patients with severe renal impairment and in patients with severe hepatic impairment 
+
+  [see Dosage and Administration (
+
+   2.4), Clinical Pharmacology (
+
+   12.3)].

@@ -1,0 +1,193 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 8.4 Pediatric Use
+
+The pharmacokinetics, efficacy and safety of glimepiride have been evaluated in pediatric patients with type 2 diabetes as described below. Glimepiride is not recommended in pediatric patients because of its adverse effects on body weight and hypoglycemia.
+
+                        The pharmacokinetics of a 1 mg single dose of glimepiride was evaluated in 30 patients with type 2 diabetes (male = 7; female = 23) between ages 10 and 17 years. The mean (± SD) AUC(0-last) (339±203 ng·hr/mL), Cmax (102±48 ng/mL) and t1/2 (3.1±1.7 hours) for glimepiride were comparable to historical data from adults (AUC (0-last) 315±96 ng·hr/mL, Cmax 103±34 ng/mL, and t1/2 5.3±4.1 hours).
+
+                        The safety and efficacy of glimepiride in pediatric patients was evaluated in a single-blind, 24-week trial that randomized 272 patients (8-17 years of age) with type 2 diabetes to glimepiride (n=135) or metformin (n=137). Both treatment-naive patients (those treated with only diet and exercise for at least 2 weeks prior to randomization) and previously treated patients (those previously treated or currently treated with other oral antidiabetic medications for at least 3 months) were eligible to participate. Patients who were receiving oral antidiabetic agents at the time of study entry discontinued these medications before randomization without a washout period. Glimepiride was initiated at 1 mg, and then titrated up to 2, 4, or 8 mg (mean last dose 4 mg) through Week 12, targeting a self-monitored fasting fingerstick blood glucose < 126 mg/dL. Metformin was initiated at 500 mg twice daily and titrated at Week 12 up to 1000 mg twice daily (mean last dose 1365 mg).
+
+                        After 24 weeks, the overall mean treatment difference in HbA1c between glimepiride and metformin was 0.2%, favoring metformin (95% confidence interval -0.3% to +0.6%). Based on these results, the trial did not meet its primary objective of showing a similar reduction in HbA1c with glimepiride compared to metformin.
+
+                                       Table 2. Change from Baseline in HbA1c and Body Weight in Pediatric Patients Taking  Glimepiride or Metformin
+
+                                  |
+
+                                        
+
+                                  |
+
+                                       Metformin
+
+                                  |
+
+                                       Glimepiride
+
+                                  |
+
+                                        Treatment-Naïve  Patients*
+
+                                  |
+
+                                    N=69
+
+                                  |
+
+                                    N=72
+
+                                  |
+
+                                       HbA1c(%)
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Baseline (mean)
+
+                                  |
+
+                                    8.2
+
+                                  |
+
+                                    8.3
+
+                                  |
+
+                                    Change from baseline (adjusted LS mean)†
+
+                                  |
+
+                                    -1.2
+
+                                  |
+
+                                    -1.0
+
+                                  |
+
+                                    Adjusted Treatment Difference ‡ (95%CI)
+
+                                  |
+
+                                    0.2 (-0.3; 0.6)
+
+                                  |
+
+                                       Previously Treated Patients*
+
+                                  |
+
+                                    N=57
+
+                                  |
+
+                                    N=55
+
+                                  |
+
+                                       HbA1c(%)
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Baseline (mean)
+
+                                  |
+
+                                    9.0
+
+                                  |
+
+                                    8.7
+
+                                  |
+
+                                    Change from baseline (adjusted LS mean)†
+
+                                  |
+
+                                    -0.2
+
+                                  |
+
+                                    0.2
+
+                                  |
+
+                                    Adjusted Treatment Difference‡(95%CI)
+
+                                  |
+
+                                    0.4 (-0.4; 1.2)
+
+                                  |
+
+                                       Body Weight (kg)*
+
+                                  |
+
+                                    N=126
+
+                                  |
+
+                                    N=129
+
+                                  |
+
+                                    Baseline (mean)
+
+                                  |
+
+                                    67.3
+
+                                  |
+
+                                    66.5
+
+                                  |
+
+                                    Change from baseline (adjusted LS mean)†
+
+                                  |
+
+                                    0.7
+
+                                  |
+
+                                    2.0
+
+                                  |
+
+                                    Adjusted Treatment Difference ‡ (95% CI)
+
+                                  |
+
+                                    1.3 (0.3; 2.3)
+
+                                  |
+
+                           * Intent-to-treat population using last-observation-carried-forward for missing data (glimepiride, n=127; metformin, n=126)
+
+                           † adjusted for baseline HbA1c and Tanner Stage
+
+                           ‡ Difference is glimepiride – metformin with positive differences favoring metformin
+
+                        The profile of adverse reactions in pediatric patients treated with glimepiride was similar to that observed in adults [see Adverse Reactions (6)].
+
+                            
+
+                        Hypoglycemic events documented by blood glucose values <36 mg/dL were observed in 4% of pediatric patients treated with glimepiride and in 1% of pediatric patients treated with metformin. One patient in each treatment group experienced a severe hypoglycemic episode (severity was determined by the investigator based on observed signs and symptoms).

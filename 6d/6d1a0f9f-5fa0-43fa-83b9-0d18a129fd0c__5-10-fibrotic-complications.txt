@@ -1,0 +1,7 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 5.10 Fibrotic Complications
+
+Cases of retroperitoneal fibrosis, pulmonary infiltrates, pleural effusion, pleural thickening, pericarditis, and cardiac valvulopathy have been reported in some patients treated with ergot-derived dopaminergic agents. While these complications may resolve when the drug is discontinued, complete resolution does not always occur.
+
+                        Although these adverse reactions are believed to be related to the ergoline structure of these compounds, whether other, non-ergot-derived dopamine agonists, such as ropinirole, can cause them is unknown.
+
+                        Cases of possible fibrotic complications, including pleural effusion, pleural fibrosis, interstitial lung disease, and cardiac valvulopathy have been reported in the development program and postmarketing experience for ropinirole. While the evidence is not sufficient to establish a causal relationship between ropinirole and these fibrotic complications, a contribution of ropinirole cannot be excluded.

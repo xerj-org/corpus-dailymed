@@ -1,0 +1,5 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 5.12 Risk of Reduced of Efficacy of Tamoxifen
+
+Some studies have shown that the efficacy of tamoxifen, as measured by breast cancer relapse and mortality, may be reduced with concomitant use of PAXIL as a result of paroxetine’s irreversible CYP2D6 inhibition and lower concentration of the active metabolite of tamoxifen [see Drug Interactions (7)]. One study suggested that the risk may increase with longer duration of concomitant use of PAXIL and tamoxifen. However, other studies have failed to demonstrate such a risk.
+
+                        When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition rather than PAXIL.

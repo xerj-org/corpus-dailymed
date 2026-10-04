@@ -1,0 +1,9 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 2.3 Instructions for Use with the Medtronic SynchroMed II and SynchroMed III Infusion System
+
+Refer to the manufacturer's manuals for specific instructions and precautions for performing a reservoir rinse, initial filling, refilling the reservoir, and programming. [
+
+  see Warnings and Precautions (
+
+   5.2)
+
+  ]

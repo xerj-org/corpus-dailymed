@@ -1,0 +1,7 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 5.4 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
+
+Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia. Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to an unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6.1)].
+
+                        The risk of hyperglycemia may be increased during the first four to six weeks of titration, especially if ONSWIK is initiated without the one-time starting dose [see Dosage and Administration (2.3, 2.4), Clinical Pharmacology (12.2, 12.3)].
+
+                        Make any changes to a patient's insulin regimen under close medical supervision with increased frequency of glucose monitoring. Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia. Adjustments in concomitant anti-diabetic treatment may be needed [see Dosage and Administration (2.3, 2.4)].

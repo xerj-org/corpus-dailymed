@@ -1,0 +1,11 @@
+DailyMed 698a46a6-29b5-4763-9442-ec9ad5eea86b | Nitroglycerin | 4.1 P DE-5 - I nhibitors and sGC- S timulators
+
+Do not use Nitroglycerin Lingual Spray in patients who are taking PDE-5-Inhibitors, such as avanafil, sildenafil, tadalafil, or vardenafil. Concomitant use can cause severe hypotension, syncope, or myocardial ischemia
+
+  [see 
+
+                              Drug Interactions (7.1)
+
+                           ].
+
+                        Do not use Nitroglycerin Lingual Spray in patients who are taking soluble guanylate cyclase (sGC) stimulators, such as riociguat. Concomitant use can cause hypotension.

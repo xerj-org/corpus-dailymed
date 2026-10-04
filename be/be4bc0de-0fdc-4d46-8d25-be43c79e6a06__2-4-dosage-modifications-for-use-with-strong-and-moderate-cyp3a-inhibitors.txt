@@ -1,0 +1,7 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 2.4 Dosage Modifications for Use with Strong and Moderate CYP3A Inhibitors
+
+Avoid concomitant use of the strong CYP3A inhibitor ketoconazole.
+
+                        With concomitant use of strong CYP3A inhibitors other than ketoconazole, in patients with recommended starting dosage of 200 mg twice daily or 150 mg twice daily, reduce the VERZENIO dosage to 100 mg twice daily. In patients who have had a dosage reduction to 100 mg twice daily due to adverse reactions, further reduce the VERZENIO dosage to 50 mg twice daily. If a patient taking VERZENIO discontinues a CYP3A inhibitor, increase the VERZENIO dosage (after 3-5 half-lives of the inhibitor) to the dose that was used before starting the strong inhibitor [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+
+                        With concomitant use of moderate CYP3A inhibitors, monitor for adverse reactions and consider reducing the VERZENIO dose in 50 mg decrements as demonstrated in Table 1, if necessary.

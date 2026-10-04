@@ -1,0 +1,19 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of everolimus tablets for oral suspension. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure:
+
+                              Blood and lymphatic disorders: Thrombotic microangiopathy
+
+                              Cardiac: Cardiac failure with some cases reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event
+
+                              Gastrointestinal: Acute pancreatitis
+
+                              Hepatobiliary: Cholecystitis and cholelithiasis
+
+                              Infections: Sepsis and septic shock
+
+                              Nervous system: Reflex sympathetic dystrophy
+
+                              Vascular: Arterial thrombotic events, lymphedema
+
+                              Injury, poisoning and procedural complications: Radiation Sensitization and Radiation Recall

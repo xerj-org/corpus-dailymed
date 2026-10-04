@@ -1,0 +1,3 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 12.1 Mechanism of Action
+
+Tarlatamab-dlle is a bispecific T-cell engager that binds to DLL3 expressed on the surface of cells, including tumor cells, and CD3 expressed on the surface of T cells. Tarlatamab-dlle causes T-cell activation, release of inflammatory cytokines, and lysis of DLL3-expressing cells. Tarlatamab-dlle had anti-tumor activity in mouse models of SCLC.

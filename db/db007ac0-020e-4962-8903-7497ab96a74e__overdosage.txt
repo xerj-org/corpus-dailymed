@@ -1,0 +1,5 @@
+DailyMed db007ac0-020e-4962-8903-7497ab96a74e | Imipramine Hydrochloride | OVERDOSAGE
+
+Deaths may occur from overdosage with this class of drugs. Multiple drug ingestion (including alcohol) is common in deliberate tricyclic overdose. As the management is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment. Signs and symptoms of toxicity develop rapidly after tricyclic overdose. Therefore, hospital monitoring is required as soon as possible.
+
+                  Children have been reported to be more sensitive than adults to an acute overdosage of imipramine hydrochloride. An acute overdose of any amount in infants or young children, especially, must be considered serious and potentially fatal.

@@ -1,0 +1,5 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 13.2 Animal Toxicology and/or Pharmacology
+
+In repeat-dose studies in rats, treatment-related neutropenia occurred at every dose-level tested, including the lowest dose of 2 mg/kg (approximately 2% of the human dose on a body surface area basis).
+
+                        Studies in rabbits and Rhesus monkeys were inconclusive with regard to the effect on neutrophil counts.

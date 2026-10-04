@@ -1,0 +1,1156 @@
+DailyMed 2354c3e2-7b5f-4fdd-bbf2-7fa3c57686f8 | Tadalafil | 14.1 Tadalafil Tablets for Use as Needed for ED
+
+The efficacy and safety of tadalafil in the treatment of erectile dysfunction has been evaluated in 22 clinical trials of up to 24-weeks duration, involving over 4000 patients. Tadalafil, when taken as needed up to once per day, was shown to be effective in improving erectile function in men with erectile dysfunction (ED).
+
+                        Tadalafil was studied in the general ED population in 7 randomized, multicenter, double-blinded, placebo-controlled, parallel-arm design, primary efficacy and safety studies of 12-weeks duration. Two of these studies were conducted in the United States and 5 were conducted in centers outside the US. Additional efficacy and safety studies were performed in ED patients with diabetes mellitus and in patients who developed ED status post bilateral nerve-sparing radical prostatectomy.
+
+                        In these 7 trials, tadalafil was taken as needed, at doses ranging from 2.5 mg to 20 mg, up to once per day. Patients were free to choose the time interval between dose administration and the time of sexual attempts. Food and alcohol intake were not restricted.
+
+                                      Several assessment tools were used to evaluate the effect of tadalafil on erectile function. The 3 primary outcome measures were the Erectile Function (EF) domain of the International Index of Erectile Function (IIEF) and Questions 2 and 3 from Sexual Encounter Profile (SEP). The IIEF is a 4-week recall questionnaire that was administered at the end of a treatment-free baseline period and subsequently at follow-up visits after randomization. The IIEF EF domain has a 30point total score, where higher scores reflect better erectile function. SEP is a diary in which patients recorded each sexual attempt made throughout the study. SEP Question 2 asks, “Were you able to insert your penis into the partner’s vagina?” SEP Question 3 asks, “Did your erection last long enough for you to have successful intercourse?” The overall percentage of successful attempts to insert the penis into the vagina (SEP2) and to maintain the erection for successful intercourse (SEP3) is derived for each patient. 
+
+                           Results in ED Population in US Trials — The 2 primary US efficacy and safety trials included a total of 402 men with erectile dysfunction, with a mean age of 59 years (range 27 to 87 years). The population was 78% White, 14% Black, 7% Hispanic, and 1% of other ethnicities, and included patients with ED of various severities, etiologies (organic, psychogenic, mixed), and with multiple co-morbid conditions, including diabetes mellitus, hypertension, and other cardiovascular disease. Most (greater than 90%) patients reported ED of at least 1-year duration. Study A was conducted primarily in academic centers. Study B was conducted primarily in community-based urology practices. In each of these 2 trials, tadalafil 20 mg showed clinically meaningful and statistically significant improvements in all 3 primary efficacy variables (see Table 11). The treatment effect of tadalafil did not diminish over time.
+
+                           Table 11: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in the Two Primary US Trials
+
+                                     
+
+ 
+
+                                  |
+
+                                       Study A
+
+                                  |
+
+                                       Study B
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Tadalafil  20 mg
+
+                                  |
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Tadalafil 20 mg
+
+                                  |
+                                  |
+
+                                       (N=49)
+
+                                  |
+
+                                       (N=146)
+
+                                  |
+
+                                       p-value
+
+                                  |
+
+                                       (N=48)
+
+                                  |
+
+                                       (N=159)
+
+                                  |
+
+                                       p-value
+
+                                  |
+
+                                       EF Domain Score  
+
+                                  |
+
+                                    Endpoint
+
+                                  |
+
+                                    13.5
+
+                                  |
+
+                                    19.5
+
+                                  |
+                                  |
+
+                                    13.6
+
+                                  |
+
+                                    22.5
+
+                                  |
+                                  |
+
+                                    Change from baseline
+
+                                  |
+
+                                    -0.2
+
+                                  |
+
+                                    6.9
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                    0.3
+
+                                  |
+
+                                    9.3
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                       Insertion of Penis (SEP2)
+
+                                  |
+
+                                    Endpoint
+
+                                  |
+
+                                    39%
+
+                                  |
+
+                                    62%
+
+                                  |
+                                  |
+
+                                    43%
+
+                                  |
+
+                                    77%
+
+                                  |
+                                  |
+
+                                    Change from baseline
+
+                                  |
+
+                                    2%
+
+                                  |
+
+                                    26%
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                    2%
+
+                                  |
+
+                                    32%
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                       Maintenance of Erection (SEP3)  
+
+                                  |
+
+                                    Endpoint
+
+                                  |
+
+                                    25%
+
+                                  |
+
+                                    50%
+
+                                  |
+                                  |
+
+                                    23%
+
+                                  |
+
+                                    64%
+
+                                  |
+                                  |
+
+                                    Change from baseline
+
+                                  |
+
+                                    5%
+
+                                  |
+
+                                    34%
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                    4%
+
+                                  |
+
+                                    44%
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                           Results in General ED Population in Trials Outside the US — The 5 primary efficacy and safety studies conducted in the general ED population outside the US included 1112 patients, with a mean age of 59 years (range 21 to 82 years). The population was 76% White, 1% Black, 3% Hispanic, and 20% of other ethnicities, and included patients with ED of various severities, etiologies (organic, psychogenic, mixed), and with multiple co-morbid conditions, including diabetes mellitus, hypertension, and other cardiovascular disease. Most (90%) patients reported ED of at least 1-year duration. In these 5 trials, tadalafil 5 mg, 10 mg, and 20 mg showed clinically meaningful and statistically significant improvements in all 3 primary efficacy variables (see Tables 12, 13 and 14). The treatment effect of tadalafil did not diminish over time.
+
+                           Table 12: Mean Endpoint and Change from Baseline for the EF Domain of the IIEF in the General ED Population in Five Primary Trials Outside the US
+
+                                    a Treatment duration in Study F was 6 months  |
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Tadalafil
+
+                                       5 mg
+
+                                  |
+
+                                       Tadalafil
+
+                                       10 mg
+
+                                  |
+
+                                       Tadalafil
+
+                                       20 mg
+
+                                  |
+
+                                       Study C  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    15.0 [0.7]
+
+                                  |
+
+                                    17.9 [4.0]
+
+                                  |
+
+                                    20.0 [5.6]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+                                  |
+
+                                         p=.006
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       Study D  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    14.4 [1.1]
+
+                                  |
+
+                                    17.5 [5.1]
+
+                                  |
+
+                                    20.6 [6.0]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+                                  |
+
+                                         p=.002
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       Study E 
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    18.1 [2.6]
+
+                                  |
+                                  |
+
+                                    22.6 [8.1]
+
+                                  |
+
+                                    25.0 [8.0]
+
+                                  |
+
+                                     
+
+                                  |
+                                  |
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                       Study Fa
+                                        
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    12.7 [-1.6]
+
+                                  |
+                                  |
+                                  |
+
+                                    22.8 [6.8]
+
+                                  |
+
+                                     
+
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                       Study G  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    14.5 [-0.9]
+
+                                  |
+                                  |
+
+                                    21.2 [6.6]
+
+                                  |
+
+                                    23.3 [8.0]
+
+                                  |
+
+                                     
+
+                                  |
+                                  |
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                           Table 13: Mean Post-Baseline Success Rate and Change from Baseline for SEP Question 2 (“Were you able to insert your penis into the partner’s vagina?”) in the General ED Population in Five Pivotal Trials Outside the US
+
+                                    a Treatment duration in Study F was 6 months
+
+                                  |
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Tadalafil 5 mg
+
+                                  |
+
+                                       Tadalafil 10 mg
+
+                                  |
+
+                                       Tadalafil 20 mg
+
+                                  |
+
+                                       Study C  
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    49% [6%]
+
+                                  |
+
+                                    57% [15%]
+
+                                  |
+
+                                    73% [29%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                  |
+
+                                     
+
+                                  |
+
+                                         p=.063
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       Study D  
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    46% [2%]
+
+                                  |
+
+                                    56% [18%]
+
+                                  |
+
+                                    68% [15%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                  |
+
+                                     
+
+                                  |
+
+                                         p=.008
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       Study E
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    55% [10%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    77% [35%]
+
+                                  |
+
+                                    85% [35%]
+
+                                  |
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                       Study Fa 
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    42% [-8%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    81% [27%]
+
+                                  |
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                       Study G  
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    45% [-6%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    73% [21%]
+
+                                  |
+
+                                    76% [21%]
+
+                                  |
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                           Table 14: Mean Post-Baseline Success Rate and Change from Baseline for SEP Question 3 (“Did your erection last long enough for you to have successful intercourse?”) in the General ED Population in Five Pivotal Trials Outside the US
+
+                                    a Treatment duration in Study F was 6 months
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Tadalafil 5 mg
+
+                                  |
+
+                                       Tadalafil 10 mg
+
+                                  |
+
+                                       Tadalafil 20 mg
+
+                                  |
+
+                                       Study C  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    26% [4%]
+
+                                  |
+
+                                    38% [19%]
+
+                                  |
+
+                                    58% [32%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+                                  |
+
+                                         p=.040
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       Study D  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    28% [4%]
+
+                                  |
+
+                                    42% [24%]
+
+                                  |
+
+                                    51% [26%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       Study E  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    43% [15%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    70% [48%]
+
+                                  |
+
+                                    78% [50%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                       Study Fa  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    27% [1%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    74% [40%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                       Study G  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    32% [5%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    57% [33%]
+
+                                  |
+
+                                    62% [29%]
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                                         p<.001
+
+                                  |
+
+                        In addition, there were improvements in EF domain scores, success rates based upon SEP Questions 2 and 3, and patient-reported improvement in erections across patients with ED of all degrees of disease severity while taking tadalafil, compared to patients on placebo.
+
+                        Therefore, in all 7 primary efficacy and safety studies, tadalafil showed statistically significant improvement in patients’ ability to achieve an erection sufficient for vaginal penetration and to maintain the erection long enough for successful intercourse, as measured by the IIEF questionnaire and by SEP diaries.
+
+                           Efficacy Results in ED Patients with Diabetes Mellitus — Tadalafil was shown to be effective in treating ED in patients with diabetes mellitus. Patients with diabetes were included in all 7 primary efficacy studies in the general ED population (N=235) and in one study that specifically assessed tadalafil in ED patients with type 1 or type 2 diabetes (N=216). In this randomized, placebo-controlled, double-blinded, parallel-arm design prospective trial, tadalafil demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 15).
+
+                           Table 15: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in a Study in ED Patients with Diabetes
+
+                                     
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Tadalafil 10 mg
+
+                                  |
+
+                                       Tadalafil 20 mg
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       (N=71)
+
+                                  |
+
+                                       (N=73)
+
+                                  |
+
+                                       (N=72)
+
+                                  |
+
+                                       p-value
+
+                                  |
+
+                                       EF Domain Score  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    12.2 [0.1]
+
+                                  |
+
+                                    19.3 [6.4]
+
+                                  |
+
+                                    18.7 [7.3]
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                       Insertion of Penis (SEP2)  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    30% [-4%]
+
+                                  |
+
+                                    57% [22%]
+
+                                  |
+
+                                    54% [23%]
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                       Maintenance of Erection (SEP3)  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    20% [2%]
+
+                                  |
+
+                                    48% [28%]
+
+                                  |
+
+                                    42% [29%]
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                           Efficacy Results in ED Patients following Radical Prostatectomy — Tadalafil was shown to be effective in treating patients who developed ED following bilateral nerve-sparing radical prostatectomy. In 1 randomized, placebo-controlled, double-blinded, parallel-arm design prospective trial in this population (N=303), tadalafil demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 16).
+
+                           Table 16: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in a Study in Patients who Developed ED Following Bilateral Nerve-Sparing Radical Prostatectomy
+
+                                     
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Tadalafil 20 mg
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       (N=102)
+
+                                  |
+
+                                       (N=201)
+
+                                  |
+
+                                       p-value
+
+                                  |
+
+                                       EF Domain Score  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    13.3 [1.1]
+
+                                  |
+
+                                    17.7 [5.3]
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                       Insertion of Penis (SEP2)  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    32% [2%]
+
+                                  |
+
+                                    54% [22%]
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                       Maintenance of Erection (SEP3)  
+
+                                  |
+
+                                    Endpoint [Change from baseline]
+
+                                  |
+
+                                    19% [4%]
+
+                                  |
+
+                                    41% [23%]
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                           Results in Studies to Determine the Optimal Use of Tadalafil— Several studies were conducted with the objective of determining the optimal use of tadalafil in the treatment of ED. In one of these studies, the percentage of patients reporting successful erections within 30 minutes of dosing was determined. In this randomized, placebo-controlled, double-blinded trial, 223 patients were randomized to placebo, tadalafil 10 mg, or 20 mg. Using a stopwatch, patients recorded the time following dosing at which a successful erection was obtained. A successful erection was defined as at least 1 erection in 4 attempts that led to successful intercourse. At or prior to 30 minutes, 35% (26/74), 38% (28/74), and 52% (39/75) of patients in the placebo, 10-mg, and 20-mg groups, respectively, reported successful erections as defined above.
+
+                        Two studies were conducted to assess the efficacy of tadalafil at a given timepoint after dosing, specifically at 24 hours and at 36 hours after dosing.
+
+                        In the first of these studies, 348 patients with ED were randomized to placebo or tadalafil tablets 20 mg. Patients were encouraged to make 4 total attempts at intercourse; 2 attempts were to occur at 24 hours after dosing and 2 completely separate attempts were to occur at 36 hours after dosing. The results demonstrated a difference between the placebo group and the tadalafil group at each of the pre-specified timepoints. At the 24-hour timepoint, (more specifically, 22 to 26 hours), 53/144 (37%) patients reported at least 1 successful intercourse in the placebo group versus 84/138 (61%) in the tadalafil 20-mg group. At the 36-hour timepoint (more specifically, 33 to 39 hours), 49/133 (37%) of patients reported at least 1 successful intercourse in the placebo group versus 88/137 (64%) in the tadalafil 20-mg group.
+
+ In the second of these studies, a total of 483 patients were evenly randomized to 1 of 6 groups: 3 different dosing groups (placebo, tadalafil 10 mg, or 20 mg) that were instructed to attempt intercourse at 2 different times (24 and 36 hours post-dosing). Patients were encouraged to make 4 separate attempts at their assigned dose and assigned timepoint. In this study, the results demonstrated a statistically significant difference between the placebo group and the tadalafilgroups at each of the pre-specified timepoints. At the 24-hour timepoint, the mean, per patient percentage of attempts resulting in successful intercourse were 42, 56, and 67% for the placebo, tadalafil 10-mg, and 20-mg groups, respectively. At the 36-hour timepoint, the mean, per-patient percentage of attempts resulting in successful intercourse were 33, 56, and 62% for placebo, tadalafil 10-mg, and 20-mg groups, respectively.

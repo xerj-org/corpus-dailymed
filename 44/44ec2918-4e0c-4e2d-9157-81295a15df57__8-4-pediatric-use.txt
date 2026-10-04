@@ -1,0 +1,46 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 8.4 Pediatric Use
+
+Neuropathic Pain Associated with Diabetic Peripheral Neuropathy, Postherpetic Neuralgia, and Neuropathic Pain Associated with Spinal Cord Injury
+
+   Safety and effectiveness in pediatric patients have not been established.
+
+                           Fibromyalgia
+
+                           Safety and effectiveness in pediatric patients have not been established.
+
+                        A 15-week, placebo-controlled trial was conducted with 107 pediatric patients with fibromyalgia, ages 12 through 17 years, at pregabalin total daily doses of 75-450 mg per day. The primary efficacy endpoint of change from baseline to Week 15 in mean pain intensity (derived from an 11-point numeric rating scale) showed numerically greater improvement for the pregabalin-treated patients compared to placebo-treated patients, but did not reach statistical significance. The most frequently observed adverse reactions in the clinical trial included dizziness, nausea, headache, weight increased, and fatigue. The overall safety profile in adolescents was similar to that observed in adults with fibromyalgia.
+
+                           Adjunctive Therapy for Partial-Onset Seizures
+
+                           Safety and effectiveness in pediatric patients below the age of 1 month have not been established.
+
+                           4 to Less Than 17 Years of Age with Partial-Onset Seizures
+
+                        The safety and effectiveness of pregabalin as adjunctive treatment for partial-onset seizures in pediatric patients 4 to less than 17 years of age have been established in a 12-week, double-blind, placebo-controlled study (n=295) [see Clinical Studies (14.3)]. Patients treated with pregabalin 10 mg/kg/day had, on average, a 21.0% greater reduction in partial-onset seizures than patients treated with placebo (p=0.0185). Patients treated with pregabalin 2.5 mg/kg/day had, on average, a 10.5% greater reduction in partial-onset seizures than patients treated with placebo, but the difference was not statistically significant (p=0.2577).
+
+                            
+
+                        Responder rates (50% or greater reduction in partial-onset seizure frequency) were a key secondary efficacy parameter and showed numerical improvement with pregabalin compared with placebo: the responder rates were 40.6%, 29.1%, and 22.6%, for pregabalin 10 mg/kg/day, pregabalin 2.5 mg/kg/day, and placebo, respectively.
+
+  The most common adverse reactions (≥ 5%) with pregabalin in this study were somnolence, weight increased, and increased appetite
+
+                              [see Adverse Reactions (6.1)].
+
+  The use of pregabalin 2.5 mg/kg/day in pediatric patients is further supported by evidence from adequate and well-controlled studies in adults with partial-onset seizures and pharmacokinetic data from adult and pediatric patients
+
+                              [see Clinical Pharmacology (12.3)].
+
+                           1 Month to Less than 4 Years of Age with Partial-Onset Seizures
+
+  The safety and effectiveness of pregabalin as adjunctive treatment for partial-onset seizures in pediatric patients 1 month to less than 4 years of age have been established in a 14-day double-blind, placebo-controlled study (N=175)
+
+                              [see Clinical Studies (14.3)]
+                           . The youngest subject evaluated was 3 months of age; use in patients 1 month to less than 3 months of age is supported by additional pharmacokinetic analyses. Patients treated with pregabalin 14 mg/kg/day had, on average, 43.9% greater reduction in partial-onset seizures than patients treated with placebo (p=0.0223). In addition, pediatric patients treated with pregabalin 14 mg/kg/day showed numerical improvement in responder rates (≥ 50% reduction in partial-onset seizure frequency) compared with placebo (53.6% versus 41.5%). Patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo for either endpoint.
+
+  The most common dose-related adverse reactions (> 5%) with pregabalin in this study were somnolence, pneumonia, and viral infection
+
+                              [see Adverse Reactions (6.1)].
+
+                           Juvenile Animal Data
+
+                        In studies in which pregabalin (50 to 500 mg/kg) was orally administered to young rats from early in the postnatal period (Postnatal Day 7) through sexual maturity, neurobehavioral abnormalities (deficits in learning and memory, altered locomotor activity, decreased auditory startle responding and habituation) and reproductive impairment (delayed sexual maturation and decreased fertility in males and females) were observed at doses greater than or equal to 50 mg/kg. The neurobehavioral changes of acoustic startle persisted at greater than or equal to 250 mg/kg and locomotor activity and water maze performance at greater than or equal to 500 mg/kg in animals tested after cessation of dosing and, thus, were considered to represent long-term effects. The low effect dose for developmental neurotoxicity and reproductive impairment in juvenile rats (50 mg/kg) was associated with a plasma pregabalin exposure (AUC) approximately equal to human exposure at the maximum recommended dose of 600 mg/day. A no-effect dose was not established.

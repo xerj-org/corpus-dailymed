@@ -1,0 +1,3 @@
+DailyMed 9e92ccc3-d81c-461d-a19f-7e9b582be357 | dextroamphetamine sulfate | Drug/Laboratory Test Interactions
+
+Amphetamines can cause a significant elevation in plasma corticosteroid levels. This increase is greatest in the evening. Amphetamines may interfere with urinary steroid determinations.

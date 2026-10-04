@@ -1,0 +1,9 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 7.4 Sevelamer
+
+Concomitant administration of sevelamer and MMF may decrease MPA plasma concentrations. Sevelamer and other calcium-free phosphate binders should not be administered simultaneously with mycophenolic acid delayed release [see
+
+                              Clinical Pharmacology (
+
+    12.3)
+
+                           ].

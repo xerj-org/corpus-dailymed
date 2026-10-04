@@ -1,0 +1,9 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 5.6 Neuroleptic Malignant Syndrome
+
+Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has been reported in association with the use of antipsychotic drugs [
+
+  see Adverse Reactions(
+
+  6.1)]. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, delirium and autonomic instability and additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis) and acute renal failure.
+
+                        If NMS is suspected, immediately discontinue haloperidol decanoate and provide intensive symptomatic treatment and monitoring.

@@ -1,0 +1,3 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 8.6 Renal Impairment
+
+No dose adjustments are recommended for patients with mild or moderate renal impairment (estimated glomerular filtration rate (eGFR) ≥30 mL/min). BEQALZI has not been studied in patients with severe renal impairment (eGFR <30 mL/min) [see Clinical Pharmacology (12.3)].

@@ -1,0 +1,17 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 2.5 Patients on Hemodialysis
+
+When adult patients on hemodialysis are given the recommended daily dose of 500 mg of Ertapenem for injection within 6 hours prior to hemodialysis, a supplementary dose of 150 mg is recommended following the hemodialysis session. If Ertapenem for injection is given at least 6 hours prior to hemodialysis, no supplementary dose is needed. There are no data in patients undergoing peritoneal dialysis or hemofiltration. There are no data in pediatric patients on hemodialysis.
+
+                        When only the serum creatinine is available, the following formula
+
+  Cockcroft and Gault equation: Cockcroft DW, Gault MH. Prediction of creatinine clearance from serum creatinine. Nephron. 1976
+
+may be used to estimate creatinine clearance. The serum creatinine should represent a steady state of renal function.
+
+                                 Males: |
+                                 (weight in kg) × (140-age in years) |
+
+                                 (72) × serum creatine (mg/100 mL) |
+
+                                 Females: |
+                                 (0.85) × (value calculated for males) |

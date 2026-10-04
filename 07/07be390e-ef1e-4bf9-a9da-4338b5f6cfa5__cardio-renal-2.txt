@@ -1,0 +1,3 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Cardio-Renal
+
+As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.

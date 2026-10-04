@@ -1,0 +1,3 @@
+DailyMed cbf142f9-9af3-4d79-9343-0ab42d6dbe9f | Medroxyprogesterone Acetate | Hepatic Insufficiency
+
+MPA is almost exclusively eliminated via hepatic metabolism. In 14 patients with advanced liver disease, MPA disposition was significantly altered (reduced elimination). In patients with fatty liver, the mean percent dose excreted in the 24-hour urine as intact MPA after a 10 mg or 100 mg dose was 7.3% and 6.4%, respectively.

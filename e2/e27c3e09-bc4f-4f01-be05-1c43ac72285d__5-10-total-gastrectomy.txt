@@ -1,0 +1,7 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 5.10 Total Gastrectomy
+
+Since the exposure of nilotinib is reduced in patients with total gastrectomy, perform more frequent monitoring of these patients. Consider dose increase or alternative therapy in patients with total gastrectomy [see Clinical Pharmacology (
+
+                              12.3
+
+                           )].

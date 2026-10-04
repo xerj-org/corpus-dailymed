@@ -1,0 +1,3 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 7.2 Warfarin
+
+Spontaneous postmarketing reports suggest that concomitant administration of azithromycin may potentiate the effects of oral anticoagulants such as warfarin, although the prothrombin time was not affected in the dedicated drug interaction study with azithromycin and warfarin. Prothrombin times should be carefully monitored while patients are receiving azithromycin and oral anticoagulants concomitantly.

@@ -1,0 +1,3 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 12.1 Mechanism of Action
+
+The precise mechanism by which XADAGO exerts its therapeutic effects in PD is unknown.  XADAGO is an inhibitor of monoamine oxidase B (MAO-B). Inhibition of MAO-B activity, by blocking the catabolism of dopamine, is thought to result in an increase in dopamine levels and a subsequent increase in dopaminergic activity in the brain.

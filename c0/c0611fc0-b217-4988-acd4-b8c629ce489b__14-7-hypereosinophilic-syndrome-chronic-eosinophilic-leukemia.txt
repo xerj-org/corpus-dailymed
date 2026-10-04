@@ -1,0 +1,99 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 14.7 Hypereosinophilic Syndrome/Chronic Eosinophilic Leukemia
+
+One open-label, multicenter, Phase 2 study was conducted testing imatinib mesylate in diverse populations of patients with life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases. This study included 14 patients with Hypereosinophilic Syndrome/Chronic Eosinophilic Leukemia (HES/CEL). HES patients were treated with 100 mg to 1,000 mg of imatinib mesylate daily. The ages of these patients ranged from 16 to 64 years. A further 162 patients with HES/CEL aged 11 to 78 years were reported in 35 published case reports and case series. These patients received imatinib mesylate at doses of 75 mg to 800 mg daily. Hematologic response rates are summarized in Table 24. Response durations for literature patients ranged from 6+ weeks to 44 months.
+
+                           Table 24: Response in HES/CEL
+
+                                 Abbreviations: CEL, chronic eosinophilic leukemia; HES, hypereosinophilic syndrome; PDGFR, platelet-derived growth factor receptor.
+
+                                  |
+
+                                       Cytogenetic abnormality
+
+                                  |
+
+                                       Number
+
+                                       of
+
+                                       patients
+
+                                  |
+
+                                       Complete hematological
+
+                                       response
+
+                                       N (%)
+
+                                  |
+
+                                       Partial hematological response
+
+                                        N (%)
+
+                                  |
+
+                                    Positive FIP1L1-PDGFRα fusion kinase
+
+                                  |
+
+                                    61
+
+                                  |
+
+                                    61 (100)
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Negative FIP1L1-PDGFRα fusion kinase
+
+                                  |
+
+                                    56
+
+                                  |
+
+                                    12 (21)
+
+                                  |
+
+                                    9 (16)
+
+                                  |
+
+                                    Unknown cytogenetic abnormality
+
+                                  |
+
+                                    59
+
+                                  |
+
+                                    34 (58)
+
+                                  |
+
+                                    7 (12)
+
+                                  |
+
+                                    Total
+
+                                  |
+
+                                    176
+
+                                  |
+
+                                    107 (61)
+
+                                  |
+
+                                    23 (13)
+
+                                  |

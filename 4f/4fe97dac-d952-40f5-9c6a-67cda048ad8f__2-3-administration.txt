@@ -1,0 +1,43 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 2.3 Administration
+
+Administer intravenously.
+
+                           Administer GAMUNEX-C FlexBag at room temperature.
+
+                           Inspect GAMUNEX-C FlexBag visually for particulate matter and discoloration prior to administration, whenever the solution and container permit. 
+
+                           Do not use if turbid, if particulate matter is present, and/or if discoloration is observed. 
+
+                           Promptly administer GAMUNEX-C after opening the Flexbag. Discard partially used bags. 
+
+                           If dilution is required, GAMUNEX-C FlexBag may be diluted with 5% dextrose in water (D5/W). Do not dilute with saline. Infuse GAMUNEX-C FlexBag using a separate line by itself, without mixing with other intravenous fluids or medications the subject might be receiving. The GAMUNEX-C FlexBag infusion line can be flushed with 5% dextrose in water (D5/W) or 0.9% sodium chloride for injection.
+
+                           Rate of Administration
+
+                        Following initial infusion (see table below), the infusion rate may be gradually increased to a maximum of 0.08 mL/kg per minute (8 mg/kg per minute) as tolerated.
+
+                                 Indication |
+                                 Initial Infusion Rate
+
+(first 30 minutes) |
+                                 Maximum Infusion Rate
+
+(if tolerated) |
+
+                                 PI |
+                                 1 mg/kg/min |
+                                 8 mg/kg/min |
+
+                                 ITP |
+                                 1 mg/kg/min |
+                                 8 mg/kg/min |
+
+                                 CIDP |
+                                 2 mg/kg/min |
+                                 8 mg/kg/min |
+
+                        Monitor patient vital signs throughout the infusion. Slow or stop infusion if adverse reactions occur. If symptoms subside promptly, the infusion may be resumed at a lower rate that is comfortable for the patient.
+
+                        Certain severe adverse drug reactions may be related to the rate of infusion. Slowing or stopping the infusion usually allows the symptoms to disappear promptly.
+
+                        Ensure that patients with pre-existing renal insufficiency are not volume depleted. For patients at risk of renal dysfunction or thrombosis, administer GAMUNEX-C FlexBag at the minimum infusion rate practicable and discontinue GAMUNEX-C FlexBag if renal function deteriorates.

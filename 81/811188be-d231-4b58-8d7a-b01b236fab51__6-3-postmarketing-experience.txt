@@ -1,0 +1,43 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of lamotrigine. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Blood and Lymphatic
+
+                        Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder, pseudolymphoma.
+
+                           Gastrointestinal
+
+                        Esophagitis.
+
+                           Hepatobiliary Tract and Pancreas
+
+                        Pancreatitis.
+
+                           Immunologic
+
+                        Hypogammaglobulinemia, lupus-like reaction, vasculitis.
+
+                           Lower Respiratory
+
+                        Apnea.
+
+                           Musculoskeletal
+
+                        Rhabdomyolysis has been observed in patients experiencing hypersensitivity reactions.
+
+                           Nervous System
+
+                        Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson's disease, tics.
+
+                           Non-site Specific
+
+                        Progressive immunosuppression.
+
+                           Renal and Urinary Disorders
+
+                        Tubulointerstitial nephritis (has been reported alone and in association with uveitis).
+
+                           Skin and Subcutaneous Tissue Disorders
+
+                        Photosensitivity reaction.

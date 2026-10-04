@@ -1,0 +1,39 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 7.1 Effect of Other Drugs on SOHONOS
+
+Clinically significant drug interactions affecting the exposure of SOHONOS are listed in Table 6.
+
+                           Table 6. Drugs that affect exposure of SOHONOS.
+
+                                 Strong CYP3A Inhibitors |
+
+                                 Clinical Impact |
+                                 Co-administration of SOHONOS with strong CYP3A4 inhibitors increased the exposures of palovarotene [see Clinical Pharmacology (12.3)], which may increase the risk of SOHONOS adverse reactions. |
+
+                                 Prevention or Management |
+                                 Avoid concomitant use of a strong CYP3A4 inhibitor during SOHONOS treatment [see Dosage and Administration (2.5)]. |
+
+                                 Moderate CYP3A Inhibitors |
+
+                                 Clinical Impact |
+                                 Co-administration of SOHONOS with moderate CYP3A4 inhibitors may increase the exposure of palovarotene [see Clinical Pharmacology (12.3)], which may increase the risk of SOHONOS adverse reactions. |
+
+                                 Prevention or Management |
+                                 Avoid concomitant use of a moderate CYP3A4 inhibitor with SOHONOS, if possible.
+
+If co-administration will occur, reduce the SOHONOS dose by half when co-administered with moderate CYP3A inhibitors [see Dosage and Administration (2.5)]. |
+
+                                 Strong CYP3A Inducers |
+
+                                 Clinical Impact |
+                                 Co-administration of SOHONOS with strong CYP3A4 inducers decreased the exposure of palovarotene [see Clinical Pharmacology (12.3)], which may reduce the effectiveness of SOHONOS. |
+
+                                 Prevention or Management |
+                                 Avoid concomitant use of strong CYP3A4 inducers with SOHONOS. [see Dosage and Administration (2.5)]. |
+
+                                 Moderate CYP3A Inducers |
+
+                                 Clinical Impact |
+                                 Co-administration of moderate CYP3A4 inducers with palovarotene may decrease palovarotene exposure [see Clinical Pharmacology (12.3)], which may reduce the effectiveness of SOHONOS. |
+
+                                 Prevention or Management |
+                                 Avoid concomitant use of moderate CYP3A4 inducers with SOHONOS. |

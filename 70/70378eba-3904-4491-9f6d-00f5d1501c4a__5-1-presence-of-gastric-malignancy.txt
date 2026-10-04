@@ -1,0 +1,3 @@
+DailyMed 70378eba-3904-4491-9f6d-00f5d1501c4a | Pantoprazole Sodium | 5.1 Presence of Gastric Malignancy
+
+In adults, symptomatic response to therapy with Pantoprazole Sodium for Injection does not preclude the presence of gastric malignancy. Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI. In older patients, also consider an endoscopy.

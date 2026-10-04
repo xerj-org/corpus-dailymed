@@ -1,0 +1,9 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 5.5 Blood Dyscrasias
+
+There have been reports of blood dyscrasias that may or may not be associated with multiorgan hypersensitivity (also known as DRESS)
+
+  [see Warnings and Precautions (
+
+   5.2)]
+
+  . These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytopenia, and, rarely, aplastic anemia and pure red cell aplasia.

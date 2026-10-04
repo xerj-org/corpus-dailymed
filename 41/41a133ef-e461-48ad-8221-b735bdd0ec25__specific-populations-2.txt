@@ -1,0 +1,21 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Specific Populations
+
+The effects of level of renal impairment, age, body weight, and level of hepatic impairment on the pharmacokinetics of apixaban are summarized in Figure 3.
+
+                                 Figure 3:      Effect of Specific Populations on the Pharmacokinetics of Apixaban
+
+                              *   ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis.
+
+                                 †   Results reflect CrCl of 15 mL/min based on regression analysis.
+
+                                 ‡   Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations.
+
+                                 §   No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) are present.
+
+                                 Gender:A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.
+
+                                 Race:The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects. No dose adjustment is required based on race/ethnicity.
+
+                                 Hemodialysis in ESRD subjects:Systemic exposure to apixaban administered as a single 5 mg dose in ESRD subjects dosed immediately after the completion of a 4-hour hemodialysis session (post-dialysis) is 36% higher when compared to subjects with normal renal function (Figure 3). The systemic exposure to apixaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min is 17% higher compared to those with normal renal function. The dialysis clearance of apixaban is approximately 18 mL/min. The systemic exposure of apixaban is 14% lower on dialysis when compared to not on dialysis.
+
+                              Protein binding was similar (92%-94%) between healthy controls and ESRD subjects during the on-dialysis and off-dialysis periods.

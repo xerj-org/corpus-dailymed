@@ -1,0 +1,14 @@
+DailyMed 66e24ced-0008-40cb-b242-9d9add1f665c | TADALAFIL | 7.3 Potential for Tadalafil Tablets to Affect Other Drugs
+
+Aspirin — Tadalafil did not potentiate the increase in bleeding time caused by aspirin.
+
+                           Cytochrome P450 Substrates — Tadalafil tablets are not expected to cause clinically significant inhibition or induction of the clearance of drugs metabolized by cytochrome P450 (CYP) isoforms. Studies have shown that tadalafil does not inhibit or induce P450 isoforms CYP1A2, CYP3A4, CYP2C9, CYP2C19, CYP2D6, and CYP2E1.
+
+                           CYP1A2 (e.g. Theophylline) — Tadalafil had no significant effect on the pharmacokinetics of theophylline. When tadalafil was administered to subjects taking theophylline, a small augmentation (3 beats per minute) of the increase in heart rate associated with theophylline was observed.
+
+                           CYP2C9 (e.g. Warfarin) — Tadalafil had no significant effect on exposure (AUC) to S-warfarin or R-warfarin, nor did tadalafil affect changes in prothrombin time induced by warfarin.
+
+                           CYP3A4 (e.g. Midazolam or Lovastatin) — Tadalafil had no significant effect on exposure (AUC) to midazolam or lovastatin.
+
+                           P-glycoprotein (e.g. Digoxin)
+                           — Coadministration of tadalafil (40 mg once per day) for 10 days did not have a significant effect on the steady-state pharmacokinetics of digoxin (0.25 mg/day) in healthy subjects.

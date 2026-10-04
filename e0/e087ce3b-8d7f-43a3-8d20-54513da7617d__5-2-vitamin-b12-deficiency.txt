@@ -1,0 +1,9 @@
+DailyMed e087ce3b-8d7f-43a3-8d20-54513da7617d | Metformin Hydrochloride | 5.2 Vitamin B12 Deficiency
+
+In clinical trials of 29-week duration with metformin hydrochloride (HCl) tablets, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients. Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation. Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels. Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on metformin hydrochloride and manage any abnormalities [see
+
+                                 Adverse Reactions 
+
+                                 (6.1)
+
+                           ].

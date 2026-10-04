@@ -1,0 +1,96 @@
+DailyMed 886aa8d8-b293-258f-b16d-be40418787a8 | Icosapent Ethyl | 14.2 Severe Hypertriglyceridemia
+
+The effects of icosapent ethyl 4 grams per day were assessed in a randomized, placebo- controlled, double-blind, parallel-group study of adult patients (76 on icosapent ethyl, 75 on placebo) with severe hypertriglyceridemia. Patients whose baseline TG levels were between 500 and 2,000 mg/dL were enrolled in this study for 12 weeks. The median baseline TG and LDL-C levels in these patients were 684 mg/dL and 86 mg/dL, respectively. Median baseline HDL-C level was 27 mg/dL. The randomized population in this study was mostly Caucasian (88%) and male (76%). The mean age was 53 years and the mean body mass index was 31 kg/m2. Twenty-five percent of patients were on concomitant statin therapy, 28% were diabetics, and 39% of the patients had TG levels >750 mg/dL. The changes in the major lipoprotein lipid parameters for the groups receiving icosapent ethyl or placebo are shown in Table 2.
+
+                           Table 2. Median Baseline and Percent Change from Baseline in Lipid Parameters in Patients with Severe Hypertriglyceridemia (≥500 mg/dL) 
+
+                                    Parameter
+                                  |
+
+                                    Icosapent Ethyl
+
+                                    4 g/day
+
+                                    N=76
+                                  |
+
+                                    Placebo
+
+N=75
+                                  |
+
+                                    Difference
+
+                                    (95% Confidence Interval)
+                                  |
+
+                                    Baseline
+                                  |
+
+                                    % Change
+                                  |
+
+                                    Baseline
+                                  |
+
+                                    % Change
+                                  |
+
+                                 TG (mg/dL) |
+                                 680 |
+                                 -27 |
+                                 703 |
+                                 +10 |
+                                 -33* (-47, -22) |
+
+                                 LDL-C (mg/dL) |
+                                 91 |
+                                 -5 |
+                                 86 |
+                                 -3 |
+                                 -2 (-13, +8) |
+
+                                 Non-HDL-C (mg/dL) |
+                                 225 |
+                                 -8 |
+                                 229 |
+                                 +8 |
+                                 -18 (-25, -11) |
+
+                                 TC (mg/dL) |
+                                 254 |
+                                 -7 |
+                                 256 |
+                                 +8 |
+                                 -16 (-22, -11) |
+
+                                 HDL-C (mg/dL) |
+                                 27 |
+                                 -4 |
+                                 27 |
+                                 0 |
+                                 -4 (-9, +2) |
+
+                                 VLDL-C (mg/dL) |
+                                 123 |
+                                 -20 |
+                                 124 |
+                                 +14 |
+                                 -29** (-43, -14) |
+
+                                 Apo B (mg/dL) |
+                                 121 |
+                                 -4 |
+                                 118 |
+                                 +4 |
+                                 -9**(-14, -3) |
+
+                        % Change= Median Percent Change from Baseline
+
+                        Difference= Median of [icosapent ethyl % Change – Placebo % Change] (Hodges-Lehmann Estimate) p-values from Wilcoxon rank-sum test
+
+                           *p-value < 0.001 (primary efficacy endpoint)
+
+                           **p-value < 0.05 (key secondary efficacy endpoints determined to be statistically significant according to the pre-specified multiple comparison procedure)  
+
+                        Icosapent ethyl 4 grams per day reduced median TG, VLDL-C, and Apo B levels from baseline relative to placebo. The reduction in TG observed with icosapent ethyl was not associated with elevations in LDL-C levels relative to placebo.

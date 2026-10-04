@@ -1,0 +1,3 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 12.3 Pharmacokinetics
+
+PK of tocilizumab is characterized by nonlinear elimination which is a combination of linear clearance and Michaelis-Menten elimination. The nonlinear part of tocilizumab elimination leads to an increase in exposure that is more than dose-proportional. The pharmacokinetic parameters of tocilizumab do not change with time. Due to the dependence of total clearance on tocilizumab serum concentrations, the half-life of tocilizumab is also concentration-dependent and varies depending on the serum concentration level. Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.

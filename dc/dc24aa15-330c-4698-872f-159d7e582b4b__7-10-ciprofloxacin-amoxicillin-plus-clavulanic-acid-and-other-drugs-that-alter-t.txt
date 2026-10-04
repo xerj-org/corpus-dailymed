@@ -1,0 +1,9 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 7.10 Ciprofloxacin, Amoxicillin Plus Clavulanic Acid and Other Drugs That Alter the Gastrointestinal Flora
+
+Drugs that alter the gastrointestinal flora, such as ciprofloxacin or amoxicillin plus clavulanic acid may interact with MMF by disrupting enterohepatic recirculation. Interference of MPAG hydrolysis may lead to less MPA available for absorption when mycophenolic acid delayed release is concomitantly administered with ciprofloxacin or amoxicillin plus clavulanic acid. The clinical relevance of this interaction is unclear; however, no dose adjustment of mycophenolic acid delayed release is needed when coadministered with these drugs [see
+
+                              Clinical Pharmacology (
+
+    12.3)
+
+                           ].

@@ -1,0 +1,17 @@
+DailyMed 5f8b3313-0286-499f-9235-02cdc0eb063b | Bupropion Hydrochloride SR | 7.2 Potential for Bupropion Hydrochloride Extended-release Tablets (SR) to Affect Other Drugs
+
+Drugs Metabolized by CYP2D6
+
+Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors. Therefore, coadministration of bupropion hydrochloride extended-release tablets (SR) with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6. Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone and flecainide). When used concomitantly with bupropion hydrochloride extended-release tablets (SR), it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
+
+                        Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion. Patients treated concomitantly with bupropion hydrochloride extended-release tablets (SR) and such drugs may require increased doses of the drug
+
+                              [see Clinical Pharmacology (
+   12.3)]
+  .
+
+                           Digoxin
+
+Coadministration of bupropion hydrochloride extended-release tablets (SR) with digoxin may decrease plasma digoxin levels. Monitor plasma digoxin levels in patients treated concomitantly with bupropion hydrochloride extended-release tablets (SR) and digoxin
+   [see Clinical Pharmacology (
+   12.3)].

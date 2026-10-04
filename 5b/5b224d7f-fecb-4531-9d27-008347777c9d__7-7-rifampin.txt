@@ -1,0 +1,3 @@
+DailyMed 5b224d7f-fecb-4531-9d27-008347777c9d | MYCOPHENOLIC ACID | 7.7 Rifampin
+
+The concomitant administration of MMF and rifampin may decrease MPA plasma concentrations. Therefore, mycophenolic acid delayed-release tablets are not recommended to be given with rifampin concomitantly unless the benefit outweighs the risk [see Clinical Pharmacology (12.3)].

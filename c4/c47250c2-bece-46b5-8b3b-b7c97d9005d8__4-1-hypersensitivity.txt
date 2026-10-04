@@ -1,0 +1,3 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 4.1 Hypersensitivity
+
+Ciprofloxacin is contraindicated in persons with a history of hypersensitivity to ciprofloxacin, any member of the quinolone class of antibacterials, or any of the product components [see Warnings and Precautions (5.7)].

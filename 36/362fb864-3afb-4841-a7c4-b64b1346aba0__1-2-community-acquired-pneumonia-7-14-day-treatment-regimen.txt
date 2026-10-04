@@ -1,0 +1,6 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 1.2 Community-Acquired Pneumonia: 7-14 day Treatment Regimen
+
+Levofloxacin is indicated for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi- drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae
+                           [see Dosage and Administration (2.1) and Clinical Studies (14.2)]. 
+
+                         MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole.

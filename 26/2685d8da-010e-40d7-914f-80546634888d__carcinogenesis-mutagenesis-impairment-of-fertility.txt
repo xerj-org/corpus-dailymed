@@ -1,0 +1,3 @@
+DailyMed 2685d8da-010e-40d7-914f-80546634888d | levocarnitine | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Mutagenicity tests performed in Salmonella typhimurium, Saccharomyces cerevisiae, and Schizosaccharomyces pombe indicate that levocarnitine is not mutagenic. No long-term animal studies have been performed to evaluate the carcinogenic potential of levocarnitine.

@@ -1,0 +1,35 @@
+DailyMed dd62a2b8-300b-d92b-7b27-a30eaa68fdd3 | Tofacitinib | 5.1 Serious Infections
+
+Serious and sometimes fatal infections may occur with tofacitinib extended-release tablets. Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving XELJANZ. The most common serious infections reported with XELJANZ included pneumonia, urinary tract infection, cellulitis, herpes zoster, bronchitis, septic shock, diverticulitis, gastroenteritis, appendicitis, and sepsis. Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, histoplasmosis, esophageal candidiasis, pneumocystosis, multi-dermatomal herpes zoster, cytomegalovirus infections, BK virus infection, and listeriosis were reported with XELJANZ. Some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.
+
+                        In the UC population, treatment with XELJANZ tablets 10 mg twice daily was associated with greater risk of serious infections compared to 5 mg twice daily. Additionally, opportunistic herpes zoster infections (including meningoencephalitis, ophthalmologic, and disseminated cutaneous) were seen in patients who were treated with XELJANZ tablets 10 mg twice daily.
+
+                        Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
+
+                        Avoid use of tofacitinib extended-release tablets in patients with an active, serious infection, including localized infections. The risks and benefits of treatment should be considered prior to initiating tofacitinib extended-release tablets in patients:
+
+                              •
+
+with chronic or recurrent infection
+
+                              •
+
+who have been exposed to tuberculosis
+
+                              •
+
+with a history of a serious or an opportunistic infection
+
+                              •
+
+who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
+
+                              •
+
+with underlying conditions that may predispose them to infection.
+
+                        Closely monitor patients for the development of signs and symptoms of infection during and after treatment with tofacitinib extended-release tablets. Interrupt tofacitinib extended-release tablets if a patient develops a serious infection, an opportunistic infection, or sepsis. In patients who develop a new infection during treatment with tofacitinib extended-release tablets, promptly complete diagnostic testing appropriate for an immunocompromised patient; initiate appropriate antimicrobial therapy, and monitor the patients closely.
+
+                        Caution is also recommended in patients with a history of chronic lung disease, or in those who develop interstitial lung disease, as they may be more prone to infections.
+
+                        Risk of infection may be higher with increasing degrees of lymphopenia and consideration should be given to lymphocyte counts when assessing individual patient risk of infection. Discontinuation and monitoring criteria for lymphopenia are recommended [see Dosage and Administration (2.3, 2.5)].

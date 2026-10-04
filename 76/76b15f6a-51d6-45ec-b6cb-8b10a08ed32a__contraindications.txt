@@ -1,0 +1,13 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | CONTRAINDICATIONS
+
+Methylprednisolone acetate injectable suspension is contraindicated in patients with known hypersensitivity to the product and its constituents.
+
+                  Intramuscular corticosteroid preparations are contraindicated for idiopathic thrombocytopenic purpura.
+
+  Methylprednisolone acetate injectable suspension is contraindicated for intrathecal administration. This formulation of methylprednisolone acetate has been associated with reports of severe medical events when administered by this route.
+
+                  Methylprednisolone acetate injectable suspension is contraindicated in systemic fungal infections, except when administered as an intra-articular injection for localized joint conditions (see 
+
+                        WARNINGS
+
+                     : Immunosuppression and Increased Risk of Infection, Fungal Infections).

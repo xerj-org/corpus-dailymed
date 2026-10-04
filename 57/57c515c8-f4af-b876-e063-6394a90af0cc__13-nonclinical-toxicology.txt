@@ -1,0 +1,20 @@
+DailyMed 57c515c8-f4af-b876-e063-6394a90af0cc | IMPAVIDO | 13 NONCLINICAL TOXICOLOGY
+
+13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Mutagenicity/Carcinogenicity: Miltefosine tested negative in the AMES-Salmonella test, DNA-amplification test, chromosomal aberration test
+  in vitro, UDS-test
+  in vivo/in vitro, and oral mouse micronucleus test
+  in vivo. The V 79 mammalian cell HPRT gene mutation test showed an increase in mutant frequency without dose dependency. In view of all mutagenicity test results, the single positive finding in the V 79 HPRT test is considered to be not of toxicological relevance with respect to a mutagenic risk to humans.
+
+Carcinogenicity studies were not performed. In a 52-week oral rat toxicity study, benign and malignant neoplasms that occurred in high-dose animals administered 21.5 mg/kg/day miltefosine (1.0 times the MRHD based on BSA comparison) included testicular Leydig cell adenoma in 3 of 30 male rats, and histiocytic sarcoma with widespread multi-organ metastasis, squamous cell carcinoma in the uterus, and a malignant adenoacanthoma in the uterus with widespread metastasis in 3 individual female rats. The carcinogenic potential of miltefosine in humans is unknown.
+
+In a fertility study in male rats, miltefosine was administered in oral doses of 3.16, 8.25 and 21.5 mg/kg/day from 4 weeks prior to mating until 7 days during mating. Testicular atrophy, reduced numbers of viable sperm, and impaired fertility were observed in rats following daily oral doses of ≥ 8.25 mg/kg (0.4 times the MRHD based on BSA comparison). These findings were reversible within a recovery period of 10 weeks except at the highest dose tested, 21.5 mg/kg/day (1.0 times the MRHD based on BSA comparison), where effects were not fully reversible.
+
+In a fertility study in female rats, miltefosine was administered in oral doses of 2.15, 6.81, and 21.5 mg/kg/day for 4 weeks prior to mating, during mating, and until Day 7 of pregnancy. Estrus cycle arrest in the metestrus or diestrus phases occurred with the high dose of 21.5 mg/kg (1.0 times the MRHD based on BSA comparison). At doses of 6.81 and 21.5 mg/kg (0.3 and 1.0 times the MRHD, respectively, based on BSA comparison) increased numbers of embryonic and fetal resorptions and dead fetuses were observed.
+
+                  In a 52-week toxicology study in dogs, increased numbers of atretic follicles in the ovaries, and cycle arrest in the uterus, vagina, and mammary gland with morphology consistent with anestrus or diestrus were observed at doses ≥ 1 mg/kg/day (0.2 times the MRHD based on BSA comparison). The effects in dogs were fully reversible after a recovery period of 6 weeks.
+
+                     13.2 Animal Toxicology and/or Pharmacology
+
+Oral administration of miltefosine in adult rats was associated with lesions affecting the eyes (retinal degeneration). Retinal degeneration was observed after 8-weeks treatment at doses of 10 mg/kg/day (0.5 times the MRHD based on BSA comparison).

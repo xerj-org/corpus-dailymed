@@ -1,0 +1,23 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data with UTEBZI use in pregnant women are insufficient to inform a drug‑associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+
+                        No adverse developmental effects were observed when pregnant mice, rats or monkeys were administered tebipenem pivoxil orally during the period of organogenesis at tebipenem exposures up to approximately 3 times (mice), 4 times (rats), and similar to (monkeys) the exposure in humans at the maximum recommended human dose (MRHD) (see Data).
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defects, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                        There is a pregnancy safety study for UTEBZI. If UTEBZI is administered during pregnancy, healthcare providers or patients may report UTEBZI exposure by contacting GlaxoSmithKline at 1-888-825-5249.
+
+                           Clinical Considerations
+
+                           Interference with Newborn Screening Test:
+
+                        Treatment of a pregnant individual with UTEBZI prior to delivery may cause a false positive test for isovaleric acidemia in the newborn as part of newborn screening [see Warnings and Precautions (5.6), Drug Interactions (7.3)].
+
+                           Data
+
+                           Animal Data: In an embryo‑fetal development study in pregnant mice, no adverse effects were observed following oral administration of tebipenem pivoxil at 100 mg/kg/day during organogenesis [Gestational Days (GD) 6‑15], at approximately 3 times the tebipenem exposure (based on AUC) in humans at the MRHD. A decrease in skeletal ossification was observed in mice at doses greater than or equal to 300 mg/kg/day, at tebipenem exposure (based on AUC) ≥7 times the exposure in humans at the MRHD. In an embryo‑fetal development study in pregnant rats, no adverse effects were observed following oral administration of tebipenem pivoxil up to 1,000 mg/kg/day during organogenesis (GD 6-17), at approximately 4 times the tebipenem exposure (based on AUC) in humans at the MRHD. Similarly, in pregnant monkeys, no adverse developmental effects were observed after oral administration of tebipenem pivoxil at doses up to 300 mg/kg/day during organogenesis (GD 20-50) at tebipenem exposure (based on AUC) similar to that in humans at the MRHD.
+
+                        In a pre- and post-natal development study in rats, oral administration of tebipenem pivoxil up to 1,000 mg/kg/day from GD 6 through Lactation Day 21, resulted in stillborn litters and reduced postnatal survival as well as a decrease in offspring body weights at birth through postnatal Day 4 in the presence of maternal toxicity, at approximately 4 times the tebipenem exposure (based on AUC) in humans at the MRHD. No effects on the growth and development of surviving offspring (including behavior and reproductive function) were observed at doses up to 1,000 mg/kg/day of tebipenem pivoxil. No developmental toxicity was observed at 300 mg/kg/day, which is approximately 2 times the tebipenem exposure (based on AUC) in humans at the MRHD.

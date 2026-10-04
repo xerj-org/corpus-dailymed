@@ -1,0 +1,13 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Carcinogenicity studies have not been conducted with gedatolisib.
+
+                           Mutagenesis
+
+                        Gedatolisib was not mutagenic in vitro in a bacterial reverse mutation (Ames) assay and was not clastogenic in an in vitro human lymphocyte chromosomal aberration assay. Gedatolisib was not genotoxic in an in vivo rat bone marrow micronucleus assay.
+
+                              Impairment of Fertility
+
+                        Fertility studies with gedatolisib have not been conducted. In repeated-dose toxicity studies, gedatolisib was administered intravenously once weekly on a 3 weeks on/1 week off schedule for 3 months in rats and dogs. Degeneration/atrophy of seminiferous tubules in testes was observed in male rats and dogs at ≥ 5 mg/kg and 0.5 mg/kg, respectively, and atrophy of prostate was observed in male rats at ≥ 1 mg/kg. In female rats, atrophy in the vagina and uterus was observed at ≥ 5 mg/kg. All findings occurred at exposures ≤ 0.2 times the human AUC at the recommended dose. Findings in males and females were reversible following a 12-week recovery period.

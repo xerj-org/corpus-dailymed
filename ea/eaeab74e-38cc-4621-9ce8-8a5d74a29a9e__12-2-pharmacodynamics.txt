@@ -1,0 +1,390 @@
+DailyMed eaeab74e-38cc-4621-9ce8-8a5d74a29a9e | Sildenafil | 12.2 Pharmacodynamics
+
+Effects of Sildenafil Tablets on Erectile Response:In eight double-blind, placebo-controlled crossover studies of patients with either organic or psychogenic erectile dysfunction, sexual stimulation resulted in improved erections, as assessed by an objective measurement of hardness and duration of erections (RigiScan
+
+  ®), after sildenafil tablets administration compared with placebo. Most studies assessed the efficacy of sildenafil tablets approximately 60 minutes post dose. The erectile response, as assessed by RigiScan
+
+  ®, generally increased with increasing sildenafil dose and plasma concentration. The time course of effect was examined in one study, showing an effect for up to 4 hours but the response was diminished compared to 2 hours.
+
+                           Effects of Sildenafil Tablets on Blood Pressure:Single oral doses of sildenafil (100 mg) administered to healthy volunteers produced decreases in sitting blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8.3/5.3 mmHg). The decrease in sitting blood pressure was most notable approximately 1 to 2 hours after dosing, and was not different than placebo at 8 hours. Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg of sildenafil tablets, therefore the effects are not related to dose or plasma levels within this dosage range. Larger effects were recorded among patients receiving concomitant nitrates
+
+  [see Contraindications
+
+   (4.1)].
+
+                            
+
+                           Figure 1: Mean Change from Baseline in Sitting Systolic Blood Pressure, Healthy Volunteers.
+
+                           Effects of Sildenafil Tablets on Blood Pressure When Nitroglycerin is Subsequently Administered: Based on the pharmacokinetic profile of a single 100 mg oral dose given to healthy normal volunteers, the plasma levels of sildenafil at 24 hours post dose are approximately 2 ng/mL (compared to peak plasma levels of approximately 440 ng/mL). In the following patients: age >65 years, hepatic impairment (e.g., cirrhosis), severe renal impairment (e.g., creatinine clearance <30 mL/min), and concomitant use of erythromycin or strong CYP3A4 inhibitors, plasma levels of sildenafil at 24 hours post dose have been found to be 3 to 8 times higher than those seen in healthy volunteers. Although plasma levels of sildenafil at 24 hours post dose are much lower than at peak concentration, it is unknown whether nitrates can be safely co-administered at this time point
+
+  [see Contraindications 
+
+   (4.1)].
+
+                           Effects of Sildenafil Tablets on Blood Pressure When Co-administered with Alpha-Blockers: Three double-blind, placebo-controlled, randomized, two-way crossover studies were conducted to assess the interaction of sildenafil tablets with doxazosin, an alpha-adrenergic blocking agent.
+
+  Study 1: Sildenafil tablets with Doxazosin
+
+  In the first study, a single oral dose of sildenafil tablets 100 mg or matching placebo was administered in a 2-period crossover design to 4 generally healthy males with benign prostatic hyperplasia (BPH). Following at least 14 consecutive daily doses of doxazosin, sildenafil tablets 100 mg or matching placebo was administered simultaneously with doxazosin. Following a review of the data from these first 4 subjects (details provided below), the sildenafil tablets dose was reduced to 25 mg. Thereafter, 17 subjects were treated with sildenafil tablets 25 mg or matching placebo in combination with doxazosin 4 mg (15 subjects) or doxazosin 8 mg (2 subjects). The mean subject age was 66.5 years. For the 17 subjects who received sildenafil tablets 25 mg and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
+
+                                 Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg)
+
+                                  |
+                                 Sildenafil tablets 25 mg
+
+                                  |
+
+                                 Supine
+
+                                  |
+                                 7.4 (-0.9, 15.7)
+
+                                  |
+
+                                 Standing
+
+                                  |
+                                 6 (-0.8,12.8)
+
+                                  |
+
+                        The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 25 mg sildenafil tablets or matching placebo are shown in Figure 2.
+
+                           Figure 2: Mean Standing Systolic Blood Pressure Change from Baseline
+
+                            
+
+                        Blood pressure was measured immediately pre-dose and at 15, 30, 45 minutes, and 1, 1.5, 2, 2.5, 3, 4, 6 and 8 hours after sildenafil tablets or matching placebo. Outliers were defined as subjects with a standing systolic blood pressure of <85 mmHg or a decrease from baseline in standing systolic blood pressure of >30 mmHg at one or more timepoints. There were no subjects treated with sildenafil tablets 25 mg who had a standing SBP < 85mmHg. There were three subjects with a decrease from baseline in standing systolic BP >30mmHg following sildenafil tablets 25 mg, one subject with a decrease from baseline in standing systolic BP > 30 mmHg following placebo and two subjects with a decrease from baseline in standing systolic BP > 30 mmHg following both sildenafil tablets and placebo. No severe adverse events potentially related to blood pressure effects were reported in this group.
+
+  Of the four subjects who received sildenafil tablets 100 mg in the first part of this study, a severe adverse event related to blood pressure effect was reported in one patient (postural hypotension that began 35 minutes after dosing with sildenafil tablets with symptoms lasting for 8 hours), and mild adverse events potentially related to blood pressure effects were reported in two others (dizziness, headache and fatigue at 1 hour after dosing; and dizziness, lightheadedness and nausea at 4 hours after dosing). There were no reports of syncope among these patients. For these four subjects, the placebo-subtracted mean maximum decreases from baseline in supine and standing systolic blood pressures were 14.8 mmHg and 21.5 mmHg, respectively. Two of these subjects had a standing SBP < 85mmHg. Both of these subjects were protocol violators, one due to a low baseline standing SBP, and the other due to baseline orthostatic hypotension.
+
+  Study 2: Sildenafil tablets with Doxazosin
+
+  In the second study, a single oral dose of sildenafil tablets 50 mg or matching placebo was administered in a 2-period crossover design to 20 generally healthy males with BPH. Following at least 14 consecutive days of doxazosin, sildenafil tablets 50 mg or matching placebo was administered simultaneously with doxazosin 4 mg (17 subjects) or with doxazosin 8 mg (3 subjects). The mean subject age in this study was 63.9 years.
+
+  Twenty subjects received sildenafil tablets 50 mg, but only 19 subjects received matching placebo. One patient discontinued the study prematurely due to an adverse event of hypotension following dosing with sildenafil tablets 50 mg. This patient had been taking minoxidil, a potent vasodilator, during the study.
+
+  For the 19 subjects who received both sildenafil tablets and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
+
+                                 Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg)
+
+                                  |
+                                 Sildenafil tablets 50 mg (95% CI)
+
+                                  |
+
+                                 Supine
+
+                                  |
+                                 9.08 (5.48, 12.68)
+
+                                  |
+
+                                 Standing
+
+                                  |
+                                 11.62 (7.34, 15.90)
+
+                                  |
+
+                        The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 50 mg sildenafil tablets or matching placebo are shown in Figure 3.
+
+                           Figure 3: Mean Standing Systolic Blood Pressure Change from Baseline
+
+                            
+
+                        Blood pressure was measured after administration of sildenafil tablets at the same times as those specified for the first doxazosin study. There were two subjects who had a standing SBP of < 85 mmHg. In these two subjects, hypotension was reported as a moderately severe adverse event, beginning at approximately 1 hour after administration of sildenafil tablets 50 mg and resolving after approximately 7.5 hours. There was one subject with a decrease from baseline in standing systolic BP >30mmHg following sildenafil tablets 50 mg and one subject with a decrease from baseline in standing systolic BP > 30 mmHg following both sildenafil tablets 50 mg and placebo. There were no severe adverse events potentially related to blood pressure and no episodes of syncope reported in this study.
+
+                           Study 3: Sildenafil tablets with Doxazosin
+
+                        In the third study, a single oral dose of sildenafil tablets 100 mg or matching placebo was administered in a 3-period crossover design to 20 generally healthy males with BPH. In dose period 1, subjects were administered open-label doxazosin and a single dose of sildenafil tablets 50 mg simultaneously, after at least 14 consecutive days of doxazosin. If a subject did not successfully complete this first dosing period, he was discontinued from the study. Subjects who had successfully completed the previous doxazosin interaction study (using sildenafil tablets 50 mg), including no significant hemodynamic adverse events, were allowed to skip dose period 1. Treatment with doxazosin continued for at least 7 days after dose period 1. Thereafter, sildenafil tablets 100 mg or matching placebo was administered simultaneously with doxazosin 4 mg (14 subjects) or doxazosin 8 mg (6 subjects) in standard crossover fashion. The mean subject age in this study was 66.4 years.
+
+  Twenty-five subjects were screened. Two were discontinued after study period 1: one failed to meet pre-dose screening qualifications and the other experienced symptomatic hypotension as a moderately severe adverse event 30 minutes after dosing with open-label sildenafil tablets 50 mg. Of the twenty subjects who were ultimately assigned to treatment, a total of 13 subjects successfully completed dose period 1, and seven had successfully completed the previous doxazosin study (using sildenafil tablets 50 mg).
+
+                        For the 20 subjects who received sildenafil tablets 100 mg and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
+
+                                 Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg)
+
+                                  |
+                                 Sildenafil tablets 100 mg
+
+                                  |
+
+                                 Supine
+
+                                  |
+                                 7.9 (4.6, 11.1)
+
+                                  |
+
+                                 Standing
+
+                                  |
+                                 4.3 (-1.8, 10.3)
+
+                                  |
+
+                        The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 100 mg sildenafil tablets or matching placebo are shown in Figure 4.
+
+                           Figure 4: Mean Standing Systolic Blood Pressure Change from Baseline
+
+                        Blood pressure was measured after administration of sildenafil tablets at the same times as those specified for the previous doxazosin studies. There were three subjects who had a standing SBP of < 85 mmHg. All three were taking sildenafil tablets 100 mg, and all three reported mild adverse events at the time of reductions in standing SBP, including vasodilation and lightheadedness. There were four subjects with a decrease from baseline in standing systolic BP > 30 mmHg following sildenafil tablets 100 mg, one subject with a decrease from baseline in standing systolic BP > 30 mmHg following placebo and one subject with a decrease from baseline in standing systolic BP > 30 mmHg following both sildenafil tablets and placebo. While there were no severe adverse events potentially related to blood pressure reported in this study, one subject reported moderate vasodilatation after both sildenafil tablets 50 mg and 100 mg. There were no episodes of syncope reported in this study.
+
+                           Effect of Sildenafil Tablets on Blood Pressure When Co-administered with Anti-hypertensives: When sildenafil tablets 100 mg oral was co-administered with amlodipine, 5 mg or 10 mg oral, to hypertensive patients, the mean additional reduction on supine blood pressure was 8 mmHg systolic and 7 mmHg diastolic.
+
+                           Effect of Sildenafil Tablets on Blood Pressure When Co-administered with Alcohol: Sildenafil tablets (50 mg) did not potentiate the hypotensive effect of alcohol (0.5 g/kg) in healthy volunteers with mean maximum blood alcohol levels of 0.08%. The maximum observed decrease in systolic blood pressure was -18.5 mmHg when sildenafil was co-administered with alcohol versus -17.4 mmHg when alcohol was administered alone. The maximum observed decrease in diastolic blood pressure was  -17.2 mmHg when sildenafil was co-administered with alcohol versus -11.1 mmHg when alcohol was administered alone. There were no reports of postural dizziness or orthostatic hypotension. The maximum recommended dose of 100 mg sildenafil was not evaluated in this study
+
+  [see Drug Interactions
+
+                              (7.5)].
+
+                           Effects of Sildenafil Tablets on Cardiac Parameters:Single oral doses of sildenafil up to 100 mg produced no clinically relevant changes in the ECGs of normal male volunteers.
+
+  Studies have produced relevant data on the effects of sildenafil tablets on cardiac output. In one small, open-label, uncontrolled, pilot study, eight patients with stable ischemic heart disease underwent Swan-Ganz catheterization. A total dose of 40 mg sildenafil was administered by four intravenous infusions.
+
+                        The results from this pilot study are shown in Table 3; the mean resting systolic and diastolic blood pressures decreased by 7% and 10% compared to baseline in these patients. Mean resting values for right atrial pressure, pulmonary artery pressure, pulmonary artery occluded pressure and cardiac output decreased by 28%, 28%, 20% and 7% respectively. Even though this total dosage produced plasma sildenafil concentrations which were approximately 2 to 5 times higher than the mean maximum plasma concentrations following a single oral dose of 100 mg in healthy male volunteers, the hemodynamic response to exercise was preserved in these patients.
+
+                           Table 3. Hemodynamic Data in Patients with Stable Ischemic Heart Disease after Intravenous Administration of 40 mg of Sildenafil
+
+                                 Mean ± SD
+
+                                  |
+                                 At rest
+
+                                  |
+                                 After 4 minutes of exercise
+
+                                  |
+
+                                  
+
+                                  |
+                                 N
+
+                                  |
+                                 Baseline
+
+  (B2)
+
+                                  |
+                                 n
+
+                                  |
+                                 Sildenafil (D1)
+
+                                  |
+                                 n
+
+                                  |
+                                 Baseline
+
+                                  |
+                                 n
+
+                                  |
+                                 Sildenafil
+
+                                  |
+
+                                 PAOP (mmHg)
+
+                                  |
+                                 8
+
+                                  |
+                                 8.1 ± 5.1
+
+                                  |
+                                 8
+
+                                  |
+                                 6.5 ± 4.3
+
+                                  |
+                                 8
+
+                                  |
+                                 36 ± 13.7
+
+                                  |
+                                 8
+
+                                  |
+                                 27.8 ± 15.3
+
+                                  |
+
+                                 Mean PAP (mmHg)
+
+                                  |
+                                 8
+
+                                  |
+                                 16.7 ± 4
+
+                                  |
+                                 8
+
+                                  |
+                                 12.1 ± 3.9
+
+                                  |
+                                 8
+
+                                  |
+                                 39.4 ± 12.9
+
+                                  |
+                                 8
+
+                                  |
+                                 31.7 ± 13.2
+
+                                  |
+
+                                 Mean RAP (mmHg)
+
+                                  |
+                                 7
+
+                                  |
+                                 5.7 ± 3.7
+
+                                  |
+                                 8
+
+                                  |
+                                 4.1 ± 3.7
+
+                                  |
+                                 -
+
+                                  |
+                                 -
+
+                                  |
+                                 -
+
+                                  |
+                                 -
+
+                                  |
+
+                                 Systolic SAP (mmHg)
+
+                                  |
+                                 8
+
+                                  |
+                                 150.4 ± 12.4
+
+                                  |
+                                 8
+
+                                  |
+                                 140.6 ± 16.5
+
+                                  |
+                                 8
+
+                                  |
+                                 199.5 ± 37.4
+
+                                  |
+                                 8
+
+                                  |
+                                 187.8 ± 30
+
+                                  |
+
+                                 Diastolic  SAP (mmHg)
+
+                                  |
+                                 8
+
+                                  |
+                                 73.6 ± 7.8
+
+                                  |
+                                 8
+
+                                  |
+                                 65.9 ± 10
+
+                                  |
+                                 8
+
+                                  |
+                                 84.6 ± 9.7
+
+                                  |
+                                 8
+
+                                  |
+                                 79.5 ± 9.4
+
+                                  |
+
+                                 Cardiac output (L/min)
+
+                                  |
+                                 8
+
+                                  |
+                                 5.6 ± 0.9
+
+                                  |
+                                 8
+
+                                  |
+                                 5.2 ± 1.1
+
+                                  |
+                                 8
+
+                                  |
+                                 11.5 ± 2.4
+
+                                  |
+                                 8
+
+                                  |
+                                 10.2 ± 3.5
+
+                                  |
+
+                                 Heart rate (bpm)
+
+                                  |
+                                 8
+
+                                  |
+                                 67 ± 11.1
+
+                                  |
+                                 8
+
+                                  |
+                                 66.9 ± 12
+
+                                  |
+                                 8
+
+                                  |
+                                 101.9 ± 11.6
+
+                                  |
+                                 8
+
+                                  |
+                                 99 ± 20.4
+
+                                  |
+
+                        In a double-blind study, 144 patients with erectile dysfunction and chronic stable angina limited by exercise, not receiving chronic oral nitrates, were randomized to a single dose of placebo or sildenafil tablets 100 mg 1 hour prior to exercise testing. The primary endpoint was time to limiting angina in the evaluable cohort. The mean times (adjusted for baseline) to onset of limiting angina were 423.6 and 403.7 seconds for sildenafil (N=70) and placebo, respectively. These results demonstrated that the effect of sildenafil tablets on the primary endpoint was statistically non-inferior to placebo.
+
+                           Effects of Sildenafil Tablets on Vision:At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels. This finding is consistent with the inhibition of PDE6, which is involved in phototransduction in the retina. Subjects in the study reported this finding as difficulties in discriminating blue/green. An evaluation of visual function at doses up to twice the maximum recommended dose revealed no effects of sildenafil tablets on visual acuity, intraocular pressure, or pupillometry.
+
+                           Effects of Sildenafil Tablets on Sperm:There was no effect on sperm motility or morphology after single 100 mg oral doses of sildenafil tablets in healthy volunteers.

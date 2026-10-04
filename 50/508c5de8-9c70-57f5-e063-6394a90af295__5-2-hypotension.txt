@@ -1,0 +1,10 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 5.2 Hypotension
+
+In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur. This condition should be corrected prior to administration of valsartan, or the treatment should start under close medical supervision.
+
+                        Peak plasma concentrations of valsartan are higher following administration of PREXXARTAN™ and may result in increased risk of hypotension as compared to administration of valsartan tablets
+  [see
+   Clinical Pharmacology (12.3)
+                           ]. Patients with heart failure or post-myocardial infarction patients given valsartan tablets in clinical trials commonly had some reduction in blood pressure. Only use PREXXARTAN™ in heart failure or post-myocardial infarction patients who are unable to swallow valsartan tablets. In clinical trials of valsartan tablets, discontinuation of therapy because of continuing symptomatic hypotension usually was not necessary. In controlled trials in heart failure patients, the incidence of hypotension in valsartantreated patients was 5.5% compared to 1.8% in placebo-treated patients. In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
+
+                        If symptomatic hypotension occurs, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.

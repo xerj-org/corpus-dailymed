@@ -1,0 +1,25 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Information for Patients
+
+Patients should be counseled that antibacterial drugs including rifampin should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When rifampin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by rifampin or other antibacterial drugs in the future.
+
+                           The patient should be told that rifampin may produce a discoloration (yellow, orange, red, brown) of the teeth, urine, sweat, sputum, and tears, and the patient should be forewarned of this. Soft contact lenses may be permanently stained.
+
+                        Rifampin is a well characterized and potent inducer of drug metabolizing enzymes and transporters and might therefore decrease or increase concomitant drug exposure and impact safety and efficacy (see
+
+                              DRUG INTERACTIONS
+                           ). Therefore, patients should be advised not to take any other medication without medical advice.
+
+                        The patient should be advised that the reliability of oral or other systemic hormonal contraceptives may be affected; consideration should be given to using alternative contraceptive measures.
+
+                        Patients should be instructed to take rifampin either 1 hour before or 2 hours after a meal with a full glass of water.
+
+                        Patients should be instructed to notify their physician immediately if they experience any of the following: rash with fever or blisters, with or without peeling skin, itching, or swollen lymph nodes, loss of appetite, malaise, nausea, vomiting, abdominal pain, darkened urine, yellowish discoloration of the skin and eyes, light-colored bowel movements, fever, headache, fatigue, myalgias, cough, shortness of breath, chest pain wheezing and pain or swelling of the joints.
+
+                        Patients should be advised to seek medical advice immediately if their symptoms of mycobacterial disease, including, but not limited to, cough, fever, tiredness, shortness of breath, malaise, headache, pain, night sweats, swollen lymph nodes, loss of appetite, weight loss, weakness, skin ulcers or lesions, worsen (see
+
+                              ADVERSE REACTIONS
+                           ).
+
+                        Advise patients to abstain from alcohol, hepatotoxic medications or herbal products while taking rifampin.
+
+                        Compliance with the full course of therapy must be emphasized, and the importance of not missing any doses must be stressed.

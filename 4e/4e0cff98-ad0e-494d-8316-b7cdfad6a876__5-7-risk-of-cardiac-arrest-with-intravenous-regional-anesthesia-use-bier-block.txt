@@ -1,0 +1,9 @@
+DailyMed 4e0cff98-ad0e-494d-8316-b7cdfad6a876 | Bupivacaine Hydrochloride | 5.7 Risk of Cardiac Arrest with Intravenous Regional Anesthesia Use (Bier Block)
+
+There have been reports of cardiac arrest and death during the use of bupivacaine for intravenous regional anesthesia (Bier Block). Information on safe dosages and techniques of administration of bupivacaine hydrochloride in this procedure is lacking. Therefore, bupivacaine hydrochloride is contraindicated for use with this technique [
+
+  see Contraindications (
+
+   4)
+
+  ].

@@ -1,0 +1,59 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, including lamotrigine, during pregnancy. Encourage women who are taking lamotrigine during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
+
+                           Risk Summary
+
+                        Data from several prospective pregnancy exposure registries and epidemiological studies of pregnant women have not detected an increased frequency of major congenital malformations or a consistent pattern of malformations among women exposed to lamotrigine compared with the general population (
+
+  see Data). The majority of lamotrigine pregnancy exposure data are from women with epilepsy. In animal studies, administration of lamotrigine during pregnancy resulted in developmental toxicity (increased mortality, decreased body weight, increased structural variation, neurobehavioral abnormalities) at doses lower than those administered clinically.
+
+                        Lamotrigine decreased fetal folate concentrations in rats, an effect known to be associated with adverse pregnancy outcomes in animals and humans (
+
+  see Data).
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Disease-associated Maternal and/or Embryofetal Risk
+
+                        Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage, placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality. The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures. Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including lamotrigine, due to the risk of status epilepticus or severe seizures, which may be life-threatening
+
+  [see Warnings and Precautions (
+
+   5.10)]
+
+  .
+
+                           Dose Adjustments During Pregnancy and the Postpartum Period
+
+                        As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect. There have been reports of decreased lamotrigine concentrations during pregnancy and restoration of pre-pregnancy concentrations after delivery. Dose adjustments may be necessary to maintain clinical response.
+
+                           Data
+
+                           Human Data: Data from several international pregnancy registries have not shown an increased risk for malformations overall. The International Lamotrigine Pregnancy Registry reported major congenital malformations in 2.2% (95% CI: 1.6%, 3.1%) of 1,558 infants exposed to lamotrigine monotherapy in the first trimester of pregnancy. The NAAED Pregnancy Registry reported major congenital malformations among 2.0% of 1,562 infants exposed to lamotrigine monotherapy in the first trimester. EURAP, a large international pregnancy registry focused outside of North America, reported major birth defects in 2.9% (95% CI: 2.3%, 3.7%) of 2,514 exposures to lamotrigine monotherapy in the first trimester. The frequency of major congenital malformations was similar to estimates from the general population.
+
+                        The NAAED Pregnancy Registry observed an increased risk of isolated oral clefts: among 2,200 infants exposed to lamotrigine early in pregnancy, the risk of oral clefts was 3.2 per 1,000 (95% CI: 1.4, 6.3), a 3-fold increased risk versus unexposed healthy controls. This finding has not been observed in other large international pregnancy registries. Furthermore, a case-control study based on 21 congenital anomaly registries covering over 10 million births in Europe reported an adjusted odds ratio for isolated oral clefts with lamotrigine exposure of 1.45 (95% CI: 0.8, 2.63).
+
+                        Several meta-analyses have not reported an increased risk of major congenital malformations following lamotrigine exposure in pregnancy compared with healthy and disease-matched controls. No patterns of specific malformation types were observed.
+
+                        The same meta-analyses evaluated the risk of additional maternal and infant outcomes including fetal death, stillbirth, preterm birth, small for gestational age, and neurodevelopmental delay. Although there are no data suggesting an increased risk of these outcomes with lamotrigine monotherapy exposure, differences in outcome definition, ascertainment methods, and comparator groups limit the conclusions that can be drawn.
+
+                           Animal Data: When lamotrigine was administered to pregnant mice, rats, or rabbits during the period of organogenesis (oral doses of up to 125, 25, and 30 mg/kg, respectively), reduced fetal body weight and increased incidences of fetal skeletal variations were seen in mice and rats at doses that were also maternally toxic. The no-effect doses for embryofetal developmental toxicity in mice, rats, and rabbits (75, 6.25, and 30 mg/kg, respectively) are similar to (mice and rabbits) or less than (rats) the human dose of 400 mg/day on a body surface area (mg/m
+
+  2) basis.
+
+                        In a study in which pregnant rats were administered lamotrigine (oral doses of 0, 5, or 25 mg/kg) during the period of organogenesis and offspring were evaluated postnatally, neurobehavioral abnormalities were observed in exposed offspring at both doses. The lowest effect dose for developmental neurotoxicity in rats is less than the human dose of 400 mg/day on a mg/m
+
+  2basis. Maternal toxicity was observed at the higher dose tested.
+
+                        When pregnant rats were administered lamotrigine (oral doses of 0, 5, 10, or 20 mg/kg) during the latter part of gestation and throughout lactation, increased offspring mortality (including stillbirths) was seen at all doses. The lowest effect dose for pre- and post-natal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m
+
+  2basis. Maternal toxicity was observed at the 2 highest doses tested.
+
+                        When administered to pregnant rats, lamotrigine decreased fetal folate concentrations at doses greater than or equal to 5 mg/kg/day, which is less than the human dose of 400 mg/day on a mg/m
+
+  2basis.

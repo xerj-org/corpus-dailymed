@@ -1,0 +1,5 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Drug Interactions
+
+In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions. Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of nor high affinity substrates for human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes. In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
+
+                              Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients.

@@ -1,0 +1,5 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Absorption and Distribution
+
+The mean absolute oral bioavailability of oxycodone in cancer patients was reported to be about 87%. Oxycodone has been shown to be 45% bound to human plasma proteins in vitro. The volume of distribution after intravenous administration is 211.9 ±186.6 L.
+
+                              Absorption of acetaminophen is rapid and almost complete from the GI tract after oral administration. With overdosage, absorption is complete in 4 hours. Acetaminophen is relatively uniformly distributed throughout most body fluids. Binding of the drug to plasma proteins is variable; only 20% to 50% may be bound at the concentrations encountered during acute intoxication.

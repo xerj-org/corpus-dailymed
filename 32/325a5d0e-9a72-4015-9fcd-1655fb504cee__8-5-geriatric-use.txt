@@ -1,0 +1,5 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 8.5 Geriatric Use
+
+Of the 10,275 patients in clinical studies with CRESTOR, 3,159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older. No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
+
+                        Advanced age (≥65 years) is a risk factor for CRESTOR-associated myopathy and rhabdomyolysis. Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy. Monitor geriatric patients receiving CRESTOR for the increased risk of myopathy [see Warnings and Precautions (5.1)].

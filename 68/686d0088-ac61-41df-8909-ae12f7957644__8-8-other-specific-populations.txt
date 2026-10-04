@@ -1,0 +1,3 @@
+DailyMed 686d0088-ac61-41df-8909-ae12f7957644 | ARIPIPRAZOLE | 8.8 Other Specific Populations
+
+No dosage adjustment for aripiprazole is required on the basis of a patient’s sex, race, or smoking status [see Clinical Pharmacology (12.3)].

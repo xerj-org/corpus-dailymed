@@ -1,0 +1,12 @@
+DailyMed 268d12e8-1cfc-4086-b613-8fd94f2d7c4e | olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide | 8.7 Renal Impairment
+
+There are no studies of olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets in patients with renal impairment. Avoid use in patients with severe renal impairment (creatinine clearance <30 mL/min).
+
+                              Olmesartan medoxomil.
+                           Patients with renal insufficiency have elevated serum concentrations of olmesartan compared with patients with normal renal function. After repeated dosing, AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min). No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min). The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied.
+
+                              Amlodipine.
+                           The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
+
+                              Hydrochlorothiazide.
+                           Thiazide should be used with caution in patients with severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function.

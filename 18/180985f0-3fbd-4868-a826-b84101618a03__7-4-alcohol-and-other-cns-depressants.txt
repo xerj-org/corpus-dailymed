@@ -1,0 +1,5 @@
+DailyMed 180985f0-3fbd-4868-a826-b84101618a03 | Tizanidine | 7.4 Alcohol and Other CNS Depressants
+
+Alcohol increases the exposure of tizanidine after administration of tizanidine hydrochloride. This was associated with an increase in adverse reactions of tizanidine hydrochloride.
+
+                        Concomitant use of tizanidine hydrochloride with CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may cause additive CNS depressant effects, including sedation. Monitor patients who take tizanidine hydrochloride with another CNS depressant for symptoms of excess sedation [see Clinical Pharmacology (12.3)].

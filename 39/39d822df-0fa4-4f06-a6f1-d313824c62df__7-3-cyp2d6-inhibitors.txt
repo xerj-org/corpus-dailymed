@@ -1,0 +1,9 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | 7.3 CYP2D6 Inhibitors
+
+Drugs that are strong inhibitors of CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone were shown to double metoprolol concentrations. While there is no information about moderate or weak inhibitors, these too are likely to increase metoprolol concentration. Increases in plasma concentration decrease the cardioselectivity of metoprolol
+
+  [see
+
+   Clinical Pharmacology (12.3)].
+
+  Monitor patients closely, when the combination cannot be avoided.

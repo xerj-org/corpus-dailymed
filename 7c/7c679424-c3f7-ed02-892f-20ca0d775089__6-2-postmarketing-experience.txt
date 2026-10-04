@@ -1,0 +1,7 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 6.2 Postmarketing Experience
+
+In the international postmarketing clinical experience and clinical trials, serious adverse reactions have uncommonly been reported following administration of Lumason. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The serious adverse reactions include fatalities, especially in a pattern of symptoms suggestive of anaphylactoid/hypersensitivity reactions. Other serious reactions included arrhythmias and hypertensive episodes. These reactions typically occurred within 30 minutes of Lumason administration. These serious reactions may be increased among patients with pre-existing PEG hypersensitivity and/or unstable cardiopulmonary conditions (acute myocardial infarction, acute coronary artery syndromes, worsening or unstable congestive heart failure, or serious ventricular arrhythmias) [see Warnings and Precautions (5.1, 5.2)].
+
+                           Hypersensitivity
+
+                        Anaphylaxis, with manifestations that may include death, shock, bronchospasm, dyspnea, throat tightness, angioedema, edema (pharyngeal, palatal, mouth, peripheral, localized), swelling (face, eye, lip, tongue, upper airway), facial hypoesthesia, rash, urticaria, pruritus, flushing, and erythema.

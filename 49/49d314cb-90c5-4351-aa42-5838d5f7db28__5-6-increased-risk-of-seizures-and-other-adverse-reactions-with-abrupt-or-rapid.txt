@@ -1,0 +1,25 @@
+DailyMed 49d314cb-90c5-4351-aa42-5838d5f7db28 | gabapentin | 5.6 Increased Risk of Seizures and Other Adverse Reactions with Abrupt or Rapid Discontinuation
+
+Antiepileptic drugs should not be abruptly discontinued because of the possibility of increasing seizure frequency.
+
+                        When gabapentin capsule is being discontinued, the dose should be tapered over at least a one-week period.
+
+                        After discontinuation of short-term and long-term treatment with gabapentin, withdrawal symptoms have been observed in some patients
+
+  [see Adverse Reactions (
+
+   6.2) and Drug Abuse
+
+   
+
+  and Dependence (
+
+   9.3)]
+
+  . Suicidal behavior and ideation have also been reported in patients after discontinuation of gabapentin capsule
+
+  [see Warnings and Precautions (
+
+   5.5)]
+
+  .

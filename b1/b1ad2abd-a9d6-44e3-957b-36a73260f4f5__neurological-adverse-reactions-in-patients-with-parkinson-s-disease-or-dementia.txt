@@ -1,0 +1,3 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Neurological Adverse Reactions in Patients with Parkinson's Disease or Dementia with Lewy Bodies
+
+Patients with Parkinson's Disease or Dementia with Lewy Bodies are reported to have an increased sensitivity to antipsychotic medication. Manifestations of this increased sensitivity with haloperidol treatment include severe extrapyramidal symptoms, confusion, sedation, and falls. In addition, haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists. Haloperidol injection is contraindicated in patients with Parkinson's Disease or Dementia with Lewy Bodies (see CONTRAINDICATIONS).

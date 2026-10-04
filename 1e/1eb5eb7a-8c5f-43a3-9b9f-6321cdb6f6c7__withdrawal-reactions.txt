@@ -1,0 +1,5 @@
+DailyMed 1eb5eb7a-8c5f-43a3-9b9f-6321cdb6f6c7 | Chlordiazepoxide Hydrochloride | Withdrawal Reactions
+
+Inform patients that the continued use of chlordiazepoxide may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of chlordiazepoxide may precipitate acute withdrawal reactions, which can be life-threatening. Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months. Instruct patients that discontinuation or dosage reduction of chlordiazepoxide may require a slow taper (see
+  WARNINGS: Dependence and Withdrawal Reactions and
+  DRUG ABUSE AND DEPENDENCE).

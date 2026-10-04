@@ -1,0 +1,5 @@
+DailyMed 70378eba-3904-4491-9f6d-00f5d1501c4a | Pantoprazole Sodium | 4 CONTRAINDICATIONS
+
+Pantoprazole Sodium for Injection is contraindicated in patients with known hypersensitivity reactions including anaphylaxis to the formulation or any substituted benzimidazole. Hypersensitivity reactions may include anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute tubulointerstitial nephritis, and urticaria [see Warnings and Precautions (5.2, 5.4) and Adverse Reactions (6)].
+
+                     Proton pump inhibitors (PPIs), including Pantoprazole Sodium for Injection, are contraindicated in patients receiving rilpivirine-containing products [see Drug Interactions (7)].

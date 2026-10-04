@@ -1,0 +1,186 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | AVERROES
+
+In AVERROES, patients with nonvalvular atrial fibrillation thought not to be candidates for warfarin therapy were randomized to treatment with ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in selected patients) or aspirin 81 to 324 mg once daily. The primary objective of the study was to determine if ELIQUIS was superior to aspirin for preventing the composite outcome of stroke or systemic embolism. AVERROES was stopped early on the basis of a prespecified interim analysis showing a significant reduction in stroke and systemic embolism for ELIQUIS compared to aspirin that was associated with a modest increase in major bleeding (Table 10)
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  .
+
+                                 Table 10:      Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in AVERROES
+
+                                        |
+
+                                          ELIQUIS
+
+  N=2807
+
+  n (%/year)
+
+                                        |
+
+                                          Aspirin
+
+  N=2791
+
+  n (%/year)
+
+                                        |
+
+                                          Hazard Ratio
+
+  (95% CI)
+
+                                        |
+
+                                          P-value
+                                        |
+
+                                          Stroke or systemic embolism
+
+                                        |
+
+                                          51 (1.62)
+
+                                        |
+
+                                          113 (3.63)
+
+                                        |
+
+                                          0.45 (0.32, 0.62)
+
+                                        |
+
+                                          <0.0001
+
+                                        |
+
+                                             Stroke
+
+                                        |
+                                        |
+                                        |
+                                        |
+                                        |
+
+                                                Ischemic or undetermined
+
+                                        |
+
+                                          43 (1.37)
+
+                                        |
+
+                                          97 (3.11)
+
+                                        |
+
+                                          0.44 (0.31, 0.63)
+
+                                        |
+
+                                          -
+
+                                        |
+
+                                                Hemorrhagic
+
+                                        |
+
+                                          6 (0.19)
+
+                                        |
+
+                                          9 (0.28)
+
+                                        |
+
+                                          0.67 (0.24, 1.88)
+
+                                        |
+
+                                          -
+
+                                        |
+
+                                             Systemic embolism
+
+                                        |
+
+                                          2 (0.06)
+
+                                        |
+
+                                          13 (0.41)
+
+                                        |
+
+                                          0.15 (0.03, 0.68)
+
+                                        |
+
+                                          -
+
+                                        |
+
+                                          MI
+
+                                        |
+
+                                          24 (0.76)
+
+                                        |
+
+                                          28 (0.89)
+
+                                        |
+
+                                          0.86 (0.50, 1.48)
+
+                                        |
+
+                                          -
+
+                                        |
+
+                                          All-cause death
+
+                                        |
+
+                                          111 (3.51)
+
+                                        |
+
+                                          140 (4.42)
+
+                                        |
+
+                                          0.79 (0.62, 1.02)
+
+                                        |
+
+                                          0.068
+
+                                        |
+
+                                             Vascular death
+
+                                        |
+
+                                          84 (2.65)
+
+                                        |
+
+                                          96 (3.03)
+
+                                        |
+
+                                          0.87 (0.65, 1.17)
+
+                                        |
+
+                                          -
+
+                                        |

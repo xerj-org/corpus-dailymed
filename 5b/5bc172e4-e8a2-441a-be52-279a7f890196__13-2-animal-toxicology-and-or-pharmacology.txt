@@ -1,0 +1,3 @@
+DailyMed 5bc172e4-e8a2-441a-be52-279a7f890196 | Inluriyo | 13.2 Animal Toxicology and/or Pharmacology
+
+In a 6-month repeat-dose toxicity study, oral administration of imlunestrant to rats resulted in epithelial hyperplasia in the urinary bladder, granulosa cell hyperplasia in the ovary, and hyperplasia in the mammary gland at doses ≥ 10 mg/kg/day (≥ 4 times the human AUC at the recommended dose). These effects, except urinary bladder effects, were reversible after a 3-month recovery period.

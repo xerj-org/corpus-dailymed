@@ -1,0 +1,312 @@
+DailyMed 55a35d04-d75b-4e76-972f-4710035763c9 | Torvexa | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The data described below reflect exposure to diclofenac sodium topical solution of 911 patients treated between 4 and 12 weeks (mean duration of 49 days) in seven Phase 3 controlled trials, as well as exposure of 793 patients treated in an open-label study, including 463 patients treated for at least 6 months, and 144 patients treated for at least 12 months. The population mean age was approximately 60 years, 89% of patients were Caucasians, 64% were females, and all patients had primary osteoarthritis. The most common adverse events with diclofenac sodium topical solution were application site skin reactions. These events were the most common reason for withdrawing from the studies.
+
+                           Application Site Reactions
+
+                        In controlled trials, the most common treatment-related adverse events in patients receiving diclofenac sodium topical solution were application site skin reactions. Application site reactions were characterized by one or more of the following: dryness, erythema, induration, vesicles, paresthesia, pruritus, vasodilation, acne, and urticaria. The most frequent of these reactions were dry skin (32%), contact dermatitis characterized by skin erythema and induration (9%), contact dermatitis with vesicles (2%) and pruritus (4%). In one controlled trial, a higher rate of contact dermatitis with vesicles (4%) was observed after treatment of 152 subjects with the combination of diclofenac sodium topical solution and oral diclofenac. In the open label uncontrolled long-term safety study, contact dermatitis occurred in 13% and contact dermatitis with vesicles in 10% of patients, generally within the first 6 months of exposure, leading to a withdrawal rate for an application site event of 14%.
+
+                           Adverse Events Common to the NSAID Class
+
+                        In controlled trials, subjects treated with diclofenac sodium topical solution experienced some adverse events associated with the NSAID class more frequently than subjects using placebo (constipation, diarrhea, dyspepsia, nausea, flatulence, abdominal pain, edema; see Table 1). The combination of diclofenac sodium topical solution and oral diclofenac, compared to oral diclofenac alone, resulted in a higher rate of rectal hemorrhage (3% vs. less than 1%), and more frequent abnormal creatinine (12% vs. 7%), urea (20% vs. 12%), and hemoglobin (13% vs. 9%), but no difference in elevation of liver transaminases.
+
+                        Table 1 lists all adverse reactions occurring in ≥ 1% of patients receiving diclofenac sodium topical solution, where the rate in the diclofenac sodium topical solution group exceeded placebo, from seven controlled studies conducted in patients with osteoarthritis. Since these trials were of different durations, these percentages do not capture cumulative rates of occurrence.
+
+                           Table 1: Adverse Reactions occurring in ≥ 1% of patients treated with
+                           diclofenac sodium topical solution
+                            in placebo and oral diclofenac-controlled trials.
+
+                                       Treatment Group:
+
+                                  |
+
+                                       Diclofenac sodium topical solution
+                                        N=911
+
+                                  |
+
+                                       Topical Placebo N=332
+
+                                  |
+
+                                       Adverse Reaction†
+
+                                  |
+
+                                       N (%)
+
+                                  |
+
+                                       N (%)
+
+                                  |
+
+                                    Dry Skin (Application Site)
+
+                                  |
+
+                                    292 (32)
+
+                                  |
+
+                                    17 (5)
+
+                                  |
+
+                                    Contact Dermatitis (Application Site)
+
+                                  |
+
+                                    83 (9)
+
+                                  |
+
+                                    6 (2)
+
+                                  |
+
+                                    Dyspepsia
+
+                                  |
+
+                                    72 (8)
+
+                                  |
+
+                                    13 (4)
+
+                                  |
+
+                                    Abdominal Pain
+
+                                  |
+
+                                    54 (6)
+
+                                  |
+
+                                    10 (3)
+
+                                  |
+
+                                    Flatulence
+
+                                  |
+
+                                    35 (4)
+
+                                  |
+
+                                    1 (<1)
+
+                                  |
+
+                                    Pruritus (Application Site)
+
+                                  |
+
+                                    34 (4)
+
+                                  |
+
+                                    7 (2)
+
+                                  |
+
+                                    Diarrhea
+
+                                  |
+
+                                    33 (4)
+
+                                  |
+
+                                    7 (2)
+
+                                  |
+
+                                    Nausea
+
+                                  |
+
+                                    33 (4)
+
+                                  |
+
+                                    3 (1)
+
+                                  |
+
+                                    Pharyngitis
+
+                                  |
+
+                                    40 (4)
+
+                                  |
+
+                                    13 (4)
+
+                                  |
+
+                                    Constipation
+
+                                  |
+
+                                    29 (3)
+
+                                  |
+
+                                    1 (<1)
+
+                                  |
+
+                                    Edema
+
+                                  |
+
+                                    26 (3)
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Rash (Non-Application Site)
+
+                                  |
+
+                                    25 (3)
+
+                                  |
+
+                                    5 (2)
+
+                                  |
+
+                                    Infection
+
+                                  |
+
+                                    25 (3)
+
+                                  |
+
+                                    8 (2)
+
+                                  |
+
+                                    Ecchymosis
+
+                                  |
+
+                                    19 (2)
+
+                                  |
+
+                                    1 (<1)
+
+                                  |
+
+                                    Dry Skin (Non-Application Site)
+
+                                  |
+
+                                    19 (2)
+
+                                  |
+
+                                    1 (<1)
+
+                                  |
+
+                                    Contact Dermatitis, vesicles (Application Site)
+
+                                  |
+
+                                    18 (2)
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Paresthesia (Non-Application Site)
+
+                                  |
+
+                                    14 (2)
+
+                                  |
+
+                                    3 (<1)
+
+                                  |
+
+                                    Accidental Injury
+
+                                  |
+
+                                    22 (2)
+
+                                  |
+
+                                    7 (2)
+
+                                  |
+
+                                    Pruritus (Non-Application Site)
+
+                                  |
+
+                                    15 (2)
+
+                                  |
+
+                                    2 (<1)
+
+                                  |
+
+                                    Sinusitis
+
+                                  |
+
+                                    10 (1)
+
+                                  |
+
+                                    2 (<1)
+
+                                  |
+
+                                    Halitosis
+
+                                  |
+
+                                    11 (1)
+
+                                  |
+
+                                    1 (<1)
+
+                                  |
+
+                                    Application Site Reaction (not otherwise specified)
+
+                                  |
+
+                                    11 (1)
+
+                                  |
+
+                                    3 (<1)
+
+                                  |
+
+                                       †Preferred Term according to COSTART
+
+                                  |

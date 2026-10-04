@@ -1,0 +1,3 @@
+DailyMed abb8ad7e-7998-4485-a09f-a2892190f4ad | ARIPIPRAZOLE | 5.13 Body Temperature Regulation
+
+Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents. Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see Adverse Reactions (6.2)].

@@ -1,0 +1,10 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 8.2 Lactation
+
+Risk Summary
+
+There is no information on the presence of tolterodine or its 5-HMT metabolite in human milk, the effects on the breastfed infant, or the effects on milk production. Based on limited data, tolterodine is excreted into the milk in mice in low amounts
+  (see Data). The development and health benefits of breastfeeding should be considered along with the mother's clinical need for tolterodine tartrate extended-release capsules and any potential adverse effects on the breastfed infant from tolterodine tartrate extended-release capsules or from the underlying maternal condition.
+
+                           Animal Data
+
+The use of radiolabeled tolterodine in pregnant mice produced milk: plasma ratios that ranged between 0.0 and 0.7.

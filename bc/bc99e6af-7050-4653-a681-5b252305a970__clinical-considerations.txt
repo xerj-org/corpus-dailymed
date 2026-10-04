@@ -1,0 +1,11 @@
+DailyMed bc99e6af-7050-4653-a681-5b252305a970 | Diclofenac SodiumDelayed Release | Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+  Premature Closure of Fetal Ductus Arteriosus:
+
+  Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including Diclofenac Sodium, can cause premature closure of the fetal ductus arteriosus (see     WARNINGS; Fetal Toxicity).
+
+                                 Oligohydramnios/Neonatal Renal Impairment
+
+  If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible. If Diclofenac Sodium treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios. If oligohydramnios occurs, discontinue Diclofenac Sodium and follow up according to clinical practice (see     WARNINGS; Fetal Toxicity).

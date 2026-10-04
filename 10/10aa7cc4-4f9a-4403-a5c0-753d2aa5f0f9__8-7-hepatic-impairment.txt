@@ -1,0 +1,9 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 8.7 Hepatic Impairment
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis. Dapagliflozin and metformin HCl is not recommended in patients with hepatic impairment
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .

@@ -1,0 +1,3 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 1.2 Nosocomial Pneumonia
+
+Piperacillin and tazobactam for injection is indicated in adults and pediatric patients (2 months of age and older) for the treatment of nosocomial pneumonia (moderate to severe) caused by beta-lactamase producing isolates of Staphylococcus aureus and by piperacillin and tazobactam-susceptible Acinetobacter baumannii, Haemophilus influenzae, Klebsiella pneumoniae, and Pseudomonas aeruginosa (Nosocomial pneumonia caused by P. aeruginosa should be treated in combination with an aminoglycoside) [see Dosage and Administration (2)].

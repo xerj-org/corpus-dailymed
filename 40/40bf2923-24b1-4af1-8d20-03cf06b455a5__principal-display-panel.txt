@@ -1,0 +1,73 @@
+DailyMed 40bf2923-24b1-4af1-8d20-03cf06b455a5 | Carbamazepine | PRINCIPAL DISPLAY PANEL
+
+DRUG: Carbamazepine
+
+                  GENERIC: Carbamazepine
+
+                  DOSAGE: TABLET
+
+                  ADMINSTRATION: ORAL
+
+                  NDC: 70518-2242-0
+
+                  NDC: 70518-2242-1
+
+                  NDC: 70518-2242-2
+
+                  NDC: 70518-2242-3
+
+                  NDC: 70518-2242-4
+
+                  NDC: 70518-2242-5
+
+                  NDC: 70518-2242-6
+
+                  NDC: 70518-2242-7
+
+                  NDC: 70518-2242-8
+
+                  COLOR: white
+
+                  SHAPE: ROUND
+
+                  SCORE: Two even pieces
+
+                  SIZE: 9 mm
+
+                  IMPRINT: TARO;11
+
+                  PACKAGING: 180 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  PACKAGING: 30 in 1 BLISTER PACK
+
+                  PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  PACKAGING: 60 in 1 BLISTER PACK
+
+                  ACTIVE INGREDIENT(S):
+
+                     CARBAMAZEPINE 200mg in 1
+
+                  INACTIVE INGREDIENT(S):
+
+                     STARCH, CORN
+
+                     CROSCARMELLOSE SODIUM
+
+                     DIETHYL PHTHALATE
+
+                     MAGNESIUM STEARATE
+
+                     MICROCRYSTALLINE CELLULOSE
+
+                     AMMONIO METHACRYLATE COPOLYMER TYPE B

@@ -1,0 +1,9 @@
+DailyMed 6a582db5-eb45-4320-98c1-55517d7d8c38 | Isosorbide Mononitrate | Methemoglobinemia
+
+Methemoglobinemia has been reported in patients receiving other organic nitrates, and it probably could also occur as a side effect of isosorbide mononitrate. Certainly nitrate ions liberated during metabolism of isosorbide mononitrate can oxidize hemoglobin into methemoglobin. Even in patients totally without cytochrome b
+  5  reductase activity, however, and even assuming that the nitrate moiety of isosorbide mononitrate is quantitatively applied to oxidation of hemoglobin, about 2 mg/kg of isosorbide mononitrate should be required before any of these patients manifest clinically significant (≥10%) methemoglobinemia. In patients with normal reductase function, significant production of methemoglobin should require even larger doses of isosorbide mononitrate. In one study in which 36 patients received 2-4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr (equivalent, in total administered dose of nitrate ions, to 7.8 to 11.1 mg of isosorbide mononitrate per hour), the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo.
+
+                        Notwithstanding these observations, there are case reports of significant methemoglobinemia in association with moderate overdoses of organic nitrates. None of the affected patients had been thought to be unusually susceptible.
+
+                        Methemoglobin levels are available from most clinical laboratories. The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial pO
+  2. Classically, methemoglobinemic blood is described as chocolate brown without color change on exposure to air. When methemoglobinemia is diagnosed, the treatment of choice is methylene blue, 1 to 2 mg/kg intravenously.

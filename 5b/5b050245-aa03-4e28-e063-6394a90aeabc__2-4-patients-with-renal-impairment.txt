@@ -1,0 +1,9 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 2.4 Patients with Renal Impairment
+
+Ertapenem for injection may be used for the treatment of infections in adult patients with renal impairment. In patients whose creatinine clearance is >30 mL/min/1.73 m
+
+  2, no dosage adjustment is necessary. Adult patients with severe renal impairment (creatinine clearance ≤30 mL/min/1.73 m
+
+  2) and end-stage renal disease (creatinine clearance ≤10 mL/min/1.73 m
+
+  2) should receive 500 mg daily. A supplementary dose of 150 mg is recommended if ertapenem is administered within 6 hours prior to hemodialysis. There are no data in pediatric patients with renal impairment.

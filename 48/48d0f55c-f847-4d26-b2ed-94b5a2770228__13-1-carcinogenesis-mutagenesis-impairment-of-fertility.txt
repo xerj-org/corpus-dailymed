@@ -1,0 +1,25 @@
+DailyMed 48d0f55c-f847-4d26-b2ed-94b5a2770228 | Amphetamine Extended-Release | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        No evidence of carcinogenicity was found in studies in which d,l-amphetamine (enantiomer ratio of 1:1) was administered to mice and rats in the diet for 2 years at doses of up to 30 mg/kg/day in male mice, 19 mg/kg/day in female mice, and 5 mg/kg/day in male and female rats. These doses are approximately 2.4, 1.5, and 0.8 times, respectively, the maximum recommended human dose for children of 18.8 mg/day (as base), on a mg/m
+
+  2body surface area basis.
+
+                           Mutagenesis
+
+                        Amphetamine, in the enantiomer ratio present in amphetamine extended-release orally disintegrating tablets (d- tol- ratio of 3:1), was not clastogenic in the mouse bone marrow micronucleus test
+
+  in vivoand was negative when tested in the
+
+  E. colicomponent of the Ames test
+
+  in vitro. d
+
+  ,l-Amphetamine (1:1 enantiomer ratio) has been reported to produce a positive response in the mouse bone marrow micronucleus test, an equivocal response in the Ames test, and negative responses in the
+
+  in vitrosister chromatid exchange and chromosomal aberration assays.
+
+                        Amphetamine, in the enantiomer ratio present in amphetamine extended-release orally disintegrating tablets (d- to l- ratio of 3:1), did not adversely affect fertility or early embryonic development in the rat at doses of up to 20 mg/kg/day [approximately 8 times the maximum recommended human dose for adolescents of 12.5 mg/day (as base), on a mg/m
+
+  2body surface area basis].

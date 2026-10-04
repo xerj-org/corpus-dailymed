@@ -1,0 +1,3 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | Angina Pectoris
+
+By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction, and in blood pressure, metoprolol reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris.

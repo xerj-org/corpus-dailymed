@@ -1,0 +1,11 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 5.2 Infections
+
+Serious, including life-threatening or fatal, bacterial, viral, parasitic, and fungal infections have been reported in patients receiving ocrelizumab. An increased risk of infections (including serious and fatal bacterial, fungal, and new or reactivated viral infections) has been observed in patients during and following completion of treatment with anti-CD20 B-cell depleting therapies.
+
+                        A higher proportion of intravenous ocrelizumab-treated patients experienced infections compared to patients taking REBIF or placebo. In RMS trials, 58% of intravenous ocrelizumab-treated patients experienced one or more infections compared to 52% of REBIF-treated patients. In the PPMS trial, 70% of intravenous ocrelizumab-treated patients experienced one or more infections compared to 68% of patients on placebo.
+
+                        Intravenous ocrelizumab was not associated with an increased risk of serious infections in MS patients in controlled trials.
+
+                        Ocrelizumab increases the risk for upper respiratory tract infections, lower respiratory tract infections, skin infections, and herpes-related infections [see Adverse Reactions (6.1)].
+
+                        Delay OCREVUS ZUNOVO administration in patients with an active infection until the infection is resolved.

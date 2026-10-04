@@ -1,0 +1,3 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 8.6 Renal Impairment
+
+In patients with creatinine clearance ≤ 40 mL/min and dialysis patients (hemodialysis and CAPD), the intravenous dose of piperacillin and tazobactam for injection should be reduced to the degree of renal function impairment [see Dosage and Administration (2)].

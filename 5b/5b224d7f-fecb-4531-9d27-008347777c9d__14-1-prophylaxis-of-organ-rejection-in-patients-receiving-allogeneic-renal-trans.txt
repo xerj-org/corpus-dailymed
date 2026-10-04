@@ -1,0 +1,345 @@
+DailyMed 5b224d7f-fecb-4531-9d27-008347777c9d | MYCOPHENOLIC ACID | 14.1 Prophylaxis of Organ Rejection in Patients Receiving Allogeneic Renal Transplants
+
+The safety and efficacy of mycophenolic acid delayed-release tablets in combination with cyclosporine, USP MODIFIED and corticosteroids for the prevention of organ rejection was assessed in two multicenter, randomized, double-blind, active-controlled trials in de novo and conversion renal transplant patients compared to MMF.
+
+                        The de novo trial was conducted in 423 renal transplant patients (ages 18 to 75 years) in Austria, Canada, Germany, Hungary, Italy, Norway, Spain, UK, and USA. Eighty-four percent of randomized patients received kidneys from deceased donors. Patients were excluded if they had second or multiorgan (e.g., kidney and pancreas) transplants, or previous transplant with any other organs; kidneys from non-heart beating donors; panel reactive antibodies (PRA) of > 50% at last assessment prior to transplantation, and presence of severe diarrhea, active peptic ulcer disease, or uncontrolled diabetes mellitus. Patients were administered either mycophenolic acid delayed-release tablets 1.44 grams per day or MMF 2 grams per day within 48 hours post-transplant for 12 months in combination with cyclosporine, USP MODIFIED and corticosteroids. Forty-one percent of patients received antibody therapy as induction treatment. Treatment failure was defined as the first occurrence of biopsy-proven acute rejection, graft loss, death or lost to follow-up at 6 months.
+
+                        The incidence of treatment failure was similar in mycophenolic acid delayed-release tablets and MMF-treated patients at 6 and 12 months (Table 7). The cumulative incidence of graft loss, death and lost to follow-up at 12 months is also shown in Table 7.
+
+                           Table 7: Treatment Failure in De novo Renal Transplant Patients (Percentage of Patients) at 6 and 12 Months of Treatment When Administered in Combination With Cyclosporinea and Corticosteroids
+
+                                  
+
+                                  |
+
+                                     Mycophenolic acid delayed-release tablets
+
+                                       1.44 grams per day
+
+             (n = 213)
+
+                                  |
+
+                                    Mycophenolate mofetil (MMF)
+
+             2 grams per day
+
+                                       (n = 210)
+
+                                  |
+
+                                    6 Months
+
+                                  |
+
+                                    n (%)
+
+                                  |
+
+                                    n (%)
+
+                                  |
+
+                                 Treatment failureb
+
+                                  |
+                                 55 (25.8)
+
+                                  |
+                                 55 (26.2)
+
+                                  |
+
+                                 Biopsy-proven acute rejection
+
+                                  |
+                                 46 (21.6)
+
+                                  |
+                                 48 (22.9)
+
+                                  |
+
+                                 Graft loss
+
+                                  |
+                                 7 (3.3)
+
+                                  |
+                                 9 (4.3)
+
+                                  |
+
+                                 Death
+
+                                  |
+                                 1 (0.5)
+
+                                  |
+                                 2 (1.0)
+
+                                  |
+
+                                 Lost to follow-upc
+
+                                  |
+                                 3 (1.4)
+
+                                  |
+                                 0
+
+                                  |
+
+                                    12 Months
+
+                                  |
+
+                                    n (%)
+
+                                  |
+
+                                    n (%)
+
+                                  |
+
+                                 Graft loss or death or lost to follow-upd
+
+                                  |
+                                 20 (9.4)
+
+                                  |
+                                 18 (8.6)
+
+                                  |
+
+                                 Treatment failuree
+
+                                  |
+                                 61 (28.6)
+
+                                  |
+                                 59 (28.1)
+
+                                  |
+
+                                 Biopsy-proven acute rejection
+
+                                  |
+                                 48 (22.5)
+
+                                  |
+                                 51 (24.3)
+
+                                  |
+
+                                 Graft loss
+
+                                  |
+                                 9 (4.2)
+
+                                  |
+                                 9 (4.3)
+
+                                  |
+
+                                 Death
+
+                                  |
+                                 2 (0.9)
+
+                                  |
+                                 5 (2.4)
+
+                                  |
+
+                                 Lost to follow-upc
+
+                                  |
+                                 5 (2.3)
+
+                                  |
+                                 0
+
+                                  |
+
+                           aUSP MODIFIED.
+
+                           b95% confidence interval of the difference in treatment failure at 6 months (mycophenolic acid delayed-release tablets–MMF) is (-8.7%, 8.0%).
+
+                           cLost to follow-up indicates patients who were lost to follow-up without prior biopsy-proven acute rejection, graft loss or death.
+
+                           dLost to follow-up indicates patients who were lost to follow-up without prior graft loss or death (9 mycophenolic acid delayed-release tablets patients and 4 MMF patients).
+
+                           e95% confidence interval of the difference in treatment failure at 12 months (mycophenolic acid delayed-release tablets–MMF) is (-8.0%, 9.1%).
+
+                        The conversion trial was conducted in 322 renal transplant patients (ages 18 to 75 years), who were at least 6 months post-transplant and had undergone primary or secondary, deceased donor, living related, or unrelated donor kidney transplant, stable graft function (serum creatinine < 2.3 mg/mL), no change in immunosuppressive regimen due to graft malfunction, and no known clinically significant physical and/or laboratory changes for at least 2 months prior to enrollment. Patients were excluded if they had 3 or more kidney transplants, multiorgan transplants (e.g., kidney and pancreas), previous organ transplants, evidence of graft rejection or who had been treated for acute rejection within 2 months prior to screening, clinically significant infections requiring continued therapy, presence of severe diarrhea, active peptic ulcer disease, or uncontrolled diabetes mellitus.
+
+                        Patients received 2 grams per day MMF in combination with cyclosporine USP MODIFIED, with or without corticosteroids for at least two weeks prior to entry in the trial. Patients were randomized to mycophenolic acid delayed-release tablets 1.44 grams per day or MMF 2 grams per day for 12 months. The trial was conducted in Austria, Belgium, Canada, Germany, Italy, Spain, and USA. Treatment failure was defined as the first occurrence of biopsy-proven acute rejection, graft loss, death, or lost to follow-up at 6 and 12 months.
+
+                        The incidences of treatment failure at 6 and 12 months were similar between mycophenolic acid delayed-release tablets and MMF-treated patients (Table 8). The cumulative incidence of graft loss, death and lost to follow-up at 12 months is also shown in Table 8.
+
+                            Table 8: Treatment Failure in Conversion Transplant Patients (Percentage of Patients) at 6 and 12 Months of Treatment When Administered in Combination With Cyclosporinea and With or Without Corticosteroids
+
+                                  
+
+                                  |
+
+                                     Mycophenolic acid delayed-release tablets
+
+                                       1.44 grams per day
+
+             (n = 159)
+
+                                  |
+
+                                    Mycophenolate mofetil (MMF)
+
+             2 grams per day
+
+                                       (n = 163)
+
+                                  |
+
+                                    6 Months
+
+                                  |
+
+                                    n (%)
+
+                                  |
+
+                                    n (%)
+
+                                  |
+
+                                 Treatment failureb
+
+                                  |
+                                 7 (4.4)
+
+                                  |
+                                 11 (6.7)
+
+                                  |
+
+                                 Biopsy-proven acute rejection
+
+                                  |
+                                 2 (1.3)
+
+                                  |
+                                 2 (1.2)
+
+                                  |
+
+                                 Graft loss
+
+                                  |
+                                 0
+
+                                  |
+                                 1 (0.6)
+
+                                  |
+
+                                 Death
+
+                                  |
+                                 0
+
+                                  |
+                                 1 (0.6)
+
+                                  |
+
+                                 Lost to follow-upc
+
+                                  |
+                                 5 (3.1)
+
+                                  |
+                                 7 (4.3)
+
+                                  |
+
+                                    12 Months
+
+                                  |
+
+                                    n (%)
+
+                                  |
+
+                                    n (%)
+
+                                  |
+
+                                 Graft loss or death or lost to follow-upd
+
+                                  |
+                                 10 (6.3)
+
+                                  |
+                                 17 (10.4)
+
+                                  |
+
+                                 Treatment failuree
+
+                                  |
+                                 12 (7.5)
+
+                                  |
+                                 20 (12.3)
+
+                                  |
+
+                                 Biopsy-proven acute rejection
+
+                                  |
+                                 2 (1.3)
+
+                                  |
+                                 5 (3.1)
+
+                                  |
+
+                                 Graft loss
+
+                                  |
+                                 0
+
+                                  |
+                                 1 (0.6)
+
+                                  |
+
+                                 Death
+
+                                  |
+                                 2 (1.3)
+
+                                  |
+                                 4 (2.5)
+
+                                  |
+
+                                 Lost to follow-upc
+
+                                  |
+                                 8 (5.0)
+
+                                  |
+                                 10 (6.1)
+
+                                  |
+
+                           aUSP MODIFIED.
+
+                           b95% confidence interval of the difference in treatment failure at 6 months (mycophenolic acid delayed-release tablets–MMF) is (-7.3%, 2.7%).
+
+                           cLost to follow-up indicates patients who were lost to follow-up without prior biopsy-proven acute rejection, graft loss, or death.
+
+                           dLost to follow-up indicates patients who were lost to follow-up without prior graft loss or death (8 mycophenolic acid delayed-release tablets patients and 12 MMF patients).
+
+                           e95% confidence interval of the difference in treatment failure at 12 months (mycophenolic acid delayed-release tablets–MMF) is (-11.2%, 1.8%).

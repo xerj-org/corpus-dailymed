@@ -1,0 +1,17 @@
+DailyMed c7c77c4d-dd04-4780-9fa4-8fea30aff8f9 | Desvenlafaxine | 8.4 Pediatric Use
+
+The safety and effectiveness of desvenlafaxine have not been established in pediatric patients for the treatment of MDD. 
+
+                        Efficacy was not demonstrated in two adequate and well controlled, 8-week, randomized, double-blind, placebo-controlled, parallel group studies conducted in 587 patients (7 to 17 years of age) for the treatment of MDD.
+
+                        Antidepressants, such as desvenlafaxine, increase the risk of suicidal thoughts and behaviors in pediatric patients [see the Boxed Warning and Warnings and Precautions (5.1)]. Desvenlafaxine was associated with a decrease in body weight in placebo-controlled trials in pediatric patients with MDD. The incidence of weight loss (≥3.5% of baseline weight) was 22%, 14%, and 7% for patients treated with low dose desvenlafaxine, high dose desvenlafaxine, and placebo, respectively.
+
+                        The risks associated with longer term desvenlafaxine use were assessed in 6-month, open-label extension studies in pediatric patients (7 to 17 years of age) with MDD. Pediatric patients (7 to 17 years of age) had mean changes in weight that approximated expected changes, based on data from age- and sex-matched peers.
+
+                        In clinical trials, when compared to adult patients receiving the same dose of desvenlafaxine, exposure to desvenlafaxine was similar in adolescent patients 12 to 17 years of age, and was about 30% higher in pediatric patients 7 to 11 years of age.
+
+                           Juvenile Animal Studies
+
+                        In a juvenile animal study, male and female rats were treated with desvenlafaxine (75, 225 and 675 mg/kg/day) starting on postnatal day (PND) 22 through 112. Behavioral deficits (longer time immobile in a motor activity test, longer time swimming in a straight channel test, and lack of habituation in an acoustic startle test) were observed in males and females but were reversed after a recovery period. A No Adverse Effect Level (NOAEL) was not identified for these deficits. The Low Adverse Effect Level (LOAEL) was 75 mg/kg/day which was associated with plasma exposure (AUC) twice the levels measured with a pediatric dose of 100 mg/day.
+
+                        In a second juvenile animal study, male and female rats were administered desvenlafaxine (75, 225 or 675 mg/kg/day) for 8 to 9 weeks starting on PND 22 and were mated with naïve counterparts. Delays in sexual maturation and decreased fertility, number of implantation sites and total live embryos were observed in treated females at all doses. The LOAEL for these findings is 75 mg/kg/day which was associated with an AUC twice the levels measured with a pediatric dose of 100 mg/day. These findings were reversed at the end of a 4-week recovery period. The relevance of these findings to humans is not known.

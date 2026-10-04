@@ -1,0 +1,216 @@
+DailyMed 01dcea95-b391-79da-bbfe-412f39022e9a | Prucalopride | 14 CLINICAL STUDIES
+
+The efficacy of prucalopride for the treatment of CIC was evaluated in six double-blind, placebo-controlled, randomized, multicenter clinical trials in 2,484 adult patients (Studies 1 to 6; see Table 3). Studies 1 through 5 were 12-week treatment duration and Study 6 included 24 weeks of treatment. Patients less than 65 years were dosed with prucalopride tablets 2 mg once daily. In Studies 2 and 6, the geriatric patients started on prucalopride tablets 1 mg once daily and, if necessary, the dose was increased to 2 mg after 2 or 4 weeks of treatment in the event of insufficient response at 1 mg; of these patients 81% increased to 2 mg. Overall, the majority of patients were female (76%) and white (76%), and also included Asian (19%) and black (3%). The mean adult age was 47±16 years (range 17 to 95 years) and the mean duration of constipation was 16±15 years with 28% of patients having chronic constipation for at least 20 years.
+
+                     Table 3: Main Studies in the Prucalopride Clinical Program
+
+                              Study Number
+                            |
+
+                              Duration
+
+                            |
+
+                            Study 1 (PRU-CRC-3001, NCT01116206)  |
+                            12 Weeks  |
+
+                            Study 2 (SPD555-302, NCT01147926)  |
+                            12 Weeks  |
+
+                            Study 3 (PRU-INT-6, NCT00488137)  |
+                            12 Weeks  |
+
+                            Study 4 (PRU-USA-11, NCT00483886)  |
+                            12 Weeks  |
+
+                            Study 5 (PRU-USA-13, NCT00485940)  |
+                            12 Weeks  |
+
+                            Study 6 (SPD-555-401, NCT01424228)  |
+                            24 Weeks  |
+
+                  Eligible patients required a history of chronic constipation defined as having fewer than 3 spontaneous bowel movements (SBMs) per week that resulted in a feeling of complete evacuation (complete, spontaneous bowel movement [CSBM]) and 1 or more of the following symptoms for greater than 25% of bowel movements in the preceding 3 months, with symptoms onset more than 6 months prior to screening:
+
+                     Lumpy or hard stools
+
+                     Sensation of incomplete evacuation
+
+                     Straining at defecation
+
+                  Patients who never had SBMs were eligible. In Study 1, eligibility also included sensation of ano-rectal obstruction or blockade or the need for digital manipulation in more than 25% of bowel movements. In all studies, patients were excluded if constipation was due to secondary causes or suspected to be drug-induced.
+
+                  Efficacy was assessed using information provided by patients in a daily diary.
+
+                     Primary Efficacy Results
+
+                  For the primary efficacy endpoint, a responder was defined as a patient with an average of 3 or more CSBMs per week, over the 12-week treatment period. In the Intent-to-Treat [ITT] population in the 6 trials, 1,237 received prucalopride tablets 1 or 2 mg and 1,247 received placebo. Table 4 summarizes the results.
+
+                     Table 4: Efficacy Responder Rates in Placebo-Controlled Studies of CIC: Proportion of Patients with an Average Weekly Frequency of ≥3 CSBMs per Week over 12 Weeks of Treatment (ITT Population)
+
+                              Study
+
+                            |
+
+                              Prucalopride
+
+                              1 or 2 mg
+
+Once Daily
+                            |
+
+                              Placebo
+
+                            |
+
+                              Treatment Difference
+
+                              (95% CI)
+                            |
+
+                              p value
+                            |
+
+                            N  |
+                            n
+
+ (%)  |
+                            N  |
+                            n
+
+ (%)  |
+
+                            Study 1  |
+                            249  |
+                            83 (33)  |
+                            252  |
+                            26 (10)  |
+                            23 (16, 30)  |
+                            p<0.001  |
+
+                            Study 2  |
+                            177  |
+                            67 (38)  |
+                            181  |
+                            32 (18)  |
+                            20 (11, 29)  |
+                            p<0.001  |
+
+                            Study 3  |
+                            236  |
+                            46 (19)  |
+                            240  |
+                            23 (10)  |
+                            10 (4, 16)  |
+                            p=0.002  |
+
+                            Study 4  |
+                            190  |
+                            55 (29)  |
+                            193  |
+                            25 (13)  |
+                            16 (8, 24)  |
+                            p<0.001  |
+
+                            Study 5  |
+                            214  |
+                            50 (24)  |
+                            212  |
+                            25 (12)  |
+                            12 (4, 19)  |
+                            p<0.001  |
+
+                            Study 6  |
+                            171  |
+                            43 (25)  |
+                            169  |
+                            34 (20)  |
+                            5 (-4, 14)  |
+                            p=0.341  |
+
+                  p-value based on a Cochran-Mantel-Haenszel test N = number of patients per treatment group
+
+                  n = number of responders  
+
+                   In all studies, improvement in the frequency of CSBMs/week was seen as early as week 1 and was maintained through week 12.  
+
+                   Across the six studies, the median time to first CSBM after dosing of prucalopride tablets on day 1 ranged from 1.4 to 4.7 days compared with 9.1 to 20.6 days in the placebo group. The median time to first SBM after dosing on day 1 ranged from 0.1 to 0.4 days in the prucalopride group compared with 1 to 1.6 days in the placebo group.  
+
+                      Alternative Efficacy Endpoint
+
+                  Using an alternative efficacy endpoint, a responder was defined as a patient who had at least 3 CSBMs and an increase of at least 1 CSBM from baseline in a given week for at least 9 weeks out of the 12-week treatment period and for at least 3 of the last 4 weeks of the treatment period. The differences in response rates between prucalopride and placebo in the 6 studies are shown in Table 5.
+
+                     Table 5: Efficacy Responder Rates in Placebo-Controlled Studies of CIC - Proportion of Patients with an Average of ≥3 CSBMs/week and an Increase of ≥1 CSBM per Week for at Least 9 out of the 12 Weeks, Including 3 of the Last 4 Weeks (ITT Population)
+
+                              Study
+                            |
+
+                              Prucalopride
+
+1 or 2 mg
+
+Once Daily
+                            |
+
+                              Placebo
+                            |
+
+                              Treatment
+
+Difference
+                               
+
+(95% CI)
+                            |
+
+                            N  |
+                            n (%)  |
+                            N  |
+                            n (%)  |
+
+                            Study 1  |
+                            249  |
+                            65 (26)  |
+                            252  |
+                            22 (9)  |
+                            17 (11, 24)  |
+
+                            Study 2  |
+                            177  |
+                            57 (32)  |
+                            181  |
+                            25 (14)  |
+                            18 (10, 27)  |
+
+                            Study 3  |
+                            236  |
+                            30 (13)  |
+                            240  |
+                            13 (5)  |
+                            8 (2, 12)  |
+
+                            Study 4  |
+                            190  |
+                            37 (19)  |
+                            193  |
+                            15 (8)  |
+                            11 (5, 18)  |
+
+                            Study 5  |
+                            214  |
+                            34 (16)  |
+                            212  |
+                            11 (5)  |
+                            11 (5, 16)  |
+
+                            Study 6  |
+                            171  |
+                            29 (17)  |
+                            169  |
+                            22 (13)  |
+                            4 (-4, 12)  |
+
+                  CSBM = complete spontaneous bowel movement
+
+                   N = number of patients per treatment group
+
+                   n = number of responders

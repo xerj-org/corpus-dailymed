@@ -1,0 +1,9 @@
+DailyMed 1c2716c0-16e2-460d-8639-70d36f14714a | Paroxetine | 14.4 Social Anxiety Disorder
+
+The effectiveness of paroxetine tablets in the treatment of social anxiety disorder (SAD) was demonstrated in three 12-week, multicenter, placebo-controlled studies (Studies 1, 2, and 3) of adult outpatients with SAD (DSM-IV). In these studies, the effectiveness of paroxetine tablets compared to placebo was evaluated on the basis of (1) the proportion of responders, as defined by a Clinical Global Impression (CGI) Improvement score of 1 (very much improved) or 2 (much improved), and (2) change from baseline in the Liebowitz Social Anxiety Scale (LSAS).
+
+                        Studies 1 and 2 were flexible-dose studies comparing paroxetine tablets 20 mg to 50 mg daily and placebo. Paroxetine tablets demonstrated statistically significant superiority over placebo on both the CGI Improvement responder criterion and the Liebowitz Social Anxiety Scale (LSAS). In Study 1, for patients who completed to week 12, 69% of paroxetine tablets-treated patients compared to 29% of placebo-treated patients were CGI Improvement responders. In Study 2, CGI Improvement responders were 77% and 42% for the paroxetine-tablets- and placebo-treated patients, respectively.
+
+                        Study 3 was a 12-week study comparing fixed doses of paroxetine tablets 20 mg, 40 mg, or 60 mg daily with placebo. Paroxetine tablets 20 mg was statistically significantly superior to placebo on both the LSAS Total Score and the CGI Improvement responder criterion; there were trends for superiority over placebo for the paroxetine tablets 40 mg and 60 mg daily dose groups. There was no indication in this study of any additional benefit for doses higher than 20 mg daily.
+
+                        Subgroup analyses generally did not indicate differences in treatment outcomes as a function of age, race, or gender.

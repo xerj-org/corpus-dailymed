@@ -1,0 +1,11 @@
+DailyMed 268d12e8-1cfc-4086-b613-8fd94f2d7c4e | olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide | 7.3 Drug Interactions with Hydrochlorothiazide
+
+When administered concurrently the following drugs may interact with thiazide diuretics:
+
+                           Antidiabetic Drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required.
+
+                           Cholestyramine and Colestipol Resins: Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single dose of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
+
+                           Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia.
+
+                           Non-steroidal Anti-inflammatory Drugs: In some patients the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics. Therefore, when hydrochlorothiazide tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained.

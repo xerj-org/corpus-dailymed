@@ -1,0 +1,15 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        No carcinogenicity studies have been conducted in animals.
+
+                           Mutagenesis
+
+                        Ziconotide was negative in the in vitro bacterial reverse mutation assay, in vitro mouse lymphoma assay, in vivo mouse micronucleus assay, and in the in vitro Syrian hamster embryo (SHE) cell transformation assay.
+
+                           Impairment of Fertility
+
+                        Ziconotide did not affect male fertility in rats when administered as a continuous intravenous infusion at a dose of up to 10 mg/kg/day when administered for approximately 8 weeks, including a 28-day pre-mating period, or female fertility at a dose of 3 mg/kg/day when administered for approximately 6 weeks, including a 14-day pre-mating period. Estimated exposures for the male and female rats were approximately 6500-fold and 1700-fold higher, respectively, than the expected exposure resulting from the maximum recommended human daily intrathecal dose of 0.8 mcg/hr (19.2 mcg/day) based on plasma exposure.
+
+                        Female fertility in rats was significantly affected following continuous intravenous infusion at a dose of 10 mg/kg/day. Significant reductions in corpora lutea, implantation sites, and number of live fetuses were observed.

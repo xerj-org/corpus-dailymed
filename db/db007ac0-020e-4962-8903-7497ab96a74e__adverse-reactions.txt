@@ -1,0 +1,31 @@
+DailyMed db007ac0-020e-4962-8903-7497ab96a74e | Imipramine Hydrochloride | ADVERSE REACTIONS
+
+Note— Although the listing which follows includes a few adverse reactions which have not been reported with this specific drug, the pharmacological similarities among the tricyclic antidepressant drugs require that each of the reactions be considered when imipramine hydrochloride tablets, is administered.
+
+                     Cardiovascular:Orthostatic hypotension, hypertension, tachycardia, palpitation, myocardial infarction, arrhythmias, heart block, ECG changes, precipitation of congestive heart failure, stroke.
+
+                     Psychiatric:Confusional states (especially in the elderly) with hallucinations, disorientation, delusions; anxiety, restlessness, agitation; insomnia and nightmares; hypomania; exacerbation of psychosis.
+
+                     Neurological:Numbness, tingling, paresthesias of extremities; incoordination, ataxia, tremors; peripheral neuropathy; extrapyramidal symptoms; seizures, alterations in EEG patterns; tinnitus.
+
+                     Anticholinergic:Dry mouth, and, rarely, associated sublingual adenitis; blurred vision, disturbances of accommodation, mydriasis; constipation, paralytic ileus; urinary retention, delayed micturition, dilation of the urinary tract.
+
+                     Allergic:Skin rash, petechiae, urticaria, itching, photosensitization; edema (general or of face and tongue); drug fever; cross-sensitivity with desipramine.
+
+                     Hematologic:Bone marrow depression including agranulocytosis; eosinophilia; purpura; thrombocytopenia.
+
+                     Gastrointestinal:Nausea and vomiting, anorexia, epigastric distress, diarrhea; peculiar taste, stomatitis, abdominal cramps, black tongue.
+
+                     Endocrine:Gynecomastia in the male; breast enlargement and galactorrhea in the female; increased or decreased libido, impotence; testicular swelling; elevation or depression of blood sugar levels; inappropriate antidiuretic hormone (ADH) secretion syndrome.
+
+                     Other:Jaundice (simulating obstructive); altered liver function; weight gain or loss; perspiration; flushing; urinary frequency; drowsiness, dizziness, weakness and fatigue; headache; parotid swelling; alopecia; proneness to falling, hyponatremia.
+
+                     Withdrawal Symptoms:Though not indicative of addiction, abrupt cessation of treatment after prolonged therapy may produce nausea, headache, and malaise.
+
+                     Note— In enuretic children treated with imipramine hydrochloride tablets, the most common adverse reactions have been nervousness, sleep disorders, tiredness, and mild gastrointestinal disturbances. These usually disappear during continued drug administration or when dosage is decreased. Other reactions which have been reported include constipation, convulsions, anxiety, emotional instability, syncope, and collapse. All of the adverse effects reported with adult use should be considered.
+
+                     Postmarketing Experience
+
+                  The following adverse drug reaction has been reported during post-approval use of imipramine. Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency.
+
+                     Eye disorders: angle-closure glaucoma

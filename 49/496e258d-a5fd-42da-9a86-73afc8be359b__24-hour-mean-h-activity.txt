@@ -1,0 +1,3 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | 24-Hour mean H+ activity
+
+Cimetidine 800 mg at bedtime, 400 mg twice daily and 200 mg four times daily all provide a similar, moderate (less than 60%) level of 24-hour acid suppression. However, the 800 mg at bedtime regimen exerts its entire effect on nocturnal acid, and does not affect daytime gastric physiology.

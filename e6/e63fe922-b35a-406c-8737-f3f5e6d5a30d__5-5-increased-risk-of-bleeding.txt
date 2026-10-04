@@ -1,0 +1,11 @@
+DailyMed e63fe922-b35a-406c-8737-f3f5e6d5a30d | PAROXETINE | 5.5 Increased Risk of Bleeding
+
+Drugs that interfere with serotonin reuptake inhibition, including paroxetine, increase the risk of bleeding events. Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk. Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding. Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage
+
+                           [see Use in Specific Populations (
+
+   8.1)]
+
+  . Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages. 
+
+                        Inform patients about the increased risk of bleeding associated with the concomitant use of paroxetine and antiplatelet agents or anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio.

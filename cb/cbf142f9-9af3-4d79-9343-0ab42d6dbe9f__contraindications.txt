@@ -1,0 +1,19 @@
+DailyMed cbf142f9-9af3-4d79-9343-0ab42d6dbe9f | Medroxyprogesterone Acetate | CONTRAINDICATIONS
+
+Medroxyprogesterone acetate is contraindicated in women with any of the following conditions:
+
+                     Undiagnosed abnormal genital bleeding.
+
+                     Known, suspected, or history of breast cancer.
+
+                     Known or suspected estrogen- or progesterone-dependent neoplasia.
+
+                     Active DVT, PE, or a history of these conditions.
+
+                     Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions.
+
+                     Known anaphylactic reaction or angioedema to medroxyprogesterone acetate.
+
+                     Known liver impairment or disease.
+
+                     Known or suspected pregnancy.

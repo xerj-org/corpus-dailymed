@@ -1,0 +1,5 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 12.1 Mechanism of Action
+
+The precise mechanism by which lacosamide exerts its antiepileptic effects in humans remains to be fully elucidated.
+
+  In vitroelectrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing.

@@ -1,0 +1,297 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 14.4 Acute Otitis Media in Pediatric Patients
+
+Efficacy using azithromycin given over 5 days (10 mg/kg on Day 1 followed by 5 mg/kg on Days 2 to 5).
+
+                        Trial 1
+
+                        In a double-blind, controlled clinical study of acute otitis media performed in the United States, azithromycin (10 mg/kg on Day 1 followed by 5 mg/kg on Days 2 to 5) was compared to amoxicillin/clavulanate potassium (4:1). For the 553 patients who were evaluated for clinical efficacy, the clinical success rate (i.e., cure plus improvement) at the Day 11 visit was 88% for azithromycin and 88% for the control agent. For the 521 patients who were evaluated at the Day 30 visit, the clinical success rate was 73% for azithromycin and 71% for the control agent.
+
+                        Trial 2
+
+                        In a non-comparative clinical and microbiologic trial performed in the United States, where significant rates of beta-lactamase producing organisms (35%) were found, 131 patients were evaluable for clinical efficacy. The combined clinical success rate (i.e., cure and improvement) at the Day 11 visit was 84% for azithromycin. For the 122 patients who were evaluated at the Day 30 visit, the clinical success rate was 70% for azithromycin.
+
+                        Microbiologic determinations were made at the pre-treatment visit. Microbiology was not reassessed at later visits. The following clinical success rates were obtained from the evaluable group:
+
+                                    Table 18. Clinical Success Rates of Azithromycin on Days 11 and 30 in evaluable Pediatric Patients with Acute Otitis Media by Pathogen
+
+                                  |
+
+                                  |
+
+                                    Day 11
+
+                                  |
+
+                                    Day 30
+
+                                  |
+
+                                    Pathogen
+
+                                  |
+
+                                    Azithromycin
+
+                                  |
+
+                                    Azithromycin
+
+                                  |
+
+                                    S. pneumoniae
+
+                                  |
+                                 61/74 (82%)
+
+                                  |
+                                 40/56 (71%)
+
+                                  |
+
+                                    H. influenzae
+
+                                  |
+                                 43/54 (80%)
+
+                                  |
+                                 30/47 (64%)
+
+                                  |
+
+                                    M. catarrhalis
+
+                                  |
+                                 28/35 (80%)
+
+                                  |
+                                 19/26 (73%)
+
+                                  |
+
+                                    S. pyogenes
+
+                                  |
+                                 11/11 (100%)
+
+                                  |
+                                 7/7 (100%)
+
+                                  |
+
+                                 Overall
+
+                                  |
+                                 177/217 (82%)
+
+                                  |
+                                 97/137 (73%)
+
+                                  |
+
+                        Trial 3
+
+                        In another controlled comparative clinical and microbiologic study of otitis media performed in the United States, azithromycin (10 mg/kg on Day 1 followed by 5 mg/kg on Days 2 to 5) was compared to amoxicillin/clavulanate potassium (4:1). This study utilized two of the same investigators as Protocol 2 (above), and these two investigators enrolled 90% of the patients in Protocol 3. For this reason, Protocol 3 was not considered to be an independent study. Significant rates of beta-lactamase producing organisms (20%) were found. Ninety-two (92) patients were evaluable for clinical and microbiologic efficacy. The combined clinical success rate (i.e., cure and improvement) of those patients with a baseline pathogen at the Day 11 visit was 88% for azithromycin vs. 100% for control; at the Day 30 visit, the clinical success rate was 82% for azithromycin vs. 80% for control.
+
+                        Microbiologic determinations were made at the pre-treatment visit. Microbiology was not reassessed at later visits. At the Day 11 and Day 30 visits, the following clinical success rates were obtained from the evaluable group:
+
+                                    Table 19. Clinical Success Rates of Azithromycin vs Amoxycillin/Clavulanate Potassium (Control) on Days 11 and 30 in evaluable Pediatric Patients with Acute Otitis Media by Pathogen
+
+                                  |
+
+                                  |
+
+                                    Day 11
+
+                                  |
+
+                                    Day 30
+
+                                  |
+
+                                    Pathogen
+
+                                  |
+
+                                    Azithromycin
+
+                                  |
+
+                                    Control
+
+                                  |
+
+                                    Azithromycin
+
+                                  |
+
+                                    Control
+
+                                  |
+                                  |
+
+                                    S. pneumoniae
+
+                                  |
+                                 25/29 (86%)
+
+                                  |
+                                 26/26 (100%)
+
+                                  |
+                                 22/28 (79%)
+
+                                  |
+                                 18/22 (82%)
+
+                                  |
+                                  |
+
+                                    H. influenzae
+
+                                  |
+                                 9/11 (82%)
+
+                                  |
+                                 9/9 (100%)
+
+                                  |
+                                 8/10 (80%)
+
+                                  |
+                                 6/8 (75%)
+
+                                  |
+                                  |
+
+                                    M. catarrhalis
+
+                                  |
+                                 7/7 (100%)
+
+                                  |
+                                 5/5 (100%)
+
+                                  |
+                                 5/5 (100%)
+
+                                  |
+                                 2/3 (66%)
+
+                                  |
+                                  |
+
+                                    S. pyogenes
+
+                                  |
+                                 2/2 (100%)
+
+                                  |
+                                 5/5 (100%)
+
+                                  |
+                                 2/2 (100%)
+
+                                  |
+                                 4/4 (100%)
+
+                                  |
+                                  |
+
+                                 Overall
+
+                                  |
+                                 43/49 (88%)
+
+                                  |
+                                 45/45 (100%)
+
+                                  |
+                                 37/45 (82%)
+
+                                  |
+                                 30/37 (81%)
+
+                                  |
+                                  |
+
+                        Efficacy using azithromycin given over 3 days (10 mg/kg/day).
+
+                        Trial 4
+
+                        In a double-blind, controlled, randomized clinical study of acute otitis media in pediatric patients from 6 months to 12 years of age, azithromycin (10 mg/kg per day for 3 days) was compared to amoxicillin/clavulanate potassium (7:1) in divided doses q12h for 10 days. Each patient received active drug and placebo matched for the comparator.
+
+                        For the 366 patients who were evaluated for clinical efficacy at the Day 12 visit, the clinical success rate (i.e., cure plus improvement) was 83% for azithromycin and 88% for the control agent. For the 362 patients who were evaluated at the Days 24 to 28 visit, the clinical success rate was 74% for azithromycin and 69% for the control agent.
+
+                        Efficacy using azithromycin 30 mg/kg given as a single dose.
+
+                            
+
+                        Trial 5
+
+                        A double-blind, controlled, randomized trial was performed at nine clinical centers. Pediatric patients from 6 months to 12 years of age were randomized 1:1 to treatment of otitis media with either azithromycin (given at 30 mg/kg as a single dose on Day 1) or amoxicillin/clavulanate potassium (7:1), divided q12h for 10 days. Each child received active drug, and placebo matched for the comparator.
+
+                        Clinical response (Cure, Improvement, Failure) was evaluated at End of Therapy (Days 12 to 16) and Test of Cure (Days 28 to 32). Safety was evaluated throughout the trial for all treated subjects. For the 321 subjects who were evaluated at End of Treatment, the clinical success rate (cure plus improvement) was 87% for azithromycin, and 88% for the comparator. For the 305 subjects who were evaluated at Test of Cure, the clinical success rate was 75% for both azithromycin and the comparator.
+
+                        Trial 6
+
+                        In a non-comparative clinical and microbiological trial, 248 patients from 6 months to 12 years of age with documented acute otitis media were dosed with a single oral dose of azithromycin (30 mg/kg on Day 1).
+
+                        For the 240 patients who were evaluable for clinical modified Intent-to-Treat (MITT) analysis, the clinical success rate (i.e., cure plus improvement) at Day 10 was 89% and for the 242 patients evaluable at Days 24 to 28, the clinical success rate (cure) was 85%.
+
+                                    Table 20. Clinical Success Rates on Day 10 and on Days 24 to 28 in Pediatric Patients with Acute Otitis Media by Pathogen in the Modified Intent to Treat Population
+
+                                  |
+
+                                    Presumed Bacteriologic Eradication
+
+                                  |
+
+                                  |
+
+                                    Day 10
+
+                                  |
+
+                                    Days 24 to 28
+
+                                  |
+
+                                    S. pneumoniae
+
+                                  |
+                                 70/76 (92%)
+
+                                  |
+                                 67/76 (88%)
+
+                                  |
+
+                                    H. influenzae
+
+                                  |
+                                 30/42 (71%)
+
+                                  |
+                                 28/44 (64%)
+
+                                  |
+
+                                    M. catarrhalis
+
+                                  |
+                                 10/10 (100%)
+
+                                  |
+                                 10/10 (100%)
+
+                                  |
+
+                                 Overall
+
+                                  |
+                                 110/128 (86%)
+
+                                  |
+                                 105/130 (81%)
+
+                                  |

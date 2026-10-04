@@ -1,0 +1,66 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 12.3 Pharmacokinetics
+
+Clopidogrel is a prodrug and is metabolized to a pharmacologically active metabolite and inactive metabolites.
+
+                           Absorption
+
+After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed. Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
+
+                        Effect of food
+
+Clopidogrel can be administered with or without food. In a study in healthy male subjects when clopidogrel 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%. The active metabolite AUC
+  0–24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite C
+  max.
+
+                        Similar results were observed when a clopidogrel 300 mg loading dose was administered with a high-fat breakfast.
+
+                           Metabolism
+
+Clopidogrel is extensively metabolized by two main metabolic pathways: one mediated by esterases and leading to hydrolysis into an inactive carboxylic acid derivative (85% of circulating metabolites) and one mediated by multiple cytochrome P450 enzymes. Cytochromes first oxidize clopidogrel to a 2-oxo-clopidogrel intermediate metabolite. Subsequent metabolism of the 2-oxo-clopidogrel intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel. The active metabolite is formed mostly by CYP2C19 with contributions from several other CYP enzymes, including CYP1A2, CYP2B6 and CYP3A. The active thiol metabolite binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation for the lifespan of the platelet.
+
+                        The C
+  max of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose. C
+  max occurs approximately 30 to 60 minutes after dosing. In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: 4-fold the dose results in 2.0-fold and 2.7-fold the C
+  max and AUC, respectively.
+
+                           Elimination
+
+Following an oral dose of
+  14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post-dosing. After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours. The half-life of the active metabolite is about 30 minutes.
+
+                           Drug Interactions
+
+Effect of other drugs on Clopidogrel
+
+                        Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+
+                           CYP2C19 inducers
+
+Concomitant use of strong inducers of CYP2C19 results in increased plasma concentration of the active metabolite of clopidogrel and an increase in platelet inhibition.
+
+                        Rifampin: Coadministration of rifampin 300 mg twice daily for 7 days with 600 mg loading dose of clopidogrel in healthy adults increased the mean AUC and C
+  max of clopidogrel’s thiol metabolites by 3.8-fold. Mean inhibition of platelet aggregation at 4 hours post-dose was 34% higher in the presence of rifampin compared to clopidogrel administered alone.
+
+                           CYP2C19 inhibitors
+
+Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+
+                           Proton pump inhibitors (PPI)
+
+The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of clopidogrel 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
+
+                           Figure 1: Exposure to Clopidogrel Active Metabolite Following Multiple Doses of Clopidogrel 75 mg Alone or with Proton Pump Inhibitors (PPIs)
+
+                        Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
+
+                           Opioids
+
+Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and C
+  max of clopidogrel’s thiol metabolites by 34%. Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
+
+                        Effect of clopidogrel on other drugs
+
+                           In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8. Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC
+  0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel
+  [see
+   Drug Interactions (7.8)].

@@ -1,0 +1,1062 @@
+DailyMed e087ce3b-8d7f-43a3-8d20-54513da7617d | Metformin Hydrochloride | 12.3 Pharmacokinetics
+
+Absorption
+
+                        Two pharmacokinetic studies performed in healthy volunteers to evaluate the bioavailability of metformin hydrochloride oral solution in comparison with metformin HCl tablets under fasting and fed conditions showed that the rate and extent of absorption of metformin hydrochloride oral solution was found to be comparable to that of metformin HCl tablets under fasting or fed conditions (see Table 3).
+
+                                       Table 3. Select Mean (
+                                       ±
+                                        S.D.) Pharmacokinetic Parameters Following Single Oral Doses of 1000 mg Metformin hydrochloride oral solution and Metformin HCl tablets in healthy, nondiabetic adults (n = 36) under fed and fasting conditions
+
+                                  |
+
+                                       Formulation
+
+                                  |
+
+                                       Cmax 
+
+                                       (ng/mL)
+
+                                  |
+
+                                       AUC0-
+
+                                          ∞
+
+                                        (ng.h/mL)
+
+                                  |
+
+                                       tmax (h)
+
+                                  |
+
+                                       Study 1- Fasting state
+
+                                  |
+
+                                       Metformin Hydrochloride Oral Solution
+
+                                  |
+
+                                    1540.1 ± 451.1
+
+                                  |
+
+                                    9069.6 ± 2593.6
+
+                                  |
+
+                                    2.2 ± 0.5
+
+                                  |
+
+                                       Metformin HCl Tablets
+
+                                  |
+
+                                    1885.1 ± 498.5
+
+                                  |
+
+                                    11100.1 ± 2733.1
+
+                                  |
+
+                                    2.5 ± 0.6
+
+                                  |
+
+                                       T/R Ratio X 100 (90% 
+                                       confidence interval)
+
+                                  |
+
+                                    81.2
+
+                                    (76.3 - 86.4)
+
+                                  |
+
+                                    81.2
+
+                                    (76.9 - 85.6)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                       Study 2- Fed State
+
+                                  |
+
+                                       Metformin Hydrochloride Oral Solution
+
+                                  |
+
+                                    1253.5 ± 177.7
+
+                                  |
+
+                                    8950.1 ± 1381.2
+
+                                  |
+
+                                    4.1 ± 0.8
+
+                                  |
+
+                                       Metformin HCl Tablets
+
+                                  |
+
+                                    1361 ± 298.8
+
+                                  |
+
+                                    9307.7 ± 1839.8
+
+                                  |
+
+                                    3.7 ± 0.8
+
+                                  |
+
+                                       T/R Ratio X 100 (90% 
+                                       Confidence interval)
+
+                                  |
+
+                                    91.8
+
+                                    (87.4 - 96.5)
+
+                                  |
+
+                                    97.0
+
+                                    (92.9 - 101.2)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                          T-test product (metformin hydrochloride oral solution)
+
+                          R-reference product (immediate release metformin HCl tablets)
+
+                        Studies using single oral doses of metformin HCl tablets 500 mg to 1,500 mg, and 850 mg to 2,550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination. At usual clinical doses and dosing schedules of metformin, steady state plasma concentrations of metformin are reached within 24 to 48 hours and are generally < 1 mcg/mL.
+
+                           Effect of food: The food-effect study assessed the effects of a high fat/high calorie meal and a low fat/low calorie meal on the bioavailability of metformin hydrochloride oral solution in comparison with administration in the fasted state, in healthy volunteers. The extent of absorption was increased by approximately 16% and 13% with the low fat/low calorie meal and the high fat/high calorie meal, respectively, compared with the administration in the fasted state. The rate and extent of absorption with high fat/high calorie and low fat/ low calorie meal were similar. The mean tmax was 2.5 hours under fasting conditions as compared to 3.9 hours with both low fat/ low calorie meal and high fat/high calorie meals (see Table 4).
+
+                                       Table 
+                                       4. 
+                                       Select 
+                                       Mean
+                                       (± S
+                                       .D.) 
+                                       Metformin 
+                                       Pharmacokinetic 
+                                       Parameters 
+                                       Following 
+                                       Single 
+                                       Oral 
+                                       Doses 
+                                       of 
+                                       1000 
+                                       mg 
+                                       Metformin hydrochloride oral solution 
+                                       i
+                                       n 
+                                       h
+                                       ealthy, 
+                                       nondiabetic 
+                                       adults 
+                                       (n
+                                       =
+                                       33) 
+                                       under
+                                       fed 
+                                       (high 
+                                       fat/high 
+                                       calorie 
+                                       meal 
+                                       and 
+                                       low 
+                                       fat/low 
+                                       calorie 
+                                       meal)
+                                       and 
+                                       fasting 
+                                       conditions 
+                                       (study 
+                                       3)
+
+                                  |
+
+                                       Meal 
+                                       type
+
+                                  |
+
+                                       C
+
+                                          m
+
+                                          ax
+
+                                       (ng/mL)
+
+                                  |
+
+                                       AUC
+
+                                          0-
+
+                                          ∞
+
+                                       (ng.h/mL)
+
+                                  |
+
+                                       t
+
+                                          m
+
+                                          ax
+
+                                       (h)
+
+                                  |
+
+                                       F
+                                       asting 
+                                       (F)
+
+                                  |
+
+                                    1641.5 ± 551.8
+
+                                  |
+
+                                    9982.9 ± 2544.5
+
+                                  |
+
+                                    2.5 ± 0.9
+
+                                  |
+
+                                       Low 
+                                       fat/
+                                       low 
+                                       calorie 
+                                       meal
+                                       (L)
+
+                                  |
+
+                                    1525.8 ± 396.7
+
+                                  |
+
+                                    11542.0 ± 2947.5
+
+                                  |
+
+                                    3.9 ± 0.6
+
+                                  |
+
+                                       High 
+                                       f
+                                       at/high 
+                                       calorie 
+                                       meal 
+                                       (H)
+
+                                  |
+
+                                    1432.5 ± 346.8
+
+                                  |
+
+                                    11184.5 ± 2446.1
+
+                                  |
+
+                                    3.9 ± 0.8
+
+                                  |
+
+                                       L/F 
+                                       Ratio 
+                                       X 
+                                       100
+
+                                       (90%
+                                       confidence 
+                                       interval)
+
+                                  |
+
+                                    94.6
+
+                                    (84.0 - 106.5)
+
+                                  |
+
+                                    115.6
+
+                                    (103.6 - 128.9)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                       H/F 
+                                       R
+                                       atio 
+                                       X 
+                                       100
+
+                                       (90%
+                                       confidence 
+                                       interval)
+
+                                  |
+
+                                    89.4
+
+                                    (79.4 - 100.6)
+
+                                  |
+
+                                    112.6
+
+                                    (100.9 - 125.6)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                       L/H 
+                                       Ratio 
+                                       X 
+                                       100
+
+                                       (90%
+                                       confidence 
+                                       interval)
+
+                                  |
+
+                                    105.8
+
+                                    (94.0 - 119.2)
+
+                                  |
+
+                                    102.7
+
+                                    (92.0 - 114.6)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                              Distribution
+
+                        The apparent volume of distribution (V/F) of metformin following single oral doses of metformin HCl 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins. Metformin partitions into erythrocytes, most likely as a function of time.
+
+                              Metabolism
+
+                        Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
+
+                              Elimination
+
+                        Renal clearance (see Table 5) is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination. Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours. In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
+
+                           Specific Populations
+
+                              Renal Impairment
+
+                        In patients with decreased renal function the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased (see Table 5) [see
+                              Dosage and Administration (2.3),
+
+                              Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.6)
+                           ].
+
+                              Hepatic
+
+                              Impairment
+
+                        No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment [see
+                              Warnings and Precautions (5.1) and Use in Specific Populations (8.7)
+                           ].
+
+                              Geriatrics
+
+                        Limited data from controlled pharmacokinetic studies of metformin HCl tablets in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects. It appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 5). [see
+                              Warnings and Precautions (5.1)
+                           and
+                              Use in Specific Populations (8.5)
+                           ].
+
+                           Table 5: Select Mean (±S.D.) Metformin Pharmacokinetic Parameters Following Single or 
+                           Multiple Oral Doses of Metformin HCl Tablets
+
+                                       Subject 
+                                       Groups:
+
+                                       Metformin HCl 
+                                       dose
+
+                                          a
+
+                                       (number 
+                                       of subjects)
+
+                                  |
+
+                                       C
+
+                                          max
+
+                                          b
+
+                                       (mcg/mL)
+
+                                  |
+
+                                       T
+
+                                          max
+
+                                          c
+
+                                       (hrs)
+
+                                  |
+
+                                       Renal 
+                                       Clearance
+
+                                        
+                                       (mL/min)
+
+                                  |
+
+                                       Healthy, 
+                                       nondiabetic 
+                                       adults:
+
+                                    500 mg single dose (24)
+
+                                    850 mg single dose (74)d
+
+                                    850 mg three times daily for 19 dosese (9)
+
+                                  |
+
+                                    1.03 (± 0.33)
+
+                                    1.60 (± 0.38)
+
+                                    2.01 (± 0.42)
+
+                                  |
+
+                                    2.75 (± 0.81)
+
+                                    2.64 (± 0.82)
+
+                                    1.79 (± 0.94)
+
+                                  |
+
+                                    600 (± 132)
+
+                                    552 (± 139)
+
+                                    642 (± 173)
+
+                                  |
+
+                                       Adults 
+                                       with type 
+                                       2 diabetes mellitus:
+
+                                    850 mg single dose (23)
+
+                                    850 mg three times daily for 19 dosese (9)
+
+                                  |
+
+                                    1.48 (± 0.5)
+
+                                    1.90 (± 0.62)
+
+                                  |
+
+                                    3.32 (± 1.08)
+
+                                    2.01 (± 1.22)
+
+                                  |
+
+                                    491 (± 138)
+
+                                    550 (± 160)
+
+                                  |
+
+                                       Elderly
+
+                                          f
+
+                                       , 
+                                       healthy 
+                                       nondiabetic 
+                                       adults:
+
+                                    850 mg single dose (12)
+
+                                  |
+
+                                    2.45 (± 0.70)
+
+                                  |
+
+                                    2.71 (± 1.05)
+
+                                  |
+
+                                    412 (± 98)
+
+                                  |
+
+                                       Renally-­impaired 
+                                       adults:
+
+                                    850 mg single dose
+
+                                       Mild (CLcr
+                                       g 61 to 90 mL/min) (5)
+
+                                       Moderate (CLcr 31 to 60 mL/min) (4)
+
+                                       Severe (CLcr 10 to 30 mL/min) (6)
+
+                                  |
+
+                                    1.86 (± 0.52)
+
+                                    4.12 (± 1.83)
+
+                                    3.93 (± 0.92)
+
+                                  |
+
+                                    3.20 (± 0.45)
+
+                                    3.75 (± 0.50)
+
+                                    4.01 (± 1.10)
+
+                                  |
+
+                                    384 (± 122)
+
+                                    108 (± 57)
+
+                                    130 (± 90)
+
+                                  |
+
+                           a All doses given fasting except the first 18 doses of the multiple dose studies
+
+                           b Peak plasma concentration
+
+                           c Time to peak plasma concentration
+
+                           d Combined results (average means) of five studies: mean age 32 years (range 23 to 59 years)
+
+                           e Kinetic study done following dose 19, given fasting
+
+                           f Elderly subjects, mean age 71 years (range 65 to 81 years)
+
+                           g CLcr = creatinine clearance normalized to body surface area of 1.73 m2
+
+                              P
+
+                              e
+
+                              diatrics
+
+                        After administration of a single oral metformin HCl 500 mg tablet with food, geometric mean metformin Cmax and AUC differed less than 5% between pediatric type 2 diabetic patients (12 to 16 years of age) and gender- and weight-matched healthy adults (20 to 45 years of age), all with normal renal function.
+
+                              Gender
+
+                        Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender (males = 19, females = 16).
+
+                              Race
+
+                        No studies of metformin pharmacokinetic parameters according to race have been performed.
+
+                           Drug Interactions
+
+                              In Vivo Assessment of Drug Interactions
+
+                           Table 6: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+
+                                       Coadministered
+
+                                       Drug
+
+                                  |
+
+                                       Dose of
+
+                                       Coadministered
+
+                                       Drug*
+
+                                  |
+
+                                       Dose of
+
+                                       Metformin
+
+                                       HCl*
+
+                                  |
+
+                                       Geometric Mean
+
+                                       Ratio
+
+                                       (ratio with/without coadministered
+
+                                       drug) No Effect = 1.00
+
+                                  |
+
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                       AUC†
+
+                                  |
+
+                                       Cmax
+
+                                  |
+
+                                       No dosing adjustments required for the following:
+
+                                  |
+
+                                    Glyburide
+
+                                  |
+
+                                    5 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    metformin
+
+                                  |
+
+                                    0.91‡
+
+                                  |
+
+                                    0.93‡
+
+                                  |
+
+                                    Furosemide
+
+                                  |
+
+                                    40 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    metformin
+
+                                  |
+
+                                    1.09‡
+
+                                  |
+
+                                    1.22‡
+
+                                  |
+
+                                    Nifedipine
+
+                                  |
+
+                                    10 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    metformin
+
+                                  |
+
+                                    1.16
+
+                                  |
+
+                                    1.21
+
+                                  |
+
+                                    Propranolol
+
+                                  |
+
+                                    40 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    metformin
+
+                                  |
+
+                                    0.90
+
+                                  |
+
+                                    0.94
+
+                                  |
+
+                                    Ibuprofen
+
+                                  |
+
+                                    400 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    metformin
+
+                                  |
+
+                                    1.05‡
+
+                                  |
+
+                                    1.07‡
+
+                                  |
+
+                                       Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination [see
+                                          Warnings and Precautions (5.1) and
+                                          Drug Interactions (7).]
+
+                                  |
+
+                                    Cimetidine
+
+                                  |
+
+                                    400 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    metformin
+
+                                  |
+
+                                    1.40
+
+                                  |
+
+                                    1.61
+
+                                  |
+
+                                       Carbonic anhydrase inhibitors may cause metabolic acidosis [see
+                                          Warnings and Precautions (5.1) and
+                                          Drug Interactions (7).]
+
+                                  |
+
+                                    Topiramate
+
+                                  |
+
+                                    100 mg§
+
+                                  |
+
+                                    500 mg§
+
+                                  |
+
+                                    metformin
+
+                                  |
+
+                                    125§
+
+                                  |
+
+                                    1.17
+
+                                  |
+
+                           * All metformin HCl and coadministered drugs were given as single doses
+
+                           † AUC = AUC (INF)
+
+                           ‡ Ratio of arithmetic means
+
+                           § At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h
+
+                           Table 7: Effect of Metformin on Coadministered Drug Systemic Exposure
+
+                                       Coadministered
+
+                                       Drug
+
+                                  |
+
+                                       Dose of
+
+                                       Coadministered
+
+                                       Drug*
+
+                                  |
+
+                                       Dose of
+
+                                       Metformin
+
+                                       HCl*
+
+                                  |
+
+                                       Geometric Mean Ratio
+
+                                       (ratio with/without metformin)
+
+                                       No Effect = 1.00
+
+                                  |
+
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                       AUC†
+
+                                  |
+
+                                       Cmax
+
+                                  |
+
+                                       No dosing adjustments required for the following:
+
+                                  |
+
+                                    Glyburide
+
+                                  |
+
+                                    5 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    glyburide
+
+                                  |
+
+                                    0.78‡
+
+                                  |
+
+                                    0.63‡
+
+                                  |
+
+                                    Furosemide
+
+                                  |
+
+                                    40 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    furosemide
+
+                                  |
+
+                                    0.87‡
+
+                                  |
+
+                                    0.69‡
+
+                                  |
+
+                                    Nifedipine
+
+                                  |
+
+                                    10 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    nifedipine
+
+                                  |
+
+                                    1.10§
+
+                                  |
+
+                                    1.08
+
+                                  |
+
+                                    Propranolol
+
+                                  |
+
+                                    40 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    propranolol
+
+                                  |
+
+                                    1.01§
+
+                                  |
+
+                                    1.02
+
+                                  |
+
+                                    Ibuprofen
+
+                                  |
+
+                                    400 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    ibuprofen
+
+                                  |
+
+                                    0.97¶
+
+                                  |
+
+                                    1.01¶
+
+                                  |
+
+                                    Cimetidine
+
+                                  |
+
+                                    400 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    cimetidine
+
+                                  |
+
+                                    0.95§
+
+                                  |
+
+                                    1.01
+
+                                  |
+
+                           * All metformin HCl and coadministered drugs were given as single doses
+
+                           † AUC = AUCinf unless otherwise noted
+
+                           ‡ Ratio of arithmetic means, p-value of difference < 0.05
+
+                           § AUC0-24 hr reported
+
+                           ¶ Ratio of arithmetic means

@@ -1,0 +1,9 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | REFERENCES
+
+Fekety R. Infections associated with corticosteroids and immunosuppressive therapy. In: Gorbach SL, Bartlett JG, Blacklow NR,eds. .
+   Infectious Diseases
+
+                     Philadelphia: WBSaunders Company 1992:1050-1.
+
+                     Stuck AE, Minder CE, Frey FJ. Risk of infectious complications in patients taking glucocorticoids. 1989:11(6):954-63.
+   Rev Infect Dis

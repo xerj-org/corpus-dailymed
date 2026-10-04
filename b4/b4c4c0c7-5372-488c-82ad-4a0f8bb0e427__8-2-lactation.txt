@@ -1,0 +1,9 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 8.2 Lactation
+
+Risk Summary
+
+                        Data from the published literature report the presence of doxepin and nordoxepin in human milk. There are reports of excess sedation, respiratory depression, poor sucking and swallowing, and hypotonia in breastfed infants exposed to doxepin. There are no data on the effects of doxepin on milk production. Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, clinicians should advise patients that breastfeeding is not recommended during treatment with doxepin.
+
+                           Clinical Considerations
+
+                        Infants exposed to doxepin through breast milk should be monitored for excess sedation, respiratory depression and hypotonia.

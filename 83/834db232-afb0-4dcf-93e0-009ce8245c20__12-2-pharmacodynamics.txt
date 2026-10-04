@@ -1,0 +1,9 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 12.2 Pharmacodynamics
+
+Pharmacodynamics of UPLIZNA were assessed with an assay for CD20+ B-cells, since UPLIZNA can interfere with the CD19+ B-cell assay. Treatment with UPLIZNA reduces CD20+ B-cell counts in blood by 8 days after infusion.
+
+                        In Study 1 [see Clinical Studies (14.1)], CD20+ B-cell counts were reduced below the lower limit of normal by 4 weeks in 100% of patients treated with UPLIZNA and remained below the lower limit of normal in 94% of patients for 28 weeks after initiation of treatment.
+
+                        In Study 2 [see Clinical Studies (14.2)], CD20+ B-cell counts were reduced below the lower limit of normal by week 2 in 100% of patients treated with UPLIZNA and remained below the lower limit of normal in 85% of patients for up to 52 weeks after initiation of treatment.
+
+                        In Study 3 [see Clinical Studies (14.3)], CD20+ B-cell counts were reduced below the lower limit of normal by week 4 in ≥ 99% of patients in the overall population (anti-AChR antibody positive and anti-MuSK antibody positive patients) treated with UPLIZNA. B-cell counts remained below the lower limit of normal in ≥ 96% of patients treated with UPLIZNA in the anti-AChR antibody positive population for 52 weeks after initiation of treatment, and in > 96% of patients treated with UPLIZNA in the anti-MuSK antibody positive population for 26 weeks after initiation of treatment.

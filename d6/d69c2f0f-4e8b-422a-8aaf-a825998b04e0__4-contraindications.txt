@@ -1,0 +1,5 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 4 CONTRAINDICATIONS
+
+Omeprazole and sodium bicarbonate is contraindicated in patients with known hypersensitivity to substituted benzimidazoles or to any component of the formulation. Hypersensitivity reactions may include anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute tubulointerstitial nephritis, and urticaria [see Warnings and Precautions (5.2), Adverse Reactions (6.2)].
+
+                  Proton pump inhibitors (PPIs), including omeprazole and sodium bicarbonate, are contraindicated in patients receiving rilpivirine containing products [see Drug Interactions (7)].

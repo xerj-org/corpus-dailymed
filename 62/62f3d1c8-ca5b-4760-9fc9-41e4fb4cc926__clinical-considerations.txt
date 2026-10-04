@@ -1,0 +1,9 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Clinical Considerations
+
+Levetiracetam blood levels may decrease during pregnancy [see
+
+                                    Warnings and Precautions (5.9)
+
+                                 ].
+
+                              Physiological changes during pregnancy may affect levetiracetam concentration. Decrease in levetiracetam plasma concentrations has been observed during pregnancy. This decrease is more pronounced during the third trimester. Dose adjustments may be necessary to maintain clinical response.

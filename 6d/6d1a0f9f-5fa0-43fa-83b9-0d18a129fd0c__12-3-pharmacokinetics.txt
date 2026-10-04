@@ -1,0 +1,61 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 12.3 Pharmacokinetics
+
+Ropinirole displayed linear kinetics over the dosing range of 1 to 8 mg 3 times daily. Steady-state concentrations are expected to be achieved within 2 days of dosing. Accumulation upon multiple dosing is predictive from single dosing.
+
+                           Absorption  
+
+                        Ropinirole is rapidly absorbed after oral administration, reaching peak concentration in approximately 1 to 2 hours. In clinical trials, more than 88% of a radiolabeled dose was recovered in urine and the absolute bioavailability was 45% to 55%, indicating approximately 50% first-pass effect.
+
+                        Relative bioavailability from a tablet compared with an oral solution is 85%. Food does not affect the extent of absorption of ropinirole, although its Tmax is increased by 2.5 hours and its Cmax is decreased by approximately 25% when the drug is taken with a high-fat meal.
+
+                           Distribution  
+
+                        Ropinirole is widely distributed throughout the body, with an apparent volume of distribution of
+
+                        7.5 L/kg. It is up to 40% bound to plasma proteins and has a blood-to-plasma ratio of 1:1.
+
+                           Metabolism  
+
+                        Ropinirole is extensively metabolized by the liver. The major metabolic pathways are N-despropylation and hydroxylation to form the inactive N-despropyl metabolite and hydroxy metabolites. The N-despropyl metabolite is converted to carbamyl glucuronide, carboxylic acid, and N-despropyl hydroxy metabolites. The hydroxy metabolite of ropinirole is rapidly glucuronidated.
+
+                        In vitro studies indicate that the major cytochrome P450 enzyme involved in the metabolism of ropinirole is CYP1A2, an enzyme known to be induced by smoking and omeprazole and inhibited by, for example, fluvoxamine, mexiletine, and the older fluoroquinolones such as ciprofloxacin and norfloxacin.
+
+                           Elimination  
+
+                        The clearance of ropinirole after oral administration is 47 L/h and its elimination half-life is approximately 6 hours. Less than 10% of the administered dose is excreted as unchanged drug in urine. N-despropyl ropinirole is the predominant metabolite found in urine (40%), followed by the carboxylic acid metabolite (10%) and the glucuronide of the hydroxy metabolite (10%).
+
+                           Specific Populations
+
+                        Because therapy with ropinirole tablet is initiated at a low dose and gradually titrated upward according to clinical tolerability to obtain the optimum therapeutic effect, adjustment of the initial dose based on gender, weight, or age is not necessary.
+
+                           Geriatric Patients: Oral clearance of ropinirole is reduced by 15% in patients older than 65 years compared with younger patients. Dosage adjustment is not necessary in the elderly (older than 65 years), as the dose of ropinirole is to be individually titrated to clinical response.
+
+                           Male and Female Patients: Male and female patients showed similar clearance.
+
+                           Racial or Ethnic Groups: The influence of race on the pharmacokinetics of ropinirole has not been evaluated.
+
+                           Cigarette Smoking: Smoking is expected to increase the clearance of ropinirole since CYP1A2 is known to be induced by smoking. In a trial in patients with RLS, smokers (n = 7) had an approximately 30% lower Cmax and a 38% lower AUC than did nonsmokers (n = 11) when those parameters were normalized for dose.
+
+                           Patients with Renal Impairment: Based on population pharmacokinetic analysis, no difference was observed in the pharmacokinetics of ropinirole in subjects with moderate renal impairment (creatinine clearance between 30 to 50 mL/min) compared with an age-matched population with creatinine clearance above 50 mL/min. Therefore, no dosage adjustment is necessary in patients with moderate renal impairment.
+
+                        A trial of ropinirole in subjects with end-stage renal disease on hemodialysis has shown that clearance of ropinirole was reduced by approximately 30%. The recommended maximum dose is lower in these patients [see Dosage and Administration (2.2, 2.3)].
+
+                        The use of ropinirole in subjects with severe renal impairment (creatinine clearance <30 mL/min) without regular dialysis has not been studied.
+
+                           Patients with Hepatic Impairment: The pharmacokinetics of ropinirole have not been studied in patients with hepatic impairment. Because ropinirole is extensively metabolized by the liver, these patients may have higher plasma levels and lower clearance of ropinirole than patients with normal hepatic function.
+
+                           Other Diseases: Population pharmacokinetic analysis revealed no change in the clearance of ropinirole in patients with concomitant diseases such as hypertension, depression, osteoporosis/arthritis, and insomnia compared with patients with Parkinson’s disease only.
+
+                           Drug Interaction Studies  
+
+                           Digoxin: Coadministration of ropinirole tablets (2 mg 3 times daily) with digoxin (0.125 to 0.25 mg once daily) did not alter the steady-state pharmacokinetics of digoxin in 10 patients.
+
+                           Theophylline: Administration of theophylline (300 mg twice daily), a substrate of CYP1A2, did not alter the steady-state pharmacokinetics of ropinirole (2 mg 3 times daily) in 12 patients with Parkinson’s disease. Ropinirole tablets (2 mg 3 times daily) did not alter the pharmacokinetics of theophylline (5 mg/kg intravenously) in 12 patients with Parkinson’s disease.
+
+                           Ciprofloxacin: Coadministration of ciprofloxacin (500 mg twice daily), an inhibitor of CYP1A2, with ropinirole tablets (2 mg 3 times daily) increased ropinirole AUC by 84% on average and Cmax by 60% (n = 12 patients).
+
+                           Estrogens: Population pharmacokinetic analysis revealed that estrogens (mainly ethinylestradiol: intake 0.6 to 3 mg over 4-month to 23-year period) reduced the oral clearance of ropinirole by 36% in 16 patients.
+
+                           L-dopa: Coadministration of carbidopa + L-dopa (10/100 mg twice daily) with ropinirole tablets (2 mg 3 times daily) had no effect on the steady-state pharmacokinetics of ropinirole (n = 28 patients). Oral administration of ropinirole tablets 2 mg 3 times daily increased mean steady-state Cmax of L-dopa by 20%, but its AUC was unaffected (n = 23 patients).
+
+                           Commonly Administered Drugs: Population analysis showed that commonly administered drugs (e.g., selegiline, amantadine, tricyclic antidepressants, benzodiazepines, ibuprofen, thiazides, antihistamines, anticholinergics) did not affect the clearance of ropinirole. An in vitro study indicates that ropinirole is not a substrate for P-glycoprotein. Ropinirole and its circulating metabolites do not inhibit or induce P450 enzymes; therefore, ropinirole is unlikely to affect the pharmacokinetics of other drugs by a P450 mechanism.

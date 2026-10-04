@@ -1,0 +1,3 @@
+DailyMed 717eb542-3a05-485e-be76-3930efb40d33 | Levocetirizine Dihydrochloride | 7.1 Antipyrine, Azithromycin, Cimetidine, Erythromycin, Ketoconazole, Theophylline, and Pseudoephedrine
+
+Pharmacokinetic interaction studies performed with racemic cetirizine demonstrated that cetirizine did not interact with antipyrine, pseudoephedrine, erythromycin, azithromycin, ketoconazole, and cimetidine. There was a small decrease (~16%) in the clearance of cetirizine caused by a 400 mg dose of theophylline. It is possible that higher theophylline doses could have a greater effect.

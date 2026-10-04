@@ -1,0 +1,54 @@
+DailyMed 5f8b3313-0286-499f-9235-02cdc0eb063b | Bupropion Hydrochloride SR | 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
+
+Patients with MDD, both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs. Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide. There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
+
+                        Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (selective serotonin reuptake inhibitors [SSRIs] and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with MDD and other psychiatric disorders. Short-term clinical trials did not show an increase in the risk of suicidality with antidepressants compared with placebo in adults beyond age 24; there was a reduction with antidepressants compared with placebo in adults aged 65 and older.
+
+                        The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short term trials of 9 antidepressant drugs in over 4,400 subjects. The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 subjects. There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger subjects for almost all drugs studied. There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD. The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications. These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 subjects treated) are provided in
+  Table 1.
+
+                                    Table 1. Risk Differences in the Number of Suicidality Cases by Age Group in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Subjects
+                                  |
+
+                                    Age Range
+                                  |
+
+                                    Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Subjects Treated
+                                  |
+
+                                 Increases Compared With Placebo |
+
+                                  <18 |
+                                 14 additional cases |
+
+                                    18 to 24
+
+                                  |
+                                 5 additional cases |
+
+                                 Decreases Compared With Placebo |
+
+                                    25 to 64
+
+                                  |
+                                 1 fewer case |
+
+                                    ≥65
+
+                                  |
+                                 6 fewer cases |
+
+                        No suicides occurred in any of the pediatric trials. There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
+
+                        It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months. However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
+
+                           All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases
+   [see
+    Boxed Warning]
+   .
+
+                        The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric. Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
+
+                        Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+
+                           Families and caregivers of patients being treated with antidepressants for MDD or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers. Such monitoring should include daily observation by families and caregivers. Prescriptions for bupropion hydrochloride extended-release tablets (SR) should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.

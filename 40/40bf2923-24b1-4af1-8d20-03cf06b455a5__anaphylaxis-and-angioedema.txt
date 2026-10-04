@@ -1,0 +1,3 @@
+DailyMed 40bf2923-24b1-4af1-8d20-03cf06b455a5 | Carbamazepine | Anaphylaxis and Angioedema
+
+Rare cases of anaphylaxis and angioedema involving the larynx, glottis, lips, and eyelids have been reported in patients after taking the first or subsequent doses of carbamazepine. Angioedema associated with laryngeal edema can be fatal. If a patient develops any of these reactions after treatment with carbamazepine, the drug should be discontinued and an alternative treatment started. These patients should not be rechallenged with the drug.

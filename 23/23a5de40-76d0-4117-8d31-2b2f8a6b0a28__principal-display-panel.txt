@@ -1,0 +1,83 @@
+DailyMed 23a5de40-76d0-4117-8d31-2b2f8a6b0a28 | Benzonatate | PRINCIPAL DISPLAY PANEL
+
+DRUG: Benzonatate
+
+                  GENERIC: Benzonatate
+
+                  DOSAGE: CAPSULE
+
+                  ADMINSTRATION: ORAL
+
+                  NDC: 70518-2873-0
+
+                  NDC: 70518-2873-1
+
+                  NDC: 70518-2873-2
+
+                  NDC: 70518-2873-3
+
+                  NDC: 70518-2873-4
+
+                  NDC: 70518-2873-5
+
+                  NDC: 70518-2873-6
+
+                  NDC: 70518-2873-7
+
+                  NDC: 70518-2873-8
+
+                  NDC: 70518-2873-9
+
+                  COLOR: yellow
+
+                  SHAPE: OVAL
+
+                  SCORE: No score
+
+                  SIZE: 7 mm
+
+                  IMPRINT: PC14
+
+                  PACKAGING: 10 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 30 in 1 BOTTLE PLASTIC
+
+                  PACKAGING; 30 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 15 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 10 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 21 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 20 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 15 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 50 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  ACTIVE INGREDIENT(S):
+
+                     BENZONATATE 100mg in 1
+
+                  INACTIVE INGREDIENT(S):
+
+                     D&C YELLOW NO. 10
+
+                     GLYCERIN
+
+                     LIGHT MINERAL OIL
+
+                     PROPYLENE GLYCOL
+
+                     SHELLAC
+
+                     TITANIUM DIOXIDE
+
+                     WATER
+
+                     GELATIN, UNSPECIFIED
+
+                     SOYBEAN LECITHIN

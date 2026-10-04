@@ -1,0 +1,3 @@
+DailyMed 90e65b83-32d6-40bc-be5d-19fbec051bdf | AZITHROMYCIN | 4.2 Hepatic Dysfunction
+
+Azithromycin tablets are contraindicated in patients with a history of cholestatic jaundice/hepatic dysfunction associated with prior use of azithromycin.

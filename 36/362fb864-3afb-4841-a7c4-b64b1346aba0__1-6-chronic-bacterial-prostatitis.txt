@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 1.6 Chronic Bacterial Prostatitis
+
+Levofloxacin is indicated for the treatment of chronic bacterial prostatitis due to Escherichia coli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus epidermidis [see Clinical Studies (14.6)].

@@ -1,0 +1,7 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 5.7 Potential for Microbial Overgrowth
+
+The possibility of superinfections with mycotic or bacterial pathogens should be considered during therapy. If superinfections occur (commonly involving
+
+  Pseudomonasspp. or
+
+  Candidaspp.), discontinue amoxicillin and clavulanate potassium and institute appropriate therapy.

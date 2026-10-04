@@ -1,0 +1,3 @@
+DailyMed 761dc0f8-2f65-4615-ab49-a4bcffd40ce9 | Tadalafil | 5.5 Sudden Hearing Loss
+
+Physicians should advise patients to stop taking PDE5 inhibitors, including tadalafil, and seek prompt medical attention in the event of sudden decrease or loss of hearing. These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including tadalafil. It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors [see Adverse Reactions (6.1, 6.2)].

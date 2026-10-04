@@ -1,0 +1,20 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+A 2-year carcinogenicity study in mice at doses of 50, 150, and 450 mg/kg/day exemestane (gavage), resulted in an increased incidence of hepatocellular adenomas and/or carcinomas in both genders at the high dose level. Plasma AUC
+  (0–24hr) at the high dose were 2575 ± 386 and 5667 ± 1833 ng.hr/mL in males and females (approx. 34 and 75 fold the AUC in postmenopausal patients at the recommended clinical dose). An increased incidence of renal tubular adenomas was observed in male mice at the high dose of 450 mg/kg/day. Since the doses tested in mice did not achieve an MTD, neoplastic findings in organs other than liver and kidneys remain unknown.
+
+                        A separate carcinogenicity study was conducted in rats at the doses of 30, 100, and 315 mg/kg/day exemestane (gavage) for 92 weeks in males and 2 years in females. No evidence of carcinogenic activity up to the highest dose tested of 315 mg/kg/day was observed in females. The male rat study was inconclusive since it was terminated prematurely at Week 92. At the highest dose, plasma AUC
+  (0–24hr) levels in male (1418 ± 287 ng.hr/mL) and female (2318 ± 1067 ng.hr/mL) rats were 19 and 31 fold higher than those measured in postmenopausal cancer patients receiving the recommended clinical dose.
+
+                        Exemestane was not mutagenic
+  in vitro in bacteria (Ames test) or mammalian cells (V79 Chinese hamster lung cells). Exemestane was clastogenic in human lymphocytes
+  in vitro without metabolic activation but was not clastogenic
+  in vivo (micronucleus assay in mouse bone marrow). Exemestane did not increase unscheduled DNA synthesis in rat hepatocytes when tested
+  in vitro.
+
+                        In a pilot reproductive study in rats, male rats were treated with doses of 125–1000 mg/kg/day exemestane, beginning 63 days prior to and during cohabitation. Untreated female rats showed reduced fertility when mated to males treated with ≥500 mg/kg/day exemestane (≥200 times the recommended human dose on a mg/m
+  2 basis). In a separate study, exemestane was given to female rats at 4–100 mg/kg/day beginning 14 days prior to mating and through day 15 or 20 of gestation. Exemestane increased the placental weights at ≥4 mg/kg/day (≥1.5 times the human dose on a mg/m
+  2 basis). Exemestane showed no effects on ovarian function, mating behavior, and conception rate in rats given doses up to 20 mg/kg/day (approximately 8 times the recommended human dose on a mg/m
+  2 basis); however, decreases in mean litter size and fetal body weight, along with delayed ossification were evidenced at ≥20 mg/kg/day. In general toxicology studies, changes in the ovary, including hyperplasia, an increase in the incidence of ovarian cysts, and a decrease in corpora lutea were observed with variable frequency in mice, rats, and dogs at doses that ranged from 3–20 times the human dose on a mg/m
+  2 basis
+  .

@@ -1,0 +1,9 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 1.3 Limitations of Use
+
+The safety and efficacy of Zortress has not been established in the following populations:
+
+                           Kidney transplant patients at high immunologic risk.
+
+                           Recipients of transplanted organs other than kidney and liver [see Warnings and Precautions (5.7)].
+
+                           Pediatric patients (less than 18 years).

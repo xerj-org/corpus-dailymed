@@ -1,0 +1,69 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 12.3 Pharmacokinetics
+
+Capivasertib pharmacokinetic parameters are presented as the geometric mean [geometric % coefficient of variation (%CV)], unless otherwise specified. The capivasertib steady-state AUC is 7,356 h·ng/mL (38%) and Cmax is 1,247 ng/mL (28%). Steady-state concentrations are predicted to be attained on the 3rd and 4th dosing day of each week, starting week 2.
+
+                        Capivasertib plasma concentrations are approximately 0.2% to 5.1% of the steady state Cmax during the off-dosing days.
+
+                        Capivasertib AUC and Cmax are proportional with dose over a range of 80 to 800 mg (0.2 to 2 times the approved recommended dosage).
+
+                           Absorption
+
+                        Tmax is approximately 1-2 hours. The absolute bioavailability is 29%.
+
+                           Effect of Food
+
+                        No clinically meaningful differences in capivasertib pharmacokinetics were observed following administration of TRUQAP with a high-fat meal (approximately 1,000 kcal; fat 60%) or a low-fat meal (approximately 400 kcal; fat 26%).
+
+                           Distribution
+
+                        The steady state oral volume of distribution is 1,847 L (36%). Capivasertib plasma protein binding is 78% and the plasma-to-blood ratio is 0.71.
+
+                           Elimination
+
+                        The half-life is 8.3 hours, and the steady-state oral clearance is 50 L/h (37% CV). Renal clearance was 21% of total clearance.
+
+                           Metabolism
+
+                        Capivasertib is primarily metabolized by CYP3A4 and UGT2B7.
+
+                           Excretion
+
+                        Following a single radiolabeled oral dose of 400 mg, the mean total recovery was 45% from urine and 50% from feces.
+
+                           Specific Populations
+
+                        No clinically significant differences in capivasertib pharmacokinetics were observed based on race/ethnicity (including White, Asian, Black, American Indian or Alaskan Native, and Native Hawaiian or Other Pacific Islander), sex (88% females), body weight (32 to 150 kg), age (26 to 87 years), mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1 to 1.5x ULN), or mild to moderate renal impairment (CLcr 30 to 89 mL/min).
+
+                        The effect of moderate (bilirubin > 1.5 to 3x ULN and any AST) hepatic impairment is not fully characterized.
+
+                        TRUQAP has not been studied in patients with severe (bilirubin > 3x ULN and any AST) hepatic impairment or severe renal impairment (CLcr 15 to 29 mL/min).
+
+                           Drug Interaction Studies
+
+                           Clinical Studies and Model-Informed Approaches
+
+                           Effect of Strong and Moderate CYP3A Inhibitors on Capivasertib: Itraconazole (strong CYP3A4 inhibitor) is predicted to increase capivasertib AUC by up to 1.7-fold and Cmax by up to 1.4-fold.
+
+                        Erythromycin and verapamil (moderate CYP3A inhibitors) are predicted to increase capivasertib AUC by up to 1.5-fold and Cmax by up to 1.3-fold.
+
+                           Effect of Strong and Moderate CYP3A Inducers on Capivasertib: Rifampicin (strong CYP3A4 inducer) is predicted to decrease capivasertib AUC by 70% and Cmax by 60%.
+
+                        Efavirenz (moderate CYP3A4 inducer) is predicted to decrease capivasertib AUC by 60% and Cmax by 50%.
+
+                           Effect of UGT2B7 Inhibitors on Capivasertib: Probenecid (UGT2B7 inhibitor) is not predicted to have a clinically meaningful effect on capivasertib pharmacokinetics.
+
+                           Effect of Acid Reducing Agents on Capivasertib: Rabeprazole (gastric acid reducing agent) did not have a clinically meaningful effect on capivasertib pharmacokinetics.
+
+                           Effect of Capivasertib on CYP3A Substrates: Concomitant use of TRUQAP increased midazolam (CYP3A substrate) AUC by 1.8-fold on day 4 and by 1.2-fold on day 7.
+
+                           Effect of Capivasertib on CYP2D6 Substrates: TRUQAP is predicted to increase desipramine (CYP2D6 substrate) AUC by up to 2.1-fold on day 4.
+
+                           Effect of Capivasertib on CYP2C9 Substrates: Concomitant use of TRUQAP with warfarin (CYP2C9 substrate) is not predicted to have a clinically meaningful effect on warfarin pharmacokinetics.
+
+                           Effect of Capivasertib on UGT1A1 Substrates: TRUQAP is predicted to increase raltegravir (UGT1A1 substrate) AUC by up to 1.7-fold on day 4.
+
+                           In-Vitro Studies
+
+                           CYP450 Enzymes: Capivasertib induces CYP1A2.
+
+                           Transporter Systems: Capivasertib inhibits BCRP, OATP1B1, OATP1B3, OAT3, MATE1, MATE2-K, and OCT2.

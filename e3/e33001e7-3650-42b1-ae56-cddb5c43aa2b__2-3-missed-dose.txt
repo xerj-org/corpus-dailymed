@@ -1,0 +1,5 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 2.3 Missed Dose
+
+Once Daily Dosage Regimen: If a SCEMBLIX dose is missed by more than approximately 12 hours, skip the dose and take the next dose as scheduled.
+
+                           Twice Daily Dosage Regimens: If a SCEMBLIX dose is missed by more than approximately 6 hours, skip the dose and take the next dose as scheduled.

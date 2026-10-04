@@ -1,0 +1,37 @@
+DailyMed c49a7f23-2af0-4607-9f21-114970f8630d | OLMESARTAN MEDOXOMIL | 8.1 Pregnancy
+
+Risk Summary
+
+  Olmesartan Medoxomil tablets can cause fetal harm when administered to a pregnant woman. Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. In animal reproduction studies, Olmesartan Medoxomil tablets treatment during organogenesis resulted in increased embryofetal toxicity in rats at doses lower than maternally toxic doses.
+
+                        When pregnancy is detected, discontinue Olmesartan medoxomil tablets as soon as possible. Consider alternative antihypertensive therapy during pregnancy.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%–4% and 15%–20%, respectively.
+
+                           Clinical Considerations
+
+                           Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+  Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section and post-partum hemorrhage). Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death. Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+                           Fetal/Neonatal Adverse Reactions
+
+  Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia, skeletal deformations, including skull hypoplasia, hypotension and death.
+
+  In patients taking Olmesartan Medoxomil during pregnancy, perform serial ultrasound examinations to assess the intra-amniotic environment. Fetal testing may be appropriate, based on the week of gestation. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
+
+                        Closely observe infants with histories of
+
+  in uteroexposure to Olmesartan Medoxomil for hypotension, oliguria, and hyperkalemia. In neonates with a history of
+
+  in uteroexposure to Olmesartan medoxomil, if oliguria or hypotension occurs, utilize measures to maintain adequate blood pressure and renal perfusion. Exchange transfusions or dialysis may be required as a means of reversing hypotension and supporting renal function.
+
+                           Data
+
+                           Animal Data
+
+  No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose (MRHD) on a mg/m
+
+  2basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m
+
+  2basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does). In rats, significant decreases in pup birth weight and weight gain were observed at doses ≥1.6 mg/kg/day, and delays in developmental milestones (delayed separation of ear auricula, eruption of lower incisors, appearance of abdominal hair, descent of testes, and separation of eyelids) and dose-dependent increases in the incidence of dilation of the renal pelvis were observed at doses ≥ 8 mg/kg/day. The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day, about one-tenth the MRHD of 40 mg/day.

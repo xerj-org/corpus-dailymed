@@ -1,0 +1,81 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 2.4 Switching from Once- or Twice-Daily Basal Insulin to ONSWIK
+
+Administer the first dose of ONSWIK on the day after the last dose of once- or twice-daily basal insulin.
+
+                           Close glucose monitoring is recommended during the switch and until the dosage and glycemic control are stable.
+
+                           Doses and timing of concurrent mealtime insulin products or other concomitant antidiabetic medications may require adjustments.
+
+                           See Table 3 for dosage calculations and important considerations when switching patients from once- or twice-daily basal insulin to ONSWIK.
+
+                           Table 3: Switching From Once- or Twice-Daily Basal Insulin to ONSWIK
+
+                                       a Round calculated doses to the nearest 5 units for the U-500 KwikPen and 10 units for the U-1,000 KwikPen.
+
+                                  |
+
+                                       b For patients switching from once-daily insulin glargine 300 units/mL or twice-daily NPH insulin to ONSWIK, use 80% of the total daily insulin glargine or NPH insulin dosage when calculating ONSWIK dosages.
+
+                                  |
+
+                                    Weekly Dosage
+                                  |
+
+                                    Dosage Calculation (units)
+
+                                       a
+
+                                  |
+
+                                    Important Considerations
+                                  |
+
+                                 First week
+ |
+
+                                    One-Time Starting Dose:
+
+Multiply the total daily basalb
+                                     insulin dosage by 7, then multiply by 3.
+ |
+
+                                    The One-Time Starting Dose is only administered during the first week.
+                                  |
+
+                                    For patients who have FBG values less than or equal to 120 mg/dL on daily basal insulin:
+
+Consider omitting the One-Time Starting Dose. Instead, the first week dose is the total daily basal
+
+                                       b
+                                     insulin dosage multiplied by 7
+ |
+
+                                    If the One-Time Starting Dose is omitted:
+
+                                       Transient hyperglycemia may occur and last 4 to 6 weeks.
+
+                                  |
+
+                                 Second week
+ |
+                                 Multiply the previous total daily basal
+
+                                       b
+                                     insulin dosage by 7
+ |
+
+                                    Do not repeat the One-Time Starting Dose.
+                                  |
+
+                                 Third and subsequent weeks
+ |
+                                 Adjust the ONSWIK dosage by 20 units to 40 units per week, as necessary based on the fasting glycemic goal.
+ |
+
+                                    If the One-Time Starting Dose was omitted:
+
+                                       Do not adjust the weekly dosage of ONSWIK until FBG levels have stabilized.
+
+                                       If the FBG level is stable and remains above the goal, the dosage may be adjusted, as necessary based on the patient's fasting glycemic goal.
+
+                                  |

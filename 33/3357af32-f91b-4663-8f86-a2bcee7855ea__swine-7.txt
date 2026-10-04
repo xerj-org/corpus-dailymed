@@ -1,0 +1,9 @@
+DailyMed 3357af32-f91b-4663-8f86-a2bcee7855ea | ExcenelRTU EZ | Swine:
+
+Radiolabeled residue metabolism studies established tolerances for ceftiofur residues in swine kidney, liver and muscle. The tolerances for ceftiofur residues are 0.25 ppm in kidney, 3 ppm in liver and 2 ppm in muscle.
+
+A pivotal tissue residue decline study was conducted in swine. In this study, pigs received 2.27 mg of ceftiofur per lb body weight (5 mg of ceftiofur per kg body weight) per day for three consecutive days with an injection volume of 5 mL per site. Ceftiofur residues in edible tissues were less than the tolerances for ceftiofur at 4 days after dosing.
+
+A second pivotal tissue residue decline study was conducted in large swine. In this study, animals received 3 consecutive once daily doses of EXCENEL RTU EZ Sterile Suspension by intramuscular injection at a dose rate of 2.27 mg of ceftiofur per lb body weight (5 mg CFAE/kg BW) with a maximum injection volume of 15 mL per injection site. Ceftiofur residues in tissues were below the tolerance in kidney by 6 days after dosing.
+
+Collectively, the data from these two studies support a 4-day pre-slaughter withdrawal period in swine receiving injection site volumes less than or equal to 5 mL and a 6-day withdrawal period when receiving injection site volumes greater than 5 mL up to 15 mL per injection site.

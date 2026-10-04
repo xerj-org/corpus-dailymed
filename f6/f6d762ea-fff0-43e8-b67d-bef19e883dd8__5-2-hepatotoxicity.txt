@@ -1,0 +1,3 @@
+DailyMed f6d762ea-fff0-43e8-b67d-bef19e883dd8 | Temozolomide | 5.2 Hepatotoxicity
+
+Fatal and severe hepatotoxicity have been reported in patients receiving temozolomide. Perform liver tests at baseline, midway through the first cycle, prior to each subsequent cycle, and approximately two to four weeks after the last dose of temozolomide.

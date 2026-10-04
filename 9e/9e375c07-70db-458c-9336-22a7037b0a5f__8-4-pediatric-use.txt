@@ -1,0 +1,21 @@
+DailyMed 9e375c07-70db-458c-9336-22a7037b0a5f | montelukast sodium | 8.4 Pediatric Use
+
+Safety and effectiveness of montelukast sodium for asthma have been established in pediatric 6 to 14 years of age. Use of montelukast sodium for this indication is supported by evidence from well-controlled studies. Safety and efficacy data in this age group are similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology, Specific Populations (12.3), and Clinical Studies (14.1, 14.2)].
+
+                        The effectiveness of montelukast sodium for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 2 years to 14 years of age have been established and is supported by extrapolation from the demonstrated effectiveness in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug's effect are substantially similar among these populations.
+
+                        The safety of montelukast sodium 4-mg chewable tablets in pediatric patients 2 to 5 years of age with asthma has been demonstrated by adequate and well-controlled data [see Adverse Reactions (6.1)]. Effectiveness of montelukast sodium in this age group is extrapolated from the demonstrated effectiveness in patients 6 years of age and older with asthma and is based on similar pharmacokinetic data, as well as the assumption that the disease course, pathophysiology and the drug's effect are substantially similar among these populations. Effectiveness in this age group is supported by exploratory efficacy assessments from a large, well-controlled safety study conducted in patients 2 to 5 years of age.
+
+                        The safety of montelukast sodium 4-mg and 5-mg chewable tablets in pediatric patients aged 2 to 14 years with allergic rhinitis is supported by data from studies conducted in pediatric patients aged 2 to 14 years with asthma. A safety study in pediatric patients 2 to 14 years of age with seasonal allergic rhinitis demonstrated a similar safety profile [see Adverse Reactions (6.1)].
+
+                        The safety and effectiveness in pediatric patients below the age of 12 months with asthma, 6 months with perennial allergic rhinitis, and 6 years with exercise-induced bronchoconstriction have not been established.
+
+                           Growth Rate in Pediatric Patients
+
+                        A 56-week, multi-center, double-blind, randomized, active- and placebo-controlled parallel group study was conducted to assess the effect of montelukast sodium on growth rate in 360 patients with mild asthma, aged 6 to 8 years. Treatment groups included montelukast sodium 5 mg once daily, placebo, and beclomethasone dipropionate administered as 168 mcg twice daily with a spacer device. For each subject, a growth rate was defined as the slope of a linear regression line fit to the height measurements over 56 weeks. The primary comparison was the difference in growth rates between montelukast sodium and placebo groups. Growth rates, expressed as least-squares (LS) mean (95% CI) in cm/year, for the montelukast sodium, placebo, and beclomethasone treatment groups were 5.67 (5.46, 5.88), 5.64 (5.42, 5.86), and 4.86 (4.64, 5.08), respectively. The differences in growth rates, expressed as least-squares (LS) mean (95% CI) in cm/year, for montelukast sodium minus placebo, beclomethasone minus placebo, and montelukast sodium minus beclomethasone treatment groups were 0.03 (-0.26, 0.31), -0.78 (-1.06, -0.49); and 0.81 (0.53, 1.09), respectively. Growth rate (expressed as mean change in height over time) for each treatment group is shown in FIGURE 1.
+
+                           Figure 1: Change in Height (cm) from Randomization Visit by Scheduled Week
+
+                           (Treatment Group Mean ± Standard Error* of the Mean)
+
+                        *The standard errors of the treatment group means in change in height are too small to be visible on the plot

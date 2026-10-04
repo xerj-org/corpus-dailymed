@@ -1,0 +1,7 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 5.5 Clostridioides difficile Infection
+
+Clostridioides difficile (C. difficile) infection (CDI) has been reported with the use of nearly all antibacterial agents, including UTEBZI, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal microbiota of the colon leading to overgrowth of C. difficile.
+
+                           C. difficile produces toxins A and B which contribute to the development of CDI. CDI is associated with increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDI must be considered in all patients who present with diarrhea following antibacterial use. Careful medical history is necessary since CDI has been reported to occur over 2 months after the administration of antibacterial agents.
+
+                        Consider discontinuation of ongoing antibacterial use not directed against C. difficile if CDI is suspected or confirmed. Institute appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation as clinically indicated.

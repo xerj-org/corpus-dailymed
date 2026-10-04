@@ -1,0 +1,23 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Other Adverse Reactions
+
+Less common adverse reactions in ELIQUIS-treated patients in the AMPLIFY or AMPLIFY-EXT studies occurring at a frequency of ≥0.1% to <1%:
+
+                                       Blood and lymphatic system disorders:hemorrhagic anemia
+
+                                       Gastrointestinal disorders:hematochezia, hemorrhoidal hemorrhage, gastrointestinal hemorrhage, hematemesis, melena, anal hemorrhage
+
+                                       Injury, poisoning, and procedural complications:wound hemorrhage, postprocedural hemorrhage, traumatic hematoma, periorbital hematoma
+
+                                       Musculoskeletal and connective tissue disorders:muscle hemorrhage
+
+                                       Reproductive system and breast disorders:vaginal hemorrhage, metrorrhagia, menometrorrhagia, genital hemorrhage
+
+                                       Vascular disorders: hemorrhage
+
+                                       Skin and subcutaneous tissue disorders:ecchymosis, skin hemorrhage, petechiae
+
+                                       Eye disorders:conjunctival hemorrhage, retinal hemorrhage, eye hemorrhage
+
+                                       Investigations:blood urine present, occult blood positive, occult blood, red blood cells urine positive
+
+                                       General disorders and administration-site conditions:injection-site hematoma, vessel puncture-site hematoma

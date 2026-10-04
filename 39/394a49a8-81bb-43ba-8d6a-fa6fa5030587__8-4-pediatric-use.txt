@@ -1,0 +1,7 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 8.4 Pediatric Use
+
+Neonates with a history of in utero exposure to ramipril
+
+  If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion. Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function. Ramipril, which crosses the placenta, can be removed from the neonatal circulation by these means, but limited experience has not shown that such removal is central to the treatment of these infants.
+
+  Safety and effectiveness in pediatric patients have not been established. Irreversible kidney damage has been observed in very young rats given a single dose of ramipril.

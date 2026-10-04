@@ -1,0 +1,17 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 14.2 Bipolar Disorder
+
+Adults
+
+                        The effectiveness of lamotrigine in the maintenance treatment of bipolar I disorder was established in 2 multicenter, double-blind, placebo-controlled trials in adult patients (aged 18 to 82 years) who met DSM-IV criteria for bipolar I disorder. Trial 1 enrolled patients with a current or recent (within 60 days) depressive episode as defined by DSM-IV and Trial 2 included patients with a current or recent (within 60 days) episode of mania or hypomania as defined by DSM-IV. Both trials included a cohort of patients (30% of 404 subjects in Trial 1 and 28% of 171 patients in Trial 2) with rapid cycling bipolar disorder (4 to 6 episodes per year).
+
+                        In both trials, patients were titrated to a target dose of 200 mg of lamotrigine as add-on therapy or as monotherapy with gradual withdrawal of any psychotropic medications during an 8- to 16-week open-label period. Overall 81% of 1,305 patients participating in the open-label period were receiving 1 or more other psychotropic medications, including benzodiazepines, selective serotonin reuptake inhibitors (SSRIs), atypical antipsychotics (including olanzapine), valproate, or lithium, during titration of lamotrigine. Patients with a CGI-severity score of 3 or less maintained for at least 4 continuous weeks, including at least the final week on monotherapy with lamotrigine, were randomized to a placebo-controlled double-blind treatment period for up to 18 months. The primary endpoint was TIME (time to intervention for a mood episode or one that was emerging, time to discontinuation for either an adverse event that was judged to be related to bipolar disorder, or for lack of efficacy). The mood episode could be depression, mania, hypomania, or a mixed episode.
+
+                        In Trial 1, patients received double-blind monotherapy with lamotrigine 50 mg/day (n = 50), lamotrigine 200 mg/day (n = 124), lamotrigine 400 mg/day (n = 47), or placebo (n = 121). Lamotrigine (200-and 400-mg/day treatment groups combined) was superior to placebo in delaying the time to occurrence of a mood episode (Figure 1). Separate analyses of the 200- and 400-mg/day dose groups revealed no added benefit from the higher dose.
+
+                        In Trial 2, patients received double-blind monotherapy with lamotrigine (100 to 400 mg/day, n = 59), or placebo (n = 70). Lamotrigine was superior to placebo in delaying time to occurrence of a mood episode (Figure 2). The mean dose of lamotrigine was about 211 mg/day.
+
+                        Although these trials were not designed to separately evaluate time to the occurrence of depression or mania, a combined analysis for the 2 trials revealed a statistically significant benefit for lamotrigine over placebo in delaying the time to occurrence of both depression and mania, although the finding was more robust for depression.
+
+                           Figure 1: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trial 1)
+
+                           Figure 2: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trial 2)

@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 7.8 Probenecid and Cimetidine
+
+No significant effect of probenecid or cimetidine on the Cmax of levofloxacin was observed in a clinical study involving healthy volunteers. The AUC and t1/2 of levofloxacin were higher while CL/F and CLR were lower during concomitant treatment of levofloxacin with probenecid or cimetidine compared to levofloxacin alone. However, these changes do not warrant dosage adjustment for levofloxacin when probenecid or cimetidine is co-administered.

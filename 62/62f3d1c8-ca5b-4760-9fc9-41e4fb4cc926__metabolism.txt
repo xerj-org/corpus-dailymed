@@ -1,0 +1,3 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Metabolism
+
+Levetiracetam is not extensively metabolized in humans. The major metabolic pathway is the enzymatic hydrolysis of the acetamide group, which produces the carboxylic acid metabolite, ucb L057 (24% of dose) and is not dependent on any liver cytochrome P450 isoenzymes. The major metabolite is inactive in animal seizure models. Two minor metabolites were identified as the product of hydroxylation of the 2-oxo-pyrrolidine ring (2% of dose) and opening of the 2-oxo-pyrrolidine ring in position 5 (1% of dose). There is no enantiomeric interconversion of levetiracetam or its major metabolite.

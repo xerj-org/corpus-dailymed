@@ -1,0 +1,3 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Geriatric Use
+
+Patients over 65 years of age are likely to develop higher plasma concentrations of felodipine (see CLINICAL PHARMACOLOGY). In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range (2.5 mg daily). Elderly patients should have their blood pressure closely monitored during any dosage adjustment.

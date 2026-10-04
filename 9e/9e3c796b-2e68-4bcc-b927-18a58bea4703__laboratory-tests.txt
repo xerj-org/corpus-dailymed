@@ -1,0 +1,7 @@
+DailyMed 9e3c796b-2e68-4bcc-b927-18a58bea4703 | Carbidopa-levodopa | Laboratory Tests
+
+Abnormalities in laboratory tests may include elevations of liver function tests such as alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase (LDH), and bilirubin. Abnormalities in blood urea nitrogen (BUN) and positive Coombs test have also been reported. Commonly, levels of blood urea nitrogen, creatinine, and uric acid are lower during administration of carbidopa and levodopa than with levodopa.
+
+                        Carbidopa and levodopa tablets may cause a false-positive reaction for urinary ketone bodies when a test tape is used for determination of ketonuria. This reaction will not be altered by boiling the urine specimen. False-negative tests may result with the use of glucose-oxidase methods of testing for glucosuria.
+
+                        Cases of falsely diagnosed pheochromocytoma in patients on carbidopa and levodopa therapy have been reported very rarely. Caution should be exercised when interpreting the plasma and urine levels of catecholamines and their metabolites in patients on levodopa or carbidopa and levodopa therapy.

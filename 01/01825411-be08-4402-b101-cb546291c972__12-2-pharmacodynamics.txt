@@ -1,0 +1,356 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 12.2 Pharmacodynamics
+
+The ED95 (dose required to produce 95% suppression of the first [T1] mechanomyographic [MMG] response of the adductor pollicis muscle [thumb] to indirect supramaximal train-of-four stimulation of the ulnar nerve) during opioid/nitrous oxide/oxygen anesthesia is approximately 0.3 mg/kg. Patient variability around the ED95 dose suggests that 50% of patients will exhibit T1 depression of 91% to 97%.
+
+                           Table 4 presents intubating conditions in patients with intubation initiated at 60 to 70 seconds.
+
+                           Table 4: Percent of Excellent or Good Intubating Conditions and Median (Range) Time to Completion of Intubation in Patients with Intubation Initiated at 60 to 70 Seconds
+
+                                       * Excludes patients undergoing Cesarean section.
+
+                                  |
+
+                                       † Pediatric patients were under halothane anesthesia.
+
+                                  |
+
+                                    Rocuronium Bromide Dose (mg/kg) Administered over 5 sec
+                                  |
+
+                                    Percent of Patients with Excellent or Good Intubating Conditions
+                                  |
+
+                                    Time to Completion of Intubation (min)
+                                  |
+
+                                 Adults* 18 to 64 yrs
+
+0.45 (n=43)
+
+0.6 (n=51)
+ |
+
+86%
+
+96%
+ |
+
+1.6 (1.0 to 7.0)
+
+1.6 (1.0 to 3.2)
+ |
+
+                                 Infants† 3 mo to 1 yr
+
+0.6 (n=18)
+
+Pediatric† 1 to 12 yrs
+
+0.6 (n=12)
+ |
+
+100%
+
+100%
+ |
+
+1.0 (1.0 to 1.5)
+
+1.0 (0.5 to 2.3)
+ |
+
+                        Excellent intubating conditions=jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement.
+
+                        Good intubating conditions=same as excellent but with some diaphragmatic movement.
+
+                           Table 5 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under opioid/nitrous oxide/oxygen anesthesia in adults and geriatric patients, and under halothane anesthesia in pediatric patients.
+
+                           Table 5: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Opioid/Nitrous Oxide/Oxygen Anesthesia (Adults) and Halothane Anesthesia (Pediatric Patients)
+
+                                    n=the number of patients who had time to maximum block recorded.
+
+                                  |
+
+                                    Clinical duration=time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery.
+
+                                  |
+
+                                    Rocuronium Bromide Dose (mg/kg) Administered over 5 sec
+                                  |
+
+                                    Time to ≥80% Block (min)
+                                  |
+
+                                    Time to Maximum Block (min)
+                                  |
+
+                                    Clinical Duration (min)
+                                  |
+
+                                 Adults 18 to 64 yrs
+
+0.45 (n=50)
+
+0.6 (n=142)
+
+0.9 (n=20)
+
+1.2 (n=18)
+ |
+
+1.3 (0.8 to 6.2)
+
+1.0 (0.4 to 6.0)
+
+1.1 (0.3 to 3.8)
+
+0.7 (0.4 to 1.7)
+ |
+
+3.0 (1.3 to 8.2)
+
+1.8 (0.6 to 13.0)
+
+1.4 (0.8 to 6.2)
+
+1.0 (0.6 to 4.7)
+ |
+
+22 (12 to 31)
+
+31 (15 to 85)
+
+58 (27 to 111)
+
+67 (38 to 160)
+ |
+
+                                 Geriatric ≥65 yrs
+
+0.6 (n=31)
+
+0.9 (n=5)
+
+1.2 (n=7)
+ |
+
+2.3 (1.0 to 8.3)
+
+2.0 (1.0 to 3.0)
+
+1.0 (0.8 to 3.5)
+ |
+
+3.7 (1.3 to 11.3)
+
+2.5 (1.2 to 5.0)
+
+1.3 (1.2 to 4.7)
+ |
+
+46 (22 to 73)
+
+62 (49 to 75)
+
+94 (64 to 138)
+ |
+
+                                 Infants 3 mo to 1 yr
+
+0.6 (n=17)
+
+0.8 (n=9)
+ |
+
+_
+
+_
+ |
+
+0.8 (0.3 to 3.0)
+
+0.7 (0.5 to 0.8)
+ |
+
+41 (24 to 68)
+
+40 (27 to 70)
+ |
+
+                                 Pediatric 1 to 12 yrs
+
+0.6 (n=27)
+
+0.8 (n=18)
+ |
+
+0.8 (0.4 to 2.0)
+
+_
+ |
+
+1.0 (0.5 to 3.3)
+
+0.5 (0.3 to 1.0)
+ |
+
+26 (17 to 39)
+
+30 (17 to 56)
+ |
+
+                           Table 6 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
+
+                           Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
+
+                                    n=the number of patients with the highest number of observations for time to maximum block or reappearance T3.
+
+                                  |
+
+                                    Rocuronium Bromide Dose (mg/kg) Administered over 5 sec
+                                  |
+
+                                    Time to Maximum Block (min)
+                                  |
+
+                                    Time to Reappearance T
+
+                                       3
+
+                                    (min)
+                                  |
+
+                                 Neonates birth to <28 days
+
+0.45 (n=5)
+
+0.6 (n=10)
+
+1 (n=6)
+ |
+
+1.1 (0.6 to 2.2)
+
+1.0 (0.2 to 2.1)
+
+0.6 (0.3 to 1.8)
+ |
+
+40.3 (32.5 to 62.6)
+
+49.7 (16.6 to 119.0)
+
+114.4 (92.6 to 136.3)
+ |
+
+                                 Infants 28 days to ≤3 mo
+
+0.45 (n=9)
+
+0.6 (n=11)
+
+1 (n=5)
+ |
+                                 0.5 (0.4 to 1.3)
+
+0.4 (0.2 to 0.8)
+
+0.3 (0.2 to 0.7)
+ |
+                                 49.1 (13.5 to 79.9)
+
+59.8 (32.3 to 87.8)
+
+103.3 (90.8 to 155.4)
+ |
+
+                                 Toddlers >3 mo to ≤2 yrs
+
+0.45 (n=17)
+
+0.6 (n=29)
+
+1 (n=15)
+ |
+
+0.8 (0.3 to 1.9)
+
+0.6 (0.2 to 1.6)
+
+0.5 (0.2 to 1.5)
+ |
+
+39.2 (16.9 to 59.4)
+
+44.2 (18.9 to 68.8)
+
+72.0 (36.2 to 128.2)
+ |
+
+                                 Children >2 yrs to ≤11 yrs
+
+0.45 (n=14)
+
+0.6 (n=37)
+
+1 (n=16)
+ |
+                                 0.9 (0.4 to 1.9)
+
+0.8 (0.3 to 1.7)
+
+0.7 (0.4 to 1.2)
+ |
+                                 21.5 (17.5 to 38.0)
+
+36.7 (20.1 to 65.9)
+
+53.1 (31.2 to 89.9)
+ |
+
+                                 Adolescents >11 to ≤17 yrs
+
+0.45 (n=18)
+
+0.6 (n=31)
+
+1 (n=14)
+ |
+
+1.0 (0.5 to 1.7)
+
+0.9 (0.2 to 2.1)
+
+0.7 (0.5 to 1.2)
+ |
+
+37.5 (18.3 to 65.7)
+
+41.4 (16.3 to 91.2)
+
+67.1 (25.6 to 93.8)
+ |
+
+                        The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
+
+                           Figure 1: Time to 80% or Greater Block vs. Initial Dose of Rocuronium Bromide by Age Group (Median, 25th and 75th Percentile, and Individual Values)
+
+                           Figure 2: Duration of Clinical Effect vs. Initial Dose of Rocuronium Bromide by Age Group (Median, 25th and 75th Percentile, and Individual Values)
+
+                        The clinical durations for the first 5 maintenance doses, in patients receiving 5 or more maintenance doses are represented in Figure 3
+
+                           [see Dosage and Administration (2.4)].
+
+                           Figure 3: Duration of Clinical Effect vs. Number of Rocuronium Bromide Maintenance Doses, by Dose
+
+                        Once spontaneous recovery has reached 25% of control T1, the neuromuscular block produced by rocuronium bromide is readily reversed with anticholinesterase agents, e.g., edrophonium or neostigmine.
+
+                        The median spontaneous recovery from 25% to 75% T1 was 13 minutes in adult patients. When neuromuscular block was reversed in 36 adults at a T1 of 22% to 27%, recovery to a T1 of 89 (50 to 132)% and T4/T1 of 69 (38 to 92)% was achieved within 5 minutes. Only 5 of 320 adults reversed received an additional dose of reversal agent. The median (range) dose of neostigmine was 0.04 (0.01 to 0.09) mg/kg and the median (range) dose of edrophonium was 0.5 (0.3 to 1.0) mg/kg.
+
+                        In geriatric patients (n=51) reversed with neostigmine, the median T4/T1 increased from 40% to 88% in 5 minutes.
+
+                        In clinical trials with halothane, pediatric patients (n=27) who received 0.5 mg/kg edrophonium had increases in the median T4/T1 from 37% at reversal to 93% after 2 minutes. Pediatric patients (n=58) who received 1 mg/kg edrophonium had increases in the median T4/T1 from 72% at reversal to 100% after 2 minutes. Infants (n=10) who were reversed with 0.03 mg/kg neostigmine recovered from 25% to 75% T1 within 4 minutes.
+
+                        There were no reports of less than satisfactory clinical recovery of neuromuscular function.
+
+                        The neuromuscular blocking action of rocuronium bromide may be enhanced in the presence of potent inhalation anesthetics [see Drug Interactions (7.3)].

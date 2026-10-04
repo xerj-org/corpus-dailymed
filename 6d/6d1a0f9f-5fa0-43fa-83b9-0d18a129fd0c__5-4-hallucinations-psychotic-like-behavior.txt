@@ -1,0 +1,9 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 5.4 Hallucinations/Psychotic-Like Behavior
+
+In double-blind, placebo-controlled, early-therapy trials in patients with Parkinson’s disease who were not treated with L-dopa, 5.2% (8 of 157) of patients treated with ropinirole tablets reported hallucinations, compared with 1.4% of patients on placebo (2 of 147). Among those patients receiving both ropinirole tablets and L-dopa in advanced Parkinson’s disease trials, 10.1% (21 of 208) were reported to experience hallucinations, compared with 4.2% (5 of 120) of patients treated with placebo and L-dopa.
+
+                        The incidence of hallucination was increased in elderly patients (i.e., older than 65 years) treated with extended-release ropinirole tablets [see Use in Specific Populations (8.5)].
+
+                        Postmarketing reports indicate that patients with Parkinson’s disease or RLS may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with ropinirole tablets or after starting or increasing the dose of ropinirole tablets. Other drugs prescribed to improve the symptoms of Parkinson’s disease or RLS can have similar effects on thinking and behavior. This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, symptoms of mania (e.g., insomnia, psychomotor agitation), disorientation, aggressive behavior, agitation, and delirium.
+
+                        Patients with a major psychotic disorder should ordinarily not be treated with ropinirole tablets because of the risk of exacerbating the psychosis. In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson’s disease and may decrease the effectiveness of ropinirole tablets [see Drug Interactions (7.3)].

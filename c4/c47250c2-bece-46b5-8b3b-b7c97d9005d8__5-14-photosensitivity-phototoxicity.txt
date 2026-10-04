@@ -1,0 +1,3 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.14 Photosensitivity/Phototoxicity
+
+Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, "V" area of the neck, exteensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones including ciprofloxacin after sun or UV light exposure. Therefore, avoid excessive exposure to these sources of light. Discontinue ciprofloxacin if phototoxicity occurs [see Adverse Reactions (6.1)].

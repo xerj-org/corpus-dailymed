@@ -1,0 +1,11 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 1.2 Advanced or Metastatic Breast Cancer
+
+VERZENIO (abemaciclib) is indicated:
+
+                           in combination with an aromatase inhibitor as initial endocrine-based therapy for the treatment of adults with HR-positive, HER2-negative advanced or metastatic breast cancer.
+
+                           in combination with fulvestrant for the treatment of adults with HR-positive, HER2-negative advanced or metastatic breast cancer with disease progression following endocrine therapy.
+
+                              in combination with imlunestrant for the treatment of adults with estrogen receptor (ER)-positive, HER2-negative, estrogen receptor-1 (ESR1)-mutated advanced or metastatic breast cancer, as detected by an FDA authorized test, with disease progression following at least one line of endocrine therapy [see Dosage and Administration (2.1)].
+
+                           as monotherapy for the treatment of adults with HR-positive, HER2-negative advanced or metastatic breast cancer with disease progression following endocrine therapy and prior chemotherapy in the metastatic setting.

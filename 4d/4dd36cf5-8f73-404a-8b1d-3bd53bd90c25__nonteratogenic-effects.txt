@@ -1,0 +1,7 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Nonteratogenic Effects
+
+Fetal/Neonatal Adverse Reactions
+
+                              Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+
+                              Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight. The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn. Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see WARNINGS].

@@ -1,0 +1,5 @@
+DailyMed 5c52ea35-c2be-b462-e063-6294a90a19c1 | Trazodone Hydrochloride | 12.2 Pharmacodynamics
+
+Preclinical studies have shown that trazodone selectively inhibits neuronal reuptake of serotonin (Ki = 367 nM) and acts as an antagonist at 5-HT-2A (Ki = 35.6 nM) serotonin receptors. Trazodone is also an antagonist at several other monoaminergic receptors including 5-HT2B (Ki = 78.4 nM), 5-HT2C (Ki = 224 nM), α1A (Ki = 153 nM), α2C (Ki = 155 nM) receptors and it is a partial agonist at 5-HT1A (Ki = 118 nM) receptor.
+
+                        Trazodone antagonizes alpha 1-adrenergic receptors, a property which may be associated with postural hypotension.

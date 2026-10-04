@@ -1,0 +1,3 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 8.6 Hepatic Impairment
+
+In patients with hepatic impairment (Child-Pugh Class A, B, or C) exposure to omeprazole substantially increased compared to healthy subjects. Avoid use of omeprazole and sodium bicarbonate in patients with hepatic impairment for maintenance of healing of erosive esophagitis [see Clinical Pharmacology (12.3)].

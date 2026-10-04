@@ -1,0 +1,5 @@
+DailyMed 14869f9e-6a66-4f75-b0fc-4d808b1ee85e | Diltiazem Hydrochloride | Pregnancy
+
+Reproduction studies have been conducted in mice, rats, and rabbits. Administration of doses ranging from five to ten times greater (on a mg/kg basis) than the daily recommended therapeutic dose has resulted in embryo and fetal lethality. These doses, in some studies, have been reported to cause skeletal abnormalities. In the perinatal/postnatal studies, there was some reduction in early individual pup weights and survival rates. There was an increased incidence of stillbirths at doses of 20 times the human dose or greater.
+
+                        There are no well-controlled studies in pregnant women; therefore, use diltiazem in pregnant women only if the potential benefit justifies the potential risk to the fetus.

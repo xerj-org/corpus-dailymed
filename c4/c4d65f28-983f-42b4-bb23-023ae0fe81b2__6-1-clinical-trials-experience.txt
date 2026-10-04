@@ -1,0 +1,3 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 6.1 Clinical Trials Experience
+
+Clinical trials are conducted under widely varying conditions; therefore, adverse reactions observed in the clinical trials of a drug cannot be directly compared to the incidence in the clinical trials of another drug and may not reflect the incidence observed in clinical practice.

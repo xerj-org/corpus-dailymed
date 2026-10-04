@@ -1,0 +1,5 @@
+DailyMed c54baaee-8ea4-45f5-a5c8-bb84cf86832f | Methadone Hydrochloride | 8.5 Geriatric Use
+
+Clinical studies of methadone did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently compared to younger subjects. Other reported clinical experience has not identified differences in responses between elderly and younger patients. In general, start elderly at the low end of the dosing range, taking into account the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in geriatric patients. Closely monitor elderly patients for signs of respiratory and central nervous system depression.
+
+                        Methadone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

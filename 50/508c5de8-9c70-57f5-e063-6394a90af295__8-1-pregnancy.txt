@@ -1,0 +1,33 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 8.1 Pregnancy
+
+Risk Summary
+
+                        PREXXARTAN™ can cause fetal harm when administered to a pregnant woman. Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. Published reports include cases of anhydramnios and oligohydramnios in pregnant women treated with valsartan
+  (see Clinical Considerations). Studies in rats and rabbits with valsartan showed fetotoxicity only at maternally toxic doses
+  (see Data).
+
+                        When pregnancy is detected, consider alternative drug treatment and discontinue PREXXARTAN™ as soon as possible.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4%, and 15 to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Disease-associated maternal and/or embryo/fetal risk
+
+                        Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage). Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death. Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+                           Fetal/Neonatal Adverse Reactions
+
+                        Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia, skeletal deformations, including skull hypoplasia, hypotension and death. In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+
+                        In patients taking PREXXARTAN™ during pregnancy, perform serial ultrasound examinations to assess the intra-amniotic environment. Fetal testing may be appropriate, based on the week of gestation. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury. If oligohydramnios is observed, consider alternative drug treatment. Closely observe neonates with histories of in utero exposure to PREXXARTAN™ for hypotension, oliguria, and hyperkalemia. In neonates with a history of in utero exposure to PREXXARTAN™, if oliguria or hypotension occurs, support blood pressure and renal perfusion. Exchange transfusions or dialysis may be required as a means of reversing hypotension and replacing renal function.
+
+                           Data
+
+                           Animal Data
+
+                        No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600
+
+                        mg/kg/day (9 and 18 times the maximum recommended human dose (MRHD) on a mg/m2 basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
+
+                        In rats, oral valsartan administered at maternally toxic doses (600 mg/kg/day) during organogenesis or late gestation and lactation, resulted in decreased fetal and pup weight, pup survival and delayed developmental milestones. In rabbits administered maternally toxic doses of 5 and 10 mg/kg/day, fetotoxicity was observed.

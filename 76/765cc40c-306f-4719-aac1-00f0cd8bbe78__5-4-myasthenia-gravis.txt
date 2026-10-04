@@ -1,0 +1,9 @@
+DailyMed 765cc40c-306f-4719-aac1-00f0cd8bbe78 | Dicyclomine hydrochloride | 5.4 Myasthenia Gravis
+
+With overdosage, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis). It should not be given to patients with myasthenia gravis except to reduce adverse muscarinic effects of an anticholinesterase
+
+  [see Contraindications (
+
+   4)]
+
+  .

@@ -1,0 +1,9 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.14 Reversal of Neuromuscular Blocking Agents Other Than Rocuronium or Vecuronium
+
+Do not use Sugammadex Injection to reverse blockade induced by
+
+  nonsteroidalneuromuscular blocking agents such as succinylcholine or benzylisoquinolinium compounds.
+
+                        Do not use Sugammadex Injection to reverse neuromuscular blockade induced by
+
+  steroidalneuromuscular blocking agents other than rocuronium or vecuronium.

@@ -1,0 +1,3 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Central Nervous System Effects
+
+Chloroquine may increase the risk of convulsions in patients with a history of epilepsy.

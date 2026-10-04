@@ -1,0 +1,16 @@
+DailyMed 0961f83e-25e9-4ffc-8669-44e4e9169978 | Bupropion Hydrochloride | 8.5 Geriatric Use
+
+Of the approximately 6,000 subjects who participated in clinical trials with bupropion sustained-release tablets (depression and smoking cessation trials), 275 were aged ≥65 years and 47 were aged ≥75 years. In addition, several hundred subjects aged ≥65 years participated in clinical trials using the immediate-release formulation of bupropion (depression trials). No overall differences in safety or effectiveness were observed between these subjects and younger subjects. Reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+                         Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and excreted by the kidneys. The risk of adverse reactions may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [
+
+                              see Dosage and Administration (2.3)
+
+                           ,
+
+                              Use in Specific Populations (8.6)
+
+                           ,
+
+                              Clinical Pharmacology (12.3)]
+                           .

@@ -1,0 +1,11 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 1 INDICATIONS AND USAGE
+
+SCEMBLIX is indicated for the treatment of adult patients with:
+
+                     Newly diagnosed Philadelphia chromosome-positive chronic myeloid leukemia (Ph+ CML) in chronic phase (CP).
+
+This indication is approved under accelerated approval based on major molecular response rate [see Clinical Studies (14.1)]. Continued approval for this indication may be contingent upon verification of clinical benefit in a confirmatory trial(s).
+
+                     Previously treated Ph+ CML in CP.
+
+                     Ph+ CML in CP with the T315I mutation.

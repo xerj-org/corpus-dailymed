@@ -1,0 +1,57 @@
+DailyMed e4ea0c09-cdd1-4708-962c-6ba28b989df3 | Metronidazole | ADVERSE REACTIONS
+
+The following are the most serious adverse reactions reported in patients treated with metronidazole and are also described elsewhere in the labeling: convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy (characterized mainly by numbness or paresthesia of an extremity) (see
+                        WARNINGS
+                     ).
+
+                  The following adverse reactions associated with the use of metronidazole products were identified in clinical studies or postmarketing reports or published literature. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        Gastrointestinal:
+                      Nausea, anorexia, vomiting, abdominal discomfort, diarrhea, an unpleasant metallic taste, epigastric distress, abdominal cramping, constipation and pancreatitis.
+
+                        Mouth:
+                      A sharp metallic taste. Furry tongue, glossitis, and stomatitis have occurred; these may be associated with a sudden overgrowth of Candida which may occur during therapy with metronidazole.
+
+                        Hematopoietic:
+                      Reversible neutropenia (leukopenia); thrombocytopenia, eosinophilia.
+
+                        Hepatobiliary Disorders:
+                      Hepatotoxicity and liver failure especially in patients with Cockayne syndrome (see
+                        CONTRAINDICATIONS
+                     ), jaundice.
+
+                        Cardiovascular:
+                      QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval. Flattening of the T-wave may be seen in electrocardiographic tracings.
+
+                        Skin and Subcutaneous Disorders:
+                      Toxic epidermal necrolysis, Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), erythematous rash, bullae, pruritus, swelling face, urticaria, and hyperhidrosis.
+
+                        Central Nervous System:
+                      Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy (mainly numbness or paresthesia of an extremity), dizziness, vertigo, incoordination, ataxia, confusion, psychosis, dysarthria, irritability, depression, weakness, headache, tinnitus, hearing impairment, hearing loss, and insomnia.
+
+                        Laboratory Investigations:
+                      Hepatic enzymes increased.
+
+                        Hypersensitivity:
+                      Toxic epidermal necrolysis (TEN), Stevens-Johnson Syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP) (see WARNINGS), anaphylaxis, angioedema, hypotension, flushing, nasal congestion, and dryness of mouth (or vagina or vulva).
+
+                        Renal:
+                      Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure, and darkened urine.
+
+                        Hepatic:
+                      Cases of severe irreversible hepatotoxicity/acute liver failure, including cases with fatal outcomes with very rapid onset after initiation of systemic use of metronidazole, have been reported in patients with Cockayne Syndrome (latency from drug start to signs of liver failure as short as 2 days) (see
+                        CONTRAINDICATIONS
+                     ).
+
+                        Local Reactions:
+                      Thrombophlebitis after intravenous infusion. This reaction can be minimized or avoided by avoiding prolonged use of indwelling intravenous catheters.
+
+                        Other Adverse Reactions:
+                      Fever, hiccup, proliferation of Candida in the vagina, dyspareunia, decrease of libido, proctitis, and fleeting joint pains sometimes resembling “serum sickness”. If patients receiving metronidazole drink alcoholic beverages, they may experience abdominal distress, nausea, vomiting, flushing, or headache. A modification of the taste of alcoholic beverages has also been reported.
+
+                  Patients with Crohn's disease are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers. There have been some reports in the medical literature of breast and colon cancer in Crohn's disease patients who have been treated with metronidazole at high doses for extended periods of time. A cause and effect relationship has not been established. Crohn's disease is not an approved indication for Metronidazole Injection.
+
+                        Darkened Urine:
+                      Instances of darkened urine have also been reported, and this manifestation has been the subject of a special investigation. Although the pigment which is probably responsible for this phenomenon has not been positively identified, it is almost certainly a metabolite of metronidazole and seems to have no clinical significance.
+
+                     To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

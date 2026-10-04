@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Acute Withdrawal Reactions
+
+The continued use of benzodiazepines, including diazepam tablets, may lead to clinically significant physical dependence. Abrupt discontinuation or rapid dosage reduction of diazepam tablets after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).

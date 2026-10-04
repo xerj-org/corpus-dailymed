@@ -1,0 +1,7 @@
+DailyMed eaa15be7-11ea-49bc-ac07-739075453be6 | lidocaine | WARNINGS
+
+EXCESSIVE DOSAGE, OR SHORT INTERVALS BETWEEN DOSES, CAN RESULT IN HIGH PLASMA LEVELS AND SERIOUS ADVERSE EFFECTS, PATIENTS SHOULD BE INSTRUCTED TO STRICTLY ADHERE TO THE RECOMMENDED DOSAGE AND ADMINISTRATION GUIDELINES AS SET FORTH IN THIS PACKAGE INSERT.
+
+                  THE MANAGEMENT OF SERIOUS ADVERSE REACTIONS MAY REQUIRE THE USE OF RESUSCITATIVE EQUIPMENT, OXYGEN, AND OTHER RESUSCITATIVE DRUGS.
+
+                  Lidocaine ointment, 5% should be used with extreme caution in the presence of sepsis or severely traumatized mucosa in the area of application, since under such conditions there is the potential for rapid systemic absorption.

@@ -1,0 +1,3 @@
+DailyMed d68b79ab-3104-410e-a63f-9919a23625af | Ticagrelor | 1.3 Acute Ischemic Stroke or Transient Ischemic Attack (TIA)
+
+Ticagrelor tablet is indicated to reduce the risk of stroke in patients with acute ischemic stroke (NIH Stroke Scale score ≤5) or high-risk transient ischemic attack (TIA) [see Clinical Studies (14.3)].

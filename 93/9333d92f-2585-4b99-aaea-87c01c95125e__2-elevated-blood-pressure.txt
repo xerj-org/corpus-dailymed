@@ -1,0 +1,3 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | 2. Elevated blood pressure
+
+In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens. In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogens on blood pressure was not seen. Blood pressure should be monitored at regular intervals with estrogen use.

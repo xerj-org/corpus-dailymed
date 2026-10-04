@@ -1,0 +1,30 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 6.2 Postmarketing Experience
+
+The following additional adverse reactions have been identified during post approval use of imatinib mesylate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Blood and Lymphatic System Disorders: thrombotic microangiopathy
+
+                           Cardiac Disorders: pericarditis, cardiac tamponade1
+
+                           Eye Disorders: vitreous hemorrhage
+
+                           Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, GI perforation1
+                            [see Warnings and Precautions (
+
+                              5.6)], diverticulitis, gastric antral vascular ectasia
+
+                           Infections: hepatitis B virus reactivation1
+
+                           Musculoskeletal and Connective Tissue Disorders: osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain), bone marrow edema.
+
+                           Nervous System Disorders: cerebral edema1
+
+                           Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
+
+                           Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure1, interstitial lung disease
+
+                           Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria, pemphigus
+
+                           Vascular Disorders: thrombosis/embolism, anaphylactic shock
+
+                           1Including some fatalities.

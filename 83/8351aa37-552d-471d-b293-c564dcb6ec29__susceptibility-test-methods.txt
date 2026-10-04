@@ -1,0 +1,3 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Susceptibility Test Methods
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

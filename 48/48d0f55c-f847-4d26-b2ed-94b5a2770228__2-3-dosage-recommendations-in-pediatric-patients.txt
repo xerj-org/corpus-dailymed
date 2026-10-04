@@ -1,0 +1,13 @@
+DailyMed 48d0f55c-f847-4d26-b2ed-94b5a2770228 | Amphetamine Extended-Release | 2.3 Dosage Recommendations in Pediatric Patients
+
+The recommended starting dosage is 6.3 mg once daily in the morning. Increase in increments of 3.1 mg or 6.3 mg at weekly intervals. The maximum recommended dose is 18.8 mg daily for patients 6 to 12 years, and 12.5 mg daily for patients 13 to 17 years
+
+  [see Use in Specific Populations (
+
+                              8.3
+
+                           ), Clinical Studies (
+
+                              14
+
+                           )].

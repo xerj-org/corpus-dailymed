@@ -1,0 +1,3 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 12.5 Pharmacogenomics
+
+Disposition of rosuvastatin, involves OATP1B1 and other transporter proteins. Higher plasma concentrations of rosuvastatin have been reported in very small groups of patients (n=3 to 5) who have two reduced function alleles of the gene that encodes OATP1B1 (SLCO1B1 521T > C). The frequency of this genotype (i.e., SLCO1B1 521 C/C) is generally lower than 5% in most racial/ethnic groups. The impact of this polymorphism on efficacy and/or safety of CRESTOR has not been clearly established.

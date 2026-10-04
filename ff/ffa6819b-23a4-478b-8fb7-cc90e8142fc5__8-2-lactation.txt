@@ -1,0 +1,9 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 8.2 Lactation
+
+Risk Summary
+
+                        Based on published data, tofacitinib is present in human milk. Data on the effects of tofacitinib on the breastfed infant is limited to a small number of cases with no reported adverse effects. There are no data on the effects on milk production. Given the serious adverse reactions seen in patients treated with tofacitinib tablets, such as increased risk of serious infections, advise patients that breastfeeding is not recommended during treatment and for at least 18 hours after the last dose of tofacitinib tablets (approximately 6 elimination half-lives).
+
+                           Data
+
+                        Following administration of tofacitinib to lactating rats, concentrations of tofacitinib in milk over time paralleled those in serum and were approximately 2 times higher in milk relative to maternal serum at all time points measured.

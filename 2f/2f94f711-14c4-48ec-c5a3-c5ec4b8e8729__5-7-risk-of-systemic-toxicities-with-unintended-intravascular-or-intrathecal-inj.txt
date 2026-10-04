@@ -1,0 +1,21 @@
+DailyMed 2f94f711-14c4-48ec-c5a3-c5ec4b8e8729 | Lidocaine Hydrochloride and Epinephrine | 5.7 Risk of Systemic Toxicities with Unintended Intravascular or Intrathecal Injection
+
+Unintended intravascular or intrathecal injection of Lidocaine Hydrochloride and Epinephrine Injection may be associated with systemic toxicities, including CNS or cardiorespiratory depression and coma, progressing ultimately to respiratory arrest. Unintentional intrathecal injection during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column has resulted in underventilation or apnea ("Total or High Spinal"). A high spinal has been characterized by paralysis of the legs, loss of consciousness, respiratory paralysis, and bradycardia [see Adverse Reactions (6)].
+
+                        Aspirate for blood or cerebrospinal fluid (where applicable) before injecting Lidocaine Hydrochloride and Epinephrine Injection, both the initial dose and all subsequent doses, to avoid intravascular or intrathecal injection. However, a negative aspiration for blood or cerebrospinal fluid does not ensure against an intravascular or intrathecal injection.
+
+                           Use of Test Dose with Epidural Anesthesia
+
+                        To serve as a warning of unintended intravascular or intrathecal injection, 3 mL of Lidocaine Hydrochloride and Epinephrine Injection without antimicrobial preservative (1.5% lidocaine with 1:200,000 epinephrine) may be used as a test dose prior to administration of the full dose in caudal and lumbar epidural blocks [see Dosage and Administration (2.4)]. Three mL of Lidocaine Hydrochloride and Epinephrine Injection (1.5% lidocaine with 1:200,000 epinephrine) without antimicrobial preservative contains 45 mg lidocaine and 15 mcg epinephrine. An intravascular or intrathecal injection is still possible even if results of the test dose are negative.
+
+                        Signs/symptoms of unintended intravascular or intrathecal injection of the test dose of Lidocaine Hydrochloride and Epinephrine Injection and monitoring recommendations are described below.
+
+                              •
+
+Unintended intravascular injection: Likely to produce a transient “epinephrine response” within 45 seconds, consisting of an increase in heart rate and/or systolic blood pressure, circumoral pallor, palpitations, and nervousness in the unsedated patient. The sedated patient may exhibit only a pulse rate increase of 20 or more beats per minute for 15 or more seconds. Therefore, following the test dose, the heart rate should be monitored for increases. Patients on beta-blockers may not manifest changes in heart rate, but blood pressure monitoring can detect a transient rise in systolic blood pressure.
+
+                              •
+
+Unintended intrathecal injection: Evidenced within a few minutes by signs of spinal block (e.g., decreased sensation of the buttocks, paresis of the legs, or, in the sedated patient, absent knee jerk).
+
+                        The test dose itself may produce a systemic toxic reaction, high spinal or epinephrine-induced cardiovascular effects [see Overdosage (10)].

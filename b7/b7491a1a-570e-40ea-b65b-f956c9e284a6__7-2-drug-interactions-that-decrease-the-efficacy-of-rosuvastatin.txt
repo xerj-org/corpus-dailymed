@@ -1,0 +1,28 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 7.2 Drug Interactions that Decrease the Efficacy of Rosuvastatin
+
+Table 6 presents drug interactions that may decrease the efficacy of rosuvastatin and instructions for preventing or managing them.
+
+                           Table 6: Drug Interactions that Decrease the Efficacy of Rosuvastatin
+
+                                       Antacids
+
+                                  |
+
+                                       Clinical Impact:
+
+                                  |
+
+                                    Concomitant aluminum and magnesium hydroxide combination antacid administration decreased the mean exposure of rosuvastatin 50%
+      [see
+       Clinical Pharmacology (12.3)]
+      .
+
+                                  |
+
+                                       Intervention:
+
+                                  |
+
+                                    In patients taking antacid, administer rosuvastatin at least 2 hours before the antacid.
+
+                                  |

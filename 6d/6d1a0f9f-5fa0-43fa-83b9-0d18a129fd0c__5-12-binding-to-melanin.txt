@@ -1,0 +1,3 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 5.12 Binding to Melanin
+
+Ropinirole binds to melanin-containing tissues (e.g., eyes, skin) in pigmented rats. After a single dose, long-term retention of drug was demonstrated, with a half-life in the eye of 20 days.

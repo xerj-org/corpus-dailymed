@@ -1,0 +1,13 @@
+DailyMed f8b01c77-620d-4734-a771-b8524b65bcca | KETAMINE HYDROCHLORIDE | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+ Long-term animal studies have not been conducted to evaluate the carcinogenic potential of ketamine.
+
+ Mutagenesis
+
+ In a published report, ketamine was clastogenic in the in vitro chromosomal aberration assay.
+
+ Impairment of Fertility
+
+ Adequate studies to evaluate the impact of ketamine on male or female fertility have not been conducted. Male and female rats were treated with 10 mg/kg ketamine IV (0.8 times the average human induction dose of 2 mg/kg IV based on body surface area) on Days 11, 10, and 9 prior to mating. No impact on fertility was noted; however, this study design does not adequately characterize the impact of a drug on fertility endpoints.

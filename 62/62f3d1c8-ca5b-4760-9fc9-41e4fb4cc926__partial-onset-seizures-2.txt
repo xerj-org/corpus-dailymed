@@ -1,0 +1,5 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Partial-Onset Seizures
+
+In controlled clinical studies using an oral formulation of levetiracetam in adult patients with partial-onset seizures, minor but statistically significant decreases compared to placebo in total mean RBC (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients.
+
+                              A total of 3.2% of levetiracetam-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of levetiracetam-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count. Of the levetiracetam-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment. No patient was discontinued secondary to low neutrophil counts.

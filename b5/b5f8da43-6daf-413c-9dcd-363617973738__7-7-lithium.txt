@@ -1,0 +1,3 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 7.7 Lithium
+
+An increase in systemic exposure of lithium following topiramate doses of up to 600 mg/day can occur. Lithium levels should be monitored when co-administered with high-dose topiramate extended-release capsules [see Clinical Pharmacology (12.3)].

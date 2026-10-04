@@ -1,0 +1,41 @@
+DailyMed 98d4f767-06e3-4d9b-b1ad-4b31f7e36130 | PAROXETINE | 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
+
+In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients. There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied. There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD. The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 2.
+
+                           Table 2:
+                           Risk Differences of the Number of Patients with Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
+
+                                     
+                                    Age Range
+                                  |
+
+                                    Drug-Placebo Difference in Number of Patients with Suicidal Thoughts and Behaviors per 1,000 Patients Treated
+                                  |
+
+                                   |
+
+                                    Increases Compared to Placebo
+                                  |
+
+                                 <18 years old |
+                                 14 additional cases |
+
+                                 18 to 24 years old |
+                                 5 additional cases |
+
+                                   |
+
+                                    Decreases Compared to Placebo
+                                  |
+
+                                 25 to 64 years old |
+                                 1 fewer case |
+
+                                 ≥65 years old |
+                                 6 fewer cases |
+
+                        Paroxetine is not approved for use in pediatric patients.
+
+                        It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months. However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors. 
+
+                        Monitor all antidepressant-treated patients for any indication for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes. Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider. Consider changing the therapeutic regimen, including possibly discontinuing paroxetine, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.

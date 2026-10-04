@@ -1,0 +1,51 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 8.7 Renal Impairment
+
+The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 patients with cancer and varying degrees of renal impairment at single and steady state imatinib doses ranging from 100 to 800 mg/day. The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function. There are not sufficient data in patients with severe renal impairment
+
+  [see Clinical Pharmacology (
+
+   12.3)].
+
+  Dose reductions are necessary for patients with moderate and severe renal impairment
+
+  [see Dosage and Administration (
+
+   2.12)].
+
+                           Table 1: Renal Function Classification
+
+                                       Renal dysfunction
+
+                                  |
+
+                                       Renal function tests
+
+                                  |
+
+                                       Mild
+
+                                  |
+
+                                    CrCL = 40 to 59 mL/min
+
+                                  |
+
+                                       Moderate
+
+                                  |
+
+                                    CrCL = 20 to 39 mL/min
+
+                                  |
+
+                                       Severe
+
+                                  |
+
+                                    CrCL = less than 20 mL/min
+
+                                  |
+
+                                    Abbreviation: CrCL, creatinine clearance.
+
+                                  |

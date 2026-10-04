@@ -1,0 +1,113 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 14.2 Active Gastric Ulcer (GU)
+
+In both a U.S. and an international multicenter, double-blind trials in patients with endoscopically confirmed active GU, orally administered famotidine 40 mg at bedtime was compared to placebo. Antacids were permitted during the trials, but consumption was not significantly different between the famotidine and placebo groups.
+
+                        As shown in Table 7, the incidence of GU healing confirmed by endoscopy (dropouts counted as unhealed) with famotidine was greater than placebo at Weeks 6 and 8 in the U.S. trial, and at Weeks 4, 6 and 8 in the international trial.
+
+                        In these trials, most famotidine-treated patients healed within 6 weeks. Trials have not assessed the safety of famotidine in uncomplicated active GU for periods of more than 8 weeks.
+
+                           Table 7: Patients with Endoscopically Confirmed Healed Gastric Ulcers 
+
+                                    a p≤0.01 vs. placebo
+
+                                    b p≤0.05 vs. placebo
+
+                                  |
+
+                                  
+
+                                  |
+
+                                    U.S. Study (N=149)
+
+                                  |
+
+                                    International Study (N=294)
+
+                                  |
+
+                                  
+
+                                  |
+
+                                       Famotidine
+
+             40 mg at bedtime
+
+             (N=74)
+
+                                  |
+
+                                       Placebo
+
+             at bedtime
+
+             (N=75)
+
+                                  |
+
+                                       Famotidine
+
+             40 mg at bedtime
+
+             (N=149)
+
+                                  |
+
+                                       Placebo
+
+             at bedtime
+
+             (N=145)
+
+                                  |
+
+                                 Week 4
+
+                                  |
+                                 45%
+
+                                  |
+                                 39%
+
+                                  |
+                                 47%a
+
+                                  |
+                                 31%
+
+                                  |
+
+                                 Week 6
+
+                                  |
+                                 66%a
+
+                                  |
+                                 44%
+
+                                  |
+                                 65%a
+
+                                  |
+                                 46%
+
+                                  |
+
+                                 Week 8
+
+                                  |
+                                 78%ᵇ
+
+                                  |
+                                 64%
+
+                                  |
+                                 80%a
+
+                                  |
+                                 54%
+
+                                  |
+
+                        Time to complete relief of daytime and nighttime pain was statistically significantly shorter for patients receiving famotidine than for patients receiving placebo; however, neither trial demonstrated a statistically significant difference in the proportion of patients whose pain was relieved by the end of the trial (Week 8).

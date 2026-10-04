@@ -1,0 +1,295 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Bleeding in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE and AVERROES
+
+Tables 1 and 2 show the number of patients experiencing major bleeding during the treatment period and the bleeding rate (percentage of subjects with at least one bleeding event per 100 patient-years) in ARISTOTLE and AVERROES.
+
+                                       Table 1:     Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE*
+
+                                              |
+                                             ELIQUIS
+
+  N=9088
+
+  n (per 100 pt-year)
+     |
+                                             Warfarin
+
+  N=9052
+
+  n (per 100 pt-year)
+     |
+                                             Hazard Ratio
+
+  (95% CI)
+     |
+                                             P-value |
+
+                                                Major
+
+      †
+
+                                              |
+
+                                                327 (2.13)
+
+                                              |
+
+                                                462 (3.09)
+
+                                              |
+
+                                                0.69 (0.60, 0.80)
+
+                                              |
+
+                                                <0.0001
+
+                                              |
+
+                                                  Intracranial (ICH)
+
+      ‡
+
+                                              |
+
+                                                52 (0.33)
+
+                                              |
+
+                                                125 (0.82)
+
+                                              |
+
+                                                0.41 (0.30, 0.57)
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                                    Hemorrhagic stroke
+
+      §
+
+                                              |
+
+                                                38 (0.24)
+
+                                              |
+
+                                                74 (0.49)
+
+                                              |
+
+                                                0.51 (0.34, 0.75)
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                                    Other ICH
+
+                                              |
+
+                                                15 (0.10)
+
+                                              |
+
+                                                51 (0.34)
+
+                                              |
+
+                                                0.29 (0.16, 0.51)
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                                  Gastrointestinal (GI)
+
+      ¶
+
+                                              |
+
+                                                128 (0.83)
+
+                                              |
+
+                                                141 (0.93)
+
+                                              |
+
+                                                0.89 (0.70, 1.14)
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                                  Fatal**
+
+                                              |
+
+                                                10 (0.06)
+
+                                              |
+
+                                                37 (0.24)
+
+                                              |
+
+                                                0.27 (0.13, 0.53)
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                                    Intracranial
+
+                                              |
+
+                                                4 (0.03)
+
+                                              |
+
+                                                30 (0.20)
+
+                                              |
+
+                                                0.13 (0.05, 0.37)
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                                    Non-intracranial
+
+                                              |
+
+                                                6 (0.04)
+
+                                              |
+
+                                                7 (0.05)
+
+                                              |
+
+                                                0.84 (0.28, 2.15)
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                       *  Bleeding events within each subcategory were counted once per subject, but subjects may have contributed events to multiple endpoints. Bleeding events were counted during treatment or within 2 days of stopping study treatment (on-treatment period).
+
+                                          †   Defined as clinically overt bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal or with fatal outcome.
+
+                                          ‡   Intracranial bleed includes intracerebral, intraventricular, subdural, and subarachnoid bleeding. Any type of hemorrhagic stroke was adjudicated and counted as an intracranial major bleed.
+
+                                          §   On-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14.
+
+                                          ¶   GI bleed includes upper GI, lower GI, and rectal bleeding.
+
+  **  Fatal bleeding is an adjudicated death with the primary cause of death as intracranial bleeding or non-intracranial bleeding during the on-treatment period.
+
+                                    In ARISTOTLE, the results for major bleeding were generally consistent across most major subgroups including age, weight, CHADS
+
+  2score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk), prior warfarin use, geographic region, and aspirin use at randomization (Figure 1). Subjects treated with ELIQUIS with diabetes bled more (3% per year) than did subjects without diabetes (1.9% per year).
+
+                                       Figure 1:     Major Bleeding Hazard Ratios by Baseline Characteristics – ARISTOTLE Study
+
+                                    Note: The figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were prespecified, if not the groupings. The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+                                       Table 2:      Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in AVERROES
+
+                                              |
+                                             ELIQUIS
+
+  N=2798
+
+  n (%/year)
+     |
+                                             Aspirin
+
+  N=2780
+
+  n (%/year)
+     |
+                                             Hazard Ratio
+
+  (95% CI)
+     |
+                                             P-value |
+
+                                             Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |
+
+                                                Major
+
+                                              |
+
+                                                45 (1.41)
+
+                                              |
+
+                                                29 (0.92)
+
+                                              |
+
+                                                1.54 (0.96, 2.45)
+
+                                              |
+
+                                                0.07
+
+                                              |
+
+                                                    Fatal
+
+                                              |
+
+                                                5 (0.16)
+
+                                              |
+
+                                                5 (0.16)
+
+                                              |
+
+                                                0.99 (0.23, 4.29)
+
+                                              |
+
+                                                -
+
+                                              |
+
+                                                    Intracranial
+
+                                              |
+
+                                                11 (0.34)
+
+                                              |
+
+                                                11 (0.35)
+
+                                              |
+
+                                                0.99 (0.39, 2.51)
+
+                                              |
+
+                                                -
+
+                                              |

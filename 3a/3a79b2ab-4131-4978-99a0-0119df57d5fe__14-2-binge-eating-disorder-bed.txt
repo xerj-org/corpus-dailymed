@@ -1,0 +1,106 @@
+DailyMed 3a79b2ab-4131-4978-99a0-0119df57d5fe | Lisdexamfetamine Dimesylate | 14.2 Binge Eating Disorder (BED)
+
+A phase 2 study evaluated the efficacy of lisdexamfetamine dimesylate 30, 50 and 70 mg/day compared to placebo in reducing the number of binge days/week in adults with at least moderate to severe BED. This randomized, double-blind, parallel-group, placebo-controlled, forced-dose titration study (Study 10) consisted of an 11-week double-blind treatment period (3 weeks of forced-dose titration followed by 8 weeks of dose maintenance). Lisdexamfetamine dimesylate 30 mg/day were not statistically different from placebo on the primary endpoint. The 50 and 70 mg/day doses were statistically superior to placebo on the primary endpoint.
+
+                        The efficacy of lisdexamfetamine dimesylate in the treatment of BED was demonstrated in two 12-week randomized, double-blind, multi-center, parallel-group, placebo-controlled, dose-optimization studies (Study 11 and Study 12) in adults aged 18 to 55 years (Study 11: N=374, Study 12: N=350) with moderate to severe BED. A diagnosis of BED was confirmed using DSM-IV criteria for BED. Severity of BED was determined based on having at least 3 binge days per week for 2 weeks prior to the baseline visit and on having a Clinical Global Impression Severity (CGI-S) score of ≥4 at the baseline visit. For both studies, a binge day was defined as a day with at least 1 binge episode, as determined from the subject’s daily binge diary.
+
+                        Both 12-week studies consisted of a 4-week dose-optimization period and an 8-week dose-maintenance period. During dose-optimization, subjects assigned to lisdexamfetamine dimesylate began treatment at the titration dose of 30 mg/day and, after 1 week of treatment, were subsequently titrated to 50 mg/day. Additional increases to 70 mg/day were made as tolerated and clinically indicated. Following the dose-optimization period, subjects continued on their optimized dose for the duration of the dose-maintenance period.
+
+                        The primary efficacy outcome for the two studies was defined as the change from baseline at Week 12 in the number of binge days per week. Baseline is defined as the weekly average of the number of binge days per week for the 14 days prior to the baseline visit. Subjects from both studies on lisdexamfetamine dimesylate had a statistically significantly greater reduction from baseline in mean number of binge days per week at Week 12. In addition, subjects on lisdexamfetamine dimesylate showed greater improvement as compared to placebo across key secondary outcomes with higher proportion of subjects rated improved on the CGI-I rating scale, higher proportion of subjects with 4-week binge cessation, and greater reduction in the Yale-Brown Obsessive Compulsive Scale Modified for Binge Eating (Y-BOCS-BE) total score.
+
+                           Table 7    Summary of Primary Efficacy Results in BED
+
+                                       Study Number
+
+                                  |
+
+                                       Treatment Group
+
+                                  |
+
+                                       Primary Efficacy Measure: Binge Days per Week at Week 12
+
+                                  |
+
+                                       Mean Baseline Score (SD)
+
+                                  |
+
+                                       LS Mean Change from Baseline (SE)
+
+                                  |
+
+                                       Placebo-subtracted Differencea
+
+            (95% CI)
+
+                                  |
+
+                                    Study 11
+
+                                  |
+
+                                    Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)*
+
+                                    Placebo
+
+                                  |
+
+                                    4.79 (1.27)
+
+                                    4.60 (1.21)
+
+                                  |
+
+                                    -3.87 (0.12)
+
+                                    -2.51 (0.13)
+
+                                  |
+
+                                    -1.35 (-1.70, -1.01)
+
+                                    --
+
+                                  |
+
+                                    Study 12
+
+                                  |
+
+                                    Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)*
+
+                                    Placebo
+
+                                  |
+
+                                    4.66 (1.27)
+
+                                    4.82 (1.42)
+
+                                  |
+
+                                    -3.92 (0.14)
+
+                                    -2.26 (0.14)
+
+                                  |
+
+                                    -1.66 (-2.04, -1.28)
+
+                                    --
+
+                                  |
+
+                        SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval.
+
+                              a
+                            Difference (drug minus placebo) in least-squares mean change from baseline.
+
+                           * Doses statistically significantly superior to placebo.
+
+                        A double-blind, placebo controlled, randomized withdrawal design study (Study 13) was conducted to evaluate maintenance of efficacy based on time to relapse between lisdexamfetamine dimesylate and placebo in adults aged 18 to 55 (N=267) with moderate to severe BED. In this longer-term study patients who had responded to lisdexamfetamine dimesylate in the preceding 12-week open-label treatment phase were randomized to continuation of lisdexamfetamine dimesylate or placebo for up to 26 weeks of observation for relapse. Response in the open-label phase was defined as 1 or fewer binge days each week for four consecutive weeks prior to the last visit at the end of the 12-week open-label phase and a CGI-S score of 2 or less at the same visit. Relapse during the double-blind phase was defined as having 2 or more binge days each week for two consecutive weeks (14 days) prior to any visit and having an increase in CGI-S score of 2 or more points compared to the randomized-withdrawal baseline. Maintenance of efficacy for patients who had an initial response during the open-label period and then continued on lisdexamfetamine dimesylate during the 26-week double-blind randomized-withdrawal phase was demonstrated with lisdexamfetamine dimesylate being superior over placebo as measured by time to relapse.
+
+                           Figure 8:    Kaplan-Meier Estimated Proportion of Subjects with Relapse in Adults with BED (Study 13)
+
+                        Examination of population subgroups based on age (there were no patients over 65), gender, and race did not reveal any clear evidence of differential responsiveness in the treatment of BED.

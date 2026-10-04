@@ -1,0 +1,5 @@
+DailyMed a4ae481f-9e47-470a-b4d1-5a33c0df8761 | Cyclobenzaprine Hydrochloride | Elderly
+
+In a pharmacokinetic study in elderly individuals (≥65yrs old), mean (n=10) steady-state cyclobenzaprine AUC values were approximately 1.7 fold (171.0 ng.hr/mL, range 96.1 to 255.3) higher than those seen in a group of 18 younger adults (101.4 ng.hr/mL, range 36.1 to 182.9) from another study. Elderly male subjects had the highest observed mean increase, approximately 2.4 fold (198.3 ng.hr/mL, range 155.6 to 255.3 vs. 83.2 ng.hr/mL, range 41.1 to 142.5 for younger males) while levels in elderly females were increased to a much lesser extent, approximately 1.2 fold (143.8 ng.hr/mL, range 96.1 to 196.3 vs. 115.9 ng.hr/mL, range 36.1 to 182.9 for younger females.)
+
+                        In light of these findings, therapy with cyclobenzaprine in the elderly should be initiated with 5 mg dose and titrated slowly upward.

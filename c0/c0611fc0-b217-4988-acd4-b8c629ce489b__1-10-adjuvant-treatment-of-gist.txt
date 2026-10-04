@@ -1,0 +1,3 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 1.10 Adjuvant Treatment of GIST
+
+Adjuvant treatment of adult patients following complete gross resection of Kit (CD117) positive GIST.

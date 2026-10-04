@@ -1,0 +1,5 @@
+DailyMed bb3b5e96-e629-4db5-8ad5-40c17c6dae18 | Clopidogrel | 1.1 Acute Coronary Syndrome (ACS)
+
+Clopidogrel is indicated to reduce the rate of myocardial infarction (MI) and stroke in patients with non–ST-segment elevation ACS (unstable angina [UA]/non–ST-elevation myocardial infarction [NSTEMI]), including patients who are to be managed medically and those who are to be managed with coronary revascularization. Clopidogrel should be administered in conjunction with aspirin.
+
+                           Clopidogrel is indicated to reduce the rate of myocardial infarction and stroke in patients with acute ST-elevation myocardial infarction (STEMI) who are to be managed medically. Clopidogrel should be administered in conjunction with aspirin.

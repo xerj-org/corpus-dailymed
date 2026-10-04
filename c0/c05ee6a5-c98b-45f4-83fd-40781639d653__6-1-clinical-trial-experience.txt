@@ -1,0 +1,5 @@
+DailyMed c05ee6a5-c98b-45f4-83fd-40781639d653 | DigiFab | 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+                        In the clinical trials of DIGIFAB, 6 of 15 patients in the digoxin overdose study had a total of 17 adverse events. Three events occurred in one patient and consisted of the following: pulmonary edema, bilateral pleural effusion and renal failure. The events were determined to be likely due to the loss of digoxin inotropic support in combination with the patient’s underlying medical condition. Of 8 healthy volunteers who received DIGIFAB, two experienced an adverse reaction that was considered to be related to DIGIFAB. The reactions were; one episode of phlebitis of the infusion-site vein and one episode of transient postural hypotension.

@@ -1,0 +1,45 @@
+DailyMed 31e33656-2f53-49e6-9816-261ea2e6961a | Haloperidol | PRECAUTIONS
+
+Leukopenia, Neutropenia and Agranulocytosis
+
+                  In clinical trial and post-marketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol. Agranulocytosis (including fatal cases) has also been reported.
+
+                  Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia. Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue haloperidol at the first sign of a decline in WBC in the absence of other causative factors.
+
+                  Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur. Patients with severe neutropenia (absolute neutrophil count < 1,000/mm3) should discontinue haloperidol and have their WBC followed until recovery.
+
+                  Haloperidol should be administered cautiously to patients:
+
+                  -with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain. Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity and paradoxical further lowering of the blood pressure may occur. Instead, metaraminol, phenylephrine or norepinephrine should be used.
+
+                  -receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold. If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
+
+                  -with known allergies, or with a history of allergic reactions to drugs.
+
+                  -receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
+
+                  If concomitant antiparkinson medication is required, it may have to be continued after haloperidol is discontinued because of the difference in excretion rates. If both are discontinued simultaneously, extrapyramidal symptoms may occur. The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with haloperidol.
+
+                  As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiates, and alcohol.
+
+                  In a study of 12 schizophrenic patients coadministered haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline. In five other schizophrenic patients treated with haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations. Thus, careful monitoring of clinical status is warranted when rifampin is administered or discontinued in haloperidol-treated patients.
+
+                  When haloperidol is used to control mania in cyclic disorders, there may be a rapid mood swing to depression. Severe neurotoxicity (rigidity, inability to walk or talk) may occur in patients with thyrotoxicosis who are also receiving antipsychotic medication, including haloperidol.
+
+                  No mutagenic potential of haloperidol was found in the Ames Salmonella microsomal activation assay. Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of haloperidol on chromosome structure and number. The available cytogenetic evidence is considered too inconsistent to be conclusive at this time.
+
+                  Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months). In the rat study, survival was less than optimal in all dose groups, reducing the number of rats at risk for developing tumors. However, although a relatively greater number of rats survived to the end of the study in high dose male and female groups, these animals did not have a greater incidence of tumors than control animals. Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to 20 times the usual daily human dose for chronic or resistant patients.
+
+                  In female mice at 5 and 20 times the highest initial daily dose for chronic or resistant patients, there was a statistically significant increase in mammary gland neoplasia and total tumor incidence; at 20 times the same daily dose there was a statistically significant increase in pituitary gland neoplasia. In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
+
+                  Antipsychotic drugs elevate prolactin levels; the elevation persists during chronic administration. Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer. Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients. An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs. Published epidemiologic studies have shown inconsistent results when exploring the association between hyperprolactinemia and breast cancer.
+
+                  There are no well controlled studies with haloperidol in pregnant women. There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy. Causal relationships were not established in these cases. Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus. Infants should not be nursed during drug treatment.
+
+                     Pediatric Use
+
+                  Safety and effectiveness in pediatric patients have not been established.
+
+                     Geriatric Use
+
+                  Clinical studies of haloperidol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients. However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS: Tardive Dyskinesia). Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).

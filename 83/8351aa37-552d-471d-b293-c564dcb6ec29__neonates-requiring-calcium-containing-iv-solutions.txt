@@ -1,0 +1,11 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Neonates Requiring Calcium Containing IV Solutions
+
+Ceftriaxone is contraindicated in neonates (≤ 28 days) if they require (or are expected to require) treatment with calcium‑containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone‑calcium (see
+                              CLINICAL PHARMACOLOGY
+                           , 
+                              WARNINGS
+                            and
+                              DOSAGE AND ADMINISTRATION
+                           ).
+
+                        Cases of fatal outcomes in which a crystalline material was observed in the lungs and kidneys at autopsy have been reported in neonates receiving ceftriaxone and calcium-containing fluids. In some of these cases, the same intravenous infusion line was used for both ceftriaxone and calcium-containing fluids and in some a precipitate was observed in the intravenous infusion line. There have been no similar reports in patients other than neonates.

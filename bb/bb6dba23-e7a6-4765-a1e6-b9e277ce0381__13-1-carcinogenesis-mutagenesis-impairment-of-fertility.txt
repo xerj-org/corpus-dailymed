@@ -1,0 +1,5 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No studies have been performed to assess the potential of axatilimab-csfr for carcinogenicity or genotoxicity.
+
+Dedicated fertility studies have not been conducted with axatilimab-csfr. Administration of axatilimab-csfr to sexually mature cynomolgus monkeys in a 3-month toxicology study had no effect on menstrual cyclicity in females, sperm parameters (morphology, motility, or number) in males, and produced no histopathologic findings in female and male reproductive organs, indicating that axatilimab-csfr did not adversely affect reproductive function. Targeted deletion of CSF-1R or CSF-1 in rodent models resulted in impairment of fertility.

@@ -1,0 +1,9 @@
+DailyMed 765cc40c-306f-4719-aac1-00f0cd8bbe78 | Dicyclomine hydrochloride | 7.1 Antiglaucoma Agents
+
+Anticholinergics antagonize the effects of antiglaucoma agents. Anticholinergic drugs in the presence of increased intraocular pressure may be hazardous when taken concurrently with agents such as corticosteroids. Use of dicyclomine hydrochloride in patients with glaucoma is not recommended
+
+  [see Contraindications (
+
+   4)]
+
+  .

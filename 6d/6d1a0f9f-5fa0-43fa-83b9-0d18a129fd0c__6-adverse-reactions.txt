@@ -1,0 +1,27 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 6 ADVERSE REACTIONS
+
+The following adverse reactions are described in more detail in other sections of the label:
+
+                     Hypersensitivity [see Contraindications (4)]
+
+                     Falling asleep during activities of daily living and somnolence [see Warnings and Precautions (5.1)]
+
+                     Syncope [see Warnings and Precautions (5.2)]
+
+                     Hypotension/orthostatic hypotension [see Warnings and Precautions (5.3)]
+
+                     Hallucinations/psychotic-like behavior [see Warnings and Precautions (5.4)]
+
+                     Dyskinesia [see Warnings and Precautions (5.5)]
+
+                     Impulse control/compulsive behaviors [see Warnings and Precautions (5.6)]
+
+                     Withdrawal-emergent hyperpyrexia and confusion [see Warnings and Precautions (5.7)]
+
+                     Withdrawal Symptoms[see Warnings and Precautions (5.8)]
+
+                     Augmentation and early-morning rebound in RLS [see Warnings and Precautions (5.9)]
+
+                     Fibrotic complications [see Warnings and Precautions (5.10)]
+
+                     Retinal pathology [see Warnings and Precautions (5.11)]

@@ -1,0 +1,91 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 8.3 Females and Males of Reproductive Potential
+
+All patients who can get pregnant must comply with the iPLEDGE REMS requirements [see Warnings and Precautions (5.2)].
+
+                           Pregnancy Testing
+
+                        In patients who can get pregnant, pregnancy testing is required prior to, during, and after isotretinoin treatment.
+
+                           Pregnancy Testing Prior to Prescribing
+                           Isotretinoin
+                           : In patients who can get pregnant, only prescribe isotretinoin after verification and documentation that they are not pregnant:
+
+                        (1) Complete the first urine or serum pregnancy test (screening test) in a medical setting (e.g., prescriber’s office, clinic, laboratory) and verify and document that the test is negative, AND
+
+                        (2) For patients with:
+
+                              Regular menstrual cycles, complete the second urine or serum pregnancy test (confirmatory test) in a medical setting (1) at least 30 days after the screening test and during the first five days of their menstrual period immediately preceding the beginning of isotretinoin treatment, AND (2) after the patient has used their chosen pregnancy prevention methods (i.e., two forms of contraception or committed to abstinence) for at least 30 days. Verify and document that the confirmatory test is negative, OR
+
+                              Amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, complete the second urine or serum pregnancy test (confirmatory test) in a medical setting (1) at least 30 days after the screening test and immediately preceding the beginning of isotretinoin treatment, AND (2) after the patient has used their chosen pregnancy prevention methods (i.e., two forms of contraception or committed to abstinence) for at least 30 days. Verify and document that the confirmatory test is negative.
+
+                        If a patient who can get pregnant has had negative screening and confirmatory pregnancy tests but they missed the 7-day prescription window (the patient has not obtained their isotretinoin prescription within 7 days of the pregnancy test collection) and has not started isotretinoin treatment, repeat the urine or serum pregnancy test in a medical setting and verify and document that this repeat test is negative prior to prescribing isotretinoin. The confirmatory pregnancy test must be repeated, as needed, until the patient receives isotretinoin.
+
+                           Pregnancy Testing During Treatment with
+                           Isotretinoin
+                           : In patients who can get pregnant who are being treated with isotretinoin, within 7 days before each prescription, obtain a urine or serum pregnancy test in a medical setting (e.g., prescriber’s office, laboratory, clinic) or instruct patients to use a home pregnancy test.
+
+                        If the patient who can get pregnant missed the 7-day prescription window (the patient has not obtained their isotretinoin prescription within 7 days of the pregnancy test collection), repeat the urine or serum pregnancy test within 7 days before the next prescription in a medical setting or instruct patients to use a home pregnancy test. Verify and document the negative pregnancy test result prior to prescribing additional isotretinoin treatment.
+
+                           Pregnancy Testing in Patients Who Have Completed
+                           Isotretinoin
+                            
+                           Treatment: In patients who can get pregnant who have completed isotretinoin treatment, complete a urine or serum pregnancy test in a medical setting (e.g., prescriber’s office, laboratory, clinic) or instruct patients to use a home pregnancy test:
+
+                           At the end of the entire course of isotretinoin treatment, AND
+
+                           1 month after the discontinuation of isotretinoin.
+
+                           Contraception
+
+ Patients who can get pregnant must use 2 forms of contraception simultaneously, at least 1 of which must be a primary form, for at least 1 month prior to initiation of isotretinoin treatment, during isotretinoin treatment, and for 1 month after discontinuing isotretinoin treatment. However, 2 forms of contraception are not required if the patient commits to continuous abstinence from not having any sexual contact with a partner which may result in pregnancy, has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal. Micro-dosed progesterone preparations (“minipills” that do not contain an estrogen) are an inadequate form of contraception during isotretinoin treatment. Any birth control method can fail. There have been reports of pregnancy from patients who have used combination oral contraceptives, as well as contraceptive vaginal systems, vaginal inserts, transdermal systems, and injections; these pregnancies occurred while taking isotretinoin capsules. These reports are more frequent for patients who use only a single method of contraception. Therefore, it is critically important that patients who can get pregnant use two forms of contraception simultaneously.
+
+                                    Primary
+                                     
+                                    forms
+
+                                  |
+
+                                    Secondary
+                                     
+                                    forms
+
+                                  |
+
+                                       Tubal sterilization
+
+                                       Male partner vasectomy
+
+                                       Intrauterine device
+
+                                       Hormonal (combination oral contraceptives, vaginal systems, vaginal inserts, transdermal systems, injections, or implants)
+
+                                  |
+                                 Barrier:
+
+                                       male latex condom with or without spermicide
+
+                                       diaphragm with spermicide
+
+                                       cervical cap with spermicide
+
+ Other:
+
+                                       Vaginal sponge (contains spermicide)
+
+                                  |
+
+                        If the patient has unprotected sexual contact with a partner that could result in pregnancy at any time 1 month before, during, or 1 month after treatment, the patient must:
+
+                        a. Stop taking isotretinoin immediately, if on treatment
+
+                        b. Have a pregnancy test at least 19 days after the last act of unprotected sexual contact with a partner that could result in pregnancy
+
+                        c. Start using 2 forms of contraception simultaneously again for 1 month before resuming isotretinoin treatment
+
+                        d. Have a second pregnancy test after using 2 forms of contraception for 1 month.
+
+                           Infertility
+
+                        In a trial of female acne patients (n = 79) receiving another isotretinoin capsule product, the mean total ovarian volume, the total antral follicle count and mean anti-Mullerian hormone decreased at the end of the treatment (6th month). However, the values returned to normal at the 18th month (12 months after the end of treatment). There were no statistically significant changes in terms of follicle-stimulating hormone and luteinizing hormone, both at the end of the treatment and 12 months after the end of treatment. Although the results suggest that possible deteriorative effects of isotretinoin on ovarian reserve may be reversible, the study has important methodological limitations, including a small sample size, lack of a control group, and lack of generalizability.
+
+                           Sperm Study: In trials of 66 men, 30 of whom were patients with nodular acne under treatment with oral isotretinoin, no significant changes were noted in the count or motility of spermatozoa in the ejaculate. In a study of 50 men (ages 17 to 32 years) receiving isotretinoin treatment for nodular acne, no significant effects were seen on ejaculate volume, sperm count, total sperm motility, morphology or seminal plasma fructose.

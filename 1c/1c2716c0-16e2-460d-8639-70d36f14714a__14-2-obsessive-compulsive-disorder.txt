@@ -1,0 +1,249 @@
+DailyMed 1c2716c0-16e2-460d-8639-70d36f14714a | Paroxetine | 14.2 Obsessive Compulsive Disorder
+
+The effectiveness of paroxetine tablets in the treatment of obsessive compulsive disorder (OCD) was demonstrated in two 12-week multicenter placebo-controlled studies of adult outpatients (Studies 1 and 2). Patients had moderate to severe OCD (DSM-IIIR) with mean baseline ratings on the Yale Brown Obsessive Compulsive Scale (YBOCS) total score ranging from 23 to 26. In study 1, a dose-range finding study, patients received fixed daily doses of paroxetine tablets 20 mg, 40 mg, or 60 mg. Study 1 demonstrated that daily doses of paroxetine tablets 40 mg and 60 mg are effective in the treatment of OCD. Patients receiving doses of paroxetine tablets 40 mg and 60 mg experienced a mean reduction of approximately 6 and 7 points, respectively, on the YBOCS total score which was statistically significantly greater than the approximate 4-point reduction at 20 mg and a 3-point reduction in the placebo-treated patients. Study 2 was a flexible-dose study comparing paroxetine tablets 20 mg to 60 mg daily with clomipramine 25 mg to 250 mg daily or placebo). In this study, patients receiving paroxetine tablets experienced a mean reduction of approximately 7 points on the YBOCS total score, which was statistically significantly greater than the mean reduction of approximately 4 points in placebo-treated patients.
+
+                        The following table provides the outcome classification by treatment group on Global Improvement items of the Clinical Global Impression (CGI) scale for Study 1.
+
+                           Table 10: Outcome Classification (%) on CGI-Global Improvement Item for Completers in Study 1 in Patients with OCD
+
+                                  |
+
+                                       Outcome
+
+                                  |
+
+                                           
+
+                                          Placebo
+
+                                  |
+
+                                           
+
+                                          Paroxetine Tablets             20 mg
+
+                                  |
+
+                                           
+
+                                          Paroxetine Tablets              40 mg
+
+                                  |
+
+                                           
+
+                                          Paroxetine Tablets
+
+                                           
+
+                                           60 mg
+
+                                  |
+
+                                       Classification
+
+                                  |
+
+                                           
+
+                                          (n = 74)
+
+                                  |
+
+                                           
+
+                                          (n = 75)
+
+                                  |
+
+                                           
+
+                                          (n = 66)
+
+                                  |
+
+                                           
+
+                                          (n = 66)
+
+                                  |
+
+                                  |
+
+                                           
+
+                                          %
+
+                                  |
+
+                                           
+
+                                          %
+
+                                  |
+
+                                           
+
+                                          %
+
+                                  |
+
+                                           
+
+                                          %
+
+                                  |
+
+                                           
+
+Worse
+
+                                  |
+
+                                           
+
+14
+
+                                  |
+
+                                           
+
+7
+
+                                  |
+
+                                           
+
+7
+
+                                  |
+
+                                           
+
+3
+
+                                  |
+
+                                           
+
+No Change
+
+                                  |
+
+                                           
+
+44
+
+                                  |
+
+                                           
+
+35
+
+                                  |
+
+                                           
+
+22
+
+                                  |
+
+                                           
+
+19
+
+                                  |
+
+                                           
+
+Minimally Improved
+
+                                  |
+
+                                           
+
+24
+
+                                  |
+
+                                           
+
+33
+
+                                  |
+
+                                           
+
+29
+
+                                  |
+
+                                           
+
+34
+
+                                  |
+
+                                           
+
+Much Improved
+
+                                  |
+
+                                           
+
+11
+
+                                  |
+
+                                           
+
+18
+
+                                  |
+
+                                           
+
+22
+
+                                  |
+
+                                           
+
+24
+
+                                  |
+
+                                           
+
+Very Much Improved
+
+                                  |
+
+                                           
+
+7
+
+                                  |
+
+                                           
+
+7
+
+                                  |
+
+                                           
+
+20
+
+                                  |
+
+                                           
+
+20
+
+                                  |
+
+                        Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
+
+                        The long-term efficacy of paroxetine tablets for the treatment of OCD was established in a long-term extension to Study 1. Patients who responded to paroxetine tablets during the 3-month double-blind phase and a 6-month extension on open-label paroxetine tablets 20 mg to 60 mg daily were randomized to either paroxetine tablets or placebo in a 6-month double-blind relapse prevention phase. Patients randomized to paroxetine tablets were statistically significantly less likely to relapse than placebo-treated patients.

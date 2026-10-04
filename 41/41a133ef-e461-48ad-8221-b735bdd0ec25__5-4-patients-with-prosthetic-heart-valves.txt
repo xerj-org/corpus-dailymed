@@ -1,0 +1,3 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 5.4 Patients with Prosthetic Heart Valves
+
+The safety and efficacy of ELIQUIS have not been studied in patients with prosthetic heart valves. Therefore, use of ELIQUIS is not recommended in these patients.

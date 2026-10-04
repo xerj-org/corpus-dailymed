@@ -1,0 +1,7 @@
+DailyMed 56b41079-60db-4256-9695-202b3a65d13d | Armour Thyroid | DOSAGE AND ADMINISTRATION
+
+The dosage of thyroid hormones is determined by the indication and must in every case be individualized according to patient response and laboratory findings.
+
+                  Biotin supplementation may interfere with immunoassays for TSH, T4, and T3, resulting in erroneous thyroid hormone test results. Inquire whether patients are taking biotin or biotin-containing supplements. If so, advise them to stop biotin supplementation at least 2 days before assessing TSH and/or T4 levels (see PRECAUTIONS).
+
+                  Thyroid hormones are given orally. In acute, emergency conditions, injectable levothyroxine sodium (T4) may be given intravenously when oral administration is not feasible or desirable, as in the treatment of myxedema coma, or during total parenteral nutrition. Intramuscular administration is not advisable because of reported poor absorption.

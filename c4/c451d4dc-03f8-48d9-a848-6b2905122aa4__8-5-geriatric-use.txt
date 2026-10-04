@@ -1,0 +1,15 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.5 Geriatric Use
+
+Sugammadex Injection has been administered in a dedicated clinical study to a total 102 geriatric patients that compared the time to recovery from neuromuscular blockade induced by rocuronium (0.6 mg/kg) following administration of 2 mg/kg Sugammadex Injection given at the reappearance of T
+
+  2in 65-74 year-olds (N=62) and ≥75 year-olds (N=40) compared with 18-64 year-olds (N=48). The median time to recovery of the TOF (T
+
+  4/T
+
+  1) ratio to 0.9 in 18-64 year-olds was 2.2 minutes; in 65-74 year-olds it was 2.5 minutes, and in ≥75 year-olds it was 3.6 minutes. For time to recovery from neuromuscular blockade induced by rocuronium following administration of 4 mg/kg Sugammadex Injection given at 1-2 PTCs, results across clinical trials revealed a median recovery of 2.5 minutes for geriatric patients (≥65 years, N=63) versus 2.0 minutes, for adults aged 18-64 years (N=359). Hence no dose adjustment is necessary in geriatric patients with normal organ function
+
+  [see Dosage and Administration (2.2)].
+
+                        This drug is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function
+
+  [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].

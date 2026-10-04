@@ -1,0 +1,9 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 8.2 Lactation
+
+Risk Summary
+
+                        There are no data on the presence of gadobutrol in human milk, the effects on the breastfed infant, or the effects on milk production. However, published lactation data on other GBCAs indicate that 0.01 to 0.04% of the maternal gadolinium dose is present in breast milk and there is limited GBCA gastrointestinal absorption in the breast-fed infant. Gadobutrol is present in rat milk (see Data). The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for GADAVIST and any potential adverse effects on the breastfed infant from GADAVIST or from the underlying maternal condition.
+
+                           Data
+
+                        In lactating rats receiving 0.5 mmol/kg of intravenous [153Gd]-gadobutrol, 0.01% of the total administered radioactivity was transferred to the pup via maternal milk within 3 hours after administration, and the gastrointestinal absorption is poor (approximately 5% of the dose orally administered was excreted in the urine).

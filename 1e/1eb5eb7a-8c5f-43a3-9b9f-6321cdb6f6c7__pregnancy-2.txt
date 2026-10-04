@@ -1,0 +1,35 @@
+DailyMed 1eb5eb7a-8c5f-43a3-9b9f-6321cdb6f6c7 | Chlordiazepoxide Hydrochloride | Pregnancy
+
+Pregnancy Exposure Registry
+
+There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including chlordiazepoxide HCl, during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at
+  https://womensmentalhealth.org/pregnancyregistry/.
+
+                           Risk Summary
+
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see
+
+                              WARNINGS, Neonatal Sedation and Withdrawal Syndrome
+                           , and
+  Clinical Considerations)
+  . Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects
+  (see
+  Data).
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates. Monitor neonates exposed to chlordiazepoxide HCl during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems. Monitor neonates exposed to chlordiazepoxide HCl during pregnancy for signs of withdrawal. Manage these neonates accordingly (see
+
+                              WARNINGS, Neonatal Sedation and Withdrawal Syndrome
+                           )
+  .
+
+                           Data
+
+                           Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects. Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted. In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.

@@ -1,0 +1,198 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | ARISTOTLE
+
+Evidence for the efficacy and safety of ELIQUIS was derived from ARISTOTLE, a multinational, double-blind study in patients with nonvalvular AF comparing the effects of ELIQUIS and warfarin on the risk of stroke and non-central nervous system (CNS) systemic embolism. In ARISTOTLE, patients were randomized to ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in subjects with at least 2 of the following characteristics: age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) or to warfarin (targeted to an INR range of 2.0-3.0). Patients had to have one or more of the following additional risk factors for stroke:
+
+                                 prior stroke or transient ischemic attack (TIA)
+
+                                 prior systemic embolism
+
+                                 age greater than or equal to 75 years
+
+                                 arterial hypertension requiring treatment
+
+                                 diabetes mellitus
+
+                                 heart failure ≥New York Heart Association Class 2
+
+                                 left ventricular ejection fraction ≤40%
+
+                              The primary objective of ARISTOTLE was to determine whether ELIQUIS 5 mg twice daily (or 2.5 mg twice daily) was effective (noninferior to warfarin) in reducing the risk of stroke (ischemic or hemorrhagic) and systemic embolism. Superiority of ELIQUIS to warfarin was also examined for the primary endpoint (rate of stroke and systemic embolism), major bleeding, and death from any cause.
+
+                              A total of 18,201 patients were randomized and followed on study treatment for a median of 89 weeks. Forty-three percent of patients were vitamin K antagonist (VKA) “naive,” defined as having received ≤30 consecutive days of treatment with warfarin or another VKA before entering the study. The mean age was 69 years and the mean CHADS
+
+  2score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk) was 2.1. The population was 65% male, 83% Caucasian, 14% Asian, and 1% Black. There was a history of stroke, TIA, or non-CNS systemic embolism in 19% of patients. Concomitant diseases of patients in this study included hypertension 88%, diabetes 25%, congestive heart failure (or left ventricular ejection fraction ≤40%) 35%, and prior myocardial infarction 14%. Patients treated with warfarin in ARISTOTLE had a mean percentage of time in therapeutic range (INR 2.0-3.0) of 62%.
+
+                              ELIQUIS was superior to warfarin for the primary endpoint of reducing the risk of stroke and systemic embolism (Table 9 and Figure 4). Superiority to warfarin was primarily attributable to a reduction in hemorrhagic stroke and ischemic strokes with hemorrhagic conversion compared to warfarin. Purely ischemic strokes occurred with similar rates on both drugs.
+
+                              ELIQUIS also showed significantly fewer major bleeds than warfarin
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  .
+
+                                 Table 9:     Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE (Intent-to-Treat Analysis)
+
+                                        |
+                                       ELIQUIS
+
+  N=9120
+
+  n (%/year)
+     |
+                                       Warfarin
+
+  N=9081
+
+  n (%/year)
+     |
+                                       Hazard Ratio
+
+  (95% CI)
+     |
+                                       P-value |
+
+                                       The primary endpoint was based on the time to first event (one per subject). Component counts are for subjects with any event, not necessarily the first. |
+
+                                          Stroke or systemic embolism
+
+                                        |
+
+                                          212 (1.27)
+
+                                        |
+
+                                          265 (1.60)
+
+                                        |
+
+                                          0.79 (0.66, 0.95)
+
+                                        |
+
+                                          0.01
+
+                                        |
+
+                                             Stroke
+
+                                        |
+
+                                          199 (1.19)
+
+                                        |
+
+                                          250 (1.51)
+
+                                        |
+
+                                          0.79 (0.65, 0.95)
+
+                                        |
+                                        |
+
+                                                Ischemic without hemorrhage
+
+                                        |
+
+                                          140 (0.83)
+
+                                        |
+
+                                          136 (0.82)
+
+                                        |
+
+                                          1.02 (0.81, 1.29)
+
+                                        |
+                                        |
+
+                                                Ischemic with hemorrhagic conversion
+
+                                        |
+
+                                          12 (0.07)
+
+                                        |
+
+                                          20 (0.12)
+
+                                        |
+
+                                          0.60 (0.29, 1.23)
+
+                                        |
+                                        |
+
+                                                Hemorrhagic
+
+                                        |
+
+                                          40 (0.24)
+
+                                        |
+
+                                          78 (0.47)
+
+                                        |
+
+                                          0.51 (0.35, 0.75)
+
+                                        |
+                                        |
+
+                                                Unknown
+
+                                        |
+
+                                          14 (0.08)
+
+                                        |
+
+                                          21 (0.13)
+
+                                        |
+
+                                          0.65 (0.33, 1.29)
+
+                                        |
+                                        |
+
+                                             Systemic embolism
+
+                                        |
+
+                                          15 (0.09)
+
+                                        |
+
+                                          17 (0.10)
+
+                                        |
+
+                                          0.87 (0.44, 1.75)
+
+                                        |
+                                        |
+
+                                 Figure 4:      Kaplan-Meier Estimate of Time to First Stroke or Systemic Embolism in ARISTOTLE (Intent-to-Treat Population)
+
+                              All-cause death was assessed using a sequential testing strategy that allowed testing for superiority if effects on earlier endpoints (stroke plus systemic embolus and major bleeding) were demonstrated. ELIQUIS treatment resulted in a significantly lower rate of all-cause death (p = 0.046) than did treatment with warfarin, primarily because of a reduction in cardiovascular death, particularly stroke deaths. Non vascular death rates were similar in the treatment arms.
+
+                              In ARISTOTLE, the results for the primary efficacy endpoint were generally consistent across most major subgroups including weight, CHADS
+
+  2score (a scale from 0 to 6 used to predict risk of stroke in patients with AF, with higher scores predicting greater risk), prior warfarin use, level of renal impairment, geographic region, and aspirin use at randomization (Figure 5).
+
+                                 Figure 5:      Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics – ARISTOTLE Study
+
+                              Note: The figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were prespecified, if not the groupings. The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+                              At the end of the ARISTOTLE study, warfarin patients who completed the study were generally maintained on a VKA with no interruption of anticoagulation. ELIQUIS patients who completed the study were generally switched to a VKA with a 2-day period of coadministration of ELIQUIS and VKA, so that some patients may not have been adequately anticoagulated after stopping ELIQUIS until attaining a stable and therapeutic INR. During the 30 days following the end of the study, there were 21 stroke or systemic embolism events in the 6791 patients (0.3%) in the ELIQUIS arm compared to 5 in the 6569 patients (0.1%) in the warfarin arm
+
+  [see
+
+                                    Dosage and Administration (2.4)
+
+                                 ].

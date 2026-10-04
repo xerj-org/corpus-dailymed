@@ -1,0 +1,7 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 5.3 Extravasation Resulting in Tissue Necrosis
+
+Extravasation of ZEPZELCA can cause skin and soft tissue injury, including necrosis requiring debridement. Consider use of a central venous catheter to reduce the risk of extravasation, particularly in patients with limited venous access. Monitor patients for signs and symptoms of extravasation during the ZEPZELCA infusion. If extravasation occurs, immediately discontinue the infusion, remove the infusion catheter, and monitor for signs and symptoms of tissue necrosis. The time to onset of necrosis after extravasation may vary.
+
+                           In the IMforte study [see Adverse Reactions (6.1)], extravasation resulting in skin necrosis occurred in one patient who received ZEPZELCA in combination with atezolizumab.
+
+                           Administer supportive care and consult with an appropriate medical specialist as needed for signs and symptoms of extravasation. Administer subsequent infusions at a site that was not affected by extravasation.

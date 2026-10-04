@@ -1,0 +1,7 @@
+DailyMed 362034e9-2830-19a5-e063-6394a90a8dfb | ANASTROZOLE | 8.5 Geriatric Use
+
+In studies 0030 and 0027, about 50% of patients were 65 or older. Patients ≥ 65 years of age had moderately better tumor response and time to tumor progression than patients < 65 years of age regardless of randomized treatment. In studies 0004 and 0005, 50% of patients were 65 or older. Response rates and time to progression were similar for the over 65 and younger patients.
+
+                        In the ATAC study, 45% of patients were 65 years of age or older. The efficacy of anastrozole tablets compared to tamoxifen in patients who were 65 years or older (N=1413 for anastrozole tablets and N=1410 for tamoxifen, the hazard ratio for disease-free survival was 0.93 [95% CI: 0.80, 1.08]) was less than efficacy observed in patients who were less than 65 years of age (N=1712 for anastrozole tablets and N=1706 for tamoxifen, the hazard ratio for disease-free survival was 0.79 [95% CI: 0.67, 0.94]).
+
+                        The pharmacokinetics of anastrozole are not affected by age.

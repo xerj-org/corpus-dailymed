@@ -1,0 +1,9 @@
+DailyMed b3f69c67-db30-4266-8075-9b18c71c9fc1 | Temozolomide | 2.1 Monitoring to Inform Dosage and Administration
+
+Prior to dosing, withhold Temozolomide until patients have an absolute neutrophil count (ANC) of 1.5 x 109/L or greater and a platelet count of 100 x 109/L or greater.
+
+                        For concomitant radiotherapy, obtain a complete blood count prior to initiation of treatment and weekly during treatment.
+
+                        For the 28-day treatment cycles, obtain a complete blood count prior to treatment on Day 1 and on Day 22 of each cycle. Perform complete blood counts weekly until recovery if the ANC falls below 1.5 x 109/L and the platelet count falls below 100 x 109/L.
+
+                        For concomitant use with focal radiotherapy, obtain a complete blood count weekly and as clinically indicated.

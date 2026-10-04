@@ -1,0 +1,3 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 7.4 Bradycardia-Inducing Drugs
+
+Concomitant administration of bradycardia-inducing drugs (e.g., beta-blockers) may have an additive effect on the reduction of heart rate associated with lanreotide. Dosage adjustments of concomitant drugs may be necessary.

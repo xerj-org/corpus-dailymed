@@ -1,0 +1,3 @@
+DailyMed c7c77c4d-dd04-4780-9fa4-8fea30aff8f9 | Desvenlafaxine | 8.7 Hepatic Impairment
+
+Adjust the maximum recommended dosage in patients with moderate to severe hepatic impairment (Child-Pugh score 7 to 15) [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].

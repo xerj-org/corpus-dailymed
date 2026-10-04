@@ -1,0 +1,9 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described below with the incidence of ADA in other studies, including those of ADZYNMA.
+
+                        Thirteen (one patient in Study 1 and twelve patients in a long-term extension study) of 67 patients in the clinical trials treated prophylactically with ADZYNMA with confirmed cTTP tested positive for low-titer binding antibodies against ADAMTS13 with no observable clinical impact on the safety or efficacy of ADZYNMA, and no increase in antibody titers over time. No cTTP patients in the clinical trials tested positive for neutralizing antibodies against ADAMTS13. Neutralizing antibodies to ADAMTS13 have been reported following ADZYNMA administration with serious outcome including death in the postmarketing setting [see Adverse Reactions (6.2)].
+
+                        The effect of these antibodies on the pharmacokinetics and pharmacodynamics of rADAMTS13 products is unknown [see Warnings and Precautions (5.1)].
+
+                        There are no data on immunogenicity in previously untreated patients (subjects naïve to plasma-based products), therefore, the risk of immunogenicity for naïve subjects to this drug product is unknown.

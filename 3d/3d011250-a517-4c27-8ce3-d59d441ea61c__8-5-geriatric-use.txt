@@ -1,0 +1,31 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 8.5 Geriatric Use
+
+Clinical studies of haloperidol decanoate did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients.
+
+                        The exposure of haloperidol may be higher in geriatric patients compared to young adult patients. Results from small clinical studies suggest a lower clearance and a longer elimination half-life of haloperidol in geriatric patients [s
+
+  ee Clinical Pharmacology(
+
+  12.3)]. Consider starting at the low end of the recommended dosing range for the first haloperidol decanoate dose in geriatric patients [
+
+  see Dosage and Administration(
+
+  2.1)].
+
+                        Antipsychotic drugs increase the risk of death in elderly patients with dementia-related psychosis. Haloperidol decanoate is not approved for the treatment of patients with dementia-related psychosis [
+
+  see Warnings and Precautions(
+
+  5.1)].
+
+                        Elderly patients with dementia-related psychosis treated with antipsychotics had an increased risk of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack) including fatalities, compared to those treated with placebo [see
+
+  Warnings and Precautions(
+
+  5.4)].
+
+                        Antipsychotic drugs increase the risk of tardive dyskinesia and this risk appears to be highest among the elderly, particularly elderly women [
+
+  see Warnings and Precautions(
+
+  5.5)].

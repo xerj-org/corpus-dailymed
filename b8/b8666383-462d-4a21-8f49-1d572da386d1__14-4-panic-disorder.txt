@@ -1,0 +1,7 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 14.4 Panic Disorder
+
+The effectiveness of fluoxetine in the treatment of Panic Disorder was demonstrated in 2 double-blind, randomized, placebo-controlled, multicenter studies of adult outpatients who had a primary diagnosis of Panic Disorder (DSM-IV), with or without agoraphobia.
+
+  Study 1 (N=180 randomized) was a 12-week flexible-dose study. Fluoxetine was initiated at 10 mg/day for the first week, after which patients were dosed in the range of 20 to 60 mg/day on the basis of clinical response and tolerability. A statistically significantly greater percentage of fluoxetine-treated patients were free from panic attacks at endpoint than placebo-treated patients, 42% versus 28%, respectively.
+
+  Study 2 (N=214 randomized) was a 12-week flexible-dose study. Fluoxetine was initiated at 10 mg/day for the first week, after which patients were dosed in a range of 20 to 60 mg/day on the basis of clinical response and tolerability. A statistically significantly greater percentage of fluoxetine-treated patients were free from panic attacks at endpoint than placebo-treated patients, 62% versus 44%, respectively.

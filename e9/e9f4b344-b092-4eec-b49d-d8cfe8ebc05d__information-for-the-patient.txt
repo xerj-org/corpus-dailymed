@@ -1,0 +1,17 @@
+DailyMed e9f4b344-b092-4eec-b49d-d8cfe8ebc05d | pentobarbital sodium | Information for the patient
+
+Practitioners should give the following information and instructions to patients receiving barbiturates.
+
+                           The use of barbiturates carries with it an associated risk of psychological and/or physical dependence. The patient should be warned against increasing the dose of the drug without consulting a physician.
+
+                           Barbiturates may impair mental and/or physical abilities required for the performance of potentially hazardous tasks (e.g., driving, operating machinery, etc.).
+
+                           Alcohol should not be consumed while taking barbiturates. Concurrent use of the barbiturates with other CNS depressants (e.g., alcohol, narcotics, tranquilizers, and antihistamines) may result in additional CNS depressant effects.
+
+                                 Effect of anesthetic and sedation drugs on early brain development
+
+                              Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains. Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
+
+                              Because some animal data suggest that the window of vulnerability includes the 3rd trimester of pregnancy, discuss with pregnant women the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs. (See "
+                                    WARNINGS-Pediatric neurotoxicity
+                                 ".)

@@ -1,0 +1,21 @@
+DailyMed 4c966d73-77c6-4514-954e-57aa06a080c6 | ACETAMINOPHEN AND CODEINE PHOSPHATE | Dependence
+
+Both tolerance and physical dependence can develop during use of opioid therapy.
+
+  Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+
+                        Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g.,pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine). Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
+
+  Do not rapidly reduce or abruptly discontinue acetaminophen and codeine phosphate tablets in a patient physically dependent on opioids. Rapid tapering of acetaminophen and codeine phosphate tablets in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide. Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+
+                        When discontinuing acetaminophen and codeine phosphate tablets, gradually taper the dosage using a patient-specific plan that considers the following: the dose of acetaminophen and codeine phosphate tablets the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient. To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.  In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see
+
+                              DOSAGE AND ADMINISTRATION,
+
+   WARNINGS
+                           ]. 
+
+                        Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs (see
+
+                              Pregnancy
+                           ).

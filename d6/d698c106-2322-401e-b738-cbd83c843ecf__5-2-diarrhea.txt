@@ -1,0 +1,13 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 5.2 Diarrhea
+
+TRUQAP can cause severe diarrhea associated with dehydration.
+
+                        Monitor patients for signs and symptoms of diarrhea. Advise patients to increase oral fluids and start antidiarrheal treatment at the first sign of diarrhea while taking TRUQAP. Withhold, reduce dose, or permanently discontinue TRUQAP based on severity [see Dosage and Administration (2.5)].
+
+                           CAPItello-291
+
+                        Diarrhea occurred in 72% of patients. Grade 3 or 4 diarrhea occurred in 9% of patients. The median time to first occurrence was 8 days (range 1 to 519). In the 257 patients with diarrhea, 59% required anti-diarrheal medications to manage symptoms. Dose reductions were required in 8% of patients, and 2% of patients permanently discontinued TRUQAP due to diarrhea. In patients with Grade ≥ 2 diarrhea (n=93) with at least 1 grade improvement (n=89), median time to improvement from the first event was 4 days (range: 1 to 154).
+
+                           CAPItello-281
+
+                        In CAPItello-281, diarrhea of any grade occurred in 264 (52%) patients, Grade 3 occurred in 31 (6%) patients and Grade 4 occurred in 1 (0.2%) patient. The median time to first occurrence was 12 days (range: 3 to 48). In the study, dose reductions were required in 26 (5%) patients and 6 (1.2%) patients discontinued TRUQAP due to diarrhea. In the 264 patients with diarrhea, anti-diarrheal medication was required in 64% (170/264) of patients to manage diarrhea symptoms.

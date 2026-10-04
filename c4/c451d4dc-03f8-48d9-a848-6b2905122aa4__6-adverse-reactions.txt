@@ -1,0 +1,11 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 6 ADVERSE REACTIONS
+
+The following serious adverse reactions are described elsewhere in the labeling:
+
+                     Anaphylaxis and Hypersensitivity
+
+   [see Contraindications (4), Warnings and Precautions (5.1)]
+
+                     Marked Bradycardia
+
+   [see Warnings and Precautions (5.2)]

@@ -1,0 +1,5 @@
+DailyMed a50eb0b4-1bee-4781-8eba-75e324540d36 | Ticagrelor | 8.2 Lactation
+
+Risk Summary
+
+  There are no data on the presence of ticagrelor or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production. Ticagrelor and its metabolites were present in rat milk at higher concentrations than in maternal plasma. When a drug is present in animal milk, it is likely that the drug will be present in human milk. Breastfeeding is not recommended during treatment with ticagrelor.

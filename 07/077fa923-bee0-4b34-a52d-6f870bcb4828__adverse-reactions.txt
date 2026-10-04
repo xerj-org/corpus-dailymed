@@ -1,0 +1,17 @@
+DailyMed 077fa923-bee0-4b34-a52d-6f870bcb4828 | Methocarbamol | ADVERSE REACTIONS
+
+Adverse reactions reported coincident with the administration of methocarbamol include:
+
+                     Body as a whole:Anaphylactic reaction, angioneurotic edema, fever, headache
+
+                     Cardiovascular system:Bradycardia, flushing, hypotension, syncope, thrombophlebitis
+
+                     Digestive system:Dyspepsia, jaundice (including cholestatic jaundice), nausea and vomiting
+
+                     Hemic and lymphatic system:Leukopenia
+
+                     Immune system:Hypersensitivity reactions
+
+                     Nervous system:Amnesia, confusion, diplopia, dizziness or lightheadedness, drowsiness, insomnia, mild muscular incoordination, nystagmus, sedation, seizures (including grand mal), vertigo
+
+                     Skin and special senses:Blurred vision, conjunctivitis, nasal congestion, metallic taste, pruritus, rash, urticaria

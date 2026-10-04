@@ -1,0 +1,187 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 14 CLINICAL STUDIES
+
+The efficacy of NIKTIMVO was evaluated in AGAVE-201 (NCT04710576), a randomized, open-label, multicenter study in adult and pediatric patients with recurrent or refractory cGVHD who had received at least 2 lines of systemic therapy and required additional treatment. Patients with platelet count ≥ 50 × 109/L, absolute neutrophil count ≥ 1 × 109/L, ALT and AST ≤ 2.5 × ULN (≤ 5 × ULN if liver cGVHD was present), total bilirubin ≤ 1.5 × ULN, and creatinine clearance ≥ 30 mL/minute were eligible. Patients with uncontrolled infections were not eligible.
+
+Treatment consisted of NIKTIMVO 0.3 mg/kg administered intravenously every 2 weeks until disease progression, lack of efficacy by 9 months, or unacceptable toxicity. Continued treatment with GVHD prophylaxis and standard care systemic cGVHD therapies were permitted as long as the patient had been on a stable dose for at least 2 weeks prior to study. Initiation of new systemic cGVHD therapy while on study was not permitted.
+
+Demographics and baseline characteristics of the 79 patients treated with NIKTIMVO 0.3 mg/kg every 2 weeks in AGAVE-201 are summarized in Table 4.
+
+                     Table 4: Demographics and Baseline Characteristics of Patients With cGVHD
+
+                            |
+
+                            |
+
+                            |
+
+                                 NIKTIMVO
+
+            0.3 mg/kg every 2 weeks
+
+            (N = 79)
+
+                            |
+
+                               Median age, years (range)
+
+                            |
+                           50 (7, 76) |
+
+                                      Age ≥ 65 years, n (%)
+
+                            |
+                           21 (27) |
+
+                               Male, n (%)
+
+                            |
+                           46 (58) |
+
+                               Race, n (%)
+
+                            |
+
+                                      White
+
+                            |
+                           67 (85) |
+
+                                      Asian
+
+                            |
+                           4 (5) |
+
+                                      Black
+
+                            |
+                           2 (3) |
+
+                                      Other
+
+                            |
+                           1 (1) |
+
+                                      Not reported
+
+                            |
+                           5 (6) |
+
+                               Median (range) time (months) from cGVHD diagnosis
+
+                            |
+                           47 (4, 211) |
+
+                               ≥ 4 Organs involved, n (%)
+
+                            |
+                           45 (57) |
+
+                               Median (range) number of prior lines of therapy
+
+                            |
+                           4 (2, 12) |
+
+                               Number of prior lines of therapy, n (%)
+
+                            |
+
+                                      2
+
+                            |
+                           11 (14) |
+
+                                      3
+
+                            |
+                           14 (18) |
+
+                                      4
+
+                            |
+                           17 (22) |
+
+                                      ≥ 5
+
+                            |
+                           37 (47) |
+
+                               Prior cGVHD treatment with ibrutinib, n (%)
+
+                            |
+                           27 (34) |
+
+                               Prior cGVHD treatment with ruxolitinib, n (%)
+
+                            |
+                           57 (72) |
+
+                               Prior cGVHD treatment with belumosudil, n (%)
+
+                            |
+                           16 (20) |
+
+                               Refractory to last therapy, n (%)
+
+                            |
+                           37 (47) |
+
+                               Severe cGVHD, n (%)
+
+                            |
+                           63 (80) |
+
+                            Median (range) Global Severity Rating |
+                            7 (2, 10) |
+
+                               Median (range) modified Lee Symptom Scale Score at baseline
+
+                            |
+                           24 (4, 55) |
+
+                            Median (range) corticosteroid dose at baseline (PE/kg)Prednisone equivalents/kilogram/day.
+
+                            |
+                            0.21 (0.04, 2.12)
+
+                            |
+
+                  The efficacy of NIKTIMVO was based on overall response rate (ORR) through Cycle 7 Day 1, where overall response included complete response or partial response according to the 2014 NIH Consensus Development Project on Response Criteria. The ORR results from AGAVE-201 for the 0.3 mg/kg every 2 weeks dosage regimen are presented in Table 5. The median time to first response was 1.5 months (range, 0.9 to 5.1 months). The median duration of response, calculated from first response to progression, death, or new systemic therapies for cGVHD, was 1.9 months (95% CI: 1.6, 3.5). In patients who achieved response, no death or new systemic therapy initiation occurred in 60% (95% CI: 43, 74) of patients for at least 12 months since response.
+
+                     Table 5: Efficacy Results From AGAVE-201
+
+                           CI = confidence interval. |
+
+                            |
+
+                                 Endpoint
+
+                            |
+
+                              NIKTIMVO
+
+            0.3 mg/kg every 2 weeks
+
+            (N = 79)
+                            |
+
+                                 Overall response rate, n (%)
+
+            95% CI
+
+                Complete response, n (%)
+
+                Partial response, n (%)
+
+                            |
+
+                              59 (75%)
+
+            64, 84
+
+            0 (0%)
+
+            59 (75%)
+
+                            |
+
+                  ORR results were supported by exploratory analyses of patient-reported symptom bother which showed at least a 7-point decrease in the modified Lee Symptom Scale score through Cycle 7 Day 1 in 56% (95% CI: 44, 67) of patients.

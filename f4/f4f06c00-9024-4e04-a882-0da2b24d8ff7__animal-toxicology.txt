@@ -1,0 +1,3 @@
+DailyMed f4f06c00-9024-4e04-a882-0da2b24d8ff7 | Atenolol | Animal Toxicology
+
+Chronic studies employing oral atenolol performed in animals have revealed the occurrence of vacuolation of epithelial cells of Brunner’s glands in the duodenum of both male and female dogs at all tested dose levels of atenolol (starting at 15 mg/kg/day or 7.5 times the maximum recommended human antihypertensive dose*) and increased incidence of atrial degeneration of hearts of male rats at 300 but not 150 mg atenolol/kg/day (150 and 75 times the maximum recommended human antihypertensive dose,* respectively).

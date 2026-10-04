@@ -1,0 +1,5 @@
+DailyMed 483bd97f-c4d0-4e23-aaa8-6334f4471e0c | PAXIL CR | 8.5 Geriatric Use
+
+SSRIs and SNRIs, including PAXIL CR, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.9)].   
+
+                        In premarketing clinical trials with immediate‑release paroxetine tablets, 17% of paroxetine treated patients (approximately 700) were 65 years or older. Clinical studies of PAXIL CR did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients.  The minimum plasma concentration (Cmin) of paroxetine was higher in immediate release paroxetine-treated patients 65 years of age and older compared to younger adult patients [see Clinical Pharmacology (12.3)]; therefore, the recommended starting PAXIL CR dosage is lower in patients 65 years of age and older for the treatment of MDD and the maximum recommended is lower in patients 65 years of age and older with MDD and , PD,  [see Dosage and Administration (2)].

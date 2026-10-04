@@ -1,0 +1,3 @@
+DailyMed 52cf3ba9-0a7c-4809-830e-af93d1532726 | CARBAMAZEPINE | Agents That Decrease Carbamazepine Levels
+
+CYP3A4 inducers can increase the rate of carbamazepine metabolism. Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include cisplatin, doxorubicin HCl, felbamate, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.

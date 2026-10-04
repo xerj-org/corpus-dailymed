@@ -1,0 +1,17 @@
+DailyMed 9dff10ec-6a55-47b6-a458-b7c39e32dc55 | Temozolomide | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of Temozolomide. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the drug exposure.
+
+                           Dermatologic: Toxic epidermal necrolysis and Stevens-Johnson syndrome.
+
+                           Immune System: Hypersensitivity reactions, including anaphylaxis. Erythema multiforme, which resolved after discontinuation of temozolomide capsules and, in some cases, recurred upon rechallenge.
+
+                           Hematopoietic: Prolonged pancytopenia, which may result in aplastic anemia and fatal outcomes.
+
+                           Hepatobiliary: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis.
+
+                           Infections: Serious opportunistic infections, including some cases with fatal outcomes with bacterial, viral (primary and reactivated), fungal, and protozoan organisms.
+
+                           Pulmonary: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
+
+                           Endocrine: Diabetes insipidus.

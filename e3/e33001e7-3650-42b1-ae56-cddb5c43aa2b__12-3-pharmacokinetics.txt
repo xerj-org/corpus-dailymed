@@ -1,0 +1,120 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 12.3 Pharmacokinetics
+
+Asciminib steady-state exposure (AUC and Cmax) increase slightly more than dose proportional across the dose range of 10 to 200 mg (0.25 to 5 times the recommended 80 mg daily dosage) administered once or twice daily.
+
+                        Pharmacokinetic parameters are presented as geometric mean (CV%) unless otherwise stated. The steady state Cmax and AUCtau of asciminib at recommended dosages are listed in Table 9.
+
+                           Table 9: Steady Statea Asciminib Exposure at Recommended Dosages
+
+                                    aSteady state is achieved within 3 days.
+
+                                    bAUCtau represents AUC0-12h for twice daily dosing and AUC0-24h for once daily dosing.
+											 |
+
+                                    Asciminib dosage
+                                  |
+
+                                    Cmax (ng/mL)
+                                  |
+
+                                    AUCtau
+                                       b (ng*h/mL)
+                                  |
+
+                                    Accumulation ratio
+                                  |
+
+                                 80 mg once daily |
+                                 1781 (23%) |
+                                 15112 (28%) |
+                                 1.30 |
+
+                                 40 mg twice daily |
+                                 793 (49%) |
+                                 5262 (48%) |
+                                 1.65 |
+
+                                 200 mg twice daily |
+                                 5642 (40%) |
+                                 37547 (41%) |
+                                 1.92 |
+
+                           Absorption
+
+                        The median (range) Tmax of asciminib is 2.5 hours (2 to 3 hours).
+
+                           Effect of Food
+
+                        The AUC and Cmax of asciminib decreased by 62% and 68%, respectively, with a high-fat meal (1000 calories, 50% fat) and by 30% and 35%, respectively, with a low-fat meal (400 calories, 25% fat) compared to the fasted state following administration of SCEMBLIX.
+
+                           Distribution
+
+                        The apparent volume of distribution of asciminib at steady state is 151 L (135%). Asciminib is the main circulating component in plasma (93% of the administered dose).
+
+                        Asciminib is 97% bound to human plasma proteins in vitro.
+
+                           Elimination
+
+                        The total apparent clearance of asciminib is 6.7 L/hour (48%) at 40 mg twice daily and 80 mg once daily, and 4.1 L/hour (38%) at 200 mg twice daily. The terminal elimination half-life of asciminib is 5.5 hours (38%) at 40 mg twice daily and 80 mg once daily, and 9.0 hours (33%) at 200 mg twice daily.
+
+                           Metabolism
+
+                        Asciminib is metabolized by CYP3A4-mediated oxidation, UGT2B7- and UGT2B17-mediated glucuronidation.
+
+                           Excretion
+
+                        Eighty percent (57% as unchanged) and 11% (2.5% as unchanged) of the asciminib dose were recovered in the feces and in the urine of healthy subjects, respectively, following oral administration of a single 80 mg dose of radio-labeled asciminib.
+
+                        Asciminib is eliminated by biliary secretion via breast cancer-resistant protein (BCRP).
+
+                           Specific Populations
+
+                        No clinically significant differences in the pharmacokinetics of asciminib were observed based on sex, age (20 to 88 years), race (Asian 20%, White 70%, Black/African American 4%), or body weight (42-184 kg), mild to moderate renal impairment (eGFR 30 to 89 mL/min/1.73 m2), or mild (total bilirubin ≤ ULN and AST > ULN or total bilirubin > 1 to 1.5 times ULN and any AST) to moderate (total bilirubin > 1.5 to 3 times ULN and any AST) hepatic impairment.
+
+                           Patients with Renal Impairment
+
+                        Asciminib AUCinf and Cmax are increased by 57% and 6%, respectively, in subjects with eGFR between 13 to < 30 mL/min/1.73 m2 and not requiring dialysis compared to subjects with normal renal function (eGFR ≥ 90 mL/min/1.73 m2) following oral administration of a single 40 mg dose of SCEMBLIX. The exposure changes in patients with severe renal impairment are not considered clinically meaningful.
+
+                           Patients with Hepatic Impairment
+
+                        Asciminib AUCinf and Cmax are increased by 33% and 4%, respectively, in subjects with severe hepatic impairment (total bilirubin > 3 times ULN and any AST), compared to subjects with normal hepatic function (total bilirubin ≤ ULN and AST ≤ ULN) following oral administration of a single 40 mg dose of SCEMBLIX. The exposure changes are not considered clinically meaningful.
+
+                           Drug Interaction Studies
+
+                           Clinical Studies and Model-Informed Approaches
+
+                           Drugs That Affect Asciminib Plasma Concentration
+
+                           Strong CYP3A Inhibitors: The asciminib AUCinf and Cmax increased 1.36-fold and 1.19-fold, respectively, following coadministration of a single SCEMBLIX dose of 40 mg with a strong CYP3A4 inhibitor (clarithromycin). No clinically significant differences in the pharmacokinetics of asciminib were observed when coadministered with itraconazole, which is also a strong CYP3A4 inhibitor.
+
+                           Strong CYP3A Inducers: The asciminib AUCinf decreased to 66% and Cmax decreased to 78% following coadministration of a single SCEMBLIX dose of 200 mg with a strong CYP3A4 inducer (phenytoin) 100 mg three times daily. The asciminib AUCinf decreased to 85% while Cmax increased, 1.09-fold following coadministration of a single SCEMBLIX dose of 40 mg with a strong CYP3A4 inducer (rifampicin).
+
+                           Itraconazole Oral Solution: The asciminib AUCinf and Cmax decreased to 60% and 50%, respectively, following coadministration of a single SCEMBLIX dose of 40 mg with multiple doses of itraconazole oral solution containing hydroxypropyl-β-cyclodextrin. Concomitant use of oral products containing hydroxypropyl-β-cyclodextrin with SCEMBLIX other than itraconazole oral solution has not been fully characterized.
+
+                           Imatinib: The asciminib AUCinf and Cmax increased 2.08-fold and 1.59-fold, respectively following coadministration of a single SCEMBLIX dose of 40 mg with imatinib (an inhibitor of BCRP, CYP3A4, UGT2B17, and UGT1A3/4). The exposure changes are not considered clinically meaningful. Concomitant use of imatinib with SCEMBLIX at 200 mg twice daily has not been fully characterized.
+
+                           Other Drugs: No clinically significant differences in the pharmacokinetics of asciminib were observed when coadministered with rabeprazole (acid-reducing agent) and quinidine (P-gp inhibitor).
+
+                           Drugs That are Affected by Asciminib
+
+                           CYP3A4 Substrates: The midazolam AUCinf and Cmax increased 1.28-fold and 1.11-fold, respectively, following coadministration of a CYP3A4 substrate (midazolam) with SCEMBLIX 40 mg twice daily. The midazolam AUCinf and Cmax increased 1.24-fold and 1.17-fold, respectively, following coadministration with SCEMBLIX at 80 mg once daily and 1.88-fold and 1.58-fold, respectively, at 200 mg twice daily.
+
+                           CYP2C9 Substrates: The S-warfarin AUCinf and Cmax increased 1.41-fold and 1.08-fold, respectively, following coadministration of CYP2C9 substrate (warfarin) with SCEMBLIX at 40 mg twice daily. The S-warfarin AUCinf and Cmax increased 1.52-fold and 1.04-fold, respectively, following coadministration with SCEMBLIX at 80 mg once daily and 4.14-fold and 1.07-fold, respectively, at 200 mg twice daily.
+
+                           CYP2C8 Substrates: The repaglinide (substrate of CYP2C8, CYP3A4, and OATP1B) AUCinf and Cmax increased 1.08-fold and 1.14-fold, respectively, following coadministration of repaglinide with SCEMBLIX 40 mg twice daily. The repaglinide AUCinf and Cmax increased 1.12-fold and 1.08-fold, respectively, following coadministration with SCEMBLIX at 80 mg once daily and 1.42-fold and 1.25-fold, respectively, at 200 mg twice daily. The rosiglitazone (substrate of CYP2C8 and CYP2C9) AUCinf and Cmax increased 1.20-fold and 1.03-fold, respectively, following coadministration of rosiglitazone with SCEMBLIX 40 mg twice daily. The rosiglitazone AUCinf and Cmax increased 1.24-fold and 1.02-fold, respectively, following coadministration with SCEMBLIX at 80 mg once daily and 1.66-fold and 1.08-fold, respectively, at 200 mg twice daily.
+
+                           P-gp Substrates: The digoxin (substrate of P-gp) AUCinf and Cmax increased 1.18-fold and 1.30-fold, respectively, following coadministration of digoxin with SCEMBLIX 80 mg once daily. Coadministration of SCEMBLIX 200 mg twice daily with a drug that is a substrate of P-gp may result in a more pronounced increase in the plasma concentrations of P-gp substrates, such that minimal concentration changes may lead to serious toxicities.
+
+                           OATP1B Substrates: The atorvastatin (substrate of OATP1B, CYP3A4, and P-gp) AUCinf and Cmax increased 1.14-fold and 1.24-fold, respectively, following coadministration of atorvastatin with SCEMBLIX 80 mg once daily.
+
+                           BCRP Substrates: The rosuvastatin (substrate of BCRP and OATP1B) AUCinf and Cmax increased 2.18-fold and 2.82-fold, respectively, following coadministration of rosuvastatin with SCEMBLIX 80 mg once daily. Coadministration of SCEMBLIX 200 mg twice daily with a drug that is a substrate of BCRP may result in a more pronounced increase in the plasma concentrations of BCRP substrates, such that minimal concentration changes may lead to serious toxicities.
+
+                           In Vitro Studies
+
+                           CYP450 and UGT Enzymes
+
+                        Asciminib may reversibly inhibit UGT1A1 at plasma concentrations reached at a total daily dose of 80 mg and 200 mg twice daily. In addition, asciminib may reversibly inhibit CYP2C19 at concentrations reached at 200 mg twice daily dose.
+
+                           Transporter Systems
+
+                        Asciminib is a substrate of BCRP and P-gp. Asciminib inhibits BCRP, P-gp, OATP1B1, OATP1B3, and OCT1. Asciminib may increase the exposure of BCRP substrates in a dose dependent manner.

@@ -1,0 +1,107 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 14.2 Rheumatoid Arthritis – Subcutaneous Administration
+
+The efficacy and safety of subcutaneously administered tocilizumab was assessed in two double-blind, controlled, multicenter studies in patients with active RA. One study, SC-I (NCT01194414), was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week subcutaneously to 8 mg per kg intravenously every four weeks. The second study, SC-II (NCT01232569), was a placebo controlled superiority study that evaluated the safety and efficacy of tocilizumab 162 mg administered every other week subcutaneously to placebo. Both SC-I and SC-II required patients to be >18 years of age with moderate to severe active rheumatoid arthritis diagnosed according to ACR criteria who had at least 4 tender and 4 swollen joints at baseline (SC-I) or at least 8 tender and 6 swollen joints at baseline (SC-II), and an inadequate response to their existing DMARD therapy, where approximately 20% also had a history of inadequate response to at least one TNF inhibitor. All patients in both SC studies received background non-biologic DMARD(s).
+
+                        In SC-I, 1262 patients were randomized 1:1 to receive tocilizumab-SC 162 mg every week or intravenous tocilizumab 8 mg/kg every four weeks in combination with DMARD(s). In SC-II, 656 patients were randomized 2:1 to tocilizumab-SC 162 mg every other week or placebo, in combination with DMARD(s). The primary endpoint in both studies was the proportion of patients who achieved an ACR20 response at Week 24.
+
+                        The clinical response to 24 weeks of tocilizumab-SC therapy is shown in Table 8. In SC-I, the primary outcome measure was ACR20 at Week 24. The pre-specified non-inferiority margin was a treatment difference of 12%. The study demonstrated non-inferiority of tocilizumab with respect to ACR20 at Week 24; ACR50, ACR70, and DAS28 responses are also shown in Table 8. In SC-II, a greater portion of patients treated with tocilizumab 162 mg subcutaneously every other week achieved ACR20, ACR50, and ACR70 responses compared to placebo-treated patients (Table 8). Further, a greater proportion of patients treated with tocilizumab 162 mg subcutaneously every other week achieved a low level of disease activity as measured by a DAS28-ESR less than 2.6 at Week 24 compared to those treated with placebo (Table 8).
+
+                           Table 8 Clinical Response at Week 24 in Trials of Subcutaneous Tocilizumab (Percent of Patients)
+
+                                  |
+                                 SC-I
+                        Per Protocol Population
+
+                                  |
+                                 SC-II
+                        Intent To Treat Population
+
+                                  |
+
+                                  |
+                                 TCZ SC 162 mg every week + DMARD |
+                                 TCZ IV 8mg/kg + DMARD |
+                                 TCZ SC 162 mg every other week + DMARD |
+                                 Placebo + DMARD |
+
+                                  |
+                                 N=558 |
+                                 N=537 |
+                                 N=437 |
+                                 N=219 |
+
+                                 TCZ = tocilizumab |
+
+                                 ACR20 |
+
+                                 Week 24 |
+                                 69% |
+                                 73.4% |
+                                 61% |
+                                 32% |
+
+                                 Weighted difference (95% CI) |
+                                 -4% (-9.2, 1.2) |
+                                 30% (22.0, 37.0) |
+                                  |
+                                  |
+
+                                 ACR50 |
+
+                                 Week 24 |
+                                 47% |
+                                 49% |
+                                 40% |
+                                 12% |
+
+                                 Weighted difference (95% CI) |
+                                 -2% (-7.5, 4.0) |
+                                 28% (21.5, 34.4) |
+                                  |
+                                  |
+
+                                 ACR70 |
+
+                                 Week 24 |
+                                 24% |
+                                 28% |
+                                 20% |
+                                 5% |
+
+                                 Weighted difference (95% CI) |
+                                 -4% (-9.0, 1.3) |
+                                 15% (9.8, 19.9) |
+                                  |
+                                  |
+
+                                 Change in DAS28 [Adjusted mean] |
+
+                                 Week 24 |
+                                 -3.5 |
+                                 -3.5 |
+                                 -3.1 |
+                                 -1.7 |
+
+                                 Adjusted mean difference
+
+ (95% CI) |
+                                 0 (-0.2, 0.1) |
+                                 -1.4 (-1.7, -1.1) |
+                                  |
+                                  |
+
+                                 DAS28 < 2.6 |
+
+                                 Week 24 |
+                                 38.4% |
+                                 36.9% |
+                                 32.0% |
+                                 4.0% |
+
+                                 Weighted difference (95% CI) |
+                                 0.9 (-5.0, 6.8) |
+                                 28.6 (22.0, 35.2) |
+                                  |
+                                  |
+
+                        The results of the components of the ACR response criteria and the percent of ACR20 responders by visit for tocilizumab-SC in Studies SC-I and SC-II were consistent with those observed for tocilizumab-IV.

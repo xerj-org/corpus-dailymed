@@ -1,0 +1,9 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 7.11 Pantoprazole
+
+Administration of pantoprazole at a dose of 40 mg twice daily for 4 days to healthy volunteers did not alter the pharmacokinetics of a single dose of mycophenolic acid delayed release [see
+
+                              Clinical Pharmacology (
+
+    12.3)
+
+                           ].

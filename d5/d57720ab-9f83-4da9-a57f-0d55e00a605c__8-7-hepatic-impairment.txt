@@ -1,0 +1,11 @@
+DailyMed d57720ab-9f83-4da9-a57f-0d55e00a605c | ATORVASTATIN CALCIUM | 8.7 Hepatic Impairment
+
+In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin are markedly increased. C
+
+  maxand AUC are each 4-fold greater in patients with Childs-Pugh A disease. C
+
+  maxand AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease. Atorvastatin calcium tablets are contraindicated in patients with acute liver failure or decompensated cirrhosis
+
+  [see Contraindications (
+
+   4)].

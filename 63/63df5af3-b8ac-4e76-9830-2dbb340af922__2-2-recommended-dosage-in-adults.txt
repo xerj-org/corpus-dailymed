@@ -1,0 +1,44 @@
+DailyMed 63df5af3-b8ac-4e76-9830-2dbb340af922 | Tivicay PD; Tivicay | 2.2 Recommended Dosage in Adults
+
+TIVICAY tablets may be taken with or without food in combination with other antiretrovirals [see Clinical Pharmacology (12.3)]. Refer to Table 1 for dosage recommendation for adults using TIVICAY tablets.
+
+                           Table 1. Dosing Recommendations for TIVICAY Tablets in Adult Patients
+
+                                 INSTI = integrase strand transfer inhibitor. |
+
+                                    a  Rilpivirine dose is 25 mg once daily for those switching to dolutegravir plus rilpivirine.
+
+                                    b  Alternative combinations that do not include metabolic inducers should be considered where possible [see Drug Interactions (7.3)]. |
+
+                                       Population
+
+                                  |
+
+                                       Recommended Dosage
+
+                                  |
+
+                                    Treatment-naïve or treatment-experienced INSTI-naïve or virologically suppressed (HIV‑1 RNA <50 copies/mL) adults switching to dolutegravir plus rilpivirinea
+
+                                  |
+
+                                    50 mg once daily
+
+                                  |
+
+                                    Treatment-naïve or treatment-experienced INSTI-naïve when coadministered with certain uridine diphosphate (UDP)-glucuronosyl transferase 1A1 (UGT1A) or cytochrome P450 (CYP)3A inducers [see Drug Interactions (7.2, 7.3)]
+
+                                  |
+
+                                    50 mg twice daily
+
+                                  |
+
+                                    INSTI-experienced with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistanceb
+                                       [see Microbiology (12.4)]
+
+                                  |
+
+                                    50 mg twice daily
+
+                                  |

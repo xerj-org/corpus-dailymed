@@ -1,0 +1,3 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 17.1 Local Nasal Effects
+
+Inform patients that treatment with QNASL Nasal Aerosol may lead to adverse reactions, including epistaxis, nasal ulceration, and nasal discomfort.  Candida infection may also occur with treatment with QNASL Nasal Aerosol.  In addition, nasal beclomethasone dipropionate products are known to be associated with nasal septal perforation and impaired wound healing.  Patients who have experienced recent nasal ulcers, nasal surgery, or nasal trauma should not use QNASL Nasal Aerosol until healing has occurred [see Warnings and Precautions (5.1)].

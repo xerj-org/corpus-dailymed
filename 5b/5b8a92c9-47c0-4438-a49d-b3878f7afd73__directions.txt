@@ -1,0 +1,55 @@
+DailyMed 5b8a92c9-47c0-4438-a49d-b3878f7afd73 | Acetaminophen; Temp X; Mejoralito | Directions
+
+this product does not contain directions or complete warnings for adult use
+
+                     do not give more than directed (see overdose warning)
+
+                     shake well before using
+
+                     mL= millilitar
+
+                     find right dose on chart below, if possible, use weight to dose; otherwise, use age
+
+                     only use enclosed measuring syringe
+
+                     repeat dose every 4 hours while symptoms last
+
+                     do not give more than 5 times in 24 hours
+
+                                 Weight (Ib)
+
+                            |
+
+                                 Age (yr)
+
+                            |
+
+                                 Dose (mL)
+
+       or as directed by doctor
+
+                            |
+
+                              under 24
+
+                            |
+
+                              under 2 years
+
+                            |
+
+                              ask a doctor
+
+                            |
+
+                              24-35
+
+                            |
+
+                              2-3 years
+
+                            |
+
+                              5 mL
+
+                            |

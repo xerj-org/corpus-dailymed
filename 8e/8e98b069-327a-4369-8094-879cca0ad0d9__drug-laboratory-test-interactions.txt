@@ -1,0 +1,3 @@
+DailyMed 8e98b069-327a-4369-8094-879cca0ad0d9 | prazosin hydrochloride | Drug/Laboratory Test Interactions
+
+In a study on five patients given from 12 to 24 mg of prazosin per day for 10 to 14 days, there was an average increase of 42% in the urinary metabolite of norepinephrine and an average increase in urinary VMA of 17%. Therefore, false positive results may occur in screening tests for pheochromocytoma in patients who are being treated with prazosin. If an elevated VMA is found, prazosin should be discontinued and the patient retested after a month.

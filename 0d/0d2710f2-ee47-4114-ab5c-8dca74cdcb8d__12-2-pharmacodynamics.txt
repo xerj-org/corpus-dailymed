@@ -1,0 +1,3 @@
+DailyMed 0d2710f2-ee47-4114-ab5c-8dca74cdcb8d | Dexmedetomidine; Dexmedetomidine in Dextrose | 12.2 Pharmacodynamics
+
+In a study in healthy adult volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when dexmedetomidine was administered by intravenous infusion at doses within the recommended dose range (0.2–0.7 mcg/kg/hr).

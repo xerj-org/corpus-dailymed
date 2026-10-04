@@ -1,0 +1,9 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described below with the incidence of ADA in other studies, including those of TECENTRIQ HYBREZA or of other atezolizumab products or hyaluronidase products.
+
+                        During the first year of treatment in the Study IMscin001 [see Clinical Studies (14.1)], the incidence of ADA was 20% (43/221) and the incidence of neutralizing antibodies (NAb) in ADA-positive patients was 54% (21/39) for TECENTRIQ HYBREZA. The corresponding incidence of ADA was 14% (15/108) and NAb was 60% (9/15) for intravenous atezolizumab.
+
+                        In Study IMscin001, atezolizumab clearance increased by 29% in patients who received TECENTRIQ HYBREZA and who tested positive for ADA, compared to patients who tested negative for ADA; this change in clearance is not expected to be clinically significant. Because of limited immunogenicity data the effect of ADA on the effectiveness of TECENTRIQ HYBREZA is unknown. There was no identified clinically significant effect of anti-atezolizumab antibodies on the safety of TECENTRIQ HYBREZA during the first 6 months of treatment.
+
+                        In Study IMscin001, the incidence of anti-rHuPH20 antibodies was 5.4% (12/224) and the incidence of NAb was 0% (0/12). Because of the low occurrence of anti-rHuPH20 antibodies, the effect of these antibodies on the pharmacokinetics, pharmacodynamics and/or safety of hyaluronidase in TECENTRIQ HYBREZA is unknown.

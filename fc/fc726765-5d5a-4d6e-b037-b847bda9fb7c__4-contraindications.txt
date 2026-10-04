@@ -1,0 +1,9 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 4 CONTRAINDICATIONS
+
+Kerendia is contraindicated in patients:
+
+                     Who are hypersensitive to any component of this product [see Adverse Reactions (6.2)].
+
+                     Who are receiving concomitant treatment with strong CYP3A4 inhibitors [see Drug Interactions (7.1)].
+
+                     With adrenal insufficiency.

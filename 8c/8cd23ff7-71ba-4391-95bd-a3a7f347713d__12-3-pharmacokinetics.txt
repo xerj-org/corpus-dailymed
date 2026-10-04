@@ -1,0 +1,222 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 12.3 Pharmacokinetics
+
+Absorption:
+                           In a study with
+  14C-tolterodine solution in healthy volunteers who received a 5 mg oral dose, at least 77% of the radiolabeled dose was absorbed. C
+  max and area under the concentration-time curve (AUC) determined after dosage of tolterodine immediate release are dose-proportional over the range of 1 to 4 mg. Based on the sum of unbound serum concentrations of tolterodine and 5-HMT ("active moiety"), the AUC of tolterodine extended release 4 mg daily is equivalent to tolterodine immediate release 4 mg (2 mg bid). C
+  max and C
+  min levels of tolterodine extended release are about 75% and 150% of tolterodine immediate release, respectively. Maximum serum concentrations of tolterodine extended release are observed 2 to 6 hours after dose administration.
+
+                              Effect of Food:
+                           There is no effect of food on the pharmacokinetics of tolterodine extended release.
+
+                              Distribution:
+                           Tolterodine is highly bound to plasma proteins, primarily α
+  1-acid glycoprotein. Unbound concentrations of tolterodine average 3.7% ± 0.13% over the concentration range achieved in clinical studies. 5-HMT is not extensively protein bound, with unbound fraction concentrations averaging 36% ± 4.0%. The blood to serum ratio of tolterodine and 5-HMT averages 0.6 and 0.8, respectively, indicating that these compounds do not distribute extensively into erythrocytes. The volume of distribution of tolterodine following administration of a 1.28 mg intravenous dose is 113 ± 26.7 L.
+
+                              Metabolism:
+                           Tolterodine is extensively metabolized by the liver following oral dosing. The primary metabolic route involves the oxidation of the 5-methyl group and is mediated by the cytochrome P450 2D6 (CYP2D6) and leads to the formation of a pharmacologically active metabolite, 5-HMT. Further metabolism leads to formation of the 5-carboxylic acid and
+  N-dealkylated 5-carboxylic acid metabolites, which account for 51% ± 14% and 29% ± 6.3% of the metabolites recovered in the urine, respectively.
+
+                           Variability in Metabolism: A subset of individuals (approximately 7% of Caucasians and approximately 2% of African Americans) are poor metabolizers for CYP2D6, the enzyme responsible for the formation of 5-HMT from tolterodine. The identified pathway of metabolism for these individuals ("poor metabolizers") is dealkylation via cytochrome P450 3A4 (CYP3A4) to
+  N-dealkylated tolterodine. The remainder of the population is referred to as "extensive metabolizers." Pharmacokinetic studies revealed that tolterodine is metabolized at a slower rate in poor metabolizers than in extensive metabolizers; this results in significantly higher serum concentrations of tolterodine and in negligible concentrations of 5-HMT.
+
+                              Excretion:
+                           Following administration of a 5 mg oral dose of
+  14C-tolterodine solution to healthy volunteers, 77% of radioactivity was recovered in urine and 17% was recovered in feces in 7 days. Less than 1% (<2.5% in poor metabolizers) of the dose was recovered as intact tolterodine, and 5% to 14% (<1% in poor metabolizers) was recovered as 5-HMT.
+
+                        A summary of mean (± standard deviation) pharmacokinetic parameters of tolterodine extended release and 5-HMT in extensive (EM) and poor (PM) metabolizers is provided in Table 3. These data were obtained following single and multiple doses of tolterodine extended release administered daily to 17 healthy male volunteers (13 EM, 4 PM).
+
+                           Table 3. Summary of Mean (±SD) Pharmacokinetic Parameters of Tolterodine Extended Release and its Active Metabolite (5-Hydroxymethyl Tolterodine) in Healthy Volunteers
+
+                                 C
+     max= Maximum serum concentration; t
+     max= Time of occurrence of C
+     max;
+     |
+
+                                 C
+     avg= Average serum concentration; t
+     ½= Terminal elimination half-life.
+     |
+
+                                       Tolterodine
+
+                                  |
+
+                                       5-Hydroxymethyl Tolterodine
+
+                                  |
+
+                                  |
+
+                                    t
+      max
+                                       Data presented as median (range)
+
+			(h)
+
+                                  |
+
+                                    C
+      max
+
+			(mcg/L)
+
+                                  |
+
+                                    C
+      avg
+
+			(mcg/L)
+
+                                  |
+
+                                    t
+      ½
+
+			(h)
+
+                                  |
+
+                                    t
+      max
+
+			(h)
+
+                                  |
+
+                                    C
+      max
+
+			(mcg/L)
+
+                                  |
+
+                                    C
+      avg
+
+			(mcg/L)
+
+                                  |
+
+                                    t
+      ½
+
+			(h)
+
+                                  |
+
+                                    Single dose 4 mg
+      Parameter dose-normalized from 8 to 4 mg for the single-dose data.
+
+                                    EM
+
+                                  |
+
+                                    4 (2 to 6)
+
+                                  |
+
+                                    1.3 (0.8)
+
+                                  |
+
+                                    0.8 (0.57)
+
+                                  |
+
+                                    8.4 (3.2)
+
+                                  |
+
+                                    4 (3 to 6)
+
+                                  |
+
+                                    1.6 (0.5)
+
+                                  |
+
+                                    1.0 (0.32)
+
+                                  |
+
+                                    8.8 (5.9)
+
+                                  |
+
+                                    Multiple dose 4 mg
+
+                                    EM
+
+                                    PM
+
+                                  |
+
+                                    4 (2 to 6)
+
+                                    4 (3 to 6)
+
+                                  |
+
+                                    3.4 (4.9)
+
+                                    19 (16)
+
+                                  |
+
+                                    1.7 (2.8)
+
+                                    13 (11)
+
+                                  |
+
+                                    6.9 (3.5)
+
+                                    18 (16)
+
+                                  |
+
+                                    4 (2 to 6)
+
+                                       = not applicable.
+
+                                  |
+
+                                    2.7 (0.90)
+
+                                  |
+
+                                    1.4 (0.6)
+
+                                  |
+
+                                    9.9 (4.0)
+
+                                  |
+
+                              Drug Interactions:
+
+                           Potent CYP2D6 inhibitors: Fluoxetine is a selective serotonin reuptake inhibitor and a potent inhibitor of CYP2D6 activity. In a study to assess the effect of fluoxetine on the pharmacokinetics of tolterodine immediate release and its metabolites, it was observed that fluoxetine significantly inhibited the metabolism of tolterodine immediate release in extensive metabolizers, resulting in a 4.8-fold increase in tolterodine AUC. There was a 52% decrease in C
+  max and a 20% decrease in AUC of 5-hydroxymethyl tolterodine (5-HMT, the pharmacologically active metabolite of tolterodine). Fluoxetine thus alters the pharmacokinetics in patients who would otherwise be CYP2D6 extensive metabolizers of tolterodine immediate release to resemble the pharmacokinetic profile in poor metabolizers. The sums of unbound serum concentrations of tolterodine immediate release and 5-HMT are only 25% higher during the interaction. No dose adjustment is required when tolterodine and fluoxetine are co-administered.
+
+                           Potent CYP3A4 inhibitors: The effect of a 200 mg daily dose of ketoconazole on the pharmacokinetics of tolterodine immediate release was studied in 8 healthy volunteers, all of whom were CYP2D6 poor metabolizers. In the presence of ketoconazole, the mean C
+  max and AUC of tolterodine increased by 2- and 2.5-fold, respectively. Based on these findings, other potent CYP3A4 inhibitors may also lead to increases of tolterodine plasma concentrations.
+
+                        For patients receiving ketoconazole or other potent CYP3A4 inhibitors such as itraconazole, miconazole, clarithromycin, ritonavir, the recommended dose of tolterodine tartrate extended-release capsules is 2 mg daily
+  [see
+
+                                 DOSAGE AND ADMINISTRATION (2.3)
+                              ].
+
+                           Warfarin: In healthy volunteers, coadministration of tolterodine immediate release 4 mg (2 mg bid) for 7 days and a single dose of warfarin 25 mg on day 4 had no effect on prothrombin time, Factor VII suppression, or on the pharmacokinetics of warfarin.
+
+                           Oral Contraceptives: Tolterodine immediate release 4 mg (2 mg bid) had no effect on the pharmacokinetics of an oral contraceptive (ethinyl estradiol 30 mcg/levo-norgestrel 150 mcg) as evidenced by the monitoring of ethinyl estradiol and levo-norgestrel over a 2-month period in healthy female volunteers.
+
+                           Diuretics:Coadministration of tolterodine immediate release up to 8 mg (4 mg bid) for up to 12 weeks with diuretic agents, such as indapamide, hydrochlorothiazide, triamterene, bendroflumethiazide, chlorothiazide, methylchlorothiazide, or furosemide, did not cause any adverse electrocardiographic (ECG) effects.
+
+                           Effect of tolterodine on other drugs metabolized by Cytochrome P450 enzymes: Tolterodine immediate release does not cause clinically significant interactions with other drugs metabolized by the major drug-metabolizing CYP enzymes.
+  In vivo drug-interaction data show that tolterodine immediate release does not result in clinically relevant inhibition of CYP1A2, 2D6, 2C9, 2C19, or 3A4 as evidenced by lack of influence on the marker drugs caffeine, debrisoquine, S-warfarin, and omeprazole.
+  In vitro data show that tolterodine immediate release is a competitive inhibitor of CYP2D6 at high concentrations (K
+  i1.05 μM), while tolterodine immediate release as well as the 5-HMT are devoid of any significant inhibitory potential regarding the other isoenzymes.

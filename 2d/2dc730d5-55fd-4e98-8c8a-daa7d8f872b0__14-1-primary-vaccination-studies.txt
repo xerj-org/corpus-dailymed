@@ -1,0 +1,1684 @@
+DailyMed 2dc730d5-55fd-4e98-8c8a-daa7d8f872b0 | Menveo | 14.1 Primary Vaccination Studies
+
+In the absence of a licensed comparator vaccine for use in infants, the pre-specified endpoint for effectiveness of MENVEO in U.S. infants receiving a 4-dose series at 2, 4, 6, and 12 months of age was the proportion of subjects achieving an hSBA ≥1:8, with the lower limit of the 2-sided 95% CI for the point estimate being ≥80% of vaccinees for serogroup A, and ≥85% of vaccinees for serogroups C, W-135, and Y 1 month following the final dose.
+
+                        The effectiveness of MENVEO in subjects aged 2 through 55 years was assessed by comparing the hSBA responses to immunization with MENVEO to those following immunization with the licensed meningococcal quadrivalent conjugate vaccine MENACTRA.
+
+                        The primary effectiveness endpoint was hSBA seroresponse to each serogroup 28 days after vaccination. Seroresponse was defined as: a) post-vaccination hSBA ≥1:8 for subjects with a baseline hSBA <1:4; or, b) at least 4-fold higher than baseline titers for subjects with a pre-vaccination hSBA ≥1:4. Secondary endpoints included the proportion of subjects with post-vaccination hSBA ≥1:8 and the hSBA Geometric Mean Titer (GMT) for each serogroup. In a separate group of children aged 2 through 5 years randomized to receive 2 doses of MENVEO administered 2 months apart, seroresponse rate, proportion with post-vaccination hSBA ≥1:8, and GMT were determined for each serogroup.
+
+                           Immunogenicity in Infants/Toddlers Aged 2 Months through 12 Months
+
+                        The effectiveness of MENVEO in infants was assessed in a randomized, controlled, multicenter study (NCT01000311). Among the subjects receiving MENVEO who were included in the per-protocol analysis, the mean age at enrollment was 65 days, 51% were male, 67% were Caucasian, 6% were African American, 15% were Hispanic, 2% were Asian, and 9% were noted as other racial/ethnic groups. The pre-defined criteria for immunogenicity were met for all 4 serogroups A, C, W-135, and Y at 1 month following completion of a 4-dose series at 2, 4, 6, and 12 months of age (Table 7).
+
+                        The percentage of subjects with hSBA ≥1:8 at 7 months was 94% to 98% for serogroups C, W-135, and Y and 76% for serogroup A.
+
+                           Table 7. Bactericidal Antibody Responses following Administration of MENVEO with Routine Infant/Toddler Vaccines at 2, 4, 6, and 12 Months of Age
+
+                                    Serogroup
+                                  |
+                                  |
+
+                                    Post 3rd Dose
+                                  |
+
+                                    Post 4th Dose
+                                  |
+
+                                 NCT01000311.
+
+% ≥1:8 = Proportions of subjects with hSBA ≥1:8 against a given serogroup; CI = Confidence interval; GMT = Geometric mean antibody titer; n = Number of infants eligible for inclusion in the Per-Protocol Immunogenicity population for whom serological results were available for the post-Dose 3 and post-Dose 4 evaluations.
+
+Serum Bactericidal Assay with exogenous human complement source (hSBA).
+
+                                    a Pre-specified criteria for adequacy of immune response were met (lower limit of the 95% CI >80% for serogroup A and >85% for serogroups C, W, and Y). |
+
+                                       A
+
+                                  |
+                                  |
+
+                                       n = 202
+
+                                  |
+
+                                       n = 168
+
+                                  |
+
+                                    % ≥1:8
+
+                                    95% CI
+
+                                  |
+
+                                    76
+
+(69, 81)
+
+                                  |
+
+                                    89
+
+(83a, 93)
+
+                                  |
+
+                                    GMT
+
+                                    95% CI
+
+                                  |
+
+                                    21
+
+                                    (17, 26)
+
+                                  |
+
+                                    54
+
+                                    (44, 67)
+
+                                  |
+
+                                       C
+
+                                  |
+                                  |
+
+                                       n = 199
+
+                                  |
+
+                                       n = 156
+
+                                  |
+
+                                    % ≥1:8
+
+                                    95% CI
+
+                                  |
+
+                                    94
+
+(90, 97)
+
+                                  |
+
+                                    95
+
+(90a, 98)
+
+                                  |
+
+                                    GMT
+
+                                    95% CI
+
+                                  |
+
+                                    74
+
+                                    (62, 87)
+
+                                  |
+
+                                    135
+
+                                    (107, 171)
+
+                                  |
+
+                                       W-135
+
+                                  |
+                                  |
+
+                                       n = 194
+
+                                  |
+
+                                       n = 153
+
+                                  |
+
+                                    % ≥1:8
+
+                                    95% CI
+
+                                  |
+
+                                    98
+
+(95, 99)
+
+                                  |
+
+                                    97
+
+(93a, 99)
+
+                                  |
+
+                                    GMT
+
+                                    95% CI
+
+                                  |
+
+                                    79
+
+                                    (67, 92)
+
+                                  |
+
+                                    215
+
+                                    (167, 227)
+
+                                  |
+
+                                       Y
+
+                                  |
+                                  |
+
+                                       n = 188
+
+                                  |
+
+                                       n = 153
+
+                                  |
+
+                                    % ≥1:8
+
+                                    95% CI
+
+                                  |
+
+                                    94
+
+(89, 97)
+
+                                  |
+
+                                    96
+
+(92a, 99)
+
+                                  |
+
+                                    GMT
+
+                                    95% CI
+
+                                  |
+
+                                    51
+
+                                    (43, 61)
+
+                                  |
+
+                                    185
+
+                                    (148, 233)
+
+                                  |
+
+                        The effectiveness of 2 doses of MENVEO given at 7-9 months and 12 months of age was assessed in a randomized, multicenter, controlled clinical trial (NCT00626327) conducted in the U.S. This study also investigated the concomitant administration of MENVEO and MMRV. The per-protocol population for assessing the response to 2 doses of MENVEO consisted of 386 subjects. Among subjects who completed the per-protocol analysis, their mean age at enrollment was 8.5 months (SD: 0.8 months), 50% were male; 61% were Caucasian, 15% were Hispanic, 10% were African American, 4% were Asian, and 10% were noted as other racial/ethnic groups.
+
+                        Among the per-protocol population, after MENVEO administered at 7-9 and at 12 months, the proportions of subjects with hSBA ≥1:8 for serogroups A, C, W-135, and Y were respectively: 88% (84-91), 100% (98-100), 98% (96-100), 96% (93-99).
+
+                           Immunogenicity in Children Aged 2 Years through 10 Years
+
+                        Effectiveness in subjects aged 2 through 10 years was evaluated in a randomized, multicenter, active-controlled clinical study (NCT00616421) comparing hSBA responses following 1 dose of MENVEO or MENACTRA. The study was conducted in the U.S. and Canada and was stratified by age (2 through 5 years and 6 through 10 years). The per-protocol population evaluated after a single dose of vaccine consisted of 1,170 subjects who received MENVEO and 1,161 who received MENACTRA (Table 8) and included serological results for 89% to 95% of subjects, depending on serogroup and age group. Demographics for the 616 and 619 subjects aged 2 through 5 years for MENVEO and MENACTRA were as follows: mean age 3.6 years (SD: 1.1) vs. 3.6 years (SD: 1.1), 51% vs. 52% male, 62% vs. 62% Caucasian, 14% vs. 13% Hispanic, 12% vs. 13% African American, 6% vs. 4% Asian, and 7% vs. 8% other racial/ethnic groups, respectively. Demographics were for 554 and 542 per-protocol subjects aged 6 through 10 years for MENVEO and MENACTRA were as follows: mean age 7.9 years (SD: 1.4) vs. 8.1 years (SD: 1.4), 52% vs. 56% male, 66% vs. 66% Caucasian, 14% vs. 14% African American, 7% vs. 7% Hispanic, 5% vs. 6% Asian, and 8% vs. 8% other racial/ethnic groups, respectively. In a separate group of children aged 2 through 5 years randomized to receive 2 doses of MENVEO administered 2 months apart, the per-protocol population evaluated after 2 doses of MENVEO consisted of 297 subjects and included serologic results for 96% to 99% of subjects, depending on serogroup.
+
+                        In study participants aged 2 through 5 years and 6 through 10 years, non-inferiority of MENVEO to MENACTRA for the proportion of subjects with a seroresponse was demonstrated for serogroups C, W-135, and Y, but not for serogroup A (Table 8).
+
+                           Table 8. Comparison of Bactericidal Antibody Responsesa to MENVEO and MENACTRA 28 Days after Vaccination of Subjects Aged 2 through 5 Years and 6 through 10 Years
+
+                                    Endpoint by Serogroup
+                                  |
+
+                                    2-5 Years
+                                  |
+
+                                    6-10 Years
+                                  |
+
+                                    MENVEO
+
+                                    (95% CI)
+                                  |
+
+                                    MENACTRA
+
+                                    (95% CI)
+                                  |
+
+                                    Percent Difference (MENVEO – MENACTRA) or GMT Ratio (MENVEO/
+
+                                    MENACTRA)
+
+                                    (95% CI)
+                                  |
+
+                                    MENVEO
+
+                                    (95% CI)
+                                  |
+
+                                    MENACTRA
+
+                                    (95% CI)
+                                  |
+
+                                    Percent Difference (MENVEO – MENACTRA) or GMT Ratio (MENVEO/
+
+                                    MENACTRA)
+
+                                    (95% CI)
+                                  |
+
+                                 NCT00616421.
+
+                                    a Serum Bactericidal Assay with exogenous human complement source (hSBA).
+
+CI = Confidence interval; GMT = Geometric mean antibody titer.
+
+                                    b Seroresponse was defined as: Subjects with a pre-vaccination hSBA <1:4, a post-vaccination titer of >1:8 and among subjects with a pre-vaccination hSBA ≥1:4, a post-vaccination titer at least 4-fold higher than baseline.
+
+                                    c Non-inferiority criterion not met (the lower limit of the 2-sided 95% CI ≤-10% for vaccine group differences).
+
+                                    d Non-inferiority criterion met (the lower limit of the 2-sided 95% CI >-10% for vaccine group differences [MENVEO minus MENACTRA]). |
+
+                                       A
+
+                                  |
+
+                                       n = 606
+
+                                  |
+
+                                       n = 611
+
+                                  |
+                                  |
+
+                                       n = 551
+
+                                  |
+
+                                       n = 541
+
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    72
+
+(68, 75)
+
+                                  |
+
+                                    77
+
+(73, 80)
+
+                                  |
+
+                                    -5
+
+(-10, -0)c
+
+                                  |
+
+                                    77
+
+(73, 80)
+
+                                  |
+
+                                    83
+
+(79, 86)
+
+                                  |
+
+                                    -6
+
+(-11, -1)c
+
+                                  |
+
+                                    % ≥1:8
+
+                                  |
+
+                                    72
+
+(68, 75)
+
+                                  |
+
+                                    78
+
+(74, 81)
+
+                                  |
+
+                                    -6
+
+(-11, -1)
+
+                                  |
+
+                                    77
+
+(74, 81)
+
+                                  |
+
+                                    83
+
+(80, 86)
+
+                                  |
+
+                                    -6
+
+(-11, -1)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    26
+
+(22, 30)
+
+                                  |
+
+                                    25
+
+(21, 29)
+
+                                  |
+
+                                    1.04
+
+(0.86, 1.27)
+
+                                  |
+
+                                    35
+
+(29, 42)
+
+                                  |
+
+                                    35
+
+(29, 41)
+
+                                  |
+
+                                    1.01
+
+(0.83, 1.24)
+
+                                  |
+
+                                       C
+
+                                  |
+
+                                       n = 607
+
+                                  |
+
+                                       n = 615
+
+                                  |
+                                  |
+
+                                       n = 554
+
+                                  |
+
+                                       n = 539
+
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    60
+
+(56, 64)
+
+                                  |
+
+                                    56
+
+(52, 60)
+
+                                  |
+
+                                    4
+
+(-2, 9)d
+
+                                  |
+
+                                    63
+
+(59, 67)
+
+                                  |
+
+                                    57
+
+(53, 62)
+
+                                  |
+
+                                    6
+
+(0, 11)d
+
+                                  |
+
+                                    % ≥1:8
+
+                                  |
+
+                                    68
+
+(64, 72)
+
+                                  |
+
+                                    64
+
+(60, 68)
+
+                                  |
+
+                                    4
+
+(-1, 10)
+
+                                  |
+
+                                    77
+
+(73, 80)
+
+                                  |
+
+                                    74
+
+(70, 77)
+
+                                  |
+
+                                    3
+
+(-2, 8)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    18
+
+(15, 20)
+
+                                  |
+
+                                    13
+
+(11, 15)
+
+                                  |
+
+                                    1.33
+
+(1.11, 1.6)
+
+                                  |
+
+                                    36
+
+(29, 45)
+
+                                  |
+
+                                    27
+
+(21, 33)
+
+                                  |
+
+                                    1.36
+
+(1.06, 1.73)
+
+                                  |
+
+                                       W-135
+
+                                  |
+
+                                       n = 594
+
+                                  |
+
+                                       n = 605
+
+                                  |
+                                  |
+
+                                       n = 542
+
+                                  |
+
+                                       n = 533
+
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    72
+
+                                    (68, 75)
+
+                                  |
+
+                                    58
+
+                                    (54, 62)
+
+                                  |
+
+                                    14
+
+                                    (9, 19)d
+
+                                  |
+
+                                    57
+
+(53, 61)
+
+                                  |
+
+                                    44
+
+(40, 49)
+
+                                  |
+
+                                    13
+
+(7, 18)d
+
+                                  |
+
+                                    % ≥1:8
+
+                                  |
+
+                                    90
+
+                                    (87, 92)
+
+                                  |
+
+                                    75
+
+                                    (71, 78)
+
+                                  |
+
+                                    15
+
+                                    (11, 19)
+
+                                  |
+
+                                    91
+
+                                    (88, 93)
+
+                                  |
+
+                                    84
+
+                                    (81, 87)
+
+                                  |
+
+                                    7
+
+                                    (3, 11)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    43
+
+                                    (38, 50)
+
+                                  |
+
+                                    21
+
+                                    (19, 25)
+
+                                  |
+
+                                    2.02
+
+                                    (1.71, 2.39)
+
+                                  |
+
+                                    61
+
+                                    (52, 72)
+
+                                  |
+
+                                    35
+
+                                    (30, 42)
+
+                                  |
+
+                                    1.72
+
+                                    (1.44, 2.06)
+
+                                  |
+
+                                       Y
+
+                                  |
+
+                                       n = 593
+
+                                  |
+
+                                       n = 600
+
+                                  |
+                                  |
+
+                                       n = 545
+
+                                  |
+
+                                       n = 539
+
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    66
+
+(62, 70)
+
+                                  |
+
+                                    45
+
+(41, 49)
+
+                                  |
+
+                                    21
+
+(16, 27)d
+
+                                  |
+
+                                    58
+
+(54, 62)
+
+                                  |
+
+                                    39
+
+(35, 44)
+
+                                  |
+
+                                    19
+
+(13, 24)d
+
+                                  |
+
+                                    % ≥1:8
+
+                                  |
+
+                                    76
+
+(72, 79)
+
+                                  |
+
+                                    57
+
+(53, 61)
+
+                                  |
+
+                                    19
+
+(14, 24)
+
+                                  |
+
+                                    79
+
+(76, 83)
+
+                                  |
+
+                                    63
+
+(59, 67)
+
+                                  |
+
+                                    16
+
+(11, 21)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    24
+
+(20, 28)
+
+                                  |
+
+                                    10
+
+(8.68, 12)
+
+                                  |
+
+                                    2.36
+
+(1.95, 2.85)
+
+                                  |
+
+                                    34
+
+(28, 41)
+
+                                  |
+
+                                    14
+
+(12, 17)
+
+                                  |
+
+                                    2.41
+
+(1.95, 2.97)
+
+                                  |
+
+                        In the 297 per-protocol subjects aged 2 through 5 years observed at 1 month after the second dose of MENVEO, the proportions of subjects with seroresponse (95% CI) were: 91% (87-94), 98% (95-99), 89% (85-92), and 95% (91-97) for serogroups A, C, W-135, and Y, respectively. The proportion of subjects with hSBA ≥1:8 (95% CI) were 91% (88-94), 99% (97-100), 99% (98-100), and 98% (95-99) for serogroups A, C, W-135, and Y, respectively. The hSBA GMTs (95% CI) for this group were 64 (51-81), 144 (118-177), 132 (111-157), and 102 (82-126) for serogroups A, C, W-135, and Y, respectively.
+
+                           Immunogenicity in Adolescents Aged 11 Years through 18 Years
+
+                        Effectiveness in subjects aged 11 through 55 years was evaluated in a randomized, multicenter, active-controlled clinical study (NCT00450437) comparing the hSBA responses following 1 dose of MENVEO or MENACTRA. The study was conducted in the U.S. and stratified by age (11 through 18 years and 19 through 55 years). This study enrolled 3,539 participants, who were randomized to receive a dose of MENVEO (n = 2,663) or MENACTRA (n = 876). Among subjects who completed the per-protocol evaluation for immunogenicity (n = 3,393, MENVEO = 2,549, MENACTRA = 844), demographics for subjects receiving MENVEO and MENACTRA, respectively, were as follows: mean age 23.9 (SD: 13.6) vs. 23.7 (SD: 13.7), 42% vs. 42% male, 79% vs. 78% Caucasian, 8% vs. 9% African American, 7% vs. 7% Hispanic, 3% vs. 3% Asian, 2% vs. 3% other racial/ethnic groups. Immunogenicity for each serogroup was assessed in a subset of study participants (Tables 9 and 10).
+
+                        In study participants aged 11 through 18 years, non-inferiority of MENVEO to MENACTRA was demonstrated for all 4 serogroups for the proportion of subjects with a seroresponse (Table 9).
+
+                           Table 9. Comparison of Bactericidal Antibody Responsesa to MENVEO and MENACTRA 28 Days after Vaccination of Subjects Aged 11 through 18 Years
+
+                                    Endpoint by Serogroup
+                                  |
+
+                                    Bactericidal Antibody Responsea
+
+                                  |
+
+                                    Comparison of MENVEO and MENACTRA
+                                  |
+
+                                    MENVEO
+
+                                    (95% CI)
+                                  |
+
+                                    MENACTRA
+
+                                    (95% CI)
+                                  |
+
+                                    MENVEO/
+
+                                    MENACTRA
+
+                                    (95% CI)
+                                  |
+
+                                    MENVEO minus MENACTRA
+
+                                    (95% CI)
+                                  |
+
+                                 NCT00450437.
+
+CI = Confidence interval; GMT = Geometric mean antibody titer.
+
+                                    a Serum Bactericidal Assay with exogenous human complement source (hSBA).
+
+                                    b Seroresponse was defined as: a) post-vaccination hSBA ≥1:8 for subjects with a pre-vaccination hSBA <1:4; or, b) at least 4-fold higher than baseline titers for subjects with a pre-vaccination hSBA ≥1:4.
+
+                                    c Non-inferiority criterion for the primary endpoint met (the lower limit of the 2-sided 95% CI >-10% for vaccine group differences [MENVEO minus MENACTRA]). |
+
+                                       A
+
+                                  |
+
+                                       n = 1,075
+
+                                  |
+
+                                       n = 359
+
+                                  |
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    75
+
+                                    (72, 77)
+
+                                  |
+
+                                    66
+
+                                    (61, 71)
+
+                                  |
+                                  |
+
+                                    8
+
+                                    (3, 14)c
+
+                                  |
+
+                                    % >1:8
+
+                                  |
+
+                                    75
+
+(73, 78)
+
+                                  |
+
+                                    67
+
+(62, 72)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                    8
+
+                                    (3, 14)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    29
+
+                                    (24, 35)
+
+                                  |
+
+                                    18
+
+                                    (14, 23)
+
+                                  |
+
+                                    1.63
+
+                                    (1.31, 2.02)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                       C
+
+                                  |
+
+                                       n = 1,396
+
+                                  |
+
+                                       n = 460
+
+                                  |
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    76
+
+                                    (73, 78)
+
+                                  |
+
+                                    73
+
+                                    (69, 77)
+
+                                  |
+                                  |
+
+                                    2
+
+                                    (-2, 7)c
+
+                                  |
+
+                                    % >1:8
+
+                                  |
+
+                                    85
+
+(83, 87)
+
+                                  |
+
+                                    85
+
+(81, 88)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                    0
+
+                                    (-4, 4)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    50
+
+(39, 65)
+
+                                  |
+
+                                    41
+
+(30, 55)
+
+                                  |
+
+                                    1.22
+
+                                    (0.97, 1.55)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                       W-135
+
+                                  |
+
+                                       n = 1,024
+
+                                  |
+
+                                       n = 288
+
+                                  |
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    75
+
+                                    (72, 77)
+
+                                  |
+
+                                    63
+
+                                    (57, 68)
+
+                                  |
+                                  |
+
+                                    12
+
+                                    (6, 18)c
+
+                                  |
+
+                                    % >1:8
+
+                                  |
+
+                                    96
+
+(95, 97)
+
+                                  |
+
+                                    88
+
+(84, 92)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                    8
+
+                                    (4, 12)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    87
+
+(74, 102)
+
+                                  |
+
+                                    44
+
+(35, 54)
+
+                                  |
+
+                                    2.00
+
+                                    (1.66, 2.42)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                       Y
+
+                                  |
+
+                                       n = 1,036
+
+                                  |
+
+                                       n = 294
+
+                                  |
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    68
+
+                                    (65, 71)
+
+                                  |
+
+                                    41
+
+                                    (35, 47)
+
+                                  |
+                                  |
+
+                                    27
+
+                                    (20, 33)c
+
+                                  |
+
+                                    % >1:8
+
+                                  |
+
+                                    88
+
+(85, 90)
+
+                                  |
+
+                                    69
+
+(63, 74)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                    19
+
+                                    (14, 25)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    51
+
+(42, 61)
+
+                                  |
+
+                                    18
+
+(14, 23)
+
+                                  |
+
+                                    2.82
+
+                                    (2.26, 3.52)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                           Immunogenicity in Adults Aged 19 Years through 55 Years
+
+                        The study in subjects aged 11 through 55 years was a randomized, multicenter, active-controlled clinical trial (NCT00450437) conducted in the U.S. and stratified by age (11 through 18 years and 19 through 55 years) as described above.
+
+                        In study participants aged 19 through 55 years, non-inferiority of MENVEO to MENACTRA was demonstrated for all 4 serogroups for the proportion of subjects with a seroresponse (Table 10).
+
+                           Table 10. Comparison of Bactericidal Antibody Responses to MENVEO and MENACTRA 28 Days after Vaccination of Subjects Aged 19 through 55 Years
+
+                                    Endpoint by Serogroup
+                                  |
+
+                                    Bactericidal Antibody Responsea
+
+                                  |
+
+                                    Comparison of MENVEO and MENACTRA
+                                  |
+
+                                    MENVEO
+
+                                    (95% CI)
+                                  |
+
+                                    MENACTRA
+
+                                    (95% CI)
+                                  |
+
+                                    MENVEO/
+
+                                    MENACTRA
+
+                                    (95% CI)
+                                  |
+
+                                    MENVEO minus MENACTRA
+
+                                    (95% CI)
+                                  |
+
+                                 NCT00450437.
+
+CI = Confidence interval; GMT = Geometric mean antibody titer.
+
+                                    a Serum Bactericidal Assay with exogenous human complement source (hSBA).
+
+                                    b Seroresponse was defined as: a) post-vaccination hSBA >1:8 for subjects with a pre-vaccination hSBA <1:4; or, b) at least 4-fold higher than baseline titers for subjects with a pre-vaccination hSBA ≥1:4.
+
+                                    c Non-inferiority criterion for the primary endpoint met (the lower limit of the 2-sided 95% CI >-10% for vaccine group differences [MENVEO minus MENACTRA]). |
+
+                                       A
+
+                                  |
+
+                                       n = 963
+
+                                  |
+
+                                       n = 321
+
+                                  |
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    67
+
+                                    (64, 70)
+
+                                  |
+
+                                    68
+
+                                    (63, 73)
+
+                                  |
+                                  |
+
+                                    -1
+
+                                    (-7, 5)c
+
+                                  |
+
+                                    % >1:8
+
+                                  |
+
+                                    69
+
+(66, 72)
+
+                                  |
+
+                                    71
+
+(65, 76)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                    -2
+
+                                    (-7, 4)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    31
+
+(27, 36)
+
+                                  |
+
+                                    30
+
+(24, 37)
+
+                                  |
+
+                                    1.06
+
+                                    (0.82, 1.37)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                       C
+
+                                  |
+
+                                       n = 902
+
+                                  |
+
+                                       n = 300
+
+                                  |
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    68
+
+                                    (64, 71)
+
+                                  |
+
+                                    60
+
+                                    (54, 65)
+
+                                  |
+                                  |
+
+                                    8
+
+                                    (2, 14)c
+
+                                  |
+
+                                    % >1:8
+
+                                  |
+
+                                    80
+
+(77, 83)
+
+                                  |
+
+                                    74
+
+(69, 79)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                    6
+
+                                    (1, 12)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    50
+
+(43, 59)
+
+                                  |
+
+                                    34
+
+(26, 43)
+
+                                  |
+
+                                    1.50
+
+                                    (1.14, 1.97)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                       W-135
+
+                                  |
+
+                                       n = 484
+
+                                  |
+
+                                       n = 292
+
+                                  |
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    50
+
+                                    (46, 55)
+
+                                  |
+
+                                    41
+
+                                    (35, 47)
+
+                                  |
+                                  |
+
+                                    9
+
+                                    (2, 17)c
+
+                                  |
+
+                                    % >1:8
+
+                                  |
+
+                                    94
+
+(91, 96)
+
+                                  |
+
+                                    90
+
+(86, 93)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                    4
+
+                                    (0, 9)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    111
+
+(93, 132)
+
+                                  |
+
+                                    69
+
+(55, 85)
+
+                                  |
+
+                                    1.61
+
+                                    (1.24, 2.1)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                       Y
+
+                                  |
+
+                                       n = 503
+
+                                  |
+
+                                       n = 306
+
+                                  |
+                                  |
+                                  |
+
+                                    % Seroresponseb
+
+                                  |
+
+                                    56
+
+                                    (51, 60)
+
+                                  |
+
+                                    40
+
+                                    (34, 46)
+
+                                  |
+                                  |
+
+                                    16
+
+                                    (9, 23)c
+
+                                  |
+
+                                    % >1:8
+
+                                  |
+
+                                    79
+
+(76, 83)
+
+                                  |
+
+                                    70
+
+(65, 75)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                                    9
+
+                                    (3, 15)
+
+                                  |
+
+                                    GMT
+
+                                  |
+
+                                    44
+
+(37, 52)
+
+                                  |
+
+                                    21
+
+(17, 26)
+
+                                  |
+
+                                    2.10
+
+                                    (1.60, 2.75)
+
+                                  |
+
+                                    -
+
+                                  |
+
+                           Immunogenicity of MENVEO One-Vial Presentation in Individuals Aged 10 Years through 40 Years
+
+                        Immunogenicity of MENVEO one-vial presentation was evaluated in an observer-blind randomized, multicenter, controlled clinical trial in individuals aged 10 to 40 years (NCT03433482). The study compared the immune response of the MENVEO one-vial presentation to the MENVEO two-vial presentation.
+
+                        The primary analysis demonstrated non-inferiority of MenA serogroup hSBA GMTs at 28 days post-vaccination for the MENVEO one-vial presentation group compared to the MENVEO two-vial presentation group (lower limit of the two-sided 95% CI for the ratio of hSBA GMTs against serogroup A between the MENVEO one-vial presentation group and the MENVEO two-vial presentation group was greater than 0.5). Secondary analyses showed comparable immune responses against N. meningitidis serogroups C, W-135 and Y as measured by hSBA GMTs. Additional secondary analyses demonstrated comparable percentages of subjects with hSBA titers ≥8, and percentages of subjects with a ≥4-fold rise in titers compared to baseline for serogroups A, C, W-135 and Y.

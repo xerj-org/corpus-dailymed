@@ -1,0 +1,3 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 1.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease
+
+In patients with established peripheral arterial disease or with a history of recent myocardial infarction (MI) or recent stroke clopidogrel tablets are indicated to reduce the rate of MI and stroke.

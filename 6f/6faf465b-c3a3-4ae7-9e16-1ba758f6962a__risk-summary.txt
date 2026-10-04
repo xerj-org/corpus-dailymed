@@ -1,0 +1,9 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | Risk Summary
+
+Available data from published observational studies did not demonstrate an association of major malformations or other adverse pregnancy outcomes with pantoprazole.
+
+                              In animal reproduction studies, no evidence of adverse development outcomes was observed with pantoprazole. Reproduction studies have been performed in rats at oral doses up to 450 mg/kg/day (about 88 times the recommended human dose) and rabbits at oral doses up to 40 mg/kg/day (about 16 times the recommended human dose) with administration of pantoprazole during organogenesis in pregnant animals and have revealed no evidence of harm to the fetus due to pantoprazole in this study (see Data).
+
+                              A pre- and postnatal development toxicity study in rats with additional endpoints to evaluate the effect on bone development was performed with pantoprazole sodium. Oral pantoprazole doses of 5, 15, and 30 mg/kg/day (approximately 1, 3, and 6 times the human dose of 40 mg/day) were administered to pregnant females from gestation day (GD) 6 through lactation day (LD) 21. Changes in bone morphology were observed in pups exposed to pantoprazole in utero and through milk during the period of lactation as well as by oral dosing from postnatal day (PND) 4 through PND 21 [see Use in Specific Populations (8.4)]. There were no drug-related findings in maternal animals. Advise pregnant women of the potential risk of fetal harm.
+
+                              The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.

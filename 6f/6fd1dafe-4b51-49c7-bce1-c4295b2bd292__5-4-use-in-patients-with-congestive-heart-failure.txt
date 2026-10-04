@@ -1,0 +1,3 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 5.4 Use in Patients with Congestive Heart Failure
+
+Nicardipine reduced afterload without impairing myocardial contractility in preliminary hemodynamic studies of CHF patients. However, in vitro and in some patients, a negative inotropic effect has been observed. Therefore, monitor vital signs carefully when using nicardipine, particularly in combination with a beta-blocker, in patients with CHF or significant left ventricular dysfunction.

@@ -1,0 +1,7 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Absorption
+
+The absolute bioavailability of apixaban is approximately 50% for doses up to 10 mg of ELIQUIS. Food does not affect the bioavailability of apixaban. Maximum concentrations (C
+
+  max) of apixaban appear 3 to 4 hours after oral administration of ELIQUIS. At doses ≥25 mg, apixaban displays dissolution-limited absorption with decreased bioavailability. Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets suspended in 30 mL of water, exposure was similar to that after oral administration of 2 intact 5 mg tablets. Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets mixed with 30 g of applesauce, the C
+
+  maxand AUC were 20% and 16% lower, respectively, when compared to administration of 2 intact 5 mg tablets. Following administration of a crushed 5 mg ELIQUIS tablet that was suspended in 60 mL D5W and delivered through a nasogastric tube, exposure was similar to that seen in other clinical trials involving healthy volunteers receiving a single oral 5 mg tablet dose.

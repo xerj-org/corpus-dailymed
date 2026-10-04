@@ -1,0 +1,3 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 4 CONTRAINDICATIONS
+
+Fulvestrant injection is contraindicated in patients with a known hypersensitivity to the drug or to any of its components. Hypersensitivity reactions, including urticaria and angioedema, have been reported in association with fulvestrant injection [see Adverse Reactions (6.2)].

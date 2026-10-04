@@ -1,0 +1,31 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 5.1 Hypertension
+
+XADAGO may cause hypertension or exacerbate existing hypertension. In clinical trials, the incidence of hypertension was 7% for XADAGO 50 mg, 5% for XADAGO 100 mg, and 4% for placebo. Monitor patients for new onset hypertension or hypertension that is not adequately controlled after starting XADAGO. Medication adjustment may be necessary if elevation of blood pressure is sustained.
+
+                        Monitor for hypertension if XADAGO is prescribed concomitantly with sympathomimetic medications, including prescription or nonprescription nasal, oral, and ophthalmic decongestants and cold remedies
+
+  [see
+
+   Drug Interactions (7.5)]
+
+  .
+
+                        XADAGO is a selective inhibitor of MAO-B at the recommended dosages of 50 mg or 100 mg daily. Selectivity for inhibiting MAO-B decreases above the recommended daily dosages
+
+  [see
+
+   Clinical Pharmacology (12.2)]
+
+  .  Therefore, XADAGO should not be used at daily dosages exceeding those recommended because of the risks of hypertension, exacerbation of existing hypertension, or hypertensive crisis.
+
+                        Dietary tyramine restriction is not required during treatment with recommended doses of XADAGO. However, use with certain foods that contain very high amounts (i.e., more than 150 mg) of tyramine could cause severe hypertension, resulting from an increased sensitivity to tyramine in patients taking recommended dosages of XADAGO, and patients should be advised to avoid such foods.
+
+                        Isoniazid has some monoamine oxidase inhibiting activity. Monitor for hypertension and reaction to dietary tyramine in patients treated concomitantly with isoniazid and XADAGO
+
+  [see
+
+   Drug Interactions (7.1,
+
+   7.6)]
+
+  .

@@ -1,0 +1,5 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 5.14 Laboratory Monitoring
+
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a complete blood count (CBC) and a chemistry profile periodically
+
+  [see Warnings and Precautions (5.2, 5.3, 5.6)].

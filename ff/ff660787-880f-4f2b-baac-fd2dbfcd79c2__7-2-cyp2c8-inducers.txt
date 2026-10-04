@@ -1,0 +1,3 @@
+DailyMed ff660787-880f-4f2b-baac-fd2dbfcd79c2 | Selexipag; Selexipag TITRATION PACK | 7.2 CYP2C8 Inducers
+
+Concomitant administration with an inducer of CYP2C8 and UGT1A3 and 2B7 enzymes (rifampin) halved exposure to the active metabolite. Increase selexipag up to twice the dose when co-administered with rifampin. Reduce selexipag when rifampin is stopped [see Clinical Pharmacology (12.3)].

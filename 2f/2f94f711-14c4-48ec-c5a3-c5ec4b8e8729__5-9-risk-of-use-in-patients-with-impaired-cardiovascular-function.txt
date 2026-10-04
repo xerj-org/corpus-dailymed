@@ -1,0 +1,3 @@
+DailyMed 2f94f711-14c4-48ec-c5a3-c5ec4b8e8729 | Lidocaine Hydrochloride and Epinephrine | 5.9 Risk of Use in Patients with Impaired Cardiovascular Function
+
+Lidocaine should also be given in reduced doses in patients with impaired cardiovascular function since they may be less able to compensate for functional changes associated with the prolongation of A-V conduction produced by these drugs. Monitor patients closely for blood pressure, heart rate, and ECG changes.

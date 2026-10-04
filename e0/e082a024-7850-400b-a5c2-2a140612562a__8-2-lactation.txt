@@ -1,0 +1,5 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 8.2 Lactation
+
+Risk Summary
+
+                        There is no data regarding the presence of Zortress in human milk, the effects on breastfed infants, or the effects on milk production. Everolimus and/or its metabolites are readily transferred into milk of lactating rats at a concentration 3.5 times higher than in maternal rat serum. In pre-post-natal and juvenile studies in rats, exposure to everolimus during the postnatal period caused developmental toxicity [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.2)]. Advise lactating women not to breastfeed because of the potential for serious adverse reactions in infants exposed to everolimus.

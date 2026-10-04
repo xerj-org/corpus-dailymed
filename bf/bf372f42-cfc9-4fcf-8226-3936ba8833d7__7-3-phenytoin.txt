@@ -1,0 +1,3 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 7.3 Phenytoin
+
+Because brivaracetam tablets can increase plasma concentrations of phenytoin, phenytoin levels should be monitored in patients when concomitant brivaracetam tablets is added to or discontinued from ongoing phenytoin therapy [see Clinical Pharmacology (12.3)].

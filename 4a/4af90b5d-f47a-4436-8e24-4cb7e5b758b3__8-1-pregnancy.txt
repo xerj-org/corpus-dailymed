@@ -1,0 +1,13 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data with H2-receptor antagonists, including famotidine, in pregnant women are insufficient to establish a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. In animal reproduction studies, no adverse development effects were observed with oral administration of famotidine at doses up to approximately 243 and 122 times, respectively, the recommended human dose of 80 mg/day for the treatment of erosive esophagitis (see Data).
+
+                        The estimated background risk for major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Reproductive studies have been performed in rats and rabbits at oral doses of up to 2000 and 500 mg/kg/day, respectively, and in both species at intravenous doses of up to 200 mg/kg/day, and have revealed no significant evidence of impaired fertility or harm to the fetus due to famotidine. While no direct fetotoxic effects have been observed, sporadic abortions occurring only in mothers displaying marked decreased food intake were seen in some rabbits at oral doses of 200 mg/kg/day (about 49 times the recommended human dose of 80 mg/day, based on body surface area) or higher. There are, however, no adequate or well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

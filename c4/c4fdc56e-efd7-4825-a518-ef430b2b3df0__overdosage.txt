@@ -1,0 +1,5 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | OVERDOSAGE:
+
+There is no antidote for overdosage of cytarabine. Doses of 4.5 g/m2 by intravenous infusion over 1 hour every 12 hours for 12 doses have caused an unacceptable increase in irreversible CNS toxicity and death.
+
+                  Single doses as high as 3 g/m2 have been administered by rapid intravenous infusion without apparent toxicity.

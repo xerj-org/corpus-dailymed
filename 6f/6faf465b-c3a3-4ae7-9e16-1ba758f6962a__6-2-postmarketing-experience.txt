@@ -1,0 +1,44 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of pantoprazole sodium delayed-release tablets. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        These adverse reactions are listed below by body system:
+
+                              Gastrointestinal Disorders: 
+                           fundic gland polyps
+
+                              General Disorders and Administration Conditions:
+                            asthenia, fatigue, malaise
+
+                              Hematologic:
+                            pancytopenia, agranulocytosis
+
+                              Hepatobiliary Disorders:
+                            hepatocellular damage leading to jaundice and hepatic failure
+
+                              Immune System Disorders:
+                            anaphylaxis (including anaphylactic shock), systemic lupus erythematosus
+
+                              Infections and Infestations:
+                            Clostridium difficile-associated diarrhea
+
+                              Investigations:
+                            weight changes
+
+                              Metabolism and Nutritional Disorders:
+                            hypomagnesemia, hypocalcemia, hypokalemia, hyponatremia
+
+                              Musculoskeletal Disorders:
+                            rhabdomyolysis, bone fracture
+
+                              Nervous:
+                            ageusia, dysgeusia
+
+                              Psychiatric Disorders:
+                            hallucination, confusion, insomnia, somnolence
+
+                              Renal and Genitourinary Disorders:
+                            acute tubulointerstitial nephritis, erectile dysfunction
+
+                              Skin and Subcutaneous Tissue Disorders:
+                            severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke’s edema) and cutaneous lupus erythematosus

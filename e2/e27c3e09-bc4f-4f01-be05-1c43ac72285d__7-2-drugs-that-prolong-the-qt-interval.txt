@@ -1,0 +1,27 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 7.2 Drugs That Prolong the QT Interval
+
+Avoid coadministration of Nilotinib Capsules with agents that may prolong the QT interval, such as anti-arrhythmic drugs [see
+
+                              Boxed Warning
+
+                           , Dosage and Administration (
+
+                              2.4
+
+                           ), Warnings and Precautions (
+
+                              5.2
+
+                           ), Drug Interactions (
+
+                              7.1
+
+                           ), Clinical Pharmacology (
+
+                              12.2
+
+                           )].
+
+                         
+
+                        Nilotinib is associated with a clinically significant concentration-dependent QT prolongation [see Clinical Pharmacology (12.2)].

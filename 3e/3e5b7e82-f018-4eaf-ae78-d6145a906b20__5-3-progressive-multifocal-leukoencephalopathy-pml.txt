@@ -1,0 +1,5 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 5.3 Progressive Multifocal Leukoencephalopathy (PML)
+
+JC virus infection resulting in PML and death has been observed in patients receiving rituximab-containing products, including RITUXAN HYCELA. Consider the diagnosis of PML in any patient presenting with new-onset neurologic manifestations. Evaluation of PML includes, but is not limited to, consultation with a neurologist, brain MRI, and lumbar puncture.
+
+                        Discontinue RITUXAN HYCELA and consider discontinuation or reduction of any concomitant chemotherapy or immunosuppressive therapy in patients who develop PML [see Adverse Reactions (6.1)].

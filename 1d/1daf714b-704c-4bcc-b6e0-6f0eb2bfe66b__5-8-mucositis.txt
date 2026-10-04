@@ -1,0 +1,5 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 5.8 Mucositis
+
+FAVLYXA can cause mucositis, stomatitis or esophagopharyngitis, which may lead to mucosal sloughing or ulceration.
+
+                        The incidence is reported to be higher with administration of fluorouracil by intravenous bolus compared with administration by continuous infusion. Withhold FAVLYXA administration for Grade 3 or 4 mucositis; resume FAVLYXA at a reduced dose once mucositis has resolved or decreased in severity to Grade 1 [see Dosage and Administration (2.3)].

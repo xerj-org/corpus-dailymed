@@ -1,0 +1,114 @@
+DailyMed f3da2c54-74bb-4186-8cc2-f80e944e12a9 | Lidocaine and prilocaine | Individualization of Dose
+
+The dose of lidocaine and prilocaine cream that provides effective analgesia depends on the duration of the application over the treated area.
+
+                        All pharmacokinetic and clinical studies employed a thick layer of lidocaine and prilocaine cream (1 g/10 cm2 to 2 g/10 cm2). The duration of application prior to venipuncture was 1 hour. The duration of application prior to taking split thickness skin grafts was 2 hours. A thinner application has not been studied and may result in less complete analgesia or a shorter duration of adequate analgesia.
+
+                        The systemic absorption of lidocaine and prilocaine is a side effect of the desired local effect. The amount of drug absorbed depends on surface area and duration of application. The systemic blood levels depend on the amount absorbed and patient size (weight) and the rate of systemic drug elimination. Long duration of application, large treatment area, small patients, or impaired elimination may result in high blood levels. The systemic blood levels are typically a small fraction (1/20 to 1/36) of the blood levels that produce toxicity. Table 2 below gives maximum recommended doses, application areas and application times for infants and children.
+
+                                    Please note: If a patient greater than 3 months old does not meet the minimum weight requirement, the maximum total dose of lidocaine and prilocaine cream should be restricted to that which corresponds to the patient's weight.
+
+                                  |
+
+                                       * These are broad guidelines for avoiding systemic toxicity in applying lidocaine and prilocaine cream to patients with normal intact skin and with normal renal and hepatic function.
+
+                                  |
+
+                                       ** For more individualized calculation of how much lidocaine and prilocaine may be absorbed, physicians can use the following estimates of lidocaine and prilocaine absorption for children and adults:
+
+                                  |
+
+                                    The estimated mean (±SD) absorption of lidocaine is 0.045 (±0.016) mg/cm2/hr.
+
+                                  |
+
+                                    The estimated mean (±SD) absorption of prilocaine is 0.077 (±0.036) mg/cm2/hr.
+
+                                  |
+
+                                     Caption: TABLE 2
+
+                                     LIDOCAINE AND PRILOCAINE CREAM MAXIMUM RECOMMENDED DOSE, APPLICATION AREA AND APPLICATION TIME BY AGE AND WEIGHT*
+
+                                     For Infants and Children Based on Application to Intact Skin
+
+                                  |
+
+                                  Age and Body Weight
+
+ Requirements
+
+                                  |
+                                  Maximum Total
+
+ Dose of Lidocaine and Prilocaine Cream
+
+                                  |
+                                  Maximum
+
+ Application
+
+ Area**
+
+                                  |
+                                  Maximum
+
+ Application
+
+ Time
+
+                                  |
+
+                                  0 up to 3 months or < 5 kg
+
+                                  |
+                                  1 g
+
+                                  |
+                                  10 cm2
+
+                                  |
+                                  1 hour
+
+                                  |
+
+                                  3 up to 12 months and > 5 kg
+
+                                  |
+                                  2 g
+
+                                  |
+                                  20 cm2
+
+                                  |
+                                  4 hours
+
+                                  |
+
+                                  1 year to 6 years and > 10 kg
+
+                                  |
+                                  10 g
+
+                                  |
+                                  100 cm2
+
+                                  |
+                                  4 hours
+
+                                  |
+
+                                  7 years to 12 years and > 20 kg
+
+                                  |
+                                  20 g
+
+                                  |
+                                  200 cm2
+
+                                  |
+                                  4 hours
+
+                                  |
+
+                        An intravenous antiarrhythmic dose of lidocaine is 1 mg/kg (70 mg/70 kg) and gives a blood level of about 1 mcg/mL. Toxicity would be expected at blood levels above 5 mcg/mL. Smaller areas of treatment are recommended in a debilitated patient, a small child or a patient with impaired elimination. Decreasing the duration of application is likely to decrease the analgesic effect.

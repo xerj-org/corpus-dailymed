@@ -1,0 +1,9 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 5.3 Systemic Embolization
+
+When administering Lumason to
+patients with cardiac shunt, microspheres can bypass filtering by
+the lung and enter the arterial circulation.  Assess patients with
+shunts for embolic phenomena following Lumason administration. Lumason
+is only for intravenous and/or intravesical administration; do not
+administer Lumason by intra-arterial injection [see Dosage
+and Administration (2.1)].

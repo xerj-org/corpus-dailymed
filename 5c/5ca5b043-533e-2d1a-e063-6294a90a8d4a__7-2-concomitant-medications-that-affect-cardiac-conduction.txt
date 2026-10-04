@@ -1,0 +1,5 @@
+DailyMed 5ca5b043-533e-2d1a-e063-6294a90a8d4a | Lacosamide | 7.2 Concomitant Medications that Affect Cardiac Conduction
+
+Lacosamide should be used with caution in patients on concomitant medications that affect cardiac conduction (sodium channel blockers, beta-blockers, calcium channel blockers, potassium channel blockers) including those that prolong PR interval (including sodium channel blocking AEDs), because of a risk of AV block, bradycardia, or ventricular tachyarrhythmia. In such patients, obtaining an ECG before beginning lacosamide, and after lacosamide is titrated to steady-state, is recommended. In addition, these patients should be closely monitored if they are administered lacosamide through the intravenous route [
+
+  see Warnings and Precautions (5.3)].

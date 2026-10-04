@@ -1,0 +1,5 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 5.12 Radiation Sensitization and Radiation Recall
+
+Radiation sensitization and recall, in some cases severe, involving cutaneous and visceral organs (including radiation esophagitis and pneumonitis) have been reported in patients treated with radiation prior to, during, or subsequent to everolimus tablets for oral suspension treatment [see Adverse Reactions (6.2)].
+
+                        Monitor patients closely when everolimus tablets for oral suspension is administered during or sequentially with radiation treatment.

@@ -1,0 +1,476 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety of REVTORPYK was evaluated in 383 adult patients with HR-positive, HER2-negative locally advanced or metastatic breast cancer without a detectable PIK3CA mutation in Study 1 of VIKTORIA-1 [see Clinical Studies (14)].
+
+                        Patients received either Arm A: REVTORPYK 180 mg intravenously once weekly for 3 weeks on followed by 1 week off (Days 1, 8, 15 for each 28-day cycle) in combination with fulvestrant 500 mg intramuscularly on cycle 1 Days 1 and 15, and then at Day 1 of each subsequent 28-day cycle and palbociclib 125 mg orally once daily for 21 days followed by 7 days off treatment for each 28-day cycle (n = 130); or Arm B: REVTORPYK in combination with fulvestrant (n = 130); or Arm C: fulvestrant alone (n = 123). The dose, route of administration, and frequency of each drug in Arms B and C were the same as Arm A. The median duration of exposure for REVTORPYK plus fulvestrant and palbociclib was 6.2 months (range: 0.5 to 25 months) and 5.7 months (range: 0 to 26 months) for REVTORPYK plus fulvestrant.
+
+                           REVTORPYK in Combination with Fulvestrant and Palbociclib
+
+                        Serious adverse reactions occurred in 25% of patients who received REVTORPYK in combination with fulvestrant and palbociclib. Serious adverse reactions in ≥1% of patients included pneumonia (3.8%), thrombosis (3.8%), and stomatitis (1.5%). Fatal adverse reactions occurred in 2.3% of patients who received REVTORPYK in combination with fulvestrant and palbociclib, including (0.8% each) pneumonia, multiorgan failure, and hepatic failure.
+
+                        Permanent discontinuation of REVTORPYK due to an adverse reaction occurred in 12% of patients receiving REVTORPYK in combination with fulvestrant and palbociclib. Adverse reactions that resulted in permanent discontinuation of REVTORPYK were stomatitis, nausea, rash, pneumonitis, diplopia, hypertension, vomiting, breast ulceration, and squamous cell carcinoma of the lung.
+
+                        Dosage interruptions of REVTORPYK due to an adverse reaction occurred in 64% of patients receiving REVTORPYK in combination with fulvestrant and palbociclib. Adverse reactions which required dosage interruption of REVTORPYK in ≥2% of patients included neutropenia, stomatitis, decreased neutrophil count, fatigue, anemia, leukopenia, increased aspartate aminotransferase (AST), increased alanine aminotransferase (ALT), pyrexia, rash, thrombosis, pneumonia, diarrhea, hyperglycemia, thrombocytopenia, upper respiratory tract infection, pruritus, and urinary tract infection.
+
+                        Dose reductions of REVTORPYK due to an adverse reaction occurred in 41% of patients receiving REVTORPYK in combination with fulvestrant and palbociclib. Adverse reactions which required dose reduction of REVTORPYK in ≥2% of patients included stomatitis, neutropenia, rash, nausea, increased AST, and increased ALT.
+
+                        The most common (≥20%) adverse reactions, including laboratory abnormalities, in the REVTORPYK in combination with fulvestrant and palbociclib arm were decreased white blood cell, decreased neutrophils, decreased hemoglobin, decreased lymphocytes, stomatitis, nausea, decreased platelets, increased fasting glucose, fatigue, vomiting, rash, constipation, diarrhea, increased ALT, increased AST, musculoskeletal pain, decreased sodium, and increased eosinophils.
+
+                           REVTORPYK in Combination with Fulvestrant
+
+                        Serious adverse reactions occurred in 19% of patients who received REVTORPYK in combination with fulvestrant. Serious adverse reactions in ≥1% of patients included pneumonia (3.8%), thrombosis (2.3%), pleural effusion (1.5%), and pneumonitis (1.5%). Fatal adverse reactions occurred in 2.3% of patients who received REVTORPYK in combination with fulvestrant, including (0.8% each) acute respiratory failure, bronchopulmonary hemorrhage, and cardiac arrest.
+
+                        Permanent discontinuation of REVTORPYK due to an adverse reaction occurred in 9% of patients receiving REVTORPYK in combination with fulvestrant. Adverse reactions that resulted in permanent discontinuation of REVTORPYK were stomatitis, nausea, rash, pneumonitis, acute respiratory failure, myocarditis, angina pectoris, fatigue, infusion-related reaction, peripheral neuropathy, and oral pain.
+
+                        Dosage interruptions of REVTORPYK due to an adverse reaction occurred in 37% of patients receiving REVTORPYK in combination with fulvestrant. Adverse reactions which required dosage interruption of REVTORPYK in ≥2% of patients included fatigue, increased AST, increased ALT, stomatitis, pneumonia, pyrexia, and diarrhea.
+
+                        Dose reductions of REVTORPYK due to an adverse reaction occurred in 22% of patients receiving REVTORPYK in combination with fulvestrant. Adverse reactions which required dose reduction of REVTORPYK in ≥2% of patients included stomatitis, rash, and nausea.
+
+                        The most common (≥20%) adverse reactions, including laboratory abnormalities, in the REVTORPYK in combination with fulvestrant arm were stomatitis, increased fasting glucose, increased eosinophils, decreased hemoglobin, nausea, rash, increased ALT, fatigue, musculoskeletal pain, decreased lymphocytes, vomiting, increased AST, pruritus, and diarrhea.
+
+                        Tables 4 and 5 summarize the adverse reactions and laboratory abnormalities in Study 1 of VIKTORIA-1, respectively.
+
+                           Table 4: Adverse Reactions (≥10%) in Patients Who Received REVTORPYK plus Fulvestrant and Palbociclib in Study 1 of VIKTORIA-1
+
+                                 Grading according to CTCAE 5.0.
+
+N=number of patients |
+
+                                    Adverse Reaction
+                                  |
+
+                                       REVTORPYK + Fulvestrant + Palbociclib
+
+                                        (N=130)
+
+                                  |
+
+                                    REVTORPYK + Fulvestrant
+
+                                    (N=130)
+                                  |
+
+                                    Fulvestrant
+
+                                    (N=123)
+                                  |
+
+                                 All Grades |
+                                 Grade 3 or 4No Grade 4 events were reported.
+
+                                  |
+                                  All Grades |
+                                 Grade 3 or 4
+                                  |
+                                  All Grades |
+                                 Grade 3 or 4
+                                  |
+
+                                  % |
+                                  % |
+                                  % |
+                                 % |
+                                 % |
+                                 % |
+
+                                    Gastrointestinal Disorders
+                                  |
+
+                                 StomatitisIncludes multiple related terms.
+
+                                  |
+                                 72 |
+                                 22 |
+                                 58 |
+                                  12 |
+                                 2.4 |
+                                  0 |
+
+                                 Nausea |
+                                 51 |
+                                  3.8 |
+                                 44 |
+                                  0.8 |
+                                 13 |
+                                  0.8 |
+
+                                 Vomiting |
+                                 35 |
+                                 1.5 |
+                                 24 |
+                                 0 |
+                                 4.1 |
+                                 0 |
+
+                                 Diarrhea
+                                  |
+                                 26 |
+                                 1.5 |
+                                 20 |
+                                 1.5 |
+                                 4.9 |
+                                 0 |
+
+                                 Constipation |
+                                  26 |
+                                  0 |
+                                  16 |
+                                 0 |
+                                  3.3 |
+                                  0 |
+
+                                 Abdominal pain
+                                  |
+                                 13 |
+                                 0 |
+                                 9 |
+                                 0 |
+                                 8 |
+                                 4.1 |
+
+                                    General Disorders and Administration Site Conditions
+                                  |
+
+                                 Fatigue
+                                  |
+                                 43 |
+                                 2.3 |
+                                 34 |
+                                 0.8  |
+                                 13 |
+                                 0.8 |
+
+                                 Pyrexia |
+                                 14 |
+                                 0 |
+                                 10 |
+                                 0 |
+                                 1.6 |
+                                 0 |
+
+                                 Mucosal dryness
+                                  |
+                                 11 |
+                                 0 |
+                                 10 |
+                                 0 |
+                                 1.6 |
+                                 0 |
+
+                                    Skin and Subcutaneous Tissue Disorders
+                                  |
+
+                                 Rash
+                                  |
+                                 30 |
+                                 6 |
+                                 40 |
+                                 5 |
+                                 0 |
+                                 0 |
+
+                                 Pruritus |
+                                 19 |
+                                 0.8 |
+                                 22 |
+                                 0 |
+                                 1.6 |
+                                 0 |
+
+                                    Musculoskeletal and Connective Tissue Disorders
+                                  |
+
+                                 Musculoskeletal pain
+                                  |
+                                  24 |
+                                  0.8 |
+                                  26 |
+                                  3.1 |
+                                  24 |
+                                  2.4 |
+
+                                    Nervous System Disorders
+                                  |
+
+                                 Dysgeusia
+                                  |
+                                 19 |
+                                 0 |
+                                 17  |
+                                 0 |
+                                 0.8 |
+                                 0 |
+
+                                 Dizziness
+                                  |
+                                 10 |
+                                 0 |
+                                 9 |
+                                 0 |
+                                 3.3 |
+                                 0 |
+
+                                    Metabolism and nutrition disorder
+                                  |
+
+                                 Decreased appetite |
+                                 19 |
+                                 0.8 |
+                                 11 |
+                                 0.8 |
+                                 4.1 |
+                                 0.8 |
+
+                                    Infections and Infestations
+                                  |
+
+                                 Urinary Tract Infection
+                                  |
+                                 13 |
+                                 0 |
+                                 15 |
+                                 0 |
+                                 4.1 |
+                                 0 |
+
+                                    Respiratory, Thoracic and Mediastinal Disorders
+                                  |
+
+                                 Cough
+                                  |
+                                 11 |
+                                 0 |
+                                 18 |
+                                 0 |
+                                 7 |
+                                 0 |
+
+                                    Vascular Disorders
+                                  |
+
+                                 Thrombosis
+                                  |
+                                 10 |
+                                 3.1 |
+                                 3.1 |
+                                 2.3 |
+                                 0 |
+                                 0 |
+
+                           Table 5: Select Laboratory Abnormalities (≥10%) in Patients Who Received REVTORPYK plus Fulvestrant and Palbociclib in Study 1 of VIKTORIA-1
+
+                                 N=number of patients; WBC = white blood cells; AST = aspartate aminotransferase; ALT = alanine aminotransferase; CPK = creatine phosphokinase; ALP = alkaline phosphatase. |
+
+                                    Laboratory Abnormality
+                                  |
+
+                                       REVTORPYK + Fulvestrant + Palbociclib
+
+                                       (N=130)
+
+                                  |
+
+                                        REVTORPYK + Fulvestrant
+
+                                       (N=130)
+
+                                  |
+
+                                     Fulvestrant
+
+                                    (N=123)
+                                  |
+
+                                 All Grades |
+                                 Grade 3 or 4  |
+                                 All Grades |
+                                 Grade 3 or 4 |
+                                 All Grades |
+                                 Grade 3 or 4 |
+
+                                 % |
+                                 % |
+                                 % |
+                                 % |
+                                 % |
+                                 % |
+
+                                    Hematology
+                                  |
+
+                                 WBC decreased |
+                                 93 |
+                                 45 |
+                                 16 |
+                                 0.8No Grade 4 events were reported.
+
+                                  |
+                                 13 |
+                                 0.8
+                                  |
+
+                                 Neutrophils decreased |
+                                 85 |
+                                 65 |
+                                 14 |
+                                 1.6 |
+                                 10 |
+                                 0.8
+                                  |
+
+                                 Hemoglobin decreased |
+                                 84 |
+                                 12
+                                  |
+                                 46 |
+                                 0.8
+                                  |
+                                 19 |
+                                 2.5
+                                  |
+
+                                 Lymphocytes decreased |
+                                 73 |
+                                 27 |
+                                 25 |
+                                 2.6
+                                  |
+                                 21 |
+                                 5.4
+                                  |
+
+                                 Platelets decreased |
+                                 49 |
+                                 6 |
+                                 5 |
+                                 0.8 |
+                                 11 |
+                                 0.8 |
+
+                                 Eosinophils increased |
+                                 20 |
+                                 0 |
+                                 53 |
+                                 0 |
+                                 11 |
+                                 0 |
+
+                                    Chemistry
+                                  |
+
+                                 Glucose (fasting) increasedGlucose results were graded per CTCAE v4.03.
+
+                                  |
+                                 46 |
+                                 0.9
+                                  |
+                                 57 |
+                                 1.8
+                                  |
+                                 17 |
+                                 0 |
+
+                                 ALT increased |
+                                 25 |
+                                 0.8
+                                  |
+                                 35 |
+                                 2.3 |
+                                 21 |
+                                 0 |
+
+                                 AST increased |
+                                 24 |
+                                 2.4 |
+                                 23 |
+                                 3.1
+                                  |
+                                 18 |
+                                 1.7
+                                  |
+
+                                 Sodium decreased |
+                                 21 |
+                                 1.6
+                                  |
+                                 16 |
+                                 0.8
+                                  |
+                                 13 |
+                                 1.7 |
+
+                                 Magnesium decreased |
+                                 19 |
+                                 0 |
+                                 16 |
+                                 0 |
+                                 3.4 |
+                                 0 |
+
+                                 Potassium decreased |
+                                 19 |
+                                 1.6
+                                  |
+                                 14 |
+                                 1.6
+                                  |
+                                 9 |
+                                 1.7
+                                  |
+
+                                 Glucose decreased |
+                                 17 |
+                                 3.1 |
+                                 9 |
+                                 1.5 |
+                                 2.6 |
+                                 0.9 |
+
+                                 CPK increased |
+                                 15 |
+                                 0.9
+                                  |
+                                 12 |
+                                 2.5 |
+                                 11 |
+                                 0.9 |
+
+                                 Creatinine increased |
+                                 14 |
+                                 0.8
+                                  |
+                                 10 |
+                                 1.6 |
+                                 8 |
+                                 0.8
+                                  |
+
+                                 Serum amylase increased |
+                                 14 |
+                                 0.8
+                                  |
+                                 10 |
+                                 2.3 |
+                                 9 |
+                                 0 |
+
+                                 ALP increased |
+                                 12 |
+                                 0 |
+                                 18 |
+                                 0 |
+                                 21 |
+                                 1.7
+                                  |
+
+                                 Potassium increased |
+                                 10 |
+                                 0.8
+                                  |
+                                 5 |
+                                 0 |
+                                 8 |
+                                 0.8
+                                  |

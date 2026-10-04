@@ -1,0 +1,13 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | 11 DESCRIPTION
+
+The active ingredient in pantoprazole sodium delayed-release tablets USP, a PPI, is a substituted benzimidazole, sodium salt of 5-(Difluoromethoxy)-2-[[(3,4-dimethoxy-2-Pyridinyl)methyl]sulfinyl]-1H-benzimidazole sesquihydrate, a compound that inhibits gastric acid secretion. Its molecular formula is C16H14F2N3NaO4S x 1.5 H2O, with a molecular weight of 432.36. The structural formula is:
+
+                  Pantoprazole sodium sesquihydrate is a white to off-white crystalline powder and is racemic. Pantoprazole has weakly basic and acidic properties. Pantoprazole sodium sesquihydrate is freely soluble in water, very slightly soluble in phosphate buffer at pH 7.4, and practically insoluble in n-hexane.
+
+                  The stability of the compound in aqueous solution is pH-dependent. The rate of degradation increases with decreasing pH. At ambient temperature, the degradation half-life is approximately 2.8 hours at pH 5 and approximately 220 hours at pH 7.8.
+
+                  Pantoprazole sodium is supplied as a delayed-release tablet, available in two strengths 20 mg pantoprazole (equivalent to 22.55 mg of pantoprazole sodium) and 40 mg pantoprazole (equivalent to 45.10 mg of pantoprazole sodium).
+
+                  Pantoprazole sodium delayed-release tablets contain the following inactive ingredients: anhydrous sodium carbonate, calcium stearate, crospovidone, hypromellose, mannitol, methacrylic acid and ethyl acrylate copolymer dispersion, povidone, propylene glycol, titanium dioxide, triethyl citrate and yellow iron oxide. The black imprinting ink contains black iron oxide, propylene glycol and shellac glaze.
+
+                     Meets USP Dissolution Test 3.

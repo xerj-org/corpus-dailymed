@@ -1,0 +1,3 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 1.2 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+
+ELIQUIS is indicated for the prophylaxis of deep vein thrombosis (DVT), which may lead to pulmonary embolism (PE), in patients who have undergone hip or knee replacement surgery.

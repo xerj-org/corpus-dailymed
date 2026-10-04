@@ -1,0 +1,5 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 5.1 Infusion-Related Reactions
+
+NIKTIMVO can cause infusion-related reactions. Infusion-related reactions, including hypersensitivity reactions, occurred in 18% of patients who received NIKTIMVO in the clinical trial (AGAVE-201), with Grade 3 or 4 reactions in 1.3% [see Adverse Reactions (6.1)].
+
+Premedicate with an antihistamine and an antipyretic for patients who have previously experienced an infusion-related reaction to NIKTIMVO [see Dosage and Administration (2.2)]. Monitor patients for signs and symptoms of infusion-related reactions, including fever, chills, rash, flushing, dyspnea, and hypertension. Interrupt or slow the rate of infusion or permanently discontinue NIKTIMVO based on severity of the reaction [see Dosage and Administration (2.2)].

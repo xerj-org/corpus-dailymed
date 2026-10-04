@@ -1,0 +1,419 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 14.5 Heart Failure
+
+The efficacy and safety of dapagliflozin 10 mg were assessed independently in two Phase 3 trials in patients with heart failure.
+
+                        Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF, NCT03036124) was an international, multicenter, randomized, double-blind, placebo-controlled trial in adult patients with heart failure [New York Heart Association (NYHA) functional class II-IV] with reduced ejection fraction [left ventricular ejection fraction (LVEF) 40% or less] to determine whether dapagliflozin reduces the risk of cardiovascular death and hospitalization for heart failure. Of 4744 patients, 2373 were randomized to dapagliflozin 10 mg and 2371 to
+
+                        placebo and were followed for a median of 18 months. The trial included patients with type 2 diabetes mellitus (n=2139) and patients without diabetes (n=2605).
+
+                        Dapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart Failure (DELIVER, NCT03619213) was an international, multicenter, randomized, double-blind, placebo-controlled trial in patients aged ≥40 years with heart failure (NYHA class II-IV) with LVEF >40% and evidence of structural heart disease to determine whether dapagliflozin reduces the risk of cardiovascular death, hospitalization for heart failure or urgent heart failure visits. Of 6263 patients, 3131 were randomized to dapagliflozin 10 mg and 3132 to
+
+                        placebo and were followed for a median of 28 months. The trial included 654 (10%) heart failure patients who were randomized during hospitalization for heart failure or within 30 days of discharge. The trial included patients with type 2 diabetes mellitus (n=2806) and patients without diabetes (n=3457).
+
+                        In DAPA-HF, at baseline, 94% of patients were treated with ACEi, ARB or angiotensin receptor-neprilysin inhibitor (ARNI, including sacubitril/valsartan 11%), 96% with beta-blocker, 71% with mineralocorticoid receptor antagonist (MRA), 93% with diuretic, and 26% had an implantable device (with defibrillator function). History of type 2 diabetes mellitus was present in 42%, and an additional 3% had type 2 diabetes mellitus based on a HbA1c ≥6.5% at both enrollment and randomization, totaling to 1075 patients in the dapagliflozin group and 1064 in the placebo group. At baseline of the patients with type 2 diabetes mellitus, 48% were treated with metformin HCl (505 patients on dapagliflozin 10 mg and 515 on placebo) and 25% were treated with insulin.
+
+                        In DAPA-HF, the mean age of the type 2 diabetes mellitus population was 67 years, 78% were male, 70% White, 6% Black or African American and 23% Asian. At baseline, 64% patients were classified as NYHA class II, 35% class III and 1% class IV, median LVEF was 32%. Patients were on standard of care therapy; 93% of type 2 diabetes mellitus patients were treated with ACEi, ARB, or ARNI (11%), 97% with beta-blocker, 71% with MRA, 95% with diuretic and 27% had an implantable device (with defibrillator function). In these patients, mean eGFR
+
+                        was 63 mL/min/1.73 m
+
+  2.
+
+                        In DELIVER, at baseline, 77% of patients were treated with ACEi, ARB or ARNI, 83% with beta-blocker, 43% with MRA and 98% with diuretic. History of type 2 diabetes mellitus was present in 45% of the patients. At baseline of the patients with type 2 diabetes mellitus, 58% were treated with metformin HCl (809 patients on dapagliflozin 10 mg and 832 on placebo) and 30% were treated with insulin.
+
+                        In DELIVER, the mean age of the type 2 diabetes mellitus population was 71 years, 58% were male, 73% White, 3% Black or African American and 18% Asian. At baseline, 74% patients were classified as NYHA class II, 26% class III and 0.4% class IV, 35% of the patients had LVEF ≤49%, 36% had LVEF 50-59% and 29% had LVEF ≥60%. In the type 2 diabetes mellitus population, 80% were treated with ACEi, ARB or ARNI, 84% with beta-blocker, 40% with MRA, and 98% with diuretic. In these patients, mean eGFR was 59 mL/min/1.73 m
+
+  2.
+
+                        In both trials, dapagliflozin reduced the incidence of the primary composite endpoint of CV death, hospitalization for heart failure or urgent heart failure visit in the overall population (see Table 20). All three components of the primary composite endpoint individually contributed to the treatment effect. In both trials, the dapagliflozin and placebo event curves separated early and continued to diverge over the trial period (see Figure 7).
+
+                            
+
+                           Table 20: Treatment Effect for the Primary Composite Endpoint* and its Components* in the DAPA-HF and DELIVER Trials (Overall Population)
+
+                                  
+
+                                  |
+
+                                    DAPA-HF Trial
+
+                                  |
+
+                                    DELIVER Trial
+
+                                  |
+
+                                    Patients with events
+
+                                    (event rate)
+
+                                  |
+
+                                    Hazard
+
+                                    ratio
+
+                                    (95%
+
+                                    CI)
+
+                                  |
+
+                                    p-value
+
+                                       †
+
+                                  |
+
+                                    Patients with events
+
+                                    (event rate)
+
+                                  |
+
+                                    Hazard
+
+                                    ratio
+
+                                    (95%
+
+                                    CI)
+
+                                  |
+
+                                    p-
+                                    value
+
+                                       †
+
+                                  |
+
+                                    Efficacy
+
+                                    Variable
+
+                                    (Time to first
+
+                                    occurrence)
+
+                                  |
+
+                                    Dapagliflozin
+
+                                    10 mg
+
+                                    N=2373
+
+                                  |
+
+                                    Placebo
+
+                                    N=2371
+
+                                  |
+
+                                    Dapagliflozin
+
+                                    10 mg
+
+                                    N=3131
+
+                                  |
+
+                                    Placebo
+
+                                    N=3132
+
+                                  |
+
+                                    Composite of
+
+                                    Hospitalization
+
+                                    for Heart
+
+                                    Failure, CV
+
+                                    Death
+                                    ‡
+                                    or
+
+                                    Urgent Heart
+
+                                    Failure Visit
+
+                                  |
+                                 386
+
+  (11.6)
+
+                                  |
+                                 502
+
+  (15.6)
+
+                                  |
+                                 0.74
+
+  (0.65,
+
+  0.85)
+
+                                  |
+                                 <0.0001
+
+                                  |
+                                 512
+
+  (7.8)
+
+   
+
+   
+
+                                  |
+                                 610
+
+  (9.6)
+
+                                  |
+                                 0.82
+
+  (0.73,
+
+  0.92)
+
+                                  |
+                                 0.0008
+
+                                  |
+
+                                    Components of the composite endpoints
+
+                                  |
+
+                                 CV Death‡
+
+                                  |
+
+                                    227
+
+                                    (6.5)
+
+                                  |
+                                 273
+
+  (7.9)
+
+                                  |
+                                 0.82
+
+  (0.69,
+
+  0.98)
+
+                                  |
+                                  
+
+                                  |
+                                 231
+
+  (3.3)
+
+                                  |
+                                 261
+
+  (3.8)
+
+                                  |
+                                 0.88
+
+  (0.74,
+
+  1.05)
+
+                                  |
+                                  
+
+                                  |
+
+                                 Hospitalization
+
+  for Heart
+
+  Failure or
+
+  Urgent Heart
+
+  Failure Visit
+
+                                  |
+                                 237
+
+  (7.1)
+
+                                  |
+                                 326
+
+  (10.1)
+
+                                  |
+                                 0.70
+
+  (0.59,
+
+  0.83)
+
+                                  |
+                                  
+
+                                  |
+                                 368
+
+  (5.6)
+
+                                  |
+                                 455
+
+  (7.2)
+
+                                  |
+                                 0.79
+
+  (0.69,
+
+  0.91)
+
+                                  |
+                                  
+
+                                  |
+
+                                 Hospitalization
+
+  for Heart
+
+  Failure
+
+                                  |
+                                 231
+
+  (6.9)
+
+                                  |
+                                 318
+
+  (9.8)
+
+                                  |
+                                 0.70
+
+  (0.59,
+
+  0.83)
+
+                                  |
+                                  
+
+                                  |
+                                 329
+
+  (5.0)
+
+                                  |
+                                 418
+
+  (6.5)
+
+                                  |
+                                 0.77
+
+  (0.67,
+
+  0.89)
+
+                                  |
+                                  
+
+                                  |
+
+                                 Urgent Heart
+
+  Failure Visit
+
+                                  |
+                                 10
+
+  (0.3)
+
+                                  |
+                                 23
+
+  (0.7)
+
+                                  |
+                                 0.43
+
+  (0.20,
+
+  0.90)
+
+                                  |
+                                  
+
+                                  |
+                                 60
+
+  (0.9)
+
+                                  |
+                                 78
+
+  (1.1)
+
+                                  |
+                                 0.76
+
+  (0.55,
+
+  1.07)
+
+                                  |
+                                  
+
+                                  |
+
+                        N=Number of patients, CI=Confidence interval, CV=Cardiovascular.
+
+                        * Full analysis set.
+
+                        † Two-sided p-values.
+
+                        ‡ In DAPA-HF, the CV death component of the primary endpoint included death of undetermined cause. In DELIVER, the CV death component of the primary endpoint excluded death of undetermined cause.
+
+                        NOTE: Time to first event was analyzed in a Cox proportional hazards model. The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint. Event rates are presented as the number of subjects with event per 100 patient years of follow-up.
+
+                           Figure 7: Time to the First Occurrence of the Composite of Cardiovascular Death*, Hospitalization for Heart Failure or Urgent Heart Failure Visit A) DAPA-HF Trial 
+
+                           B) DELIVER Trial
+
+                        NOTE: An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g., in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics).
+
+  * In DAPA-HF, the CV death component of the primary endpoint included death of undetermined cause. In DELIVER, the CV death component of the primary endpoint excluded death of undetermined cause.
+
+  † Patients at risk is the number of patients at risk at the beginning of the period.
+
+  HR=Hazard ratio, CI=Confidence interval, CV=Cardiovascular.
+
+  The treatment effect of dapagliflozin on the composite endpoint of cardiovascular death, hospitalization for heart failure or urgent heart failure was consistent across the LVEF range as evaluated in DAPA-HF and DELIVER trials (Figure 8).
+
+                           Figure 8: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) by LVEF (DAPA-HF and DELIVER Trials) 
+
+                        * 1 patient in DAPA-HF trial had LVEF >40. 4 patients in DELIVER trial had LVEF ≤40.
+
+  In DAPA-HF trial, the 5% and 95% percentiles of LVEF were 20 and 40 respectively. In DELIVER trial, the 5% and 95% percentiles of LVEF were 42 and 70, respectively.
+
+  In DAPA-HF, the treatment benefit of dapagliflozin 10 mg in reducing the incidence of the primary composite endpoint was consistent in patients with type 2 diabetes mellitus [HR 0.75 (95% CI 0.63, 0.90)], and in patients with type 2 diabetes mellitus and metformin HCl as background therapy [HR 0.67 (95% CI 0.51, 0.88)].
+
+  In DELIVER, the treatment benefit of dapagliflozin 10 mg in reducing the incidence of the primary composite endpoint was consistent in patients with type 2 diabetes mellitus [HR 0.83 (95% CI 0.70, 0.97)].
+
+  In DELIVER, the hazard ratio of treatment benefit of dapagliflozin 10 mg in reducing the incidence of the primary composite endpoint in patients with type 2 diabetes mellitus and metformin HCl as background therapy was 0.90 (95% CI 0.72, 1.12).

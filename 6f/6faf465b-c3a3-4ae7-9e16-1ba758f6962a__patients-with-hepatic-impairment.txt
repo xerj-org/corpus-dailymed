@@ -1,0 +1,3 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | Patients with Hepatic Impairment
+
+In patients with mild to severe hepatic impairment (Child-Pugh A to C cirrhosis), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects. Although serum half-life values increased to 7-9 hours and AUC values increased by 5- to 7-fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted. These pharmacokinetic changes in hepatic-impaired patients result in minimal drug accumulation following once-daily, multiple-dose administration. Doses higher than 40 mg/day have not been studied in hepatically impaired patients.

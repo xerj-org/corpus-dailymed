@@ -1,0 +1,63 @@
+DailyMed 3357af32-f91b-4663-8f86-a2bcee7855ea | ExcenelRTU EZ | MICROBIOLOGY
+
+EXCENEL RTU EZ Sterile Suspension is a ready-to-use formulation that contains the hydrochloride salt of ceftiofur. Ceftiofur is a broad-spectrum cephalosporin antibiotic active against Gram-positive and Gram-negative bacteria. Like other cephalosporins, ceftiofur is predominantly bactericidal in vitro, resulting in the inhibition of cell wall synthesis. In vitro activity of ceftiofur has been demonstrated against Actinobacillus pleuropneumoniae, Pasteurella multocida, and Salmonella Choleraesuis, three pathogens associated with swine respiratory disease. Similarly, in vitro activity of ceftiofur has been demonstrated against Mannheimia haemolytica, Pasteurella multocida, and Histophilus somni, the three major pathogens associated with bovine respiratory disease, and against Fusobacterium necrophorum and Bacteroides melaninogenicus, pathogenic anaerobic bacteria associated with bovine foot rot.
+
+                  Utilizing data that included isolates from swine and cattle affected by respiratory disease, zone diameter and minimum inhibitory concentration (MIC) breakpoints were determined using standardized procedures from the Clinical and Laboratory Standards Institute (CLSI, formerly National Committee of Clinical Laboratory Standards) M31-A2. The CLSI-accepted interpretive criteria for ceftiofur against these Gram-negative pathogens are shown in Table 5.
+
+                     Table 5: CLSI-accepted interpretive criteria for ceftiofur against swine and cattle respiratory pathogens.These interpretive criteria are only intended for use when CLSI M31-A2 performance standards are used to determine antimicrobial susceptibility.
+
+                            Pathogen |
+                            Disk potency |
+                            Zone diameter interpretive standards
+
+(mm) |
+                            MIC breakpoint
+
+(µg/mL) |
+
+                            S |
+                            I |
+                            R |
+                            S |
+                            I |
+                            R |
+
+                           S – Susceptible
+
+I – Intermediate
+
+R – Resistant |
+
+                              Actinobacillus
+
+  pleuropneumoniae
+                            |
+                           30 µg |
+                           ≥ 21 |
+                           18 to 20 |
+                           ≤ 17 |
+                           ≤ 2.0 |
+                           4.0 |
+                           ≥ 8.0 |
+
+                              Pasteurella
+
+  multocida
+                            |
+
+                              Salmonella
+
+  Choleraesuis |
+
+                              Mannheimia
+
+  haemolytica
+                            |
+
+                              Pasteurella
+
+  multocida
+                            |
+
+                              Histophilus somni
+                            |

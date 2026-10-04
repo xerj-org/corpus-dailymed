@@ -1,0 +1,19 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 14.2 Pediatric CML
+
+A total of 51 pediatric patients with newly diagnosed and untreated CML in chronic phase were enrolled in an open-label, multicenter, single-arm Phase 2 trial. Patients were treated with imatinib mesylate 340 mg/m
+
+  2/day, with no interruptions in the absence of dose limiting toxicity. Complete hematologic response (CHR) was observed in 78% of patients after 8 weeks of therapy. The complete cytogenetic response rate (CCyR) was 65%, comparable to the results observed in adults. Additionally, partial cytogenetic response (PCyR) was observed in 16%. The majority of patients who achieved a CCyR developed the CCyR between Months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 6.74 months. Patients were allowed to be removed from protocol therapy to undergo alternative therapy, including hematopoietic stem cell transplantation. Thirty-one children received stem cell transplantation. Of the 31 children, 5 were transplanted after disease progression on study and 1 withdrew from study during first week treatment and received transplant approximately 4 months after withdrawal. Twenty-five children withdrew from protocol therapy to undergo stem cell transplant after receiving a median of 9 twenty-eight day courses (range, 4 to 24). Of the 25 patients 13 (52%) had CCyR and 5 (20%) had PCyR at the end of protocol therapy.
+
+  One open-label, single-arm study enrolled 14 pediatric patients with Ph+ chronic phase CML recurrent after stem cell transplant or resistant to interferon-alpha therapy. These patients had not previously received imatinib mesylate and ranged in age from 3 to 20 years old; 3 were 3 to 11 years old, 9 were 12 to 18 years old, and 2 were greater than 18 years old. Patients were treated at doses of 260 mg/m
+
+  2/day (n = 3), 340 mg/m
+
+  2/day (n = 4), 440 mg/m
+
+  2/day (n = 5) and 570 mg/m
+
+  2/day (n = 2). In the 13 patients for whom cytogenetic data are available, 4 achieved a major cytogenetic response, 7 achieved a CCyR, and 2 had a minimal cytogenetic response.
+
+  In a second study, 2 of 3 patients with Ph+ chronic phase CML resistant to interferon-alpha therapy achieved a CCyR at doses of 242 and 257 mg/m
+
+  2/day.

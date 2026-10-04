@@ -1,0 +1,3 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 5.2 Hemolysis in Patients with Glucose-6-Phosphate Dehydrogenase Deficiency
+
+Hemolysis has been reported with administration of ascorbic acid in patients with glucose-6-phosphate dehydrogenase deficiency. Patients with glucose-6-phosphate dehydrogenase deficiency may be at increased risk for severe hemolysis during treatment with ascorbic acid. Monitor hemoglobin and blood count and use a reduced dose of ascorbic acid injection in patients with glucose-6-phosphate dehydrogenase deficiency [see Dosage and Administration (2.3)]. Discontinue treatment with ascorbic acid injection if hemolysis is suspected and treat as needed.

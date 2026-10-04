@@ -1,0 +1,9 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 14.2 Clinical Studies in Pediatric Subjects
+
+Trial in CCR5-Tropic, Treatment-Experienced Subjects
+
+                        Trial A4001031 is an open-label, multicenter trial in pediatric subjects aged 2 to less than 18 years infected with only CCR5-tropic HIV-1. Subjects were required to have HIV-1 RNA greater than 1,000 copies per mL at screening. All subjects (n = 103) received maraviroc twice daily and OBT. Dosing of maraviroc was based on BSA and doses were adjusted based on whether the subject was receiving potent CYP3A inhibitors and/or inducers.
+
+                        The population was 52% female and 69% black, with mean age of 10 years (range: 2 to 17 years). At baseline, mean plasma HIV-1 RNA was 4.4 log10 copies per mL (range: 2.4 to 6.2 log10 copies per mL), mean CD4+ cell count was 551 cells per mm3 (range: 1 to 1,654 cells per mm3), and mean CD4+ percent was 21% (range: 0% to 42%).
+
+                        At 48 weeks, 48% of subjects treated with maraviroc and OBT achieved plasma HIV-1 RNA less than 48 copies per mL and 65% of subjects achieved plasma HIV-1 RNA less than 400 copies per mL. The mean CD4+ cell count (percent) increase from baseline to Week 48 was 247 cells per mm3 (5%).

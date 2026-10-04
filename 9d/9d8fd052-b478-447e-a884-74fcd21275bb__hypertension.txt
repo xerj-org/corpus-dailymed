@@ -1,0 +1,229 @@
+DailyMed 9d8fd052-b478-447e-a884-74fcd21275bb | Terazosin hydrochloride | Hypertension
+
+The prevalence of adverse reactions has been ascertained from clinical trials conducted primarily in the United States. All adverse experiences (events) reported during these trials were recorded as adverse reactions. The prevalence rates presented below are based on combined data from fourteen placebo-controlled trials involving once-a-day administration of terazosin, as monotherapy or in combination with other antihypertensive agents, at doses ranging from 1 to 40 mg. Table 3 summarizes those adverse experiences reported for patients in these trials where the prevalence rate in the terazosin group was at least 5%, where the prevalence rate for the terazosin group was at least 2% and was greater than the prevalence rate for the placebo group, or where the reaction is of particular interest. Asthenia, blurred vision, dizziness, nasal congestion, nausea, peripheral edema, palpitations and somnolence were the only symptoms that were significantly (p < 0.05) more common in patients receiving terazosin than in patients receiving placebo. Similar adverse reaction rates were observed in placebo-controlled monotherapy trials.
+
+                           TABLE 3. Adverse Reactions During Placebo-Controlled Trials Hypertension
+
+                                     Body System
+
+                                  |
+
+                                     Terazosin
+
+                                       (N = 859)
+
+                                  |
+
+                                     Placebo
+
+                                       (N = 506)
+
+                                  |
+
+                                     BODY AS A WHOLE
+
+                                       Includes weakness, tiredness, lassitude, and fatigue.
+
+Asthenia
+
+ Back Pain
+
+ Headache
+
+                                  |
+
+                                      11.3%Statistically significant at p=0.05 level.
+
+ 2.4%
+
+ 16.2%
+
+                                  |
+
+                                     4.3%
+
+1.2%
+
+15.8%
+
+                                  |
+
+                                     CARDIOVASCULAR SYSTEM
+
+ Palpitations
+
+ Postural Hypotension
+
+ Tachycardia
+
+                                  |
+
+                                      4.3%
+
+ 1.3%
+
+ 1.9%
+
+                                  |
+
+                                     1.2%
+
+0.4%
+
+1.2%
+
+                                  |
+
+                                     DIGESTIVE SYSTEM
+
+ Nausea
+
+                                  |
+
+                                      4.4%
+
+                                  |
+
+                                     1.4%
+
+                                  |
+
+                                     METABOLIC AND NUTRITIONAL DISORDERS
+
+ Edema
+
+ Peripheral Edema
+
+ Weight Gain
+
+                                  |
+
+                                      0.9%
+
+ 5.5%
+
+ 0.5%
+
+                                  |
+
+                                     0.6%
+
+2.4%
+
+0.2%
+
+                                  |
+
+                                     MUSCULOSKELETAL SYSTEM
+
+ Pain – Extremities
+
+                                  |
+
+                                      3.5%
+
+                                  |
+
+                                     3.0%
+
+                                  |
+
+                                     NERVOUS SYSTEM
+
+ Depression
+
+ Dizziness
+
+ Libido Decreased
+
+ Nervousness
+
+ Paresthesia
+
+ Somnolence
+
+                                  |
+
+                                      0.3%
+
+ 19.3%
+
+ 0.6%
+
+ 2.3%
+
+ 2.9%
+
+ 5.4%
+
+                                  |
+
+                                     0.2%
+
+7.5%
+
+0.2%
+
+1.8%
+
+1.4%
+
+2.6%
+
+                                  |
+
+                                     RESPIRATORY SYSTEM
+
+ Dyspnea
+
+ Nasal Congestion
+
+ Sinusitis
+
+                                  |
+
+                                      3.1%
+
+ 5.9%
+
+ 2.6%
+
+                                  |
+
+                                     2.4%
+
+3.4%
+
+1.4%
+
+                                  |
+
+                                     SPECIAL SENSES
+
+ Blurred Vision
+
+                                  |
+
+                                      1.6%
+
+                                  |
+
+                                     0.0%
+
+                                  |
+
+                                     UROGENITAL SYSTEM
+
+ Impotence
+
+                                  |
+
+                                      1.2%
+
+                                  |
+
+                                     1.4%
+
+                                  |
+
+                        Additional adverse reactions have been reported, but these are, in general, not distinguishable from symptoms that might have occurred in the absence of exposure to terazosin. The following additional adverse reactions were reported by at least 1% of 1987 patients who received terazosin in controlled or open, short- or long-term clinical trials or have been reported during marketing experience:

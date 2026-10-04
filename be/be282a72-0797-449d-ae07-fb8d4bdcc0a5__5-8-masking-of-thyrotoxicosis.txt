@@ -1,0 +1,3 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 5.8 Masking of Thyrotoxicosis
+
+Beta-adrenergic blocking agents may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism. Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-adrenergic blocking agents that might precipitate a thyroid storm.

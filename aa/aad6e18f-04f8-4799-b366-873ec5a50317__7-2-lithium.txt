@@ -1,0 +1,3 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 7.2 Lithium
+
+Renal sodium and lithium clearance may be increased during concomitant use of Lactated Ringer’s Injection and lithium and may result in decreased lithium concentrations. Avoid use of Lactated Ringer’s Injection in patients receiving lithium. If use cannot be avoided, increase the frequency of monitoring of serum lithium concentrations during concomitant use.

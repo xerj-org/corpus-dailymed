@@ -1,0 +1,11 @@
+DailyMed b5c12c9a-62eb-481a-8099-7ad35242f7bf | Bupropion Hydrochloride | 5.4 Hypertension
+
+Treatment with bupropion hydrochloride tablets can result in elevated blood pressure and hypertension. Assess blood pressure before initiating treatment with bupropion hydrochloride tablets and monitor periodically during treatment. The risk of hypertension is increased if bupropion hydrochloride tablets are used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity
+
+  [see Contraindications (
+
+   4)].
+
+                        Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS. In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared with 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively. The majority of these subjects had evidence of pre-existing hypertension. Three subjects (1.2%) treated with the combination of sustained-release bupropion and NTS and 1 subject (0.4%) treated with NTS had study medication discontinued due to hypertension compared with none of the subjects treated with sustained-release bupropion or placebo. Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.
+
+                        In a clinical trial of bupropion immediate-release in MDD subjects with stable congestive heart failure (N = 36), bupropion was associated with an exacerbation of pre-existing hypertension in 2 subjects, leading to discontinuation of bupropion treatment. There are no controlled trials assessing the safety of bupropion in patients with a recent history of myocardial infarction or unstable cardiac disease.

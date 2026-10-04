@@ -1,0 +1,5 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 5.11 Impairment of Beta-adrenergically Mediated Reflexes During Surgery
+
+The necessity or desirability of withdrawal of beta-adrenergic blocking agents prior to major surgery is controversial. Beta-adrenergic receptor blockade impairs the ability of the heart to respond to beta-adrenergically mediated reflex stimuli. This may augment the risk of general anesthesia in surgical procedures. Some patients receiving beta-adrenergic receptor blocking agents have experienced protracted severe hypotension during anesthesia. Difficulty in restarting and maintaining the heartbeat has also been reported. For these reasons, in patients undergoing elective surgery, some authorities recommend gradual withdrawal of beta-adrenergic receptor blocking agents.
+
+                        If necessary during surgery, the effects of beta-adrenergic blocking agents may be reversed by sufficient doses of adrenergic agonists.

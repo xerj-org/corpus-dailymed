@@ -1,0 +1,5 @@
+DailyMed a17c90f9-3d5d-4503-ba2c-754b45decbf8 | Perphenazine | Pregnancy
+
+Non-teratogenic Effects: Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery. There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates. These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+                        Perphenazine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

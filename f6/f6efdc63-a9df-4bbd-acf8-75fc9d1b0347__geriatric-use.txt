@@ -1,0 +1,21 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | Geriatric Use
+
+Metoclopramide is known to be substantially excreted by the kidney, and the risk of adverse reactions, including TD, may be greater in patients with impaired renal function (see
+                              WARNINGS – Tardive Dyskinesia
+                           ).
+
+                        The risk of developing parkinsonian-like side effects increases with ascending dose. Geriatric patients should receive the lowest dose of metoclopramide injection that is effective. If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection, metoclopramide injection should generally be discontinued before initiating any specific anti-parkinsonian agents (see
+                              WARNINGS – Other Extrapyramidal Symptoms
+                           ).
+
+                        Sedation has been reported in metoclopramide injection users. Sedation may cause confusion and manifest as over-sedation in elderly (see
+                              CLINICAL PHARMACOLOGY
+                           ,
+                              PRECAUTIONS – Information for Patients
+                            and
+                              ADVERSE REACTIONS – CNS Effects
+                           ).
+
+                        For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see
+                              DOSAGE AND ADMINISTRATION - Use in Patients with Renal or Hepatic Impairment
+                           ).

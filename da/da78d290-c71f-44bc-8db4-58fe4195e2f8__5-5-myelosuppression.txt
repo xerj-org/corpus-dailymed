@@ -1,0 +1,17 @@
+DailyMed da78d290-c71f-44bc-8db4-58fe4195e2f8 | Allopurinol | 5.5 Myelosuppression
+
+Myelosuppression, manifested by anemia, leukopenia or thrombocytopenia, has been reported in patients receiving allopurinol. The cytopenias have occurred as early as 6 weeks up to 6 years after the initiation of therapy of allopurinol. Concomitant use of allopurinol with cytotoxic drugs associated with myelosuppression may increase the risk of myelosuppression. Monitor blood counts more frequently when cytotoxic drugs are used concomitantly
+
+  [see
+
+   Drug Interactions (7.2)]
+
+  .
+
+                        Concomitant use with allopurinol increases the exposure of either mercaptopurine or azathioprine which may increase the risk of myelosuppression. Reduce the dosage of mercaptopurine or azathioprine as recommended in their respective prescribing information when used concomitantly with allopurinol
+
+  [see
+
+   Drug Interactions (7.2)]
+
+  .

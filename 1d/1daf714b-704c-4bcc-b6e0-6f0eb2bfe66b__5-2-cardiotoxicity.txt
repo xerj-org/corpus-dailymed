@@ -1,0 +1,3 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 5.2 Cardiotoxicity
+
+FAVLYXA can cause cardiotoxicity, including angina, myocardial infarction/ischemia, arrhythmia, and heart failure, based on postmarketing reports. Reported risk factors for cardiotoxicity are administration by continuous infusion rather than intravenous bolus and presence of coronary artery disease. Withhold FAVLYXA for cardiotoxicity. The risks of resumption of FAVLYXA in patients with cardiotoxicity that has resolved have not been established [see Dosage and Administration (2.3)].

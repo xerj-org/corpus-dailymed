@@ -1,0 +1,8 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | 8.1 Pregnancy
+
+Risk Summary
+
+                        The available data on topical aminolevulinic acid use in combination with PDT in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes. Animal reproduction studies were not conducted with aminolevulinic acid. Systemic absorption of aminolevulinic acid in humans is low following topical administration of AMELUZ under maximal clinical use conditions [see Clinical Pharmacology (12.3)
+                           ]. It is not expected that maternal use of AMELUZ will result in fetal exposure to the drug.
+
+                        The background risk of major birth defects and miscarriage for the indicated population are unknown. All pregnancies have a risk of birth defects, loss, and other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.

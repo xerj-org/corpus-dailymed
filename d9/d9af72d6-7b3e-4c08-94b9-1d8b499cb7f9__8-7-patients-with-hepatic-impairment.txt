@@ -1,0 +1,9 @@
+DailyMed d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9 | MYHIBBIN | 8.7 Patients with Hepatic Impairment
+
+Patients with Kidney Transplant
+
+ No dosage adjustments are recommended for kidney transplant patients with severe hepatic parenchymal disease. However, it is not known whether dosage adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
+
+                           Patients with Heart Transplant
+
+ No data are available for heart transplant patients with severe hepatic parenchymal disease.

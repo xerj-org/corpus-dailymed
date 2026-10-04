@@ -1,0 +1,3 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 7.2 Estrogens
+
+Population pharmacokinetic analysis revealed that higher doses of estrogens (usually associated with hormone replacement therapy) reduced the clearance of ropinirole. Starting or stopping hormone replacement therapy may require adjustment of dosage of ropinirole tablets [see Clinical Pharmacology (12.3)].

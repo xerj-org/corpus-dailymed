@@ -1,0 +1,17 @@
+DailyMed 180985f0-3fbd-4868-a826-b84101618a03 | Tizanidine | 8.1 Pregnancy
+
+Risk Summary
+
+                         There are no adequate data on the developmental risk associated with use of Tizanidine hydrochloride in pregnant women. In animal studies, administration of tizanidine during pregnancy resulted in developmental toxicity (embryofetal and postnatal offspring mortality and growth deficits) at doses less than those used clinically, which were not associated with maternal toxicity (see Animal Data).
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% - 4% and 15% - 20%, respectively. The background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+                        Data
+
+                            Animal Data
+
+                        Oral administration of tizanidine (0.3 to 100 mg/kg/day) to pregnant rats during the period of organogenesis resulted in embryofetal and postnatal offspring mortality and reductions in body weight at doses of 30 mg/kg/day and above. Maternal toxicity was observed at the highest dose tested. The no-effect dose for embryofetal developmental toxicity in rats (3 mg/kg/day) is similar to the maximum recommended human dose (MRHD) of 36 mg/day on a body surface area (mg/m2) basis.
+
+                        Oral administration of tizanidine (1 to 100 mg/kg/day) to pregnant rabbits during the period of organogenesis resulted in embryofetal and postnatal offspring mortality at all doses. Maternal toxicity was observed at the highest dose tested. Oral administration of tizanidine (10 and 30 mg/kg/day) during the perinatal period of pregnancy (2-6 days prior to delivery) resulted in increased postnatal offspring mortality at both doses. A no-effect dose for embryofetal developmental toxicity in rabbit was not identified. The lowest dose tested (1 mg/kg/day) is less than the MRHD on a mg/m2 basis.
+
+                        In a pre- and postnatal development study in rats, oral administration of tizanidine (3 to 30 mg/kg/day) resulted in increased postnatal offspring mortality. A no-effect dose for pre- and postnatal developmental toxicity was not identified. The lowest dose tested (3 mg/kg/day) is similar to the MRHD on a mg/m2 basis, respectively.

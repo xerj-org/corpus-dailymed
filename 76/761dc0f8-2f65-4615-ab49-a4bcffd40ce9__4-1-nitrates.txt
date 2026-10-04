@@ -1,0 +1,3 @@
+DailyMed 761dc0f8-2f65-4615-ab49-a4bcffd40ce9 | Tadalafil | 4.1 Nitrates
+
+Administration of tadalafil to patients who are using any form of organic nitrate, either regularly and/or intermittently, is contraindicated. In clinical pharmacology studies, tadalafil was shown to potentiate the hypotensive effect of nitrates [see Clinical Pharmacology (12.2)].

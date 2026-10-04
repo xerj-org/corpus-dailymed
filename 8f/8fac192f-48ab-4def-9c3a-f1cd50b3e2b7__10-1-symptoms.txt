@@ -1,0 +1,5 @@
+DailyMed 8fac192f-48ab-4def-9c3a-f1cd50b3e2b7 | POTASSIUM CHLORIDE | 10.1 Symptoms
+
+The administration of oral potassium salts to persons with normal excretory mechanisms for potassium rarely causes serious hyperkalemia. However, if excretory mechanisms are impaired or if potassium is administered too rapidly potentially fatal hyperkalemia can result.
+
+                           Hyperkalemia is usually asymptomatic and may be manifested only by an increased serum potassium concentration (6.5–8.0 mEq/L) and characteristic electrocardiographic changes (peaking of T-waves, loss of P-waves, depression of S-T segment, and prolongation of the QT-interval). Late manifestations include muscle paralysis and cardiovascular collapse from cardiac arrest (9–12 mEq/L).

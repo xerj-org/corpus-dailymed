@@ -1,0 +1,15 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 5.2 Seizure Potential
+
+Seizures and other central nervous system (CNS) adverse experiences have been reported during treatment with Ertapenem for injection
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  . During clinical investigations in adult patients treated with Ertapenem for injection (1 g once a day), seizures, irrespective of drug relationship, occurred in 0.5% of patients during study therapy plus 14-day follow-up period
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  . These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) and/or compromised renal function. Close adherence to the recommended dosage regimen is urged, especially in patients with known factors that predispose to convulsive activity. Anticonvulsant therapy should be continued in patients with known seizure disorders. If focal tremors, myoclonus, or seizures occur, patients should be evaluated neurologically, placed on anticonvulsant therapy if not already instituted, and the dosage of Ertapenem for injection re-examined to determine whether it should be decreased or discontinued.

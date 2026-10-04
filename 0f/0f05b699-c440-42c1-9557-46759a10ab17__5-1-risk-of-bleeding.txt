@@ -1,0 +1,3 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 5.1 Risk of Bleeding
+
+Because fulvestrant injection is administered intramuscularly, it should be used with caution in patients with bleeding diatheses, thrombocytopenia, or anticoagulant use.

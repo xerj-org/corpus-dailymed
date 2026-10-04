@@ -1,0 +1,7 @@
+DailyMed 1b2e5656-9da9-4fab-bf01-ed75896b836a | Glipizide | DOSAGE AND ADMINISTRATION
+
+There is no fixed dosage regimen for the management of diabetes mellitus with glipizide or any other hypoglycemic agent. In addition to the usual monitoring of urinary glucose, the patient's blood glucose must also be monitored periodically to determine the minimum effective dose for the patient; to detect primary failure, i.e., inadequate lowering of blood glucose at the maximum recommended dose of medication; and to detect secondary failure, i.e., loss of an adequate blood-glucose-lowering response after an initial period of effectiveness. Glycosylated hemoglobin levels may also be of value in monitoring the patient's response to therapy.
+
+                  Short-term administration of glipizide may be sufficient during periods of transient loss of control in patients usually controlled well on diet.
+
+                   In general, glipizide tablets should be given approximately 30 minutes before a meal to achieve the greatest reduction in postprandial hyperglycemia.

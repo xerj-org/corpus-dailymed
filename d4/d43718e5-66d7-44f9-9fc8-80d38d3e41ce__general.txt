@@ -1,0 +1,47 @@
+DailyMed d43718e5-66d7-44f9-9fc8-80d38d3e41ce | CHLORPROMAZINE HYDROCHLORIDE | General
+
+Given the likelihood that some patients exposed chronically to antipsychotics will develop tardive dyskinesia, it is advised that all patients in whom chronic use is contemplated be given, if possible, full information about this risk. The decision to inform patients and/or their guardians must obviously take into account the clinical circumstances and the competency of the patient to understand the information provided.
+
+                        Chlorpromazine should be administered cautiously to persons with cardiovascular, liver or renal disease. There is evidence that patients with a history of hepatic encephalopathy due to cirrhosis have increased sensitivity to the CNS effects of chlorpromazine (i.e., impaired cerebration and abnormal slowing of the EEG).
+
+                        Because of its CNS depressant effect, chlorpromazine should be used with caution in patients with chronic respiratory disorders such as severe asthma, emphysema and acute respiratory infections, particularly in children (1 to 12 years of age).
+
+                        Because chlorpromazine can suppress the cough reflex, aspiration of vomitus is possible.
+
+                        Chlorpromazine prolongs and intensifies the action of CNS depressants such as anesthetics, barbiturates and narcotics. When chlorpromazine is administered concomitantly, about ¼ to ½ the usual dosage of such agents is required. When chlorpromazine is not being administered to reduce requirements of CNS depressants, it is best to stop such depressants before starting chlorpromazine treatment. These agents may subsequently be reinstated at low doses and increased as needed.
+
+                           Note: Chlorpromazine does
+  not intensify the anticonvulsant action of barbiturates. Therefore, dosage of anticonvulsants, including barbiturates, should
+  not be reduced if chlorpromazine is started. Instead, start chlorpromazine at low doses and increase as needed.
+
+                        Use with caution in persons who will be exposed to extreme heat, organophosphorus insecticides, and in persons receiving atropine or related drugs.
+
+                        Antipsychotic drugs elevate prolactin levels; the elevation persists during chronic administration. Tissue culture experiments indicate that approximately 1/3 of human breast cancers are prolactin-dependent
+  in vitro, a factor of potential importance if the prescribing of these drugs is contemplated in a patient with a previously detected breast cancer. Although disturbances such as galactorrhea, amenorrhea, gynecomastia and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients. An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs. Neither clinical nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
+
+                        Chromosomal aberrations in spermatocytes and abnormal sperm have been demonstrated in rodents treated with certain neuroleptics.
+
+                        As with all drugs which exert an anticholinergic effect, and/or cause mydriasis, chlorpromazine should be used with caution in patients with glaucoma.
+
+                        Chlorpromazine diminishes the effect of oral anticoagulants.
+
+                        Phenothiazines can produce alpha-adrenergic blockade. Chlorpromazine may lower the convulsive threshold; dosage adjustments of anticonvulsants may be necessary. Potentiation of anticonvulsant effects does not occur. However, it has been reported that chlorpromazine may interfere with the metabolism of phenytoin and thus precipitate phenytoin toxicity.
+
+                        Concomitant administration with propranolol results in increased plasma levels of both drugs.
+
+                        Thiazide diuretics may accentuate the orthostatic hypotension that may occur with phenothiazines.
+
+                        The presence of phenothiazines may produce false-positive phenylketonuria (PKU) test results.
+
+                        Drugs which lower the seizure threshold, including phenothiazine derivatives, should not be used with metrizamide. As with other phenothiazine derivatives, chlorpromazine should be discontinued at least 48 hours before myelography, should not be resumed for at least 24 hours post-procedure, and should not be used for the control of nausea and vomiting occurring either prior to myelography or post-procedure with metrizamide.
+
+                           Long-Term Therapy: To lessen the likelihood of adverse reactions related to cumulative drug effect, patients with a history of long-term therapy with chlorpromazine and/or other antipsychotics should be evaluated periodically to decide whether the maintenance dosage could be lowered or drug therapy discontinued.
+
+                           Antiemetic Effect: The antiemetic action of chlorpromazine may mask the signs and symptoms of over dosage of other drugs and may obscure the diagnosis and treatment of other conditions such as intestinal obstruction, brain tumor and Reye's syndrome (see
+
+                              WARNINGS
+                           ).
+
+                        When chlorpromazine is used with cancer chemotherapeutic drugs, vomiting as a sign of the toxicity of these agents may be obscured by the antiemetic effect of chlorpromazine.
+
+                           Abrupt Withdrawal: Like other phenothiazines, chlorpromazine is not known to cause psychic dependence and does not produce tolerance or addiction. There may be, however, following abrupt withdrawal of high-dose therapy, some symptoms resembling those of physical dependence such as gastritis, nausea and vomiting, dizziness and tremulousness. These symptoms can usually be avoided or reduced by gradual reduction of the dosage or by continuing concomitant anti-parkinsonism agents for several weeks after chlorpromazine is withdrawn.

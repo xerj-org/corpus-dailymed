@@ -1,0 +1,5 @@
+DailyMed 9e3c796b-2e68-4bcc-b927-18a58bea4703 | Carbidopa-levodopa | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In a two-year bioassay of carbidopa and levodopa, no evidence of carcinogenicity was found in rats receiving doses of approximately two times the maximum daily human dose of carbidopa and four times the maximum daily human dose of levodopa.
+
+                        In reproduction studies with carbidopa and levodopa, no effects on fertility were found in rats receiving doses of approximately two times the maximum daily human dose of carbidopa and four times the maximum daily human dose of levodopa.

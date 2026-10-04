@@ -1,0 +1,52 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 14.1 Acute Bacterial Exacerbations of Chronic Bronchitis in Adult Patients
+
+In a randomized, double-blind controlled clinical trial of acute exacerbation of chronic bronchitis (AECB), azithromycin (500 mg once daily for 3 days) was compared with clarithromycin (500 mg twice daily for 10 days). The primary endpoint of this trial was the clinical cure rate at Days 21 to 24. For the 304 patients analyzed in the modified intent-to-treat analysis at the Days 21 to 24 visit, the clinical cure rate for 3 days of azithromycin was 85% (125/147) compared to 82% (129/157) for 10 days of clarithromycin.
+
+   
+
+                        Clinical Cure Rates at Days 21 to 24 Bacteriologically Evaluable Patients by Pathogen:
+
+                                    Table 15. Clinical Cure Rates at Days 21 to 24 in Adult Patients with AECB by Pathogen
+                                  |
+
+                                    Pathogen
+
+                                  |
+
+                                    Azithromycin (3 Days)
+
+                                  |
+
+                                    Clarithromycin (10 Days)
+
+                                  |
+
+                                    S. pneumoniae
+
+                                  |
+                                 29/32 (91%)
+
+                                  |
+                                 21/27 (78%)
+
+                                  |
+
+                                    H. influenzae
+
+                                  |
+                                 12/14 (86%)
+
+                                  |
+                                 14/16 (88%)
+
+                                  |
+
+                                    M. catarrhalis
+
+                                  |
+                                 11/12 (92%)
+
+                                  |
+                                 12/15 (80%)
+
+                                  |

@@ -1,0 +1,11 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.11 American Society of Anesthesiologists Class 3 or 4 Patients
+
+One trial of 331 patients who were assessed as ASA Class 3 or 4 investigated the incidence of treatment-emergent arrhythmias (sinus bradycardia, sinus tachycardia, or other cardiac arrhythmias) after administration of sugammadex.
+
+                        In patients receiving sugammadex (2 mg/kg, 4 mg/kg, or 16 mg/kg), the number (%) of patients with treatment-emergent sinus bradycardia (up to 35 minutes post-administration of sugammadex) was 1/105 (1.0%) in the 2 mg/kg sugammadex treatment group, 2/107 (1.9%) in the 4 mg/kg sugammadex treatment group, and 5/68 (7.4%) in the 16 mg/kg sugammadex treatment group, compared to 4/51 (7.8%) in the neostigmine (50 µg/kg up to 5 mg maximum dose) + glycopyrrolate (10 µg/kg up to 1 mg maximum dose) treatment group. The number of patients with treatment-emergent sinus tachycardia (up to 35 minutes post-administration of sugammadex) was 7/105 (6.7%) in the 2 mg/kg sugammadex treatment group, 10/107 (9.3%) in the 4 mg/kg sugammadex treatment group, and 6/68 (8.8%) in the 16 mg/kg sugammadex treatment group, compared to 11/51 (21.6%) in the neostigmine + glycopyrrolate treatment group. The number of other treatment-emergent arrhythmias (up to 35 minutes post administration of sugammadex) was 1/105 (1.0%) in the 2 mg/kg sugammadex treatment group, 0/107 (0%) in the 4 mg/kg sugammadex treatment group, and 1/68 (1.5%) in the 16 mg/kg sugammadex treatment group, compared to 1/51 (2.0%) in the neostigmine + glycopyrrolate treatment group. The adverse reaction profiles in ASA Class 3 and 4 patients were generally similar to those in adult patients in pooled Phase 1 to 3 studies; therefore, no dosage adjustment is necessary
+
+  [see
+                           Dosage and Administration (2.1)
+                           ,
+                           Adverse Reactions (6.1)
+                           ].

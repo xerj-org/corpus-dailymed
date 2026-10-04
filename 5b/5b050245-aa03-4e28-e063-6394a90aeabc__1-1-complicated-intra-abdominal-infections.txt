@@ -1,0 +1,21 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 1.1 Complicated Intra-Abdominal Infections
+
+Ertapenem for injection is indicated for the treatment of adult patients and pediatric patients (3 months of age and older) with complicated intra-abdominal infections due to
+
+  Escherichia coli,
+
+  Clostridium clostridioforme,
+
+  Eubacterium lentum,
+
+  Peptostreptococcusspecies,
+
+  Bacteroides fragilis,
+
+  Bacteroides distasonis,
+
+  Bacteroides ovatus,
+
+  Bacteroides thetaiotaomicron, or
+
+  Bacteroides uniformis.

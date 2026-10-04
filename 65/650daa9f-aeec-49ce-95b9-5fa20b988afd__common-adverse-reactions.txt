@@ -1,0 +1,3 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | Common Adverse Reactions
+
+Inform patients that treatment with AMELUZ in combination with PDT may result in adverse reactions which include local skin reactions at the application site such as erythema, pain/burning, irritation, edema, pruritus, exfoliation, induration, scab, and vesicles [see Adverse Reactions (6.1)].

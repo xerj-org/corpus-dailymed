@@ -1,0 +1,3 @@
+DailyMed 52e209ac-7156-4496-ba5a-42ee59d45deb | Albuterol sulfate | 7.3 Digoxin
+
+Mean decreases of 16% and 22% in serum digoxin levels were demonstrated after single dose intravenous and oral administration of albuterol, respectively, to normal volunteers who had received digoxin for 10 days. The clinical significance of these findings for patients with obstructive airway disease who are receiving albuterol and digoxin on a chronic basis is unclear. Nevertheless, it would be prudent to carefully evaluate the serum digoxin levels in patients who are currently receiving digoxin and albuterol sulfate inhalation aerosol.

@@ -1,0 +1,49 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 8.4 Pediatric Use
+
+The safety and effectiveness of omeprazole have been established in pediatric patients 2 to 16 years for the treatment of symptomatic GERD, treatment of EE due to acid-mediated GERD, and maintenance of healing of EE due to acid-mediated GERD. Use of omeprazole in this age group is supported by adequate and well-controlled studies in adults and uncontrolled safety, efficacy and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (), Clinical Studies ()].
+
+                        In the pediatric population, adverse reactions of the respiratory system were frequently reported in the entire (2 to 16 year) age group. Accidental injuries were frequently reported in the 2 to 16 year age group [see Adverse Reactions ()].
+
+                        The safety and effectiveness of omeprazole delayed-release capsules have not been established in: 
+
+                              •
+
+patients less than 1 year of age for:
+
+                                    o
+
+Treatment of symptomatic GERD
+
+                                    o
+
+Maintenance of healing of EE due to acid-mediated GERD
+
+                              •
+
+pediatric patients for:
+
+                                    o
+
+                                    Treatment of active duodenal ulcer
+
+                                    o
+
+                                    H. pylori eradication to reduce the risk of duodenal ulcer recurrence
+
+                                    o
+
+Treatment of active benign gastric ulcer
+
+                                    o
+
+Pathological hypersecretory conditions
+
+                              •
+
+patients less than 1 month of age for any indication.
+
+                        Juvenile Animal Data
+
+                        Esomeprazole, an enantiomer of omeprazole, was shown to decrease body weight, body weight gain, femur weight, femur length, and overall growth at oral doses about 34 to 68 times a daily human dose of 40 mg esomeprazole or 40 mg omeprazole based on body surface area in a juvenile rat toxicity study. The animal to human dose multiples are based on the assumption of equal systemic exposure to esomeprazole in humans following oral administration of either 40 mg esomeprazole or 40 mg omeprazole.
+
+                        A 28-day toxicity study with a 14-day recovery phase was conducted in juvenile rats with esomeprazole magnesium at doses of 70 to 280 mg/kg/day (about 17 to 68 times a daily oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis). An increase in the number of deaths at the high dose of 280 mg/kg/day was observed when juvenile rats were administered esomeprazole magnesium from postnatal day 7 through postnatal day 35. In addition, doses equal to or greater than 140 mg/kg/day (about 34 times a daily oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis), produced treatment-related decreases in body weight (approximately 14%) and body weight gain, decreases in femur weight and femur length, and affected overall growth. Comparable findings described above have also been observed in this study with another esomeprazole salt, esomeprazole strontium, at equimolar doses of esomeprazole.

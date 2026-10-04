@@ -1,0 +1,17 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 8.6 Hepatic Impairment
+
+XADAGO plasma concentrations are increased in patients with hepatic impairment
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  .
+
+                        In patients with moderate hepatic impairment (Child-Pugh B: 7-9), the maximum recommended dosage of XADAGO is 50 mg once daily
+
+  [see
+
+   Dosage and Administration (2.2)]
+
+  . XADAGO has not been studied in patients with severe hepatic impairment (Child-Pugh C: 10-15), and is contraindicated in these patients.  If patients progress from moderate to severe hepatic impairment, treatment with XADAGO should be stopped.

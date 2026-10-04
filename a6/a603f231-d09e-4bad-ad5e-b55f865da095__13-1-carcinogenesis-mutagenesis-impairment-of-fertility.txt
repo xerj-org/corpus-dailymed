@@ -1,0 +1,7 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Deuruxolitinib was not carcinogenic when administered orally in a 6-month transgenic rasH2 mouse study at doses up to 100 mg/kg/day. In a 2-year rat carcinogenicity study, no drug-related tumors were observed at oral doses of deuruxolitinib up to 30 mg/kg/day (0.6 times the MRHD based on AUC comparison).
+
+                        Deuruxolitinib was positive in an in vitro micronucleus assay, but negative in a bacterial mutation assay (the Ames test), an in vitro chromosome aberration assay and an in vivo rat micronucleus assay.
+
+                        In fertility and early embryonic development studies in rats, deuruxolitinib was administered to male rats prior to mating to conception, or to female rats prior to mating, through conception, to gestation day 7. Deuruxolitinib had no adverse effects on male or female fertility at oral doses up to 100 mg/kg/day (2.2 times MRHD in males and 14 times MRHD in females based on AUC comparison). However, adverse effects on early embryonic development were noted, including decreased viable embryos and increased pre-implantation loss observed at doses ≥ 30 mg/kg/day (0.9 times MRHD based on AUC comparison), and increased post-implantation loss and resorption at 100 mg/kg/day (14 times MRHD based on AUC comparison). No adverse effects on early embryonic development were observed at 10 mg/kg/day (0.2 times MRHD based on AUC comparison).

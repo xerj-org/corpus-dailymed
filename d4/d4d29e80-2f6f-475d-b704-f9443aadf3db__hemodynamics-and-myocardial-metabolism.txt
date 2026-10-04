@@ -1,0 +1,5 @@
+DailyMed d4d29e80-2f6f-475d-b704-f9443aadf3db | Verapamil Hydrochloride | Hemodynamics and myocardial metabolism:
+
+Verapamil reduces afterload and myocardial contractility. Improved left ventricular diastolic function in patients with Idiopathic Hypertrophic Subaortic Stenosis (IHSS) and those with coronary heart disease has also been observed with verapamil hydrochloride therapy. In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil is countered by reduction of afterload, and cardiac index is usually not reduced. However, in patients with severe left ventricular dysfunction (e.g., pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur (see
+                              PRECAUTIONS, Drug interactions
+                           ).

@@ -1,0 +1,3 @@
+DailyMed fe9735db-c57e-44a8-bffb-b87a84c2a6f3 | REXTOVY | 8.5 Geriatric Use
+
+Clinical studies of REXTOVY Nasal Spray did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Geriatric patients have a greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy. Therefore, the systemic exposure of naloxone hydrochloride can be higher in these patients.

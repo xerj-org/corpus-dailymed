@@ -1,0 +1,21 @@
+DailyMed 64b21e68-610c-5194-ccb2-9d9f6ff8cda9 | Brimonidine Tartrate | 8.1 Pregnancy
+
+Risk Summary  
+
+                         There are no adequate and well-controlled studies with brimonidine tartrate ophthalmic solution in pregnant women. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.  
+
+                         In animal studies, brimonidine crossed the placenta and entered into the fetal circulation to a limited extent (see Data). Because animal reproduction studies are not always predictive of human response, brimonidine tartrate ophthalmic solution should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.  
+
+                            Data  
+
+                            Human Data
+
+                        Limited available data from postmarketing safety reports and published literature with topical use of brimonidine ophthalmic solution in pregnant women are insufficient to inform a drug-associated risk of pregnancy-related adverse outcomes including miscarriage, stillbirth, congenital anomaly, and events experienced by offspring while breastfeeding.  
+
+                           Animal Data
+
+                         Embryofetal studies were conducted in pregnant rabbits administered brimonidine tartrate by daily oral gavage on gestation days 6 to 18, to target the period of organogenesis. Brimonidine caused miscarriage at 5 mg/kg/day (approximately 70-or 50-times the recommended human ophthalmic dose [RHOD] based on AUC, respectively for brimonidine tartrate  0.15%). The no observed adverse effect level (NOAEL) for developmental toxicity in rabbits was 1 mg/kg/day (approximately 9-and 6-fold the RHOD based on AUC, respectively for brimonidine tartrate  0.15%). No treatment-related malformations were observed in rabbits. Signs of maternal sedation and fatigue were observed at all dose levels; the lowest observed adverse effect level (LOAEL) for maternal toxicity was 5 mg/kg/day, based on the dose response for these signs.  
+
+                         Embryofetal studies were conducted in pregnant rats administered brimonidine tartrate by daily oral gavage on gestation days 6 to 15, to target the period of organogenesis. The NOAEL for developmental toxicity was 2.5 mg/kg/day (approximately 1,100-and 750-fold the RHOD based on AUC, respectively for brimonidine tartrate  0.15%). No treatment-related malformations were observed in rats. The LOAEL for maternal toxicity was 2.5 mg/kg/day, based on signs of sedation and fatigue. The maternal NOAEL was 1 mg/kg/day (250-and 180-fold the RHOD based on AUC, respectively for brimonidine tartrate  0.15%).  
+
+                        After pregnant rats received a single oral dose of 14C-brimonidine tartrate, brimonidine and metabolites crossed the placenta and were detectable in fetal blood and organs.

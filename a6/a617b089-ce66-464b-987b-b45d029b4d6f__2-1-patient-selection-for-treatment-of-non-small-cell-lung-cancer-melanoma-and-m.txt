@@ -1,0 +1,13 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 2.1 Patient Selection for Treatment of Non-Small Cell Lung Cancer, Melanoma and Muscle Invasive Bladder Cancer
+
+Select adult patients with:
+
+                           Stage II to IIIA NSCLC for adjuvant treatment with TECENTRIQ HYBREZA as a monotherapy (following tumor resection and platinum-based chemotherapy) based on PD-L1 expression on tumor cells [see Clinical Studies (14.1)].
+
+                           Metastatic NSCLC for first-line treatment with TECENTRIQ HYBREZA as monotherapy based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
+
+                           Unresectable or metastatic melanoma for treatment with TECENTRIQ HYBREZA in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.4)].
+
+                              MIBC for treatment with TECENTRIQ HYBREZA, as a monotherapy based on detection of ctDNA MRD in plasma via serial testing between six weeks and one year after cystectomy [see Clinical Studies (14.6)].
+
+                           Information on FDA-authorized tests for the determination of PD-L1 expression in metastatic NSCLC, for detection of BRAF V600 mutations in melanoma, or for the determination of ctDNA MRD status in MIBC is available at: http://www.fda.gov/CompanionDiagnostics.

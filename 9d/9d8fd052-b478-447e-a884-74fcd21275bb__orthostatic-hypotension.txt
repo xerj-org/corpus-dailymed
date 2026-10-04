@@ -1,0 +1,5 @@
+DailyMed 9d8fd052-b478-447e-a884-74fcd21275bb | Terazosin hydrochloride | Orthostatic Hypotension
+
+While syncope is the most severe orthostatic effect of terazosin  (see
+                                    WARNINGS
+                                 ), other symptoms of lowered blood pressure, such as dizziness, lightheadedness and palpitations, were more common and occurred in some 28% of patients in clinical trials of hypertension. In BPH clinical trials, 21% of the patients experienced one or more of the following: dizziness, hypotension, postural hypotension, syncope, and vertigo. Patients with occupations in which such events represent potential problems should be treated with particular caution.

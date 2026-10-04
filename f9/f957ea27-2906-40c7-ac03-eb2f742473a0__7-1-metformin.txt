@@ -1,0 +1,5 @@
+DailyMed f957ea27-2906-40c7-ac03-eb2f742473a0 | Cephalexin | 7.1 Metformin
+
+Administration of cephalexin with metformin results in increased plasma metformin concentrations and decreased renal clearance of metformin.
+
+                        Careful patient monitoring and dose adjustment of metformin is recommended in patients concomitantly taking cephalexin and metformin [see Clinical Pharmacology (12.3)].

@@ -1,0 +1,5 @@
+DailyMed 36bca22f-49ea-42ce-926b-035c42eb6038 | Fosfomycin Tromethamine | OVERDOSAGE
+
+In acute toxicology studies, oral administration of high doses of fosfomycin tromethamine up to 5 gm/kg were well-tolerated in mice and rats, produced transient and minor incidences of watery stools in rabbits, and produced diarrhea with anorexia in dogs occurring 2-3 days after single dose administration. These doses represent 50-125 times the human therapeutic dose.
+
+                  The following events have been observed in patients who have taken fosfomycin tromethamine in overdose: vestibular loss, impaired hearing, metallic taste, and general decline in taste perception. In the event of overdosage, treatment should be symptomatic and supportive.

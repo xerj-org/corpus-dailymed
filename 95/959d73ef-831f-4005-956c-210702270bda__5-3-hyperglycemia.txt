@@ -1,0 +1,11 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 5.3 Hyperglycemia
+
+Severe hyperglycemia can occur in patients treated with REVTORPYK. Hyperglycemia is associated with drugs that inhibit the PI3K/AKT/mTOR pathway.
+
+                        In Study 1 of VIKTORIA-1, increased fasting glucose (FG) from baseline occurred in 46% of patients treated with REVTORPYK in combination with fulvestrant and palbociclib, including Grade 1 (FG >ULN to 160 mg/dL) in 36% of patients, Grade 2 (FG >160 to 250 mg/dL) in 8% of patients and Grade 3 (FG >250 to 500 mg/dL) in 0.9% of patients. Increased fasting glucose from baseline occurred in 57% of patients treated with REVTORPYK in combination with fulvestrant, including Grade 1 in 44% of patients, Grade 2 in 11% of patients and Grade 3 in 1.8% of patients.
+
+                        The safety of REVTORPYK in patients with Type 1 or uncontrolled Type 2 diabetes mellitus has not been established as these patients were excluded from Study 1 of VIKTORIA-1 [see Clinical Studies (14)].
+
+                        Before initiating treatment with REVTORPYK, test fasting glucose levels (FPG or FBG), HbA1c levels, and optimize fasting glucose. Achieve optimal glucose control before starting each REVTORPYK infusion [see Dosage and Administration (2.4)]. Manage hyperglycemia with anti-hyperglycemic medications. Patients with a history of well-controlled Type 2 diabetes mellitus may require intensified anti-hyperglycemic treatment and close monitoring of FG levels. Consider consultation with a healthcare professional experienced in the treatment of hyperglycemia. Initiate at-home glucose monitoring for patients with HbA1c level >6.4%. Advise patients of the signs and symptoms of hyperglycemia and counsel patients on lifestyle changes.
+
+                        Withhold, reduce dose, or permanently discontinue REVTORPYK based on severity [see Dosage and Administration (2.4)].

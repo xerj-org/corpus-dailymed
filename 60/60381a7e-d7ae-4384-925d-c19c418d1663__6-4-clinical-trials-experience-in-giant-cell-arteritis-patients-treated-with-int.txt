@@ -1,0 +1,3 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 6.4 Clinical Trials Experience in Giant Cell Arteritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+
+The safety of tocilizumab-IV was studied in an open label PK-PD and safety study in 24 patients with GCA who were in remission on tocilizumab-IV at time of enrollment. Patients received tocilizumab 7 mg/kg every 4 weeks for 20 weeks, followed by 6 mg/kg every 4 weeks for 20 weeks. The total patient years exposure to treatment was 17.5 years. The overall safety profile observed for tocilizumab administered intravenously in GCA patients was consistent with the known safety profile of tocilizumab.

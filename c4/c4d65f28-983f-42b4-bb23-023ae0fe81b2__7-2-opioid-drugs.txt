@@ -1,0 +1,9 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 7.2 Opioid Drugs
+
+Because serious, sometimes fatal reactions have been precipitated with concomitant use of opioid drugs (e.g., meperidine and its derivatives, methadone, propoxyphene, or tramadol) and MAOIs, including selective MAO-B inhibitors, concomitant use of these drugs is contraindicated
+
+  [see
+
+   Warnings and Precautions (5.2)]
+
+  . At least 14 days should elapse between discontinuation of XADAGO and initiation of treatment with these drugs.

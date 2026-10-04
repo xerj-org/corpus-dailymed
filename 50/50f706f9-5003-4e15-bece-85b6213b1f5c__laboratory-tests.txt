@@ -1,0 +1,5 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Laboratory Tests
+
+Adults treated for tuberculosis with rifampin should have baseline measurements of hepatic enzymes, bilirubin, serum creatinine, a complete blood count, and a platelet count (or estimate). Baseline tests are unnecessary in pediatric patients unless a complicating condition is known or clinically suspected.
+
+                        Patients should be seen at least monthly during therapy and should be specifically questioned concerning symptoms associated with adverse reactions. All patients with abnormalities should have follow-up, including laboratory testing, if necessary. Routine laboratory monitoring for toxicity in people with normal baseline measurements is generally not necessary.

@@ -1,0 +1,7 @@
+DailyMed b07b5ac4-253e-4c83-91c3-3fdc46e91a0f | AMOXICILLIN | 8.6 Dosing in Renal Impairment
+
+Amoxicillin is primarily eliminated by the kidney and dosage adjustment is usually required in patients with severe renal impairment (GFR less than 30 mL/min). See
+
+                              Dosing in Renal Impairment (2.5) 
+
+  for specific recommendations in patients with renal impairment.

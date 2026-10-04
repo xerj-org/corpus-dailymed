@@ -1,0 +1,11 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Concomitant Glyburide and Metformin Therapy
+
+Glyburide tablets should be added gradually to the dosing regimen of patients who have not responded to the maximum dose of metformin monotherapy after four weeks (see
+                                    Usual Starting Dose
+                                  and
+                                    Titration to Maintenance Dose
+                                 ). Refer to metformin package insert.
+
+                              With concomitant glyburide and metformin therapy, the desired control of blood glucose may be obtained by adjusting the dose of each drug. However, attempts should be made to identify the optimal dose of each drug needed to achieve this goal. With concomitant glyburide and metformin therapy, the risk of hypoglycemia associated with sulfonylurea therapy continues and may be increased. Appropriate precautions should be taken (see
+                                    PRECAUTIONS
+                                  section).

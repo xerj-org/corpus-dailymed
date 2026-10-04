@@ -1,0 +1,37 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 11 DESCRIPTION
+
+Ganciclovir for Injection contains ganciclovir, in the form of the sodium salt for intravenous injection.  Ganciclovir is a synthetic guanine derivative active against cytomegalovirus (CMV).
+
+                  Chemically, ganciclovir is 9-[[2-hydroxy-1-(hydroxymethyl)-ethoxy]methyl]guanine and ganciclovir sodium is 9-[[2-hydroxy-1-(hydroxymethyl)-ethoxy]methyl]guanine, monosodium salt.  The chemical structures of ganciclovir sodium and ganciclovir are:
+
+                            |
+
+                            |
+                            |
+
+                            |
+                            |
+
+                            |
+                           ganciclovir sodium
+
+            C9H12N5NaO4,
+
+            M.W.=277.22	 |
+                            |
+                                         ganciclovir
+
+                          C9H13N5O4
+
+                          M.W.=255.23 |
+                            |
+
+                  Ganciclovir is a white to off-white crystalline powder. Ganciclovir is a polar hydrophilic compound with a solubility of 2.6 mg/mL in water at 25°C and an n-octanol/water partition coefficient of 0.022. The pKas for ganciclovir are 2.2 and 9.4.
+
+                  Ganciclovir for Injection USP, formulated as monosodium salt, using sodium hydroxide as a salt forming agent, is a sterile white to off-white lyophilized powder.  The lyophilized powder has an aqueous solubility of greater than 50 mg/mL at 25°C. At physiological pH, ganciclovir sodium exists as the un-ionized form with a solubility of approximately 6 mg/mL at 37°C.
+
+                  Each vial contains ganciclovir sodium equivalent to 500 mg ganciclovir.
+
+                  Inactive ingredients may include hydrochloric acid (QS) and sodium hydroxide (QS) added to adjust the pH.
+
+                  All doses in this package insert are specified in terms of ganciclovir.

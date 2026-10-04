@@ -1,0 +1,43 @@
+DailyMed bc99e6af-7050-4653-a681-5b252305a970 | Diclofenac SodiumDelayed Release | Cardiovascular Thromboic Events
+
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three
+
+  years duration have shown an increased risk of serious cardiovascular (CV)
+
+  thrombotic events, including myocardial infarction (MI), and stroke, which can
+
+  be fatal. Based on available data, it is unclear that the risk for CV thrombotic
+
+  events is similar for all NSAIDs. The relative increase in serious CV thrombotic
+
+  events over baseline conferred by NSAID use appears to be similar in those with
+
+  and without known CV disease or risk factors for CVdisease. However, patients
+
+  with known CV disease or risk factors had a higher absolute incidence of excess
+
+  serious CV thrombotic events, due to their increased baseline rate. Some
+
+  observational studies found that this increased risk of serious CV thrombotic
+
+  events began as early as the first weeks of treatment. The increase in CV
+
+  thrombotic risk has been observed most consistently at higher doses.
+
+                        To minimize the potential risk for an adverse CV event in NSAID-treated patients,
+
+  use the lowest effective dose for the shortest duration possible. Physicians and
+
+  patients should remain alert for the development of such events, throughout the
+
+  entire treatment course, even in the absence of previous CV symptoms. Patients
+
+  should be informed about the symptoms of serious CV events and the
+
+                        There is no consistent evidence that concurrent use of aspirin mitigates the
+
+  increased risk of serious CV thrombotic events associated with NSAID use. The
+
+  concurrent use of aspirin and an NSAID, such as diclofenac, increases the risk
+
+  of serious gastrointestinal (GI) events (see     WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation).

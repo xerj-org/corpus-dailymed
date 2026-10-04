@@ -1,0 +1,11 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 1.2 Heart Failure
+
+PREXXARTAN™ is indicated for the treatment of heart failure (NYHA class II-IV) to reduce the risk of hospitalization for heart failure in patients who are unable to swallow valsartan tablets. There is no evidence that valsartan provides added benefits when it is used with an adequate dose of an angiotensin converting enzyme (ACE) inhibitor
+  [see
+   Warnings and Precautions (5.2)
+                           ,
+
+                              Clinical Pharmacology (12.3)
+                           and
+
+                              Clinical Studies (14.2)].

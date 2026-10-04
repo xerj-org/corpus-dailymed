@@ -1,0 +1,19 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 5.14 Hyperprolactinemia
+
+Antipsychotic drugs elevate prolactin levels during acute and chronic use and may result in galactorrhea, amenorrhea, gynecomastia and impotence which have been reported with antipsychotic drugs [
+
+  see Adverse Reactions(
+
+  6.1,
+
+  6.2) and
+
+  Use in Specific Populations(
+
+  8.3)].
+
+                        Published epidemiologic studies have shown inconsistent results regarding the potential association between hyperprolactinemia and breast cancer [
+
+  see Nonclinical Toxicology(
+
+  13.1)].

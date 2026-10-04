@@ -1,0 +1,144 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 14.2 Community-Acquired Pneumonia: 7-14 day Treatment Regimen
+
+Adult inpatients and outpatients with a diagnosis of community-acquired bacterial pneumonia were evaluated in 2 pivotal clinical studies. In the first study, 590 patients were enrolled in a prospective, multi-center, unblinded randomized trial comparing levofloxacin 500 mg once daily orally or intravenously for 7 to 14 days to ceftriaxone 1 to 2 grams intravenously once or in equally divided doses twice daily followed by cefuroxime axetil 500 mg orally twice daily for a total of 7 to 14 days. Patients assigned to treatment with the control regimen were allowed to receive erythromycin (or doxycycline if intolerant of erythromycin) if an infection due to atypical pathogens was suspected or proven. Clinical and microbiologic evaluations were performed during treatment, 5 to 7 days posttherapy, and 3 to 4 weeks posttherapy. Clinical success (cure plus improvement) with levofloxacin at 5 to 7 days posttherapy, the primary efficacy variable in this study, was superior (95%) to the control group (83%). The 95% CI for the difference of response rates (levofloxacin minus comparator) was [-6, 19]. In the second study, 264 patients were enrolled in a prospective, multi-center, non-comparative trial of 500 mg levofloxacin administered orally or intravenously once daily for 7 to 14 days. Clinical success for clinically evaluable patients was 93%. For both studies, the clinical success rate in patients with atypical pneumonia due to Chlamydophila pneumoniae, Mycoplasma pneumoniae, and Legionella pneumophila were 96%, 96%, and 70%, respectively. Microbiologic eradication rates across both studies are presented in Table 10.
+
+                           Table 10: Bacteriological Eradication Rates Across 2 Community Acquired Pneumonia Clinical Studies
+
+                                  Pathogen
+                                  |
+                                  No. Pathogens
+                                  |
+                                  Bacteriological Eradication Rate (%)
+                                  |
+
+                                  H. influenzae
+                                  |
+                                  55 |
+                                  98 |
+
+                                  S. pneumoniae
+                                  |
+                                  83 |
+                                  95 |
+
+                                  S. aureus
+                                  |
+                                  17 |
+                                  88 |
+
+                                  M. catarrhalis
+                                  |
+                                  18 |
+                                  94 |
+
+                                  H. parainfluenzae
+                                  |
+                                  19 |
+                                  95 |
+
+                                  K. pneumoniae
+                                  |
+                                  10 |
+                                  100.0 |
+
+                           Community-Acquired Pneumonia Due to Multi-Drug Resistant Streptococcus pneumoniae
+
+                        Levofloxacin was effective for the treatment of community-acquired pneumonia caused by multi-drug resistant Streptococcus pneumoniae (MDRSP). MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins (e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole). Of 40 microbiologically evaluable patients with MDRSP isolates, 38 patients (95.0%) achieved clinical and bacteriologic success at post-therapy. The clinical and bacterial success rates are shown in Table 11.
+
+                           Table 11: Clinical and Bacterial Success Rates for Levofloxacin-Treated MDRSP in Community Acquired Pneumonia Patients (Population Valid for Efficacy)
+
+                                  Screening Susceptibility
+                                  |
+                                  Clinical
+
+             Success
+                                  |
+                                  Bacteriological
+
+             Success*
+
+                                  |
+
+                                   |
+                                  n/N†
+
+                                  |
+                                  %
+                                  |
+                                  n/N‡
+
+                                  |
+                                  %
+                                  |
+
+                                  Penicillin-resistant
+                                  |
+                                  16/17 |
+                                  94.1 |
+                                  16/17 |
+                                  94.1 |
+
+                                  2nd generation Cephalosporin resistant
+                                  |
+                                  31/32 |
+                                  96.9 |
+                                  31/32 |
+                                  96.9 |
+
+                                  Macrolide-resistant
+                                  |
+                                  28/29 |
+                                  96.6 |
+                                  28/29 |
+                                  96.6 |
+
+                                  Trimethoprim/ Sulfamethoxazole resistant
+                                  |
+                                  17/19 |
+                                  89.5 |
+                                  17/19 |
+                                  89.5 |
+
+                                  Tetracycline-resistant
+                                  |
+                                  12/12 |
+                                  100 |
+                                  12/12 |
+                                  100 |
+
+                        * One patient had a respiratory isolate that was resistant to tetracycline, cefuroxime, macrolides and TMP/SMX and intermediate to penicillin and a blood isolate that was intermediate to penicillin and cefuroxime and resistant to the other classes. The patient is included in the database based on respiratory isolate.
+
+                        † n=the number of microbiologically evaluable patients who were clinical successes; N=number of microbiologically evaluable patients in the designated resistance group.
+
+                        ‡ n=the number of MDRSP isolates eradicated or presumed eradicated in microbiologically evaluable patients; N=number of MDRSP isolates in a designated resistance group.
+
+                        Not all isolates were resistant to all antimicrobial classes tested. Success and eradication rates are summarized in Table 12.
+
+                           Table 12: Clinical Success and Bacteriologic Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
+
+                                  Type of Resistance
+                                  |
+                                  Clinical Success
+                                  |
+                                  Bacteriologic Eradication
+                                  |
+
+                                  Resistant to 2 antibacterials |
+                                  17/18 (94.4%) |
+                                  17/18 (94.4%) |
+
+                                  Resistant to 3 antibacterials |
+                                  14/15 (93.3%) |
+                                  14/15 (93.3%) |
+
+                                  Resistant to 4 antibacterials |
+                                  7/7 (100%) |
+                                  7/7 (100%) |
+
+                                  Resistant to 5 antibacterials |
+                                  0 |
+                                  0 |
+
+                                  Bacteremia with MDRSP |
+                                  8/9 (89%) |
+                                  8/9 (89%) |

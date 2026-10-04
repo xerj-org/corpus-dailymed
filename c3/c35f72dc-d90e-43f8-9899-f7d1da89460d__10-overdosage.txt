@@ -1,0 +1,9 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 10 OVERDOSAGE
+
+The highest single dose administered in clinical trials was 1,200 mg. The dose-limiting adverse event was postural hypotension, which was observed at 600 mg. While the recommended dose for maraviroc in patients receiving a CYP3A inducer without a CYP3A inhibitor is 600 mg twice daily, this dose is appropriate due to enhanced metabolism.
+
+                  Prolongation of the QT interval was seen in dogs and monkeys at plasma concentrations 6 and 12 times, respectively, those expected in humans at the intended exposure of 300-mg equivalents twice daily. However, no significant QT prolongation was seen in the trials in treatment-experienced subjects with HIV using the recommended doses of maraviroc, or in a specific pharmacokinetic trial to evaluate the potential of maraviroc to prolong the QT interval [see Clinical Pharmacology (12.2)].
+
+                  There is no specific antidote for overdose with maraviroc. Treatment of overdose should consist of general supportive measures including keeping the patient in a supine position, careful assessment of patient vital signs, blood pressure, and ECG.
+
+                  Administration of activated charcoal may also be used to aid in removal of unabsorbed drug. Hemodialysis had a minimal effect on maraviroc clearance and exposure in a trial in subjects with ESRD [see Clinical Pharmacology (12.3)].

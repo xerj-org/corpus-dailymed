@@ -1,0 +1,5 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 5.7 Gastrointestinal Perforations
+
+Gastrointestinal perforations have been reported in clinical trials with LEQSELVI.
+
+                        Monitor patients treated with LEQSELVI who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis). Evaluate promptly patients presenting with new onset abdominal symptoms for early identification of gastrointestinal perforation.

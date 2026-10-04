@@ -1,0 +1,147 @@
+DailyMed 686d0088-ac61-41df-8909-ae12f7957644 | ARIPIPRAZOLE | 14.5 Tourette’s Disorder
+
+Pediatric Patients
+
+                        The efficacy of aripiprazole in the treatment of Tourette’s Disorder was established in one 8-week (7 to 17 years of age) and one 10-week (6 to 18 years of age), placebo-controlled trials in pediatric patients (6 to 18 years of age) who met the DSM-IV criteria for Tourette’s Disorder and had a Total Tic score (TTS) ≥ 20 to 22 on the Yale Global Tic Severity Scale (YGTSS). The YGTSS is a fully validated scale designed to measure current tic severity. Efficacy was evaluated using two assessment scales: 1) the Total Tic score (TTS) of the YGTSS and 2) the Clinical Global Impressions Scale for Tourette’s Syndrome (CGI-TS), a clinician-determined summary measure that takes into account all available patient information. Over 65% of these patients were under 13 years of age.
+
+                        The primary outcome measure in both trials was the change from baseline to endpoint in the TTS of the YGTSS. Ratings for the TTS are made along 5 different dimensions on a scale of 0 to 5 for motor and vocal tics each. Summation of these 10 scores provides a TTS (i.e., 0 to 50).
+
+                        The results of these trials are as follows:
+
+                        In the 8-week, placebo-controlled, fixed-dose trial, children and adolescents with Tourette’s Disorder (n=133), aged 7 to 17 years, were randomized 1:1:1 to low dose aripiprazole, high dose aripiprazole, or placebo. The target doses for the low and high dose aripiprazole groups were based on weight. Patients <50 kg in the low dose aripiprazole group started at 2 mg/day with a target dose of 5 mg/day after 2 days. Patients ≥50 kg in the low dose aripiprazole group, started at 2 mg/day increased to 5 mg/day after 2 days, with a subsequent increase to a target dose of 10 mg/day at Day 7. Patients <50 kg in the high dose aripiprazole group started at 2 mg/day increased to 5 mg/day after 2 days, with a subsequent increase to a target dose of 10 mg/day at Day 7. Patients ≥50 kg in the high dose aripiprazole group, started at 2 mg/day increased to 5 mg/day after 2 days, with a subsequent increase to a dose of 10 mg/day at Day 7 and were allowed weekly increases of 5 mg/day up to a target dose 20 mg/day at Day 21. Aripiprazole (both high and low dose groups) demonstrated statistically significantly improved scores on the YGTSS TTS (Study 1 in Table 27) and on the CGI-TS scale compared with placebo. The estimated improvements on the YGTSS TTS over the course of the study are displayed in Figure 9.
+
+                           Figure 9: Least Square Means of Change from Baseline in YGTSS TTS by Week (Tourette’s Disorder Study 1)
+
+                        In the 10-week, placebo-controlled, flexible-dose trial in children and adolescents with Tourette’s Disorder (n=61), aged 6 to 18 years, patients received daily doses of placebo or aripiprazole, starting at 2 mg/day with increases allowed up to 20 mg/day based on clinical response. Aripiprazole demonstrated statistically significantly improved scores on the YGTSS TTS scale compared with placebo (Study 2 in Table 27). The mean daily dose of aripiprazole at the end of 10-week treatment was 6.54 mg/day.
+
+                           Table 27: Tourette’s Disorder Studies (Pediatric)
+
+                                       Study Number
+
+                                  |
+
+                                       Treatment Group
+
+                                  |
+
+                                       Primary Efficacy Measure: YGTSS TTS
+
+                                  |
+
+                                       Mean
+
+                                       Baseline
+
+                                       Score (SD)
+
+                                  |
+
+                                       LS Mean Change from Baseline (SE)
+
+                                  |
+
+                                       Placebo-subtracted Difference* (95% CI)
+
+                                  |
+
+                                    Study 1
+
+                                  |
+
+                                    Aripiprazole (low
+
+                                     dose) †
+
+                                  |
+
+                                    29.2 (5.63)
+
+                                  |
+
+                                    -13.4 (1.59)
+
+                                  |
+
+                                    -6.3 (-10.2, -2.3)
+
+                                  |
+
+                                    Aripiprazole (high dose)†
+
+                                  |
+
+                                    31.2 (6.40)
+
+                                  |
+
+                                    -16.9 (1.61)
+
+                                  |
+
+                                    -9.9 (-13.8, -5.9)
+
+                                  |
+
+                                    Placebo
+
+                                  |
+
+                                    30.7 (5.95)
+
+                                  |
+
+                                    -7.1 (1.55)
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    Study 2
+
+                                  |
+
+                                    Aripiprazole (2 to 20 mg/day)†
+
+                                  |
+
+                                    28.3 (5.51)
+
+                                  |
+
+                                    -15.0 (1.51)
+
+                                  |
+
+                                    -5.3 (-9.8, -0.9)
+
+                                  |
+
+                                    Placebo
+
+                                  |
+
+                                    29.5 (5.60)
+
+                                  |
+
+                                    -9.6 (1.64)
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval.
+
+                                  |
+
+                                    *Difference (drug minus placebo) in least-squares mean change from baseline.
+
+                                  |
+
+                                    † Doses statistically significantly superior to placebo.
+
+                                  |

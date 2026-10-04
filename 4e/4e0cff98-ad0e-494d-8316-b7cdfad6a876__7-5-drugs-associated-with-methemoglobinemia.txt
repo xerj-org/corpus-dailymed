@@ -1,0 +1,75 @@
+DailyMed 4e0cff98-ad0e-494d-8316-b7cdfad6a876 | Bupivacaine Hydrochloride | 7.5 Drugs Associated with Methemoglobinemia
+
+Patients who are administered bupivacaine hydrochloride are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics [
+
+  see Warnings and Precautions (
+
+   5.3)
+
+  ].
+
+                           Examples of Drugs Associated with Methemoglobinemia:
+
+                                       Class
+
+                                  |
+
+                                       Examples
+
+                                  |
+
+                                    Nitrates/Nitrites
+
+                                  |
+
+                                    nitric oxide, nitroglycerin, nitroprusside, nitrous oxide
+
+                                  |
+
+                                    Local anesthetics
+
+                                  |
+
+                                    articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine
+
+                                  |
+
+                                    Antineoplastic agents
+
+                                  |
+
+                                    cyclophosphamide, flutamide, hydroxyurea, isofamide, rasburicase
+
+                                  |
+
+                                    Antibiotics
+
+                                  |
+
+                                    dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides
+
+                                  |
+
+                                    Antimalarials
+
+                                  |
+
+                                    chloroquine, primaquine
+
+                                  |
+
+                                    Anticonvulsants
+
+                                  |
+
+                                    phenobarbital, phenytoin, sodium valproate
+
+                                  |
+
+                                    Other drugs
+
+                                  |
+
+                                    acetaminophen, metoclopramide, quinine, sulfasalazine
+
+                                  |

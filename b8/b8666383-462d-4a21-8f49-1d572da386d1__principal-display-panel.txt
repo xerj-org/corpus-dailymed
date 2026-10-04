@@ -1,0 +1,63 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | PRINCIPAL DISPLAY PANEL
+
+DRUG: Fluoxetine
+
+                  GENERIC: Fluoxetine
+
+                  DOSAGE: CAPSULE
+
+                  ADMINSTRATION: ORAL
+
+                  NDC: 70518-4543-0
+
+                  NDC: 70518-4543-1
+
+                  NDC: 70518-4543-2
+
+                  NDC: 70518-4543-3
+
+                  COLOR: green
+
+                  SHAPE: CAPSULE
+
+                  SCORE: No score
+
+                  SIZE: 16 mm
+
+                  IMPRINT: E;91
+
+                  PACKAGING: 30 in 1 BLISTER PACK
+
+                  OUTER PACKAGING: 50 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  OUTER PACKAGING: 100 in 1 BOX
+
+                  ACTIVE INGREDIENT(S):
+
+                     FLUOXETINE HYDROCHLORIDE 20mg in 1
+
+                  INACTIVE INGREDIENT(S):
+
+                     FD&C BLUE NO. 1
+
+                     GELATIN, UNSPECIFIED
+
+                     STARCH, CORN
+
+                     SODIUM LAURYL SULFATE
+
+                     TITANIUM DIOXIDE
+
+                     FERRIC OXIDE YELLOW
+
+                     FERROSOFERRIC OXIDE
+
+                     POTASSIUM HYDROXIDE
+
+                     PROPYLENE GLYCOL
+
+                     SHELLAC
+
+                     AMMONIA

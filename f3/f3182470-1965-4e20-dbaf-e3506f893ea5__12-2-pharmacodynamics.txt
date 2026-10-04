@@ -1,0 +1,7 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 12.2 Pharmacodynamics
+
+Shedding and Transmission
+
+                        A prospective, randomized, double-blind, placebo-controlled study was performed in the Dominican Republic in twins within the same household to assess whether transmission of vaccine virus occurs from a vaccinated infant to a non-vaccinated infant (Study 20; NCT00396630). One hundred pairs of healthy twins 6 to 14 weeks of age (gestational age ≥32 weeks) were randomized with one twin to receive ROTARIX (n = 100) and the other twin to receive placebo (n = 100). Twenty infants in each arm were excluded for reasons such as having rotavirus antibody at baseline. Stool samples were collected on the day of or 1 day prior to each dose, as well as 3 times weekly for 6 consecutive weeks after each dose of ROTARIX or placebo. Transmission was defined as presence of the vaccine virus strain in any stool sample from a twin receiving placebo.
+
+                        Transmitted vaccine virus was identified in 15 of 80 twins receiving placebo (18.8% [95% CI: 10.9, 29.0]). Median duration of the rotavirus shedding was 10 days in twins who received ROTARIX as compared with 4 days in twins who received placebo in whom the vaccine virus was transmitted. In the 15 twins who received placebo, no gastrointestinal symptoms related to transmitted vaccine virus were observed.

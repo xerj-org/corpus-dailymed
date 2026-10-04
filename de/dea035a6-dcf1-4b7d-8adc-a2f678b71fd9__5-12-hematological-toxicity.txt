@@ -1,0 +1,8 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 5.12 Hematological Toxicity
+
+Anemia has occurred in NSAID-treated patients. This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis. If a patient treated with celecoxib has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
+
+                        In controlled clinical trials the incidence of anemia was 0.6% with celecoxib and 0.4% with placebo. Patients on long-term treatment with celecoxib should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia or blood loss.
+
+                        NSAIDs, including celecoxib, may increase the risk of bleeding events. Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet drugs (e.g., aspirin), SSRIs and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk. Monitor these patients for signs of bleeding [see Drug Interactions (7)
+                           ].

@@ -1,0 +1,9 @@
+DailyMed c05ee6a5-c98b-45f4-83fd-40781639d653 | DigiFab | 12.1 Mechanism of Action
+
+DIGIFAB has an affinity for digoxin in the range of 10
+
+  9to 10
+
+  10M
+
+  -1, which is greater than the affinity of digoxin for its sodium pump receptor, the presumed receptor for its therapeutic and toxic effects. When administered to the intoxicated patient, DIGIFAB binds to molecules of digoxin reducing free digoxin levels, which results in a shift in the equilibrium away from binding to the receptors, thereby reducing cardio-toxic effects. Fab-digoxin complexes are then cleared by the kidney and reticuloendothelial system.

@@ -1,0 +1,5 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | CONTRAINDICATIONS
+
+Use of chloroquine phosphate tablets for indications other than acute malaria is contraindicated in the presence of retinal or visual field changes of any etiology.
+
+                  Use of chloroquine phosphate tablets are contraindicated in patients with known hypersensitivity to 4-aminoquinoline compounds.

@@ -1,0 +1,11 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 5.13 Binding in the Eye and Other Melanin-Containing Tissues
+
+Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time. This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use. Although ophthalmological testing was performed in 1 controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure. Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine's binding to melanin is unknown
+
+  [see Clinical Pharmacology (
+
+   12.2)]
+
+  .
+
+                        Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.

@@ -1,0 +1,5 @@
+DailyMed 483bd97f-c4d0-4e23-aaa8-6334f4471e0c | PAXIL CR | 8.7 Hepatic Impairment
+
+Compared to those with normal hepatic function, paroxetine plasma concentrations in patients with severe hepatic impairment (HI) (Child-Pugh Class C) were increased, which may increase the risk of paroxetine-associated adverse reactions.
+
+                        The recommended starting and maximum dosage of PAXIL CR is lower in patients with severe HI compared to those with normal hepatic function [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)]. The recommended dosage in patients with mild HI (Child‑Pugh Class A) or moderate HI (Child‑Pugh Class B) is the same as in those with normal hepatic function.

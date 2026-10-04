@@ -1,0 +1,5 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Fluoroquinolones
+
+Post-marketing surveillance reports indicate that the risk of tendon rupture may be increased in patients receiving concomitant fluoroquinolones (e.g., ) and corticosteroids, especially in the elderly. Tendon rupture can occur during or after treatment with quinolones.
+
+  ciprofloxacin, levofloxacin

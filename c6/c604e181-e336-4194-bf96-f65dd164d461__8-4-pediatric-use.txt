@@ -1,0 +1,9 @@
+DailyMed c604e181-e336-4194-bf96-f65dd164d461 | Selexipag; Selexipag TITRATION PACK | 8.4 Pediatric Use
+
+The safety and effectiveness of selexipag have not been established in pediatric patients younger than 2 years. Due to nonclinical studies demonstrating a risk of intussusception in juvenile dogs and known susceptibility to gastrointestinal intussusception in young children, treatment with selexipag in pediatric patients younger than 2 years of age was not studied.
+
+                           Juvenile Animal Toxicity Data
+
+                        In juvenile dogs, intussusception due to prostacyclin-related effects on intestinal motility was observed sporadically. Safety margins adapted for prostacyclin receptor potency for the active metabolite were 2-fold (based on total exposure) in relation to human therapeutic exposure. The finding did not occur in mouse or rat toxicity studies.
+
+                           Pediatric use information is approved for Actelion Pharmaceuticals US, Inc.'s Uptravi® (Selexipag) Tablets. However, due to Actelion Pharmaceuticals US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

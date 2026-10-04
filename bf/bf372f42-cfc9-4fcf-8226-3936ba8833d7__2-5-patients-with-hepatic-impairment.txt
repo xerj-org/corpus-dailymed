@@ -1,0 +1,35 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 2.5 Patients with Hepatic Impairment
+
+The recommended dosage for patients with hepatic impairment is included in Table 2 [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)]. 
+
+                           Table 2: Recommended Dosage for Patients with Hepatic Impairment
+
+                                 Age and Body Weight |
+                                 Initial Dosage |
+                                 Maximum Maintenance Dosage |
+
+                                 Adults (16 years and older) |
+                                 25 mg twice daily
+
+(50 mg per day) |
+                                 75 mg twice daily
+
+(150 mg per day) |
+
+                                 Pediatric patients weighing
+
+50 kg or more |
+
+                                 Pediatric patients weighing 20 kg to less than 50 kg |
+                                 0.5 mg/kg twice daily (1 mg/kg per day) |
+                                 1.5 mg/kg twice daily (3 mg/kg per day) |
+
+                                 Pediatric patients weighing 11 kg to less than 20 kg |
+                                 0.5 mg/kg twice daily (1 mg/kg per day) |
+                                 2 mg/kg twice daily (4 mg/kg per day) |
+
+                                 Pediatric patients weighing less than 11
+
+kg |
+                                 0.75 mg/kg twice daily (1.5 mg/kg per day) |
+                                 2.25 mg/kg twice daily (4.5 mg/kg per day) |

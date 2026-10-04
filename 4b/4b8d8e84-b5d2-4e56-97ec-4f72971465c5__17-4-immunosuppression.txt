@@ -1,0 +1,3 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 17.4 Immunosuppression
+
+Patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles and, if exposed, to consult their physician without delay. Patients should be informed of potential worsening of existing tuberculosis; fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex [see Warnings and Precautions (5.4)].

@@ -1,0 +1,5 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Respiratory
+
+A large epidemiological study suggested an increased risk of developing pneumonia in current users of histamine-2-receptor antagonists (H2RAs) compared to patients who had stopped H2RA treatment, with an observed adjusted relative risk of 1.63 (95% CI, 1.07 to 2.48). However, a causal relationship between use of H2RAs and pneumonia has not been established.
+
+                           To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.

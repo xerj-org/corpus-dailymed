@@ -1,0 +1,6 @@
+DailyMed ff660787-880f-4f2b-baac-fd2dbfcd79c2 | Selexipag; Selexipag TITRATION PACK | 8.7 Patients with Renal Impairment
+
+No adjustment to the dosing regimen is needed in patients with estimated glomerular filtration rate >15 mL/min.
+
+                        There is no clinical experience with selexipag in patients undergoing dialysis or in patients with glomerular filtration rates < 15 mL/min 
+                           [see Clinical Pharmacology (12.3)].

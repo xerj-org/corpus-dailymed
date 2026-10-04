@@ -1,0 +1,33 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 8.3 Females and Males of Reproductive Potential
+
+Human postmarketing reports and animal studies have shown imatinib mesylate to be harmful to the developing fetus
+
+  [see Use in Specific Populations (
+
+   8.1)].
+
+                           Pregnancy Testing
+
+                        Test pregnancy status in females with reproductive potential prior to the initiation of treatment with imatinib mesylate.
+
+                           Contraception
+
+                           Females
+
+                        Advise female patients of reproductive potential to use effective contraception (methods that result in less than 1% pregnancy rates) when using imatinib mesylate during treatment and for fourteen days after stopping treatment with imatinib mesylate
+
+  [see Specific Populations (
+
+   8)]
+
+  .
+
+                           Infertility
+
+                        The risk of infertility in females or males of reproductive potential has not been studied in humans. In a rat study, the fertility in males and females was not affected
+
+  [see Nonclinical Toxicology (
+
+   13)]
+
+  .

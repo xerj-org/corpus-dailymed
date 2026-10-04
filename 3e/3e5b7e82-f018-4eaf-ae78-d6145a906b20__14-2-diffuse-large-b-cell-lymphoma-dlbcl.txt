@@ -1,0 +1,58 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 14.2 Diffuse Large B-Cell Lymphoma (DLBCL)
+
+The MabEase study [NCT01649856] enrolled a total of 576 patients with previously untreated CD20-positive DLBCL. Patients were randomized (2:1) to receive either a rituximab product by intravenous infusion, 375 mg/m2 for 8 cycles or 1 cycle of a rituximab product by intravenous infusion 375 mg/m2 followed by 7 cycles of RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human), both in combination with up to 6–8 cycles of CHOP chemotherapy, every 14 (CHOP-14) or 21 days (CHOP-21). Randomization was stratified by: age (< 60 years, ≥ 60 years), International Prognostic Index (IPI) risk category (low, low-intermediate, high-intermediate, high), and chemotherapy regimen (CHOP-21 or CHOP-14). The main outcome measure was investigator-assessed complete response rate (CR/CRu) at the end of combination treatment with chemotherapy. Additional outcome measures were time-to-event endpoints (PFS and OS).
+
+                        Of all randomized patients, the median age was 64 years (range: 18 to 80 years); 54% were male; and 79% were White. The median BSA was 1.83 m2. 31% low risk or 30% low intermediate risk IPI score, 24% high intermediate risk, or 15% high risk IPI score and 42% of patients had Ann Arbor Stage IV disease. A total of 470 patients (82%) received 8 cycles of treatment. Median duration of exposure to treatment was 4.9 months in both treatment groups. The median number of administrations/cycles (RITUXAN HYCELA or rituximab) was 8 in both groups.
+
+                        The efficacy results for are presented in Table 7. The median observation time was approximately 28 months.
+
+                           Table 7:	Efficacy in Patients with Previously Untreated DLBCL (MabEase Study)
+
+                                  |
+                                 RITUXAN HYCELA
+
+ N=381 |
+                                 Rituximab
+
+ N=195 |
+
+                                    Complete Response Rate (CR/CRu)Investigator-assessed.
+
+                                  |
+
+                                 Number achieving CR/CRu Four patients in the RITUXAN HYCELA group and 1 patient in the rituximab group had their response downgraded due to their bone marrow data.
+
+                                  |
+                                 179 |
+                                 82 |
+
+                                 Cr/CRu rate (%, [95% CI]) |
+                                 47% [42;52] |
+                                 42% [35;49] |
+
+                                   Difference in rates [95% CI]Difference in response rates (RITUXAN HYCELA minus rituximab).
+
+                                  |
+                                 4.9% [-3.6;13.5] |
+
+                                    Progression-free survivalProgression-free survival is defined as the time from randomization to the first occurrence of disease progression or relapse, or death from any cause.
+
+                                  |
+
+                                 Number of patients with event |
+                                 104 (27%) |
+                                 44 (23%) |
+
+                                 Hazard Ratio [95% CI] (unstratified Cox model) |
+                                 1.22 [0.85;1.73] |
+
+                                    Overall survivalOverall survival is defined as the time from randomization until death from any cause.
+
+                                  |
+
+                                 Number of patients with event |
+                                 63 (17%) |
+                                 29 (15%) |
+
+                                 Hazard Ratio [95% CI] (unstratified Cox model) |
+                                 1.08 [0.70;1.68] |

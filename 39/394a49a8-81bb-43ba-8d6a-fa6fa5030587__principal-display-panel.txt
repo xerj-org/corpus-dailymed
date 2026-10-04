@@ -1,0 +1,45 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | PRINCIPAL DISPLAY PANEL
+
+DRUG: Ramipril
+
+                  GENERIC: Ramipril
+
+                  DOSAGE: CAPSULE
+
+                  ADMINSTRATION: ORAL
+
+                  NDC: 70518-3038-0
+
+                  COLOR: blue
+
+                  SHAPE: CAPSULE
+
+                  SCORE: No score
+
+                  SIZE: 15 mm
+
+                  IMPRINT: D;08
+
+                  PACKAGING: 90 in 1 BOTTLE, PLASTIC
+
+                  ACTIVE INGREDIENT(S):
+
+                     RAMIPRIL 10mg in 1
+
+                  INACTIVE INGREDIENT(S):
+
+                     STARCH, CORN
+
+                     SILICON DIOXIDE
+
+                     GELATIN
+
+                     SODIUM LAURYL SULFATE
+
+                     TITANIUM DIOXIDE
+
+                     FERROSOFERRIC OXIDE
+
+                     SHELLAC
+
+                     FD&C BLUE NO. 1

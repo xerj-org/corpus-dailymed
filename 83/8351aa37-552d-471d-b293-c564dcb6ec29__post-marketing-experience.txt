@@ -1,0 +1,17 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Post-marketing Experience
+
+In addition to the adverse reactions reported during clinical trials, the following adverse experiences have been reported during clinical practice in patients treated with ceftriaxone. Data are generally insufficient to allow an estimate of incidence or to establish causation.
+
+                        A small number of cases of fatal outcomes in which a crystalline material was observed in the lungs and kidneys at autopsy have been reported in neonates receiving ceftriaxone and calcium-containing fluids. In some of these cases, the same intravenous infusion line was used for both ceftriaxone and calcium‑containing fluids and in some a precipitate was observed in the intravenous infusion line. At least one fatality has been reported in a neonate in whom ceftriaxone and calcium‑containing fluids were administered at different time points via different intravenous lines; no crystalline material was observed at autopsy in this neonate. There have been no similar reports in patients other than neonates.
+
+                           GASTROINTESTINAL – pancreatitis, stomatitis and glossitis.
+
+                           GENITOURINARY – oliguria, ureteric obstruction, post-renal acute renal failure.
+
+                           DERMATOLOGIC – exanthema, allergic dermatitis, urticaria, edema; acute generalized exanthematous pustulosis (AGEP) and isolated cases of severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis) have been reported.
+
+                           HEMATOLOGICAL CHANGES – isolated cases of agranulocytosis (< 500/mm3) have been reported, most of them after 10 days of treatment and following total doses of 20 g or more.
+
+                           NEUROLOGIC – encephalopathy, seizures, myoclonus. and non-convulsive status epilepticus (see WARNINGS AND PRECAUTIONS).
+
+                           OTHER, Adverse Reactions – symptomatic precipitation of ceftriaxone calcium salt in the gallbladder, kernicterus, oliguria, and anaphylactic or anaphylactoid reactions.

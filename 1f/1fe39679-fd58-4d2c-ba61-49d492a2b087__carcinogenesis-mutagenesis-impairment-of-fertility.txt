@@ -1,0 +1,34 @@
+DailyMed 1fe39679-fd58-4d2c-ba61-49d492a2b087 | ACETAMINOPHEN AND CODEINE PHOSPHATE | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Long-term studies to evaluate the carcinogenic potential of the combination of codeine and acetaminophen have not been conducted 
+
+                        Two-year carcinogenicity studies have been conducted in F344/N rats and B6C3F1 mice. There was no evidence of carcinogenicity in male and female rats, respectively, at dietary doses up to 70 and 80mg/kg/day of codeine sulfate (approximately 2 times the maximum recommended daily dose of 360mg/day for adults on a mg/m2 basis) for two years. Similarly there was no evidence of carcinogenicity activity in male and female mice at dietary doses up to 400 mg/kg/day of codeine sulfate (approximately 5 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m2 basis) for two years.
+
+                        Long-term studies in mice and rats have been completed by the National Toxicology Program to evaluate the carcinogenic potential of acetaminophen. In 2-year feeding studies, F344/N rats and B6C3F1 mice were fed a diet containing acetaminophen up to 6000 ppm. Female rats demonstrated equivocal evidence of carcinogenic activity based on increased incidences of mononuclear cellleukemia at 0.8 times the maximum human daily dose (MHDD) of 4 grams/day, based on a body surface area comparison. In contrast, there was no evidence of carcinogenic activity in male rats that received up to 0.7 times or mice at up to 1.2–1.4 times the MHDD, based on a body surface area comparison.
+
+                        Mutagenesis
+
+  Codeine sulfate was not mutagenic in the
+
+  in vitrobacterial reverse mutation assay or clastogenic in the
+
+  invitroChinese hamster ovary cell chromosome aberration assay. 
+
+                        In the published literature, acetaminophen has been reported to be clastogenic when administered at1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison). In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
+
+                        Impairment of Fertility
+
+  No nonclinical fertility studies have been conducted with codeine or the combination of codeine and acetaminophen. 
+
+                        In studies conducted by the National Toxicology Program, fertility assessments with acetaminophen have been completed in Swiss CD-1 mice via a continuous breeding study. There were no effects on fertility parameters in mice consuming up to 1.7 times the MHDD of acetaminophen, based on a body surface area comparison. Although there was no effect on sperm motility or sperm density in the epididym is, there was a significant increase in the percentage of abnormal sperm in mice consuming1.78 times the MHDD (based on a body surface comparison) and there was a reduction in the number of mating pairs producing a fifth litter at this dose, suggesting the potential for cumulative toxicity with chronic administration of acetaminophen near the upper limit of daily dosing. 
+
+                        Published studies in rodents report that oral acetaminophen treatment of male animals at doses that are1.2 times the MHDD and greater (based on a body surface comparison) result in decreased testicular weights, reduced spermatogenesis, reduced fertility, and reduced implantation sites in females given the same doses. These effects appear to increase with the duration of treatment. The clinical significance of these findings is not known. 
+
+                           Infertility
+
+                        Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential. It is not known whether these effects on fertility are reversible (see
+
+                              ADVERSE REACTIONS
+                           ).

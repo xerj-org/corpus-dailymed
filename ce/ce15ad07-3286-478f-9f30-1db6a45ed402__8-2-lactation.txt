@@ -1,0 +1,9 @@
+DailyMed ce15ad07-3286-478f-9f30-1db6a45ed402 | Pravastatin Sodium | 8.2 Lactation
+
+Risk Summary
+
+                               
+
+Based on one lactation study in published literature, pravastatin is present in human milk. There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production. Statins, including pravastatin, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
+
+                        Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with pravastatin [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].

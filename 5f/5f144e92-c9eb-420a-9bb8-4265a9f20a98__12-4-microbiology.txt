@@ -1,0 +1,81 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 12.4 Microbiology
+
+Mechanism of Action
+
+                        Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit.
+
+                           Resistance
+
+                        Azithromycin demonstrates cross resistance with erythromycin. The most frequently encountered mechanism of resistance to azithromycin is modification of the 23S rRNA target, most often by methylation. Ribosomal modifications can determine cross resistance to other macrolides, lincosamides, and streptogramin B (MLS
+
+  Bphenotype).
+
+                           Antimicrobial Activity
+
+                        Azithromycin has been shown to be active against most isolates of the following microorganisms, both
+
+  in vitroand in clinical infections.
+
+  [see
+
+   Indications and Usage (1)]
+
+                        Gram-Positive Bacteria
+
+                           Staphylococcus aureus
+
+                           Streptococcus agalactiae
+
+                           Streptococcus pneumoniae
+
+                           Streptococcus pyogenes
+
+                        Gram-Negative Bacteria
+
+                           Haemophilus ducreyi
+
+                           Haemophilus influenzae
+
+                           Moraxella catarrhalis
+
+                           Neisseria gonorrhoeae
+
+                        Other Bacteria
+
+                           Chlamydophila pneumoniae
+
+                           Chlamydia trachomatis
+
+                           Mycoplasma pneumoniae
+
+                        The following
+
+  in vitrodata are available, but their clinical significance is unknown. At least 90 percent of the following bacteria exhibit an
+
+  in vitrominimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for azithromycin against isolates of similar genus or organism group. However, the efficacy of azithromycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
+
+                        Gram-Positive Bacteria
+
+                        Beta-hemolytic streptococci (Groups C, F, G)
+
+                        Viridans group streptococci
+
+                        Gram-Negative Bacteria
+
+                           Bordetella pertussis
+
+                           Legionella pneumophila
+
+                        Anaerobic Bacteria
+
+                           Prevotella bivia
+
+                           Peptostreptococcus species
+
+                        Other Bacteria
+
+                           Ureaplasma urealyticum
+
+                           Susceptibility Testing
+
+                        For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

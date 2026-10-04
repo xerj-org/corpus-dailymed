@@ -1,0 +1,21 @@
+DailyMed dd62a2b8-300b-d92b-7b27-a30eaa68fdd3 | Tofacitinib | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+                     Serious Infections [see Warnings and Precautions (5.1)]
+
+                     Increased Risk of Mortality [see Warnings and Precautions (5.2)]
+
+                     Malignancy and Lymphoproliferative Disorders [see Warnings and Precautions (5.3)]
+
+                     Major Adverse Cardiovascular Events [see Warnings and Precautions (5.4)]
+
+                     Thrombosis [see Warnings and Precautions (5.5)]
+
+                     Gastrointestinal Perforations [see Warnings and Precautions (5.6)]
+
+                     Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+
+                     Hypoglycemia in Patients with Diabetes [see Warnings and Precautions (5.8)]
+
+                     Laboratory Abnormalities [see Warnings and Precautions (5.9)]

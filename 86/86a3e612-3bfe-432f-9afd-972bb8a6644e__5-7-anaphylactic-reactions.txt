@@ -1,0 +1,11 @@
+DailyMed 86a3e612-3bfe-432f-9afd-972bb8a6644e | Naproxen | 5.7 Anaphylactic Reactions
+
+Naproxen has been associated with anaphylactic reactions in patients with and without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma
+
+  [see
+
+   Contraindications (4) and
+
+   Warnings and Precautions (5.8)].
+
+                        Seek emergency help if an anaphylactic reaction occurs.

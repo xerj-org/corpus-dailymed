@@ -1,0 +1,70 @@
+DailyMed a4f4ebdd-d4b0-49f4-9a3d-c2acfadc0161 | Combogesic | 14 CLINICAL STUDIES
+
+In a Phase 3 efficacy study in 110 patients (aged from 16 to 55 years, approximately two-thirds female, and more than 80% Caucasian) with post-procedural pain following surgical extraction of impacted wisdom teeth, three tablets of COMBOGESIC provided greater pain reduction than placebo or comparable doses of acetaminophen or ibuprofen alone. The treatment differences were measured by the primary end point.
+
+                  The treatment differences in the time-adjusted Summed Pain Intensity Difference over the first 48 hours (SPID 0-48), are statistically significant as summarized in the table below.
+
+                     Table 3: Summary of Time-adjusted SPID (0-48 Hours) by Treatment Group
+
+                            |
+                           Ibuprofen
+
+97.5 mg |
+                           Acetaminophen
+
+ 325 mg |
+                           Placebo |
+                           COMBOGESIC |
+
+                            |
+
+                              N=112
+                            |
+
+                              N=111
+                            |
+
+                              N=75
+                            |
+
+                              N=110
+                            |
+
+                              Mean
+                            |
+                           23.18 |
+                           17.71 |
+                           14.86 |
+                           31.56 |
+
+                              SE
+                            |
+                           1.89 |
+                           1.89 |
+                           2.26 |
+                           1.94 |
+
+                              95% CI (Lower)
+                            |
+                           19.47 |
+                           14.00 |
+                           10.43 |
+                           27.76 |
+
+                              95% (Upper)
+                            |
+                           26.89 |
+                           21.43 |
+                           19.30 |
+                           35.37 |
+
+                              P-value COMBOGESIC
+                            |
+                           <0.001 |
+                           <0.001 |
+                           <0.001 |
+                           - |
+
+                  The observed treatment differences over the first six hours are illustrated by the separation of pain curves as shown in Figure 1 below.
+
+                     Figure 1: Pain Intensity Differences from baseline over the first dose interval of AFT-MX-6

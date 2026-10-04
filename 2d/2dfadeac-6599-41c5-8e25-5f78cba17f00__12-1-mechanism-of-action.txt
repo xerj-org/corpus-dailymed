@@ -1,0 +1,21 @@
+DailyMed 2dfadeac-6599-41c5-8e25-5f78cba17f00 | Fluticasone Propionate and SalmeterolDISKUS | 12.1 Mechanism of Action
+
+Fluticasone Propionate/Salmeterol DISKUS
+
+                        Fluticasone Propionate/Salmeterol DISKUS contains both fluticasone propionate and salmeterol. The mechanisms of action described below for the individual components apply to Fluticasone Propionate/Salmeterol DISKUS. These drugs represent 2 different classes of medications (a synthetic corticosteroid and a LABA) that have different effects on clinical, physiologic, and inflammatory indices.
+
+                           Fluticasone Propionate
+
+                        Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity. Fluticasone propionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is 18 times that of dexamethasone, almost twice that of beclomethasone-17-monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide. Data from the McKenzie vasoconstrictor assay in man are consistent with these results. The clinical significance of these findings is unknown.
+
+                        Inflammation is an important component in the pathogenesis of asthma. Corticosteroids have been shown to have a wide range of actions on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) involved in inflammation. These anti-inflammatory actions of corticosteroids contribute to their efficacy in asthma.
+
+                        Inflammation is also a component in the pathogenesis of COPD. In contrast to asthma, however, the predominant inflammatory cells in COPD include neutrophils, CD8+ T-lymphocytes, and macrophages. The effects of corticosteroids in the treatment of COPD are not well defined and ICS and fluticasone propionate when used apart from Fluticasone Propionate/Salmeterol DISKUS are not indicated for the treatment of COPD.
+
+                           Salmeterol Xinafoate
+
+                        Salmeterol is a selective LABA. In vitro studies show salmeterol to be at least 50 times more selective for beta2-adrenoceptors than albuterol. Although beta2-adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-adrenoceptors are the predominant receptors in the heart, there are also beta2-adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors. The precise function of these receptors has not been established, but their presence raises the possibility that even selective beta2-agonists may have cardiac effects.
+
+                        The pharmacologic effects of beta2-adrenoceptor agonist drugs, including salmeterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3′,5′-adenosine monophosphate (cyclic AMP). Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
+
+                        In vitro tests show that salmeterol is a potent and long-lasting inhibitor of the release of mast cell mediators, such as histamine, leukotrienes, and prostaglandin D2, from human lung. Salmeterol inhibits histamine-induced plasma protein extravasation and inhibits platelet-activating factor-induced eosinophil accumulation in the lungs of guinea pigs when administered by the inhaled route. In humans, single doses of salmeterol administered via inhalation aerosol attenuate allergen-induced bronchial hyper-responsiveness.

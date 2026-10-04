@@ -1,0 +1,19 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 7.5 Sympathomimetic Medications
+
+Severe hypertensive reactions have followed the administration of sympathomimetics and nonselective MAOIs. Hypertensive crisis has been reported in patients taking the recommended doses of selective MAO-B inhibitors and sympathomimetic medications. Concomitant use of XADAGO with methylphenidate, amphetamine, and their derivatives is contraindicated
+
+  [see
+
+   Warnings and Precautions (5.1,
+
+   5.2)]
+
+  .
+
+                        Monitor patients for hypertension if XADAGO is prescribed concomitantly with prescription or nonprescription sympathomimetic medications, including nasal, oral, or ophthalmic decongestants and cold remedies
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .

@@ -1,0 +1,3 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 5.5 Increased Reactivity to Allergens
+
+While taking beta-blockers, patients with a history of atopy or a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated accidental, diagnostic, or therapeutic challenge with such allergens. Such patients may be unresponsive to the usual doses of epinephrine used to treat anaphylactic reactions.

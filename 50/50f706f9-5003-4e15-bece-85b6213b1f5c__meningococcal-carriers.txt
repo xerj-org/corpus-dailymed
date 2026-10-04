@@ -1,0 +1,11 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Meningococcal Carriers
+
+Rifampin is indicated for the treatment of asymptomatic carriers of
+  Neisseria meningitidis to eliminate meningococci from the nasopharynx.
+  Rifampin is not indicated for the treatment of meningococcal infection because of the possibility of the rapid emergence of resistant organisms (See
+
+                              WARNINGS).
+
+                        Rifampin should not be used indiscriminately, and, therefore, diagnostic laboratory procedures, including serotyping and susceptibility testing, should be performed for establishment of the carrier state and the correct treatment. So that the usefulness of rifampin in the treatment of asymptomatic meningococcal carriers is preserved, the drug should be used only when the risk of meningococcal disease is high.
+
+                        To reduce the development of drug-resistant bacteria and maintain the effectiveness of rifampin and other antibacterial drugs, rifampin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

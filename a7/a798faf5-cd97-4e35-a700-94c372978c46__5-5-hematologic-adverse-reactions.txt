@@ -1,0 +1,7 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 5.5 Hematologic Adverse Reactions
+
+Bleeding manifestations have occurred in some patients receiving beta-lactam drugs, including piperacillin. These reactions have sometimes been associated with abnormalities of coagulation tests such as clotting time, platelet aggregation and prothrombin time, and are more likely to occur in patients with renal failure. If bleeding manifestations occur, piperacillin and tazobactam for injection should be discontinued and appropriate therapy instituted.
+
+                        The leukopenia/neutropenia associated with piperacillin and tazobactam for injection administration appears to be reversible and most frequently associated with prolonged administration.
+
+                        Periodic assessment of hematopoietic function should be performed, especially with prolonged therapy, i.e., ≥ 21 days [see Adverse Reactions (6.1)].

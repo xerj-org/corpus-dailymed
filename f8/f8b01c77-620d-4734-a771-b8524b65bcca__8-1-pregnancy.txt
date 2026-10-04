@@ -1,0 +1,26 @@
+DailyMed f8b01c77-620d-4734-a771-b8524b65bcca | KETAMINE HYDROCHLORIDE | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data on the use of ketamine in pregnant women mostly describe its use at the time of cesarean section and have not identified a drug-associated risk of adverse maternal or fetal outcomes. The data are limited by retrospective collection, small sample sizes, and a lack of long-term follow-up. There are no available data on ketamine use during other stages of pregnancy to allow for an evaluation of drug-associated risk of major birth defects or miscarriage.
+
+                        　
+
+                        In animal reproduction studies in rats developmental delays (hypoplasia of skeletal tissues) were noted at 0.3 times the human intramuscular dose of 10 mg/kg. In rabbits, developmental delays and increased fetal resorptions were noted at 0.6 times the human dose. Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours. There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans. The clinical significance of these nonclinical findings is not known, and the benefits of appropriate anesthesia in pregnant women who require procedures should be balanced with the potential risks suggested by the nonclinical data.
+
+ The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                            
+                           Data
+
+ Animal Data
+
+ Pregnant rats were treated intramuscularly with 20 mg/kg ketamine (0.3 times the human dose of 10 mg/kg IM based on body surface area) on either Gestation Days 6 to 10 or Gestation Days 11 to 15. Ketamine treatment produced an increased incidence of hypoplastic skull, phalanges, and sternebrae in the pups.
+
+ Pregnant rabbits were treated intramuscularly with 20 mg/kg ketamine (0.6 times the human dose of 10 mg/kg IM based on body surface area) on either Gestation Days 6 to 10 or Gestation Days 11 to 15. An increase in resorptions and skeletal hypoplasia of the fetuses were noted. Additional pregnant rabbits were treated intramuscularly with a single dose 60 mg/kg (1.9 times the human dose of 10 mg/kg IM based on body surface area) on Gestation Day 6 only. Skeletal hypoplasia was reported in the fetuses.
+
+ In a study where pregnant rats were treated intramuscularly with 20 mg/kg ketamine (0.3 times the human dose of 10 mg/kg IM based on body surface area) from Gestation Day 18 to 21. There was a slight increase in incidence of delayed parturition by one day in treated dams of this group. No adverse effects on the litters or pups were noted; however, learning and memory assessments were not completed.
+
+ Three (3) pregnant beagle dogs were treated intramuscularly with 25 mg/kg ketamine (1.3 times the human dose of 10 mg/kg IM based on body surface area) twice weekly for the three weeks of the first, second, and third trimesters of pregnancy, respectively, without the development of adverse effects in the pups.
+
+ In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus. In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring. With respect to brain development, this time period corresponds to the third trimester of gestation in the human. The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits [see Warnings and Precautions (5.5), Use in Specific Populations (8.4), and Nonclinical Toxicology (13.2)].

@@ -1,0 +1,25 @@
+DailyMed 40bf2923-24b1-4af1-8d20-03cf06b455a5 | Carbamazepine | Laboratory Tests
+
+For genetically at-risk patients (see
+
+  WARNINGS), high-resolution
+
+  'HLA-B*1502 typing'is recommended. The test is positive if either one or two HLA-B*1502 alleles are detected and negative if no HLA-B*1502 alleles are detected.
+
+                        Complete pretreatment blood counts, including platelets and possibly reticulocytes and serum iron, should be obtained as a baseline. If a patient in the course of treatment exhibits low or decreased white blood cell or platelet counts, the patient should be monitored closely. Discontinuation of the drug should be considered if any evidence of significant bone marrow depression develops.
+
+                        Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur (see
+
+  PRECAUTIONS, Generaland
+
+  ADVERSE REACTIONS). Carbamazepine should be discontinued, based on clinical judgment, if indicated by newly occurring or worsening clinical or laboratory evidence of liver dysfunction or hepatic damage, or in the case of active liver disease.
+
+                        Baseline and periodic eye examinations, including slit-lamp, funduscopy, and tonometry, are recommended since many phenothiazines and related drugs have been shown to cause eye changes.
+
+                        Baseline and periodic complete urinalysis and BUN determinations are recommended for patients treated with this agent because of observed renal dysfunction.
+
+                        Monitoring of blood levels (see
+
+  CLINICAL PHARMACOLOGY) has increased the efficacy and safety of anticonvulsants. This monitoring may be particularly useful in cases of dramatic increase in seizure frequency and for verification of compliance. In addition, measurement of drug serum levels may aid in determining the cause of toxicity when more than one medication is being used.
+
+                        Thyroid function tests have been reported to show decreased values with carbamazepine administered alone. Interference with some pregnancy tests has been reported.

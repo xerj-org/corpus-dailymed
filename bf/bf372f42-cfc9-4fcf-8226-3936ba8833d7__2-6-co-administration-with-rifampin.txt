@@ -1,0 +1,3 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 2.6 Co-administration with Rifampin
+
+Increase the brivaracetam dosage in patients on concomitant rifampin by up to 100% (i.e., double the dosage) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

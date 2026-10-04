@@ -1,0 +1,12 @@
+DailyMed 268d12e8-1cfc-4086-b613-8fd94f2d7c4e | olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide | 8.6 Hepatic Impairment
+
+There are no studies of olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets in patients with hepatic insufficiency, but both amlodipine and olmesartan medoxomil show moderate increases in exposure in patients with severe hepatic impairment. The recommended initial dose of amlodipine in patients with severe hepatic impairment is 2.5 mg, a dose not available with olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets [see Warnings and Precautions (5.5)].
+
+                              Amlodipine.
+                           Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with severely impaired hepatic function.
+
+                              Olmesartan medoxomil.
+                           Increases in AUC0-∞ and peak plasma concentration (Cmax) for olmesartan were observed with moderate hepatic impairment compared to those in matched controls with an increase in AUC of about 60%.
+
+                              Hydrochlorothiazide.
+                           In patients with impaired hepatic function or progressive liver disease, minor alterations of fluid and electrolyte balance may precipitate hepatic coma.

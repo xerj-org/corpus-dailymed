@@ -1,0 +1,15 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 1.3 Limitations of Use
+
+Azithromycin is not recommended in patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors such as any of the following:
+
+                           patients with cystic fibrosis,
+
+                           patients with nosocomial infections,
+
+                           patients with known or suspected bacteremia,
+
+                           patients requiring hospitalization,
+
+                           elderly or debilitated patients, or
+
+                           patients with significant underlying health problems that may compromise their ability to respond to their illness (including immunodeficiency or functional asplenia).

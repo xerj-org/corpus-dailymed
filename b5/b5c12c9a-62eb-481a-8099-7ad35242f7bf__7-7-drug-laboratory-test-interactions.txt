@@ -1,0 +1,3 @@
+DailyMed b5c12c9a-62eb-481a-8099-7ad35242f7bf | Bupropion Hydrochloride | 7.7 Drug-Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion. This is due to lack of specificity of some screening tests. False-positive test results may result even following discontinuation of bupropion therapy. Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.

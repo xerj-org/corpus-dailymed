@@ -1,0 +1,3 @@
+DailyMed 2354c3e2-7b5f-4fdd-bbf2-7fa3c57686f8 | Tadalafil | 8.6 Hepatic Impairment
+
+In clinical pharmacology studies, tadalafil exposure (AUC) in subjects with mild or moderate hepatic impairment (Child-Pugh Class A or B) was comparable to exposure in healthy subjects when a dose of 10 mg was administered. There are no available data for doses higher than 10 mg of tadalafil in patients with hepatic impairment. Insufficient data are available for subjects with severe hepatic impairment (Child-Pugh Class C). [see Dosage and Administration (2.6) and Warnings and Precautions (5.8)].

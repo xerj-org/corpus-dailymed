@@ -1,0 +1,272 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 14.6 Reduction of Risk of Major Cardiovascular Events in Patients with CAD
+
+The evidence for the efficacy and safety of rivaroxaban for the reduction in the risk of stroke, myocardial infarction, or cardiovascular death in patients with coronary artery disease (CAD) or peripheral artery disease (PAD) was derived from the double-blind, placebo-controlled Cardiovascular OutcoMes for People using Anticoagulation StrategieS trial (COMPASS) [NCT10776424]. A total of 27,395 patients were evenly randomized to rivaroxaban 2.5 mg orally twice daily plus aspirin 100 mg once daily, rivaroxaban 5 mg orally twice daily alone, or aspirin 100 mg once daily alone. Because the 5 mg dose alone was not superior to aspirin alone, only the data concerning the 2.5 mg dose plus aspirin are discussed below.
+
+                        Patients with established CAD or PAD were eligible. Patients with CAD who were younger than 65 years of age were also required to have documentation of atherosclerosis involving at least two vascular beds or to have at least two additional cardiovascular risk factors (current smoking, diabetes mellitus, an estimated glomerular filtration rate [eGFR] <60 mL per minute, heart failure, or non-lacunar ischemic stroke ≥1 month earlier). Patients with PAD were either symptomatic with ankle brachial index <0.90 or had asymptomatic carotid artery stenosis ≥50%, a previous carotid revascularization procedure, or established ischemic disease of one or both lower extremities. Patients were excluded for use of dual antiplatelet, other non-aspirin antiplatelet, or oral anticoagulant therapies, ischemic, non-lacunar stroke within 1 month, hemorrhagic or lacunar stroke at any time, or eGFR <15 mL/min.
+
+                        The mean age was 68 years and 21% of the subject population were ≥75 years. Of the included patients, 91% had CAD (and will be referred to as the COMPASS CAD population), 27% had PAD (and will be referred to as the COMPASS PAD population), and 18% had both CAD and PAD. Of the patients with CAD, 69% had prior MI, 60% had prior percutaneous transluminal coronary angioplasty (PTCA)/atherectomy/ percutaneous coronary intervention (PCI), and 26% had history of coronary artery bypass grafting (CABG) prior to study. Of the patients with PAD, 49% had intermittent claudication, 27% had peripheral artery bypass surgery or peripheral percutaneous transluminal angioplasty, 26% had asymptomatic carotid artery stenosis > 50%, and 4% had limb or foot amputation for arterial vascular disease.
+
+                        The mean duration of follow-up was 23 months. Relative to placebo, rivaroxaban reduced the rate of the primary composite outcome of stroke, myocardial infarction or cardiovascular death: HR 0.76 (95% CI: 0.66, 0.86; p=0.00004). In the COMPASS CAD population, the benefit was observed early with a constant treatment effect over the entire treatment period (see Table 26 and Figure 10).
+
+                        A benefit-risk analysis of the data from COMPASS was performed by comparing the number of CV events (CV deaths, myocardial infarctions and non-hemorrhagic strokes) prevented to the number of fatal or life-threatening bleeding events (fatal bleeds + symptomatic non-fatal bleeds into a critical organ) in the rivaroxaban group versus the placebo group. Compared to placebo, during 10,000 patient-years of treatment, rivaroxaban would be expected to result in 70 fewer CV events and 12 additional life-threatening bleeds, indicating a favorable balance of benefits and risks.
+
+                        The results in the COMPASS CAD population were consistent across major subgroups (see Figure 9).
+
+                           Figure 9: Risk of Primary Efficacy Outcome by Baseline Characteristics in the COMPASS CAD Population (Intent-to-Treat Population)*
+
+                        *All patients received aspirin 100 mg once daily as background therapy.
+
+                           Table 26: Efficacy results from COMPASS CAD Population*
+
+                                     Event
+
+                                  |
+
+                                     Rivaroxaban
+                                    †
+
+                                     N=8313
+
+                                  |
+
+                                     Placebo
+                                    †
+
+                                     N=8261
+
+                                  |
+
+                                     Hazard Ratio (95% CI)
+                                    ‡
+
+                                  |
+
+                                     n (%)
+
+                                  |
+
+                                     Event
+                                     Rate
+                                     (%/year)
+
+                                  |
+
+                                     n (%)
+
+                                  |
+
+                                     Event
+                                     Rate
+                                     (%/year)
+
+                                  |
+
+                                  Stroke, MI or CV death
+
+                                  |
+                                  347 (4.2)
+
+                                  |
+                                  2.2
+
+                                  |
+                                  460 (5.6)
+
+                                  |
+                                  2.9
+
+                                  |
+                                  0.74 (0.65, 0.86)
+
+                                  |
+
+                                  - Stroke
+
+                                  |
+                                  74 (0.9)
+
+                                  |
+                                  0.5
+
+                                  |
+                                  130 (1.6)
+
+                                  |
+                                  0.8
+
+                                  |
+                                  0.56 (0.42, 0.75)
+
+                                  |
+
+                                  - MI
+
+                                  |
+                                  169 (2.0)
+
+                                  |
+                                  1.1
+
+                                  |
+                                  195 (2.4)
+
+                                  |
+                                  1.2
+
+                                  |
+                                  0.86 (0.70, 1.05)
+
+                                  |
+
+                                  - CV death
+
+                                  |
+                                  139 (1.7)
+
+                                  |
+                                  0.9
+
+                                  |
+                                  184 (2.2)
+
+                                  |
+                                  1.1
+
+                                  |
+                                  0.75 (0.60, 0.93)
+
+                                  |
+
+                                  Coronary heart disease death, MI, ischemic stroke, acute limb ischemia
+
+                                  |
+                                  299 (3.6)
+
+                                  |
+                                  1.9
+
+                                  |
+                                  411 (5.0)
+
+                                  |
+                                  2.6
+
+                                  |
+                                  0.72 (0.62, 0.83)
+
+                                  |
+
+                                  - Coronary heart disease death§
+
+                                  |
+                                  80 (1.0)
+
+                                  |
+                                  0.5
+
+                                  |
+                                  107 (1.3)
+
+                                  |
+                                  0.7
+
+                                  |
+                                  0.74 (0.55, 0.99)
+
+                                  |
+
+                                  - Ischemic stroke
+
+                                  |
+                                  56 (0.7)
+
+                                  |
+                                  0.3
+
+                                  |
+                                  114 (1.4)
+
+                                  |
+                                  0.7
+
+                                  |
+                                  0.49 (0.35, 0.67)
+
+                                  |
+
+                                  - Acute limb ischemia#
+
+                                  |
+                                  13 (0.2)
+
+                                  |
+                                  0.1
+
+                                  |
+                                  27 (0.3)
+
+                                  |
+                                  0.2
+
+                                  |
+                                  0.48 (0.25, 0.93)
+
+                                  |
+
+                                  CV death,¶ MI, ischemic stroke, acute limb ischemia
+
+                                  |
+                                  349 (4.2)
+
+                                  |
+                                  2.2
+
+                                  |
+                                  470 (5.7)
+
+                                  |
+                                  3.0
+
+                                  |
+                                  0.73 (0.64, 0.84)
+
+                                  |
+
+                                  All-cause mortality
+
+                                  |
+                                  262 (3.2)
+
+                                  |
+                                  1.6
+
+                                  |
+                                  339 (4.1)
+
+                                  |
+                                  2.1
+
+                                  |
+                                  0.77 (0.65, 0.90)
+
+                                  |
+
+                        * intention to treat analysis set, primary analyses.
+
+                           † Treatment schedule: Rivaroxaban 2.5 mg twice daily vs placebo. All patients received aspirin 100 mg once daily as background therapy.
+
+                           ‡ Rivaroxaban vs. placebo.
+
+                           § Coronary heart disease death: death due to acute MI, sudden cardiac death, or CV procedure.
+
+                           ¶ CV death includes CHD death, or death due to other CV causes or unknown death.
+
+                           # Acute limb ischemia is defined as limb-threatening ischemia leading to an acute vascular intervention (i.e., pharmacologic, peripheral arterial surgery/reconstruction, peripheral angioplasty/stent, or amputation).
+
+                        CHD: coronary heart disease, CI: confidence interval; CV: cardiovascular; MI: myocardial infarction
+
+                           Figure 10: Time to First Occurrence of Primary Efficacy Outcome (Stroke, Myocardial Infarction, Cardiovascular Death) in the COMPASS CAD Population*
+
+                        *All patients received aspirin 100 mg once daily as background therapy.
+
+                        CI: confidence interval

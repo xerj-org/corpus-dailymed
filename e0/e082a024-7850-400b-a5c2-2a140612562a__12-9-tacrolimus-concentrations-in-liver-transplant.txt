@@ -1,0 +1,132 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 12.9 Tacrolimus Concentrations in Liver Transplant
+
+In the liver transplant clinical trial [
+                           s
+                           ee
+                           Clinical Studies (14.
+                           2
+                           )
+                           ], the target tacrolimus whole blood trough concentrations were greater than or equal to 8 ng/mL in the first 30 days posttransplant. The protocol required that patients had a tacrolimus trough concentration of at least 8 ng/mL in the week prior to initiation of Zortress. Zortress was initiated after 30 days posttransplant. At that time, the target tacrolimus trough concentrations were reduced to 3 to 5 ng/mL. Table 6 below provides a summary of the tacrolimus whole blood trough concentrations observed during the study through Month 24 posttransplant.
+
+                           Table 6. Tacrolimus Trough Concentrations Over 24 Months Posttransplant – Liver Study Median Values (ng/mL) With 10th and 90th Percentiles
+
+                                  Treatment Group
+                                  |
+
+                                    Visit
+                                  |
+
+                                    N
+                                  |
+
+                                    Target (ng/mL)
+                                  |
+
+                                    Median
+                                  |
+
+                                    10
+
+                                       th
+
+                                    percentile
+                                  |
+
+                                    90
+
+                                       th
+
+                                    percentile
+                                  |
+
+                                 Pre-dose group
+
+Zortress
+
+1 mg twice daily (initiated at Month 1) |
+                                 Week 4 |
+                                 234 |
+                                 3 to 5 |
+                                 9.5 |
+                                 5.8 |
+                                 14.6 |
+
+                                  |
+                                 Week 5 |
+                                 219 |
+                                 3 to 5 |
+                                 8.1 |
+                                 4.5 |
+                                 13.8 |
+
+                                  |
+                                 Week 6 |
+                                 233 |
+                                 3 to 5 |
+                                 7.0 |
+                                 4.1 |
+                                 12.0 |
+
+                                  |
+                                 Month 2 |
+                                 219 |
+                                 3 to 5 |
+                                 5.6 |
+                                 3.4 |
+                                 10.3 |
+
+                                  |
+                                 Month 3 |
+                                 218 |
+                                 3 to 5 |
+                                 5.2 |
+                                 3.1 |
+                                 9.7 |
+
+                                  |
+                                 Month 4 |
+                                 196 |
+                                 3 to 5 |
+                                 4.9 |
+                                 2.9 |
+                                 7.7 |
+
+                                  |
+                                 Month 5 |
+                                 195 |
+                                 3 to 5 |
+                                 4.8 |
+                                 2.7 |
+                                 7.3 |
+
+                                  |
+                                 Month 6 |
+                                 200 |
+                                 3 to 5 |
+                                 4.6 |
+                                 3.0 |
+                                 7.5 |
+
+                                  |
+                                 Month 9 |
+                                 186 |
+                                 3 to 5 |
+                                 4.4 |
+                                 2.9 |
+                                 8.0 |
+
+                                  |
+                                 Month 12 |
+                                 175 |
+                                 3 to 5 |
+                                 4.3 |
+                                 2.6 |
+                                 7.3 |
+
+                                  |
+                                 Month 24 |
+                                 109 |
+                                 3 to 5 |
+                                 3.8 |
+                                 2.3 |
+                                 5.5 |

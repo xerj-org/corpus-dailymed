@@ -1,0 +1,3 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 5.12 Serious Skin Reactions
+
+Serious skin reactions (Stevens-Johnson Syndrome [SJS] and Toxic Epidermal Necrolysis [TEN]) have been reported in patients receiving topiramate. Topiramate extended-release capsules should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related. If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered. Inform patients about the signs of serious skin reactions.

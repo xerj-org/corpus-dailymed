@@ -1,0 +1,66 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety of UBRELVY was evaluated in 3,624 subjects who received at least one dose of UBRELVY. In two randomized, double-blind, placebo-controlled, Phase 3 trials in adult patients with migraine (Studies 1 and 2), a total of 1,439 patients received UBRELVY 50 mg or 100 mg
+
+  [see Clinical Studies (
+
+                              14
+
+                           )]
+                           . Of the UBRELVY-treated patients in these 2 studies, approximately 89% were female, 82% were White, 15% were Black, and 17% were of Hispanic or Latino ethnicity. The mean age at study entry was 41 years (range of 18-75 years). 
+
+                        Long-term safety was assessed in 813 patients, dosing intermittently for up to 1 year in an open-label extension study. Patients were permitted to treat up to 8 migraines per month with UBRELVY. Of these 813 patients, 421 patients were exposed to 50 mg or 100 mg for at least 6 months, and 364 patients were exposed to these doses for at least one year, all of whom treated at least two migraine attacks per month, on average. In that study, 2.5% of patients were withdrawn from UBRELVY because of an adverse reaction. The most common adverse reaction resulting in discontinuation in the long-term safety study was nausea. 
+
+                        Adverse reactions in Studies 1 and 2 are shown in Table 2.
+
+                           Table 2: Adverse Reactions Occurring in At Least 2% and at a Frequency Greater than Placebo in Studies 1 and 2
+
+                                  |
+
+                                    Placebo
+
+                                    (N= 984)
+
+                                    %
+                                  |
+
+                                    UBRELVY
+
+                                    50
+
+                                    mg
+
+                                    (N=954)
+
+                                    %
+                                  |
+
+                                    UBRELVY
+
+                                    100
+
+                                    mg
+
+                                    (N=485)
+
+                                    %
+                                  |
+
+                                 Nausea |
+                                 2 |
+                                 2 |
+                                 4 |
+
+                                 Somnolence* |
+                                 1 |
+                                 2 |
+                                 3 |
+
+                                 Dry Mouth |
+                                 1 |
+                                 <1 |
+                                 2 |
+
+                            *Somnolence includes the adverse reaction-related terms sedation and fatigue.

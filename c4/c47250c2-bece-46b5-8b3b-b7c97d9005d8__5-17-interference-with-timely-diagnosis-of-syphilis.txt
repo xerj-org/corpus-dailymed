@@ -1,0 +1,3 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.17 Interference with Timely Diagnosis of Syphilis
+
+Ciprofloxacin has not been shown to be effective in the treatment of syphilis. Antimicrobial agents used in high dose for short periods of time to treat gonorrhea may mask or delay the symptoms of incubating syphilis. Perform a serologic test for syphilis in all patients with gonorrhea at the time of diagnosis. Perform follow-up serologic test for syphilis three months after ciprofloxacin treatment.

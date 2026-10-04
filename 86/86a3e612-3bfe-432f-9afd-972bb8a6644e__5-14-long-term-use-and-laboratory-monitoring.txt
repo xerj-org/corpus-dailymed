@@ -1,0 +1,15 @@
+DailyMed 86a3e612-3bfe-432f-9afd-972bb8a6644e | Naproxen | 5.14 Long-Term Use and Laboratory Monitoring
+
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically
+
+  [see
+
+   Warnings and Precautions (5.2,
+
+   5.3,
+
+   5.6)]
+
+                        Patients with initial hemoglobin values of 10g or less who are to receive long-term therapy should have hemoglobin values determined periodically.
+
+                        Because of adverse eye findings in animal studies with drugs of this class, it is recommended that ophthalmic studies be carried out if any change or disturbance in vision occurs.

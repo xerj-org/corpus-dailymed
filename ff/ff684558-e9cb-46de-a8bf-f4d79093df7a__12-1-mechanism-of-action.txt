@@ -1,0 +1,3 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 12.1 Mechanism of Action
+
+Sonrotoclax is an inhibitor of B-cell lymphoma 2 (BCL-2) protein. Overexpression of BCL-2 in various cancers mediates cell survival and has been associated with chemotherapeutic resistance. Sonrotoclax binds to the BCL-2 protein, displacing pro-apoptotic proteins, thereby inducing apoptosis of cells. In nonclinical studies, sonrotoclax demonstrated cytotoxicity in cancer cells overexpressing BCL-2, with a series of intrinsic apoptotic events, including caspase activation.

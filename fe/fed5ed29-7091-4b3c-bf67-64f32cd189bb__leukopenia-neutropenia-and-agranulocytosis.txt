@@ -1,0 +1,45 @@
+DailyMed fed5ed29-7091-4b3c-bf67-64f32cd189bb | PROCHLORPERAZINE EDISYLATE | Leukopenia, Neutropenia and Agranulocytosis
+
+In clinical trial and postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.
+
+                        Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia. Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Prochlorperazine Edisylate Injection USP at the first sign of a decline in WBC in the absence of other causative factors.
+
+                        Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur. Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Prochlorperazine Edisylate Injection USP and have their WBC followed until recovery.
+
+                        Prochlorperazine's antiemetic action may mask signs and symptoms of overdosage of other drugs and may obscure the diagnosis and treatment of other conditions such as intestinal obstruction, brain tumor and Reye's syndrome (see
+                              WARNINGS
+                           ).
+
+                        When prochlorperazine is used with cancer chemotherapeutic drugs, vomiting as a sign of toxicity of these agents may be obscured by the antiemetic effect of prochlorperazine.
+
+                        Because hypotension may occur, large doses and parenteral administration should be used cautiously in patients with impaired cardiovascular systems. To minimize the occurrence of hypotension after injection, keep patient lying down and observe for at least 1/2 hour. If hypotension occurs after parenteral dosing, place patient in head-low position with legs raised. If a vasoconstrictor is required, norepinephrine and phenylephrine are suitable. Other  pressor agents, including epinephrine, should not be used because they may cause a paradoxical further lowering of blood pressure.
+
+                        Aspiration of vomitus has occurred in a few postsurgical patients who have received prochlorperazine as an antiemetic. Although no causal relationship has been established, this possibility should be borne in mind during surgical aftercare.
+
+                        Deep sleep, from which patients can be aroused, and coma have been reported, usually with overdosage.
+
+                        Antipsychotic drugs elevate prolactin levels; the elevation persists during chronic administration.
+
+                        Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin- dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer. Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical  significance of elevated serum prolactin levels is unknown for most patients. An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs. Published epidemiologic studies have shown inconsistent results when exploring the association between hyperprolactinemia and breast cancer.
+
+                        Chromosomal aberrations in spermatocytes and abnormal sperm have been demonstrated in rodents tested with certain antipsychotics.
+
+                        As with all drugs which exert an anticholinergic effect, and/or cause mydriasis, prochlorperazine should be used with caution in patients with glaucoma.
+
+                        Because phenothiazines may interfere with thermoregulatory mechanisms, use with caution in persons who will be exposed to extreme heat.
+
+                        Phenothiazines can diminish the effect of oral anticoagulants.
+
+                        Phenothiazines can produce alpha-adrenergic blockade.
+
+                        Thiazide diuretics may accentuate the orthostatic hypotension that may occur with phenothiazines.
+
+                        Antihypertensive effects of guanethidine and related compounds may be counteracted when phenothiazines are used concomitantly.
+
+                        Concomitant administration of propranolol with phenothiazines results in increased plasma levels of both drugs.
+
+                        Phenothiazines may lower the convulsive threshold; dosage adjustments of anticonvulsants may be necessary. Potentiation of anticonvulsant effects does not occur.
+
+                        However, it has been reported that phenothiazines may interfere with the metabolism of phenytoin and thus precipitate phenytoin toxicity.
+
+                        The presence of phenothiazines may produce false-positive phenylketonuria (PKU) test results.

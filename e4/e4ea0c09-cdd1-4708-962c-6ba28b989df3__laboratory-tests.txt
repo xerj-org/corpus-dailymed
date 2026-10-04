@@ -1,0 +1,3 @@
+DailyMed e4ea0c09-cdd1-4708-962c-6ba28b989df3 | Metronidazole | Laboratory Tests
+
+Metronidazole is a nitroimidazole, and Metronidazole Injection should be used with caution in patients with evidence of or history of blood dyscrasia. A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies. Total and differential leukocyte counts are recommended before and after therapy.

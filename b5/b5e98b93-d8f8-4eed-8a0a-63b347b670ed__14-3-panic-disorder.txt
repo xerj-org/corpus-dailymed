@@ -1,0 +1,19 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 14.3 Panic Disorder
+
+The effectiveness of sertraline hydrochloride in the treatment of PD was demonstrated in three double-blind, placebo-controlled studies (Studies PD-1, PD-2, and PD-3) of adult outpatients who had a primary diagnosis of PD (DSM-III-R), with or without agoraphobia.
+
+                           Studies PD-1 and PD-2 were 10-week flexible dose studies of      sertraline hydrochloride (N=80 study PD-1 and N=88 study PD-2) compared to      placebo (N=176 study PD-1 and PD-2). In both studies, sertraline      hydrochloride was initiated at 25 mg/day for the first week, then titrated      in weekly increments of 50 mg per day to a maximum dose of 200 mg/day on      the basis of clinical response and toleration. The mean sertraline      hydrochloride doses for completers to 10 weeks were 131 mg/day and 144      mg/day, respectively, for Studies PD-1 and PD-2. In these studies,      sertraline hydrochloride was shown to be statistically significantly more      effective than placebo on change from baseline in panic attack frequency      and on the Clinical Global Impression Severity (CGI-S) of Illness and      Global Improvement (CGI- I) scores. The difference between sertraline      hydrochloride and placebo in reduction from baseline in the number of full      panic attacks was approximately 2 panic attacks per week in both studies.
+
+                           Study PD-3 was a 12-week randomized, double-blind fixed-dose study,      including sertraline hydrochloride doses of 50, 100, and 200 mg/day.      Patients receiving sertraline hydrochloride (50 mg N=43, 100 mg N=44, 200      mg N=45) experienced a statistically significantly greater reduction in      panic attack frequency than patients receiving placebo (N=45). Study PD-3      was not readily interpretable regarding a dose response relationship for      effectiveness.
+
+                        Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age, race, or gender.
+
+                        In Study PD-4, patients meeting DSM-III-R criteria for PD who had responded during a 52-week open trial on sertraline hydrochloride 50 to 200 mg/day (n=183) were randomized to continuation of sertraline hydrochloride or to substitution of placebo for up to 28 weeks of observation for discontinuation due to relapse or insufficient clinical response. Response during the open phase was defined as a CGI-I score of 1(very much improved) or 2 (much improved). Insufficient clinical response in the double-blind phase indicated a worsening of the patient's condition that resulted in study discontinuation, as assessed by the investigator. Relapse during the double-blind phase was defined as the following conditions being met on three consecutive visits:
+
+                        (1) CGI-I ≥ 3;
+
+                        (2) meets DSM-III-R criteria for PD;
+
+                        (3) number of panic attacks greater than at baseline.
+
+                        Patients receiving continued sertraline hydrochloride treatment experienced a statistically significantly lower rate of discontinuation due to relapse or insufficient clinical response over the subsequent 28 weeks compared to those receiving placebo. This pattern was demonstrated in male and female subjects.

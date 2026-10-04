@@ -1,0 +1,5 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 15 REFERENCES
+
+1. Clinical and Laboratory Standards Institute (CLSI).
+
+  Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard—Tenth Edition. CLSI Document M07-A10, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania, 19087, USA 2015.

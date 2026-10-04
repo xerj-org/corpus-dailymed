@@ -1,0 +1,66 @@
+DailyMed 9e92ccc3-d81c-461d-a19f-7e9b582be357 | dextroamphetamine sulfate | WARNINGS
+
+Abuse, Misuse, and Addiction
+
+                  Dextroamphetamine sulfate extended-release capsule has a high potential for abuse and misuse. The use of dextroamphetamine sulfate extended-release capsules exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction. Dextroamphetamine sulfate extended-release capsules can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and 
+                     Dependence]. Misuse and abuse of CNS stimulants, including dextroamphetamine sulfate extended-release capsules can result in overdose and death [see Overdosage], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
+
+                  Before prescribing dextroamphetamine sulfate extended-release capsules, assess each patient’s risk for abuse, misuse, and addiction. Educate patients and their families about these risks and proper disposal of any unused drug. Advise patients to store amphetamine sulfate in a safe place, preferably locked, and instruct patients to not give dextroamphetamine sulfate extended-release capsules to anyone else. Throughout dextroamphetamine sulfate extended-release capsules treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
+
+                     Risks to Patients with Serious Cardiac Disease
+
+                  Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who are treated with CNS stimulants at the recommended ADHD dosages.
+
+                  Avoid dextroamphetamine sulfate extended-release capsule use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
+
+                     Increased Blood Pressure and Heart Rate
+
+                  CNS stimulants cause an increase in blood pressure (mean increase about 2 to 4 mm Hg) and heart rate (mean increase about 3 to 6 bpm).
+
+                  Monitor all patients for potential tachycardia and hypertension.
+
+                     Psychiatric Adverse Reactions
+
+                     Exacerbation of Pre-Existing Psychosis
+
+                  CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a
+
+pre-existing psychotic disorder.
+
+                     Induction of a Manic Episode in Patients with Bipolar Disease
+
+                  CNS stimulants may induce a manic or mixed episode in patients. Prior to initiating treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).
+
+                     New Psychotic or Manic Symptoms
+
+                  CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania. In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared with 0% of placebo-treated patients. If such symptoms occur, consideration discontinuing dextroamphetamine sulfate extended-release.
+
+                     Long-Term Suppression of Growth in Pediatric Patients
+
+                  Dextroamphetamine sulfate extended-release capsule is not approved for use and is not recommended in pediatric patients below 6 years of age [see Precautions, Pediatric Use].
+
+                  CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients, including dextroamphetamine sulfate extended-release. Closely monitor growth (weight and height) in dextroamphetamine sulfate extended-release-treated pediatric patients treated with CNS stimulants.
+
+                  Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted [see Precautions, Pediatric Use].
+
+                     Seizures
+
+                  There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures. In the presence of seizures, the drug should be discontinued.
+
+                     Peripheral Vasculopathy, including Raynaud’s phenomenon
+
+                  Stimulants, including dextroamphetamine sulfate extended-release, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon. Signs and symptoms are usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown. Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports and at therapeutic dosages in all age groups throughout the course of treatment. Signs and symptoms generally improve after dosage reduction or discontinuation of the CNS stimulant. Careful observation for digital changes is necessary during dextroamphetamine sulfate extended-release capsules treatment. Further clinical evaluation (e.g., rheumatology referral) may be appropriate for Dextroamphetamine sulfate-treated patients who develop signs or symptoms of peripheral vasculopathy.
+
+                     Serotonin Syndrome
+
+                  Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort [see Drug Interactions]. Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [see Clinical Pharmacology]. The potential for a pharmacokinetic interaction exists with the coadministration of CYP2D6 inhibitors which may increase the risk with increased exposure to dextroamphetamine sulfate extended-release. In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see Drug Interactions].
+
+                  Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+                  Concomitant use of dextroamphetamine sulfate extended-release with MAOI drugs is contraindicated [see Contraindications].
+
+                  Discontinue treatment with dextroamphetamine sulfate extended-release and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment. If concomitant use of dextroamphetamine sulfate extended-release with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate dextroamphetamine sulfate extended-release with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
+
+                     Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+                  CNS stimulants, including amphetamine sulfate, have been associated with the onset or exacerbation of motor and verbal tics. Worsening of Tourette’s syndrome has also been reported. Before initiating dextroamphetamine sulfate extended-release capsules, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome. Regularly monitor patients for the emergence or worsening of tics or Tourette’s syndrome with dextroamphetamine sulfate extended-release capsules, and discontinue treatment if clinically appropriate.

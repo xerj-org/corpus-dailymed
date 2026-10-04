@@ -1,0 +1,15 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 8.6 Hepatic Impairment
+
+In patients with pre-existing mild (Child-Pugh Class A), moderate (Child-Pugh Class B), or severe hepatic impairment (Child-Pugh Class C), ubrogepant exposure was increased by 7%, 50%, and 115%, respectively
+
+  .No dose adjustment is recommended for patients with mild or moderate hepatic impairment. Dose adjustment for UBRELVY is recommended for patients with severe hepatic impairment
+
+  [
+                           s
+                           ee
+                           Dosage and Administration (
+
+                              2.2
+
+                           )
+                           ].

@@ -1,0 +1,3 @@
+DailyMed f6d762ea-fff0-43e8-b67d-bef19e883dd8 | Temozolomide | 10 OVERDOSAGE
+
+Dose-limiting toxicity was myelosuppression and was reported with any dose but is expected to be more severe at higher doses. An overdose of 2000 mg per day for 5 days was taken by one patient and the adverse reactions reported were pancytopenia, pyrexia, multi-organ failure, and death. There are reports of patients who have taken more than 5 days of treatment (up to 64 days), with adverse reactions reported including myelosuppression, which in some cases was severe and prolonged, and infections and resulted in death. In the event of an overdose, monitor complete blood count and provide supportive measures as necessary.

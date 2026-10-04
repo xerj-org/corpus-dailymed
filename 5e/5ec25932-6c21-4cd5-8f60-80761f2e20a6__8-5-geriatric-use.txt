@@ -1,0 +1,5 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 8.5 Geriatric Use
+
+The effect of age on induction dose requirements for propofol was assessed in an open-label study involving 211 unpremedicated patients with approximately 30 patients in each decade between the ages of 16 and 80. The average dose to induce anesthesia was calculated for patients up to 54 years of age and for patients 55 years of age or older. The average dose to induce anesthesia in patients up to 54 years of age was 1.99 mg/kg and in patients above 54 it was 1.66 mg/kg. Subsequent clinical studies have demonstrated lower dosing requirements for subjects greater than 60 years of age.
+
+                        A lower induction dose and a slower maintenance rate of administration of propofol injectable emulsion should be used in elderly patients. In this group of patients, rapid (single or repeated) bolus administration should not be used in order to minimize undesirable cardiorespiratory depression. All dosing should be titrated according to patient condition and response [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].

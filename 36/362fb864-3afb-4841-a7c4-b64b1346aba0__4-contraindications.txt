@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 4 CONTRAINDICATIONS
+
+Levofloxacin is contraindicated in persons with known hypersensitivity to levofloxacin, or other quinolone antibacterials [see Warnings and Precautions (5.3)].

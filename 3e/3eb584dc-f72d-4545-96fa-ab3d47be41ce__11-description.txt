@@ -1,0 +1,13 @@
+DailyMed 3eb584dc-f72d-4545-96fa-ab3d47be41ce | Mycophenolate mofetil | 11 DESCRIPTION
+
+Mycophenolate mofetil is an antimetabolite immunosuppressant. It is the 2-morpholinoethyl ester of mycophenolic acid (MPA), an immunosuppressive agent; inosine monophosphate dehydrogenase (IMPDH) inhibitor.
+
+                  The chemical name for mycophenolate mofetil (MMF) is 2-morpholinoethyl (E)-6-(1,3-dihydro-4-hydroxy-6-­methoxy-7-methyl-3-oxo-5-isobenzofuranyl)-4-methyl-4-hexenoate. It has a molecular formula of C23H31NO7, a molecular weight of 433.50, and the following structural formula:
+
+                   Mycophenolate mofetil USP is a white or almost white crystalline powder. It is slightly soluble in water (43 µg/mL at pH 7.4); the solubility increases in acidic medium (4.27 mg/mL at pH 3.6). It is freely soluble in acetone, soluble in methanol, and sparingly soluble in ethanol. The apparent partition coefficient in 1-octanol/water (pH 7.4) buffer solution is 238. The pKa values for mycophenolate mofetil are 5.6 for the morpholino group and 8.5 for the phenolic group.
+
+ Mycophenolate mofetil USP is available for oral administration as capsules containing 250 mg of mycophenolate mofetil USP.
+
+ Inactive ingredients in mycophenolate mofetil capsules USP, 250 mg include colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, povidone and pregelatinized starch (corn). The capsule shells contain gelatin, iron oxide black, iron oxide red, iron oxide yellow, sodium lauryl sulfate and titanium dioxide. The capsules are imprinted with black ink containing black iron oxide, potassium hydroxide, propylene glycol and shellac.
+
+ Meets USP Dissolution Test 2.

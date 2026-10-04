@@ -1,0 +1,100 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 14.7 Systemic Juvenile Idiopathic Arthritis – Intravenous Administration
+
+The efficacy of tocilizumab for the treatment of active SJIA was assessed in WA18221 (NCT00642460), a 12- week randomized, double blind, placebo-controlled, parallel group, 2-arm study. Patients treated with or without MTX, were randomized (tocilizumab:placebo = 2:1) to one of two treatment groups: 75 patients received tocilizumab infusions every two weeks at either 8 mg per kg for patients at or above 30 kg or 12 mg per kg for patients less than 30 kg and 37 were randomized to receive placebo infusions every two weeks. Corticosteroid tapering could occur from week six for patients who achieved a JIA ACR 70 response. After 12 weeks or at the time of escape, due to disease worsening, patients were treated with tocilizumab in the open-label extension phase at weight appropriate dosing.
+
+                        The primary endpoint was the proportion of patients with at least 30% improvement in JIA ACR core set (JIA ACR 30 response) at Week 12 and absence of fever (no temperature at or above 37.5°C in the preceding 7 days). JIA ACR (American College of Rheumatology) responses are defined as the percentage improvement (e.g., 30%, 50%, 70%) in 3 of any 6 core outcome variables compared to baseline, with worsening in no more than 1 of the remaining variables by 30% or more. Core outcome variables consist of physician global assessment, parent per patient global assessment, number of joints with active arthritis, number of joints with limitation of movement, erythrocyte sedimentation rate (ESR), and functional ability (childhood health assessment questionnaire-CHAQ).
+
+                        Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 10.
+
+                           Table 10   Efficacy Findings at Week 12
+
+                                  |
+                                 Tocilizumab
+
+  N=75 |
+                                 Placebo
+
+N=37 |
+
+                                    Primary Endpoint: JIA ACR 30 response + absence of fever
+                                  |
+
+                                    Responders
+                                  |
+
+                                    85%
+                                  |
+
+                                    24%
+                                  |
+
+                                    Weighted difference
+
+ (95% CI)
+                                  |
+
+                                    62
+
+ (45, 78)
+                                  |
+
+                                    -
+                                  |
+
+                                    JIA ACR Response Rates at Week 12
+                                  |
+
+                                    JIA ACR 30
+                                  |
+
+                                 Responders |
+                                 91% |
+                                 24% |
+
+                                 Weighted differenceThe weighted difference is the difference between the tocilizumab and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use).
+
+                                  |
+                                 67 |
+                                 - |
+
+                                 (95% CI)CI: confidence interval of the weighted difference.
+
+                                  |
+                                 (51, 83) |
+                                  |
+
+                                    JIA ACR 50
+                                  |
+
+                                 Responders |
+                                 85% |
+                                 11% |
+
+                                 Weighted difference
+                                  |
+                                 74 |
+                                 - |
+
+                                 (95% CI)
+                                  |
+                                 (58, 90) |
+                                  |
+
+                                    JIA ACR 70
+                                  |
+
+                                 Responders |
+                                 71% |
+                                 8% |
+
+                                 Weighted difference
+                                  |
+                                 63 |
+                                 - |
+
+                                 (95% CI)
+                                  |
+                                 (46, 80) |
+                                  |
+
+                        The treatment effect of tocilizumab was consistent across all components of the JIA ACR response core variables. JIA ACR scores and absence of fever responses in the open label extension were consistent with the controlled portion of the study (data available through 44 weeks).

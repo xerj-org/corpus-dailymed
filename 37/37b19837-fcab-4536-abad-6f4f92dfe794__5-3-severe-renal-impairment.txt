@@ -1,0 +1,3 @@
+DailyMed 37b19837-fcab-4536-abad-6f4f92dfe794 | BRINZOLAMIDE | 5.3 Severe Renal Impairment
+
+Brinzolamide ophthalmic suspension has not been studied in patients with severe renal impairment [creatinine clearance (CrCl) less than 30 mL/min]. Because brinzolamide ophthalmic suspension and its metabolite are excreted predominantly by the kidney, brinzolamide ophthalmic suspension is not recommended in such patients.

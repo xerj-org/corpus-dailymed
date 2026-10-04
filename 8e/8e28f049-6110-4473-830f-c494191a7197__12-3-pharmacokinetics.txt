@@ -1,0 +1,17 @@
+DailyMed 8e28f049-6110-4473-830f-c494191a7197 | Cephalexin | 12.3 Pharmacokinetics
+
+Absorption:
+
+                        Cephalexin is acid stable and may be given without regard to meals. Following doses of 250 mg, 500 mg, and 1 g, average peak serum levels of approximately 9, 18, and 32 mcg/mL, respectively, were obtained at 1 hour. Serum levels were detectable 6 hours after administration (at a level of detection of 0.2 mcg/mL).
+
+                           Distribution:
+
+                        Cephalexin is approximately 10% to 15% bound to plasma proteins.
+
+                           Excretion:
+
+                        Cephalexin is excreted in the urine by glomerular filtration and tubular secretion. Studies showed that over 90% of the drug was excreted unchanged in the urine within 8 hours. During this period, peak urine concentrations following the 250 mg, 500 mg, and 1 g doses were approximately 1000, 2200, and 5000 mcg/mL respectively.
+
+                           Drug Interactions:
+
+ In healthy subjects given single 500 mg doses of cephalexin and metformin, plasma metformin mean Cmax and AUC increased by an average of 34% and 24%, respectively, and metformin mean renal clearance decreased by 14%. No information is available about the interaction of cephalexin and metformin following multiple doses of either drug.

@@ -1,0 +1,3 @@
+DailyMed e63fe922-b35a-406c-8737-f3f5e6d5a30d | PAROXETINE | 12.2 Pharmacodynamics
+
+Studies at clinically relevant doses in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets. In vitro studies in animals also suggest that paroxetine is a potent and highly selective inhibitor of neuronal serotonin reuptake (SSRI) and has only very weak effects on norepinephrine and dopamine neuronal reuptake.

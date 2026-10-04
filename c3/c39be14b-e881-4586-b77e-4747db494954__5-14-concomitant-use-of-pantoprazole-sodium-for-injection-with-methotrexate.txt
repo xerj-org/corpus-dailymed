@@ -1,0 +1,3 @@
+DailyMed c39be14b-e881-4586-b77e-4747db494954 | Pantoprazole Sodium | 5.14 Concomitant Use of Pantoprazole Sodium for Injection with Methotrexate
+
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities. In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].

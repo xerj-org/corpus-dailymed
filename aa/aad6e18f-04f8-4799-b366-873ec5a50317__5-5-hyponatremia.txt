@@ -1,0 +1,7 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 5.5 Hyponatremia
+
+Lactated Ringer’s Injection may cause hyponatremia. Hyponatremia can lead to acute hyponatremic encephalopathy characterized by headache, nausea, seizures, lethargy and vomiting. The risk of hospital-acquired hyponatremia is increased in younger pediatric patients, geriatric patients, patients treated with diuretics, and patients with cardiac or pulmonary failure or with the syndrome of inappropriate antidiuretic hormone (SIADH) (e.g., postoperative patients, patients concomitantly treated with arginine vasopressin analogs, or certain antiepileptic, psychotropic, or cytotoxic drugs) [see Drug Interactions (7.1), Use in Specific Populations (8.4)].
+
+                        Avoid Lactated Ringer’s Injection in patients with or at risk for hyponatremia. If use cannot be avoided in these patients, closely monitor serum sodium concentrations.
+
+                        Rapid correction of hyponatremia may result in serious neurologic complications such as osmotic demyelination syndrome (ODS). To avoid complications, monitor serum sodium and chloride concentrations, fluid status, acid-base balance, and neurologic status.

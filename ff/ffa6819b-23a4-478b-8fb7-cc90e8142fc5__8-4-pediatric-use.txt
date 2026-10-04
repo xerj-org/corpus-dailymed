@@ -1,0 +1,70 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 8.4 Pediatric Use
+
+The safety and effectiveness of tofacitinib tablets in pediatric patients for indications, other than in patients with active pcJIA and PsA, have not been established.
+
+                        The safety and effectiveness of tofacitinib tablets have not been established in pediatric patients less than 2 years of age.
+
+                           Polyarticular Course Juvenile Idiopathic Arthritis (pcJIA)
+
+                        The safety and effectiveness of tofacitinib tablets for the treatment of active pcJIA have been established in pediatric patients 2 years of age and older who have had an inadequate response or intolerance to one or more TNF blockers.
+
+                        Use of tofacitinib for this indication is supported by evidence from adequate and well-controlled studies of tofacitinib tablets in adults with RA, pharmacokinetic (PK) data from adult patients with RA, and with additional safety, efficacy, and PK data from a clinical trial of tofacitinib tablets in pediatric patients 2 years and older with active pcJIA (Study pcJIA-I)
+
+  [see
+
+   Adverse Reactions (6.1),
+
+   Clinical Pharmacology (12.3),
+
+  and
+
+                              Clinical Studies (14.1,
+                              14.4)]
+
+  .
+
+                        Adverse reactions observed in pediatric patients with pcJIA who received tofacitinib tablets were consistent with those reported in adults with RA
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  .
+
+                           Psoriatic Arthritis
+
+                        The safety and effectiveness of tofacitinib tablets for the treatment of active PsA have been established in pediatric patients 2 years of age and older who have had an inadequate response or intolerance to one or more TNF blockers.
+
+                        Use of tofacitinib for this indication is supported by evidence from well-controlled studies of tofacitinib tablets in adults with PsA, PK data from adults with PsA, and PK data from a clinical trial of tofacitinib tablets in 225 pediatric patients with JIA, and safety data from 280 pediatric patients 2 years of age and older with JIA
+
+  [see
+
+   Adverse Reactions (6.1),
+
+   Clinical Pharmacology (12.3),
+
+  and
+
+                              Clinical Studies (14.2)].
+
+  Following administration of the recommended tofacitinib tablets dosage in pediatric patients 2 years of age and older with PsA, tofacitinib plasma exposures are predicted to be comparable to those observed in adults with PsA based on population PK modeling and simulation
+
+  [see
+
+   Clinical Pharmacology (12.3)].
+
+                           Systemic Juvenile Idiopathic Arthritis
+
+                        The safety and effectiveness of tofacitinib tablets for the treatment of pediatric patients with systemic juvenile idiopathic arthritis (sJIA) have not been established.
+
+                        The results from a two-part study (an open-label, run-in phase, followed by a double-blind, placebo-controlled, randomized event-driven withdrawal phase) in 100 patients 2 years to 17 years of age with sJIA with active systemic features did not demonstrate that tofacitinib tablets (dosed at 5 mg twice daily or body weight-based equivalent twice daily) was efficacious in the treatment of sJIA with active systemic features.
+
+                        Of the 100 patients enrolled in the open-label run-in phase, 59 (59%) patients achieved a clinical response and were eligible for the double-blind withdrawal phase. There were 28 patients randomized to tofacitinib and 31 patients to placebo. The study data were insufficient to demonstrate efficacy and, therefore, tofacitinib is not recommended for the treatment of sJIA.
+
+                        Adverse reactions observed in pediatric patients with sJIA receiving tofacitinib tablets were consistent with those reported in pcJIA and RA patients
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  .

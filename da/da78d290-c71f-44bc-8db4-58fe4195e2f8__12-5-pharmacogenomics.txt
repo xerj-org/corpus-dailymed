@@ -1,0 +1,7 @@
+DailyMed da78d290-c71f-44bc-8db4-58fe4195e2f8 | Allopurinol | 12.5 Pharmacogenomics
+
+HLA-B*5801 allele
+
+                        The HLA-B*5801 allele is a genetic marker that has shown to be associated with risk of developing allopurinol related hypersensitivity syndrome (DRESS) and SJS/TEN. The frequency of the HLA- B*58:01 allele ranges from 8 to 10% in Han Chinese populations, about 8% in Thai populations, and about 6% in Korean populations based upon published literature and available databases. The frequency of the HLA-B*58:01 allele is about 4% in Blacks, about 1 % to 2 % in indigenous peoples of the Americas and Hispanic populations, and < 1% in people from European descent and Japanese.
+
+                        Stevens-Johnson syndrome (SJS)/Toxic epidermal necrolysis (TEN) can still occur in patients who are found to be negative for HLA-B*5801 irrespective of ethnic origin.

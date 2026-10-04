@@ -1,0 +1,35 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 5.3 Cardiac Rhythm and Conduction Abnormalities
+
+PR Interval Prolongation, Atrioventricular Block, and Ventricular Tachyarrhythmia
+
+  Dose-dependent prolongations in PR interval with lacosamide have been observed in clinical studies in adult patients and in healthy volunteers [
+
+  see
+
+   Clinical Pharmacology (12.2)
+                           ]. In adjunctive clinical trials in adult patients with partial-onset seizures, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive lacosamide and 0% (0/364) of patients randomized to receive placebo. One case of profound bradycardia was observed in a patient during a 15-minute infusion of 150 mg lacosamide. When lacosamide is given with other drugs that prolong the PR interval, further PR prolongation is possible.
+
+                        In the postmarketing setting, there have been reports of cardiac arrhythmias in patients treated with lacosamide, including bradycardia, AV block, and ventricular tachyarrhythmia, which have rarely resulted in asystole, cardiac arrest, and death. Most, although not all, cases have occurred in patients with underlying proarrhythmic conditions, or in those taking concomitant medications that affect cardiac conduction or prolong the PR interval. These events have occurred with both oral and intravenous routes of administration and at prescribed doses as well as in the setting of overdose [
+
+  see
+
+   Overdosage (10)
+                           ]. In all patients for whom a loading dose is clinically indicated, administer the loading dose with medical supervision because of the possibility of increased incidence of adverse reactions, including cardiovascular adverse reactions.
+
+                        Lacosamide should be used with caution in patients with underlying proarrhythmic conditions such as known cardiac conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), severe cardiac disease (such as myocardial ischemia or heart failure, or structural heart disease), and cardiac sodium channelopathies (e.g., Brugada Syndrome). Lacosamide should also be used with caution in patients on concomitant medications that affect cardiac conduction, including sodium channel blockers, beta-blockers, calcium channel blockers, potassium channel blockers, and medications that prolong the PR interval [
+
+  see
+
+   Drug Interactions (7.2)
+                           ]. In such patients, obtaining an ECG before beginning lacosamide, and after lacosamide is titrated to steady-state maintenance dose, is recommended. In addition, these patients should be closely monitored if they are administered lacosamide through the intravenous route [
+
+  see
+
+   Adverse Reactions (6.1)and
+
+   Drug Interactions (7.2)
+                           ].
+
+                           Atrial Fibrillation and Atrial Flutter
+
+                        In the short-term investigational trials of lacosamide in adult patients with partial-onset seizures there were no cases of atrial fibrillation or flutter. Both atrial fibrillation and atrial flutter have been reported in open label partial-onset seizure trials and in postmarketing experience. In adult patients with diabetic neuropathy, for which lacosamide is not indicated, 0.5% of patients treated with lacosamide experienced an adverse reaction of atrial fibrillation or atrial flutter, compared to 0% of placebo-treated patients. Lacosamide administration may predispose to atrial arrhythmias (atrial fibrillation or flutter), especially in patients with diabetic neuropathy and/or cardiovascular disease.

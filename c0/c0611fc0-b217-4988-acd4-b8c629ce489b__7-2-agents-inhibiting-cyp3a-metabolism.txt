@@ -1,0 +1,7 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 7.2 Agents Inhibiting CYP3A Metabolism
+
+Concomitant administration of imatinib mesylate and strong CYP3A4 inhibitors may result in a significant imatinib exposure increase. Grapefruit juice may also increase plasma concentrations of imatinib; avoid grapefruit juice
+
+  [see Clinical Pharmacology (
+
+   12.3)].

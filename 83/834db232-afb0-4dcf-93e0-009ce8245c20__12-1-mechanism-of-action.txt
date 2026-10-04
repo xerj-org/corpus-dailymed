@@ -1,0 +1,3 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 12.1 Mechanism of Action
+
+The mechanism by which inebilizumab-cdon exerts its therapeutic effects in NMOSD, IgG4-RD, and gMG is presumed to involve binding to CD19, a cell surface antigen presents on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, inebilizumab-cdon results in antibody-dependent cellular cytolysis.

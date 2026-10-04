@@ -1,0 +1,5 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 8.6 Renal Impairment
+
+To minimize the risk of hypoglycemia, the recommended starting dose of glimepiride is 1 mg daily for all patients with type 2 diabetes and renal impairment [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
+
+                        A multiple-dose titration study was conducted in 16 patients with type 2 diabetes and renal impairment using doses ranging from 1 mg to 8 mg daily for 3 months. Baseline creatinine clearance ranged from 10-60 mL/min. The pharmacokinetics of glimepiride was evaluated in the multiple-dose titration study and the results were consistent with those observed in patients enrolled in a single-dose study. In both studies, the relative total clearance of glimepiride increased when kidney function was impaired. Both studies also demonstrated that the elimination of the two major metabolites was reduced in patients with renal impairment [see Clinical Pharmacology (12.3)].

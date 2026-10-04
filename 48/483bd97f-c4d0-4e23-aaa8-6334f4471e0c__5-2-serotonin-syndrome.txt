@@ -1,0 +1,11 @@
+DailyMed 483bd97f-c4d0-4e23-aaa8-6334f4471e0c | PAXIL CR | 5.2 Serotonin Syndrome
+
+Selective serotonin reuptake inhibitors SSRIs, including PAXIL CR, can precipitate serotonin syndrome, a potentially life-threatening condition. The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)]. Serotonin syndrome can also occur when PAXUIL CR is used alone.
+
+                        Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+                        The concomitant use of PAXIL CR with MAOIs is contraindicated. In addition, do not initiate PAXIL CR in a patient being treated with MAOIs such as linezolid or intravenous methylene blue. No reports involved the administration of methylene blue by other routes of administration (such as orally or local tissue injection). If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking PAXIL CR, discontinue PAXIL CR before initiating treatment with the MAOI  [see
+                           Contraindications (4), and Drug Interactions
+                           (7.1)].
+
+                        Monitor all patients taking PAXIL CR for the emergence of serotonin syndrome. Discontinue treatment with PAXIL CR and any concomitant serotonergic drug immediately if the above symptoms occur, and initiate supportive symptomatic treatment. If concomitant use of PAXIL CR with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.

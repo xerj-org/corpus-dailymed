@@ -1,0 +1,27 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 6.1 Adverse Reactions Observed in Clinical Trials
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        Two hundred forty-four patients participated in two multicenter, double-blind, placebo-controlled trials of nicardipine. Adverse experiences were generally not serious and most were expected consequences of vasodilation. Adverse reactions occasionally required dosage adjustment. Therapy was discontinued in approximately 12% of patients, mainly due to hypotension, headache, and tachycardia. Adverse reactions that occurred more often on nicardipine than on placebo by at least 2% were headache (13%) and nausea/vomiting (4%).
+
+                        The following adverse reactions have been reported in clinical trials or in the literature during the use of intravenously administered nicardipine.
+
+                           Body as a Whole: fever, neck pain
+
+                           Cardiovascular: angina pectoris, atrioventricular block, ST segment depression, inverted T wave, deep-vein thrombophlebitis
+
+                           Digestive: dyspepsia
+
+                           Hemic and Lymphatic: thrombocytopenia
+
+                           Metabolic and Nutritional: hypophosphatemia, peripheral edema
+
+                           Nervous: confusion, hypertonia
+
+                           Respiratory: respiratory disorder
+
+                           Special Senses: conjunctivitis, ear disorder, tinnitus
+
+                           Urogenital: urinary frequency
+
+                        Sinus node dysfunction and myocardial infarction, which may be due to disease progression, have been seen in patients on chronic therapy with orally administered nicardipine.

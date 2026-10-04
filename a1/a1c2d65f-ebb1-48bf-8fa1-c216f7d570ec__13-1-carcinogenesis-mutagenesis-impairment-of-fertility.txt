@@ -1,0 +1,13 @@
+DailyMed a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec | Zybic | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        There was no increase in tumor incidence in long-term carcinogenicity studies in rats (104 weeks) and mice (99 weeks) administered meloxicam at oral doses up to 0.8 mg/kg/day in rats and up to 8.0 mg/kg/day in mice (up to 0.5-and 2.6-times, respectively, the maximum recommended human dose [MRHD] of 15 mg/day Zybic™ based on body surface area [BSA] comparison).
+
+                           Mutagenesis
+
+                        Meloxicam was not mutagenic in an Ames assay, or clastogenic in a chromosome aberration assay with human lymphocytes and an in vivo micronucleus test in mouse bone marrow.
+
+                           Impairment of Fertility
+
+                        Meloxicam did not impair male and female fertility in rats at oral doses up to 9 mg/kg/day in males and 5 mg/ kg/day in females (up to 5.8-and 3.2-times greater, respectively, than the MRHD based on BSA comparison).

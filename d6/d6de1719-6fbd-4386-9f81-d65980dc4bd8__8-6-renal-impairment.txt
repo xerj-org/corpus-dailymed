@@ -1,0 +1,17 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 8.6 Renal Impairment
+
+In pharmacokinetic studies, compared to healthy adult subjects with normal creatinine clearance, rivaroxaban exposure increased by approximately 44% to 64% in adult subjects with renal impairment. Increases in pharmacodynamic effects were also observed [see Clinical Pharmacology (12.3)].
+
+                           Reduction of Risk of Major Cardiovascular Events in Patients with CAD and Reduction of Risk of Major Thrombotic Vascular Events in Patients with PAD, Including Patients After Recent Lower Extremity Revascularization due to Symptomatic PAD
+
+                           Patients with Chronic Kidney Disease not on Dialysis
+
+                        Patients with a CrCl <15 mL/min at screening were excluded from COMPASS and VOYAGER, and limited data are available for patients with a CrCl of 15 to 30 mL/min. In patients with CrCl <30 mL/min, a dose of 2.5 mg rivaroxaban twice daily is expected to give an exposure similar to that in patients with moderate renal impairment (CrCl 30 to <50 mL/min) [see Clinical Pharmacology (12.3)], whose efficacy and safety outcomes were similar to those with preserved renal function.
+
+                           Patients with End-Stage Renal Disease on Dialysis
+
+                        No clinical outcome data is available for the use of rivaroxaban with aspirin in patients with ESRD on dialysis since these patients were not enrolled in COMPASS or VOYAGER. In patients with ESRD maintained on intermittent hemodialysis, administration of rivaroxaban 2.5 mg twice daily will result in concentrations of rivaroxaban and pharmacodynamic activity similar to those observed in moderate renal impaired patients in the COMPASS study [see Clinical Pharmacology (12.2, 12.3)]. It is not known whether these concentrations will lead to similar CV risk reduction and bleeding risk in patients with ESRD on dialysis as was seen in COMPASS.
+
+                           Pediatric Use
+
+                        There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile; therefore, avoid the use of rivaroxaban tablets in these patients [see Dosage and Administration (2.2)].

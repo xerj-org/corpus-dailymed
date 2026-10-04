@@ -1,0 +1,34 @@
+DailyMed 07a701e2-39b7-4bb1-a7c7-d9baed4ab18a | Guanfacine Extended-Release | 7 DRUG INTERACTIONS
+
+Table 14
+        contains clinically important drug interactions with guanfacine extended-release tablets
+       [see
+                     Clinical Pharmacology (
+
+                        12.3
+
+                     )
+                     ]
+       .
+
+                     			Table 14: Clinically Important Drug Interactions: Effect of other Drugs on Guanfacine Extended-Release Tablets
+
+                           											Concomitant Drug Name or Drug Class				 |
+                           											Clinical Rationale and Magnitude of Drug Interaction				 |
+                           Clinical Recommendation				 |
+
+                           Strong and moderate CYP3A4 inhibitors, e.g., ketoconazole, fluconazole				 |
+                           											Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in an increase in exposure				 |
+
+          											Consider dose reduction
+          [see
+                              Dosage and administration (2.7)
+                              ]
+                            |
+
+                           											Strong and moderate CYP3A4 inducers, e.g., rifampin, efavirenz 				 |
+                           											Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in a  decrease in exposure				 |
+                           Consider dose increase[see
+                              Dosage and administration (2.7)
+                              ]
+                            |

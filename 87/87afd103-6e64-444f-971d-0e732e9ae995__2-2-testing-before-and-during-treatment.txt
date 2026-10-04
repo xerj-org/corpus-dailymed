@@ -1,0 +1,9 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 2.2 Testing Before and During Treatment
+
+Females of reproductive potential should undergo pregnancy testing before initiation of treatment with ganciclovir [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.3)].
+
+                           Complete blood counts with differential and platelet counts should be performed frequently, especially in patients in whom ganciclovir or other nucleoside analogues have previously resulted in cytopenias, or in whom absolute neutrophil counts are less than 1000 cells/μL at the beginning of treatment [see Warnings and Precautions (5.1)].
+
+                           All patients should be monitored for renal function before and during treatment with ganciclovir and dose should be adjusted as needed [see Dosage and Administration (2.5), Warnings and Precautions (5.2)].
+
+                           Patients with CMV retinitis should have frequent ophthalmological examinations during treatment with ganciclovir solution to monitor disease status and for other retinal abnormalities [see Adverse Reactions (6.1)].

@@ -1,0 +1,15 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+                  Oxalate nephropathy and Nephrolithiasis [see Warnings and Precautions (5.1)]
+
+                  Hemolysis in patients with glucose-6-phosphate dehydrogenase deficiency [see Warnings and Precautions (5.2)]
+
+                  The following adverse reactions associated with the use of ascorbic acid were identified in the literature. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure:
+
+                  Administration site reactions: pain and swelling.
+
+                  Ascorbic acid injection should not be rapidly administered. Rapid intravenous administration (> 250 mg/minute) of ascorbic acid injection may cause temporary faintness or nausea, lethargy, flushing, dizziness, and headache (the recommended infusion rates of diluted ascorbic acid injection solution are 1.3 mg/minute (Pediatric Patients age 5 months to less than 12 months), 3.3 mg/minute (Pediatric Patients age 1 year to less than 11 years) and 33 mg/minute (Adults and Pediatric Patients 11 years and older) [see Dosage and Administration (2.2)]). 
+
+                  Acute and chronic oxalate nephropathy have occurred with prolonged administration of high doses of ascorbic acid [see Warnings and Precautions (5.1)]. In patients with glucose-6-phosphate dehydrogenase deficiency severe hemolysis has occurred [see Warnings and Precautions (5.2)].

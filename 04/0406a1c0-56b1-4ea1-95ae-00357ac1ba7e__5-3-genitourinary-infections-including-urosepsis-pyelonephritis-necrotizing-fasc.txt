@@ -1,0 +1,11 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 5.3 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections
+
+Dapagliflozin increases urinary glucose excretion [see Clinical Pharmacology (12.2)] and increases the risk of genitourinary infections including urinary tract infections and genital mycotic infections in both male and female patients [see Adverse Reactions (6.1)].
+
+                           Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier’s gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients receiving SGLT2 inhibitors, including dapagliflozin [see Adverse Reactions (6.2)]. Cases have required hospitalization. In patients with Fournier’s gangrene, serious outcomes have included multiple surgeries and death.
+
+                           Patients with a history of genitourinary infections are more likely to develop genitourinary infections when using dapagliflozin.
+
+                           Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+
+                           Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis. If suspected, discontinue dapagliflozin and promptly institute appropriate medical and/or surgical intervention.

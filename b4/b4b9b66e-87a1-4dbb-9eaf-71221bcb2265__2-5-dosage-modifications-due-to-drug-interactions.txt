@@ -1,0 +1,31 @@
+DailyMed b4b9b66e-87a1-4dbb-9eaf-71221bcb2265 | mirtazapine | 2.5 Dosage Modifications Due to Drug Interactions
+
+Strong CYP3A Inducers 
+
+  An increase in dosage of mirtazapine tablets may be needed with concomitant strong CYP3A inducer (e.g., carbamazepine, phenytoin, rifampin) use. Conversely, a decrease in dosage of mirtazapine tablets may be needed if the CYP3A inducer is discontinued
+
+  [see Drug Interactions (
+
+   7)].
+
+                            
+
+                            
+                           Strong CYP3A Inhibitors 
+
+  A decrease in dosage of mirtazapine tablets may be needed with concomitant use of strong CYP3A4 inhibitors (e.g., ketoconazole, clarithromycin). Conversely, an increase in dosage of mirtazapine tablets may be needed if the CYP3A4 inhibitor is discontinued
+
+  [see Drug Interactions (
+
+   7)].
+
+                            
+
+                            
+                           Cimetidine 
+
+  A decrease in dosage of mirtazapine tablets may be needed with concomitant use of cimetidine. Conversely, an increase in dosage of mirtazapine tablets may be needed if cimetidine is discontinued
+
+  [see Drug Interactions (
+
+   7)].

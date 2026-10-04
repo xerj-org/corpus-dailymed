@@ -1,0 +1,5 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.8 Hepatotoxicity
+
+Cases of severe hepatotoxicity, including hepatic necrosis, life-threatening hepatic failure, and fatal events, have been reported with ciprofloxacin. Acute liver injury is rapid in onset (range 1–39 days), and is often associated with hypersensitivity. The pattern of injury can be hepatocellular, cholestatic, or mixed. Most patients with fatal outcomes were older than 55 years old. In the event of any signs and symptoms of hepatitis (such as anorexia, jaundice, dark urine, pruritus, or tender abdomen), discontinue treatment immediately.
+
+                        There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with ciprofloxacin [see Adverse Reactions (6.2, 6.3)].

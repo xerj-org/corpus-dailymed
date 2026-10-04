@@ -1,0 +1,3 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 5.11 Status Epilepticus
+
+Valid estimates of the incidence of treatment-emergent status epilepticus among patients treated with lamotrigine are difficult to obtain because reporters participating in clinical trials did not all employ identical rules for identifying cases. At a minimum, 7 of 2,343 adult patients had episodes that could unequivocally be described as status epilepticus. In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries) were made.

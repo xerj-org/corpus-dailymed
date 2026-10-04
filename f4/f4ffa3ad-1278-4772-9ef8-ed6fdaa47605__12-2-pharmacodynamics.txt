@@ -1,0 +1,11 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 12.2 Pharmacodynamics
+
+A pharmacokinetic-pharmacodynamic (efficacy) analysis was performed based on the pooled data from the 3 efficacy trials for partial-onset seizures. Lacosamide exposure is correlated with the reduction in seizure frequency. However, doses above 400 mg/day do not appear to confer additional benefit in group analyses.
+
+                           Cardiac Electrophysiology
+
+  Electrocardiographic effects of lacosamide were determined in a double-blind, randomized clinical pharmacology trial of 247 healthy subjects. Chronic oral doses of 400 mg/day and 800 mg/day (equal to and two times the maximum daily recommended dose, respectively) were compared with placebo and a positive control (400 mg moxifloxacin). Lacosamide did not prolong QTc interval and did not have a dose-related or clinically important effect on QRS duration. Lacosamide produced a small, dose-related increase in mean PR interval. At steady-state, the time of the maximum observed mean PR interval corresponded with T
+
+  max. The placebo-subtracted maximum increase in PR interval (at T
+
+  max) was 7.3 ms for the 400 mg/day group and 11.9 ms for the 800 mg/day group. For patients who participated in the controlled trials, the placebo-subtracted mean maximum increase in PR interval for a 400 mg/day lacosamide dose was 3.1 ms in patients with partial-onset seizures and 9.4 ms for patients with diabetic neuropathy.

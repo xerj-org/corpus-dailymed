@@ -1,0 +1,3 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 5.16 Risk of Postoperative Unconsciousness
+
+Very rarely the use of propofol injectable emulsion may be associated with the development of a period of postoperative unconsciousness which may be accompanied by an increase in muscle tone. This may or may not be preceded by a brief period of wakefulness. Recovery is spontaneous.

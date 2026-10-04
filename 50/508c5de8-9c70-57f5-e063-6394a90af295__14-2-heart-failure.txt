@@ -1,0 +1,347 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 14.2 Heart Failure
+
+The Valsartan Heart Failure Trial (Val-HeFT) was a multinational, double-blind study in which 5,010 patients with NYHA class II (62%) to IV (2%) heart failure and LVEF less than 40%, on baseline therapy chosen by their physicians, were randomized to placebo or valsartan (titrated from 40 mg twice daily to the highest tolerated dose or 160 mg twice daily) and followed for a mean of about 2 years. The VAL-HeFT study was conducted with a formulation of valsartan that is not therapeutically equivalent to PREXXARTAN™
+  [see
+   Clinical Pharmacology (12.3)].
+  Although Val-HeFT’s primary goal was to examine the effect of valsartan when added to an ACE inhibitor, about 7% were not receiving an ACE inhibitor. Other background therapy included diuretics (86%), digoxin (67%), and beta-blockers (36%). The population studied was 80% male, 46% 65 years or older and 89%Caucasian. At the end of the trial, patients in the valsartan group had a blood pressure that was 4 mmHg systolic and 2 mmHg diastolic lower than the placebo group. There were two primary end points, both assessed as time to first event: all-cause mortality and heart failure morbidity, the latter defined as all-cause mortality, sudden death with resuscitation, hospitalization for heart failure, and the need for intravenous inotropic or vasodilatory drugs for at least 4 hours. These results are summarized in the following table.
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Valsartan
+
+                                  |
+
+                                       Hazard Ratio
+
+                                  |
+
+                                       Nominal
+
+                                  |
+
+                                  |
+
+                                       (N=2,499)
+
+                                  |
+
+                                       (N=2,511)
+
+                                  |
+
+                                       (95% CI*)
+
+                                  |
+
+                                       p-value
+
+                                  |
+
+                                    All-cause mortality
+
+                                  |
+
+                                    484
+
+                                  |
+
+                                    495
+
+                                  |
+
+                                    1.02
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                  |
+
+                                    (19.4%)
+
+                                  |
+
+                                    (19.7%)
+
+                                  |
+
+                                    (0.90-1.15)
+
+                                  |
+                                  |
+
+                                    HF morbidity
+
+                                  |
+
+                                    801
+
+                                  |
+
+                                    723
+
+                                  |
+
+                                    0.87
+
+                                  |
+
+                                    0.009
+
+                                  |
+
+                                  |
+
+                                    (32.1%)
+
+                                  |
+
+                                    (28.8%)
+
+                                  |
+
+                                    (0.79-0.97)
+
+                                  |
+                                  |
+
+                                    * CI = Confidence Interval
+
+                                  |
+
+                        Although the overall morbidity result favored valsartan, this result was largely driven by the 7% of patients not receiving an ACE inhibitor, as shown in the following table.
+
+                                  |
+
+                                       Without ACE Inhibitor
+
+                                  |
+
+                                       With ACE Inhibitor
+
+                                  |
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Valsartan
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Valsartan
+
+                                  |
+
+                                  |
+
+                                    (N=181)
+
+                                  |
+
+                                    (N=185)
+
+                                  |
+
+                                    (N=2,318)
+
+                                  |
+
+                                    (N=2,326)
+
+                                  |
+
+                                    Events (%)
+
+                                  |
+
+                                    77 (42.5%)
+
+                                  |
+
+                                    46 (24.9%)
+
+                                  |
+
+                                    724 (31.2%)
+
+                                  |
+
+                                    677 (29.1%)
+
+                                  |
+
+                                    Hazard ratio (95% CI)
+
+                                  |
+
+                                    0.51 (0.35, 0.73)
+
+                                  |
+
+                                    0.92 (0.82, 1.02)
+
+                                  |
+
+                                    p-value
+
+                                  |
+
+                                    0.0002
+
+                                  |
+
+                                    0.0965
+
+                                  |
+
+                        The modest favorable trend in the group receiving an ACE inhibitor was largely driven by the patients receiving less than the recommended dose of ACE inhibitor. Thus, there is little evidence of further clinical benefit when valsartan is added to an adequate dose of ACE inhibitor.
+
+                        Secondary end points in the subgroup not receiving ACE inhibitors were as follows.
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Valsartan
+
+                                  |
+
+                                       Hazard Ratio
+
+                                  |
+
+                                  |
+
+                                       (N=181)
+
+                                  |
+
+                                       (N=185)
+
+                                  |
+
+                                       (95% CI)
+
+                                  |
+
+                                    Components of HF morbidity
+
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                    All-cause mortality
+
+                                  |
+
+                                    49 (27.1%)
+
+                                  |
+
+                                    32 (17.3%)
+
+                                  |
+
+                                    0.59 (0.37, 0.91)
+
+                                  |
+
+                                    Sudden death with resuscitation
+
+                                  |
+
+                                    2 (1.1%)
+
+                                  |
+
+                                    1 (0.5%)
+
+                                  |
+
+                                    0.47 (0.04, 5.20)
+
+                                  |
+
+                                    CHF therapy
+
+                                  |
+
+                                    1 (0.6%)
+
+                                  |
+
+                                    0 (0.0%)
+
+                                  |
+
+                                    –
+
+                                  |
+
+                                    CHF hospitalization
+
+                                  |
+
+                                    48 (26.5%)
+
+                                  |
+
+                                    24 (13.0%)
+
+                                  |
+
+                                    0.43 (0.27, 0.71)
+
+                                  |
+
+                                    Cardiovascular mortality
+
+                                  |
+
+                                    40 (22.1%)
+
+                                  |
+
+                                    29 (15.7%)
+
+                                  |
+
+                                    0.65 (0.40, 1.05)
+
+                                  |
+
+                                    Non-fatal morbidity
+
+                                  |
+
+                                    49 (27.1%)
+
+                                  |
+
+                                    24 (13.0%)
+
+                                  |
+
+                                    0.42 (0.26, 0.69)
+
+                                  |
+
+                        In patients not receiving an ACE inhibitor, valsartan-treated patients had an increase in ejection fraction and reduction in left ventricular internal diastolic diameter (LVIDD).
+
+                        Effects were generally consistent across subgroups defined by age and gender for the population of patients not receiving an ACE inhibitor. The number of black patients was small and does not permit a meaningful assessment in this subset of patients.

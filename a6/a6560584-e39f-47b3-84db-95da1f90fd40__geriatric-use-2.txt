@@ -1,0 +1,3 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Geriatric Use
+
+Clinical studies of felodipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Pharmacokinetics, however, indicate that the availability of felodipine is increased in older patients (see CLINICAL PHARMACOLOGY, Geriatric Use). In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

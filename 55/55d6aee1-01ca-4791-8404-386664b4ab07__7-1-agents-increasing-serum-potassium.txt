@@ -1,0 +1,3 @@
+DailyMed 55d6aee1-01ca-4791-8404-386664b4ab07 | Olmesartan Medoxomil and Hydrochlorothiazide | 7.1 Agents Increasing Serum Potassium
+
+Coadministration of olmesartan medoxomil and hydrochlorothiazide tablets with other drugs that raise serum potassium levels may result in hyperkalemia. Monitor serum potassium in such patients.

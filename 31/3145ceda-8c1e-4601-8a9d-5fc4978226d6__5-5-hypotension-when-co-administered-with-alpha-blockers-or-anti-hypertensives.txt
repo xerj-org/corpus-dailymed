@@ -1,0 +1,48 @@
+DailyMed 3145ceda-8c1e-4601-8a9d-5fc4978226d6 | Sildenafil | 5.5 Hypotension when Co-administered with Alpha-blockers or Anti-hypertensives
+
+Alpha-blockers
+
+  Caution is advised when PDE5 inhibitors are co-administered with alpha-blockers. PDE5 inhibitors, including sildenafil tablets, and alpha-adrenergic blocking agents are both vasodilators with blood pressure lowering effects. When vasodilators are used in combination, an additive effect on blood pressure may occur. In some patients, concomitant use of these two drug classes can lower blood pressure significantly
+
+                        [
+
+  see Drug Interactions
+
+   (7.2)and Clinical Pharmacology
+
+                              (12.2)]
+                            leading to symptomatic hypotension (e.g., dizziness, lightheadedness, fainting).
+
+  Consideration should be given to the following:
+
+  •  Patients who demonstrate hemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of PDE5 inhibitors. Patients should be stable on alpha-blocker therapy prior to initiating a PDE5 inhibitor.
+
+  In those patients who are stable on alpha-blocker therapy, PDE5 inhibitors should be initiated at the lowest dose [
+
+  see Dosage and Administration
+
+                                 (2.3)
+
+                              ]
+                           .
+
+  •  In those patients already taking an optimized dose of a PDE5 inhibitor, alpha-blocker therapy should be initiated at the lowest dose. Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking a PDE5 inhibitor.
+
+  •  Safety of combined use of PDE5 inhibitors and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive drugs.
+
+                           Anti-hypertensives
+
+  Sildenafil tablets have systemic vasodilatory properties and may further lower blood pressure in patients taking anti-hypertensive medications.
+
+  In a separate drug interaction study, when amlodipine, 5 mg or 10 mg, and sildenafil tablets, 100 mg were orally administered concomitantly to hypertensive patients mean additional blood pressure reduction of 8 mmHg systolic and 7 mmHg diastolic were noted 
+
+  [see Drug Interactions 
+
+                                 (7.3)
+                              and Clinical Pharmacology 
+
+                                 (12.2)
+
+                              ]
+
+                                 .

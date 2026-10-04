@@ -1,0 +1,11 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 12.2 Pharmacodynamics
+
+Exposure-Response Relationship
+
+                        In patients with TSC-associated subependymal giant cell astrocytoma (SEGA), the magnitude of the reduction in SEGA volume was correlated with the everolimus trough concentration.
+
+                        In patients with TSC-associated partial-onset seizures, the magnitude of the reduction in absolute seizure frequency was correlated with the everolimus trough concentration.
+
+                           Cardiac Electrophysiology
+
+                        In a randomized, placebo-controlled, cross-over study, 59 healthy subjects received a single oral dose of AFINITOR (20 mg and 50 mg) and placebo. AFINITOR at single doses up to 50 mg did not prolong the QT/QTc interval.

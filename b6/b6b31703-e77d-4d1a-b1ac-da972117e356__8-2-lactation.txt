@@ -1,0 +1,13 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 8.2 Lactation
+
+Risk Summary 
+
+  Data from published literature report the presence of mirtazapine in human milk at low levels with relative infant doses for mirtazapine ranging between 0.6 and 2.8% of the maternal weight-adjusted dose
+
+  (see Data). No adverse effects on the breastfed infant have been reported in most cases of maternal use of mirtazapine. There are no data on the effects of mirtazapine on milk production. 
+
+  The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for mirtazapine and any potential adverse effects on the breastfed infant from mirtazapine or from the underlying maternal condition. 
+
+                           Data 
+
+  In a published pooled analysis of 8 breastfeeding mother-infant pairs, the mean (min, max) total relative infant doses for mirtazapine and its desmethyl metabolite were 1.5% (0.6%, 2.8%) and 0.4% (0.1%, 0.7%) of the maternal weight-adjusted dose (median (min, max) dose of 38 mg (30 mg, 120 mg), respectively). No adverse drug effects were reported for any of the infants.

@@ -1,0 +1,133 @@
+DailyMed eaeab74e-38cc-4621-9ce8-8a5d74a29a9e | Sildenafil | 12.3 Pharmacokinetics
+
+Sildenafil tablets are rapidly absorbed after oral administration, with a mean absolute bioavailability of 41% (range 25 to 63%). The pharmacokinetics of sildenafil are dose-proportional over the recommended dose range. It is eliminated predominantly by hepatic metabolism (mainly CYP3A4) and is converted to an active metabolite with properties similar to the parent, sildenafil. Both sildenafil and the metabolite have terminal half lives of about 4 hours.
+
+  Mean sildenafil plasma concentrations measured after the administration of a single oral dose of 100 mg to healthy male volunteers is depicted below:
+
+                           Figure 5: Mean Sildenafil Plasma Concentrations
+
+  in Healthy Male Volunteers.
+
+                           Absorption and Distribution: Sildenafil tablets are rapidly absorbed. Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state. When sildenafil tablets are taken with a high fat meal, the rate of absorption is reduced, with a mean delay in T
+
+  maxof 60 minutes and a mean reduction in C
+
+  maxof 29%. The mean steady state volume of distribution (Vss) for sildenafil is 105 L, indicating distribution into the tissues. Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96% bound to plasma proteins. Protein binding is independent of total drug concentrations.
+
+  Based upon measurements of sildenafil in semen of healthy volunteers 90 minutes after dosing, less than 0.001% of the administered dose may appear in the semen of patients.
+
+                           Metabolism and Excretion:Sildenafil is cleared predominantly by the CYP3A4 (major route) and CYP2C9 (minor route) hepatic microsomal isoenzymes. The major circulating metabolite results from N-desmethylation of sildenafil, and is itself further metabolized. This metabolite has a PDE selectivity profile similar to sildenafil and an
+
+  in vitropotency for PDE5 approximately 50% of the parent drug. Plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil, so that the metabolite accounts for about 20% of sildenafil’s pharmacologic effects.
+
+  After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the feces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of the administered oral dose). Similar values for pharmacokinetic parameters were seen in normal volunteers and in the patient population, using a population pharmacokinetic approach.
+
+                              Pharmacokinetics in Special Populations
+
+                           Geriatrics:Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma AUC values of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18 to 45 years). Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active
+
+  N-desmethyl metabolite were 45% and 57%, respectively [
+
+  see Dosage and Administration 
+
+   (2.5),and Use in Specific Populations 
+
+   (8.5)]
+
+                           Renal Impairment:In volunteers with mild (CLcr=50 to 80 mL/min) and moderate (CLcr=30 to 49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil tablets (50 mg) were not altered. In volunteers with severe (CLcr <30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and C
+
+  maxcompared to age-matched volunteers with no renal impairment
+
+  [see Dosage and Administration
+
+   (2.5),and Use in Specific Populations 
+
+   (8.6)].
+
+  In addition, N-desmethyl metabolite AUC and C
+
+  maxvalues significantly increased by 200% and 79%, respectively in subjects with severe renal impairment compared to subjects with normal renal function.
+
+                           Hepatic Impairment:In volunteers with hepatic impairment (Child-Pugh Class A and B), sildenafil clearance was reduced, resulting in increases in AUC (85%) and C
+
+  max(47%) compared to age-matched volunteers with no hepatic impairment. The pharmacokinetics of sildenafil in patients with severely impaired hepatic function (Child-Pugh Class C) have not been studied
+
+  [see Dosage and Administration
+
+   (2.5), and Use in Specific Populations
+
+                           (8.7)].
+
+  Therefore, age >65, hepatic impairment and severe renal impairment are associated with increased plasma levels of sildenafil. A starting oral dose of 25 mg should be considered in those patients
+
+  [see Dosage and Administration
+
+   (2.5)].
+
+                              Drug Interaction Studies
+
+                           Effects of Other Drugs on Sildenafil Tablets
+
+  Sildenafil metabolism is principally mediated by CYP3A4 (major route) and CYP2C9 (minor route). Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance. The concomitant use of erythromycin or strong CYP3A4 inhibitors (e.g., saquinavir, ketoconazole, itraconazole) as well as the nonspecific CYP inhibitor, cimetidine, is associated with increased plasma levels of sildenafil
+
+  [see Dosage and Administration
+
+   (2.4)].
+
+                              In vivostudies:
+
+  Cimetidine (800 mg), a nonspecific CYP inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil tablets (50 mg) to healthy volunteers.
+
+  When a single 100 mg dose of sildenafil tablets were administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg bid for 5 days), there was a 160% increase in sildenafil C
+
+  maxand a 182% increase in sildenafil AUC. In addition, in a study performed in healthy male volunteers, co-administration of the HIV protease inhibitor saquinavir, also a CYP3A4 inhibitor, at steady state (1200 mg tid) with sildenafil tablets (100 mg single dose) resulted in a 140% increase in sildenafil C
+
+  maxand a 210% increase in sildenafil AUC. Sildenafil tablets had no effect on saquinavir pharmacokinetics. A stronger CYP3A4 inhibitor such as ketoconazole or itraconazole could be expected to have greater effect than that seen with saquinavir. Population pharmacokinetic data from patients in clinical trials also indicated a reduction in sildenafil clearance when it was co- administered with CYP3A4 inhibitors (such as ketoconazole, erythromycin, or cimetidine)
+
+  [see Dosage and Administration 
+
+   (2.4)and Drug Interactions
+
+                           (7.4)].
+
+  In another study in healthy male volunteers, co-administration with the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg bid) with sildenafil tablets (100 mg single dose) resulted in a 300% (4-fold) increase in sildenafil C
+
+  maxand a 1000% (11-fold) increase in sildenafil plasma AUC. At 24 hours the plasma levels of sildenafil were still approximately 200 ng/mL, compared to approximately 5 ng/mL when sildenafil was dosed alone. This is consistent with ritonavir’s marked effects on a broad range of P450 substrates. Sildenafil tablets had no effect on ritonavir pharmacokinetics
+
+  [see Dosage and Administration 
+
+   (2.4)and Drug Interactions 
+
+   (7.4)].
+
+  Although the interaction between other protease inhibitors and sildenafil has not been studied, their concomitant use is expected to increase sildenafil levels.
+
+  In a study of healthy male volunteers, co-administration of sildenafil at steady state (80 mg t.i.d.) with endothelin receptor antagonist bosentan (a moderate inducer of CYP3A4, CYP2C9 and possibly of CYP2C19) at steady state (125 mg b.i.d.) resulted in a 63% decrease of sildenafil AUC and a 55% decrease in sildenafil C
+
+  max. Concomitant administration of strong CYP3A4 inducers, such as rifampin, is expected to cause greater decreases in plasma levels of sildenafil.
+
+  Single doses of antacid (magnesium hydroxide/aluminum hydroxide) did not affect the bioavailability of sildenafil tablets.
+
+  In healthy male volunteers, there was no evidence of a clinically significant effect of azithromycin (500 mg daily for 3 days) on the systemic exposure of sildenafil or its major circulating metabolite.
+
+  Pharmacokinetic data from patients in clinical trials showed no effect on sildenafil pharmacokinetics of CYP2C9 inhibitors (such as tolbutamide, warfarin), CYP2D6 inhibitors (such as selective serotonin reuptake inhibitors, tricyclic antidepressants), thiazide and related diuretics, ACE inhibitors, and calcium channel blockers. The AUC of the active metabolite, N-desmethyl sildenafil, was increased 62% by loop and potassium-sparing diuretics and 102% by nonspecific beta-blockers. These effects on the metabolite are not expected to be of clinical consequence.
+
+                           Effects of Sildenafil Tablets on Other Drugs
+
+                              In vitro studies:
+
+  Sildenafil is a weak inhibitor of the CYP isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 μM). Given sildenafil peak plasma concentrations of approximately 1 μM after recommended doses, it is unlikely that sildenafil tablets will alter the clearance of substrates of these isoenzymes.
+
+                              In vivo
+
+                           studies:
+
+  No significant interactions were shown with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolized by CYP2C9.
+
+  In a study of healthy male volunteers, sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
+
+  Sildenafil tablets (50 mg) did not potentiate the increase in bleeding time caused by aspirin (150 mg).
+
+  Sildenafil at steady state, at a dose not approved for the treatment of erectile dysfunction (80 mg t.i.d.) resulted in a 50% increase in AUC and a 42% increase in C
+
+  maxof bosentan (125 mg b.i.d.).

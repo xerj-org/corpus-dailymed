@@ -1,0 +1,122 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 12.4 Microbiology
+
+Mechanism of Action
+
+                        Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination.
+
+                           Mechanism of Resistance
+
+                        Fluoroquinolone resistance can arise through mutations in defined regions of DNA gyrase or topoisomerase IV, termed the Quinolone-Resistance Determining Regions (QRDRs), or through altered efflux.
+
+                        Fluoroquinolones, including levofloxacin, differ in chemical structure and mode of action from aminoglycosides, macrolides and β-lactam antibiotics, including penicillins. Fluoroquinolones may, therefore, be active against bacteria resistant to these antimicrobials.
+
+                        Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-10). Cross-resistance has been observed between levofloxacin and some other fluoroquinolones, some microorganisms resistant to other fluoroquinolones may be susceptible to levofloxacin.
+
+                           Activity in vitro and in vivo
+
+                        Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacteria.
+
+                        Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in Indications and Usage (1):
+
+                           Gram-Positive Bacteria
+
+                           Enterococcus faecalis
+
+                           Staphylococcus aureus (methicillin-susceptible isolates)
+
+                           Staphylococcus epidermidis (methicillin-susceptible isolates)
+
+                           Staphylococcus saprophyticus
+
+                           Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]1)
+
+                           Streptococcus pyogenes
+
+                           Gram-Negative Bacteria
+
+                           Enterobacter cloacae
+
+                           Escherichia coli
+
+                           Haemophilus influenzae
+
+                           Haemophilus parainfluenzae
+
+                           Klebsiella pneumoniae
+
+                           Legionella pneumophila
+
+                           Moraxella catarrhalis
+
+                           Proteus mirabilis
+
+                           Pseudomonas aeruginosa
+
+                           Serratia marcescens
+
+                           Other Bacteria
+
+                           Chlamydophila pneumoniae
+
+                           Mycoplasma pneumonia
+
+                           1 MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
+
+                        The following in vitro data are available, but their clinical significance is unknown:  Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+
+                           Gram-Positive Bacteria
+
+                           Staphylococcus haemolyticus
+
+                        β-hemolytic Streptococcus (Group C/F)
+
+                        β-hemolytic Streptococcus (Group G)
+
+                           Streptococcus agalactiae
+
+                           Streptococcus milleri
+
+                        Viridans group streptococci
+
+                           Bacillus anthracis
+
+                           Gram-Negative Bacteria
+
+                           Acinetobacter baumannii
+
+                           Acinetobacter lwoffii
+
+                           Bordetella pertussis
+
+                           Citrobacter koseri
+
+                           Citrobacter freundii
+
+                           Enterobacter aerogenes
+
+                           Enterobacter sakazakii
+
+                           Klebsiella oxytoca
+
+                           Morganella morganii
+
+                           Pantoea agglomerans
+
+                           Proteus vulgaris
+
+                           Providencia rettgeri
+
+                           Providencia stuartii
+
+                           Pseudomonas fluorescens
+
+                           Yersinia pestis
+
+                            
+                           Anaerobic Gram-Positive Bacteria
+
+                           Clostridium perfringens
+
+                           Susceptibility Tests
+
+                        For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https//www.fda.gov/STIC.

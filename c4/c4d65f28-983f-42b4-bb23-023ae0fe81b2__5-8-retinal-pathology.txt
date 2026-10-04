@@ -1,0 +1,11 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 5.8 Retinal Pathology
+
+Retinal degeneration and loss of photoreceptor cells were observed in albino and pigmented rats administered safinamide orally in toxicity studies of up to 6 months duration. In albino rats administered safinamide orally for two years, retinal scarring and cataracts were observed at all doses tested
+
+  [see
+
+   Nonclinical Toxicology (13.2)]
+
+  .
+
+                        Periodically monitor patients for visual changes in patients with a history of retinal/macular degeneration, uveitis, inherited retinal conditions, family history of hereditary retinal disease, albinism, retinitis pigmentosa, or any active retinopathy (e.g., diabetic retinopathy).

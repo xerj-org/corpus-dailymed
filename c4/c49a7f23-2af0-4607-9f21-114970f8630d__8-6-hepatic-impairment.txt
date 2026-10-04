@@ -1,0 +1,11 @@
+DailyMed c49a7f23-2af0-4607-9f21-114970f8630d | OLMESARTAN MEDOXOMIL | 8.6 Hepatic Impairment
+
+Increases in AUC
+
+  0-∞and C
+
+  maxwere observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%. No initial dosage adjustment is recommended for patients with moderate to marked hepatic dysfunction
+
+  [see
+
+   Clinical Pharmacology (12.3)].

@@ -1,0 +1,3 @@
+DailyMed 3eb584dc-f72d-4545-96fa-ab3d47be41ce | Mycophenolate mofetil | 5.10 Local Reactions with Rapid Intravenous Administration
+
+CELLCEPT® Intravenous (mycophenolate mofetil) for injection must not be administered by rapid or bolus intravenous injection as rapid infusion increases the risk of local adverse reactions such as phlebitis and thrombosis [see Adverse Reactions (6.1)].

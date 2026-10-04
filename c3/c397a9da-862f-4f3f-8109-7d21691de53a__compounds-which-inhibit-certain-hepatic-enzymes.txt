@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Compounds Which Inhibit Certain Hepatic Enzymes
+
+There is a potentially relevant interaction between diazepam and compounds which inhibit certain hepatic enzymes (particularly cytochrome P450 3A and 2C19). Data indicate that these compounds influence the pharmacokinetics of diazepam and may lead to increased and prolonged sedation. At present, this reaction is known to occur with cimetidine, ketoconazole, fluvoxamine, fluoxetine, and omeprazole.

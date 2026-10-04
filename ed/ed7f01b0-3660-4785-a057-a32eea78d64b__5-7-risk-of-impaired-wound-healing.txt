@@ -1,0 +1,5 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 5.7 Risk of Impaired Wound Healing
+
+Impaired wound healing can occur in patients who receive drugs that inhibit the VEGF signaling pathway. Therefore, everolimus tablets for oral suspension have the potential to adversely affect wound healing.
+
+                        Withhold everolimus tablets for oral suspension for at least 1 week prior to elective surgery. Do not administer for at least 2 weeks following major surgery and until adequate wound healing. The safety of resumption of treatment upon resolution of wound healing complications has not been established.

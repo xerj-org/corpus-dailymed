@@ -1,0 +1,11 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 2.5 Clinical Responses and Dose Titrations
+
+Changes in vital signs indicating a stress response to surgical stimulation or the emergence from anesthesia may be controlled by the administration of 25 mg (2.5 mL) to 50 mg (5 mL) incremental boluses and/or by increasing the infusion rate of propofol injectable emulsion.
+
+                        For minor surgical procedures (e.g., body surface) nitrous oxide (60% to 70%) can be combined with a variable rate propofol injectable emulsion infusion to provide satisfactory anesthesia. With more stimulating surgical procedures (e.g., intra- abdominal), or if supplementation with nitrous oxide is not provided, administration rate(s) of propofol injectable emulsion and/or opioids should be increased in order to provide adequate anesthesia.
+
+                        Infusion rates should always be titrated downward in the absence of clinical signs of light anesthesia in order to avoid administration of propofol injectable emulsion at rates higher than are clinically necessary. Generally, rates of 50 mcg/kg/min to 100 mcg/kg/min in adults should be achieved during maintenance in order to optimize recovery times.
+
+                        Other drugs that cause CNS depression (hypnotics/sedatives, inhalational anesthetics, and opioids) can increase CNS depression induced by propofol. Morphine premedication (0.15 mg/kg) with nitrous oxide 67% in oxygen has been shown to decrease the necessary propofol injection maintenance infusion rate and therapeutic blood concentrations when compared to non-narcotic (lorazepam) premedication.
+
+                        Propofol blood concentrations at steady state are generally proportional to infusion rates, especially in individual patients. Undesirable effects such as cardiorespiratory depression are likely to occur at higher blood concentrations which result from bolus dosing or rapid increases in the infusion rate. An adequate interval (3 minutes to 5 minutes) must be allowed between dose adjustments to allow for and assess the clinical effects.

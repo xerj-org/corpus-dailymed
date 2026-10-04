@@ -1,0 +1,7 @@
+DailyMed 2f73a4db-2c7f-4e42-a914-87aedc2780fb | Ticagrelor | 8.7 Renal Impairment
+
+No dosage adjustment is needed in patients with renal impairment [see Clinical Pharmacology (12.3)].
+
+                              Patients with End-Stage Renal Disease on dialysis
+
+                        Clinical efficacy and safety studies with ticagrelor tablets did not enroll patients with end-stage renal disease (ESRD) on dialysis. In patients with ESRD maintained on intermittent hemodialysis, no clinically significant difference in concentrations of ticagrelor and its metabolite and platelet inhibition are expected compared to those observed in patients with normal renal function [see Clinical Pharmacology (12.3)]. It is not known whether these concentrations will lead to similar efficacy and safety in patients with ESRD on dialysis as were seen in PLATO, PEGASUS, THEMIS and THALES.

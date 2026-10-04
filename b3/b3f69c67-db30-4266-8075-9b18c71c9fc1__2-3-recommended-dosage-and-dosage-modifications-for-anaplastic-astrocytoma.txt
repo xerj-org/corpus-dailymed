@@ -1,0 +1,27 @@
+DailyMed b3f69c67-db30-4266-8075-9b18c71c9fc1 | Temozolomide | 2.3 Recommended Dosage and Dosage Modifications for Anaplastic Astrocytoma
+
+Adjuvant Treatment of Newly Diagnosed Anaplastic Astrocytoma
+
+                        Beginning 4 weeks after the end of radiotherapy, administer Temozolomide orally in a single dose on days 1 to 5 of a 28-day cycle for 12 cycles. The recommended dosage of Temozolomide is:
+
+           • Cycle 1: 150 mg/m2 per day on days 1 to 5.
+
+           • Cycles 2 to 12: 200 mg/m2 per day on days 1 to 5 if patient experienced no or minimal toxicity in Cycle 1. If the dose was not escalated             at the onset of Cycle 2, do not increase the dose during Cycles 3 to 6.
+
+                        The recommended complete blood count testing and dosage modifications due to adverse reactions during adjuvant treatment are provided above and in Table 2 [see
+
+  Dosage and Administration (2.2)].
+
+                           Refractory Anaplastic Astrocytoma
+
+  The recommended initial dosage of Temozolomide is 150 mg/m2 once daily on Days 1 to 5 of each 28-day cycle. Increase the Temozolomide dose to 200 mg/m2 per day if the following conditions are met at the nadir and on Day 1 of the next cycle:
+
+                        • ANC is greater than or equal to 1.5 x 109/L and
+
+  • Platelet count is greater than or equal to 100 x 109/L.
+
+                        Continue Temozolomide until disease progression or unacceptable toxicity.
+
+                        Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1.5 x 109/L and the platelet count is above 100 x 109/L. Do not start the next cycle until the ANC and platelet count exceed these levels.
+
+                        If the ANC is less than 1 x 109/L or the platelet count is less than 50 x 109/L during any cycle, reduce the Temozolomide dose for the next cycle by 50 mg/m2 per day. Permanently discontinue Temozolomide in patients who are unable to tolerate a dose of 100 mg/m2 per day.

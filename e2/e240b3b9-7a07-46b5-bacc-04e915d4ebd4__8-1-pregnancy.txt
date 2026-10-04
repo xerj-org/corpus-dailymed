@@ -1,0 +1,13 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 8.1 Pregnancy
+
+Risk Summary
+
+                        Limited available data based on post-marketing case reports with lanreotide injection use in pregnant women are not sufficient to determine a drug-associated risk of adverse developmental outcomes. In animal reproduction studies, decreased embryo/fetal survival was observed in pregnant rats and rabbits at subcutaneous doses 5- and 2-times the maximum recommended human dose (MRHD) of 120 mg, respectively (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        A reproductive study in pregnant rats given 30 mg/kg of lanreotide by subcutaneous injection every 2 weeks (5 times the human dose, based on body surface area comparisons) resulted in decreased embryo/fetal survival. A study in pregnant rabbits given subcutaneous injections of 0.45 mg/kg/day (2 times the human therapeutic exposures at the maximum recommended dose of 120 mg, based on comparisons of relative body surface area) shows decreased fetal survival and increased fetal skeletal/soft tissue abnormalities.

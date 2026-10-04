@@ -1,0 +1,177 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 14.2 Long-Term Maintenance of Healing of Erosive or Ulcerative GERD in Adults
+
+The long-term maintenance of healing in patients with erosive or ulcerative GERD previously healed with gastric antisecretory therapy was assessed in two U.S., multicenter, randomized, double-blind, placebo-controlled studies of identical design of 52 weeks duration. The two studies randomized 209 and 285 patients, respectively, to receive either 10 mg or 20 mg of rabeprazole sodium delayed-release tablets once daily or placebo. As demonstrated in Tables 10 and 11 below, patients treated with rabeprazole sodium delayed-release tablets were significantly superior to placebo in both studies with respect to the maintenance of healing of GERD and the proportions of patients remaining free of heartburn symptoms at 52 weeks. The recommended dosage of rabeprazole sodium delayed-release tablets is 20 mg once daily.
+
+                           Table 9: Percent of Patients in Endoscopic Remission 
+
+                                  |
+
+                                    Rabeprazole sodium delayed-release tablets
+                                  |
+                                 Placebo |
+
+                                  |
+                                 10 mg once daily |
+                                 20 mg once daily |
+                                  |
+
+                                 Study 1 |
+                                 N=66 |
+                                 N=67 |
+                                 N=70 |
+
+                                 Week 4 |
+                                 83%* |
+                                 96%* |
+                                 44% |
+
+                                 Week 13 |
+                                 79%* |
+                                 93%* |
+                                 39% |
+
+                                 Week 26 |
+                                 77%* |
+                                 93%* |
+                                 31% |
+
+                                 Week 39 |
+                                 76%* |
+                                 91%* |
+                                 30% |
+
+                                 Week 52 |
+                                 73%* |
+                                 90%* |
+                                 29% |
+
+                                 Study 2 |
+                                 N=93 |
+                                 N=93 |
+                                 N=99 |
+
+                                 Week 4 |
+                                 89%* |
+                                 94%* |
+                                 40% |
+
+                                 Week 13 |
+                                 86%* |
+                                 91%* |
+                                 33% |
+
+                                 Week 26 |
+                                 85%* |
+                                 89%* |
+                                 30% |
+
+                                 Week 39 |
+                                 84%* |
+                                 88%* |
+                                 29% |
+
+                                 Week 52 |
+                                 77%* |
+                                 86%* |
+                                 29% |
+
+                                 COMBINED STUDIES |
+                                 N=159 |
+                                 N=160 |
+                                 N=169 |
+
+                                 Week 4 |
+                                 87%* |
+                                 94%* |
+                                 42% |
+
+                                 Week 13 |
+                                 83%* |
+                                 92%* |
+                                 36% |
+
+                                 Week 26 |
+                                 82%*  |
+                                 91%* |
+                                 31% |
+
+                                 Week 39 |
+                                 81%* |
+                                 89%* |
+                                 30% |
+
+                                 Week 52 |
+                                 75%* |
+                                 87%*  |
+                                 29% |
+
+                        *(p<0.001 versus placebo)
+
+                           Table 10: Percent of Patients Without Relapse in Heartburn Frequency and Daytime and Nighttime Heartburn Severity at Week 52
+
+                                  |
+
+                                    Rabeprazole sodium delayed-release tablets
+                                  |
+
+  Placebo
+     |
+
+                                  |
+                                 10 mg once daily |
+                                 20 mg once daily |
+
+                                 Heartburn Frequency |
+                                  |
+                                  |
+                                  |
+
+                                 Study 1 |
+                                 46/55 (84%)* |
+                                 48/52 (92%)* |
+                                 17/45 (38%) |
+
+                                 Study 2 |
+                                 50/72 (69%)* |
+                                 57/72 (79%)* |
+                                 22/79 (28%) |
+
+                                 Daytime Heartburn Severity |
+                                  |
+                                  |
+                                  |
+
+                                 Study 1  |
+                                 61/64 (95%)* |
+                                 60/62 (97%)* |
+                                 42/61 (69%)  |
+
+                                 Study 2 |
+                                 73/84 (87%)
+
+     †
+                                  |
+                                 82/87 (94%)* |
+                                 67/90 (74%) |
+
+                                 Nighttime Heartburn Severity |
+                                  |
+                                  |
+                                  |
+
+                                 Study 1  |
+                                 57/61 (93%)* |
+                                 60/61 (98%)*  |
+                                 37/56 (66%)  |
+
+                                 Study 2 |
+                                 67/80 (84%) |
+                                 79/87 (91%)
+
+     †
+                                  |
+                                 64/87 (74%) |
+
+                        *p≤0.001 versus placebo
+
+                        † 0.001<p<0.05 versus placebo

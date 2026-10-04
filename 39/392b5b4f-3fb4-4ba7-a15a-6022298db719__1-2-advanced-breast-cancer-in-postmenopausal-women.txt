@@ -1,0 +1,5 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 1.2 Advanced Breast Cancer in Postmenopausal Women
+
+Exemestane is indicated for the treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy
+  [see Clinical Studies (
+   14.2)].

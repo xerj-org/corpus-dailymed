@@ -1,0 +1,3 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 1.1 Neuromyelitis Optica Spectrum Disorder (NMOSD)
+
+UPLIZNA is indicated for the treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-aquaporin-4 (AQP4) antibody positive.

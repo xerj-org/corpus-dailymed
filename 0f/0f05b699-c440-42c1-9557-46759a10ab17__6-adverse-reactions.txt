@@ -1,0 +1,11 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+                     Risk of Bleeding [see Warnings and Precautions (5.1)]
+
+                     Increased Exposure in Patients with Hepatic Impairment [see Warnings and Precautions (5.2)]
+
+                     Injection Site Reaction [see Warnings and Precautions (5.3)]
+
+                     Embryo-Fetal Toxicity [see Warnings and Precautions (5.4)]

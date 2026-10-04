@@ -1,0 +1,5 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 5.8 Hypoglycemia in Patients with Diabetes
+
+Hypoglycemia, including severe hypoglycemia, has been reported following initiation of JAK inhibitors in patients with diabetes.
+
+                        During treatment with LEQSELVI, consider increased monitoring of blood glucose in patients with diabetes.  Advise patients with diabetes to contact their healthcare provider(s) if they experience signs or symptoms consistent with hypoglycemia.

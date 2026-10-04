@@ -1,0 +1,5 @@
+DailyMed 64ef2286-0f56-4a8a-b07b-4a597f078ae0 | Oxistat | Pharmacokinetics
+
+The penetration of oxiconazole nitrate into different layers of the skin was assessed using an in vitro permeation technique with human skin. Five hours after application of 2.5 mg/cm2 of oxiconazole nitrate cream onto human skin, the concentration of oxiconazole nitrate was demonstrated to be 16.2 μmol in the epidermis, 3.64 μmol in the upper corium, and 1.29 μmol in the deeper corium. Systemic absorption of oxiconazole nitrate is low. Using radiolabeled drug, less than 0.3% of the applied dose of oxiconazole nitrate was recovered in the urine of volunteer subjects up to 5 days after application of the cream formulation.
+
+                        Neither in vitro nor in vivo studies have been conducted to establish relative activity between the lotion and cream formulations.

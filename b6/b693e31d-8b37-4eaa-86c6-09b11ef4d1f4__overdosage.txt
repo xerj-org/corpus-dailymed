@@ -1,0 +1,9 @@
+DailyMed b693e31d-8b37-4eaa-86c6-09b11ef4d1f4 | LIDOCAINE | OVERDOSAGE
+
+Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics. (see
+                        ADVERSE REACTIONS
+                     ,
+                        WARNINGS
+                     , and
+                        PRECAUTIONS
+                     ).

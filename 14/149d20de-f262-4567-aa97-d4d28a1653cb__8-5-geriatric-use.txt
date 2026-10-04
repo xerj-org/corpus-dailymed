@@ -1,0 +1,13 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 8.5 Geriatric Use
+
+In clinical trials, 3% of patients were over age 60. No age-related differences in effectiveness or adverse effects were evident. However, clinical studies of topiramate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently than younger subjects. Dosage adjustment may be necessary for elderly with age-related renal impairment (creatinine clearance rate < 70 mL/min/1.73 m
+
+  2) resulting in reduced clearance
+
+  [see Dosage and Administration (
+
+   2.5), Clinical Pharmacology (
+
+   12.3)]
+
+  .

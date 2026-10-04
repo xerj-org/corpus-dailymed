@@ -1,0 +1,7 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 5.5 Dyskinesia
+
+Ropinirole tablets may cause or exacerbate pre-existing dyskinesia in patients treated with L-dopa for Parkinson’s disease.
+
+ In double-blind, placebo-controlled trials in advanced Parkinson’s disease, dyskinesia was much more common in patients treated with ropinirole tablets than in those treated with placebo. Among those patients receiving both ropinirole tablets and L-dopa in advanced Parkinson’s disease trials, 34% were reported to experience dyskinesia, compared with 13% of patients treated with placebo [see Adverse Reactions (6.1)].
+
+  Decreasing the dose of  dopaminergic medications  may ameliorate this adverse reaction.

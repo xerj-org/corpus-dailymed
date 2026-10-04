@@ -1,0 +1,5 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Anticoagulants, Oral
+
+Co-administration of corticosteroids and usually results in inhibition of response to warfarin, although there have been some conflicting reports. Therefore, coagulation indices should be monitored frequently to maintain the desired anticoagulant effect.
+
+  warfarin

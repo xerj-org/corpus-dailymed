@@ -1,0 +1,17 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Cardiac Effects including Cardiomyopathy and QT prolongation
+
+Fatal and life-threatening cardiotoxicity, including cardiomyopathy and arrhythmias, have been reported with the use of chloroquine (see
+                              ADVERSE REACTIONS
+                            and
+                              OVERDOSAGE
+                           ). In multiple cases, endomyocardial biopsy showed association of the cardiomyopathy with phospholipidosis in the absence of inflammation, infiltration, or necrosis. Patients may present with ventricular hypertrophy and conduction disorders. ECG findings include atrioventricular, right or left bundle branch block. Chronic toxicity should be considered when conduction disorders (bundle branch block / atrio-ventricular heart block) are diagnosed.
+
+                        QT interval prolongation, torsades de pointes, and ventricular arrhythmias have been reported with the use of chloroquine. The risk is greater if chloroquine is administered at high doses. Chloroquine should be used with caution in patients with cardiac disease, a history of ventricular arrhythmias, uncorrected hypokalemia and/or hypomagnesemia, or bradycardia (˂ 50 bpm), and during concomitant administration with QT interval prolonging agents due to potential for QT interval prolongation (see
+                              WARNINGS
+                           ,
+                              PRECAUTIONS, Drug Interactions, 
+
+                              ADVERSE REACTIONS
+                            and
+                              OVERDOSAGE
+                           ). Monitor for signs and symptoms of cardiotoxicity during chloroquine therapy. Discontinue chloroquine if cardiotoxicity is suspected or demonstrated by tissue biopsy.

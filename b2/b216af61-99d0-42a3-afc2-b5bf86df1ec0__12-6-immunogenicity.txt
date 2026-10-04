@@ -1,0 +1,5 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 12.6 Immunogenicity
+
+As with all therapeutic proteins, there is potential for immunogenicity. Immunogenicity data are highly dependent on the sensitivity and specificity of the test methods used. Additionally, the observed incidence of a positive result in a test method may be influenced by several factors, including sample handling, timing of sample collection, drug interference, concomitant medication, and the underlying disease. Therefore, comparison of the incidence of antibodies to OCREVUS ZUNOVO with the incidence of antibodies to other products may be misleading.
+
+                        In Study 4, no patients tested positive for ocrelizumab anti-drug antibodies (ADAs) or anti-rHuPH20 (hyaluronidase [human recombinant]) antibodies.

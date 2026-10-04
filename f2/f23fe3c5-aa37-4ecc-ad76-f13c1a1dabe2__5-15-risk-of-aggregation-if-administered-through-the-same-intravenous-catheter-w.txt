@@ -1,0 +1,3 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 5.15 Risk of Aggregation if Administered through the Same Intravenous Catheter with Blood or Plasma
+
+Propofol injectable emulsion should not be coadministered through the same intravenous catheter with blood or plasma because compatibility has not been established. In vitro tests have shown that aggregates of the globular component of the emulsion vehicle have occurred with blood/plasma/serum from humans and animals. The clinical significance of these findings is not known.

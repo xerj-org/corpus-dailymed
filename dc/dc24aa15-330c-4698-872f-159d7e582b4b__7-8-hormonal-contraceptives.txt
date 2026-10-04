@@ -1,0 +1,17 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 7.8 Hormonal Contraceptives
+
+In a drug interaction study, mean levonorgestrel AUC was decreased by 15% when coadministered with MMF. Although mycophenolic acid delayed release may not have any influence on the ovulation-suppressing action of oral contraceptives, additional barrier contraceptive methods must be used when mycophenolic acid delayed release is coadministered with hormonal contraceptives (e.g., birth control pill, transdermal patch, vaginal ring, injection, and implant)
+
+  [see Warnings and Precautions (
+
+   5.1), Use in Specific Populations (
+
+   8.3)
+
+  ,
+
+  Clinical Pharmacology (
+
+   12.3)]
+
+  .

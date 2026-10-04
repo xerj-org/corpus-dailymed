@@ -1,0 +1,11 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 5.1 Serious Adverse Reactions or Death from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
+
+Patients with certain homozygous or compound heterozygous variants in the DPYD gene known to result in complete or near complete absence of DPD activity (complete DPD deficiency) are at increased risk for acute early-onset toxicity and serious, including fatal adverse reactions due to FAVLYXA (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity). Patients with partial DPD activity (partial DPD deficiency) may also have increased risk of serious or fatal adverse reactions.
+
+                        Prior to initiating FAVLYXA, test patients for genetic variants of the DPYD gene unless immediate treatment is necessary [see Clinical Pharmacology (12.5)]. Serious adverse reactions may still occur even if no DPYD variants are identified.
+
+                        Avoid use of FAVLYXA in patients with certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency.
+
+                        Withhold or permanently discontinue FAVLYXA based on clinical assessment of the onset, duration, and severity of adverse events in patients with evidence of acute early-onset or unusually severe reactions. No fluorouracil dose has been proven safe for patients with complete DPD deficiency. For patients with partial DPD deficiency, individualize the dosage and modify based on tolerability and intent of treatment.
+
+                        An FDA-authorized test for the detection of genetic variants of the DPYD gene to identify patients at risk of serious adverse reactions with FAVLYXA treatment is not currently available. Currently available tests used to identify DPYD variants may vary in accuracy and design (e.g., which DPYD variant(s) they identify).

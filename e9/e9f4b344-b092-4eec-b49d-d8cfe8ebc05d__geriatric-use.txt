@@ -1,0 +1,5 @@
+DailyMed e9f4b344-b092-4eec-b49d-d8cfe8ebc05d | pentobarbital sodium | Geriatric use
+
+Clinical studies of Pentobarbital Sodium have not included sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+
+                        Elderly patients may react to barbiturates with marked excitement, depression, and confusion. In some persons, barbiturates repeatedly produce excitement rather than depression. Dosage should be reduced in the elderly because these patients may be more sensitive to barbiturates.

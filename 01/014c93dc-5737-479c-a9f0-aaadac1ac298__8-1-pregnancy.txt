@@ -1,0 +1,15 @@
+DailyMed 014c93dc-5737-479c-a9f0-aaadac1ac298 | Tyrvaya | 8.1 Pregnancy
+
+Risk Summary
+
+                        There are no available data on TYRVAYA use in pregnant women to inform any drug associated risks. In animal reproduction studies, varenicline did not produce malformations at clinically relevant doses.
+
+                        All pregnancies have a risk of birth defect, loss, or other adverse outcomes. In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Pregnant rats and rabbits received varenicline succinate during organogenesis at oral doses up to 15 and 30 mg/kg/day, respectively. While no fetal structural abnormalities occurred in either species, maternal toxicity, characterized by reduced body weight gain, and reduced fetal weights occurred in rabbits at the highest dose (4864 times the MRHD on a mg/m2 basis).
+
+                        In a pre- and postnatal development study, pregnant rats received up to 15 mg/kg/day of oral varenicline succinate from organogenesis through lactation. Maternal toxicity, characterized by a decrease in body weight gain, was observed at 15 mg/kg/day (1216 times the MRHD on a mg/m2 basis). Decreased fertility and increased auditory startle response occurred in offspring at the highest maternal dose of 15 mg/kg/day.

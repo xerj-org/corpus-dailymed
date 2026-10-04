@@ -1,0 +1,65 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 2.4 Dosage Modification for QT Interval Prolongation
+
+See Table 2 for dose adjustments for QT interval prolongation [see Warnings and Precautions
+
+                              (5.2
+
+                           ), Clinical Pharmacology (
+
+                              12.2
+
+                           )].
+
+                         
+
+                           Table 2: Dosage Adjustments for Adult Patients With QT Prolongation
+
+                                     Degree of QTc prolongation
+
+                                  |
+
+                                     Dosage adjustment
+
+                                  |
+
+                                    ECGs with a QTc greater than 480 msec
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                  |
+
+                                       Withhold Nilotinib Capsules, and perform an analysis of serum potassium and magnesium, and if below lower limit of normal, correct with supplements to within normal limits. Concomitant medication usage must be reviewed.
+
+                                       Resume within 2 weeks at prior dose if QTcF returns to less than 450 msec and to within 20 msec of baseline.
+
+                                       If QTcF is between 450 msec and 480 msec after 2 weeks, reduce the dose to 400 mg once daily in adults.
+
+                                       Discontinue Nilotinib Capsules if, following dose-reduction to 400 mg once daily in adults, QTcF returns to greater than 480 msec.
+
+                                       An ECG should be repeated approximately 7 days after any dose adjustment.
+
+                                  |
+
+                                    Abbreviation: ECG, electrocardiogram.
+
+                                  |
+
+                         
+
+                           Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Tasigna
+                           ®
+                            (nilotinib) capsules. However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

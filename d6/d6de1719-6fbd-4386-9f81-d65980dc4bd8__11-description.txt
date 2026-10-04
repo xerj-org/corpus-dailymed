@@ -1,0 +1,9 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 11 DESCRIPTION
+
+Rivaroxaban, USP a factor Xa (FXa) inhibitor, is the active ingredient in rivaroxaban tablets, USP with the chemical name 5-Chloro-N-({(5S)-2-oxo-3-[4-(3-oxo-4-morpholinyl)phenyl]-1,3-oxazolidin-5-yl}methyl)-2-thiophenecarboxamide. The molecular formula of rivaroxaban, USP is C19H18ClN3O5S and the molecular weight is 435.89. The structural formula is:
+
+                  Rivaroxaban, USP is a pure (S)-enantiomer. It is an odorless, non-hygroscopic, white to yellowish powder. Rivaroxaban, USP is sparingly soluble in dimethyl formamide and practically insoluble in water.
+
+                  Each rivaroxaban tablet, USP contains 2.5 mg of rivaroxaban, USP. The inactive ingredients of rivaroxaban tablets, USP are: croscarmellose sodium, hydroxy propyl methyl cellulose, magnesium stearate, microcrystalline cellulose (PH 101), microcrystalline cellulose (PH 102), lactose monohydrate, sodium lauryl sulphate. Additionally, the proprietary film coating mixture used for rivaroxaban tablets, USP 2.5 mg is Opadry Yellow containing hypromellose, titanium dioxide, polyethylene glycol 3350, iron oxide yellow.
+
+                  FDA-approved dissolution test specifications differ from USP.

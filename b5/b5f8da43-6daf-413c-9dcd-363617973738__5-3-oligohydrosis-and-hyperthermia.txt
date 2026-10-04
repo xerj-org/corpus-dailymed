@@ -1,0 +1,5 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 5.3 Oligohydrosis and Hyperthermia
+
+Oligohydrosis (decreased sweating), infrequently resulting in hospitalization in some cases, has been reported in association with topiramate use. Decreased sweating and an elevation in body temperature above normal characterized these cases. Some of the cases were reported after exposure to elevated environmental temperatures.
+
+                        The majority of the reports have been in pediatric patients. Patients (especially pediatric patients) treated with topiramate extended-release capsules should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather. Caution should be used when topiramate extended-release capsules are prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.

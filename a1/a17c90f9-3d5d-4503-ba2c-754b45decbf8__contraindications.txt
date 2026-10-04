@@ -1,0 +1,5 @@
+DailyMed a17c90f9-3d5d-4503-ba2c-754b45decbf8 | Perphenazine | CONTRAINDICATIONS
+
+Perphenazine products are contraindicated in comatose or greatly obtunded patients and in patients receiving large doses of central nervous system depressants (barbiturates, alcohol, narcotics, analgesics, or antihistamines); in the presence of existing blood dyscrasias, bone marrow depression, or liver damage; and in patients who have shown hypersensitivity to perphenazine products, their components, or related compounds.
+
+                  Perphenazine products are also contraindicated in patients with suspected or established subcortical brain damage, with or without hypothalamic damage, since a hyperthermic reaction with temperatures in excess of 104°F may occur in such patients, sometimes not until 14 to 16 hours after drug administration. Total body ice-packing is recommended for such a reaction; antipyretics may also be useful.

@@ -1,0 +1,477 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 14.6 Atorvastatin for Prevention of Cardiovascular Disease
+
+In the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT), the effect of atorvastatin on fatal and non-fatal coronary heart disease was assessed in 10,305 patients with hypertension, 40-80 years of age (mean of 63 years; 19% female; 95% White, 3% Black or African American, 1% South Asian, 1% other), without a previous myocardial infarction and with total cholesterol (TC) levels ≤ 251 mg/dL. Additionally, all patients had at least 3 of the following cardiovascular risk factors: male gender (81%), age > 55 years (85%), smoking (33%), diabetes (24%), history of CHD in a first-degree relative (26%), TC:HDL > 6 (14%), peripheral vascular disease (5%), left ventricular hypertrophy (14%), prior cerebrovascular event (10%), specific ECG abnormality (14%), proteinuria/albuminuria (62%). In this double-blind, placebo-controlled trial, patients were treated with antihypertensive therapy (goal BP < 140/90 mm Hg for patients without diabetes; < 130/80 mm Hg for patients with diabetes) and allocated to either atorvastatin 10 mg daily (n=5168) or placebo (n=5137), using a covariate adaptive method which took into account the distribution of nine baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups. Patients were followed for a median duration of 3.3 years.
+
+                        The effect of 10 mg/day of atorvastatin on lipid levels was similar to that seen in previous clinical trials.
+
+                        Atorvastatin significantly reduced the rate of coronary events [either fatal coronary heart disease (46 events in the placebo group vs. 40 events in the atorvastatin group) or non-fatal MI (108 events in the placebo group vs. 60 events in the atorvastatin group)] with a relative risk reduction of 36% [(based on incidences of 1.9% for atorvastatin vs. 3.0% for placebo), p=0.0005 (see Figure 3)]. The risk reduction was consistent regardless of age, smoking status, obesity, or presence of renal dysfunction. The effect of atorvastatin was seen regardless of baseline LDL levels.
+
+                           Figure 3. Effect of Atorvastatin 10 mg/day on Cumulative Incidence of Non-Fatal Myocardial Infarction or Coronary Heart Disease Death (in ASCOT-LLA)
+
+                        Atorvastatin also significantly decreased the relative risk for revascularization procedures by 42% (incidences of 1.4% for atorvastatin and 2.5% for placebo). Although the reduction of fatal and non-fatal strokes did not reach a pre-defined significance level (p=0.01), a favorable trend was observed with a 26% relative risk reduction (incidences of 1.7% for atorvastatin and 2.3% for placebo). There was no significant difference between the treatment groups for death due to cardiovascular causes (p=0.51) or noncardiovascular causes (p=0.17).
+
+                        In the Collaborative Atorvastatin Diabetes Study (CARDS), the effect of atorvastatin on cardiovascular disease (CVD) endpoints was assessed in 2838 subjects (94% White, 2% Black or African American, 2% South Asian, 1% other, 68% male), ages 40–75 with type 2 diabetes based on WHO criteria, without prior history of cardiovascular disease and with LDL ≤ 160 mg/dL and triglycerides (TG) ≤ 600 mg/dL. In addition to diabetes, subjects had 1 or more of the following risk factors: current smoking (23%), hypertension (80%), retinopathy (30%), or microalbuminuria (9%) or macroalbuminuria (3%). No subjects on hemodialysis were enrolled in the trial. In this multicenter, placebo-controlled, double-blind clinical trial, subjects were randomly allocated to either atorvastatin 10 mg daily (1429) or placebo (1411) in a 1:1 ratio and were followed for a median duration of 3.9 years. The primary endpoint was the occurrence of any of the major cardiovascular events: myocardial infarction, acute CHD death, unstable angina, coronary revascularization, or stroke. The primary analysis was the time to first occurrence of the primary endpoint.
+
+                        Baseline characteristics of subjects were: mean age of 62 years; mean HbA1c 7.7%; median LDL-C 120 mg/dL; median TC 207 mg/dL; median TG 151 mg/dL; median HDL-C 52 mg/dL.
+
+                        The effect of atorvastatin 10 mg/day on lipid levels was similar to that seen in previous clinical trials.
+
+                        Atorvastatin significantly reduced the rate of major cardiovascular events (primary endpoint events) (83 events in the atorvastatin group vs. 127 events in the placebo group) with a relative risk reduction of 37%, HR 0.63, 95% CI (0.48, 0.83) (p=0.001) (see Figure 4). An effect of atorvastatin was seen regardless of age, sex, or baseline lipid levels.
+
+                        Atorvastatin significantly reduced the risk of stroke by 48% (21 events in the atorvastatin group vs. 39 events in the placebo group), HR 0.52, 95% CI (0.31, 0.89) (p=0.016) and reduced the risk of MI by 42% (38 events in the atorvastatin group vs. 64 events in the placebo group), HR 0.58, 95.1% CI (0.39, 0.86) (p=0.007). There was no significant difference between the treatment groups for angina, revascularization procedures, and acute CHD death.
+
+                        There were 61 deaths in the atorvastatin group vs. 82 deaths in the placebo group (HR 0.73, p=0.059).
+
+                           Figure 4. Effect of Atorvastatin 10 mg/day on Time to Occurrence of Major Cardiovascular Event (myocardial infarction, acute CHD death, unstable angina, coronary revascularization, or stroke) in CARDS
+
+                        In the Treating to New Targets Study (TNT), the effect of atorvastatin 80 mg/day vs. atorvastatin 10 mg/day on the reduction in cardiovascular events was assessed in 10,001 subjects (94% White, 81% male, 38% ≥ 65 years) with clinically evident coronary heart disease who had achieved a target LDL-C level < 130 mg/dL after completing an 8-week, open-label, run-in period with atorvastatin 10 mg/day. Subjects were randomly assigned to either 10 mg/day or 80 mg/day of atorvastatin and followed for a median duration of 4.9 years. The primary endpoint was the time to first occurrence of any of the following major cardiovascular events (MCVE): death due to CHD, non-fatal myocardial infarction, resuscitated cardiac arrest, and fatal and non-fatal stroke. The mean LDL-C, TC, TG, non-HDL, and HDL cholesterol ‎ levels at 12 weeks were 73, 145, 128, 98, and 47 mg/dL during treatment with 80 mg of atorvastatin and 99, 177, 152, 129, and 48 mg/dL during treatment with 10 mg of atorvastatin.
+
+                        Treatment with atorvastatin 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 5 and Table 9).
+
+                        The overall risk reduction was consistent regardless of age (< 65, ≥ 65) or sex.
+
+                           Figure 5. Effect of Atorvastatin 80 mg/day vs. 10 mg/day on Time to Occurrence of Major Cardiovascular Events (TNT)
+
+                           Table 9. Overview of Efficacy Results in TNT
+
+                                       Endpoint
+
+                                  |
+
+                                       Atorvastatin
+
+                                       10 mg
+
+                                       (N=5006)
+
+                                  |
+
+                                       Atorvastatin
+
+                                       80 mg
+
+                                       (N=4995)
+
+                                  |
+
+                                       HR
+                                       Atorvastatin 80 mg: atorvastatin 10 mg
+
+                                        (95% CI)
+
+                                  |
+
+                                       PRIMARY ENDPOINT
+
+                                  |
+
+                                    n
+
+                                  |
+
+                                    (%)
+
+                                  |
+
+                                    n
+
+                                  |
+
+                                    (%)
+
+                                  |
+                                  |
+
+                                    First major cardiovascular endpoint
+
+                                  |
+
+                                    548
+
+                                  |
+
+                                    (10.9)
+
+                                  |
+
+                                    434
+
+                                  |
+
+                                    (8.7)
+
+                                  |
+
+                                    0.78 (0.69, 0.89)
+
+                                  |
+
+                                       Components of the Primary Endpoint
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                    CHD death
+
+                                  |
+
+                                    127
+
+                                  |
+
+                                    (2.5)
+
+                                  |
+
+                                    101
+
+                                  |
+
+                                    (2.0)
+
+                                  |
+
+                                    0.80 (0.61, 1.03)
+
+                                  |
+
+                                    Non-fatal, non-procedure related MI
+
+                                  |
+
+                                    308
+
+                                  |
+
+                                    (6.2)
+
+                                  |
+
+                                    243
+
+                                  |
+
+                                    (4.9)
+
+                                  |
+
+                                    0.78 (0.66, 0.93)
+
+                                  |
+
+                                    Resuscitated cardiac arrest
+
+                                  |
+
+                                    26
+
+                                  |
+
+                                    (0.5)
+
+                                  |
+
+                                    25
+
+                                  |
+
+                                    (0.5)
+
+                                  |
+
+                                    0.96 (0.56, 1.67)
+
+                                  |
+
+                                    Stroke (fatal and non-fatal)
+
+                                  |
+
+                                    155
+
+                                  |
+
+                                    (3.1)
+
+                                  |
+
+                                    117
+
+                                  |
+
+                                    (2.3)
+
+                                  |
+
+                                    0.75 (0.59, 0.96)
+
+                                  |
+
+                                       SECONDARY ENDPOINTS
+                                       Secondary endpoints not included in primary endpoint. HR=hazard ratio; CHD=coronary heart disease; CI=confidence interval; MI=myocardial infarction; CHF=congestive heart failure; CV=cardiovascular; PVD=peripheral vascular disease; CABG=coronary artery bypass graft
+
+Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons.
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                    First CHF with hospitalization
+
+                                  |
+
+                                    164
+
+                                  |
+
+                                    (3.3)
+
+                                  |
+
+                                    122
+
+                                  |
+
+                                    (2.4)
+
+                                  |
+
+                                    0.74 (0.59, 0.94)
+
+                                  |
+
+                                    First PVD endpoint
+
+                                  |
+
+                                    282
+
+                                  |
+
+                                    (5.6)
+
+                                  |
+
+                                    275
+
+                                  |
+
+                                    (5.5)
+
+                                  |
+
+                                    0.97 (0.83, 1.15)
+
+                                  |
+
+                                    First CABG or other coronary revascularization procedureComponent of other secondary endpoints
+
+                                  |
+
+                                    904
+
+                                  |
+
+                                    (18.1)
+
+                                  |
+
+                                    667
+
+                                  |
+
+                                    (13.4)
+
+                                  |
+
+                                    0.72 (0.65, 0.80)
+
+                                  |
+
+                                    First documented angina endpoint
+
+                                  |
+
+                                    615
+
+                                  |
+
+                                    (12.3)
+
+                                  |
+
+                                    545
+
+                                  |
+
+                                    (10.9)
+
+                                  |
+
+                                    0.88 (0.79, 0.99)
+
+                                  |
+
+                                    All-cause mortality
+
+                                  |
+
+                                    282
+
+                                  |
+
+                                    (5.6)
+
+                                  |
+
+                                    284
+
+                                  |
+
+                                    (5.7)
+
+                                  |
+
+                                    1.01 (0.85, 1.19)
+
+                                  |
+
+                                       Components of All-Cause Mortality
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                    Cardiovascular death
+
+                                  |
+
+                                    155
+
+                                  |
+
+                                    (3.1)
+
+                                  |
+
+                                    126
+
+                                  |
+
+                                    (2.5)
+
+                                  |
+
+                                    0.81 (0.64, 1.03)
+
+                                  |
+
+                                    Noncardiovascular death
+
+                                  |
+
+                                    127
+
+                                  |
+
+                                    (2.5)
+
+                                  |
+
+                                    158
+
+                                  |
+
+                                    (3.2)
+
+                                  |
+
+                                    1.25 (0.99, 1.57)
+
+                                  |
+
+                                    Cancer death
+
+                                  |
+
+                                    75
+
+                                  |
+
+                                    (1.5)
+
+                                  |
+
+                                    85
+
+                                  |
+
+                                    (1.7)
+
+                                  |
+
+                                    1.13 (0.83, 1.55)
+
+                                  |
+
+                                    Other non-CV death
+
+                                  |
+
+                                    43
+
+                                  |
+
+                                    (0.9)
+
+                                  |
+
+                                    58
+
+                                  |
+
+                                    (1.2)
+
+                                  |
+
+                                    1.35 (0.91, 2.00)
+
+                                  |
+
+                                    Suicide, homicide, and other traumatic non-CV death
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    (0.2)
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    (0.3)
+
+                                  |
+
+                                    1.67 (0.73, 3.82)
+
+                                  |
+
+                        Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 9). Of the predefined secondary endpoints, treatment with atorvastatin 80 mg/day significantly reduced the rate of coronary revascularization, angina, and hospitalization for heart failure, but not peripheral vascular disease. The reduction in the rate of CHF with hospitalization was only observed in the 8% of patients with a prior history of CHF.
+
+                        There was no significant difference between the treatment groups for all-cause mortality (Table 9). The proportions of subjects who experienced cardiovascular death, including the components of CHD death and fatal stroke, were numerically smaller in the atorvastatin 80 mg group than in the atorvastatin 10 mg treatment group. The proportions of subjects who experienced noncardiovascular death were numerically larger in the atorvastatin 80 mg group than in the atorvastatin 10 mg treatment group.

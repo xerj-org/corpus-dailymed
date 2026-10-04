@@ -1,0 +1,11 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 5.7 Peripheral Edema
+
+Pregabalin treatment may cause peripheral edema. In short-term trials of patients without clinically significant heart or peripheral vascular disease, there was no apparent association between peripheral edema and cardiovascular complications such as hypertension or congestive heart failure. Peripheral edema was not associated with laboratory changes suggestive of deterioration in renal or hepatic function.
+
+  In controlled clinical trials in adult patients, the incidence of peripheral edema was 6% in the pregabalin group compared with 2% in the placebo group. In controlled clinical trials, 0.5% of pregabalin patients and 0.2% placebo patients withdrew due to peripheral edema.
+
+  Higher frequencies of weight gain and peripheral edema were observed in patients taking both pregabalin and a thiazolidinedione antidiabetic agent compared to patients taking either drug alone. The majority of patients using thiazolidinedione antidiabetic agents in the overall safety database were participants in studies of pain associated with diabetic peripheral neuropathy. In this population, peripheral edema was reported in 3% (2/60) of patients who were using thiazolidinedione antidiabetic agents only, 8% (69/859) of patients who were treated with pregabalin only, and 19% (23/120) of patients who were on both pregabalin and thiazolidinedione antidiabetic agents. Similarly, weight gain was reported in 0% (0/60) of patients on thiazolidinediones only; 4% (35/859) of patients on pregabalin only; and 7.5% (9/120) of patients on both drugs.
+
+  As the thiazolidinedione class of antidiabetic drugs can cause weight gain and/or fluid retention, possibly exacerbating or leading to heart failure, exercise caution when co-administering pregabalin and these agents.
+
+  Because there are limited data on congestive heart failure patients with New York Heart Association (NYHA) Class III or IV cardiac status, exercise caution when using pregabalin in these patients.

@@ -1,0 +1,13 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 14.1 Major Depressive Disorder
+
+The efficacy of sertraline hydrochloride as a treatment for MDD was established in two randomized, double-blind, placebo-controlled studies and one double-blind, randomized-withdrawal study following an open label study in adult (ages 18 to 65) outpatients who met the Diagnostic and Statistical Manual of Mental Disorders (DSM-III) criteria for MDD (studies MDD-1 and MDD-2).
+
+                           Study MDD-1 was an 8-week, 3-arm study with flexible dosing of      sertraline hydrochloride, amitriptyline, and placebo. Adult patients      received sertraline hydrochloride (N=126, in a daily dose titrated weekly      to 50 mg, 100 mg, or 200 mg), amitriptyline (N=123, in a daily dose      titrated weekly to 50 mg, 100 mg, or 150 mg), or placebo (N= 130).
+
+                           Study MDD-2 was a 6-week, multicenter parallel study of three fixed      doses of sertraline hydrochloride administered once daily at 50 mg (N=82),      100 mg (N=75), and 200 mg (N=56) doses and placebo (N=76) in the treatment      of adult outpatients with MDD.
+
+                        Overall, these studies demonstrated sertraline hydrochloride to be superior to placebo on the Hamilton Rating Scale for Depression (HAMD-17) and the Clinical Global Impression Severity (CGI-S) of Illness and Global Improvement (CGI-I) scores. Study MDD-2 was not readily interpretable regarding a dose response relationship for effectiveness.
+
+                        A third study (Study MDD-3) involved adult outpatients meeting the DSM-III criteria for MDD who had responded by the end of an initial 8-week open treatment phase on sertraline hydrochloride 50 to 200 mg/day. These patients (n=295) were randomized to continuation on double-blind sertraline hydrochloride 50 to 200 mg/day or placebo for 44 weeks. A statistically significantly lower relapse rate was observed for patients taking sertraline hydrochloride compared to those on placebo: sertraline hydrochloride [n=11 (8%)] and placebo [n=31 (39%)]. The mean sertraline hydrochloride dose for completers was 70 mg/day.
+
+                        Analyses for gender effects on outcome did not suggest any differential responsiveness on the basis of sex.

@@ -1,0 +1,3 @@
+DailyMed c8d012c4-f411-4484-a618-7597599ea621 | Azithromycin monohydrate | 7.3 Potential Drug-Drug Interaction with Macrolides
+
+Interactions with digoxin, colchicine or phenytoin have not been reported in clinical trials with azithromycin. No specific drug interaction studies have been performed to evaluate potential drug-drug interaction. However, drug interactions have been observed with other macrolide products. Until further data are developed regarding drug interactions when digoxin, colchicine or phenytoin are used with azithromycin careful monitoring of patients is advised.

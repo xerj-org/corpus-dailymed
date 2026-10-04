@@ -1,0 +1,109 @@
+DailyMed bc99e6af-7050-4653-a681-5b252305a970 | Diclofenac SodiumDelayed Release | Absorption
+
+Diclofenac is 100% absorbed after oral administration compared to IV administration as measured by urine recovery. However, due to first-pass metabolism, only about 50% of the absorbed dose is systemically available (see     Table 1). Food has no significant effect on the extent of diclofenac absorption. However, there is usually a delay in the onset of absorption of 1 to 4.5 hours and a reduction in peak plasma levels of <20%.
+
+                                 Table 1. Pharmacokinetic Parameters for Diclofenac
+
+                                             PK Parameter
+
+                                        |
+
+                                             Normal Healthy Adults (20-48 years)
+
+                                        |
+
+                                             Mean
+
+                                        |
+
+                                             Coefficient of Mean Variation (%)
+
+                                        |
+
+                                          Absolute
+
+  Bioavailability (%)
+
+  [N = 7]
+
+                                        |
+
+                                          55
+
+                                        |
+
+                                          40
+
+                                        |
+
+                                          T           max(hr) [N = 56]
+
+                                        |
+
+                                          2.3
+
+                                        |
+
+                                          69
+
+                                        |
+
+                                          Oral Clearance (CL/F;
+
+  mL/min) [N = 56]
+
+                                        |
+
+                                          582
+
+                                        |
+
+                                          23
+
+                                        |
+
+                                          Renal Clearance
+
+  (% unchanged drug in
+
+  urine) [N = 7]
+
+                                        |
+
+                                          <1
+
+                                        |
+
+                                          —
+
+                                        |
+
+                                          Apparent Volume of
+
+  Distribution (V/F; L/kg)
+
+  [N = 56]
+
+                                        |
+
+                                          1.4
+
+                                        |
+
+                                          58
+
+                                        |
+
+                                          Terminal Half-life (hr)
+
+  [N = 56]
+
+                                        |
+
+                                          2.3
+
+                                        |
+
+                                          48
+
+                                        |

@@ -1,0 +1,5 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 2.7 Adult Patients With ASM
+
+Determine D816V c-Kit mutation status prior to initiating treatment.
+
+                        The recommended dose of imatinib mesylate tablets are 400 mg/day for adult patients with ASM without the D816V c-Kit mutation. If c-Kit mutational status is not known or unavailable, treatment with imatinib mesylate tablets 400 mg/day may be considered for patients with ASM not responding satisfactorily to other therapies. For patients with ASM associated with eosinophilia, a clonal hematological disease related to the fusion kinase FIP1L1-PDGFRα, a starting dose of 100 mg/day is recommended. Dose increase from 100 mg to 400 mg for these patients may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.

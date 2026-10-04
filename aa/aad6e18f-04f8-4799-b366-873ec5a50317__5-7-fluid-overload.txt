@@ -1,0 +1,5 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 5.7 Fluid Overload
+
+Depending on the administered volume and the infusion rate, administration of Lactated Ringer’s Injection can cause fluid overload, including pulmonary edema.
+
+                        Avoid Lactated Ringer’s Injection in patients at risk for fluid and/or solute overload including patients with severe renal impairment. If use cannot be avoided in these patients, monitor fluid balance, electrolyte concentrations and acid base balance, especially during prolonged use.

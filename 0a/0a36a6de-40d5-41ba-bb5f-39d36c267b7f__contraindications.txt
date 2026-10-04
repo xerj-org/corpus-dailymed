@@ -1,0 +1,3 @@
+DailyMed 0a36a6de-40d5-41ba-bb5f-39d36c267b7f | Lidocaine hydrochloride | CONTRAINDICATIONS
+
+Lidocaine is contraindicated in patients with a known history of hypersensitivity to local anesthetics of the amide type, or to other components of the solution.

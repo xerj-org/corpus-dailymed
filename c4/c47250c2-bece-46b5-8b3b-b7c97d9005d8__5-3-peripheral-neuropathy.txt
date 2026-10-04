@@ -1,0 +1,5 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.3 Peripheral Neuropathy
+
+Fluoroquinolones, including ciprofloxican, have been associated with an increased risk of peripheral neuropathy. Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in parenthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including ciprofloxican. Symptoms may occur soon after initiation of ciprofloxican and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
+
+                        Discontinue ciprofloxican immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness, or other alterations in sensations including light touch, pain, temperature, position sense and vibratory sensation, and/or motor strength in order to minimize the development of an irreversible condition. Avoid fluoroquinolones, including ciprofloxacin, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6.1, 6.2)].

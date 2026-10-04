@@ -1,0 +1,5 @@
+DailyMed 7836ee53-902b-4a3e-9523-6d4311cfba0e | Atenolol | Cardiac Failure
+
+Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure, and beta-blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
+
+                        In patients with acute myocardial infarction, cardiac failure which is not promptly and effectively controlled by 80 mg of intravenous furosemide or equivalent therapy is a contraindication to beta-blocker treatment.

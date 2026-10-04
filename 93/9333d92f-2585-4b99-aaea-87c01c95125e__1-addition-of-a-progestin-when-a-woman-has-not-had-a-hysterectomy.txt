@@ -1,0 +1,5 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | 1. Addition of a progestin when a woman has not had a hysterectomy
+
+Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone. Endometrial hyperplasia may be a precursor to endometrial cancer.
+
+                              There are, however, possible risks which may be associated with the use of progestins with estrogens compared to estrogen-alone regimens. These include a possible increased risk of breast cancer.

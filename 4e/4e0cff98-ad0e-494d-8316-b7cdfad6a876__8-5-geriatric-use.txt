@@ -1,0 +1,15 @@
+DailyMed 4e0cff98-ad0e-494d-8316-b7cdfad6a876 | Bupivacaine Hydrochloride | 8.5 Geriatric Use
+
+Patients 65 years and over, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing anesthesia with bupivacaine hydrochloride.
+
+                        In clinical studies of bupivacaine, elderly patients reached the maximal spread of analgesia and maximal motor blockade more rapidly than younger adult patients.
+
+                        Differences in various pharmacokinetic parameters have been observed between elderly and younger adult patients [
+
+  see Clinical Pharmacology (
+
+   12.3)
+
+  ].
+
+                        This product is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function. Elderly patients may require lower doses of bupivacaine hydrochloride.

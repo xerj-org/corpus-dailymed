@@ -1,0 +1,47 @@
+DailyMed 3eb584dc-f72d-4545-96fa-ab3d47be41ce | Mycophenolate mofetil | 14.3 Liver Transplantation
+
+A double-blind, randomized, comparative, parallel-group, multicenter study in primary hepatic transplant recipients was performed at centers in the United States (16), in Canada (2), in Europe (4) and in Australia (1). The total number of patients enrolled was 565. Per protocol, patients received mycophenolate mofetil 1 g twice daily intravenously for up to 14 days followed by mycophenolate mofetil 1.5 g twice daily orally or AZA 1 to 2 mg/kg/day intravenously followed by AZA 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral®) and corticosteroids as maintenance immunosuppressive therapy. The actual median oral dose of AZA on study was 1.5 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) initially and 1.26 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) at 12 months. The two primary endpoints were: (1) the proportion of patients who experienced, in the first 6 months post-transplantation, one or more episodes of biopsy-proven and treated rejection or death or re-transplantation, and (2) the proportion of patients who experienced graft loss (death or re-transplantation) during the first 12 months post-transplantation. Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection and for the occurrence of graft loss (death or re-transplantation) for 1 year.
+
+                        In combination with corticosteroids and cyclosporine, mycophenolate mofetil demonstrated a lower rate of acute rejection at 6 months and a similar rate of death or re-transplantation at 1 year compared to AZA (Table 16).
+
+                           Table 16 De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
+
+                                  
+
+                                  |
+
+                                    AZA
+
+                                    N = 287
+
+                                  |
+
+                                    Mycophenolate Mofetil
+
+                                    N = 278
+
+                                  |
+
+                                 Biopsy-proven, treated rejection at 6 months (includes death or re-transplantation)
+
+ 
+
+                                  |
+                                 137 (47.7%)
+
+                                  |
+                                 107 (38.5%)
+
+                                  |
+
+                                 Death or re-transplantation at 1 year
+
+ 
+
+                                  |
+                                 42 (14.6%)
+
+                                  |
+                                 41 (14.7%)
+
+                                  |

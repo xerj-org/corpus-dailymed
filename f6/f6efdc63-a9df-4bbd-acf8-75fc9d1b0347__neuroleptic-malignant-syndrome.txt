@@ -1,0 +1,5 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | Neuroleptic Malignant Syndrome
+
+Rare occurrences of neuroleptic malignant syndrome (NMS) have been reported. This potentially fatal syndrome is comprised of the symptom complex of hyperthermia, muscular rigidity, altered consciousness, and autonomic instability (see
+                              WARNINGS
+                           ).

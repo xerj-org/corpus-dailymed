@@ -1,0 +1,7 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.11 Renal Impairment
+
+Sugammadex Injection is not recommended for use in patients with severe renal impairment, including those requiring dialysis
+
+  [see Use in Specific Populations (8.6)]. With regard to the recommended waiting time for re-administration in patients with mild or moderate renal impairment, see
+
+  Waiting Times for Re-Administration of Neuromuscular Blocking Agents for Intubation Following Reversal with Sugammadex Injection [see Warnings and Precautions (5.5)].

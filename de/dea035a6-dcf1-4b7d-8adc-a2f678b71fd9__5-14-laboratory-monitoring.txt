@@ -1,0 +1,6 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 5.14 Laboratory Monitoring
+
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)
+                           ].
+
+                        In controlled clinical trials, elevated BUN occurred more frequently in patients receiving celecoxib compared with patients on placebo. This laboratory abnormality was also seen in patients who received comparator NSAIDs in these studies. The clinical significance of this abnormality has not been established.

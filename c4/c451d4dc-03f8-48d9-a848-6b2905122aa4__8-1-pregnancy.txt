@@ -1,0 +1,19 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.1 Pregnancy
+
+Risk Summary
+
+                        There are no clinical trial data on Sugammadex Injection use in pregnant women to inform any drug-associated risks. The available data from the pharmacovigilance safety database and published literature on Sugammadex Injection use in pregnant women are insufficient to identify a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. In animal reproduction studies, there was no evidence of malformations following daily intravenous administration of sugammadex to rats and rabbits during organogenesis at exposures of up to 6 and 8 times, respectively, the maximum recommended human dose (MRHD) of 16 mg/kg. However, there was an increase in the incidence of incomplete ossification of the sternebra and reduced fetal body weights in the rabbit study at 8 times the MRHD, which is a dose level in which maternal toxicity was also observed. In a pre- and postnatal development study, sugammadex treatment resulted in an increase in early postnatal loss, which correlated with maternal behavior (increased incidence of pup cannibalism), at exposures equivalent to the MRHD and higher
+
+  (see Data). The background risk of major birth defects and miscarriage for the indicated population are unknown. However, the background risk in the U.S. general population of major birth defects is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies.
+
+                           Data
+
+                           Animal Data
+
+                        In an embryofetal development study in rats, pregnant animals received daily intravenous administration of sugammadex at 0, 20, 100, and 500 mg/kg (0.2, 1, and 6 times the MRHD of 16 mg/kg/day, respectively, based on AUC comparison) during organogenesis (Gestational Days 6-17). No treatment- related maternal and embryofetal changes were observed.
+
+                        In another embryofetal development study, pregnant New Zealand white rabbits received daily intravenous administration of sugammadex at 0, 20, 65, 200 mg/kg (0.6, 2, and 8 times the MRHD, respectively, based on AUC comparison) during organogenesis (Gestational Days 6-18). Fetal body weight decreases (10 and 14%, respectively) were observed in the offspring at maternal doses of 65 mg/kg and 200 mg/kg. In addition, incomplete ossification of sternebra, and unossified 1st metacarpal were noted at a maternal dose of 200 mg/kg/day. Maternal toxicity was also observed at 200 mg/kg. Considering the observed effects of sugammadex on bone
+
+  [see Nonclinical Toxicology (13.2)], it is possible that these findings may be attributable to drug. There was no evidence of malformations at any dose.
+
+                        In a prenatal and postnatal development study, pregnant rats were administered sugammadex intravenously at 0, 30, 120, and 500 mg/kg (0.3, 1, and 6 times the MRHD, respectively, based on AUC comparison) from Gestational Day (GD) 6 to Postnatal Day (PND) 21 (corresponding to the beginning of organogenesis through parturition and subsequent pup weaning). Postnatal loss during PND 1-4 was noted across control litters and treated litters from dams receiving sugammadex as a result of pup cannibalization by dams. Overall incidence of affected litters was 2, 1, 4, and 3 litters, respectively, at 0, 30, 120, or 500 mg/kg/day. The reason for the increased cannibalization is not known. An effect of sugammadex on steroidal hormones and/or pheromones cannot be ruled out. In addition, there were no drug-related effects on parturition in rats during evaluations for prenatal or postnatal development.

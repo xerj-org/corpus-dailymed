@@ -1,0 +1,24 @@
+DailyMed a17c90f9-3d5d-4503-ba2c-754b45decbf8 | Perphenazine | WARNINGS
+
+Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+
+                     Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Perphenazine is not approved for the treatment of patients with dementia-related psychosis (see
+   BOXED WARNING).
+
+                  Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs. Older patients are at increased risk for development of tardive dyskinesia. Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome. Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
+
+                  Both the risk of developing the syndrome and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase. However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
+
+                  There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn. Antipsychotic treatment itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome, and thereby may possibly mask the underlying disease process. The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
+
+                  Given these considerations, especially in the elderly, antipsychotics should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia. Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that 1) is known to respond to antipsychotic drugs, and 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate. In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought. The need for continued treatment should be reassessed periodically.
+
+                  If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered. However, some patients may require treatment despite the presence of the syndrome.
+
+                  (For further information about the description of tardive dyskinesia and its clinical detection, please refer to
+
+                        Information for Patients
+                      and
+
+                        ADVERSE REACTIONS
+                     ).

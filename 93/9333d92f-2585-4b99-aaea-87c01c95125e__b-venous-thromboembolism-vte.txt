@@ -1,0 +1,7 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | b. Venous thromboembolism (VTE)
+
+In the Women’s Health Initiative (WHI) study, an increase in VTE has been observed in women receiving CE compared to placebo. These observations are preliminary, and the study is continuing (See CLINICAL PHARMACOLOGY, Clinical Studies).
+
+                              In the CE/MPA substudy of WHI, a 2-fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo. The rate of VTE was 34 per 10,000 women-years in the CE/MPA group compared to 16 per 10,000 women-years in the placebo group. The increase in VTE risk was observed during the first year and persisted.
+
+                              If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.

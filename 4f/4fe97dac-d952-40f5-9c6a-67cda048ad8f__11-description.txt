@@ -1,0 +1,107 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 11 DESCRIPTION
+
+GAMUNEX-C FlexBag is a ready-to-use sterile, non-pyrogenic solution of human immune globulin protein for intravenous administration. GAMUNEX-C FlexBag is clear to opalescent, and colorless to pale yellow. GAMUNEX-C FlexBag consists of 9%–11% protein in 0.16–0.24 M glycine. Not less than 98% of the protein has the electrophoretic mobility of gamma globulin. The main component of GAMUNEX-C FlexBag is IgG (≥ 98%) with a sub-class distribution of IgG1, IgG2, IgG3 and IgG4 of approximately 62.8%, 29.7%, 4.8% and 2.7% respectively. The distribution of IgG subclasses is similar to that found in normal serum.
+
+                  GAMUNEX-C FlexBag contains trace levels of fragments, IgA (average 0.046 mg/mL), and IgM. GAMUNEX-C FlexBag doses of 1 g/kg correspond to a glycine dose of 0.15 g/kg. While toxic effects of glycine administration have been reported, the doses and rates of administration were 3–4 fold greater than those for GAMUNEX-C FlexBag. In another study it was demonstrated that intravenous bolus doses of 0.44 g/kg glycine were not associated with serious adverse effects. Caprylate is a saturated medium-chain (C8) fatty acid of plant origin. Medium chain fatty acids are considered to be essentially non-toxic. Human subjects receiving medium chain fatty acids parenterally have tolerated doses of 3.0 to 9.0 g/kg/day for periods of several months without adverse effects. Residual caprylate concentrations in the final container are no more than 0.216 g/L (1.3 mmol/L). The measured buffer capacity is 35 mEq/L (0.35 mEq/g protein) and the osmolality is approximately 258 mOsmol/kg solvent, which is close to physiological osmolality (285-295 mOsmol/kg). A dose of 1 g/kg body weight therefore represents an acid load of 0.35 mEq/kg body weight. The total buffering capacity of whole blood in a normal individual is 45–50 mEq/L of blood, or 3.6 mEq/kg body weight. Thus, the acid load delivered with a dose of 1 g/kg of GAMUNEX-C FlexBag would be neutralized by the buffering capacity of whole blood alone, even if the dose was infused instantaneously. The pH of GAMUNEX-C FlexBag is 4.0–4.5. GAMUNEX-C FlexBag contains no preservative. GAMUNEX-C FlexBag is not made with natural rubber latex.
+
+                  GAMUNEX-C FlexBag  is made from large pools of human plasma by a combination of cold ethanol fractionation, caprylate precipitation and filtration, and anion-exchange chromatography. Isotonicity is achieved by the addition of glycine. GAMUNEX-C FlexBag  is incubated in the final container (at the low pH of 4.0–4.3). The product is intended for intravenous administration.
+
+                  The capacity of the manufacturing process to remove and/or inactivate enveloped and non-enveloped viruses has been validated by laboratory spiking studies on a scaled down process model, using the following enveloped and non-enveloped viruses: human immunodeficiency virus, type I (HIV-1) as the relevant virus for HIV-1 and HIV–2; bovine viral diarrhea virus (BVDV) as a model for hepatitis C virus; pseudorabies virus (PRV) as a model for large enveloped DNA viruses (e.g., herpes viruses); Reovirus type 3 (Reo) as a model for non-enveloped viruses and for its resistance to physical and chemical inactivation; hepatitis A virus (HAV) as relevant non-enveloped virus, and porcine parvovirus (PPV) as a model for human parvovirus B19.
+
+                  Overall virus reduction was calculated only from steps that were mechanistically independent from each other and truly additive. In addition, each step was verified to provide robust virus reduction across the production range for key operating parameters.
+
+                     Table 6: Log10 Virus Reduction
+
+                           Process Step |
+                           Log10 Virus  Reduction |
+
+                           Enveloped Viruses |
+                           Non-enveloped Viruses |
+
+                           HIV |
+                           PRV |
+                           BVDV |
+                           Reo |
+                           HAV |
+                           PPV |
+
+                           Caprylate  Precipitation/Depth Filtration |
+                           C/IC/I - Interference by caprylate precluded determination of virus reduction for this step. Although removal of viruses is likely to occur at the caprylate precipitation/depth filtration step, BVDV is the only enveloped virus for which reduction is claimed. The presence of caprylate prevents detection of other, less resistant enveloped viruses and therefore their removal cannot be assessed.
+
+                            |
+                           C/I
+                            |
+                           2.7 |
+                           ≥ 3.5 |
+                           ≥ 3.6 |
+                           4.0 |
+
+                           Caprylate  Incubation |
+                           ≥ 4.5 |
+                           ≥ 4.6 |
+                           ≥ 4.5 |
+                           NANA - Not Applicable: This step has no effect on non-enveloped viruses.
+
+                            |
+                           NA
+                            |
+                           NA
+                            |
+
+                           Depth  FiltrationSome mechanistic overlap occurs between depth filtration and other steps. Therefore, Grifols Therapeutics LLC has chosen to exclude this step from the global virus reduction calculations.
+
+                            |
+                           CAPCAP - The presence of caprylate in the process at this step prevents detection of enveloped viruses, and their removal cannot be assessed.
+
+                            |
+                           CAP
+                            |
+                           CAP
+                            |
+                           ≥ 4.3 |
+                           ≥ 2.0 |
+                           3.3 |
+
+                           Column  Chromatography |
+                           ≥ 3.0 |
+                           ≥ 3.3 |
+                           4.0 |
+                           ≥ 4.0 |
+                           ≥ 1.4 |
+                           4.2 |
+
+                           Nanofiltration |
+                           ≥ 3.7 |
+                           M/IM/I - Interference by the process intermediate matrix precluded determination of virus removal capacity for this step.
+
+                            |
+                           ≥ 4.1 |
+                           ≥ 1.8 |
+                           M/I
+                            |
+                           < 1.0 |
+
+                           Low  pH Incubation |
+                           ≥ 6.5 |
+                           ≥ 4.3 |
+                           ≥ 5.1 |
+                           NA
+                            |
+                           NA
+                            |
+                           NA
+                            |
+
+                           Global  ReductionSum of reduction factors greater than or equal to 1 log10.
+
+                            |
+                           ≥ 17.7 |
+                           ≥ 12.2 |
+                           ≥ 20.4 |
+                           ≥ 9.3 |
+                           ≥ 5.0 |
+                           8.2 |
+
+                  Additionally, the manufacturing process was investigated for its capacity to decrease the infectivity of an experimental agent of transmissible spongiform encephalopathy (TSE), considered as a model for the vCJD and CJD agents.
+
+                  Several of the individual production steps in the GAMUNEX-C FlexBag  manufacturing process have been shown to decrease TSE infectivity of that experimental model agent. TSE reduction steps include two depth filtrations (in sequence, a total of ≥ 6.6 log10).  These studies provide reasonable assurance that low levels of CJD/vCJD agent infectivity, if present in the starting material, would be removed.

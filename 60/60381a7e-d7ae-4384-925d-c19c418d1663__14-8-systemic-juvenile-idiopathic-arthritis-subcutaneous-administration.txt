@@ -1,0 +1,7 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 14.8 Systemic Juvenile Idiopathic Arthritis – Subcutaneous Administration
+
+Subcutaneously administered tocilizumab in pediatric patients with systemic juvenile idiopathic arthritis (SJIA) was assessed in WA28118 (NCT01904292), a 52-week, open-label, multicenter, PK-PD and safety study to determine the appropriate subcutaneous dose of tocilizumab that achieved comparable PK/PD profiles to the tocilizumab-IV regimen.
+
+                        Eligible patients received tocilizumab subcutaneously dosed according to body weight, with patients weighing at or above 30 kg (n = 26) dosed with 162 mg of tocilizumab every week and patients weighing below 30 kg (n = 25) dosed with 162 mg of tocilizumab every 10 days (n=8) or every 2 weeks (n=17) for 52 weeks. Of these 51 patients, 26 (51%) were naive to subcutaneous tocilizumab and 25 (49%) had been receiving tocilizumab intravenously and switched to subcutaneous tocilizumab at baseline.
+
+                        The efficacy of subcutaneous tocilizumab in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous tocilizumab in systemic JIA patients [see Clinical Pharmacology (12.3) and Clinical Studies (14.7)].

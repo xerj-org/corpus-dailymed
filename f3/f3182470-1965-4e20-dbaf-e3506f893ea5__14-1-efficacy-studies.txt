@@ -1,0 +1,387 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 14.1 Efficacy Studies
+
+The data demonstrating the efficacy of ROTARIX in preventing rotavirus gastroenteritis come from 24,163 infants randomized in two placebo-controlled studies conducted in 17 countries in Europe and Latin America (Studies 5 and 8). In these studies, oral polio vaccine (OPV) was not coadministered; however, other routine childhood vaccines could be concomitantly administered. Breastfeeding was permitted in both studies.
+
+                        A randomized, double-blind, placebo-controlled study was conducted in 6 European countries (Study 5). A total of 3,994 infants were enrolled to receive ROTARIX (n = 2,646) or placebo (n = 1,348). Vaccine or placebo was given to healthy infants as a 2-dose series with the first dose administered orally from 6 through 14 weeks of age followed by one additional dose administered at least 4 weeks after the first dose. The 2-dose series was completed by 24 weeks of age. For both vaccination groups, 98.3% of infants were White and 53% were male.
+
+                        The clinical case definition of rotavirus gastroenteritis was an episode of diarrhea (passage of 3 or more loose or watery stools within a day), with or without vomiting, where rotavirus was identified in a stool sample. Severity of gastroenteritis was determined by a clinical scoring system, the Vesikari scale, assessing the duration and intensity of diarrhea and vomiting, the intensity of fever, use of rehydration therapy, or hospitalization for each episode. Scores range from 0 to 20, where higher scores indicate greater severity. An episode of gastroenteritis with a score of 11 or greater was considered severe.6
+
+                        The primary efficacy endpoint was prevention of any grade of severity of rotavirus gastroenteritis caused by naturally occurring rotavirus from 2 weeks after the second dose through one rotavirus season (according to protocol, ATP). Other efficacy evaluations included prevention of severe rotavirus gastroenteritis, as defined by the Vesikari scale, and reductions in hospitalizations due to rotavirus gastroenteritis and all-cause gastroenteritis regardless of presumed etiology. Analyses were also done to evaluate the efficacy of ROTARIX against rotavirus gastroenteritis among infants who received at least one vaccination (total vaccinated cohort, TVC).
+
+                        Efficacy of ROTARIX against any grade of severity of rotavirus gastroenteritis through one rotavirus season was 87.1% (95% CI: 79.6, 92.1); TVC efficacy was 87.3% (95% CI: 80.3, 92.0). Efficacy against severe rotavirus gastroenteritis through one rotavirus season was 95.8% (95% CI: 89.6, 98.7); TVC efficacy was 96.0% (95% CI: 90.2, 98.8) (Table 5). The protective effect of ROTARIX against any grade of severity of rotavirus gastroenteritis observed immediately following Dose 1 administration and prior to Dose 2 was 89.8% (95% CI: 8.9, 99.8).
+
+                        Efficacy of ROTARIX in reducing hospitalizations for rotavirus gastroenteritis through one rotavirus season was 100% (95% CI: 81.8, 100); TVC efficacy was 100% (95% CI: 81.7, 100) (Table 5). ROTARIX reduced hospitalizations for all-cause gastroenteritis regardless of presumed etiology by 74.7% (95% CI: 45.5, 88.9).
+
+                           Table 5. Efficacy Evaluation of ROTARIX through One Rotavirus Season
+
+                                 RV GE = Rotavirus gastroenteritis; CI = Confidence Interval.
+
+                                    a ATP analysis includes all infants in the efficacy cohort who received two doses of vaccine according to randomization.
+
+                                    b TVC analysis includes all infants in the efficacy cohort who received at least one dose of vaccine or placebo.
+
+                                    c Severe gastroenteritis defined as ≥11 on the Vesikari scale.
+
+                                    d Statistically significant versus placebo (P <0.001). |
+
+                                       Infants in Cohort
+
+                                  |
+
+                                       According to Protocol
+                                       a
+
+                                  |
+
+                                       Total Vaccinated Cohort
+                                       b
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       n = 2,572
+
+                                  |
+
+                                       n = 1,302
+
+                                  |
+
+                                       n = 2,646
+
+                                  |
+
+                                       n = 1,348
+
+                                  |
+
+                                       Gastroenteritis cases
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                         Any severity
+
+                                  |
+
+                                    24
+
+                                  |
+
+                                    94
+
+                                  |
+
+                                    26
+
+                                  |
+
+                                    104
+
+                                  |
+
+                                         Severec
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    60
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    64
+
+                                  |
+
+                                       Efficacy estimate against RV GE
+
+                                  |
+                                  |
+                                  |
+
+                                         Any severity
+
+                                  |
+
+                                    87.1%d
+
+                                  |
+
+                                    87.3%d
+
+                                  |
+
+                                              (95% CI)
+
+                                  |
+
+                                    (79.6, 92.1)
+
+                                  |
+
+                                    (80.3, 92.0)
+
+                                  |
+
+                                         Severec
+
+                                  |
+
+                                    95.8%d
+
+                                  |
+
+                                    96.0%d
+
+                                  |
+
+                                              (95% CI)
+
+                                  |
+
+                                    (89.6, 98.7)
+
+                                  |
+
+                                    (90.2, 98.8)
+
+                                  |
+
+                                       Cases of hospitalization due to RV GE
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                       Efficacy in reducing hospitalizations due to RV GE
+
+                                  |
+
+                                    100%d
+
+                                  |
+
+                                    100%d
+
+                                  |
+
+                                              (95% CI)
+
+                                  |
+
+                                    (81.8, 100)
+
+                                  |
+
+                                    (81.7, 100)
+
+                                  |
+
+                        A randomized, double-blind, placebo-controlled study was conducted in 11 countries in Latin America and Finland (Study 8). A total of 63,225 infants received ROTARIX (n = 31,673) or placebo (n = 31,552). An efficacy subset of these infants consisting of 20,169 infants from Latin America received ROTARIX (n = 10,159) or placebo (n = 10,010). Vaccine or placebo was given to healthy infants as a 2-dose series with the first dose administered orally from 6 through 13 weeks of age followed by one additional dose administered at least 4 weeks after the first dose. The 2−dose series was completed by 24 weeks of age. For both vaccination groups, the racial distribution of the efficacy subset was as follows: Hispanic 85.8%, White 7.9%, Black 1.1%, and other 5.2%; 51% were male.
+
+                        The clinical case definition of severe rotavirus gastroenteritis was an episode of diarrhea (passage of 3 or more loose or watery stools within a day), with or without vomiting, where rotavirus was identified in a stool sample, requiring hospitalization and/or rehydration therapy equivalent to World Health Organization (WHO) plan B (oral rehydration therapy) or plan C (intravenous rehydration therapy) in a medical facility.
+
+                        The primary efficacy endpoint was prevention of severe rotavirus gastroenteritis caused by naturally occurring rotavirus from 2 weeks after the second dose through one year (ATP). Analyses were done to evaluate the efficacy of ROTARIX against severe rotavirus gastroenteritis among infants who received at least one vaccination (TVC). Reduction in hospitalizations due to rotavirus gastroenteritis was also evaluated (ATP).
+
+                        Efficacy of ROTARIX against severe rotavirus gastroenteritis through one year was 84.7% (95% CI: 71.7, 92.4); TVC efficacy was 81.1% (95% CI: 68.5, 89.3) (Table 6).
+
+                        Efficacy of ROTARIX in reducing hospitalizations for rotavirus gastroenteritis through one year was 85.0% (95% CI: 69.6, 93.5); TVC efficacy was 80.8% (95% CI: 65.7, 90.0) (Table 6).
+
+                           Table 6. Efficacy Evaluation of ROTARIX through One Year
+
+                                 RV GE = Rotavirus gastroenteritis; CI = Confidence Interval.
+
+                                    a ATP analysis includes all infants in the efficacy cohort who received two doses of vaccine according to randomization.
+
+                                    b TVC analysis includes all infants in the efficacy cohort who received at least one dose of vaccine or placebo.
+
+                                    c Statistically significant versus placebo (P <0.001). |
+
+                                       Infants in Cohort
+
+                                  |
+
+                                       According to Protocol
+                                       a
+
+                                  |
+
+                                       Total Vaccinated Cohort
+                                       b
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       n = 9,009
+
+                                  |
+
+                                       n = 8,858
+
+                                  |
+
+                                       n = 10,159
+
+                                  |
+
+                                       n = 10,010
+
+                                  |
+
+                                       Gastroenteritis cases
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                         Severe
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    77
+
+                                  |
+
+                                    18
+
+                                  |
+
+                                    94
+
+                                  |
+
+                                       Efficacy estimate against RV GE
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                         Severe
+
+                                  |
+
+                                    84.7%c
+
+                                  |
+
+                                    81.1%c
+
+                                  |
+
+                                              (95% CI)
+
+                                  |
+
+                                    (71.7, 92.4)
+
+                                  |
+
+                                    (68.5, 89.3)
+
+                                  |
+
+                                       Cases of hospitalization due to RV GE
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    59
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    72
+
+                                  |
+
+                                       Efficacy in reducing hospitalizations due to RV GE
+
+                                  |
+
+                                    85.0%c
+
+                                  |
+
+                                    80.8%c
+
+                                  |
+
+                                              (95% CI)
+
+                                  |
+
+                                    (69.6, 93.5)
+
+                                  |
+
+                                    (65.7, 90.0)
+
+                                  |

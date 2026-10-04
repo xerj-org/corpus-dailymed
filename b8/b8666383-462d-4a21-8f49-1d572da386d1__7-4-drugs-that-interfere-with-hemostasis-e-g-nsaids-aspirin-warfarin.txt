@@ -1,0 +1,9 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDS, Aspirin, Warfarin)
+
+Serotonin release by platelets plays an important role in hemostasis. Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding. Altered anticoagulant effects, including increased bleeding, have been reported when SNRIs or SSRIs are coadministered with warfarin. Patients receiving warfarin therapy should be carefully monitored when fluoxetine is initiated or discontinued
+
+  [see
+
+   Warnings and Precautions (5.7)]
+
+  .

@@ -1,0 +1,3 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 5.3 Interaction with Valproic Acid
+
+Concomitant use of carbapenems, including UTEBZI, with valproic acid or divalproex sodium may reduce the plasma concentrations of valproic acid, potentially increasing the risk of breakthrough seizures. Avoid concomitant use of UTEBZI with valproic acid and divalproex sodium [see Drug Interactions (7.2)].

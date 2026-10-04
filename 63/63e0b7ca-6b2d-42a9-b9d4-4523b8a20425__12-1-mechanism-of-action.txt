@@ -1,0 +1,13 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 12.1 Mechanism of Action
+
+Rabeprazole belongs to a class of antisecretory compounds (substituted benzimidazole proton-pump inhibitors) that do not exhibit anticholinergic or histamine H
+
+  2-receptor antagonist properties, but suppress gastric acid secretion by inhibiting the gastric H
+
+  +, K
+
+  +ATPase at the secretory surface of the gastric parietal cell. Because this enzyme is regarded as the acid (proton) pump within the parietal cell, rabeprazole has been characterized as a gastric proton-pump inhibitor. Rabeprazole blocks the final step of gastric acid secretion.
+
+                        In gastric parietal cells, rabeprazole is protonated, accumulates, and is transformed to an active sulfenamide. When studied
+
+  in vitro, rabeprazole is chemically activated at pH 1.2 with a half-life of 78 seconds. It inhibits acid transport in porcine gastric vesicles with a half-life of 90 seconds.

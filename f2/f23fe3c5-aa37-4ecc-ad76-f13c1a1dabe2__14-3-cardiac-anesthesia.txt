@@ -1,0 +1,5 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 14.3 Cardiac Anesthesia
+
+Propofol injectable emulsion was evaluated in clinical trials involving patients undergoing coronary artery bypass graft (CABG).
+
+                        In post-CABG (coronary artery bypass graft) patients, the maintenance rate of propofol administration was usually low (median 11 mcg/kg/min) due to the intraoperative administration of high opioid doses. Patients receiving propofol injectable emulsion required 35% less nitroprusside than midazolam patients. During initiation of sedation in post-CABG patients, a 15% to 20% decrease in blood pressure was seen in the first 60 minutes. It was not possible to determine cardiovascular effects in patients with severely compromised ventricular function.

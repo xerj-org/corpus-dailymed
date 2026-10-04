@@ -1,0 +1,7 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 14.3 Ph+ CML-CP with the T315I Mutation
+
+The efficacy of SCEMBLIX in the treatment of patients with Ph+ CML-CP with the T315I mutation was evaluated in a multi-center open-label study CABL001X2101 (NCT02081378). Testing for T315I mutation utilized a qualitative p210 BCR::ABL1 mutation test on peripheral blood using Sanger Sequencing.
+
+                        Efficacy was based on 45 patients with Ph+ CML-CP with the T315I mutation who received SCEMBLIX at a dose of 200 mg twice daily. Patients continued treatment until unacceptable toxicity or treatment failure occurred.
+
+                        Of the 45 patients, 80% were male and 20% female; 31% were 65 years or older, while 9% were 75 years or older with a median age of 54 years (range, 26 to 86 years). The patients were White (47%), Asian (27%), and Black or African American (2.2%), and 24% were unreported or unknown. Seventy-three percent and 27% of patients had ECOG performance status 0 and 1, respectively. Patients who had previously received 1, 2, 3, 4, and 5 or more TKIs were 18%, 31%, 36%, 13%, and 2.2%, respectively. MMR was achieved by 24 weeks in 42% (19/45, 95% CI: 28% to 58%) of the 45 patients treated with SCEMBLIX. MMR was achieved by 96 weeks in 49% (22/45, 95% CI: 34% to 64%) of the 45 patients treated with SCEMBLIX. The median duration of treatment was 108 weeks (range, 2 to 215 weeks).

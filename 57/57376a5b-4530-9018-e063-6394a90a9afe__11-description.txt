@@ -1,0 +1,25 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 11 DESCRIPTION
+
+PRIALT contains ziconotide, a synthetic equivalent of a naturally occurring conopeptide found in the piscivorous marine snail,
+
+  Conus magus.Ziconotide is a 25 amino acid, polybasic peptide containing three disulfide bridges with a molecular weight of 2639 daltons and a molecular formula of C
+
+  102H
+
+  172N
+
+  36O
+
+  32S
+
+  7. The amino acid sequence and disulfide bridging pattern are given below:
+
+                  Ziconotide is a hydrophilic molecule that is freely soluble in water and is practically insoluble in methyl t-butyl ether.
+
+                  PRIALT is formulated as a sterile, preservative-free, isotonic solution for intrathecal administration using an appropriate microinfusion device [
+
+  see Dosage and Administration (
+
+   2)
+
+  ]. Each 1 or 5 mL vial of PRIALT (100 mcg/mL) respectively contains 100 or 500 mcg of ziconotide acetate, and the 20 mL vial of PRIALT (25 mcg/mL) contains 500 mcg of ziconotide acetate, with L-methionine and sodium chloride as excipients at pH 4.0–5.0. Each vial is intended for single use only, either undiluted or after dilution to the appropriate concentration with 0.9% Sodium Chloride Injection, USP (preservative free).

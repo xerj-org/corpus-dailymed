@@ -1,0 +1,7 @@
+DailyMed 5f8b3313-0286-499f-9235-02cdc0eb063b | Bupropion Hydrochloride SR | 2.3 Dose Adjustment in Patients with Renal Impairment
+
+Consider reducing the dose and/or frequency of bupropion hydrochloride extended-release tablets (SR) in patients with renal impairment (Glomerular Filtration Rate less than 90 mL/min)
+  [see Use in Specific Populations (
+   8.6), Clinical Pharmacology (
+   12.3)]
+  .

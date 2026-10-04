@@ -1,0 +1,86 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 14.11 Atorvastatin for Heterozygous Familial Hypercholesterolemia in Pediatric Patients
+
+In a double-blind, placebo-controlled trial followed by an open-label phase, 187 males and post-menarchal females 10 years to 17 years of age (mean age 14.1 years; 31% female; 92% White, 1.6% Black or African American, 1.6% Asian, 4.8% other) with HeFH or severe hypercholesterolemia, were randomized to atorvastatin (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin for 26 weeks. Inclusion in the trial required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative. The mean baseline LDL-C value was 219 mg/dL (range: 139-385 mg/dL) in the atorvastatin group compared to 230 mg/dL (range: 160-325 mg/dL) in the placebo group. The dosage of atorvastatin (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL. The number of atorvastatin-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (56%). Atorvastatin significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 14).
+
+                           Table 14. Lipid-Altering Effects of Atorvastatin in Adolescent Males and Females with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change from Baseline at Endpoint in Intention-to-Treat Population)
+
+                                    DOSAGE
+                                  |
+
+                                    N
+                                  |
+
+                                    Total-C
+                                  |
+
+                                    LDL-C
+                                  |
+
+                                    HDL-C
+                                  |
+
+                                    TG
+                                  |
+
+                                    Apo B
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                    47
+
+                                  |
+
+                                    -1.5
+
+                                  |
+
+                                    -0.4
+
+                                  |
+
+                                    -1.9
+
+                                  |
+
+                                    1.0
+
+                                  |
+
+                                    0.7
+
+                                  |
+
+                                       Atorvastatin
+
+                                  |
+
+                                    140
+
+                                  |
+
+                                    -31.4
+
+                                  |
+
+                                    -39.6
+
+                                  |
+
+                                    2.8
+
+                                  |
+
+                                    -12.0
+
+                                  |
+
+                                    -34.0
+
+                                  |
+
+                        The mean achieved LDL-C value was 130.7 mg/dL (range: 70–242 mg/dL) in the atorvastatin group compared to 228.5 mg/dL (range: 152–385 mg/dL) in the placebo group during the 26-week double-blind phase.
+
+                        Atorvastatin was also studied in a three year open-label, uncontrolled trial that included 163 patients with HeFH who were 10 years to 15 years old (82 males and 81 females). All patients had a clinical diagnosis of HeFH confirmed by genetic analysis (if not already confirmed by family history). Approximately 98% were White, and less than 1% were Black, African American or Asian. Mean LDL-C at baseline was 232 mg/dL. The starting atorvastatin dosage was 10 mg once daily and doses were adjusted to achieve a target of <130 mg/dL LDL-C. The reductions in LDL-C from baseline were generally consistent across age groups within the trial as well as with previous clinical trials in both adult and pediatric placebo-controlled trials.

@@ -1,0 +1,21 @@
+DailyMed f6291230-7598-407a-aef0-ec1f09277d2a | celecoxib | 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+  Celecoxib was not carcinogenic in Sprague-Dawley rats given oral doses up to 200 mg/kg for males and 10 mg/kg for females (approximately 2-to 4-times the human exposure as measured by the AUC
+
+  0-24at 200 mg twice daily) or in mice given oral doses up to 25 mg/kg for males and 50 mg/kg for females (approximately equal to human exposure as measured by the AUC
+
+  0-24at 200 mg twice daily) for two years.
+
+                           Mutagenesis
+
+  Celecoxib was not mutagenic in an Ames test and a mutation assay in Chinese hamster ovary (CHO) cells, nor clastogenic in a chromosome aberration assay in CHO cells and an in vivo micronucleus test in rat bone marrow.
+
+                           Impairment of Fertility
+
+  Celecoxib had no effect on male or female fertility or male reproductive function in rats at oral doses up to 600 mg/kg/day (approximately 11-times human exposure at 200 mg twice daily based on the AUC
+
+  0-24). At ≥50 mg/kg/day (approximately 6-times human exposure based on the AUC
+
+  0-24at 200 mg twice daily) there was increased preimplantation loss.

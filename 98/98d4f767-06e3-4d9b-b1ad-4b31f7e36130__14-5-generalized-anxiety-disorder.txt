@@ -1,0 +1,15 @@
+DailyMed 98d4f767-06e3-4d9b-b1ad-4b31f7e36130 | PAROXETINE | 14.5 Generalized Anxiety Disorder
+
+The effectiveness of paroxetine in the treatment of generalized anxiety disorder (GAD) was demonstrated in two 8-week, multicenter, placebo-controlled studies (Studies 1 and 2) of adult outpatients with GAD (DSM-IV).
+
+                        Study 1 was an 8-week study comparing fixed doses of paroxetine 20 mg or 40 mg daily with placebo. Doses of paroxetine 20 mg or 40 mg were both demonstrated to be statistically significantly superior to placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
+
+                        There was not sufficient evidence in this study to suggest a greater benefit for the paroxetine 40 mg daily dose compared to the 20 mg daily dose.
+
+                        Study 2 was a flexible-dose study comparing paroxetine 20 mg to 50 mg daily and placebo. Paroxetine demonstrated statistically significant superiority over placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
+
+                        A third study, a flexible-dose study comparing paroxetine 20 mg to 50 mg daily to placebo, did not demonstrate statistically significant superiority of paroxetine over placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score, the primary outcome.
+
+                        Subgroup analyses did not indicate differences in treatment outcomes as a function of race or gender. There were insufficient elderly patients to conduct subgroup analyses on the basis of age.
+
+                        In a long-term trial, 566 patients meeting DSM-IV criteria for GAD, who had responded during a single-blind, 8-week acute treatment phase with paroxetine 20 mg to 50 mg daily, were randomized to continuation of paroxetine at their same dose, or to placebo, for up to 24 weeks of observation for relapse. Response during the single-blind phase was defined by having a decrease of ≥ 2 points compared to baseline on the CGI-Severity of Illness scale, to a score of ≤ 3. Relapse during the double-blind phase was defined as an increase of ≥ 2 points compared to baseline on the CGI- Severity of Illness scale to a score of ≥ 4, or withdrawal due to lack of efficacy. Patients continuing to receive paroxetine experienced a statistically significantly lower relapse rate over the subsequent 24 weeks compared to those receiving placebo.

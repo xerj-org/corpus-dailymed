@@ -1,0 +1,77 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 14.3 Pharyngitis/Tonsillitis in Pediatric Patients
+
+In three double-blind controlled studies, conducted in the United States, azithromycin (12 mg/kg once a day for 5 days) was compared to penicillin V (250 mg three times a day for 10 days) in the treatment of pharyngitis due to documented Group A β-hemolytic
+
+  streptococci(GABHS or
+
+  S. pyogenes). Azithromycin was clinically and microbiologically statistically superior to penicillin at Day 14 and Day 30 with the following clinical success (i.e., cure and improvement) and bacteriologic efficacy rates (for the combined evaluable patient with documented GABHS):
+
+                                    Table 17. Summary of Three U.S. Studies of Azithromycin vs. Penicillin V and Clinical Success and Bacteriological Efficacy Rates at Days 14 and 30 in evaluable Pediatric Patients with Pharyngitis/Tonsilitis
+
+                                  |
+
+                                  |
+
+                                    Day 14
+
+                                  |
+
+                                    Day 30
+
+                                  |
+
+                                    Bacteriologic Eradication:
+
+                                  |
+                                  |
+                                  |
+
+                                 Azithromycin
+
+                                  |
+                                 323/340 (95%)
+
+                                  |
+                                 255/330 (77%)
+
+                                  |
+
+                                 Penicillin V
+
+                                  |
+                                 242/332 (73%)
+
+                                  |
+                                 206/325 (63%)
+
+                                  |
+
+                                    Clinical Success (cure plus improvement):
+
+                                  |
+                                  |
+                                  |
+
+                                 Azithromycin
+
+                                  |
+                                 336/343 (98%)
+
+                                  |
+                                 310/330 (94%)
+
+                                  |
+
+                                 Penicillin V
+
+                                  |
+                                 284/338 (84%)
+
+                                  |
+                                 241/325 (74%)
+
+                                  |
+
+                        Approximately 1% of azithromycin-susceptible
+
+  S. pyogenesisolates were resistant to azithromycin following therapy.

@@ -1,0 +1,9 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Pharmacodynamic Drug Interaction Studies
+
+Pharmacodynamic drug interaction studies with aspirin, clopidogrel, aspirin and clopidogrel, prasugrel, enoxaparin, and naproxen were conducted. No pharmacodynamic interactions were observed with aspirin, clopidogrel, or prasugrel
+
+  [see
+
+   Warnings and Precautions (5.2)]
+
+  . A 50% to 60% increase in anti-FXa activity was observed when ELIQUIS was coadministered with enoxaparin or naproxen.

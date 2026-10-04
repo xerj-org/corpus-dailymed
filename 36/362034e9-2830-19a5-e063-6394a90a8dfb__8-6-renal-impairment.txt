@@ -1,0 +1,9 @@
+DailyMed 362034e9-2830-19a5-e063-6394a90a8dfb | ANASTROZOLE | 8.6 Renal Impairment
+
+Since only about 10% of anastrozole is excreted unchanged in the urine, the renal impairment does not influence the total body clearance. Dosage adjustment in patients with renal impairment is not necessary
+
+  [see
+
+   Dosage and Administration (2.1)and
+
+   Clinical Pharmacology (12.3)].

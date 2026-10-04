@@ -1,0 +1,9 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 5.7 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+
+The use of morphine sulfate extended-release capsules in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
+
+                           Patients with Chronic Pulmonary Disease: Morphine sulfate extended-release capsules-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of morphine sulfate extended-release capsules [see Warnings and Precautions (5.2)].
+
+                           Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
+
+                        Regularly evaluate patients, particularly when initiating and titrating morphine sulfate extended-release capsules and when morphine sulfate extended-release capsules are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2), Drug Interaction (7)]. Alternatively, consider the use of non-opioid analgesics in these patients.

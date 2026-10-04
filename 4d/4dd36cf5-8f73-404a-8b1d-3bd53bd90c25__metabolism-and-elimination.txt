@@ -1,0 +1,9 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Metabolism and Elimination
+
+Oxycodone
+
+                              In humans, oxycodone is extensively metabolized to noroxycodone by means of CYP3A-mediated N- demethylation, oxymorphone by means of CYP2D6-mediated O-demethylation, and their glucuronides [see PRECAUTIONS; Drug Interactions].
+
+                                 Acetaminophen
+
+                              Acetaminophen is rapidly absorbed from the gastrointestinal tract and is distributed throughout most body tissues. A small fraction (10 to 25%) of acetaminophen is bound to plasma proteins. The plasma half-life is 1.25 to 3 hours, but may be increased by liver damage and following overdosage. Elimination of acetaminophen is principally by liver metabolism (conjugation) and subsequent renal excretion of metabolites. Acetaminophen is primarily metabolized in the liver by first-order kinetics and involves three principal separate pathways: conjugation with glucuronide; conjugation with sulfate; and oxidation via the cytochrome, P450-dependent, mixed-function oxidase enzyme pathway to form a reactive intermediate metabolite, which conjugates with glutathione and is then further metabolized to form cysteine and mercapturic acid conjugates. The principal cytochrome P450 isoenzyme involved appears to be CYP2E1, with CYP1A2 and CYP3A4 as additional pathways. Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug [see OVERDOSAGE] for toxicity information.

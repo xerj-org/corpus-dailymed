@@ -1,0 +1,3 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | CLINICAL PHARMACOLOGY
+
+Haloperidol is an antipsychotic. The mechanism of action of haloperidol for the treatment of schizophrenia is unclear. However, its efficacy could be mediated through its activity as an antagonist at central dopamine type 2 receptors. Haloperidol also binds to alpha-1 adrenergic receptors, but with lower affinity, and displays minimal binding to muscarinic cholinergic and histaminergic (H1) receptors.

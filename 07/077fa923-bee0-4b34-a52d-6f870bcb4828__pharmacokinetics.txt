@@ -1,0 +1,5 @@
+DailyMed 077fa923-bee0-4b34-a52d-6f870bcb4828 | Methocarbamol | Pharmacokinetics
+
+In healthy volunteers, the plasma clearance of methocarbamol ranges between 0.20 and 0.80 L/h/kg, the mean plasma elimination half-life ranges between 1 and 2 hours, and the plasma protein binding ranges between 46% and 50%.
+
+                        Methocarbamol is metabolized via dealkylation and hydroxylation. Conjugation of methocarbamol also is likely. Essentially all methocarbamol metabolites are eliminated in the urine. Small amounts of unchanged methocarbamol also are excreted in the urine.

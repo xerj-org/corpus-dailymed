@@ -1,0 +1,9 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 5.2 Neutropenia
+
+Neutropenia, including febrile neutropenia and fatal neutropenic sepsis, occurred in patients treated with VERZENIO.
+
+                        Across five clinical trials in 3899 patients, neutropenia occurred in 37% to 51% of patients receiving VERZENIO. A Grade ≥3 decrease in neutrophil count (based on laboratory findings) occurred in 19% to 32% of patients receiving VERZENIO. Across trials, the median time to the first episode of Grade ≥3 neutropenia ranged from 29 days to 34 days, and the median duration of Grade ≥3 neutropenia ranged from 10 days to 16 days [see Adverse Reactions (6.1)].
+
+                        Febrile neutropenia has been reported in <1% of patients receiving VERZENIO across trials. Two deaths due to neutropenic sepsis were observed in MONARCH 2. Inform patients to promptly report any episodes of fever to their healthcare provider [see Patient Counseling Information (17)].
+
+                        Monitor complete blood counts prior to the start of VERZENIO therapy, every 2 weeks for the first 2 months, monthly for the next 2 months, and as clinically indicated. Dose interruption, dose reduction, or delay in starting treatment cycles is recommended for patients who develop Grade 3 or 4 neutropenia [see Dosage and Administration (2.2)].

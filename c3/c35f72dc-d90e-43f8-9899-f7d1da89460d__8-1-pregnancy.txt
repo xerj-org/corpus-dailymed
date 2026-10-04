@@ -1,0 +1,15 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to maraviroc tablets during pregnancy. Physicians are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
+
+                           Risk Summary
+
+                        Limited data on the use of maraviroc tablets during pregnancy from the APR and case reports are not sufficient to inform a drug-associated risk of birth defects and miscarriage. In animal reproduction studies, no evidence of adverse developmental outcomes was observed with maraviroc. During organogenesis in the rat and rabbit, systemic exposures (AUC) to maraviroc were approximately 20 times (rats) and 5 times (rabbits) the exposure in humans at the recommended 300-mg twice-daily dose. In the rat pre- and post-natal development study, maternal systemic exposure (AUC) to maraviroc was approximately 14 times the exposure in humans at the recommended 300-mg twice-daily dose (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data: Maraviroc was administered orally to pregnant rats (up to 1,000 mg per kg per day) and rabbits (up to 75 mg per kg per day) on gestation Days 6 to 17 and 7 to 19, respectively. No adverse effects on embryo-fetal development were observed at these dose levels, resulting in exposures (AUC) approximately 20 times (rats) and 5 times (rabbits) higher than human exposures at the recommended daily dose. In the rat pre- and post-natal development study, maraviroc was administered orally at up to 1,000 mg per kg per day on gestation Day 6 to lactation/post-partum Day 20, with development of the offspring (including fertility and reproductive performance) unaffected by maternal administration of maraviroc at an exposure (AUC) approximately 14 times higher than human exposure at the recommended daily dose.

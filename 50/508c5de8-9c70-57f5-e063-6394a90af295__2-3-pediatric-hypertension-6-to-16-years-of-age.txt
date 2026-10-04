@@ -1,0 +1,20 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 2.3 Pediatric Hypertension 6 to 16 Years of Age
+
+The recommended starting dose is 0.65 mg/kg twice daily orally (up to 40 mg total daily dose). The dosage should be adjusted according to blood pressure response and tolerability, up to a maximum dose of 1.35 mg/kg twice daily orally (maximum daily dose 160 mg). Doses higher than 1.35 mg/kg twice daily orally (or >160 mg total daily dose) have not been studied in pediatric patients 6 to 16 years old.
+
+                        No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m
+  2
+                           [see
+   Use in Specific Populations (8.4)
+                           ].
+
+                        Use of PREXXARTAN™ is not recommended for patients under 6 years of age
+  [see
+   Adverse Reactions (6.1)
+                           ,
+
+                              Use in Specific Populations (8.4)
+                           ,
+
+                              Clinical Studies (14.1)
+                           ].

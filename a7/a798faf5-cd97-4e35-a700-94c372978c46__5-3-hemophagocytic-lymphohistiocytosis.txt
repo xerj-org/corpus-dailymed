@@ -1,0 +1,3 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 5.3 Hemophagocytic Lymphohistiocytosis
+
+Cases of hemophagocytic lymphohistiocytosis (HLH) have been reported in pediatric and adult patients treated with piperacillin and tazobactam. Signs and symptoms of HLH may include fever, rash, lymphadenopathy, hepatosplenomegaly and cytopenia. If HLH is suspected, discontinue piperacillin and tazobactam immediately and institute appropriate management.

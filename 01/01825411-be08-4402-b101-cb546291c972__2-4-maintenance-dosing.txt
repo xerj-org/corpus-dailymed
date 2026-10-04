@@ -1,0 +1,3 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 2.4 Maintenance Dosing
+
+Maintenance doses of 0.1, 0.15, and 0.2 mg/kg rocuronium bromide, administered at 25% recovery of control T1 (defined as 3 twitches of train-of-four), provide a median (range) of 12 (2 to 31), 17 (6 to 50) and 24 (7 to 69) minutes of clinical duration under opioid/nitrous oxide/oxygen anesthesia [see Clinical Pharmacology (12.2)]. In all cases, dosing should be guided based on the clinical duration following initial dose or prior maintenance dose and not administered until recovery of neuromuscular function is evident. A clinically insignificant cumulation of effect with repetitive maintenance dosing has been observed [see Clinical Pharmacology (12.2)].

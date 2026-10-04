@@ -1,0 +1,9 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 5.3 Tachycardia and Hypotension
+
+Tachycardia and hypotension (including orthostatic hypotension) have been reported in patients treated with haloperidol [
+
+  see Adverse Reactions(
+
+  6.1)]. Orthostatic vital signs should be monitored in patients who are at risk for hypotension (e.g., geriatric patients, patients with dehydration, hypovolemia and concomitantly treated with antihypertensive medications), patients with known cardiovascular disease (history of myocardial infarction, ischemic heart disease, heart failure or conduction abnormalities) and patients with cerebrovascular disease.
+
+                        Should hypotension occur and a vasopressor be required, epinephrine must not be used since haloperidol decanoate may block its vasopressor activity and paradoxically lower blood pressure. Instead, metaraminol, phenylephrine or norepinephrine should be used.

@@ -1,0 +1,7 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | WARNING
+
+Only physicians experienced in cancer chemotherapy should use Cytarabine Injection.
+
+                  For induction therapy patients should be treated in a facility with laboratory and supportive resources sufficient to monitor drug tolerance and protect and maintain a patient compromised by drug toxicity. The main toxic effect of cytarabine injection is bone marrow suppression with leukopenia, thrombocytopenia and anemia.  Less serious toxicity includes nausea, vomiting, diarrhea and abdominal pain, oral ulceration, and hepatic dysfunction.
+
+                  The physician must judge possible benefit to the patient against known toxic effects of this drug in considering the advisability of therapy with Cytarabine Injection. Before making this judgment or beginning treatment, the physician should be familiar with the following text.

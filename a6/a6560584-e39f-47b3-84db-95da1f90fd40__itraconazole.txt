@@ -1,0 +1,3 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Itraconazole
+
+Co-administration of another extended release formulation of felodipine with itraconazole resulted in approximately 8-fold increase in the AUC, more than 6-fold increase in the Cmax, and 2-fold prolongation in the half-life of felodipine.

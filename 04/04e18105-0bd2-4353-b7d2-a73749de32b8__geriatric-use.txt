@@ -1,0 +1,3 @@
+DailyMed 04e18105-0bd2-4353-b7d2-a73749de32b8 | Glipizide | Geriatric Use:
+
+A determination has not been made whether controlled clinical studies of glipizide included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

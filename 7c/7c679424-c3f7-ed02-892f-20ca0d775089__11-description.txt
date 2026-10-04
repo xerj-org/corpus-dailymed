@@ -1,0 +1,47 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 11 DESCRIPTION
+
+Lumason (sulfur hexafluoride lipid-type A microspheres) for injectable suspension, for intravenous or intravesical use is used to prepare the ultrasound contrast agent. Lumason is supplied in two presentations (single patient use kit or 20-vial pack):
+
+                     The single patient use kit contains the following three items:
+                           one clear glass 10 mL vial containing 25 mg of white lyophilized powder lipid-type A, 60.7 mg of sulfur hexafluoride gas and capped with a blue flip-cap
+
+                           one prefilled syringe containing 5 mL 0.9% Sodium Chloride Injection, USP (Diluent)
+
+Each prefilled syringe with 5 mL of diluent 0.9% Sodium Chloride Injection, USP is sterile, nonpyrogenic, and additive-free containing 9 mg sodium chloride per mL.
+
+                           one Mini-Spike
+
+                     The 20-vial pack is comprised of:
+                           twenty Lumason clear vials, each containing 25 mg of lipid-type A sterile white lyophilized powder with headspace filled with 60.7 mg of sulfur hexafluoride gas
+
+                           twenty Mini-Spikes
+
+                           twenty peel-off syringe labels
+
+                  Each vial is formulated as a 25 mg sterile, pyrogen-free lyophilized powder containing 24.56 mg of polyethylene glycol 4000, 0.19 mg of distearoylphosphatidyl-choline (DSPC), 0.19 mg of dipalmitoylphosphatidylglycerol sodium (DPPG-Na) and 0.04 mg of palmitic acid. The headspace of each vial contains 6.07 mg/mL (± 2 %) sulfur hexafluoride, SF6, or 60.7 mg per vial.
+
+                  Upon reconstitution with 5mL diluent, Lumason is a milky white, homogeneous suspension containing sulfur hexafluoride lipid-type A microspheres. The suspension is isotonic and has a pH of 4.5 to 7.5.
+
+                  The sulfur hexafluoride lipid microspheres are composed of SF6 gas in the core surrounded by an outer shell monolayer of phospholipids consisting DSPC and DPPG-Na with palmitic acid as a stabilizer.
+
+                  Sulfur hexafluoride has a molecular weight of 145.9 and the following chemical structure:
+
+                  1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC), with empirical formula C44H88NO8P, has a molecular weight of 790.6 and the following chemical structure:
+
+                  1,2-Dipalmitoyl-sn-glycero-3-phospho-rac-glycerol sodium (DPPG-Na), with empirical formula C38H74 NaO10P, has a molecular weight of 745 and the following chemical structure:
+
+                  Each milliliter of reconstituted Lumason suspension contains 1.5 to 5.6 x108 microspheres, 68 mcg SF6 (12 mcL), 0.038 mg DSPC, 0.038 mg DPPG-Na, 4.91 mg polyethylene glycol 4000 and 0.008 mg palmitic acid. The sulphur hexafluoride associated with the microspheres suspension is 45 mcg/mL. Fifteen to twenty three percent of the total lipids in the suspension are associated with the microspheres.
+
+                  The sulfur hexafluoride lipid microsphere characteristics are listed in Table 2:
+
+                              Table 2. Microsphere Characteristics
+                            |
+
+                           Mean diameter range |
+                           1.5 – 2.5 μm |
+
+                           Percent of microspheres ≤ 10 µm |
+                           ≥ 99% |
+
+                           Upper size limit |
+                           100.0% ≤ 20 µm |

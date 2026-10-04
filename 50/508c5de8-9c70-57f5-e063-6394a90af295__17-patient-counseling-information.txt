@@ -1,0 +1,21 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 17 PATIENT COUNSELING INFORMATION
+
+Pregnancy: Advise female patients of childbearing age about the consequences of exposure to PREXXATAN
+  TM during pregnancy. Discuss treatment options with women planning to become pregnant. Ask patients to report pregnancies to their healthcare provider as soon as possible
+  [see
+   Warnings and Precautions (5.1),
+   Use in Specific Populations (8.1)].
+
+                     Lactation: Advise women not to breastfeed during treatment with PREXXARTAN™
+   [see
+   Use in Specific Populations (8.2)].
+
+                     Symptomatic Hypotension: Advise patients that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to their healthcare provider. Tell patients that if syncope occurs to discontinue PREXXARTAN™ until the physician has been consulted.
+
+                  Caution all patients that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope
+   [see
+   Warnings and Precautions (5.2)].
+
+                     Hyperkalemia: Advise patients not to use salt substitutes without consulting their healthcare provider
+  [see
+   Drug Interactions (7.1)].

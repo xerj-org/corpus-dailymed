@@ -1,0 +1,15 @@
+DailyMed 4e0cff98-ad0e-494d-8316-b7cdfad6a876 | Bupivacaine Hydrochloride | 12.2 Pharmacodynamics
+
+Systemic absorption of bupivacaine produces effects on the cardiovascular system and CNS. At blood concentrations achieved with normal therapeutic doses, changes in cardiac conduction, excitability, refractoriness, contractility, and peripheral vascular resistance are minimal. However, toxic blood concentrations depress cardiac conduction and excitability, which may lead to atrioventricular block, ventricular arrhythmias, and cardiac arrest, sometimes resulting in fatalities. In addition, myocardial contractility is depressed and peripheral vasodilation occurs, leading to decreased cardiac output and arterial blood pressure. These cardiovascular changes are more likely to occur after unintended intravascular injection of bupivacaine [
+
+  see Warnings and Precautions (
+
+   5.9)
+
+  ].
+
+                        Following systemic absorption, bupivacaine can produce CNS stimulation, CNS depression, or both. Apparent central stimulation is manifested as restlessness, tremors, and shivering, progressing to convulsions, followed by CNS depression and coma progressing ultimately to respiratory arrest. However, bupivacaine has a primary depressant effect on the medulla and on higher centers. The depressed stage may occur without a prior excited state.
+
+                        The duration of local anesthesia after administration of bupivacaine hydrochloride is longer than that observed after administration of other commonly used short-acting local anesthetics. There appears to be a period of analgesia that persists after the resolution of the block and return of sensation. 
+
+                        The onset of action following dental injections is usually 2 to 10 minutes and may last up to 7 hours.

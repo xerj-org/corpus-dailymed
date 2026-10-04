@@ -1,0 +1,9 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+                     Tumor Lysis Syndrome [see Warnings and Precautions (5.1)]
+
+                     Serious Infections [see Warnings and Precautions (5.2)]
+
+                     Neutropenia [see Warnings and Precautions (5.3)]

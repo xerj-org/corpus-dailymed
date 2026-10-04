@@ -1,0 +1,15 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 8.5 Geriatric Use
+
+In the clinical trials of nilotinib (patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP), approximately 12% and 30% of patients were 65 years or over, respectively.
+
+                         
+
+                           Patients with newly diagnosed Ph+ CML-CP: There was no difference in major molecular response between patients aged less than 65 years and those greater than or equal to 65 years.
+
+                           Patients with resistant or intolerant CML-CP: There was no difference in major cytogenetic response rate between patients aged less than 65 years and those greater than or equal to 65 years.
+
+                           Patients with resistant or intolerant CML-AP: The hematologic response rate was 44% in patients less than 65 years of age and 29% in patients greater than or equal to 65 years.
+
+                         
+
+                        No major differences for safety were observed in patients greater than or equal to 65 years of age as compared to patients less than 65 years.

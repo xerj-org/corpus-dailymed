@@ -1,0 +1,107 @@
+DailyMed 55d6aee1-01ca-4791-8404-386664b4ab07 | Olmesartan Medoxomil and Hydrochlorothiazide | 14 CLINICAL STUDIES
+
+Olmesartan medoxomil and hydrochlorothiazide
+
+  In clinical trials 1230 patients were exposed to the combination of olmesartan medoxomil (2.5 mg to 40 mg) and hydrochlorothiazide (12.5 mg to 25 mg). These trials included one placebo-controlled factorial trial in mild-moderate hypertensive patients (n=502) with combinations of olmesartan medoxomil (10 mg, 20 mg, 40 mg, or placebo) and hydrochlorothiazide (12.5 mg, 25 mg, or placebo). The antihypertensive effect of the combination on trough blood pressure was related to the dose of each component (see Table 2).
+
+                  Once-daily dosing with 20 mg olmesartan medoxomil and 12.5 mg hydrochlorothiazide, 40 mg olmesartan medoxomil and 12.5 mg hydrochlorothiazide or 40 mg olmesartan medoxomil and 25 mg hydrochlorothiazide produced mean placebo-adjusted blood pressure reductions at trough (24 hours post-dosing) ranging from 17/8 to 24/14 mmHg.
+
+                     Table 2: Placebo-Adjusted Reductions in Sitting Systolic/Diastolic Blood Pressure (mmHg)
+
+                              HCTZ
+
+                            |
+
+                              Olmesartan Medoxomil
+
+                            |
+
+                              0 mg
+
+                            |
+
+                              10 mg
+
+                            |
+
+                              20 mg
+
+                            |
+
+                              40 mg
+
+                            |
+
+                              0 mg
+
+                            |
+
+                              --
+
+                            |
+
+                              7/5
+
+                            |
+
+                              12/5
+
+                            |
+
+                              13/7
+
+                            |
+
+                              12.5 mg
+
+                            |
+
+                              5/1
+
+                            |
+
+                              17/8
+
+                            |
+
+                              17/8
+
+                            |
+
+                              16/10
+
+                            |
+
+                              25 mg
+
+                            |
+
+                              14/5
+
+                            |
+
+                              19/11
+
+                            |
+
+                              22/11
+
+                            |
+
+                              24/14
+
+                            |
+
+                  The antihypertensive effect had onset within 1 week and was near maximal at 4 weeks. The antihypertensive effect was independent of gender, but there were too few subjects to identify response differences based on race or age greater than or less than 65 years. No appreciable changes in trough heart rate were observed with combination therapy.
+
+                  There are no trials of olmesartan medoxomil and hydrochlorothiazide tablets demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one drug pharmacologically similar to olmesartan medoxomil has demonstrated such benefits, and hydrochlorothiazide demonstrated reduction of cardiovascular risk in patients with hypertension.
+
+                        Olmesartan medoxomil
+
+  The antihypertensive effects of olmesartan medoxomil have been demonstrated in seven placebo-controlled studies at doses ranging from 2.5 to 80 mg for 6 to 12 weeks, each showing statistically significant reductions in peak and trough blood pressure. A total of 2693 patients (2145 olmesartan medoxomil; 548 placebo) with essential hypertension were studied. Olmesartan medoxomil once daily (QD) lowered diastolic and systolic blood pressure. The response was dose-related. An olmesartan medoxomil dose of 20 mg daily produced a trough sitting blood pressure (BP) reduction over placebo of about 10/6 mmHg, and a dose of 40 mg daily produced a trough sitting BP reduction over placebo of about 12/7 mmHg. Olmesartan medoxomil doses greater than 40 mg had little additional effect. The onset of the antihypertensive effect occurred within 1 week and was largely manifest after 2 weeks.
+
+                  The blood pressure lowering effect was maintained throughout the 24-hour period with olmesartan medoxomil once daily, with trough-to-peak ratios for systolic and diastolic response between 60 and 80%.
+
+                  The blood pressure lowering effect of olmesartan medoxomil, with and without hydrochlorothiazide, was maintained in patients treated for up to 1 year. There was no evidence of tachyphylaxis during long-term treatment with olmesartan medoxomil or rebound effect following abrupt withdrawal of olmesartan medoxomil after 1 year of treatment.
+
+                  The antihypertensive effect of olmesartan medoxomil was similar in men and women and in patients older and younger than 65 years. The effect was smaller in black patients (usually a low-renin population), as has been seen with other ACE inhibitors, angiotensin receptor blockers, and beta-blockers. Olmesartan medoxomil had an additional blood pressure lowering effect when added to hydrochlorothiazide.

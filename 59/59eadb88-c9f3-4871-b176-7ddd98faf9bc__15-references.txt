@@ -1,0 +1,11 @@
+DailyMed 59eadb88-c9f3-4871-b176-7ddd98faf9bc | Bijuva | 15 REFERENCES
+
+Manson, J. E., et al Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women's Health Initiative randomized trials. JAMA, 310(13): 1353–1368 (2013). https://doi.org/10.1001/jama.2013.278040
+
+                     Hulley S, Grady D, Bush T, Furberg C, Herrington D, Riggs B, Vittinghoff E. Randomized trial of estrogen plus progestin for secondary prevention of coronary heart disease in postmenopausal women. Heart and Estrogen/progestin Replacement Study (HERS) Research Group. JAMA. 1998 Aug 19;280(7):605-13. doi: 10.1001/jama.280.7.605. PMID: 9718051.
+
+                     Grady D, Herrington D, Bittner V, Blumenthal R, Davidson M, Hlatky M, Hsia J, Hulley S, Herd A, Khan S, Newby LK, Waters D, Vittinghoff E, Wenger N; HERS Research Group. Cardiovascular disease outcomes during 6.8 years of hormone therapy: Heart and Estrogen/progestin Replacement Study followup (HERS II). JAMA. 2002 Jul 3;288(1):49-57. doi: 10.1001/jama.288.1.49. Erratum in: JAMA 2002 Sep 4;288(9):1064. PMID 12090862.
+
+                     Collaborative Group on Hormonal Factors in Breast Cancer. Type and timing of menopausal hormone therapy and breast cancer risk: individual participant meta-analysis of the worldwide epidemiological evidence. Lancet. 2019 Sep 28;394(10204):1159-1168. doi: 10.1016/S0140-6736(19)31709-X. Epub 2019 Aug 29. PMID: 31474332; PMCID: PMC6891893.
+
+                     Collaborative Group On Epidemiological Studies Of Ovarian Cancer; Beral V, Gaitskell K, Hermon C, Moser K, Reeves G, Peto R. Menopausal hormone use and ovarian cancer risk: individual participant meta-analysis of 52 epidemiological studies. Lancet. 2015 May 9;385(9980):1835-42. doi:10.1016/S0140-6736(14)61687-1. Epub 2015 Feb 13. PMID: 25684585; PMCID: PMC4427760.

@@ -1,0 +1,39 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 14.4 EE Due to Acid-Mediated GERD
+
+In a U.S. multicenter, double-blind, placebo-controlled study of 40 mg or 20 mg of omeprazole delayed-release capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as shown in Table 17.
+
+                           Table 17: % Patients Healed
+
+                                  |
+                                 Omeprazole
+
+40 mg
+
+(n=87) |
+                                 Omeprazole
+
+20 mg
+
+(n=83) |
+                                 Placebo
+
+(n=43) |
+
+                                 Week 4 |
+                                 45(p < 0.01) Omeprazole versus placebo.
+
+                                  |
+                                 39
+                                  |
+                                 7 |
+
+                                 Week 8 |
+                                 75
+                                  |
+                                 74
+                                  |
+                                 14 |
+
+                        In this study, the 40 mg dose was not superior to the 20 mg dose of omeprazole in the percentage healing rate. Other controlled clinical trials have also shown that omeprazole is effective in severe GERD. In comparisons with histamine H2-receptor antagonists in patients with erosive esophagitis, grade 2 or above, omeprazole in a dose of 20 mg was significantly more effective than the active controls. Complete daytime and nighttime heartburn relief occurred significantly faster (p < 0.01) in patients treated with omeprazole than in those taking placebo or histamine H2-receptor antagonists.
+
+                        In this and five other controlled GERD studies, significantly more patients taking 20 mg omeprazole (84%) reported complete relief of GERD symptoms than patients receiving placebo (12%).

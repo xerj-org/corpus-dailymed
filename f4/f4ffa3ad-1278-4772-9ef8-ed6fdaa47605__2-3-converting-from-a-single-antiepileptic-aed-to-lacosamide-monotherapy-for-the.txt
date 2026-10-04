@@ -1,0 +1,3 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 2.3 Converting From a Single Antiepileptic (AED) to Lacosamide Monotherapy for the Treatment of Partial-Onset Seizures
+
+For patients who are already on a single AED and will convert to Lacosamide monotherapy, withdrawal of the concomitant AED should not occur until the therapeutic dosage of lacosamide is achieved and has been administered for at least 3 days. A gradual withdrawal of the concomitant AED over at least 6 weeks is recommended.

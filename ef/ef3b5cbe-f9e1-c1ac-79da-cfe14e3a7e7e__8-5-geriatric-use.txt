@@ -1,0 +1,5 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 8.5 Geriatric Use
+
+SSRIs including PAXIL, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.7)].
+
+                        In premarketing clinical trials with PAXIL, 17% of PAXIL-treated patients  (approximately 700) were 65 years of age or older. Clinical studies of PAXIL did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients.  The minimum plasma concentration (Cmin) of paroxetine was higher in PAXIL-treated patients 65 years of age and older compared to younger adult patients [see Clinical Pharmacology (12.3)]; therefore, the starting recommended dosage is lower in patients 65 years of age and older with MDD, OCD, PTSD, and SAD and the maximum recommended dosage of PAXIL is lower in patients 65 years of age and older with MDD, OCD, PD, PTSD, SAD, and GAD [see Dosage and Administration (2)].

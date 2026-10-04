@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Elimination
+
+The initial distribution phase is followed by a prolonged terminal elimination phase (half-life up to 48 hours). The terminal elimination half-life of the active metabolite N-desmethyldiazepam is up to 100 hours. Diazepam and its metabolites are excreted mainly in the urine, predominantly as their glucuronide conjugates. The clearance of diazepam is 20 to 30 mL/min in young adults. Diazepam accumulates upon multiple dosing and there is some evidence that the terminal elimination half-life is slightly prolonged.

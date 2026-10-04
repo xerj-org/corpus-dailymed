@@ -1,0 +1,7 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 2.9 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with fluoxetine capsules. Conversely, at least 5 weeks should be allowed after stopping fluoxetine capsules before starting an MAOI intended to treat psychiatric disorders
+
+  [
+
+   see Contraindications (4.1)].

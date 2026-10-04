@@ -1,0 +1,7 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Cardiovascular Effects
+
+Following administration of Felodipine, a reduction in blood pressure generally occurs within 2 to 5 hours. During chronic administration, substantial blood pressure control lasts for 24 hours, with trough reductions in diastolic blood pressure approximately 40–50% of peak reductions. The antihypertensive effect is dose dependent and correlates with the plasma concentration of felodipine. A reflex increase in heart rate frequently occurs during the first week of therapy; this increase attenuates over time. Heart rate increases of 5–10 beats per minute may be seen during chronic dosing. The increase is inhibited by beta-blocking agents.
+
+                        The P-R interval of the ECG is not affected by felodipine when administered alone or in combination with a beta-blocking agent. Felodipine alone or in combination with a beta-blocking agent has been shown, in clinical and electrophysiologic studies, to have no significant effect on cardiac conduction (P-R, P-Q, and H-V intervals).
+
+                        In clinical trials in hypertensive patients without clinical evidence of left ventricular dysfunction, no symptoms suggestive of a negative inotropic effect were noted; however, none would be expected in this population (see PRECAUTIONS).

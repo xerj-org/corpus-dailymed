@@ -1,0 +1,3 @@
+DailyMed 5b0b19b1-4c3c-4ecb-8153-8c58ba29e5ee | METOPROLOL TARTRATE | 5.3 Bronchospastic Disease
+
+Patients with bronchospastic disease, should in general, not receive beta-blockers, including metoprolol tartrate. Because of its relative beta1 cardio-selectivity, however, metoprolol tartrate may be used in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment. Because beta1-selectivity is not absolute, use the lowest possible dose of metoprolol tartrate. Bronchodilators, including beta2-agonists, should be readily available or administered concomitantly [see Dosage and Administration (2)].

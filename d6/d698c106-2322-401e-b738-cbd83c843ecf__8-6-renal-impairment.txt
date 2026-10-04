@@ -1,0 +1,5 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 8.6 Renal Impairment
+
+No dosage modification is recommended for patients with mild to moderate (creatinine clearance (CLcr) 30 to 89 mL/min) renal impairment [see Clinical Pharmacology (12.3)].
+
+                        TRUQAP has not been studied in patients with severe (CLcr 15 to 29 mL/min) renal impairment.

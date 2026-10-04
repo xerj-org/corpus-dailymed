@@ -1,0 +1,7 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 4 CONTRAINDICATIONS
+
+LEQSELVI is contraindicated in patients who:
+
+                     Are CYP2C9 poor metabolizers [see Warnings and Precautions (5.6)].
+
+                     Are on concomitant moderate or strong CYP2C9 inhibitors  [see Warnings and Precautions (5.6)].

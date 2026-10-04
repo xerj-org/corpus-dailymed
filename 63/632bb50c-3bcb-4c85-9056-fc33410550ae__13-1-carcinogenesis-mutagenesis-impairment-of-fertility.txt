@@ -1,0 +1,5 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenicity testing of lurbinectedin has not been performed. Lurbinectedin is genotoxic to mammalian cells in the presence and absence of metabolic activation. Lurbinectedin was not mutagenic in vitro in a bacterial reverse mutation (Ames) assay.
+
+                        Fertility studies with lurbinectedin were not performed. There were no findings in reproductive organs in general toxicology studies in rats, dogs, or monkeys; however, the highest doses and exposures in these studies were all at levels lower than those at the human dose of 3.2 mg/m2.

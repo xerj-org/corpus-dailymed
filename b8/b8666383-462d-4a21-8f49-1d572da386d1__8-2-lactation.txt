@@ -1,0 +1,17 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 8.2 Lactation
+
+Risk Summary
+
+                        Data from published literature report the presence of fluoxetine and norfluoxetine in human milk
+
+  (see Data).There are reports of agitation, irritability, poor feeding, and poor weight gain in infants exposed to fluoxetine through breast milk
+
+  (see Clinical Considerations).There are no data on the effect of fluoxetine or its metabolites on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for fluoxetine and any potential adverse effects on the breastfed child from fluoxetine or the underlying maternal condition.
+
+                           Clinical Considerations
+
+                        Infants exposed to fluoxetine should be monitored for agitation, irritability, poor feeding, and poor weight gain.
+
+                           Data
+
+                        A study of 19 nursing mothers on fluoxetine with daily doses of 10-60 mg showed that fluoxetine was detectable in 30% of nursing infant sera (range: 1 to 84 ng/mL) whereas norfluoxetine was found in 85% (range: <1 to 265 ng/mL).

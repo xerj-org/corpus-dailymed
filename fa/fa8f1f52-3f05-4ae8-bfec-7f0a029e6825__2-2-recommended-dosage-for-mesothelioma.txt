@@ -1,0 +1,3 @@
+DailyMed fa8f1f52-3f05-4ae8-bfec-7f0a029e6825 | Pemetrexed | 2.2 Recommended Dosage for Mesothelioma
+
+The recommended dose of pemetrexed for injection when administered with cisplatin in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.

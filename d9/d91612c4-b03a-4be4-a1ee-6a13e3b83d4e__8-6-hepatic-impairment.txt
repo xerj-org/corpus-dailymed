@@ -1,0 +1,5 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 8.6 Hepatic Impairment
+
+Administration of ZTALMY in patients with severe hepatic impairment (Child-Pugh class C) results in elevated ganaxolone plasma concentrations [see Clinical Pharmacology (12.3)]. Therefore, dosage adjustment in these patients during titration and maintenance is required [see Dosage and Administration (2.3)].
+
+                        No dosage adjustment is necessary in patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment.

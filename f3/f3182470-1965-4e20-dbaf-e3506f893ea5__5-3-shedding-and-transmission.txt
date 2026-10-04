@@ -1,0 +1,7 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 5.3 Shedding and Transmission
+
+Rotavirus shedding in stool occurs after vaccination with peak excretion occurring around Day 7 after Dose 1.
+
+                        One clinical trial demonstrated that vaccinees transmit vaccine virus to healthy seronegative contacts [see Clinical Pharmacology (12.2)].
+
+                        The potential for transmission of vaccine virus following vaccination should be weighed against the possibility of acquiring and transmitting natural rotavirus. Caution is advised when considering whether to administer ROTARIX to individuals with immunodeficient close contacts, such as individuals with malignancies, primary immunodeficiency or receiving immunosuppressive therapy.

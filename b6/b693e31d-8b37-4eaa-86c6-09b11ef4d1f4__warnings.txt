@@ -1,0 +1,13 @@
+DailyMed b693e31d-8b37-4eaa-86c6-09b11ef4d1f4 | LIDOCAINE | WARNINGS
+
+EXCESSIVE DOSAGE, OR SHORT INTERVALS BETWEEN DOSES, CAN RESULT IN HIGH PLASMA LEVELS AND SERIOUS ADVERSE EFFECTS, PATIENTS SHOULD BE INSTRUCTED TO STRICTLY ADHERE TO THE RECOMMENDED DOSAGE AND ADMINISTRATION GUIDELINES AS SET FORTH IN THIS PACKAGE INSERT.
+
+                  THE MANAGEMENT OF SERIOUS ADVERSE REACTIONS MAY REQUIRE THE USE OF RESUSCITATIVE EQUIPMENT, OXYGEN, AND OTHER RESUSCITATIVE DRUGS.
+
+                  Lidocaine Ointment 5% should be used with extreme caution in the presence of sepsis or severely traumatized mucosa in the area of application, since under such conditions there is the potential for rapid systemic absorption.
+
+                        Methemoglobinemia
+
+                  Cases of methemoglobinemia have been reported in association with local anesthetic use. Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition. If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+                  Signs and symptoms of methemoglobinemia may occur immediately or may be delayed some hours after exposure and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood. Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death. Discontinue lidocaine and any other oxidizing agents. Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration. A more severe symptoms may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.

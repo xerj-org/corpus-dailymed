@@ -1,0 +1,93 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 14.9 Atorvastatin for Dysbetalipoproteinemia in Adults
+
+The results of an open-label crossover trial of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia are shown in the table below (Table 13).
+
+                           Table 13. Open-Label Crossover Trial of 16 Patients with Dysbetalipoproteinemia (Fredrickson Type III)
+
+                                  |
+                                  |
+
+                                    Median % Change (min, max)
+                                  |
+
+                                  |
+
+                                       Median (min, max) at Baseline (mg/dL)
+
+                                  |
+
+                                       Atorvastatin
+
+10 mg
+
+                                  |
+
+                                       Atorvastatin
+
+80 mg
+
+                                  |
+
+                                       Total-C
+
+                                  |
+
+                                    442 (225, 1320)
+
+                                  |
+
+                                    -37 (-85, 17)
+
+                                  |
+
+                                    -58 (-90, -31)
+
+                                  |
+
+                                       Triglycerides
+
+                                  |
+
+                                    678 (273, 5990)
+
+                                  |
+
+                                    -39 (-92, -8)
+
+                                  |
+
+                                    -53 (-95, -30)
+
+                                  |
+
+                                       Intermediate-density lipoprotein cholesterol (IDL-C) + VLDL-C
+
+                                  |
+
+                                    215 (111, 613)
+
+                                  |
+
+                                    -32 (-76, 9)
+
+                                  |
+
+                                    -63 (-90, -8)
+
+                                  |
+
+                                       non-HDL-C
+
+                                  |
+
+                                    411 (218, 1272)
+
+                                  |
+
+                                    -43 (-87, -19)
+
+                                  |
+
+                                    -64 (-92, -36)
+
+                                  |

@@ -1,0 +1,144 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 14.1 Parkinson's Disease
+
+The effectiveness of ropinirole tablets in the treatment of Parkinson’s disease was evaluated in a multinational drug development program consisting of 11 randomized, controlled trials. Four trials were conducted in patients with early Parkinson’s disease and no concomitantL-dopa and 7 trials were conducted in patients with advanced Parkinson’s disease with concomitant L-dopa.
+
+                        Three placebo-controlled trials provide evidence of effectiveness of ropinirole tablets in the management of patients with Parkinson’s disease who were and were not receiving concomitant L-dopa. Two of these 3 trials enrolled patients with early Parkinson’s disease (without L-dopa) and 1 enrolled patients receiving L-dopa.
+
+                        In these trials a variety of measures were used to assess the effects of treatment (e.g., Unified Parkinson’s Disease Rating Scale [UPDRS], Clinical Global Impression [CGI] scores, patient diaries recording time “on” and “off,” tolerability of L-dopa dose reductions).
+
+                        In both trials of patients with early Parkinson’s disease (without L-dopa), the motor component (Part III) of the UPDRS was the primary outcome assessment. The UPDRS is a multi-item rating scale intended to evaluate mentation (Part I), activities of daily living (Part II), motor performance (Part III), and complications of therapy (Part IV). Part III of the UPDRS contains 14 items designed to assess the severity of the cardinal motor findings in patients with Parkinson’s disease (e.g., tremor, rigidity, bradykinesia, postural instability) scored for different body regions and has a maximum (worst) score of 108. In the trial of patients with advanced Parkinson’s disease (with L-dopa), both reduction in percent awake time spent “off” and the ability to reduce the daily use of L-dopa were assessed as a combined endpoint and individually.
+
+                           Trials in Patients with Early Parkinson’s Disease (without L-dopa)  
+
+                        Trial 1 was a 12-week multicenter trial in which 63 patients with idiopathic Parkinson’s disease receiving concomitant anti-Parkinson medication (but not L-dopa) were enrolled and 41 were randomized to ropinirole tablets and 22 to placebo. Patients had a mean disease duration of approximately 2 years. Patients were eligible for enrollment if they presented with bradykinesia and at least tremor, rigidity, or postural instability. In addition, they must have been classified as Hoehn & Yahr Stage I-IV. This scale, ranging from I = unilateral involvement with minimal impairment to V = confined to wheelchair or bed, is a standard instrument used for staging patients with Parkinson’s disease. The primary outcome measure in this trial was the proportion of patients experiencing a decrease (compared with baseline) of at least 30% in the UPDRS motor score.
+
+                        Patients were titrated for up to 10 weeks, starting at 0.5 mg twice daily, with weekly increments of 0.5 mg twice daily to a maximum of 5 mg twice daily. Once patients reached their maximally tolerated dose (or 5 mg twice daily), they were maintained on that dose through 12 weeks. The mean dose achieved by patients at trial endpoint was 7.4 mg/day. Mean baseline UPDRS motor score was 18.6 for patients treated with ropinirole tablets and 19.9 for patients treated with placebo. At the end of 12 weeks, the percentage of responders was greater on ropinirole tablets than on placebo and the difference was statistically significant (Table 6).
+
+                           Table 6. Percent Responders for Unified Parkinson’s Disease Rating Scale Motor Score in Trial 1 (Intent-to-Treat Population)
+
+                                  
+
+                                  |
+
+                                     Responders 
+
+                                  |
+
+                                    Difference from Placebo 
+
+                                  |
+
+                                 Placebo 
+
+                                  |
+                                 41% 
+
+                                  |
+                                 NA 
+
+                                  |
+
+                                 ropinirole tablets 
+
+                                  |
+                                 71% 
+
+                                  |
+                                 30% 
+
+                                  |
+
+                        Trial 2 in patients with early Parkinson’s disease (without L-dopa) was a double-blind, randomized, placebo-controlled, 6-month trial. In this trial, 241 patients were enrolled and 116 were randomized to ropinirole tablets and 125 to placebo. Patients were essentially similar to those in the trial described above; concomitant use of selegiline was allowed, but patients were not permitted to use anticholinergics or amantadine during the trial. Patients had a mean disease duration of 2 years and limited (not more than a 6-week period) or no prior exposure to L-dopa. The starting dosage of ropinirole tablets in this trial was 0.25 mg 3 times daily. The dosage was titrated at weekly intervals by increments of 0.25 mg 3 times daily to a dosage of 1 mg 3 times daily. Further titrations at weekly intervals were at increments of 0.5 mg 3 times daily up to a dosage of 3 mg 3 times daily, and then weekly at increments of 1 mg 3 times daily. Patients were to be titrated to a dosage of at least 1.5 mg 3 times daily and then to their maximally tolerated dosage, up to a maximum of 8 mg 3 times daily. The mean dose attained in patients at trial endpoint was 15.7 mg/day.
+
+                        The primary measure of effectiveness was the mean percent reduction (improvement) from baseline in the UPDRS motor score. At the end of the 6-month trial, patients treated with ropinirole tablets showed improvement in motor score compared with placebo and the difference was statistically significant (Table 7).
+
+                           Table 7. Mean Percentage Change from Baseline in Unified Parkinson’s Disease Rating Scale (UPDRS)Motor Score at End of Treatment in Trial 2 (Intent-to-Treat Population)
+
+                            
+
+                                    Treatment 
+
+                                  |
+
+                                    Baseline UPDRS Motor Score 
+
+                                  |
+
+                                    Mean Change from Baseline 
+
+                                  |
+
+                                    Difference from Placebo 
+
+                                  |
+
+                                 Placebo 
+
+                                  |
+                                 17.7 
+
+                                  |
+                                 +4% 
+
+                                  |
+                                 NA 
+
+                                  |
+
+                                 ropinirole tablets 
+
+                                  |
+                                 17.9 
+
+                                  |
+                                 -22% 
+
+                                  |
+                                 -26% 
+
+                                  |
+
+                            
+
+                           Trial in Patients with Advanced Parkinson’s Disease (with L-dopa)
+
+                        Trial 3 was a double-blind, randomized, placebo-controlled, 6-month trial that randomized 149 patients (Hoehn & Yahr II-IV) who were not adequately controlled on L-dopa. Ninety-five patients were randomized to ropinirole tablets and 54 were randomized to placebo. Patients in this trial had a mean disease duration of approximately 9 years, had been exposed to L-dopa for approximately 7 years, and had experienced “on-off” periods with L-dopa therapy. Patients previously receiving stable doses of selegiline, amantadine, and/or anticholinergic agents could continue on these agents during the trial. Patients were started at a dosage of 0.25 mg 3 times daily of ropinirole tablets and titrated upward by weekly intervals until an optimal therapeutic response was achieved. The maximum dosage of trial medication was 8 mg 3 times daily. All patients had to be titrated to at least a dosage of 2.5 mg 3 times daily. Patients could then be maintained on this dosage level or higher for the remainder of the trial. Once a dosage of 2.5 mg 3 times daily was achieved, patients underwent a mandatory reduction in their L-dopa dosage, to be followed by additional mandatory reductions with continued escalation of the dosage of ropinirole tablets. Reductions in the dosage of L-dopa were also allowed if patients experienced adverse reactions that the investigator considered related to dopaminergic therapy. The mean dose attained at trial endpoint was 16.3 mg/day. The primary outcome was the proportion of responders, defined as patients who were able both to achieve a decrease (compared with baseline) of at least 20% in their L-dopa dosage and a decrease of at least 20% in the proportion of the time awake in the “off” condition (a period of time during the day when patients are particularly immobile), as determined by subject diary. In addition, the mean change in “off” time from baseline and the percent change from baseline in daily L-dopa dosage were examined.
+
+                        At the end of 6 months, the percentage of responders was greater on ropinirole tablets than on placebo and the difference was statistically significant (Table 8).
+
+                        Based on the protocol-mandated reductions in L-dopa dosage with escalating doses of ropinirole tablets, patients treated with ropinirole tablets had a 19.4% mean reduction in L-dopa dosage while patients treated with placebo had a 3% reduction. Mean daily L-dopa dosage at baseline was 759 mg for patients treated with ropinirole tablets and 843 mg for patients treated with placebo.
+
+                        The mean number of daily “off” hours at baseline was 6.4 hours for patients treated with ropinirole tablets and 7.3 hours for patients treated with placebo. At the end of the 6-month trial, there was a mean reduction of 1.5 hours of “off” time in patients treated with ropinirole tablets and a mean reduction of 0.9 hours of “off” time in patients treated with placebo, resulting in a treatment difference of 0.6 hours of “off” time.
+
+                           Table 8. Mean Responder Percentage of Patients Reducing Daily L-Dopa Dosage by at Least 20% and Daily Proportion of “Off” Time by at Least 20% at End of Treatment in Trial 3 (Intent-to-Treat Population)
+
+                            
+
+                                    Treatment
+                                  |
+
+                                     Responders
+                                  |
+
+                                    Difference from Placebo
+                                  |
+
+                                 Placebo
+
+                                  |
+                                 11%
+
+                                  |
+                                 NA
+
+                                  |
+
+                                 Ropinirole tablets
+
+                                  |
+                                 28%
+
+                                  |
+                                 17%
+
+                                  |

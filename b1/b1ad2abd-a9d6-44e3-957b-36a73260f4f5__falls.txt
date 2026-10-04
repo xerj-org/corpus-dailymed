@@ -1,0 +1,3 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Falls
+
+Motor instability, somnolence, and orthostatic hypotension have been reported with the use of antipsychotics, including haloperidol, which may lead to falls and, consequently, fractures or other fall-related injuries. For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients receiving repeated doses.

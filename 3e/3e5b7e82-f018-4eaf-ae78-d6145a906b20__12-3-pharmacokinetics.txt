@@ -1,0 +1,108 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 12.3 Pharmacokinetics
+
+The geometric mean rituximab exposures are provided in Table 4. The pharmacokinetic properties of rituximab following the administration of RITUXAN HYCELA in the approved indications are provided in Table 5. The elimination of rituximab was characterized by a time-dependent process that occurred early in therapy and a time-independent process.
+
+                           Table 4:	Rituximab Exposure Values following Subcutaneous Administration of RITUXAN HYCELAPharmacokinetic parameters are presented as geometric mean unless otherwise specified.
+
+                                  |
+                                  |
+                                 StudyFor study design information, see
+                                          Clinical Studies (14).
+
+                                  |
+                                 Cycle |
+                                 Rituximab  |
+
+                                    FLRITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human)
+
+                                  |
+                                 Cmax, mcg/mL (CV%) |
+                                 SABRINA |
+                                 7 |
+                                 237 (29.4) |
+
+                                 18 |
+                                 156 (24.7)Based on predicted values
+
+                                  |
+
+                                 Ctrough, mcg/mL (CV%) |
+                                 7 |
+                                 122.2 (55.3) |
+
+                                 18 |
+                                 45.5 (53.6)
+                                  |
+
+                                 AUCTAU, mcg∙day/mL (CV%) |
+                                 7 |
+                                 3779 (33.7) |
+
+                                 18 |
+                                 5000 (34.3)
+                                  |
+
+                                    CLLRITUXAN HYCELA 1,600 mg/26,800 Units (1,600 mg rituximab and 26,800 Units hyaluronidase human)
+
+                                  |
+                                 Cmax, mcg/mL (CV%) |
+                                 SAWYER |
+                                 6 |
+                                 202 (36.1) |
+
+                                 Ctrough, mcg/mL (CV%) |
+                                 5 |
+                                 97.5 (42.6) |
+
+                                 AUCTAU, mcg∙day/mL (CV%) |
+                                 5 |
+                                 4088 (34.2) |
+
+                        In the SABRINA study, the geometric mean Ctrough in the RITUXAN HYCELA arm was higher than in the rituximab arm with a geometric mean ratio (Ctrough, RITUXAN HYCELA/Ctrough, rituximab) of 1.52 (90% CI: 1.36, 1.70) at Cycle 7 [see Clinical Studies (14.1)].
+
+                        In the SAWYER study, the geometric mean Ctrough in the RITUXAN HYCELA arm was higher than in the rituximab arm with an adjusted geometric mean ratio of 1.53 (90% CI: 1.27–1.85) at Cycle 5 [see Clinical Studies (14.3)].
+
+                           Table 5:	Pharmacokinetic Parameters of Rituximab following Subcutaneous Administration of RITUXAN HYCELAParameters represented as geometric mean (%CV) unless otherwise specified
+
+                                  |
+                                 FL |
+                                 CLL |
+
+                                    Absorption
+                                  |
+
+                                   Absolute BioavailabilityCompared to a rituximab product administered intravenously
+
+                                  |
+                                 0.646
+
+ (0.634–0.65995% CI
+
+) |
+                                 0.634
+
+ (0.602–0.665)  |
+
+                                    Distribution
+                                  |
+
+                                   Volume of Central compartment (L) |
+                                 4.06 (26) |
+                                 4.80 (18) |
+
+                                   Apparent Volume of Distribution at steady stateVolume of central compartment and peripheral compartment
+
+ (L) |
+                                 8.09 (19) |
+                                 8.52 (13) |
+
+                                    Elimination
+                                  |
+
+                                   Terminal Half-life (days) |
+                                 34.1 (27) |
+                                 32 (24) |
+
+                                   Clearance (L/day) |
+                                 0.18 (34) |
+                                 0.204 (31) |

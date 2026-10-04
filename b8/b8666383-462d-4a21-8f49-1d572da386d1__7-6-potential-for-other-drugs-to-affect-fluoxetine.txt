@@ -1,0 +1,9 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 7.6 Potential for Other Drugs to affect Fluoxetine
+
+Drugs Tightly Bound to Plasma Proteins —Because fluoxetine is tightly bound to plasma proteins, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  .

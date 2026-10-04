@@ -1,0 +1,8 @@
+DailyMed a17c90f9-3d5d-4503-ba2c-754b45decbf8 | Perphenazine | Geriatric Use
+
+Clinical studies of perphenazine products did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic function, concomitant disease or other drug therapy.
+
+                        Geriatric patients are particularly sensitive to the side effects of antipsychotics, including perphenazine. These side effects include extrapyramidal symptoms (tardive dyskinesia, antipsychotic-induced parkinsonism, akathisia), anticholinergic effects, sedation and orthostatic hypotension (see
+
+                              WARNINGS
+                           ). Elderly patients taking psychotropic drugs may be at increased risk for falling and consequent hip fractures. Elderly patients should be started on lower doses and observed closely.

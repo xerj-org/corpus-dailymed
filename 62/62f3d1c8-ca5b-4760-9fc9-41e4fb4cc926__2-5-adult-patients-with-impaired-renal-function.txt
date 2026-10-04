@@ -1,0 +1,107 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | 2.5 Adult Patients with Impaired Renal Function
+
+Levetiracetam dosing must be individualized according to the patient's renal function status. Recommended doses and adjustment for dose for adults are shown in Table 1. To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in mL/min is needed.
+
+                           Table 1: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Function
+
+                                       Group
+
+                                  |
+
+                                       Creatinine Clearance
+
+                                       (mL/min)
+
+                                  |
+
+                                       Dosage
+
+                                       (mg)
+
+                                  |
+
+                                       Frequency
+
+                                  |
+
+                                    Normal
+
+                                  |
+
+                                    greater than 80
+
+                                  |
+
+                                    500 to 1,500
+
+                                  |
+
+                                    Every 12 hours
+
+                                  |
+
+                                    Mild
+
+                                  |
+
+                                    50 to 80
+
+                                  |
+
+                                    500 to 1,000
+
+                                  |
+
+                                    Every 12 hours
+
+                                  |
+
+                                    Moderate
+
+                                  |
+
+                                    30 to 50
+
+                                  |
+
+                                    250 to 750
+
+                                  |
+
+                                    Every 12 hours
+
+                                  |
+
+                                    Severe
+
+                                  |
+
+                                    less than 30
+
+                                  |
+
+                                    250 to 500
+
+                                  |
+
+                                    Every 12 hours
+
+                                  |
+
+                                    ESRD patients using dialysis
+
+                                  |
+
+                                    ----
+
+                                  |
+
+                                    500 to 1,000
+
+                                  |
+
+                                       Following dialysis, a 250 mg to 500 mg supplemental dose is recommended.
+
+Every 24 hours
+
+                                  |

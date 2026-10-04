@@ -1,0 +1,223 @@
+DailyMed 29743168-6dd7-4ee0-bc02-10dbcf2b7896 | Foscarnet Sodium | CLINICAL PHARMACOLOGY
+
+Pharmacokinetics
+
+                  The pharmacokinetics of foscarnet has been determined after administration as an intermittent intravenous infusion during induction therapy in AIDS patients with CMV retinitis. Observed plasma foscarnet concentrations in four studies (FOS-01, ACTG-015, FP48PK, FP49PK) are summarized in Table 7:
+
+                     TABLE 7
+
+                      Foscarnet Pharmacokinetic Characteristics*
+
+                              Parameter
+
+                            |
+
+                              60 mg/kg Q8h
+
+                            |
+
+                              90 mg/kg Q12h
+
+                            |
+
+                              C max at steady-state (μM)
+
+                            |
+                           589 ± 192 (24)
+
+                            |
+                           623 ± 132 (19)
+
+                            |
+
+                              C trough at steady-state (μM)
+
+                            |
+                           114 ± 91 (24)
+
+                            |
+                           63 ± 57 (17)
+
+                            |
+
+                              Volume of distribution (L/kg)
+
+                            |
+                           0.41 ± 0.13 (12)
+
+                            |
+                           0.52 ± 0.20 (18)
+
+                            |
+
+                              Plasma half-life (hr)
+
+                            |
+                           4.0 ± 2.0 (24)
+
+                            |
+                           3.3 ± 1.4 (18)
+
+                            |
+
+                              Systemic clearance (L/hr)
+
+                            |
+                           6.2 ± 2.1 (24)
+
+                            |
+                           7.1 ± 2.7 (18)
+
+                            |
+
+                              Renal clearance (L/hr)
+
+                            |
+                           5.6 ± 1.9 (5)
+
+                            |
+                           6.4 ± 2.5 (13)
+
+                            |
+
+                              CSF: plasma ratio
+
+                            |
+                           0.69 ± 0.19 (9) †
+
+                            |
+                           0.66 ± 0.11 (5) ‡
+
+                            |
+
+                  *Values expressed as mean S.D. (number of subjects studied) for each parameter
+
+                     †50 mg/kg Q8h for 28 days, samples taken 3 hrs after end of 1 hr infusion (Astra Report 815-04 AC025-1)
+
+                     ‡90 mg/kg Q12hr for 28 days, samples taken 1 hr after end of 2 hr infusion (Hengge et al., 1993)
+
+                     Distribution
+
+                     In vitro studies have shown that 14 – 17% of foscarnet is protein bound at plasma drug concentrations of 1 – 1000 μM.
+
+                  The foscarnet terminal half-life determined by urinary excretion was 87.5 ± 41.8 hours, possibly due to release of foscarnet from bone. Postmortem data on several patients in European clinical trials provide evidence that foscarnet does accumulate in bone in humans; however, the extent to which this occurs has not been determined.
+
+                     Special Populations
+
+                     Adults with Impaired Renal Function: The pharmacokinetic properties of foscarnet have been determined in a small group of adult subjects with normal and impaired renal function, as summarized in Table 8:
+
+                     TABLE 8
+
+                     Pharmacokinetic Parameters (mean ± S.D.) After a Single 60 mg/kg Dose of foscarnet sodium injection in 4 Groups* of Adults with Varying Degrees of Renal Function
+
+                              Parameter
+
+                            |
+
+                              Group 1
+
+                              (N=6)
+
+                            |
+
+                              Group 2
+
+                              (N=6)
+
+                            |
+
+                              Group 3
+
+                              (N=6)
+
+                            |
+
+                              Group 4
+
+                              (N=4)
+
+                            |
+
+                              Creatinine
+
+                              clearance
+
+                              (mL/min)
+
+                            |
+                           108 ± 16
+
+                            |
+                           68 ± 8
+
+                            |
+                           34 ± 9
+
+                            |
+                           20 ± 4
+
+                            |
+
+                              Foscarnet CL
+
+                              (mL/min/kg)
+
+                            |
+                           2.13 ± 0.71
+
+                            |
+                           1.33 ± 0.43
+
+                            |
+                           0.46 ± 0.14
+
+                            |
+                           0.43 ± 0.26
+
+                            |
+
+                              Foscarnet half-life
+
+                              (hr)
+
+                            |
+                           1.93 ± 0.12
+
+                            |
+                           3.35 ± 0.87
+
+                            |
+                           13.0 ± 4.05
+
+                            |
+                           25.3 ± 18.7
+
+                            |
+
+                  *Group 1 patients had normal renal function defined as a creatinine clearance (CrCl) of >80 mL/min, Group 2 CrCl was 50 – 80 mL/min, Group 3 CrCl was 25 – 49 mL/min and Group 4 CrCl was 10 – 24 mL/min.
+
+                  Total systemic clearance (CL) of foscarnet decreased and half-life increased with diminishing renal function (as expressed by creatinine clearance). Based on these observations, it is necessary to modify the dosage of foscarnet in patients with renal impairment (see DOSAGE AND ADMINISTRATION).
+
+                     Drug Interaction
+
+                  The pharmacokinetics of foscarnet and ganciclovir were not altered in 13 patients receiving either concomitant therapy or daily alternating therapy for maintenance of CMV disease.
+
+                  There is no clinically significant interaction with zidovudine (AZT), or probenecid.
+
+                     CLINICAL TRIALS
+
+                     CMV Retinitis
+
+                  A prospective, randomized, controlled clinical trial (FOS-03) was conducted in 24 patients with AIDS and CMV retinitis comparing treatment with foscarnet sodium injection to no treatment. Patients received induction treatment of foscarnet sodium injection , 60 mg/kg every 8 hours for 3 weeks, followed by maintenance treatment with 90 mg/kg/day until retinitis progression (appearance of a new lesion or advancement of the border of a posterior lesion greater than 750 microns in diameter). All diagnoses and determinations of retinitis progression were made from masked reading of retinal photographs. The 13 patients randomized to treatment with foscarnet sodium injection had a significant delay in progression of CMV retinitis compared to untreated controls. Median times to retinitis progression from study entry were 93 days (range 21 – >364) and 22 days (range 7 – 42), respectively.
+
+                  In another prospective clinical trial of CMV retinitis in patients with AIDS (ACTG-915), 33 patients were treated with two to three weeks of foscarnet sodium injection induction (60 mg/kg TID) and then randomized to either 90 mg/kg/day or 120 mg/kg/day maintenance therapy. The median times from study entry to retinitis progression were not significantly different between the treatment groups, 96 (range 14 – >176) days and 140 (range 16 – >233) days, respectively.
+
+                  In study ACTG 129/FGCRT SOCA study 107 patients with newly diagnosed CMV retinitis were randomized to treatment with foscarnet sodium injection (induction: 60 mg/kg TID for 2 weeks; maintenance: 90 mg/kg QD) and 127 were randomized to treatment with ganciclovir (induction: 5 mg/kg BID; maintenance: 5 mg/kg QD). The median time to progression on the two drugs was similar (Fos=59 and Gcv=56 days).
+
+                     Relapsed CMV Retinitis
+
+                  The CMV Retinitis Retreatment Trial (ACTG 228/SOCA CRRT) was a randomized, open-label comparison of foscarnet sodium injection or ganciclovir monotherapy to the combination of both drugs for the treatment of persistently active or relapsed CMV retinitis in patients with AIDS. Subjects were randomized to one of the three treatments: foscarnet sodium injection 90 mg/kg BID induction followed by 120 mg/kg QD maintenance (Fos); ganciclovir 5 mg/kg BID induction followed by 10 mg/kg QD maintenance (Gcv); or the combination of the two drugs, consisting of continuation of the subject’s current therapy and induction dosing of the other drug (as above), followed by maintenance with foscarnet sodium injection 90 mg/kg QD plus ganciclovir 5 mg/kg QD (Cmb). Assessment of retinitis progression was performed by masked evaluation of retinal photographs. The median times to retinitis progression or death were 39 days for the foscarnet sodium group, 61 days for the ganciclovir group and 105 days for the combination group. For the alternative endpoint of retinitis progression (censoring on death), the median times were 39 days for the foscarnet sodium injection group, 61 days for the ganciclovir group and 132 days for the combination group. Due to censoring on death, the latter analysis may overestimate the treatment effect. Treatment modifications due to toxicity were more common in the combination group than in the foscarnet sodium injection or ganciclovir monotherapy groups (see ADVERSE REACTIONS section).
+
+                     Mucocutaneous Acyclovir Resistant HSV Infections
+
+                  In a controlled trial, patients with AIDS and mucocutaneous, acyclovir-resistant HSV infection were randomized to either foscarnet sodium injection (N=8) at a dose of 40 mg/kg TID or vidarabine (N=6) at a dose of 15 mg/kg per day. Eleven patients were non-randomly assigned to receive treatment with foscarnet sodium injection because of prior intolerance to vidarabine. Lesions in the eight patients randomized to foscarnet sodium injection healed after 11 to 25 days; seven of the 11 patients non-randomly treated with foscarnet sodium injection healed their lesions in 10 to 30 days. Vidarabine was discontinued because of intolerance (N=4) or poor therapeutic response (N=2). In a second trial, forty AIDS patients and three bone marrow transplant recipients with mucocutaneous, acyclovir-resistant HSV infections were randomized to receive foscarnet sodium injection at a dose of either 40 mg/kg BID or 40 mg/kg TID. Fifteen of the 43 patients had healing of their lesions in 11 to 72 days with no difference in response between the two treatment groups.

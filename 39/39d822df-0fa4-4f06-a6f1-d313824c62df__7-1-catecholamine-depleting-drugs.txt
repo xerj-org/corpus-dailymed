@@ -1,0 +1,3 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | 7.1 Catecholamine Depleting Drugs
+
+Catecholamine depleting drugs (e.g., reserpine, monoamine oxidase (MAO) inhibitors) may have an additive effect when given with beta-blocking agents. Observe patients treated with metoprolol tartrate tablets plus a catecholamine depletor for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.

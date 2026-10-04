@@ -1,0 +1,29 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 12.3 Pharmacokinetics
+
+Axatilimab-csfr pharmacokinetics are presented as geometric mean (coefficient of variation [%CV]) in adult patients with cGVHD following axatilimab-csfr 0.3 mg/kg (maximum 35 mg) every 2 weeks, unless otherwise specified. Axatilimab-csfr AUC increased in a greater than dose-proportional manner following single-dose administration of axatilimab-csfr over a dose range of 0.15 mg/kg to 3 mg/kg (0.5 to 10 times the approved recommended dosage) in healthy subjects.
+
+                        There was no axatilimab-csfr systemic accumulation following the approved recommended dosage.
+
+                           Distribution
+
+                        Axatilimab-csfr volume of distribution is 6.06 L (16.3% CV).
+
+                           Elimination
+
+                        Axatilimab-csfr total clearance is 0.07 L/h (38.8% CV). The median (5th to 95th percentile) time to 97% reduction from Cmax after the end of infusion is 4.0 (2.3 to 7.2) days following axatilimab-csfr 0.3 mg/kg (maximum 35 mg).
+
+                        The total clearance of axatilimab-csfr is composed of linear and non-linear components such that axatilimab-csfr clearance decreased from 2.32 mL/h/kg to 0.21 mL/h/kg and mean terminal half-life increased from 10.7 hours to 108 hours following single-dose administrations of axatilimab-csfr over a dose range of 0.15 mg/kg to 3 mg/kg (0.5 to 10 times the approved recommended dosage).
+
+                           Metabolism
+
+                        Axatilimab-csfr is expected to be metabolized into small peptides by catabolic pathways.
+
+                           Specific Populations
+
+                        No clinically meaningful differences in the exposure of axatilimab-csfr were observed in adult and pediatric patients based on age (12 to 81 years), sex, body weight (40 to 151 kg), race (White, Black, or Asian), mild to moderate renal impairment (estimated creatinine clearance 30-89 mL/min by the Cockcroft-Gault equation), or mild hepatic impairment (total bilirubin ≤ ULN and AST > ULN or total bilirubin 1 to ≤ 1.5 times ULN and any AST) following the approved recommended dosage of 0.3 mg/kg (maximum 35 mg) every 2 weeks.
+
+                        The effect of severe renal impairment (estimated creatinine clearance 15-29 mL/min, Cockcroft-Gault equation) and moderate to severe hepatic impairment (total bilirubin > 1.5 times ULN and any AST) on axatilimab-csfr pharmacokinetics is unknown.
+
+                           Pediatric Patients
+
+                        Axatilimab-csfr exposures in pediatric patients weighing 40 kg and above are comparable to those in adults following the approved recommended dosage of 0.3 mg/kg (maximum 35 mg) every 2 weeks.

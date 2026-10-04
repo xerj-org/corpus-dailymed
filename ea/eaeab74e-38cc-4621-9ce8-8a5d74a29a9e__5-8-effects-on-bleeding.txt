@@ -1,0 +1,7 @@
+DailyMed eaeab74e-38cc-4621-9ce8-8a5d74a29a9e | Sildenafil | 5.8 Effects on Bleeding
+
+There have been postmarketing reports of bleeding events in patients who have taken sildenafil tablets. A causal relationship between sildenafil tablets and these events has not been established. In humans, sildenafil tablets have no effect on bleeding time when taken alone or with aspirin. However,
+
+  in vitrostudies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside (a nitric oxide donor). In addition, the combination of heparin and sildenafil tablets had an additive effect on bleeding time in the anesthetized rabbit, but this interaction has not been studied in humans.
+
+  The safety of sildenafil tablets is unknown in patients with bleeding disorders and patients with active peptic ulceration.

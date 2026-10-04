@@ -1,0 +1,151 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 14.3 ONSWIK in Adults with Type 2 Diabetes Mellitus Previously Treated with Once- or Twice-Daily Basal Insulin
+
+Trial 3 (QWINT-3, NCT05275400) was a 78-week, randomized, open-label, active-controlled, treat-to-target, multinational trial that evaluated the efficacy of once-weekly subcutaneous ONSWIK in 986 adults with type 2 diabetes mellitus on once- or twice-daily subcutaneous basal insulin therapy alone or in combination with noninsulin antidiabetic medication(s) with a HbA1c of 6.5% to 10%. Patients were randomized in a 2:1 ratio to either once-weekly ONSWIK (N=655) or once-daily insulin degludec (N=331) administered according to the approved labeling. Patients remained on stable doses of up to three of the following noninsulin antidiabetic medications: DPP-4 inhibitors, SGLT2 inhibitors, biguanides such as metformin, alpha-glucosidase inhibitors, or GLP-1 receptor agonists. The primary endpoint was assessed at Week 26.
+
+                        The mean age was 61 years, and 56% were male. The mean duration of type 2 diabetes mellitus was 15 years, and the mean BMI was 30 kg/m2. Overall, 67% were White, 28% were Asian, 5% were Black or African American; 0.2% were American Indian or Alaskan Native, 0.1% were Native Hawaiian or Other Pacific Islander, and 0.3% reported multiple races; 27% identified as Hispanic or Latino ethnicity.
+
+                        ONSWIK was initiated at a one-time starting dosage calculated by multiplying the prior total daily basal insulin dosage by 7 and then multiplying by 3. For patients with a baseline FBG ≤ 120 mg/dL, a one-time starting dosage was not recommended; the initial ONSWIK dosage was the prior total basal insulin dose multiplied by 7. The second weekly dosage was the prior total daily basal insulin dose multiplied by 7 then the dosage was subsequently adjusted on a weekly basis by 20 to 40 units to achieve a target FBG range of 80 to 120 mg/dL and in response to hypoglycemia. If there was a documented blood glucose ≤70 mg/dL in the previous week, the dose was not increased.
+
+                        Insulin degludec was initiated at the prior total daily basal insulin dosage then was subsequently adjusted on a weekly basis by 2 to 6 units to achieve a target FBG range of 80 to 120 mg/dL and in response to hypoglycemia.
+
+                        At week 26, treatment with ONSWIK provided a mean reduction in HbA1c that met the pre-specified non-inferiority margin (0.4%) (see
+
+                           Table 8).
+
+                        Percent time in glucose range (%TIR,70-180 mg/dL) at baseline was 52.1% for the ONSWIK group and 52.8% for the insulin degludec group. The estimated mean change from baseline in %TIR during the last 4 weeks of the trial (Week 22 to 26) was 8.9% for ONSWIK and 8.4% for insulin degludec.
+
+                           Table 8: Results from Trial 3 Comparing ONSWIK to Insulin Degludec in Adults with Type 2 Diabetes Mellitus Also Receiving Noninsulin Antidiabetic Medications (All Patients Previously Treated with Once- or Twice-Daily Basal Insulin)
+
+                                       a At Week 26, the HbA1c data were missing for 4.6% and 5.4% of patients treated with ONSWIK and insulin degludec, respectively.
+
+                                  |
+
+                                       b Least-squares mean from ANCOVA adjusted for baseline value and other stratification factors. Missing Week 26 and Week 78 data were imputed using return to baseline multiple imputation.
+
+                                  |
+
+                                       c Tested for noninferiority.
+
+                                  |
+
+                                       d Approximately equal to a daily ONSWIK dose of 48 units/day or a daily insulin degludec dose of 52 units/day at Week 26.
+
+                                  |
+
+                                       e Approximately equal to a daily ONSWIK dose of 49 units/day or a daily insulin degludec dose of 55 units/day at Week 78.
+
+                                  |
+
+                                  |
+
+                                    ONSWIK
+                                  |
+
+                                    Insulin Degludec
+                                  |
+
+                                 Randomized Population (N)
+ |
+                                 655
+ |
+                                 331
+ |
+
+                                 HbA1c (%)
+ |
+
+                                      Baseline
+ |
+                                 7.8
+ |
+                                 7.8
+ |
+
+                                      Week 26 Endpointa,b
+                                  |
+                                 7.0
+ |
+                                 7.1
+ |
+
+                                      Change at Week 26b
+                                  |
+                                 -0.8
+ |
+                                 -0.7
+ |
+
+                                      Difference from insulin degludec (95% CI)b,c
+                                  |
+                                 -0.1 ( -0.2, 0.0)
+ |
+
+                                 Fasting Serum Glucose (mg/dL)
+ |
+
+                                      Baseline
+ |
+                                 136
+ |
+                                 136
+ |
+
+                                      Week 26 Endpointb
+                                  |
+                                 107
+ |
+                                 109
+ |
+
+                                      Change at Week 26b
+                                  |
+                                 -29
+ |
+                                 -27
+ |
+
+                                 Insulin Dose (Units/week)
+ |
+
+                                      Baseline
+ |
+                                 232
+ |
+                                 227
+ |
+
+                                      Week 26 Doseb,d
+                                  |
+                                 333
+ |
+                                 363
+ |
+
+                                      Change from Baseline to Week 26b
+                                  |
+                                 103
+ |
+                                 133
+ |
+
+                                      Week 78 Doseb,e
+                                  |
+                                 343
+ |
+                                 386
+ |
+
+                                      Change from Baseline to Week 78b
+                                  |
+                                 113
+ |
+                                 156
+ |
+
+                           Figure 2 illustrates the differences in the trajectory of mean FBG over time between patients who initiated ONSWIK with a one-time starting dose (FBG >120 mg/dL) and without a one-time starting dose (FBG ≤120 mg/dL) compared with patients with similar baseline FBG cut-off values at randomization treated with daily insulin degludec during Trial 3. The cohort that did not receive the one-time starting dose of ONSWIK experienced a transient rise in FBG from baseline over the first week of therapy which then declined over the following 4 to 6 weeks and stabilized [see Dosage and Administration (2.4), Warnings and Precautions (5.4)].
+
+                           Figure 2: Mean Fasting Blood Glucose over Time from Trial 3 Comparing ONSWIK to Insulin Degludec in Adults with Type 2 Diabetes Mellitus Also Receiving Noninsulin Antidiabetic Medications (All Patients Previously Treated with Once- or Twice-Daily Basal Insulin)
+
+                        OTSD, one-time starting dose.
+
+                        Notes: This figure separates the ONSWIK patients into two groups: those who received the one-time starting dose and those who did not. The one-time starting dose was not recommended for patients with baseline FBG ≤120 mg/dL. The degludec patients were separated into two groups: baseline FBG <120 mg/dL and baseline FBG ≥120 mg/dL.

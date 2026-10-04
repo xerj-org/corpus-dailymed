@@ -1,0 +1,53 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 5.9 Lipid Elevations, Anemia, Neutropenia, and Lymphopenia
+
+Perform a CBC prior to and periodically during treatment with LEQSELVI [see Dosage and Administration (
+
+                              2.1
+
+                           )].
+
+                           Lipid Elevations
+
+                        Treatment with LEQSELVI was associated with increases in triglycerides and total cholesterol, including HDL-C and LDL-C [see Adverse Reactions
+
+                              6.1
+
+                           )]. The effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined. Perform assessment of lipid parameters at baseline and periodically during treatment with LEQSELVI. Manage patients according to clinical guidelines for hyperlipidemia.
+
+                           Anemia
+
+                        Treatment with LEQSELVI was associated with an increased incidence of anemia (hemoglobin less than 8 g/dL) compared to placebo [see Adverse Reactions (
+
+                              6.1
+
+                           )]. Avoid or interrupt LEQSELVI treatment in patients with hemoglobin less than 8 g/dL [see Dosage and Administration (
+
+                              2.3
+
+                           )].
+
+                           Neutropenia
+
+                        Treatment with LEQSELVI was associated with an increased incidence of neutropenia (ANC less than 1000 cells/mm3) compared to placebo [see Adverse Reactions (
+
+                              6.1
+
+                           )]. Avoid or interrupt LEQSELVI treatment in patients with an ANC less than 1,000 cells/mm3
+                           [see Dosage and Administration (
+
+                              2.3
+
+                           )].
+
+                           Lymphopenia
+
+                        Treatment with LEQSELVI was associated with an increased incidence of lymphopenia (ALC less than 500 cells/mm3) compared to placebo [see Adverse Reactions (
+
+                              6.1
+
+                           )]. Avoid or interrupt LEQSELVI treatment in patients with an ALC less than 500 cells/mm3
+                           [see Dosage and Administration (
+
+                              2.3
+
+                           )].

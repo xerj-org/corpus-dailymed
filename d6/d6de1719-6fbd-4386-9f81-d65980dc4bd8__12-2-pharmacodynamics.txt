@@ -1,0 +1,119 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 12.2 Pharmacodynamics
+
+Rivaroxaban produces dose-dependent inhibition of FXa activity. Clotting tests, such as prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest®, are also prolonged dose-dependently. In children treated with rivaroxaban, the correlation between anti-factor Xa to plasma concentrations is linear with a slope close to 1.
+
+                        Monitoring for anticoagulation effect of rivaroxaban using anti-FXa activity or a clotting test is not recommended.
+
+                           Specific Populations
+
+                           Renal Impairment
+
+                        The relationship between systemic exposure and pharmacodynamic activity of rivaroxaban was altered in adult subjects with renal impairment relative to healthy control subjects [see Use in Specific Populations (8.6)].
+
+                           Table 18: Percentage Increase in Rivaroxaban PK and PD Measures in Adult Subjects with Renal Impairment Relative to Healthy Subjects from Clinical Pharmacology Studies
+
+                                  Measure
+
+                                  |
+                                  Parameter
+
+                                  |
+                                  Creatinine Clearance (mL/min)
+
+                                  |
+
+                                  50-79
+
+                                  |
+                                  30-49
+
+                                  |
+                                  15-29
+
+                                  |
+                                  ESRD
+
+ (on dialysis)*
+
+                                  |
+                                  ESRD (post-dialysis)*
+
+                                  |
+
+                                  Exposure
+
+                                  |
+                                  AUC
+
+                                  |
+                                  44
+
+                                  |
+                                  52
+
+                                  |
+                                  64
+
+                                  |
+                                  47
+
+                                  |
+                                  56
+
+                                  |
+
+                                  FXa Inhibition
+
+                                  |
+                                  AUEC
+
+                                  |
+                                  50
+
+                                  |
+                                  86
+
+                                  |
+                                  100
+
+                                  |
+                                  49
+
+                                  |
+                                  33
+
+                                  |
+
+                                  PT Prolongation
+
+                                  |
+                                  AUEC
+
+                                  |
+                                  33
+
+                                  |
+                                  116
+
+                                  |
+                                  144
+
+                                  |
+                                  112
+
+                                  |
+                                  158
+
+                                  |
+
+                           *Separate stand-alone study.
+
+                        PT = Prothrombin time; FXa = Coagulation factor Xa; AUC = Area under the plasma concentration-time curve; AUEC = Area under the effect-time curve
+
+                           Hepatic Impairment
+
+                        Anti-Factor Xa activity was similar in adult subjects with normal hepatic function and in mild hepatic impairment (Child-Pugh A class). There is no clear understanding of the impact of hepatic impairment beyond this degree on the coagulation cascade and its relationship to efficacy and safety.
+
+                           Cardiac Electrophysiology
+
+                        In a thorough QT study in healthy men and women aged 50 years and older, no QTc prolonging effects were observed for rivaroxaban tablets (15 mg and 45 mg, single dose).

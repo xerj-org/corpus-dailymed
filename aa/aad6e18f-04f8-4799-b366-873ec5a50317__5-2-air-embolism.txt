@@ -1,0 +1,9 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 5.2 Air Embolism
+
+Cases of air embolism have been reported with pressurized administration of intravenous fluids. Air embolism may result in stroke, organ ischemia and/or infarction, and death.
+
+                        Use a non-vented infusion set or close the vent on a vented set and use a dedicated line without any connections. If administration is controlled by a pumping device, care must be taken to discontinue the pumping action before the container is empty.
+
+                        Pressure infusion is not recommended to increase flow rates, but if necessary, ensure all air is removed from the bag before infusion.
+
+                        Refrain from applying excessive pressure (>300mmHg) causing distortion to the container such as wringing or twisting. Such handling could result in breakage of the container [see Dosage and Administration (2.2)].

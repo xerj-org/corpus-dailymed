@@ -1,0 +1,3 @@
+DailyMed ac1f88c2-2cf2-47de-a612-946cd4503090 | Lorazepam | Essential Laboratory Tests
+
+Some patients on lorazepam have developed leukopenia, and some have had elevations of LDH. As with other benzodiazepines, periodic blood counts and liver function tests are recommended for patients on long-term therapy.

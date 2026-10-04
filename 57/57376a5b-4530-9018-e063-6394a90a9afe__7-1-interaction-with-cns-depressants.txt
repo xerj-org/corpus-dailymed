@@ -1,0 +1,9 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 7.1 Interaction with CNS Depressants
+
+Almost all patients in the PRIALT clinical trials received concomitant non-intrathecal medication. Most patients received several concomitant drugs, including antidepressants (66%), anxiolytics (52%), antiepileptics (47%), neuroleptics (46%), and sedatives (34%). The use of drugs with CNS-depressant activities may be associated with an increased incidence of CNS adverse reactions such as dizziness and confusion [
+
+  see Warnings and Precautions (
+
+   5)
+
+  ].

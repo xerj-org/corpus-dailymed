@@ -1,0 +1,3 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Effect of Haloperidol on Other Drugs
+
+Haloperidol is an inhibitor of CYP2D6.  Plasma concentrations of CYP2D6 substrates (e.g., tricyclic antidepressants such as desipramine or imipramine) may increase when they are co-administered with haloperidol.

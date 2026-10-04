@@ -1,0 +1,9 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 5.2 Hepatotoxicity
+
+ZEPZELCA can cause hepatotoxicity which may be severe.
+
+                        Monitor liver function tests prior to initiating ZEPZELCA and periodically during treatment as clinically indicated. Withhold, reduce the dose, or permanently discontinue ZEPZELCA based on severity [see Dosage and Administration (2.2)].
+
+                           In the IMforte study [see
+
+                              Adverse Reactions (6.1)], based on laboratory values, increased alanine aminotransferase (ALT) occurred in 25%, including 3% Grade 3 or Grade 4 in patients who received ZEPZELCA in combination with atezolizumab. Increased aspartate aminotransferase (AST) occurred in 24% including 3% Grade 3 or Grade 4. The median time to onset of Grade ≥ 3 elevation in transaminases was 52 days (range: 6 to 337).

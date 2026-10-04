@@ -1,0 +1,11 @@
+DailyMed 0961f83e-25e9-4ffc-8669-44e4e9169978 | Bupropion Hydrochloride | 8.6 Renal Impairment
+
+Consider a reduced dose and/or dosing frequency of bupropion hydrochloride tablets in patients with renal impairment (GFR less than 90 mL/min). Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual. Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [
+
+                              see Dosage and Administration (2.3)
+
+                           ,
+
+                              Clinical Pharmacology (12.3)
+
+                           ].

@@ -1,0 +1,15 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+                     Cytokine Release Syndrome (CRS) [see Warnings and Precautions (5.1)]
+
+                     Neurologic Toxicity Including ICANS [see Warnings and Precautions (5.2)]
+
+                     Cytopenias [see Warnings and Precautions (5.3)]
+
+                     Infections [see Warnings and Precautions (5.4)]
+
+                     Hepatotoxicity [see Warnings and Precautions (5.5)]
+
+                     Hypersensitivity [see Warnings and Precautions (5.6)]

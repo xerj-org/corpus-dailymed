@@ -1,0 +1,13 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 2.3 Heart Failure Post-Myocardial Infarction
+
+For the treatment of post-myocardial infarction patients who have shown signs of congestive heart failure, the recommended starting dose of ramipril capsules is 2.5 mg twice daily (5 mg per day). A patient who becomes hypotensive at this dose may be switched to 1.25 mg twice daily. After one week at the starting dose, increase dose (if tolerated) toward a target dose of 5 mg twice daily, with dosage increases being about 3 weeks apart.
+
+  After the initial dose of ramipril capsules, observe the patient under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour. If possible, reduce the dose of any concomitant diuretic as this may diminish the likelihood of hypotension. The appearance of hypotension after the initial dose of ramipril capsules does not preclude subsequent careful dose titration with the drug, following effective management of the hypotension
+
+  [see
+
+   Warnings and Precautions (5.5),
+
+   Drug Interactions (7.1)]
+
+  .

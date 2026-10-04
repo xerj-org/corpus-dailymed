@@ -1,0 +1,5 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | 8.5 Geriatric Use
+
+There were 347 subjects in clinical studies of levetiracetam that were 65 years old and over. No overall differences in safety were observed between these subjects and younger subjects. There were insufficient numbers of elderly subjects in controlled trials of epilepsy to adequately assess the effectiveness of levetiracetam in these patients.
+
+                        Levetiracetam is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].

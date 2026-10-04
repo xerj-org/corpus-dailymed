@@ -1,0 +1,11 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 2.2 Dosing in Patients with Hepatic Impairment
+
+In patients with moderate hepatic impairment (Child-Pugh B: 7-9), the maximum recommended dosage of XADAGO is 50 mg orally once daily. XADAGO is contraindicated in patients with severe hepatic impairment (Child-Pugh C: 10-15)
+
+  [see
+
+   Use in Specific Populations (8.6) and
+
+   Clinical Pharmacology (12.3)]
+
+  . If a patient taking 50 mg XADAGO progresses from moderate to severe hepatic impairment, discontinue XADAGO.

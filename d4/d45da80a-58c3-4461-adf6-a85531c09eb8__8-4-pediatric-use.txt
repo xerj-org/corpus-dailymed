@@ -1,0 +1,7 @@
+DailyMed d45da80a-58c3-4461-adf6-a85531c09eb8 | Telmisartan | 8.4 Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established [see Clinical Pharmacology (12.3)].
+
+                           Neonates with a history of in utero exposure to telmisartan
+
+                        If oliguria or hypotension occurs, support blood pressure and renal perfusion. Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.

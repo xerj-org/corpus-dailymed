@@ -1,0 +1,5 @@
+DailyMed 5b0b19b1-4c3c-4ecb-8153-8c58ba29e5ee | METOPROLOL TARTRATE | 5.5 Major Surgery
+
+Avoid initiation of a high-dose regimen of beta-blocker therapy in patients undergoing non-cardiac surgery, since such use in patients with cardiovascular risk factors has been associated with bradycardia, hypotension, stroke and death.
+
+                        Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.

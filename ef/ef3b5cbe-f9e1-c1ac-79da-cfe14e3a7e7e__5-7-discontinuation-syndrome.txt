@@ -1,0 +1,7 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 5.7 Discontinuation Syndrome
+
+Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
+
+                        During clinical trials of GAD and PTSD, gradual decreases in the daily PAXIL dosage by 10 mg/day at weekly intervals followed by 1 week at 20 mg/day was used before treatment was discontinued. The following adverse reactions were reported at an incidence of 2% or greater for PAXIL and were at least twice that reported for placebo: abnormal dreams, paresthesia, and dizziness adverse reactions have been reported upon discontinuation of treatment with PAXIL in pediatric patients. The safety and effectiveness of PAXIL in pediatric patients have not been established [see Warnings and Precautions (5.1), Use in Specific Populations (8.4)].
+
+                        When discontinuing PAXIL, a gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Dosage and Administration (2.7)].

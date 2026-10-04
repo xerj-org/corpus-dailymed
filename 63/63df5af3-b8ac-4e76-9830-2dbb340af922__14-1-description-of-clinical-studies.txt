@@ -1,0 +1,170 @@
+DailyMed 63df5af3-b8ac-4e76-9830-2dbb340af922 | Tivicay PD; Tivicay | 14.1 Description of Clinical Studies
+
+The efficacy and safety of TIVICAY or TIVICAY PD were evaluated in the studies summarized in Table 15.
+
+                           Table 15. Trials Conducted with TIVICAY or TIVICAY PD in Participants with HIV1
+
+                                 NRTI = nucleoside reverse transcriptase inhibitor; BR = Background regimen; INSTI = integrase strand transfer inhibitor; OBT = Optimized background therapy; CAR = Current antiretroviral regimen. |
+
+                                       Population
+
+                                  |
+
+                                       Trial
+
+                                  |
+
+                                       Trial Arms
+
+                                  |
+
+                                       Timepoint (Week)
+
+                                  |
+
+                                       Adults:
+
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                           
+
+   Treatment-naïve
+
+                                  |
+
+                                    SPRING-2 (ING113086)
+
+(NCT01227824)
+
+                                  |
+
+                                    TIVICAY + 2 NRTIs (n = 403)
+
+                                    Raltegravir + 2 NRTIs (n = 405)
+
+                                  |
+
+                                    96
+
+                                  |
+
+                                    SINGLE (ING114467)
+
+(NCT01263015)
+
+                                  |
+
+                                    TIVICAY + EPZICOM (n = 414)
+
+                                    ATRIPLA (n = 419)
+
+                                  |
+
+                                    144
+
+                                  |
+
+                                    FLAMINGO (ING114915)
+
+(NCT01449929)
+
+                                  |
+
+                                    TIVICAY + NRTI BR (n = 243)
+
+                                    Darunavir/ritonavir + NRTI BR (n = 242)
+
+                                  |
+
+                                    96
+
+                                  |
+
+                                           
+
+   Treatment-experienced, INSTI-naïve
+
+                                  |
+
+                                    SAILING (ING111762)
+
+(NCT01231516)
+
+                                  |
+
+                                    TIVICAY + BR (n = 354)
+
+                                    Raltegravir + BR (n = 361)
+
+                                  |
+
+                                    48
+
+                                  |
+
+                                           
+
+   INSTI-experienced
+
+                                  |
+
+                                    VIKING-3 (ING112574)
+
+                                    (NCT01328041)
+
+                                  |
+
+                                    TIVICAY + OBT (n = 183)
+
+                                  |
+
+                                    48
+
+                                  |
+
+                                           
+
+   Virologically suppressed
+
+                                  |
+
+                                    SWORD-1 (NCT02429791)
+
+                                    SWORD-2 (NCT02422797)
+
+                                  |
+
+                                    Pooled presentation
+
+                                    TIVICAY + Rilpivirine (n = 513)
+
+                                    CAR (n = 511)
+
+                                  |
+
+                                    48
+
+                                  |
+
+                                       Pediatrics:
+
+                                           
+
+   4 weeks and older and weighing at least 3 kg without INSTI resistance
+
+                                  |
+
+IMPAACT P1093 (NCT01302847)
+
+                                  |
+
+TIVICAY or TIVICAY PD + BR (n = 75)
+
+                                  |
+
+24
+
+                                  |

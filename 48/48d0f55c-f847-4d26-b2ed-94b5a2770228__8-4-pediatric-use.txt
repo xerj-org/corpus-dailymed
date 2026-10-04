@@ -1,0 +1,38 @@
+DailyMed 48d0f55c-f847-4d26-b2ed-94b5a2770228 | Amphetamine Extended-Release | 8.4 Pediatric Use
+
+The safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years of age in three adequate and well-controlled clinical trials of up to 4 weeks in duration
+
+  [see
+                           Adverse Reactions (
+
+                              6.1
+
+                           ), Clinical Pharmacology (
+
+                              12
+
+                           ), Clinical Studies (
+
+                              14
+
+                           )].
+
+                        The safety and effectiveness of amphetamine extended-release orally disintegrating tablets have not been established in pediatric patients below the age of 6 years.
+
+                        In studies evaluating extended-release amphetamine products, patients 4 to <6 years of age had higher systemic amphetamine exposures than those observed in older pediatric patients at the same dosage. Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
+
+                              Long-Term Growth Suppression
+
+                        Growth should be monitored during treatment with stimulants, including amphetamine extended-release orally disintegrating tablets, in pediatric patients aged 6 to 17 years who are not growing or gaining weight as expected may need to have their treatment interrupted
+
+  [see Warnings and Precautions (
+
+                              5.5
+
+                           )].
+
+                              Juvenile Animal Data
+
+                        In a juvenile developmental study, rats received daily oral doses of amphetamine (d to l enantiomer ratio of 3:1, the same as in amphetamine extended-release orally disintegrating tablets) of 2, 6, or 20 mg/kg on days 7 to 13 of age; from day 14 to approximately day 60 of age these doses were given twice daily for total daily doses of 4, 12, or 40 mg/kg. The latter doses are approximately 0.6, 2, and 6 times the maximum recommended human dose for children of 18.8 mg/day (as base), on a mg/m
+
+  2basis. Post dosing hyperactivity was seen at all doses; motor activity measured prior to the daily dose was decreased during the dosing period but the decreased motor activity was largely absent after an 18 day drug-free recovery period. Performance in the Morris water maze test for learning and memory was impaired at the 40 mg/kg dose, and sporadically at the lower doses, when measured prior to the daily dose during the treatment period; no recovery was seen after a 19 day drug-free period. A delay in the developmental milestones of vaginal opening and preputial separation was seen at 40 mg/kg but there was no effect on fertility.

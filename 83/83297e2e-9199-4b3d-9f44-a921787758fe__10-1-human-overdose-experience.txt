@@ -1,0 +1,3 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 10.1 Human Overdose Experience
+
+Overdoses involving quantities up to 15 g have been reported for lamotrigine, some of which have been fatal. Overdose has resulted in ataxia, nystagmus, seizures (including tonic-clonic seizures), decreased level of consciousness, coma, and intraventricular conduction delay.

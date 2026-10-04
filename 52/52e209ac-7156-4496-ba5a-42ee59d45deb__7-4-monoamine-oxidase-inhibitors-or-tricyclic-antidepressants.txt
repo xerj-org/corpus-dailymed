@@ -1,0 +1,3 @@
+DailyMed 52e209ac-7156-4496-ba5a-42ee59d45deb | Albuterol sulfate | 7.4 Monoamine Oxidase Inhibitors or Tricyclic Antidepressants
+
+Albuterol sulfate inhalation aerosol should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of albuterol on the cardiovascular system may be potentiated. Consider alternative therapy in patients taking MAO inhibitors or tricyclic antidepressants.

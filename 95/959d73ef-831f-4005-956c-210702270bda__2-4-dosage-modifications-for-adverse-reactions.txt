@@ -1,0 +1,175 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 2.4 Dosage Modifications for Adverse Reactions
+
+The recommended dosage reduction levels for adverse reactions are listed in Table 1. 
+
+                           Table 1: Recommended Dosage Reductions of REVTORPYK for Adverse Reactions
+
+                                    Dose Reductions
+                                  |
+
+                                    Recommended Dose
+                                  |
+
+                                    First
+                                  |
+                                 150 mg |
+
+                                    Second
+                                  |
+                                 130 mg |
+
+                        Permanently discontinue REVTORPYK in patients who are unable to tolerate 130 mg intravenously once weekly on Days 1, 8, and 15 of every 28-day cycle.
+
+                        The recommended dosage modifications for adverse reactions are described in Table 2. 
+
+                           Table 2: Recommended Dosage Modifications of REVTORPYK for Adverse Reactions
+
+                                 Abbreviations: FBG, fasting blood glucose; FPG, fasting plasma glucose; ULN, upper limit of normal. |
+
+                                    Adverse Reaction
+                                  |
+
+                                    SeverityAdverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0.
+
+                                  |
+
+                                    Dosage Modification
+                                  |
+
+                                    Stomatitis
+
+                                       [see Warnings and Precautions (5.1)]
+
+                                  |
+                                 Grade 3 |
+
+                                       Withhold REVTORPYK until recovery to Grade ≤2.
+
+                                       Resume at next lower dose.
+
+                                  |
+
+                                 Grade 4 |
+
+                                       Permanently discontinue REVTORPYK.
+
+                                  |
+
+                                 Hematologic Toxicities
+                                       [see Adverse Reactions (6.1)]
+
+                                  |
+                                 Grade 4 |
+
+                                       Withhold REVTORPYK until recovery to Grade ≤2.
+
+                                       Resume at next lower dose.
+
+                                  |
+
+                                    Dermatologic Adverse Reactions
+
+                                       [see Warnings and Precautions (5.2)]
+
+                                  |
+                                 Grade 3 rash (both maculopapular and acneiform) |
+
+                                       Withhold REVTORPYK until recovery to Grade ≤1.
+
+                                       Resume at next lower dose.
+
+                                       For recurrent Grade 3, permanently discontinue REVTORPYK.
+
+                                  |
+
+                                 Grade 4 rash (acneiform) |
+
+                                       Permanently discontinue REVTORPYK.
+
+                                  |
+
+                                 Any Grade of Stevens-Johnson Syndrome (SJS)/‌Toxic Epidermal Necrolysis (TEN) or other SJS/TEN-like severe skin reactions |
+
+                                       Permanently discontinue REVTORPYK.
+
+                                  |
+
+                                 Hyperglycemia (Fasting Glucose [FG])
+
+                                    [see Warnings and Precautions (5.3)]
+                                  |
+                                 FG levels (FPG or FBG) > ULN-160 mg/dL (>ULN-8.9 mmol/L) |
+
+                                       No adjustment of REVTORPYK required.
+
+                                       Initiate dietary modifications and ensure adequate hydration.
+
+                                       Consider initiating or intensifying oral anti-hyperglycemic treatment as clinically indicated.
+
+                                  |
+
+                                 FG levels 161-250 mg/dL (9-13.9 mmol/L) |
+
+                                       No adjustment of REVTORPYK required.
+
+                                       Initiate dietary modifications, ensure adequate hydration, and consider initiation or intensify anti-hyperglycemic treatment.
+
+                                       Consider consultation with a healthcare professional experienced in the treatment of hyperglycemia.
+
+                                  |
+
+                                 251-500 mg/dL
+
+(14-27.8 mmol/L) |
+
+                                       Ensure adequate hydration.
+
+                                       Retest glucose:
+
+                                             If glucose remains >250 mg/dL, initiate or intensify anti-hyperglycemic treatment and withhold REVTORPYK.
+
+                                             If glucose is <250 mg/dL (<13.9 mmol/L), initiate REVTORPYK at the same dose.
+
+                                       Consider consultation with a healthcare professional experienced in the treatment of hyperglycemia.
+
+                                  |
+
+                                 >500 mg/dL (>27.8 mmol/L) |
+
+                                       Withhold REVTORPYK
+
+                                       Initiate or intensify anti-hyperglycemic treatment.
+
+                                       Ensure adequate hydration.
+
+                                       Consider consultation with a healthcare professional experienced in the treatment of hyperglycemia.
+
+                                       If glucose decreases to <250 mg/dL (<13.9 mmol/L), resume REVTORPYK at next lower dose.
+
+                                       For recurrent increase in glucose >500 mg/dL, permanently discontinue REVTORPYK.
+
+                                  |
+
+                                 Other Adverse Reactions
+
+                                    [see Adverse Reactions (6.1)]
+                                  |
+                                 Grade 2 |
+
+                                       If Grade 2 persists for longer than 3 weeks, withhold REVTORPYK until recovery to Grade ≤1, then resume treatment at next lower dose.
+
+                                  |
+
+                                 Grade 3 |
+
+                                       Withhold REVTORPYK until recovery to Grade ≤1.
+
+                                       Resume at next lower dose.
+
+                                  |
+
+                                 Grade 4 |
+
+                                       Permanently discontinue REVTORPYK.
+
+                                  |

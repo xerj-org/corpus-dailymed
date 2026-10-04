@@ -1,0 +1,17 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 5.1 Cognitive and Neuropsychiatric Adverse Reactions
+
+Severe psychiatric symptoms and neurological impairment may occur during treatment with PRIALT. PRIALT is contraindicated in patients with a pre-existing history of psychosis. Monitor all patients frequently for evidence of cognitive impairment, hallucinations, or changes in mood or consciousness. PRIALT therapy can be interrupted or discontinued abruptly without evidence of withdrawal effects in the event of serious neurological or psychiatric signs or symptoms.
+
+                        Events of acute psychiatric disturbances such as hallucinations (12%), paranoid reactions (3%), hostility (2%), delirium (2%), psychosis (1%), and manic reactions (0.4%) have been reported in patients treated with PRIALT. Patients with pretreatment psychiatric disorders may be at an increased risk. PRIALT may cause or worsen depression with the risk of suicide in susceptible patients. In placebo-controlled trials, there was a higher incidence of suicide, suicide attempts, and suicide ideations in PRIALT-treated patients than in the placebo group (0.27/patient year for PRIALT patients and 0.10/patient year for placebo patients).
+
+                        Management of psychiatric complications may need to include discontinuation of PRIALT, treatment with psychotherapeutic agents and/or short-term hospitalization. Before drug is reinitiated, careful evaluation must be performed on an individual basis.
+
+                        Use of PRIALT has been associated with cognitive impairment and decreased alertness/unresponsiveness. The following cognitive adverse reaction rates were reported: confusion (33%), memory impairment (22%), speech disorder (14%), aphasia (12%), thinking abnormal (8%), and amnesia (1%). Cognitive impairment may appear gradually after several weeks of treatment. Reduce the dose of PRIALT or discontinue the use of PRIALT if signs or symptoms of cognitive impairment develop, but other contributing causes must also be considered. The cognitive effects of PRIALT are generally reversible within 2 weeks after drug discontinuation. The median time to reversal of the individual cognitive effects ranged from 3 to 15 days. The elderly (≥ 65 years of age) are at higher risk for confusion. [
+
+  see Use in Specific Populations (
+
+   8.5)
+
+  ]
+
+                        There may be additive effects on cognitive impairment and decreased alertness when PRIALT is used in conjunction with other CNS-depressant drugs that may necessitate dosage adjustments.

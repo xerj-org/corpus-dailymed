@@ -1,0 +1,9 @@
+DailyMed c19664aa-a797-4192-b5f3-e906a7cac048 | Benztropine Mesylate | WARNINGS
+
+Safe use in pregnancy has not been established.
+
+                  Benztropine mesylate may impair mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle.
+
+                  When benztropine mesylate is given concomitantly with phenothiazines, haloperidol, or other drugs with anticholinergic or antidopaminergic activity, patients should be advised to report gastrointestinal complaints, fever or heat intolerance promptly. Paralytic ileus, hyperthermia and heat stroke, all of which have sometimes been fatal, have occurred in patients taking anticholinergic-type antiparkinsonism drugs, including benztropine mesylate, in combination with phenothiazines and/or tricyclic antidepressants.
+
+                  Since benztropine mesylate contains structural features of atropine, it may produce anhidrosis. For this reason, it should be administered with caution during hot weather, especially when given concomitantly with other atropine-like drugs to the chronically ill, the alcoholic, those who have central nervous system disease, and those who do manual labor in a hot environment. Anhidrosis may occur more readily when some disturbance of sweating already exists. If there is evidence of anhidrosis, the possibility of hyperthermia should be considered. Dosage should be decreased at the discretion of the physician so that the ability to maintain body heat equilibrium by perspiration is not impaired. Severe anhidrosis and fatal hyperthermia have occurred.

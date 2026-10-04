@@ -1,0 +1,6 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 1.14 Acute Bacterial Sinusitis: 5-day and 10-14 day Treatment Regimens
+
+Levofloxacin is indicated for the treatment of acute bacterial sinusitis (ABS) due to Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis
+                           [see Clinical Studies (14.4)].
+
+                        Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients ABS is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no alternative treatment options.

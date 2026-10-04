@@ -1,0 +1,5 @@
+DailyMed 678dfe58-3200-4c3d-9718-365aa47d070f | PRAVASTATIN SODIUM | 8.6 Renal Impairment
+
+Renal impairment is a risk factor for myopathy and rhabdomyolysis. Monitor all patients with renal impairment for development of myopathy.
+
+                        In patients with severe renal impairment, the recommended starting dose is pravastatin sodium 10 mg once daily. The maximum recommended dosage in patients with severe renal impairment is pravastatin sodium 40 mg once daily. The recommended dosage for patients with mild or moderate renal impairment is the same as patients with normal renal function. [see Dosage and Administration (2.4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].

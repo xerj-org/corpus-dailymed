@@ -1,0 +1,59 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 14.5 Maintenance of Healing of EE Due to Acid-Mediated GERD
+
+In a U.S. double-blind, randomized, multicenter, placebo-controlled study; two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis. Results to determine maintenance of healing of erosive esophagitis are shown in Table 18.
+
+                           Table 18: Life Table Analysis
+
+                                  |
+                                 Omeprazole
+
+20 mg once daily
+
+(n=138) |
+                                 Omeprazole
+
+20 mg 3 days per week
+
+(n=137) |
+                                 Placebo
+
+(n=131) |
+
+                                 Percent in Endoscopic Remission at 6 Months |
+                                 70(p < 0.01) omeprazole 20 mg once daily versus omeprazole 20 mg 3 consecutive days per week or placebo.
+
+                                  |
+                                 34 |
+                                 11 |
+
+                        In an international, multicenter, double-blind study, omeprazole 20 mg daily and 10 mg daily were compared to ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis. Table 19 provides the results of this study for maintenance of healing of EE.
+
+                           Table 19: Life Table Analysis
+
+                                  |
+                                 Omeprazole
+
+20 mg once daily
+
+ (n = 131) |
+                                 Omeprazole
+
+ 10 mg once daily
+
+ (n = 133) |
+                                 Ranitidine
+
+ 150 mg twice daily
+
+ (n = 128) |
+
+                                 Percent in Endoscopic Remission at 12 Months |
+                                 77(p = 0.01) omeprazole 20 mg once daily versus omeprazole 10 mg once daily or Ranitidine.
+
+                                  |
+                                 58(p = 0.03) omeprazole 10 mg once daily versus Ranitidine.
+
+                                  |
+                                 46 |
+
+                        In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing 20 mg daily of omeprazole was effective, while 10 mg did not demonstrate effectiveness.

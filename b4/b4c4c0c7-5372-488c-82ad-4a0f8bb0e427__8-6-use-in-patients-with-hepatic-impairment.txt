@@ -1,0 +1,3 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 8.6 Use in Patients with Hepatic Impairment
+
+Patients with hepatic impairment may display higher doxepin concentrations than healthy individuals. Initiate doxepin treatment with 3 mg in patients with hepatic impairment and monitor closely for adverse daytime effects. [see Clinical Pharmacology (12.3)]

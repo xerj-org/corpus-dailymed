@@ -1,0 +1,33 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 2.2 Induction of General Anesthesia for Patients Greater than or Equal to 3 Years of Age
+
+Adult Patients
+
+                        Most adult patients under 65 years of age and classified as ASA-PS I or II require 2 mg/kg to 2.5 mg/kg of propofol injectable emulsion. For induction, whether administered by infusion or intravenous injection the dose of propofol injectable emulsion to the patient should be titrated against the response of the patient and until there are clinical signs consistent with the onset of anesthesia. As with other sedative-hypnotic agents, the amount of intravenous opioid and/or benzodiazepine premedication may impact the dose of propofol injectable emulsion required for induction of general anesthesia.
+
+                           Elderly, Debilitated, or ASA-PS III or IV Patients
+
+                        Due to the reduced clearance and higher blood concentrations, most elderly, debilitated, or ASA-PS III or IV patients require approximately 1 mg/kg to 1.5 mg/kg of propofol injectable emulsion for induction of anesthesia. For induction, whether administered by infusion or intravenous injection the dose administration of propofol injectable emulsion to the patient should be titrated against the response of the patient and until there are clinical signs consistent with the onset of anesthesia. A rapid bolus may increase the likelihood of undesirable cardiorespiratory depression. [See Warnings and Precautions (5.12)]
+
+                           Pediatric Patients
+
+                        Most patients aged 3 years through 16 years and classified ASA-PS I or II require 2.5 mg/kg to 3.5 mg/kg of propofol injectable emulsion for induction. Within this dosage range, younger pediatric patients may require higher induction doses than older pediatric patients. As with other sedative-hypnotic agents, the amount of intravenous opioid and/or benzodiazepine premedication may impact the dose of propofol injectable emulsion required for induction of general anesthesia. A lower dosage is recommended for pediatric patients classified as ASA-PS III or IV. Boluses of propofol injectable emulsion may be administered via small veins if pretreated with lidocaine or via antecubital or larger veins [see Dosage and Administration (2.7)].
+
+                           Neurosurgical Patients
+
+                        Most adult neurosurgical patients require 1 mg/kg to 2 mg/kg of propofol injectable emulsion. Slower induction is recommended to allow for titration to achieve an adequate clinical response. [see Warnings and Precautions (5.6)]. Whether administered by infusion or an intravenous injection, the dose of propofol injectable emulsion to the patient should be titrated against the response of the patient and until there are clinical signs consistent with the onset of anesthesia.
+
+                           Cardiac Anesthesia
+
+                        Most adult cardiac patients require 0.5 mg/kg to 1.5 mg/kg of propofol injectable emulsion. Slower induction is recommended to allow for titration to clinical response and to prevent hemodynamic instability. Whether administered by infusion or intravenous injection, the dose of propofol injectable emulsion to the patient should be titrated against the response of the patient until the clinical signs show the onset of anesthesia. Other agents used in addition to propofol injectable emulsion for induction and maintenance of anesthesia may require propofol injectable emulsion doses to be titrated to ensure adequate sedation level.
+
+                        Propofol injectable emulsion has been well-studied in patients with coronary artery disease and in patients with hemodynamically significant valvular or congenital heart disease. No significant safety issues or changes to the induction of anesthesia is generally required for these patient groups. Dosing should be titrated based on depth of anesthesia.
+
+                        As with other anesthetic and sedative-hypnotic agents, propofol injectable emulsion in healthy patients causes a decrease in blood pressure that is secondary to decreases in preload (ventricular filling volume at the end of the diastole) and afterload (arterial resistance at the beginning of the systole). The magnitude of these changes is proportional to the blood and effect site concentrations achieved. These concentrations depend upon the dose and speed of the induction and maintenance infusion rates.
+
+                        In addition, lower heart rates are observed during maintenance with propofol injectable emulsion, possibly due to reduction of the sympathetic activity and/or resetting of the baroreceptor reflexes. Therefore, anticholinergic agents should be administered when increases in vagal tone are anticipated.
+
+                        As with other anesthetic agents, propofol injectable emulsion reduces myocardial oxygen consumption.
+
+                        Further studies are needed to confirm and delineate the extent of these effects on the myocardium and the coronary vascular system.
+
+                        Morphine premedication (0.15 mg/kg) with nitrous oxide 67% in oxygen has been shown to decrease the necessary propofol injectable emulsion maintenance infusion rates and therapeutic blood concentrations when compared to non-narcotic (lorazepam) premedication. The rate of propofol injectable emulsion administration should be determined based on the patient's premedication and adjusted according to clinical responses.

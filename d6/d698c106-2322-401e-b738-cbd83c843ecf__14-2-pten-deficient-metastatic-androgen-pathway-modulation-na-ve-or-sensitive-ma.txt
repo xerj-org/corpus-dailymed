@@ -1,0 +1,77 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 14.2 PTEN-Deficient Metastatic Androgen Pathway Modulation-Naïve or -Sensitive (mAPMN/S) Prostate Cancer
+
+The efficacy of TRUQAP with abiraterone was evaluated in CAPItello-281 (NCT 04493853), a randomized, double-blind, placebo-controlled, multicenter trial that enrolled 1012 adult patients with newly diagnosed, PTEN-deficient mAPMN/S prostate cancer (previously referred to as metastatic hormone-sensitive prostate cancer or mHSPC). Tumor PTEN deficiency status (≥ 90% of viable malignant cells with no specific cytoplasmic staining) was prospectively determined using central testing with the immunohistochemistry-based VENTANA PTEN (SP218) RxDx Assay. The only allowable prior systemic therapy was up to 93 days of androgen deprivation therapy (ADT) and/or abiraterone. Patients were excluded if they had clinically significant abnormalities of glucose metabolism (defined as patients with diabetes mellitus Type 1 or Type 2 requiring insulin treatment, or HbA1c ≥ 8%).
+
+                        Patients were randomized (1:1) to receive capivasertib 400 mg orally twice daily for 4 days followed by 3 days off treatment each week, in combination with abiraterone 1000 mg orally daily (N=507) compared with placebo plus abiraterone (N=505) until disease progression, death, withdrawal of consent, or unacceptable toxicity. Patients were required to receive either prednisone or prednisolone 5 mg daily, and a gonadotropin-releasing hormone (GnRH) analog or prior orchiectomy. Randomization was stratified by combination of volume of disease and visceral metastases (high-volume disease with visceral metastases vs. high-volume disease without visceral metastases vs. low-volume disease), and geographical region (Western Europe, Australia, North America, Latin America, Eastern Europe, Asia).
+
+                        The major efficacy outcome was investigator-assessed radiographic progression-free survival (rPFS). Overall survival (OS) was an additional efficacy outcome measure.
+
+                        Of the 1012 patients enrolled, the median age was 68 years (range 42 to 88); 52% were White, 37% Asian, 4% American Indian or Alaska Native, 4% Not reported, 1% Black, 1% Missing and 0.4% Other; 13% were Hispanic or Latino, 86% Not Hispanic or Latino, 1% Missing; and baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (64%), 1 (36%). Seventy-four percent of patients had high volume disease including 19% with visceral metastases and 55% without visceral metastases. Type 2 diabetes mellitus was reported in 14% of patients. Ninety-nine percent of patients received previous hormonal therapy including 98% with ADT and 11% with abiraterone.
+
+                        The study demonstrated a statistically significant reduction in the risk of investigator-assessed radiographic progression (rPFS) for patients receiving TRUQAP in combination with abiraterone compared to patients receiving placebo in combination with abiraterone. Results from the blinded independent review committee (BICR) assessment were consistent with the investigator-assessed rPFS results.
+
+                        Efficacy results are presented in Table 10 and Figure 2. Overall survival results were immature at the time of the rPFS analysis (26% of the patients died).
+
+                           Table 10: Efficacy Results in CAPItello-281
+
+                                  |
+
+                                       TRUQAP plus Abiraterone
+
+                                       (N=507)
+
+                                  |
+
+                                       Placebo plus Abiraterone
+
+                                       (N=505)
+
+                                  |
+
+                                       Investigator‑Assessed Radiographic Progression-Free Survival (rPFS)
+
+                                  |
+
+                                       Number of events (%)
+
+                                  |
+
+                                    183 (36)
+
+                                  |
+
+                                    215 (43)
+
+                                  |
+
+                                       Median, months (95% CI)
+
+                                  |
+
+                                    33.2 (25.8, 44.2)
+
+                                  |
+
+                                    25.7 (22.0, 29.9)
+
+                                  |
+
+                                       Hazard ratio (95% CI)
+                                       Stratified Cox proportional hazards model stratified by volume of disease/visceral metastases, geographic location
+
+                                  |
+
+                                    0.81 (0.66, 0.98)
+
+                                  |
+
+                                       p-value
+                                       Two-sided p-value based on a stratified log-rank test stratified by volume of disease/visceral metastases, geographic location
+
+                                  |
+
+                                    0.034
+
+                                  |
+
+                           Figure 2: Kaplan-Meier Plot of Radiographic Progression-Free Survival in CAPItello-281

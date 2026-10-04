@@ -1,0 +1,967 @@
+DailyMed 5ca9a9b7-5efd-09bf-e063-6294a90a681d | COLESEVELAM HYDROCHLORIDE | 14.2 Type 2 Diabetes Mellitus
+
+Colesevelam hydrochloride has been studied as monotherapy and in combination with metformin, pioglitazone, sulfonylureas, and insulin. In these studies, colesevelam hydrochloride and placebo were administered either as 3 tablets twice daily with lunch and dinner or as 6 tablets with dinner alone.
+
+                           Monotherapy
+
+                        The efficacy of colesevelam hydrochloride 3.8 g/day as anti-diabetes monotherapy was evaluated in a randomized double-blind, placebo-controlled trial involving 357 patients (176 colesevelam hydrochloride and 181 placebo) with type 2 diabetes mellitus who were treatment-naïve or had not received antihyperglycemic medication within 3 months prior to the start of the study. Statin use at baseline was reported in 13% of the colesevelam hydrochloride-treated patients and 16% of the placebo‑treated patients.
+
+                        Colesevelam hydrochloride resulted in a statistically significant reduction in HbA1c of 0.27% compared to placebo (Table 10).
+
+                        The mean baseline LDL-C was 121 mg/dL in the monotherapy trial. Colesevelam hydrochloride treatment resulted in a placebo-corrected 11% reduction in LDL-C. Colesevelam hydrochloride treatment also reduced serum TC, ApoB, and non-HDL-C (Table 11). The mean change in body weight was -0.6 kg for colesevelam hydrochloride and ‑0.7 kg for placebo treatment groups.
+
+                            Table 10 Glycemic Parameters in a 24-Week Placebo-Controlled Study of Colesevelam Hydrochloride Monotherapy in Patients with Type 2 Diabetes
+
+                                  |
+
+                                     Colesevelam Hydrochloride
+
+                                    3.8 g/day
+                                  |
+
+                                     Placebo
+                                  |
+
+                                     HbA1c (%), Mean
+                                  |
+                                  |
+                                  |
+
+                                  N |
+                                  175 |
+                                  169 |
+
+                                  Baseline |
+                                  8.25 |
+                                  8.17 |
+
+                                  Change from baseline
+
+     Least-squares mean change calculated from an Analysis of Covariance model
+
+                                  |
+                                  -0.26 |
+                                  0.01 |
+
+                                  Treatment difference (p-value) |
+                                  -0.27 (p = 0.013)  |
+
+                                     FPG (mg/dL), Mean
+                                  |
+                                  |
+                                  |
+
+                                  N |
+                                  172 |
+                                  166 |
+
+                                  Baseline |
+                                  172 |
+                                  168 |
+
+                                  Change from baseline
+
+     *
+                                  |
+                                  -4.6 |
+                                  5.7 |
+
+                                  Treatment difference (p-value) |
+                                  -10.3 (p = 0.037
+
+     Nominal p = value, not controlled for multiplicity testing
+
+) 
+
+     |
+
+                        FPG = fasting plasma glucose
+
+                           Table 11 Percent Change in Lipid Parameters in a 24-Week Placebo-Controlled Study of Colesevelam Hydrochloride Monotherapy in Patients with Type 2 Diabetes 
+
+                                     Dose/Day
+                                  |
+
+                                     N
+
+      The number of patients with analyzable data, i.e., a baseline and post-treatment value (last observation carried forward), varied slightly among different parameters. The N given represents the smallest number of patients included in the analysis for any parameter.
+
+                                  |
+
+                                     TC
+                                  |
+
+                                     LDL-C
+                                  |
+
+                                     Apo B
+                                  |
+
+                                     HDL-C
+                                  |
+
+                                     Non-HDL-C
+                                  |
+
+                                    TG
+
+      Median % change from baseline
+
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  162 |
+                                  -3.3
+
+     p < 0.001 for lipid parameters compared to placebo (This more stringent criterion for statistical significance accounts for multiplicity testing of the lipid parameters, which were secondary endpoints in the diabetes trials.)
+
+                                  |
+                                  -10.0
+
+     ‡
+                                  |
+                                  -5.6
+
+     ‡
+                                  |
+                                  1.7 |
+                                  -4.4
+
+     ‡
+                                  |
+                                  15.5 |
+
+                                  Placebo |
+                                  160 |
+                                  1.8 |
+                                  1.2 |
+                                  0.9 |
+                                  -0.1 |
+                                  3.0 |
+                                  5.8 |
+
+                           Add-on Combination Therapy
+
+                        The efficacy of colesevelam hydrochloride 3.8 g/day in patients with type 2 diabetes mellitus was evaluated in 5 double-blind, placebo‑controlled add-on therapy trials involving a total of 1,691 patients with baseline HbA1c 7.5% to 9.5%. Patients were enrolled and maintained on their pre-existing, stable, background anti‑diabetic regimen. Statin use at baseline was reported in 41% of the colesevelam hydrochloride-treated patients and 48% of the placebo-treated patients.
+
+                        In 3 add-on combination therapy trials (metformin, sulfonylurea and insulin), treatment with colesevelam hydrochloride resulted in a statistically significant reduction in HbA1c of 0.5% compared to placebo. Similar placebo-corrected reductions in HbA1c occurred in patients who received colesevelam hydrochloride in combination with metformin, sulfonylurea, or insulin monotherapy or combinations of these therapies with other anti-diabetic agents. In the pioglitazone trial, treatment with colesevelam hydrochloride resulted in a statistically significant reduction in HbA1c of 0.32% compared to placebo. In the metformin, pioglitazone, and sulfonylurea trials, treatment with colesevelam hydrochloride also resulted in statistically significant reductions in FPG of at least 14 mg/dL compared to placebo.
+
+                        Colesevelam hydrochloride had consistent effects on HbA1c across subgroups of age, gender, race, body mass index, and baseline HbA1c. Colesevelam hydrochloride's effects on HbA1c were also similar for the two dosing regimens (3 tablets with lunch and with dinner or 6 tablets with dinner alone).
+
+                        The mean baseline LDL-C was 104 mg/dL in the metformin study (range 32 mg/dL to 214 mg/dL), 107 mg/dL in the pioglitazone study (range 48 mg/dL to 263 mg/dL), 106 mg/dL in the sulfonylurea study (range 41 mg/dL to 264 mg/dL), 102 mg/dL in the insulin study (range 35 mg/dL to 204 mg/dL). In these trials, colesevelam hydrochloride treatment was associated with a 12% to 16% reduction in LDL-C levels. The percentage decreases in LDL-C were of similar magnitude to those observed in patients with primary hyperlipidemia. Colesevelam hydrochloride treatment was associated with statistically significant increases in TG levels in the studies of patients on insulin, patients on a sulfonylurea, and patients on pioglitazone but not in the study of patients on metformin. The clinical significance of these increases is unknown. Colesevelam hydrochloride is contraindicated in patients with TG levels > 500 mg/dL
+
+  [see
+
+   Contraindications (4)]
+
+  , and periodic monitoring of lipid parameters including TG is recommended
+
+  [see
+
+   Warnings and Precautions (5.1)
+
+                           and
+
+   Adverse Reactions (6.1)]
+
+  .
+
+                        Body weight did not significantly increase from baseline with colesevelam hydrochloride therapy, compared with placebo, in any of the add-on combination diabetes studies.
+
+                           Add-on Combination Therapy with Metformin
+
+                        Colesevelam hydrochloride 3.8 g/day or placebo was added to background anti-diabetic therapy in a 26-week trial of 316 patients already receiving treatment with metformin alone (N = 159) or metformin in combination with other oral agents (N = 157). A total of 60% of these patients were receiving ≥ 1,500 mg/day of metformin. In combination with metformin, colesevelam hydrochloride resulted in statistically significant placebo-corrected reductions in HbA1c and FPG (Table 12). Colesevelam hydrochloride also reduced TC, LDL-C, Apo B, and non-HDL-C (Table 13). The mean percent change in serum LDL-C levels with colesevelam hydrochloride compared to placebo was -16% among statin users and statin non-users; the median percent change in serum TG levels with colesevelam hydrochloride compared to placebo was -2% among statin users and 10% among statin non-users. The mean change in body weight was -0.5 kg for colesevelam hydrochloride and -0.3 kg for placebo.
+
+                            Table 12 Glycemic Parameters in a 26-Week Placebo-Controlled Study of Colesevelam Hydrochloride in Combination with Metformin in Patients with Type 2 Diabetes
+
+                                  |
+
+                                     Total Patient Population
+                                  |
+
+                                     Metformin Alone
+                                  |
+
+                                     Metformin in Combination with Other Oral Anti-diabetic Agents
+                                  |
+
+                                  |
+
+                                     Colesevelam Hydrochloride 3.8 g/day
+                                  |
+
+                                    Placebo
+                                  |
+
+                                     Colesevelam Hydrochloride 3.8 g/day
+                                  |
+
+                                    Placebo 
+                                  |
+
+                                     Colesevelam Hydrochloride 3.8 g/day
+                                  |
+
+                                    Placebo 
+                                  |
+
+                                     HbA1c (%), Mean
+
+                                  |
+
+                                  N |
+                                  148 |
+                                  152 |
+                                  79 |
+                                  76 |
+                                  69 |
+                                  76 |
+
+                                  Baseline |
+                                  8.1 |
+                                  8.1 |
+                                  8.2 |
+                                  8.2 |
+                                  8.1 |
+                                  8.0 |
+
+                                  Change from baseline
+
+      Least-squares mean change calculated from an Analysis of Covariance model
+
+                                  |
+                                  -0.4 |
+                                  0.2 |
+                                  -0.4 |
+                                  0.0 |
+                                  -0.4 |
+                                  0.3 |
+
+                                  Treatment difference (p-value) |
+                                  -0.5 (p < 0.001)  |
+                                  -0.5 (p = 0.002)  |
+                                  -0.6 (p < 0.001)  |
+
+                                     FPG (mg/dL), Mean
+                                  |
+
+                                  N |
+                                  149 |
+                                  152 |
+                                  79 |
+                                  76 |
+                                  70 |
+                                  76 |
+
+                                  Baseline |
+                                  178 |
+                                 174 |
+                                  184 |
+                                  180 |
+                                  171 |
+                                  168 |
+
+                                  Change from baseline* |
+                                  -3 |
+                                  11 |
+                                  -7 |
+                                  8 |
+                                  0 |
+                                  13 |
+
+                                 Treatment difference (p-value) |
+                                 -14 (p = 0.01) |
+                                 -14 (p = 0.07) |
+                                 -14 (p = 0.10) |
+
+                            Table 13 Percent Change in Lipid Parameters in a 26-Week Placebo-Controlled Study of Colesevelam Hydrochloride in Combination with Metformin in Patients with Type 2 Diabetes
+
+                                     Dose/Day
+                                  |
+
+                                     N
+
+      The number of patients with analyzable data, i.e., a baseline and post-treatment value (last observation carried forward), varied slightly among different parameters. The N given represents the smallest number of patients included in the analysis for any parameter.
+
+                                  |
+
+                                     TC
+                                  |
+
+                                     LDL-C
+                                  |
+
+                                     Apo B
+                                  |
+
+                                     HDL-C
+                                  |
+
+                                     Non-HDL- C
+                                  |
+
+                                     TG
+
+      Median % change from baseline
+
+                                  |
+
+                                     Total Patient Population
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  125 |
+                                  -4
+
+     p < 0.001 for lipid parameters compared to placebo (This more stringent criterion for statistical significance accounts for multiplicity testing of the lipid parameters, which were secondary endpoints in the diabetes trials.)
+
+                                  |
+                                  -12
+
+     ‡
+                                  |
+                                  -4
+
+     ‡
+                                  |
+                                  1 |
+                                  -6
+
+     ‡
+                                  |
+                                  12 |
+
+                                  Placebo |
+                                  126 |
+                                  3 |
+                                  4 |
+                                  4 |
+                                  0 |
+                                  5 |
+                                  7 |
+
+                                     Metformin Alone
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  66 |
+                                  -3 |
+                                  -9 |
+                                  -2 |
+                                  1 |
+                                  -4 |
+                                  15 |
+
+                                  Placebo |
+                                  61 |
+                                  2 |
+                                  0 |
+                                  1 |
+                                  -2 |
+                                  4 |
+                                  8 |
+
+                                     Metformin in Combination with Other Oral Anti-diabetic Agents
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  59 |
+                                  -6
+
+     ‡
+                                  |
+                                  -15
+
+     ‡
+                                  |
+                                  -6
+
+     ‡
+                                  |
+                                  1 |
+                                  -7
+
+     ‡
+                                  |
+                                  8 |
+
+                                  Placebo |
+                                  65 |
+                                  4 |
+                                  7 |
+                                  7 |
+                                  2 |
+                                  6 |
+                                  5 |
+
+                           Add-on Combination Therapy with Pioglitazone
+
+                        Colesevelam hydrochloride 3.8 g/day or placebo was added to background anti-diabetic therapy in a 24-week trial of 562 patients already receiving treatment with pioglitazone alone (N = 51) or pioglitazone in combination with other oral agents (N = 511). Of these, most were on dual therapy with metformin (N = 298) or triple therapy with metformin and a sulfonylurea (N = 139). In combination with pioglitazone-based therapy, colesevelam hydrochloride resulted in statistically significant reductions in HbA1c and FPG compared to placebo (Table 14). Colesevelam hydrochloride also reduced TC, LDL-C, Apo B, and non-HDL-C but increased serum TG (Table 15). The mean change in body weight was 0.8 kg for colesevelam hydrochloride and 0.4 kg for placebo.
+
+                            Table 14 Glycemic Parameters in a 24-Week Placebo-Controlled Study of Colesevelam Hydrochloride in Combination with Pioglitazone-Based Therapy in Patients with Type 2 Diabetes
+
+                                  |
+
+                                     Colesevelam Hydrochloride
+
+                                    3.8 g/day
+                                  |
+
+                                     Placebo
+                                  |
+
+                                     HbA1c (%), Mean
+                                  |
+
+                                  N |
+                                  271 |
+                                  276 |
+
+                                  Baseline |
+                                  8.2 |
+                                  8.1 |
+
+                                  Change from baseline
+
+     Least-squares mean change calculated from an Analysis of Covariance model
+
+                                  |
+                                  -0.34 |
+                                  -0.02 |
+
+                                  Treatment difference (p-value) |
+                                  -0.32 (0.0001)  |
+
+                                     FPG (mg/dL), Mean
+                                  |
+
+                                  N |
+                                  268 |
+                                  270 |
+
+                                  Baseline |
+                                  155 |
+                                  157 |
+
+                                  Change from baseline
+
+     *
+                                  |
+                                  -4.8 |
+                                  +9.9 |
+
+                                  Treatment difference (p-value) |
+                                  -14.7 (< 0.0001)  |
+
+                            Table 15 Percent Change in Lipid Parameters in a 24-Week Placebo-Controlled Study of Colesevelam Hydrochloride in Combination with Pioglitazone-Based Therapy in Patients with Type 2 Diabetes
+
+                                     Dose/Day
+                                  |
+
+                                     N
+
+      The N given represents the smallest number of patients included in the analysis for any parameter.
+
+                                  |
+
+                                     TC
+                                  |
+
+                                     LDL-C
+                                  |
+
+                                     Apo B
+                                  |
+
+                                     HDL-C
+                                  |
+
+                                     Non-HDL- C
+                                  |
+
+                                     TG
+
+      Median % change from baseline
+
+                                  |
+
+                                     Total Patient Cohort
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  262 |
+                                  -3
+
+     p < 0.001 for lipid parameters compared to placebo
+
+                                  |
+                                  -9
+
+     ‡
+                                  |
+                                  -5
+
+     ‡
+                                  |
+                                  +3 |
+                                 -5
+
+     ‡
+                                  |
+                                  +14
+
+     ‡
+                                  |
+
+                                  Placebo |
+                                  262 |
+                                  +3 |
+                                  +7 |
+                                  +4 |
+                                  +1 |
+                                  +5 |
+                                  +2 |
+
+                           Add-on Combination Therapy with Sulfonylurea
+
+                        Colesevelam hydrochloride 3.8 g/day or placebo was added to background anti-diabetic therapy in a 26-week trial of 460 patients already treated with sulfonylurea alone (N = 156) or sulfonylurea in combination with other oral agents (N = 304). A total of 72% of these patients were receiving at least half-maximal doses of sulfonylurea therapy. In combination with a sulfonylurea, colesevelam hydrochloride resulted in statistically significant placebo-corrected reductions in HbA1c and FPG (Table 16). Colesevelam hydrochloride also reduced TC, LDL-C, Apo B, and non-HDL-C, but increased serum TG (Table 17). The mean percent change in serum LDL-C levels with colesevelam hydrochloride compared to placebo was -18% among statin users and -15% among statin non-users; the median percent increase in serum TG with colesevelam hydrochloride compared to placebo was 29% among statin users and 9% among statin non-users. The mean change in body weight was 0.0 kg for colesevelam hydrochloride and -0.4 kg for placebo.
+
+                           Table 16 Glycemic Parameters in a 26-Week Placebo-Controlled Study of Colesevelam Hydrochloride in Combination with Sulfonylurea in Patients with Type 2 Diabetes 
+
+                                  |
+
+                                     Total Patient Population
+                                  |
+
+                                     Sulfonylurea Alone
+                                  |
+
+                                     Sulfonylurea in Combination with Other Oral Anti-diabetic Agents
+                                  |
+
+                                  |
+
+                                     Colesevelam Hydrochloride 3.8 g/day
+                                  |
+
+                                     Placebo
+                                  |
+
+                                     Colesevelam Hydrochloride 3.8 g/day
+                                  |
+
+                                     Placebo
+                                  |
+
+                                     Colesevelam Hydrochloride 3.8 g/day
+                                  |
+
+                                     Placebo
+                                  |
+
+                                    HbA1c (%), Mean 
+                                  |
+
+                                  n |
+                                  218 |
+                                  218 |
+                                  69 |
+                                  80 |
+                                  149 |
+                                  138 |
+
+                                  Baseline |
+                                  8.2 |
+                                  8.3 |
+                                  8.2 |
+                                  8.4 |
+                                 8.2 |
+                                  8.3 |
+
+                                  Change from baseline
+
+     Least-squares mean change calculated from an Analysis of Covariance model
+
+                                  |
+                                  -0.3 |
+                                  0.2 |
+                                  -0.3 |
+                                  0.5 |
+                                  -0.4 |
+                                  0.0 |
+
+                                  Treatment difference (p-value) |
+                                  -0.5 (p < 0.001)  |
+                                  -0.8 (p < 0.001)  |
+                                  -0.4 (p < 0.001)  |
+
+                                     FPG (mg/dL), Mean
+                                  |
+
+                                  n |
+                                  218 |
+                                  217 |
+                                  70 |
+                                  80 |
+                                  148 |
+                                  137 |
+
+                                  Baseline |
+                                  177 |
+                                  181 |
+                                  181 |
+                                  186 |
+                                  175 |
+                                  178 |
+
+                                 Change from baseline
+
+     *
+                                  |
+                                 -4 |
+                                 10 |
+                                 3 |
+                                 15 |
+                                 -11 |
+                                 4 |
+
+                                  Treatment difference (p-value) |
+                                  -14 (p = 0.009)  |
+                                  -12 (p = 0.18)  |
+                                  -14 (p = 0.03)  |
+
+                            Table 17 Percent Change in Lipid Parameters in a 26-Week Placebo-Controlled Study of Colesevelam Hydrochloride in Combination with Sulfonylurea in Patients with Type 2 Diabetes
+
+                                     Dose/Day
+                                  |
+
+                                     N
+
+      The number of patients with analyzable data, i.e., a baseline and post-treatment value (last observation carried forward), varied slightly among different parameters. The N given represents the smallest number of patients included in the analysis for any parameter.
+
+                                  |
+
+                                     TC
+                                  |
+
+                                     LDL-C
+                                  |
+
+                                     Apo B
+                                  |
+
+                                     HDL-C
+                                  |
+
+                                     Non-HDL- C
+                                  |
+
+                                     TG
+
+      Median % change from baseline
+
+                                  |
+
+                                     Total Patient Population
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  186 |
+                                  -5
+
+     p < 0.001 for lipid parameters compared to placebo (This more stringent criterion for statistical significance accounts for multiplicity testing of the lipid parameters, which were secondary endpoints in the diabetes trials.)
+
+                                  |
+                                  -16
+
+     ‡
+                                  |
+                                  -6
+
+     ‡
+                                  |
+                                  1 |
+                                  -6
+
+     ‡
+                                  |
+                                  20
+
+     ‡
+                                  |
+
+                                  Placebo |
+                                  193 |
+                                  0 |
+                                  1 |
+                                  1 |
+                                  0 |
+                                  1 |
+                                  1 |
+
+                                     Sulfonylurea Alone
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  57 |
+                                  -5 |
+                                  -14
+
+     ‡
+                                  |
+                                  -5 |
+                                  -1 |
+                                  -6 |
+                                 17 |
+
+                                  Placebo |
+                                  68 |
+                                  0 |
+                                  1 |
+                                  1 |
+                                  1 |
+                                  0 |
+                                  -1 |
+
+                                     Sulfonylurea in Combination with Other Oral Anti-diabetic Agents
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  129 |
+                                  -5 |
+                                 -18
+
+     ‡
+                                  |
+                                  -7
+
+     ‡
+                                  |
+                                  1 |
+                                  -6 |
+                                  21
+
+     ‡
+                                  |
+
+                                  Placebo |
+                                  125 |
+                                  0 |
+                                  0 |
+                                  1 |
+                                  0 |
+                                  1 |
+                                  2 |
+
+                           Add-on Combination Therapy with Insulin
+
+                        Colesevelam hydrochloride 3.8 g/day or placebo was added to background anti-diabetic therapy in a 16-week trial of 287 patients already treated with insulin alone (N = 116) or insulin in combination with oral agents (N = 171). At baseline, the median daily insulin dose was 70 units in the colesevelam hydrochloride group and 65 units in the placebo group. In combination with insulin, colesevelam hydrochloride resulted in a statistically significant placebo‑corrected reduction in HbA1c (Table 18). Colesevelam hydrochloride also reduced LDL-C and Apo B, but increased serum TG (Table 19). The mean percent change in serum LDL-C levels with colesevelam hydrochloride compared to placebo was -13% among statin users and statin non-users; the median percent increase in serum TG levels with colesevelam hydrochloride compared to placebo was 24% among statin users and 17% among statin non-users. The mean change in body weight was 0.6 kg for colesevelam hydrochloride and 0.2 kg for placebo.
+
+                           Table 18 Glycemic Parameters in a 16-Week Placebo-Controlled Study of Colesevelam Hydrochloride in Combination with Insulin in Patients with Type 2 Diabetes 
+
+                                  |
+
+                                     Total Patient Population
+                                  |
+
+                                     Insulin Alone
+                                  |
+
+                                     Insulin in Combination with Oral Anti-diabetic Agents
+                                  |
+
+                                  |
+
+                                     Colesevelam Hydrochloride 3.8 g/day
+                                  |
+
+                                     Placebo
+                                  |
+
+                                     Colesevelam Hydrochloride 3.8 g/day
+                                  |
+
+                                    Placebo 
+                                  |
+
+                                     Colesevelam Hydrochloride 3.8 g/day
+                                  |
+
+                                     Placebo
+                                  |
+
+                                    HbA1c (%), Mean
+                                  |
+
+                                  n |
+                                  144 |
+                                  136 |
+                                  54 |
+                                  55 |
+                                  90 |
+                                  81 |
+
+                                  Baseline |
+                                  8.3 |
+                                  8.2 |
+                                  8.2 |
+                                  8.3 |
+                                  8.3 |
+                                  8.2 |
+
+                                  Change from baseline
+
+     Least-squares mean change calculated from an Analysis of Covariance model
+
+                                  |
+                                  -0.4 |
+                                  0.1 |
+                                  -0.4 |
+                                  0.2 |
+                                  -0.4 |
+                                  0.0 |
+
+                                  Treatment difference (p-value) |
+                                  -0.5 (p < 0.001)  |
+                                  -0.6 (p < 0.001)  |
+                                  -0.4 (p < 0.001)  |
+
+                                     FPG (mg/dL), Mean
+                                  |
+
+                                  n |
+                                  144 |
+                                  136 |
+                                  54 |
+                                  55 |
+                                  90 |
+                                  81 |
+
+                                  Baseline |
+                                  165 |
+                                  151 |
+                                  165 |
+                                  163 |
+                                  165 |
+                                  143 |
+
+                                  Change from baseline
+
+     *
+                                  |
+                                  2 |
+                                  16 |
+                                  8 |
+                                  17 |
+                                  -4 |
+                                  14 |
+
+                                  Treatment difference (p-value) |
+                                  -15 (p = 0.08)  |
+                                  -9 (p = 0.51)  |
+                                  -18 (p = 0.09)  |
+
+                            Table 19 Percent Change in Lipid Parameters in a 16-Week Placebo-Controlled Study of Colesevelam Hydrochloride in Combination with Insulin in Patients with Type 2 Diabetes
+
+                                     Dose/Day
+                                  |
+
+                                     N
+
+      The number of patients with analyzable data, i.e., a baseline and post-treatment value (last observation carried forward), varied slightly among different parameters. The N given represents the smallest number of patients included in the analysis for any parameter.
+
+                                  |
+
+                                     TC
+                                  |
+
+                                    LDL-C
+                                  |
+
+                                     Apo B
+                                  |
+
+                                     HDL-C
+                                  |
+
+                                     Non-HDL- C
+                                  |
+
+                                     TG
+
+      Median % change from baseline
+
+                                  |
+
+                                     Total Patient Cohort
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  129 |
+                                  -3 |
+                                  -12
+
+     p < 0.001 for lipid parameters compared to placebo (This more stringent criterion for statistical significance accounts for multiplicity testing of the lipid parameters, which were secondary endpoints in the diabetes trials.)
+
+                                  |
+                                  -4 |
+                                  -1 |
+                                  -3 |
+                                  23
+
+     ‡
+                                  |
+
+                                  Placebo |
+                                  121 |
+                                  1 |
+                                  1 |
+                                  1 |
+                                  0 |
+                                  1 |
+                                  0 |
+
+                                     Insulin Alone
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  46 |
+                                  -3 |
+                                  -12 |
+                                  -5 |
+                                  0 |
+                                  -3 |
+                                  19 |
+
+                                  Placebo |
+                                  48 |
+                                  2 |
+                                  4 |
+                                  2 |
+                                  3 |
+                                  2 |
+                                  -2 |
+
+                                     Insulin in Combination with Oral Anti-diabetic Agents
+                                  |
+
+                                  Colesevelam Hydrochloride 3.8 g |
+                                  83 |
+                                  -4 |
+                                  -13 |
+                                  -4 |
+                                  -1 |
+                                  -3 |
+                                  25
+
+     ‡
+                                  |
+
+                                  Placebo |
+                                  73 |
+                                  -1 |
+                                  -3 |
+                                  0 |
+                                  -1 |
+                                  -1 |
+                                  2 |

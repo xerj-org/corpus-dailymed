@@ -1,0 +1,5 @@
+DailyMed 946e67e7-458e-4607-b5f9-d5f6e021f7bd | Tretinoin | Nonteratogenic Effects
+
+Topical tretinoin has been shown to be fetotoxic in rabbits when administered 0.5 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area). Oral tretinoin has been shown to be fetotoxic, resulting in skeletal variations and increased intrauterine death in rats when administered 2.5 mg/kg/day (20 times the maximum human systemic dose adjusted for total body surface area).
+
+                              There are, however, no adequate and well-controlled studies in pregnant women. Tretinoin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

@@ -1,0 +1,5 @@
+DailyMed 7d6447e3-22c9-48d9-87c0-d0b576d7ea9e | Cyclophosphamide | 8.7 Use in Patients with Hepatic Impairment
+
+Patients with severe hepatic impairment have reduced conversion of cyclophosphamide to the active 4-hydroxyl metabolite, potentially reducing efficacy
+
+  [see CLINICAL PHARMACOLOGY (12.3)].

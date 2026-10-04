@@ -1,0 +1,11 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 8.2 Lactation
+
+Risk Summary
+
+                        Rivaroxaban has been detected in human milk. There are insufficient data to determine the effects of rivaroxaban on the breastfed child or on milk production. Rivaroxaban and/or its metabolites were present in the milk of rats. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for rivaroxaban and any potential adverse effects on the breastfed infant from rivaroxaban or from the underlying maternal condition (see Data).
+
+                           Data
+
+                           Animal Data
+
+                        Following a single oral administration of 3 mg/kg of radioactive [14C]-rivaroxaban to lactating rats between Day 8 to 10 postpartum, the concentration of total radioactivity was determined in milk samples collected up to 32 hours post-dose. The estimated amount of radioactivity excreted with milk within 32 hours after administration was 2.1% of the maternal dose.

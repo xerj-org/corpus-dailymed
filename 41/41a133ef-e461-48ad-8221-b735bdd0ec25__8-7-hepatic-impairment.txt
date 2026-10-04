@@ -1,0 +1,19 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 8.7 Hepatic Impairment
+
+No dose adjustment is required in patients with mild hepatic impairment (Child-Pugh class A).
+
+                        Because patients with moderate hepatic impairment (Child-Pugh class B) may have intrinsic coagulation abnormalities and there is limited clinical experience with ELIQUIS in these patients, dosing recommendations cannot be provided
+
+  [see
+
+   Clinical Pharmacology (12.2)]
+
+  .
+
+                        ELIQUIS is not recommended in patients with severe hepatic impairment (Child-Pugh class C)
+
+  [see
+
+   Clinical Pharmacology (12.2)]
+
+  .

@@ -1,0 +1,3 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 5.6 Renal Failure
+
+Cases of renal failure (including acute renal failure), some with a fatal outcome, have occurred in patients taking AFINITOR. Elevations of serum creatinine and proteinuria have been reported in patients taking everolimus tablets for oral suspension [see Adverse Reactions (6.1)]. The incidence of Grade 3 and 4 elevations of serum creatinine was up to 2% and up to 1%, respectively. The incidence of Grade 3 and 4 proteinuria was up to 1% and up to 0.5%, respectively. Monitor renal function prior to starting everolimus tablets for oral suspension and annually thereafter. Monitor renal function at least every 6 months in patients who have additional risk factors for renal failure.

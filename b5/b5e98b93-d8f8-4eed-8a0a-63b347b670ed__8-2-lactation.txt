@@ -1,0 +1,9 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 8.2 Lactation
+
+Risk Summary
+
+                        Available data from published literature demonstrate low levels of sertraline and its metabolites in human milk [See Data]. There are no data on the effects of sertraline on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for sertraline hydrochloride tablets and any potential adverse effects on the breastfed infant from the drug or from the underlying maternal condition.
+
+                              Data
+
+                        In a published pooled analysis of 53 mother-infant pairs, exclusively human milk-fed infants had an average of 2% (range 0% to 15%) of the sertraline serum levels measured in their mothers. No adverse reactions were observed in these infants.

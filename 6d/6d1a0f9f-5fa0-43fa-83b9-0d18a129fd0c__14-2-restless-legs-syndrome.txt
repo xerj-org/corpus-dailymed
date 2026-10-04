@@ -1,0 +1,138 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 14.2 Restless Legs Syndrome
+
+The effectiveness of ropinirole tablets in the treatment of RLS was demonstrated in randomized, double-blind, placebo-controlled trials in adults diagnosed with RLS using the International Restless Legs Syndrome Study Group diagnostic criteria. Patients were required to have a history of a minimum of 15 RLS episodes/month during the previous month and a total score of ≥15 on the International RLS Rating Scale (IRLS scale) at baseline. Patients with RLS secondary to other conditions (e.g., pregnancy, renal failure, anemia) were excluded. All trials employed flexible dosing, with patients initiating therapy at 0.25 mg of ropinirole tablets once daily. Patients were titrated based on clinical response and tolerability over 7 weeks to a maximum of 4 mg once daily. All doses were taken between 1 and 3 hours before bedtime.
+
+                        A variety of measures were used to assess the effects of treatment, including the IRLS scale and Clinical Global Impression-Global Improvement (CGI-I) scores. The IRLS scale contains 10 items designed to assess the severity of sensory and motor symptoms, sleep disturbance, daytime somnolence, and impact on activities of daily living and mood associated with RLS. The range of scores is 0 to 40, with 0 being absence of RLS symptoms and 40 the most severe symptoms. Three of the controlled trials utilized the change from baseline in the IRLS scale at the Week 12 endpoint as the primary efficacy outcome.
+
+                        Three hundred eighty patients were randomized to receive ropinirole tablets (n = 187) or placebo (n = 193) in a U.S. trial (RLS-1); 284 were randomized to receive either ropinirole tablets (n = 146) or placebo (n = 138) in a multinational trial (excluding U.S.) (RLS-2); and 267 patients were randomized to ropinirole tablets (n = 131) or placebo (n = 136) in a multinational trial (including U.S.) (RLS-3). Across the 3 trials, the mean duration of RLS was 16 to 22 years (range: 0 to 65 years), mean age was approximately 54 years (range: 18 to 79 years), and approximately 61% were women. The mean dose at Week 12 was approximately 2 mg/day for the 3 trials.
+
+                        At baseline, mean total IRLS score was 22 for ropinirole tablets and 21.6 for placebo in RLS-1, 24.4 for ropinirole tablets and 25.2 for placebo in RLS-2, and 23.6 for ropinirole tablets and 24.8 for placebo in RLS-3. In all 3 trials, a statistically significant difference between the treatment group receiving ropinirole tablets and the treatment group receiving placebo was observed at Week 12 for both the mean change from baseline in the IRLS scale total score and the percentage of patients rated as responders (much improved or very much improved) on the CGI-I (see Table 9).
+
+                           Table 9. Mean Change in Total IRLS Rating ScaleScore and Percent Responders on CGI-I
+
+                            
+
+                                  
+
+                                  |
+
+                                    Ropinirole Tablets
+                                     
+
+                                  |
+
+                                    Placebo 
+
+                                  |
+
+                                    Difference from Placebo 
+
+                                  |
+
+                                 Mean change in total IRLS scale score at Week 12 
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 RLS-1
+
+                                  |
+                                 -13.5
+
+                                  |
+                                 -9.8
+
+                                  |
+                                 -3.7
+
+                                  |
+
+                                 RLS-2
+
+                                  |
+                                 -11.0
+
+                                  |
+                                 -8.0
+
+                                  |
+                                 -3.0
+
+                                  |
+
+                                 RLS-3
+
+                                  |
+                                 -11.2
+
+                                  |
+                                 -8.7
+
+                                  |
+                                 -2.5
+
+                                  |
+
+                                 Percent responders on CGI-I at Week 12 
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 RLS-1
+
+                                  |
+                                 73.3%
+
+                                  |
+                                 56.5%
+
+                                  |
+                                 16.8%
+
+                                  |
+
+                                 RLS-2
+
+                                  |
+                                 53.4%
+
+                                  |
+                                 40.9%
+
+                                  |
+                                 12.5%
+
+                                  |
+
+                                 RLS-3
+
+                                  |
+                                 59.5%
+
+                                  |
+                                 39.6%
+
+                                  |
+                                 19.9%
+
+                                  |
+
+                        IRLS = International Restless Legs Syndrome, CGI-I = Clinical Global Impression-Global Improvement, RLS = Restless Legs Syndrome.
+
+                        Long-term maintenance of efficacy in the treatment of RLS was demonstrated in a 36-week trial. Following a 24-week, single-blind treatment phase (flexible dosages of ropinirole tablets of 0.25 to 4 mg once daily), patients who were responders (defined as a decrease of >6 points on the IRLS scale total score relative to baseline) were randomized in double-blind fashion to placebo or continuation of ropinirole tablets for an additional 12 weeks. Relapse was defined as an increase of at least 6 points on the IRLS scale total score to a total score of at least 15, or withdrawal due to lack of efficacy. For patients who were responders at Week 24, the mean dose of ropinirole tablets were 2 mg (range: 0.25 to 4 mg). Patients continued on ropinirole tablets demonstrated a significantly lower relapse rate compared with patients randomized to placebo (32.6% versus 57.8%, P = 0.0156).

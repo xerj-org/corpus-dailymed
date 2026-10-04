@@ -1,0 +1,5 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 2.4 Recommended Dosage for Chronic Lymphocytic Leukemia (CLL)
+
+All patients must receive at least one full dose of a rituximab product by intravenous infusion in combination with FC chemotherapy before starting treatment with RITUXAN HYCELA [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)]. Premedicate before each dose [see Dosage and Administration (2.5)].
+
+                        The recommended dose for CLL is RITUXAN HYCELA 1,600 mg/26,800 Units (1,600 mg rituximab and 26,800 Units hyaluronidase human) in combination with FC chemotherapy, at a fixed dose, irrespective of patient's body surface area. Administer RITUXAN HYCELA 1,600 mg/26,800 Units on Day 1 of Cycles 2–6 (every 28 days) for a total of 5 cycles following a full intravenous dose at Day 1, Cycle 1 (i.e., 6 cycles in total).

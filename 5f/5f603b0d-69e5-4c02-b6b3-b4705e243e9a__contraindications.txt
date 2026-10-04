@@ -1,0 +1,7 @@
+DailyMed 5f603b0d-69e5-4c02-b6b3-b4705e243e9a | Butalbital, Acetaminophen and Caffeine | CONTRAINDICATIONS
+
+This product is contraindicated under the following conditions:
+
+                     Hypersensitivity or intolerance to any component of this product.
+
+                     Patients with porphyria.

@@ -1,0 +1,9 @@
+DailyMed 30e515c3-a18f-499a-87c4-be8d64cfdbc6 | Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate | 7.2 Interference with Laboratory Tests
+
+Amphetamines can cause a significant elevation in plasma corticosteroid levels. This increase is greatest in the evening. Amphetamines may interfere with urinary steroid determinations.
+
+                        Allow for an adequate washout period between administration of dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate extended-release capsules and radioactive diagnostic agents used for dopamine transporter (DAT) visualization. Dextroamphetamine saccharate, amphetamine
+
+aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate extended-release capsules can interfere with the test results of a radioactive diagnostic agent (ioflupane I-123) that is used for DAT visualization by binding and internalization of the DAT, which may result in lower DAT in the striatum. This may lead to false-positive diagnostic
+
+results.

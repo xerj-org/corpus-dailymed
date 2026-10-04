@@ -1,0 +1,15 @@
+DailyMed 30e515c3-a18f-499a-87c4-be8d64cfdbc6 | Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate | 2.7 Switching from other Amphetamine Products
+
+For patients switching from another medication or any other amphetamine products, discontinue that treatment, and titrate with dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate extended-release capsules using the titration schedule
+  [
+   see Dosage and Administration (2.4)]
+  .
+
+                        Do not substitute for other amphetamine products on a milligram-per-milligram basis because of different amphetamine base compositions and differing pharmacokinetic profiles
+  [
+   see Warnings and Precautions (5.9),
+   Description (11),
+
+                              Clinical Pharmacology (12.3)
+
+                           ].

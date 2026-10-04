@@ -1,0 +1,9 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 12.2 Pharmacodynamics
+
+Lurbinectedin exposure-response relationships and the pharmacodynamic time-course for efficacy have not been fully characterized.
+
+                        Increased incidence of Grade 4 neutropenia and Grade ≥ 3 thrombocytopenia were observed with increased lurbinectedin exposure.
+
+                           Cardiac Electrophysiology
+
+                        No large mean increase in QTc (i.e., > 20 ms) was detected at the recommended dose of 3.2 mg/m2.

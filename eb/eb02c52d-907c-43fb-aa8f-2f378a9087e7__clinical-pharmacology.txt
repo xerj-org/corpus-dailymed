@@ -1,0 +1,9 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | CLINICAL PHARMACOLOGY
+
+Chloroquine is rapidly and almost completely absorbed from the gastrointestinal tract, and only a small proportion of the administered dose is found in the stools. Approximately 55% of the drug in the plasma is bound to nondiffusible plasma constituents. Excretion of chloroquine is quite slow but is increased by acidification of the urine. Chloroquine is deposited in the tissues in considerable amounts. In animals, from 200 to 700 times the plasma concentration may be found in the liver, spleen, kidney, and lung; leukocytes also concentrate the drug. The brain and spinal cord, in contrast, contain only 10 to 30 times the amount present in plasma.
+
+                  Chloroquine undergoes appreciable degradation in the body. The main metabolite is desethylchloroquine, which accounts for one fourth of the total material appearing in the urine; bisdesethylchloroquine, a carboxylic acid derivative, and other metabolic products as yet uncharacterized are found in small amounts. Slightly more than half of the urinary drug products can be accounted for as unchanged chloroquine.
+
+                     Cardiac Electrophysiology
+
+                  QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1,000 mg) alone or in combination with oral azithromycin (500 mg, 1,000 mg, and 1,500 mg once daily). Co-administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner. In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1,000 mg and 1,500 mg azithromycin, respectively.

@@ -1,0 +1,9 @@
+DailyMed 717eb542-3a05-485e-be76-3930efb40d33 | Levocetirizine Dihydrochloride | 12.1 Mechanism of Action
+
+Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H
+
+  1receptors. The antihistaminic activity of levocetirizine has been documented in a variety of animal and human models.
+
+  In vitrobinding studies revealed that levocetirizine has an affinity for the human H
+
+  1-receptor 2-fold higher than that of cetirizine (Ki = 3 nmol/L vs. 6 nmol/L, respectively). The clinical relevance of this finding is unknown.

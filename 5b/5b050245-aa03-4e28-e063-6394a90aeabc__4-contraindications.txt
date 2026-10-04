@@ -1,0 +1,5 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 4 CONTRAINDICATIONS
+
+Ertapenem for injection is contraindicated in patients with known hypersensitivity to any component of this product or to other drugs in the same class or in patients who have demonstrated anaphylactic reactions to beta-lactams.
+
+                     Due to the use of Lidocaine HCl as a diluent, Ertapenem for injection administered intramuscularly is contraindicated in patients with a known hypersensitivity to local anesthetics of the amide type.

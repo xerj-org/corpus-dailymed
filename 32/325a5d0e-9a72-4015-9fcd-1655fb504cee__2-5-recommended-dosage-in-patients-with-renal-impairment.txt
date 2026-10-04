@@ -1,0 +1,5 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 2.5 Recommended Dosage in Patients with Renal Impairment
+
+In patients with severe renal impairment (CLcr less than 30 mL/min/1.73 m2) not on hemodialysis, the recommended starting dosage is 5 mg orally once daily and should not exceed 10 mg orally once daily [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
+
+                        There are no dosage adjustment recommendations for patients with mild and moderate renal impairment.

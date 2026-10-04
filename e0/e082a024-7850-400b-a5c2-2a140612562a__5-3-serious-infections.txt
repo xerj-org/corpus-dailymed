@@ -1,0 +1,17 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 5.3 Serious Infections
+
+Patients receiving immunosuppressants, including Zortress, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections [
+                           s
+                           ee
+                           Warnings and Precautions (
+                           5.1
+                           3
+                           )
+                           ,
+                            Adverse Reactions (6.
+                           1, 6.
+                           2)]
+                           .
+                            These infections may lead to serious, including fatal, outcomes. Because of the danger of over-immunosuppression, which can cause increased susceptibility to infection, combination immunosuppressant therapy should be used with caution.
+
+                        Antimicrobial prophylaxis for Pneumocystis jiroveci (carinii) pneumonia and prophylaxis for cytomegalovirus (CMV) is recommended in transplant recipients.

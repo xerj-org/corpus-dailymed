@@ -1,0 +1,59 @@
+DailyMed 483bd97f-c4d0-4e23-aaa8-6334f4471e0c | PAXIL CR | 5.1 Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients
+
+In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients. There were differences in absolute risk of suicidal thoughts and behaviors across the different uses, with the highest incidence in patients with MDD. The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 2.
+
+                        Table 2: Risk Differences of the Number of Patients with Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric1 and Adult Patients
+
+                                       Age Range
+
+                                  |
+
+                                       Drug-Placebo Difference in Number of Patients of Suicidal Thoughts and Behaviors per 1,000 Patients Treated
+
+                                  |
+
+                                    Increases Compared to Placebo
+
+                                  |
+
+                                    <18 years old
+
+                                  |
+
+                                    14 additional patients
+
+                                  |
+
+                                    18-24 years old
+
+                                  |
+
+                                    5 additional patients
+
+                                  |
+
+                                       Decreases Compared to Placebo
+
+                                  |
+
+                                    25-64 years old
+
+                                  |
+
+                                    1 fewer patient
+
+                                  |
+
+                                    ≥65 years old
+
+                                  |
+
+                                    6 fewer patients
+
+                                  |
+
+                           1 PAXIL CR is not approved for use in pediatric patients.   
+
+                        It is unknown whether the risk of suicidal thoughts and behaviors in pediatric patients and young adults extends to longer-term use, i.e., beyond four months. However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
+
+                        Monitor all antidepressant-treated patients for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes. Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the health care provider. Consider changing the therapeutic regimen, including possibly discontinuing PAXIL CR, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.

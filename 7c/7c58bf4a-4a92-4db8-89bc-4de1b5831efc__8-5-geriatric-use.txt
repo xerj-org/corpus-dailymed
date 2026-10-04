@@ -1,0 +1,13 @@
+DailyMed 7c58bf4a-4a92-4db8-89bc-4de1b5831efc | Atorvastatin calcium | 8.5 Geriatric Use
+
+Of the total number of atorvastatin calcium tablets-treated patients in clinical trials, 15,813 (40%) were ≥65 years old and 2,800 (7%) were ≥75 years old. No overall differences in safety or effectiveness were observed between these patients and younger patients.
+
+                        Advanced age (≥65 years) is a risk factor for atorvastatin calcium tablets-associated myopathy and rhabdomyolysis. Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy. Monitor geriatric patients receiving atorvastatin calcium tablets for the increased risk of myopathy
+
+  [see Warnings and Precautions (
+
+   5.1) and Clinical Pharmacology (
+
+   12.3)]
+
+  .

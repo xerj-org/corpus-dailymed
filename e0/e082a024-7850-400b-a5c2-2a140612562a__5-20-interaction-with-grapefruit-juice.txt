@@ -1,0 +1,3 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 5.20 Interaction With Grapefruit Juice
+
+Grapefruit and grapefruit juice inhibit cytochrome P450 3A activity and should therefore be avoided with concomitant use of Zortress and cyclosporine or tacrolimus.

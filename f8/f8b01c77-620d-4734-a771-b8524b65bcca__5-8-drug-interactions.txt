@@ -1,0 +1,9 @@
+DailyMed f8b01c77-620d-4734-a771-b8524b65bcca | KETAMINE HYDROCHLORIDE | 5.8 Drug Interactions
+
+Theophylline or Aminophylline: Concomitant administration of ketamine hydrochloride and theophylline or aminophylline may lower the seizure threshold [see Drug Interactions (7.1)]. Consider using an alternative to ketamine hydrochloride in patients receiving theophylline or aminophylline.
+
+ Sympathomimetics and Vasopressin: Sympathomimetics and vasopressin may enhance the sympathomimetic effects of ketamine [see Drug Interactions (7.2)]. Closely monitor vital signs when ketamine hydrochloride and sympathomimetics or vasopressin are co-administered and consider dose adjustment individualized to the patient's clinical situation.
+
+ Benzodiazepines, Opioid Analgesics, or Other CNS Depressants 
+
+                        Concomitant use of ketamine with opioid analgesics, benzodiazepines, or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see Drug Interactions (7.3)]. Closely monitor neurological status and respiratory parameters, including respiratory rate and pulse oximetry, when ketamine hydrochloride and opioid analgesics, benzodiazepines, or other CNS depressants are co-administered. Consider dose adjustment individualized to the patient’s clinical situation.

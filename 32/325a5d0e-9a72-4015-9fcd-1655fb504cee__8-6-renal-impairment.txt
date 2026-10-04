@@ -1,0 +1,5 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 8.6 Renal Impairment
+
+Rosuvastatin exposure is not influenced by mild to moderate renal impairment (CLcr ≥30 mL/min/1.73 m2). Exposure to rosuvastatin is increased to a clinically significant extent in patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) who are not receiving hemodialysis [see Clinical Pharmacology (12.3)].
+
+                        Renal impairment is a risk factor for myopathy and rhabdomyolysis. Monitor all patients with renal impairment for development of myopathy. In patients with severe renal impairment not on hemodialysis, the recommended starting dosage is 5 mg daily and should not exceed 10 mg daily [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].

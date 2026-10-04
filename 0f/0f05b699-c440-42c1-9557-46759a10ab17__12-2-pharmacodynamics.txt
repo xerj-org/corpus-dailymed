@@ -1,0 +1,3 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 12.2 Pharmacodynamics
+
+In a clinical study in postmenopausal women with primary breast cancer treated with single doses of fulvestrant injection 15 to 22 days prior to surgery, there was evidence of increasing down-regulation of ER with increasing dose. This was associated with a dose-related decrease in the expression of the progesterone receptor, an estrogen-regulated protein. These effects on the ER pathway were also associated with a decrease in Ki67 labeling index, a marker of cell proliferation.

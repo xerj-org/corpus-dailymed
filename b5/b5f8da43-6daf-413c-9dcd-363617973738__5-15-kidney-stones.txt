@@ -1,0 +1,14 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 5.15 Kidney Stones
+
+Topiramate increases the risk of kidney stones. During adjunctive epilepsy trials, the risk for kidney stones in immediate-release topiramate-treated adults was 1.5%, an incidence about 2 to 4 times greater than expected in a similar, untreated population. As in the general population, the incidence of stone formation among topiramate-treated patients was higher in men. Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy or migraine. During long-term (up to 1 year) topiramate treatment in an open-label extension study of 284 pediatric patients 1 to 24 months old with epilepsy, 7% developed kidney or bladder stones. Topiramate extended-release capsules are not approved for treatment of epilepsy in pediatric patients less than 2 years old [see Use in Specific Populations (8.4)].
+
+                        Topiramate is a carbonic anhydrase inhibitor. Carbonic anhydrase inhibitors can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.4)]. The concomitant use of topiramate extended-release capsules with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet, may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
+
+                        Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation. Hydration is recommended to reduce new stone formation.
+
+                           An increase in urinary calcium and a marked decrease in urinary citrate was observed in immediate-release topiramate-treated pediatric patients in one-year active-controlled study [see Use in Specific Populations (
+
+                              8.4
+                              )]
+
+                           . This increased ratio of urinary calcium/citrate increases the risk of kidney stones and/or nephrocalcinosis.

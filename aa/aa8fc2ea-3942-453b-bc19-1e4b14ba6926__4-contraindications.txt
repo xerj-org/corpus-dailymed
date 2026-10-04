@@ -1,0 +1,13 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 4 CONTRAINDICATIONS
+
+•
+
+Omeprazole delay-release capsules are contraindicated in patients with known hypersensitivity reactions including anaphylaxis to the formulation  or any substituted benzimidazol. Hypersensitivity reactions may include anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute tubulointerstitial nephritis, and urticaria [see Warnings and Precautions (), Adverse Reactions (6)].
+
+                        •
+
+Proton pump inhibitors (PPIs), including omeprazole, are contraindicated in patients receiving rilpivirine-containing products [see Drug Interactions ()].
+
+                        •
+
+For information about contraindications of antibacterial agents (clarithromycin and amoxicillin) indicated in combination with omeprazole, refer to the CONTRAINDICATIONS section of their package inserts.

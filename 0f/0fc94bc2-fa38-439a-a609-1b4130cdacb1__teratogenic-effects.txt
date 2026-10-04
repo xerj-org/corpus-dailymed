@@ -1,0 +1,3 @@
+DailyMed 0fc94bc2-fa38-439a-a609-1b4130cdacb1 | Hydrochlorothiazide | Teratogenic Effects
+
+Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3,000 and 1,000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

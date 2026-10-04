@@ -1,0 +1,9 @@
+DailyMed 48d0f55c-f847-4d26-b2ed-94b5a2770228 | Amphetamine Extended-Release | 5.9 Potential for Overdose Due to Medication Errors
+
+Medication errors, including substitution and dispensing errors, between amphetamine extended-release orally disintegrating tablets and other amphetamine products could occur, leading to possible overdosage. To avoid substitution errors and overdosage, do not substitute for other amphetamine products on a milligram-per-milligram basis because of different amphetamine base compositions and differing pharmacokinetic profiles
+
+  [see Dosage and Administration (
+
+                              2.5
+
+                           )].

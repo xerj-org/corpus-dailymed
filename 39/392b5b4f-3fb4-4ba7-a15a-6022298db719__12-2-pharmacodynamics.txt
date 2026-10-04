@@ -1,0 +1,17 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 12.2 Pharmacodynamics
+
+Effect on Estrogens
+
+                        Multiple doses of exemestane ranging from 0.5 to 600 mg/day were administered to postmenopausal women with advanced breast cancer. Plasma estrogen (estradiol, estrone, and estrone sulfate) suppression was seen starting at a 5-mg daily dose of exemestane, with a maximum suppression of at least 85% to 95% achieved at a 25-mg dose. Exemestane 25 mg daily reduced whole body aromatization (as measured by injecting radiolabeled androstenedione) by 98% in postmenopausal women with breast cancer. After a single dose of exemestane 25 mg, the maximal suppression of circulating estrogens occurred 2 to 3 days after dosing and persisted for 4 to 5 days.
+
+                           Effect on Corticosteroids
+
+                        In multiple-dose trials of doses up to 200 mg daily, exemestane selectivity was assessed by examining its effect on adrenal steroids. Exemestane did not affect cortisol or aldosterone secretion at baseline or in response to ACTH at any dose. Thus, no glucocorticoid or mineralocorticoid replacement therapy is necessary with exemestane treatment.
+
+                           Other Endocrine Effects
+
+                        Exemestane does not bind significantly to steroidal receptors, except for a slight affinity for the androgen receptor (0.28% relative to dihydrotestosterone). The binding affinity of its 17-dihydrometabolite for the androgen receptor, however, is 100 times that of the parent compound. Daily doses of exemestane up to 25 mg had no significant effect on circulating levels of androstenedione, dehydroepiandrosterone sulfate, or 17-hydroxyprogesterone, and were associated with small decreases in circulating levels of testosterone. Increases in testosterone and androstenedione levels have been observed at daily doses of 200 mg or more. A dose-dependent decrease in sex hormone binding globulin (SHBG) has been observed with daily exemestane doses of 2.5 mg or higher. Slight, nondose-dependent increases in serum luteinizing hormone (LH) and follicle-stimulating hormone (FSH) levels have been observed even at low doses as a consequence of feedback at the pituitary level. Exemestane 25 mg daily had no significant effect on thyroid function [free triiodothyronine (FT3), free thyroxine (FT4), and thyroid stimulating hormone (TSH)].
+
+                           Coagulation and Lipid Effects
+
+                        In study 027 of postmenopausal women with early breast cancer treated with exemestane (N=73) or placebo (N=73), there was no change in the coagulation parameters activated partial thromboplastin time [APTT], prothrombin time [PT], and fibrinogen. Plasma HDL cholesterol was decreased 6–9% in exemestane treated patients; total cholesterol, LDL cholesterol, triglycerides, apolipoprotein-A1, apolipoprotein-B, and lipoprotein-a were unchanged. An 18% increase in homocysteine levels was also observed in exemestane treated patients compared with a 12% increase seen with placebo.

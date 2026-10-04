@@ -1,0 +1,3 @@
+DailyMed a7b8ea07-e926-f0a5-c20d-92f23ed350d0 | Hydrocodone Bitartrate | 8.6 Hepatic Impairment
+
+No adjustment in starting dose with hydrocodone bitartrate extended-release capsules is required in patients with mild or moderate hepatic impairment. Patients with severe hepatic impairment may have higher plasma concentrations than those with normal hepatic function [see Clinical Pharmacology (12.3)]. Therefore, a dosage reduction is recommended for patients with severe hepatic impairment [see Dosage and Administration (2.5)]. Regularly evaluate patients with severe hepatic impairment for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].

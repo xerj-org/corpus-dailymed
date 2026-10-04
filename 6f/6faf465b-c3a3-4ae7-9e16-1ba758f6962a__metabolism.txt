@@ -1,0 +1,3 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | Metabolism
+
+Pantoprazole is extensively metabolized in the liver through the cytochrome P450 (CYP) system. Pantoprazole metabolism is independent of the route of administration (intravenous or oral). The main metabolic pathway is demethylation, by CYP2C19, with subsequent sulfation; other metabolic pathways include oxidation by CYP3A4. There is no evidence that any of the pantoprazole metabolites have significant pharmacologic activity.

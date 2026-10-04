@@ -1,0 +1,9 @@
+DailyMed eceb9a99-7191-4be5-87c3-0102707cf98e | EVRYSDI | 14.3 Pre-Symptomatic SMA
+
+Study 3 was an open-label, single-arm, multicenter clinical study to investigate the efficacy, safety, pharmacokinetics, and pharmacodynamics of EVRYSDI in infants up to 6 weeks of age (at first dose) who have been genetically diagnosed with SMA but do not yet present with symptoms.
+
+                        The efficacy in pre-symptomatic SMA patients was evaluated at Month 12 in 26 patients treated with EVRYSDI in Study 3: 8 patients had 2 copies of the SMN2 gene, 13 patients had 3 copies, and 5 patients had 4 or more copies. The median age of these patients at first dose was 25 days (range: 16 to 41), 62% were female, and 85% were Caucasian. The primary efficacy population (N = 5) included patients with 2 SMN2 copies and a baseline CMAP amplitude  ≥1.5 mV.
+
+                        The primary efficacy endpoint was the proportion of patients with the ability to sit without support for at least 5 seconds (BSID-III gross motor scale, Item 22) at Month 12. This milestone was achieved by 80% (4/5) of patients in the primary efficacy population. This milestone was also achieved by 87.5% (7/8) of all patients with 2 copies of SMN2 and 96.2% (25/26) of patients in the full treated population.
+
+                        At Month 12, 80.8% (21/26) of patients in the full treated population achieved sitting without support for 30 seconds (BSID-III, Item 26). Of the 26 patients treated with EVRYSDI, 25 patients had motor milestones measured by the HINE-2 at Month 12. Of these, 24 (96%) achieved sitting (23 patients could pivot/rotate and 1 achieved stable sit); 21 (84%) could stand (13 patients could stand unaided and 8 could stand with support); and 12 (48%) could walk independently. Seven patients were not tested for walking at Month 12. All 26 patients were alive at 12 months without permanent ventilation.

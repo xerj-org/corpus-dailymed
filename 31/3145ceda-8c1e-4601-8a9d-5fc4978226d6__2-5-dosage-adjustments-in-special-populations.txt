@@ -1,0 +1,15 @@
+DailyMed 3145ceda-8c1e-4601-8a9d-5fc4978226d6 | Sildenafil | 2.5 Dosage Adjustments in Special Populations
+
+Consider a starting dose of 25 mg in patients > 65 years, patients with hepatic impairment (e.g., cirrhosis), and patients with severe renal impairment (creatinine clearance <30 mL/minute) because administration of sildenafil tablets in these patients resulted in higher plasma levels of sildenafil
+
+  [see Use in Specific Populations (
+
+   8.5, 
+
+   8.6, 
+
+   8.7)and
+
+                           Clinical Pharmacology (
+
+   12.3)].

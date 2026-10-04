@@ -1,0 +1,9 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 7.1 Probenecid
+
+Probenecid interferes with the active tubular secretion of ertapenem, resulting in increased plasma concentrations of ertapenem
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  . Co-administration of probenecid with ertapenem is not recommended.

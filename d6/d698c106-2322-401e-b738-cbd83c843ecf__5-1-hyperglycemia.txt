@@ -1,0 +1,35 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 5.1 Hyperglycemia
+
+TRUQAP can cause severe hyperglycemia, including diabetic ketoacidosis and fatal outcomes. Withhold TRUQAP in clinical situations known to increase the risk of severe hyperglycemia or ketoacidosis (e.g., suspected serious infection or acute illness). Before initiating treatment with TRUQAP, test fasting glucose levels (FPG or FBG), HbA1C levels, and optimize fasting glucose.
+
+                        After initiating treatment with TRUQAP, monitor or self-monitor fasting glucose levels on Day 3 or 4 of the dosing week during weeks 1, 2, 4, 6 and 8; then monthly while on treatment with TRUQAP; and as clinically indicated. Monitor HbA1C levels every 3 months during treatment with TRUQAP and as clinically indicated and manage changes as appropriate. Patients with a history of well-controlled Type 2 diabetes mellitus may require intensified anti-hyperglycemic treatment and require close monitoring of fasting glucose levels.
+
+                        For patients who experience hyperglycemia during treatment with TRUQAP, monitor fasting glucose at least twice weekly, on days on and off TRUQAP, until fasting glucose decreases to baseline levels. During treatment with anti-diabetic medications, monitor fasting glucose at least once a week for 2 months, followed by once every 2 weeks, or as clinically indicated.
+
+                        Consider consultation with a healthcare practitioner with expertise in the treatment of hyperglycemia and initiation of fasting glucose monitoring at home for patients who have risk factors for hyperglycemia or who experience hyperglycemia. Advise patients of the signs and symptoms of hyperglycemia and counsel patients on lifestyle changes.
+
+                        Withhold TRUQAP immediately when ketoacidosis is suspected. If ketoacidosis is confirmed, permanently discontinue TRUQAP.
+
+                        The safety of TRUQAP has not been established in patients with Type 1 diabetes or Type 2 diabetes that is uncontrolled or requiring insulin at baseline as these patients were excluded from clinical studies [see Clinical Studies (14.1,14.2)].
+
+                        Based on the severity of the hyperglycemia, withhold, reduce dose, or permanently discontinue TRUQAP [see Dosage and Administration (2.5)].
+
+                           CAPItello-291
+
+                        Increased fasting glucose from baseline occurred in 37% of patients treated with TRUQAP, including 11% of patients with Grade 2 (FG > 160 to 250 mg/dL), 2% with Grade 3 (FG > 250 to 500 mg/dL), and 1.1% with Grade 4 (FG > 500 mg/dL) events.
+
+                        The median time to first occurrence of hyperglycemia was 15 days (range: 1 to 367). Dose reduction for hyperglycemia was required in 0.6% of patients and permanent discontinuation was required in 0.6% of patients.
+
+                        Diabetic metabolic decompensation occurred in 0.6% of patients, including diabetic ketoacidosis in 0.3%.
+
+                        In CAPItello-291, 12% (43/355) of patients who received TRUQAP had an anti-hyperglycemic medication regimen either initiated or changed during the study, including treatment with insulin in 4.8% (17/355) of patients.
+
+                              CAPItello-281
+
+                           Increased fasting glucose from baseline occurred in 69% of patients treated with TRUQAP, including 25% of patients with Grade 2 (FG > 160 to 250 mg/dL), 12% with Grade 3 (FG > 250 to 500 mg/dL), and 1.2% of patients with Grade 4 (FG > 500 mg/dL) events.
+
+                           The median time to first occurrence of hyperglycemia was 71 days (range: 1 to 1454). Dose reduction for hyperglycemia was required in 8.7% of patients and permanent discontinuation was required in 2.4% of patients.
+
+                           Diabetic ketoacidosis occurred in 1.2% of patients.
+
+                           In CAPItello 281, 41% (204/503) of patients who received TRUQAP had an anti-hyperglycemic medication regimen either initiated or changed during the study, including treatment with insulin in 16% (81/503) of patients.

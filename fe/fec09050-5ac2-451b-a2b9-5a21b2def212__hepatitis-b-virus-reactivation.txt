@@ -1,0 +1,5 @@
+DailyMed fec09050-5ac2-451b-a2b9-5a21b2def212 | Prednisone | Hepatitis B Virus Reactivation
+
+Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including prednisone tablets. Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
+
+                              Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with prednisone tablets. For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.

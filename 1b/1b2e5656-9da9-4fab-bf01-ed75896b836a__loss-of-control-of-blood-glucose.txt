@@ -1,0 +1,5 @@
+DailyMed 1b2e5656-9da9-4fab-bf01-ed75896b836a | Glipizide | Loss of Control of Blood Glucose
+
+When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a loss of control may occur. At such times, it may be necessary to discontinue glipizide and administer insulin.
+
+                              The effectiveness of any oral hypoglycemic drug, including glipizide, in lowering blood glucose to a desired level decreases in many patients over a period of time, which may be due to progression of the severity of the diabetes or to diminished responsiveness to the drug. This phenomenon is known as secondary failure, to distinguish it from primary failure in which the drug is ineffective in an individual patient when first given.

@@ -1,0 +1,9 @@
+DailyMed a7b8ea07-e926-f0a5-c20d-92f23ed350d0 | Hydrocodone Bitartrate | 5.8 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+
+The use of hydrocodone bitartrate extended-release capsules in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
+
+                           Patients with Chronic Pulmonary Disease: Hydrocodone bitartrate extended-release capsule-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of hydrocodone bitartrate extended-release capsules.
+
+                           Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients.
+
+                        Regularly evaluate patients, particularly when initiating and titrating hydrocodone bitartrate extended-release capsules and when hydrocodone bitartrate extended-release capsules are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5), Drug Interactions (7)]. Alternatively, consider the use of non-opioid analgesics in these patients.

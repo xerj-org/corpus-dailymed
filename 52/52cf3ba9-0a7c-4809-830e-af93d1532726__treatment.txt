@@ -1,0 +1,55 @@
+DailyMed 52cf3ba9-0a7c-4809-830e-af93d1532726 | CARBAMAZEPINE | Treatment
+
+The prognosis in cases of severe poisoning is critically dependent upon prompt elimination of the drug, which may be achieved by inducing vomiting, irrigating the stomach, and by taking appropriate steps to diminish absorption. If these measures cannot be implemented without risk on the spot, the patient should be transferred at once to a hospital, while ensuring that vital functions are safeguarded. There is no specific antidote.
+
+                              Elimination of the Drug:
+
+                           Induction of vomiting.
+
+                        Gastric lavage. Even when more than 4 hours have elapsed following ingestion of the drug, the stomach should be repeatedly irrigated, especially if the patient has also consumed alcohol.
+
+                              Measures to Reduce Absorption:
+
+                           Activated charcoal, laxatives.
+
+                              Measures to Accelerate Elimination:
+
+                           Forced diuresis.
+
+                        Dialysis is indicated only in severe poisoning associated with renal failure. Replacement transfusion is indicated in severe poisoning in small children.
+
+                              Respiratory Depression:
+
+                           Keep the airways free; resort, if necessary, to endotracheal intubation, artificial respiration, and administration of oxygen.
+
+                              Hypotension, Shock:
+
+                           Keep the patient’s legs raised and administer a plasma expander. If blood pressure fails to rise despite measures taken to increase plasma volume, use of vasoactive substances should be considered.
+
+                              Convulsion:
+
+                           Diazepam or barbiturates.
+
+                              Warning:
+
+                           Diazepam or barbiturates may aggravate respiratory depression (especially in children), hypotension, and coma. However, barbiturates should
+
+  notbe used if drugs that inhibit monoamine oxidase have also been taken by the patient either in overdosage or in recent therapy (within 1 week).
+
+                              Surveillance:
+
+                           Respiration, cardiac function (ECG monitoring), blood pressure, body temperature, pupillary reflexes, and kidney and bladder function should be monitored for several days.
+
+                              Treatment of Blood Count Abnormalities:
+
+                           If evidence of significant bone marrow depression develops, the following recommendations are suggested: (1) stop the drug, (2) perform daily CBC, platelet, and reticulocyte counts, (3) do a bone marrow aspiration and trephine biopsy immediately and repeat with sufficient frequency to monitor recovery.
+
+                        Special periodic studies might be helpful as follows: (1) white cell and platelet antibodies, (2) 
+
+  59Fe-ferrokinetic studies, (3) peripheral blood cell typing, (4) cytogenetic studies on marrow and peripheral blood, (5) bone marrow culture studies for colony-forming units, (6) hemoglobin electrophoresis for A
+
+  2and F hemoglobin, and (7) serum folic acid and B
+
+  12levels.
+
+                        A fully developed aplastic anemia will require appropriate, intensive monitoring and therapy, for which specialized consultation should be sought.

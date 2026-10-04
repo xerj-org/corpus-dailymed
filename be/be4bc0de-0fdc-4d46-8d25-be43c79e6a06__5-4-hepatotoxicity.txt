@@ -1,0 +1,7 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 5.4 Hepatotoxicity
+
+Grade ≥3 ALT (2% to 6%) and AST (2% to 3%) were reported in patients receiving VERZENIO.
+
+                        Across four clinical trials in 3767 patients (monarchE, MONARCH 2, MONARCH 3, EMBER-3), the median time to onset of Grade ≥3 ALT increases ranged from 57 to 87 days and the median time to resolution to Grade <3 was 13 to 14 days. The median time to onset of Grade ≥3 AST increases ranged from 71 to 185 days and the median time to resolution to Grade <3 ranged from 11 to 15 days.
+
+                        Monitor liver function tests (LFTs) prior to the start of VERZENIO therapy, every 2 weeks for the first 2 months, monthly for the next 2 months, and as clinically indicated. Dose interruption, dose reduction, dose discontinuation, or delay in starting treatment cycles is recommended for patients who develop persistent or recurrent Grade 2, or any Grade 3 or Grade 4 hepatic transaminase elevation [see Dosage and Administration (2.2)].

@@ -1,0 +1,7 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 2.1 Recommended Dosage
+
+The recommended dosage of UTEBZI is 600 mg (two 300 mg tablets) administered orally every 6 hours for 7 to 10 days in adult patients with an estimated glomerular filtration rate (eGFR) between 60 and 150 mL/min. Do not use UTEBZI beyond the recommended treatment duration [see Warnings and Precautions (5.4)].
+
+                        UTEBZI can be taken with or without food [see Clinical Pharmacology (12.3)].
+
+                        Use of UTEBZI is not recommended in patients with eGFR >150 mL/min because it is predicted to decrease tebipenem exposure which may reduce UTEBZI efficacy [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].

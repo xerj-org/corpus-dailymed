@@ -1,0 +1,3 @@
+DailyMed 80bef3fd-4f6f-4190-8865-9ac46c8947a3 | Amoxicillin and Clavulanate Potassium | 7.2 Oral Anticoagulants
+
+Abnormal prolongation of prothrombin time (increased international normalized ratio [INR]) has been reported in patients receiving amoxicillin and oral anticoagulants. Appropriate monitoring should be undertaken when anticoagulants are prescribed concurrently. Adjustments in the dose of oral anticoagulants may be necessary to maintain the desired level of anticoagulation.

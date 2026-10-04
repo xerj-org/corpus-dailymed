@@ -1,0 +1,19 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 2.1 Important Dosage and Administration Information
+
+Administer IMDELLTRA according to the step-up dose and schedule in Table 1 to reduce the incidence and severity of cytokine release syndrome (CRS) [see Dosage and Administration (2.2)].
+
+                              Evaluate complete blood count, liver enzymes and bilirubin prior to administration of all doses of IMDELLTRA up through Cycle 5 Day 15 and then prior to administration of IMDELLTRA on Day 1 of each cycle starting with Cycle 6. More frequent evaluation may be necessary if clinically indicated [see Warnings and Precautions (5.3, 5.5)].
+
+                           Ensure patients are well hydrated prior to administration of IMDELLTRA [see Warnings and Precautions (5.1)].
+
+                           For Cycle 1, administer recommended concomitant medications in Table 3 before and after Cycle 1 Day 1 and Cycle 1 Day 8 IMDELLTRA infusions to reduce the risk of CRS reactions [see Dosage and Administration (2.3)].
+
+                           IMDELLTRA should only be administered by a qualified healthcare professional with appropriate medical support to manage severe reactions, such as CRS and neurologic toxicity, including immune effector cell-associated neurotoxicity syndrome (ICANS) [see Warnings and Precautions (5.1, 5.2)].
+
+                              Due to the risk of CRS and neurologic toxicity, including ICANS, monitor patients from the start of the IMDELLTRA infusion for 6 to 8 hours on Cycle 1 Day 1 and Cycle 1 Day 8 in an appropriate healthcare setting [see Dosage and Administration (2.5) and Warnings and Precautions (5.1, 5.2)].
+
+                           Perform patient assessment including vital signs check on Cycle 1 Days 2 and 9.
+
+                           Recommend patients to remain within 1 hour of an appropriate healthcare setting for a total of 48 hours from start of the infusion with IMDELLTRA following Cycle 1 Day 1 and Cycle 1 Day 8 doses, accompanied by a caregiver.
+
+                           Inform both the patient and the caregiver on the signs and symptoms of cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) prior to discharge.

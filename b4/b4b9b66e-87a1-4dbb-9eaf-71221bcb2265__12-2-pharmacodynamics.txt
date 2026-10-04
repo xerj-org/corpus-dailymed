@@ -1,0 +1,23 @@
+DailyMed b4b9b66e-87a1-4dbb-9eaf-71221bcb2265 | mirtazapine | 12.2 Pharmacodynamics
+
+In preclinical studies, mirtazapine acts as an antagonist at α2-adrenergic inhibitory autoreceptors and heteroreceptors and as an antagonist at serotonin 5-HT
+
+  2and 5-HT
+
+  3receptors. Mirtazapine has no significant affinity for the 5-HT
+
+  1Aand 5-HT
+
+  1Breceptors. 
+
+  Mirtazapine also acts as an antagonist of histamine (H
+
+  1) receptors, peripheral α
+
+  1-adrenergic receptors, and muscarinic receptors. Actions at these receptors may explain some of the other clinical effects of mirtazapine (e.g., its prominent somnolent effects and orthostatic hypotension may be explained by its inhibition of histamine (H
+
+  1) receptors and peripheral α1-adrenergic receptors, respectively). 
+
+                           Cardiac Electrophysiology 
+
+  The effect of mirtazapine tablets on QTc interval was assessed in healthy subjects. At a dose of 75 mg (1.67 times the maximum recommended dosage), mirtazapine does not prolong the QTc interval to a clinically meaningful extent.

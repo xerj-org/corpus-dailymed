@@ -1,0 +1,3 @@
+DailyMed f957ea27-2906-40c7-ac03-eb2f742473a0 | Cephalexin | 7.3 Interaction with Laboratory or Diagnostic Testing
+
+A false-positive reaction may occur when testing for the presence of glucose in the urine using Benedict’s solution or Fehling’s solution.

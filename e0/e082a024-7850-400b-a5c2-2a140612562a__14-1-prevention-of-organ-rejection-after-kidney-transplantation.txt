@@ -1,0 +1,148 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 14.1 Prevention of Organ Rejection After Kidney Transplantation
+
+A 24-month, multi-national, open-label, randomized (1:1:1) trial was conducted comparing two concentration-controlled Zortress regimens of 1.5 mg per day starting dose (targeting 3 to 8 ng/mL using an LC/MS/MS assay method and 3 mg per day starting dose (targeting 6 to 12 ng/mL using an LC/MS/MS assay method) with reduced exposure cyclosporine and corticosteroids, to 1.44 g per day of mycophenolic acid with standard exposure cyclosporine and corticosteroids. The mean cyclosporine starting dose was 5.2, 5 and 5.7 mg/kg body weight/day in the Zortress 1.5 mg, 3 mg and in mycophenolic acid groups, respectively. The cyclosporine dose in the Zortress group was then adjusted to the blood trough concentration ranges indicated in Table 5, whereas in the mycophenolic acid group the target ranges were 200 to 300 ng/mL starting Day 5: 200 to 300 ng/mL, and 100 to 250 ng/mL from Month 2 to Month 12.
+
+                        All patients received basiliximab induction therapy. The study population consisted of 18- to 70-year-old male and female low-to-moderate risk renal transplant recipients undergoing their first transplant. Low to moderate immunologic risk was defined in the study as an ABO blood type compatible first organ or tissue transplant recipient with anti-human leukocyte antigen (HLA) Class I panel reactive antibody (PRA) less than 20% by a complement dependent cytotoxicity-based assay, or less than 50% by a flow cytometry or ELISA-based assay, and with a negative T-cell cross match. Eight hundred thirty-three (833) patients were randomized after transplantation; 277 randomized to the Zortress 1.5 mg per day group, 279 to the Zortress 3 mg per day group and 277 to the mycophenolic acid 1.44 g per day group. The study was conducted at 79 renal transplant centers across Europe, South Africa, North and South America, and Asia-Pacific. There were no major baseline differences between treatment groups with regard to recipient or donor disease characteristics. The majority of transplant recipients in all groups (70% to 76%) had three or more HLA mismatches; mean percentage of panel reactive antibodies ranged from 1% to 2%. The rate of premature treatment discontinuation at 12 months was 30% and 22% in the Zortress 1.5 mg and control groups, respectively, (p = 0.03, Fisher’s exact test) and was more prominent between groups among female patients. Results at 12 months indicated that Zortress 1.5 mg per day is comparable to control with respect to efficacy failure, defined as treated biopsy-proven acute rejection*, graft loss, death, or loss to follow-up. The percentage of patients experiencing this endpoint and each individual variable in the Zortress and control groups is shown in Table 7.
+
+                           Table 7. Efficacy Failure by Treatment Group (ITT Population) at 12 Months After Kidney Transplantation
+
+                                 Abbreviation: CsA, cyclosporine.
+
+                                    *Treated biopsy-proven acute rejection (tBPAR) was defined as a histologically confirmed acute rejection with a biopsy graded as IA, IB, IIA, IIB, or III according to 1997 Banff criteria that were treated with anti-rejection medication.
+
+                                    1The difference in rates (Zortress–mycophenolic acid) with 95% confidence interval (CI) for primary efficacy failure endpoint is 1.1% (-6.1%, 8.3%); and for the graft loss, death or loss to follow-up endpoint is 2.2% (-2.9%, 7.3%).
+
+                                    2Includes treated BPAR, graft loss, death or loss to follow-up by Month 12 where loss to follow-up represents patient who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12-month visit.
+
+                                    3Loss to follow-up (for Graft Loss, Death, or Loss to Follow-up) represents patient who did not experience death or graft loss and whose last contact date is prior to 12-month visit.
+											 |
+
+                                  |
+
+                                    Zortress (everolimus)
+
+1.5 mg per day
+
+with reduced exposure CsA
+
+N = 277
+
+n (%)
+                                  |
+
+                                    Mycophenolic acid
+
+1.44 g per day
+
+with standard exposure CsA
+
+N = 277
+
+n (%)
+                                  |
+
+                                    Efficacy endpoints
+                                    1
+                                  |
+
+                                 Efficacy failure endpoint2
+                                  |
+                                 70 (25.3) |
+                                 67 (24.2) |
+
+                                        Treated biopsy proven acute rejection |
+                                 45 (16.2) |
+                                 47 (17.0) |
+
+                                        Death |
+                                 7 (2.5) |
+                                 6 (2.2) |
+
+                                        Graft loss |
+                                 12 (4.3) |
+                                 9 (3.2) |
+
+                                        Loss to follow-up |
+                                 12 (4.3) |
+                                 9 (3.2) |
+
+                                 Graft loss or death or loss to follow-up3
+                                  |
+                                 32 (11.6) |
+                                 26 (9.4) |
+
+                                        Graft loss or death |
+                                 18 (6.5) |
+                                 15 (5.4) |
+
+                                        Loss to follow-up3
+                                  |
+                                 14 (5.1) |
+                                 11 (4.0) |
+
+                        The estimated mean glomerular filtration rate [using the Modification of Diet in Renal Disease (MDRD) equation] for Zortress 1.5 mg (target trough concentrations 3 to 8 ng/mL) and mycophenolic acid groups were comparable at Month 12 in the intent-to-treat (ITT) population (Table 8).
+
+                           Table 8. Estimated Glomerular Filtration Rates (mL/min/1.73 m2) by MDRD at 12 Months After Kidney Transplantation*
+
+                                 Abbreviations: CsA, cyclosporine; MDRD, modification of diet in renal disease; SD, standard deviation.
+
+                                    *Analysis based on using a subject’s last observation carried forward for missing data at 12 months due to death or lost to follow-up data, a value of zero is used for subjects who experienced a graft loss. |
+
+                                    Month 12 GFR (MDRD)
+                                  |
+
+                                    Zortress (everolimus)
+
+                                    1.5 mg
+                                     per
+                                    day
+
+                                    with reduced
+                                    exposure
+                                    CsA
+
+                                    N
+                                     = 27
+                                    6
+                                  |
+
+                                    Mycophenolic acid
+
+                                    1.44 g
+                                     per
+                                    day
+
+                                    with
+                                    standard
+                                     
+                                    exposure
+                                    CsA
+
+                                    N
+                                     = 277
+                                  |
+
+                                    Mean (SD)
+                                  |
+                                 54.6 (21.7) |
+                                 52.3 (26.5) |
+
+                                    Median (range)
+                                  |
+                                 55.0 (0-140.9) |
+                                 50.1 (0.0-366.4) |
+
+                        Two earlier studies compared fixed doses of Zortress 1.5 mg per day and 3 mg per day, without TDM, combined with standard exposure cyclosporine and corticosteroids to mycophenolate mofetil 2 g per day and corticosteroids. Antilymphocyte antibody induction was prohibited in both studies. Both were multicenter, double-blind (for first 12 months), randomized trials (1:1:1) of 588 and 583 de novo renal transplant patients, respectively. The 12-month analysis of GFR showed increased rates of renal impairment in both the Zortress groups compared to the mycophenolate mofetil group in both studies. Therefore, reduced exposure cyclosporine should be used in combination with Zortress in order to avoid renal dysfunction and everolimus trough concentrations should be adjusted using TDM to maintain trough concentrations between 3 to 8 ng/mL [
+                           s
+                           ee
+                           Boxed Warning,
+                           Dosage and Administration (
+                           2.
+                           4
+                           )
+                           ,
+                            Warnings and Precautions (
+                           5.
+                           6
+                           )]
+                           .

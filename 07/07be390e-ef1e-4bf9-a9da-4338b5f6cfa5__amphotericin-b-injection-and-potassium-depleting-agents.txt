@@ -1,0 +1,5 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Amphotericin B Injection and Potassium-Depleting Agents
+
+When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., ), patients should be observed closely for development of hypokalemia. In addition, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
+
+  amphotericin B, diuretics

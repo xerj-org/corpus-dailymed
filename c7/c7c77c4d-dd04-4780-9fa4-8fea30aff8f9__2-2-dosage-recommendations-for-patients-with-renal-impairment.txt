@@ -1,0 +1,3 @@
+DailyMed c7c77c4d-dd04-4780-9fa4-8fea30aff8f9 | Desvenlafaxine | 2.2 Dosage Recommendations for Patients with Renal Impairment
+
+The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [CLCr] = 30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day. The maximum recommended dose in patients with severe renal impairment (CLCr15 to 29 mL/min, C-G) or end-stage renal disease (ESRD, CLCr < 15 mL/min, C-G) is 25 mg every day or 50 mg every other day. Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

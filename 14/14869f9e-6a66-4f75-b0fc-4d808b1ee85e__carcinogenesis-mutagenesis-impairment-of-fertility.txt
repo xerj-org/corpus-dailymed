@@ -1,0 +1,4 @@
+DailyMed 14869f9e-6a66-4f75-b0fc-4d808b1ee85e | Diltiazem Hydrochloride | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+A 24-month study in rats and a 21-month study in mice showed no evidence of carcinogenicity. There was also no mutagenic response in
+  in vitro bacterial tests. No intrinsic effect on fertility was observed in rats.

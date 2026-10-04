@@ -1,0 +1,11 @@
+DailyMed 3145ceda-8c1e-4601-8a9d-5fc4978226d6 | Sildenafil | 5.4 Hearing Loss
+
+Physicians should advise patients to stop taking PDE5 inhibitors, including sildenafil tablets, and seek prompt medical attention in the event of sudden decrease or loss of hearing. These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including sildenafil tablets. It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors [
+
+  see Adverse Reactions
+
+   (6.1,
+
+   6.2)
+
+                           ].

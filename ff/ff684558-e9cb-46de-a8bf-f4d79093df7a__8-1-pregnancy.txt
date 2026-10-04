@@ -1,0 +1,17 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 8.1 Pregnancy
+
+Risk Summary
+
+                        Based on findings in animals and its mechanism of action [see Clinical Pharmacology (12.1)], BEQALZI can cause embryo-fetal harm when administered to pregnant women. There are no available data on BEQALZI use in pregnant women to evaluate for a drug-associated risk.
+
+                        In animal reproduction studies, oral administration of sonrotoclax to pregnant mice and rabbits during the period of organogenesis resulted in adverse developmental outcomes, including structural abnormalities and altered fetal growth, at maternal exposures approximately ≥2 times the human exposure (AUC) at the recommended dose of 320 mg daily (see Data). Advise patients of the potential risk to a fetus.
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Sonrotoclax was administered orally to pregnant mice at doses of 100, 300, and 1000 mg/kg/day during organogenesis (gestation days 6-15). Decreased fetal body weight and crown-rump length were noted at all doses. At the dose of 100 mg/kg/day in mice, the maternal exposure was approximately 8 times the human exposure at the recommended dose of 320 mg once daily.
+
+                        Sonrotoclax was administered orally to pregnant rabbits at doses of 15, 75, and 300 mg/kg/day during organogenesis (gestation days 6-19). Fetal external (absent or open eye, cleft lip, misshapen mouth, acephalostoma) malformations were noted at 300 mg/kg/day. At the dose of 300 mg/kg/day in rabbits, the maternal exposure was approximately 2 times the human exposure at the recommended dose of 320 mg once daily.

@@ -1,0 +1,8 @@
+DailyMed dc42ab17-cd30-4d1a-e053-2995a90a86ea | ACETAMINOPHEN | 4 CONTRAINDICATIONS
+
+Acetaminophen is contraindicated:
+
+                  in patients with known hypersensitivity to acetaminophen or to any of the excipients in the intravenous formulation.
+
+in patients with severe hepatic impairment or severe active liver disease
+  [see WARNINGS AND PRECAUTIONS (5.1)].

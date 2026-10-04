@@ -1,0 +1,5 @@
+DailyMed 64ef2286-0f56-4a8a-b07b-4a597f078ae0 | Oxistat | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Although no long-term studies in animals have been performed to evaluate carcinogenic potential, no evidence of mutagenic effect was found in 2 mutation assays (Ames test and Chinese hamster V79 in vitro cell mutation assay) or in 2 cytogenetic assays (human peripheral blood lymphocyte in vitro chromosome aberration assay and in vivo micronucleus assay in mice).
+
+                        Reproductive studies revealed no impairment of fertility in rats at oral doses of 3 mg/kg/day in females (1 time the human dose based on mg/m2) and 15 mg/kg/day in males (4 times the human dose based on mg/m2). However, at doses above this level, the following effects were observed: a reduction in the fertility parameters of males and females, a reduction in the number of sperm in vaginal smears, extended estrous cycle, and a decrease in mating frequency.

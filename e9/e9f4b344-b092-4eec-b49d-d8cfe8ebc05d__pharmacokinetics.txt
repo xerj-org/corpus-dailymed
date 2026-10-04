@@ -1,0 +1,17 @@
+DailyMed e9f4b344-b092-4eec-b49d-d8cfe8ebc05d | pentobarbital sodium | Pharmacokinetics
+
+Barbiturates are absorbed in varying degrees following oral, rectal, or parenteral administration. The salts are more rapidly absorbed than are the acids.
+
+                        The onset of action for oral or rectal administration varies from 20 to 60 minutes. For IM administration, the onset of action is slightly faster. Following IV administration, the onset of action ranges from almost immediately for Pentobarbital Sodium to 5 minutes for phenobarbital sodium. Maximal CNS depression may not occur until 15 minutes or more after IV administration for phenobarbital sodium.
+
+                        Duration of action, which is related to the rate at which the barbiturates are redistributed throughout the body, varies among persons and in the same person from time to time.
+
+                        No studies have demonstrated that the different routes of administration are equivalent with respect to bioavailability.
+
+                        Barbiturates are weak acids that are absorbed and rapidly distributed to all tissues and fluids with high concentrations in the brain, liver, and kidneys. Lipid solubility of the barbiturates is the dominant factor in their distribution within the body. The more lipid soluble the barbiturate, the more rapidly it penetrates all tissues of the body. Barbiturates are bound to plasma and tissue proteins to a varying degree with the degree of binding increasing directly as a function of lipid solubility.
+
+                        Phenobarbital has the lowest lipid solubility, lowest plasma binding, lowest brain protein binding, the longest delay in onset of activity, and the longest duration of action. At the opposite extreme is secobarbital which has the highest lipid solubility, plasma protein binding, brain protein binding, the shortest delay in onset of activity, and the shortest duration of action. Butabarbital is classified as an intermediate barbiturate.
+
+                        The plasma half-life for pentobarbital in adults is 15 to 50 hours and appears to be dose dependent.
+
+                        Barbiturates are metabolized primarily by the hepatic microsomal enzyme system, and the metabolic products are excreted in the urine, and less commonly, in the feces. Approximately 25 to 50 percent of a dose of aprobarbital or phenobarbital is eliminated unchanged in the urine, whereas the amount of other barbiturates excreted unchanged in the urine is negligible. The excretion of unmetabolized barbiturate is one feature that distinguishes the long-acting category from those belonging to other categories which are almost entirely metabolized. The inactive metabolites of the barbiturates are excreted as conjugates of glucuronic acid.

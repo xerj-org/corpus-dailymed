@@ -1,0 +1,9 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 7.3 Cholestyramine, Bile Acid Sequestrates, Oral Activated Charcoal and Other Drugs That Interfere With Enterohepatic Recirculation
+
+Drugs that interrupt enterohepatic recirculation may decrease MPA plasma concentrations when coadministered with MMF. Therefore, do not administer mycophenolic acid delayed release with cholestyramine or other agents that may interfere with enterohepatic recirculation or drugs that may bind bile acids, e.g., bile acid sequestrates or oral activated charcoal, because of the potential to reduce the efficacy of mycophenolic acid delayed release [see
+
+                              Clinical Pharmacology (
+
+    12.3)
+
+                           ].

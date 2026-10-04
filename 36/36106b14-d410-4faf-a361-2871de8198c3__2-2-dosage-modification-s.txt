@@ -1,0 +1,130 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 2.2 Dosage Modification s
+
+Dosing modifications for concomitant use of specific drugs and for patients with hepatic or renal impairment are provided in Table 1.
+
+                           Table 1: Dose Modifications for Drug Interactions and for Specific Populations
+
+                                    Dosage Modifications
+
+                                  |
+
+                                    Initi
+                                    a
+                                    l Dose
+
+                                  |
+
+                                    Second Dose
+                                    a
+
+                                    (if needed)
+                                  |
+
+                                    Concomitant Drug
+                                    [see Drug Interactions (
+
+                                       7
+
+                                    )]
+                                  |
+
+                                      Moderate CYP3A4 Inhibitors
+
+     (
+
+                                       7.1
+
+                                    )
+                                  |
+                                 50 mg |
+                                 Avoid within 24 hours |
+
+                                      Weak CYP3A4 Inhibitors
+
+     (
+
+                                       7.1
+
+                                    )
+                                  |
+                                 50 mg |
+                                 50 mg |
+
+                                      Strong CYP3A4 Inducers
+
+     (
+
+                                       7.2
+
+                                    )
+                                  |
+                                 Avoid concomitant use |
+
+                                      Weak & Moderate CYP3A4 Inducers
+
+     (
+
+                                       7.2
+
+                                    )
+                                  |
+                                 100 mg |
+                                 100 mg |
+
+                                      BCRP and/or P-gp only Inhibitors
+
+     (
+
+                                       7.3
+
+                                    )
+                                  |
+                                 50 mg |
+                                 50 mg |
+
+                                    Spec
+                                    i
+                                    fic
+                                    Populations
+                                    [see Use in Specific Populations (
+
+                                       8
+
+                                    )]
+                                  |
+
+                                      Severe Hepatic Impairment (Child-Pugh Class C)
+
+     (
+
+                                       8.6
+
+                                    )
+                                  |
+                                 50 mg |
+                                 50 mg |
+
+                                      Severe Renal Impairment (CLcr 15-29 mL/min)
+
+     (
+
+                                       8.7
+
+                                    )
+                                  |
+                                 50 mg |
+                                 50 mg |
+
+                                      End-Stage Renal Disease (CLcr <15 mL/min)
+
+     (
+
+                                       8.7
+
+                                    )
+                                  |
+                                 Avoid use |
+
+                                    a Second dose may be taken at least 2 hours after the initial dose
+
+     |

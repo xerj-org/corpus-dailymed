@@ -1,0 +1,3 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 5.11 Rare Hereditary Deficiencies
+
+Mycophenolic acid delayed release is an inosine monophosphate dehydrogenase inhibitor (IMPDH inhibitor). Mycophenolic acid delayed release tablets should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT), such as Lesch-Nyhan and Kelley-Seegmiller syndromes because it may cause an exacerbation of disease symptoms characterized by the overproduction and accumulation of uric acid leading to symptoms associated with gout, such as acute arthritis, tophi, nephrolithiasis or urolithiasis, and renal disease, including renal failure.

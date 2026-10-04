@@ -1,0 +1,3 @@
+DailyMed c54baaee-8ea4-45f5-a5c8-bb84cf86832f | Methadone Hydrochloride | 8.6 Hepatic Impairment
+
+Methadone pharmacokinetics have not been extensively evaluated in patients with hepatic insufficiency. Methadone is metabolized by hepatic pathways; therefore, patients with liver impairment may be at risk of increased systemic exposure to methadone after multiple dosing. Start these patients on lower doses and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.

@@ -1,0 +1,398 @@
+DailyMed 2f73a4db-2c7f-4e42-a914-87aedc2780fb | Ticagrelor | 14.1 Acute Coronary Syndromes and Secondary Prevention after Myocardial Infarction
+
+PLATO
+
+                               
+
+                        PLATO (NCT00391872) was a randomized double-blind study comparing ticagrelor tablets (N=9,333) to clopidogrel (N=9,291), both given in combination with aspirin and other standard therapy, in patients with acute coronary syndromes (ACS), who presented within 24 hours of onset of the most recent episode of chest pain or symptoms. The study’s primary endpoint was the composite of first occurrence of cardiovascular death, non-fatal MI (excluding silent MI), or non-fatal stroke.
+
+                        Patients who had already been treated with clopidogrel could be enrolled and randomized to either study treatment. Patients with previous intracranial hemorrhage, gastrointestinal bleeding within the past 6 months, or with known bleeding diathesis or coagulation disorder were excluded. Patients taking anticoagulants were excluded from participating and patients who developed an indication for anticoagulation during the trial were discontinued from study drug. Patients could be included whether there was intent to manage the ACS medically or invasively, but patient randomization was not stratified by this intent.
+
+                        All patients randomized to ticagrelor tablets received a loading dose of 180 mg followed by a maintenance dose of 90 mg twice daily. Patients in the clopidogrel arm were treated with an initial loading dose of clopidogrel 300 mg, if clopidogrel therapy had not already been given. Patients undergoing PCI could receive an additional 300 mg of clopidogrel at investigator discretion. A daily maintenance dose of aspirin 75 to 100 mg was recommended, but higher maintenance doses of aspirin were allowed according to local judgment. Patients were treated for at least 6 months and for up to 12 months.
+
+                        PLATO patients were predominantly male (72%) and Caucasian (92%). About 43% of patients were greater than 65 years and 15% were greater than 75 years. Median exposure to study drug was 276 days. About half of the patients received pre-study clopidogrel and about 99% of the patients received aspirin at some time during PLATO. About 35% of patients were receiving a statin at baseline and 93% received a statin sometime during PLATO.
+
+                        Table 7 shows the study results for the primary composite endpoint and the contribution of each component to the primary endpoint. Separate secondary endpoint analyses are shown for the overall occurrence of CV death, MI, and stroke and overall mortality.
+
+                           Table 7 – Patients with outcome events (PLATO)
+
+                                  
+
+                                  |
+
+                                    Ticagrelor Tablets*
+
+                                        
+
+                                    N=9,333
+
+                                  |
+
+                                    Clopidogrel
+
+                                    N=9,291
+
+                                  |
+
+                                    Hazard Ratio
+
+                                    (95% CI)
+
+                                  |
+
+                                       p-value
+
+                                  |
+
+                                    Events / 1,000 patient years
+
+                                  |
+
+                                    Events / 1,000 patient years
+
+                                  |
+
+                                 Composite of CV death, MI, or stroke
+
+                                  |
+                                 111
+
+                                  |
+                                 131
+
+                                  |
+                                 0.84 (0.77, 0.92)
+
+                                  |
+                                 0.0003
+
+                                  |
+
+                                 CV death
+
+                                  |
+                                 32
+
+                                  |
+                                 43
+
+                                  |
+
+0.74  |
+                                  
+
+                                  |
+
+                                 Non-fatal MI
+
+                                  |
+                                 64
+
+                                  |
+                                 76
+
+                                  |
+
+0.84  |
+                                  
+
+                                  |
+
+                                 Non-fatal stroke
+
+                                  |
+                                 15
+
+                                  |
+                                 12
+
+                                  |
+
+1.24  |
+                                  
+
+                                  |
+
+                                 Secondary endpoints†
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 CV death
+
+                                  |
+                                 45
+
+                                  |
+                                 57
+
+                                  |
+                                 0.79 (0.69, 0.91)
+
+                                  |
+                                 0.0013
+
+                                  |
+
+                                 MI‡
+
+                                  |
+                                 65
+
+                                  |
+                                 76
+
+                                  |
+                                 0.84 (0.75, 0.95)
+
+                                  |
+                                 0.0045
+
+                                  |
+
+                                 Stroke‡
+
+                                  |
+                                 16
+
+                                  |
+                                 14
+
+                                  |
+                                 1.17 (0.91, 1.52)
+
+                                  |
+                                 0.22
+
+                                  |
+
+                                 All-cause mortality
+
+                                  |
+                                 51
+
+                                  |
+                                 65
+
+                                  |
+                                 0.78 (0.69, 0.89)
+
+                                  |
+                                 0.0003
+
+                                  |
+
+                        *Dosed at 90 mg bid.
+
+                        †Note: rates of first events for the components CV Death, MI and Stroke are the actual rates for first events for each component and do not add up to the overall rate of events in the composite endpoint.
+
+                        ‡Including patients who could have had other non-fatal events or died.
+
+                        The Kaplan-Meier curve (Figure 10) shows time to first occurrence of the primary composite endpoint of CV death, nonfatal MI or non-fatal stroke in the overall study.
+
+                                 Figure 10 – Time to first occurrence of CV death, MI, or stroke 
+
+                              (PLATO)
+
+                        The curves separate by 30 days [relative risk reduction (RRR) 12%] and continue to diverge throughout the 12-month treatment period (RRR 16%).
+
+                        Among 11,289 patients with PCI receiving any stent during PLATO, there was a lower risk of stent thrombosis (1.3% for adjudicated “definite”) than with clopidogrel (1.9%) (HR 0.67, 95% CI 0.50 to 0.91; p=0.009). The results were similar for drug-eluting and bare metal stents.
+
+                        A wide range of demographic, concurrent baseline medications, and other treatment differences were examined for their influence on outcome. Some of these are shown in Figure 11. Such analyses must be interpreted cautiously, as differences can reflect the play of chance among a large number of analyses. Most of the analyses show effects consistent with the overall results, but there are two exceptions: a finding of heterogeneity by region and a strong influence of the maintenance dose of aspirin. These are considered further below.
+
+                        Most of the characteristics shown are baseline characteristics, but some reflect post-randomization determinations (e.g., aspirin maintenance dose, use of PCI).
+
+                           Figure 11 – Subgroup analyses of (PLATO)
+
+                        Note: The figure above presents effects in various subgroups most of which are baseline characteristics and most of which were pre-specified. The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+                           Regional Differences
+
+                        Results in the rest of the world compared to effects in North America (US and Canada) show a smaller effect in North America, numerically inferior to the control and driven by the US subset. The statistical test for the US/non-US comparison is statistically significant (p=0.009), and the same trend is present for both CV death and non-fatal MI. The individual results and nominal p-values, like all subset analyses, need cautious interpretation, and they could represent chance findings. The consistency of the differences in both the CV mortality and non-fatal MI components, however, supports the possibility that the finding is reliable.
+
+                        A wide variety of baseline and procedural differences between the US and non-US (including intended invasive vs. planned medical management, use of GPIIb/IIIa inhibitors, use of drug eluting vs. bare-metal stents) were examined to see if they could account for regional differences, but with one exception, aspirin maintenance dose, these differences did not appear to lead to differences in outcome.
+
+                           Aspirin Dose
+                            
+
+                        The PLATO protocol left the choice of aspirin maintenance dose up to the investigator and use patterns were different in US sites from sites outside of the US. About 8% of non-US investigators administered aspirin doses above 100 mg, and about 2% administered doses above 300 mg. In the US, 57% of patients received doses above 100 mg and 54% received doses above 300 mg. Overall results favored ticagrelor tablets when used with low maintenance doses (≤100 mg) of aspirin, and results analyzed by aspirin dose were similar in the US and elsewhere. Figure 10 shows overall results by median aspirin dose. Figure 12 shows results by region and dose.
+
+                           Figure 12 – CV death, MI, stroke by maintenance aspirin dose in the US and outside the US (PLATO)
+
+                            
+
+                             
+                            
+
+                        Like any unplanned subset analysis, especially one where the characteristic is not a true baseline characteristic (but may be determined by usual investigator practice), the above analyses must be treated with caution. It is notable, however, that aspirin dose predicts outcome in both regions with a similar pattern, and that the pattern is similar for the two major components of the primary endpoint, CV death and non-fatal MI.
+
+                        Despite the need to treat such results cautiously, there appears to be good reason to restrict aspirin maintenance dosage accompanying ticagrelor to 100 mg. Higher doses do not have an established benefit in the ACS setting, and there is a strong suggestion that use of such doses reduces the effectiveness of ticagrelor tablets.
+
+                           PEGASUS
+
+                        The PEGASUS TIMI-54 study (NCT01225562) was a 21,162-patient,  randomized, double-blind, placebo-controlled, parallel-group study. Two doses of ticagrelor, either 90 mg twice daily or 60 mg twice daily, co-administered with 75 to 150 mg of aspirin, were compared to aspirin therapy alone in patients with history of MI. The primary endpoint was the composite of first occurrence of CV death, non-fatal MI and non-fatal stroke. CV death and all-cause mortality were assessed as secondary endpoints.
+
+                        Patients were eligible to participate if they were ≥50 years old, with a history of MI 1 to 3 years prior to randomization, and had at least one of the following risk factors for thrombotic cardiovascular events: age ≥65 years, diabetes mellitus requiring medication, at least one other prior MI, evidence of multivessel coronary artery disease, or creatinine clearance less than 60 mL/min. Patients could be randomized regardless of their prior ADP receptor blocker therapy or a lapse in therapy. Patients requiring or who were expected to require renal dialysis during the study were excluded. Patients with any previous intracranial hemorrhage, gastrointestinal bleeding within the past 6 months, or with known bleeding diathesis or coagulation disorder were excluded. Patients taking anticoagulants were excluded from participating and patients who developed an indication for anticoagulation during the trial were discontinued from study drug. A small number of patients with a history of stroke were included. Based on information external to PEGASUS, 102 patients with a history of stroke (90 of whom received study drug) were terminated early and no further such patients were enrolled.
+
+                        Patients were treated for at least 12 months and up to 48 months with a median follow up time of 33 months.
+
+                        Patients were predominantly male (76%) Caucasian (87%) with a mean age of 65 years, and 99.8% of patients received prior aspirin therapy.
+
+                        The Kaplan-Meier curve (Figure 13) shows time to first occurrence of the primary composite endpoint of CV death, nonfatal MI or non-fatal stroke.
+
+                         Figure 13 – Time to First Occurrence of CV death, MI or Stroke (PEGASUS)
+
+                             
+
+                         Ti = Ticagrelor BID, CI = Confidence interval; HR = Hazard ratio; KM = Kaplan-Meier; N = Number of patients.
+
+                        Both the 60 mg and 90 mg regimens of ticagrelor tablets in combination with aspirin were superior to aspirin alone in reducing the incidence of CV death, MI or stroke. The absolute risk reductions for ticagrelor tablets plus aspirin vs. aspirin alone were 1.27% and 1.19% for the 60 and 90 mg regimens, respectively. Although the efficacy profiles of the two regimens were similar, the lower dose had lower risks of bleeding and dyspnea.
+
+                        Table 8 shows the results for the 60 mg plus aspirin regimen vs. aspirin alone.
+
+                           Table 8 – Incidences of the primary composite endpoint, primary composite endpoint components, and secondary endpoints (PEGASUS)
+
+                                  
+
+                                  |
+
+                                    Ticagrelor Tablets * N=7,045
+
+                                  |
+
+                                    Placebo N=7,067
+
+                                  |
+
+                                    HR (95% CI)
+
+                                  |
+
+                                       p
+
+                                    -value
+
+                                  |
+
+                                  
+
+                                  |
+
+                                    Events / 1,000 patient years
+
+                                  |
+
+                                    Events / 1,000 patient years
+
+                                  |
+
+                                 Time to first CV death, MI, or stroke†
+
+                                  |
+                                 26
+
+                                  |
+                                 31
+
+                                  |
+                                 0.84 (0.74, 0.95)
+
+                                  |
+                                 0.0043
+
+                                  |
+
+                                 CV Death‡,§
+
+                                  |
+                                 9
+
+                                  |
+                                 11
+
+                                  |
+                                 0.83 (0.68, 1.01)
+
+                                  |
+                                  
+
+                                  |
+
+                                 Myocardial infarction§
+
+                                  |
+                                 15
+
+                                  |
+                                 18
+
+                                  |
+                                 0.84 (0.72, 0.98)
+
+                                  |
+                                  
+
+                                  |
+
+                                 Stroke§
+
+                                  |
+                                 5
+
+                                  |
+                                 7
+
+                                  |
+                                 0.75 (0.57, 0.98)
+
+                                  |
+                                  
+
+                                  |
+
+                                 All-cause mortality‡
+
+                                  |
+                                 16
+
+                                  |
+                                 18
+
+                                  |
+                                 0.89 (0.76, 1.04)
+
+                                  |
+                                  
+
+                                  |
+
+                           CI = Confidence interval; CV = Cardiovascular; HR = Hazard ratio; MI = Myocardial infarction; N = Number of patients.
+
+                           *60 mg BID
+
+                           † Primary composite endpoint
+
+                           ‡ Secondary endpoints
+
+                           § The event rate for the components CV death, MI and stroke are  calculated from the actual number of first events for each component.
+
+                        In PEGASUS, the relative risk reduction (RRR) for the composite endpoint from 1 to 360 days (17% RRR) and from 361 days and onwards (16% RRR) were similar.
+
+                        The treatment effect of ticagrelor tablets 60 mg over aspirin appeared similar across most pre-defined subgroups, see Figure 14.
+
+                            
+
+                           Figure 14 – Subgroup analyses of ticagrelor 60 mg (PEGASUS)
+
+Note: The figure above presents effects in various subgroups all of which are baseline characteristics and most of which were pre-specified. The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.

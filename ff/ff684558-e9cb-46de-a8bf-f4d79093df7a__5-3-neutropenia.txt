@@ -1,0 +1,5 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 5.3 Neutropenia
+
+BEQALZI can cause serious or severe cytopenias, including neutropenia.
+
+                        Among 115 patients with MCL who received BEQALZI, new or worsening Grade 3 or 4 decrease in neutrophils developed in 18% (Grade 4, 6%). Febrile neutropenia occurred in 1.7% of patients. Monitor complete blood counts throughout treatment. Based on severity, reduce dose, interrupt, or permanently discontinue BEQALZI [see Dosage and Administration (2.3)].

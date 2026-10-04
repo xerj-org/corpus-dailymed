@@ -1,0 +1,9 @@
+DailyMed d57720ab-9f83-4da9-a57f-0d55e00a605c | ATORVASTATIN CALCIUM | 5.5 Increased Risk of Hemorrhagic Stroke in Patients on Atorvastatin Calcium Tablets 80 mg with Recent Hemorrhagic Stroke
+
+In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial where 2,365 adult patients, without CHD who had a stroke or TIA within the preceding 6 months, were treated with atorvastatin calcium 80 mg, a higher incidence of hemorrhagic stroke was seen in the atorvastatin calcium 80 mg group compared to placebo (55, 2.3% atorvastatin calcium vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p=0.0168). The incidence of fatal hemorrhagic stroke was similar across treatment groups (17 vs. 18 for the atorvastatin and placebo groups, respectively). The incidence of non-fatal hemorrhagic stroke was significantly higher in the atorvastatin calcium group (38, 1.6%) as compared to the placebo group (16, 0.7%). Some baseline characteristics, including hemorrhagic and lacunar stroke on study entry, were associated with a higher incidence of hemorrhagic stroke in the atorvastatin calcium group
+
+  [see Adverse Reactions (
+
+   6.1)]
+
+  . Consider the risk/benefit of use of atorvastatin calcium 80 mg in patients with recent hemorrhagic stroke.

@@ -1,0 +1,48 @@
+DailyMed 573770f6-b76e-f6ba-e063-6294a90aa54d | QUZYTTIR | 14 CLINICAL STUDIES
+
+The safety and efficacy of QUZYTTIR for the treatment of acute urticaria was demonstrated in a randomized, active-controlled, double-blind, single dose, multicenter (US and Canada), parallel group trial in 262 patients 18 years of age and older presenting to Emergency Departments or Urgent care Centers (NCT02935699). Subjects were treated with 10 mg of QUZYTTIR or 50 mg diphenhydramine injection. Patients with acute urticaria with or without other diseases were enrolled, including patients with concomitant angioedema. The majority of the patients were Caucasian (48%) and female (63%) with a mean age of 39 years.
+
+                  The primary efficacy endpoint was the change from baseline in patient-rated pruritus score assessed 2 hrs post treatment for the intent-to-treat (ITT) population. Pruritus was graded on a severity score of 0 to 3 with 0 = no pruritus, 1 = mild, 2 =moderate, and 3 = severe. The trial was non-inferiority design with the pre-specified non-inferiority margin of 0.50 for the difference between treatment groups. Two key secondary efficacy outcome measures: (i) the need to return to any ED or clinic after patient discharge, and (ii) time spent at the treatment center (time from treatment administration to readiness for discharge) were adjusted for multiplicity.
+
+                  Result for the change from baseline in the pruritus scores are shown in
+
+  Table 1. The difference between treatment groups excluded the pre-specified non-inferiority margin, i.e. the lower bound of the 95% confidence interval for the difference of diphenhydramine minus QUZYTTIR did not include – 0.50. The primary efficacy data are presented in
+
+  Table 1.
+
+                     Table 1. Primary Efficacy Endpoint: Patient-rated Pruritus Score Change from Baseline at 2 hrs (using LOCF); ITT population
+
+                              LOCF: last observation carried forward; ITT: intent-to-treat
+
+                            |
+
+                              *Since the lower bound of the 95% CI for the treatment difference was > -0.50, effectiveness of QUZYTTIR injection was demonstrated to be non-inferior to the effectiveness of diphenhydramine injection. The treatment difference and 95% CI were obtained from a generalized linear mixed-effects model. The model consisted of the change from baseline at 2 hours as the dependent variable and site, treatment and site-by-treatment interaction as the fixed effect.
+
+                            |
+
+                            |
+
+                              Diphenhydramine injection 50 mg
+
+                              (N = 135)
+                            |
+
+                              QUZYTTIR injection 10 mg
+
+                              (N = 127)
+                            |
+
+                              Adjusted Difference between treatment (95% CI)
+                            |
+
+                           Baseline: mean (SD) |
+                           2.19 (0.748) |
+                           2.20 (0.727) |
+                            |
+
+                           Change from Baseline: mean (SD) |
+                           -1.50 (0.984) |
+                           -1.61 (0.944) |
+                           0.06 (-0.28, 0.40)* |
+
+                  Additionally, in this trial the proportion of patients returning to any emergency department or clinic was lower in the QUZYTTIR treatment group (6%) compared to the diphenhydramine treatment group (14%), and the time spent in the treatment center (hours spent reported as mean (SD) was shorter in the QUZYTTIR treatment group (1.7 (0.9)) compared to the diphenhydramine treatment group (2.1 (1.1)).

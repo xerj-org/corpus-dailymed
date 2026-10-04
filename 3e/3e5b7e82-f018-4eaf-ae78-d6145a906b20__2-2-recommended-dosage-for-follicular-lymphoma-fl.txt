@@ -1,0 +1,21 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 2.2 Recommended Dosage for Follicular Lymphoma (FL)
+
+All patients must receive at least one full dose of a rituximab product by intravenous infusion before starting treatment with RITUXAN HYCELA [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)]. Premedicate before each dose [see Dosage and Administration (2.5)].
+
+                        The recommended dose is RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human) subcutaneously at a fixed dose irrespective of patient's body surface area according to the following schedules:
+
+                              Relapsed or Refractory, Follicular Lymphoma
+
+Administer once weekly for 3 or 7 weeks following a full dose of a rituximab product by intravenous infusion at week 1 (i.e., 4 or 8 weeks in total).
+
+                              Retreatment for Relapsed or Refractory, Follicular Lymphoma
+
+Administer once weekly for 3 weeks following a full dose of a rituximab product by intravenous infusion at week 1 (i.e., 4 weeks in total).
+
+                              Previously Untreated, Follicular Lymphoma
+
+Administer on Day 1 of Cycles 2–8 of chemotherapy (every 21 days), for up to 7 cycles following a full dose of a rituximab product by intravenous infusion on Day 1 of Cycle 1 of chemotherapy (i.e., up to 8 cycles in total). In patients with complete or partial response, initiate RITUXAN HYCELA maintenance treatment 8 weeks following completion of RITUXAN HYCELA in combination with chemotherapy. Administer RITUXAN HYCELA as a single-agent every 8 weeks for 12 doses.
+
+                              Non-progressing, Follicular Lymphoma after first line CVP chemotherapy
+
+Following completion of 6–8 cycles of CVP chemotherapy and a full dose of a rituximab product by intravenous infusion at week 1, administer once weekly for 3 weeks (i.e., 4 weeks in total) at 6 month intervals to a maximum of 16 doses.

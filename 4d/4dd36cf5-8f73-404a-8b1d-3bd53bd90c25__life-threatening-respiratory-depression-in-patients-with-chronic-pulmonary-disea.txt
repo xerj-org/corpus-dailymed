@@ -1,0 +1,9 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+
+The use of PERCOCET in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
+
+                           Patients with Chronic Pulmonary Disease: PERCOCET-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of PERCOCET [see WARNINGS; Life-Threatening Respiratory Depression].
+
+                           Elderly, Cachetic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see WARNINGS; Life-Threatening Respiratory Depression].
+
+                        Regularly evaluate patients, particularly when initiating and titrating PERCOCET and when PERCOCET is given concomitantly with other drugs that depress respiration [see WARNINGS; Life-Threatening Respiratory Depression]. Alternatively, consider the use of non-opioid analgesics in these patients.

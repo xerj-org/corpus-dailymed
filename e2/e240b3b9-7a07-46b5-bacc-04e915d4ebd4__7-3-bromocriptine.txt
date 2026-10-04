@@ -1,0 +1,7 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 7.3 Bromocriptine
+
+Limited published data indicate that concomitant administration of a somatostatin analog and bromocriptine may increase the absorption of bromocriptine [see
+                                 Clinical Pharmacology 
+
+                                 (12.3)
+                              ].

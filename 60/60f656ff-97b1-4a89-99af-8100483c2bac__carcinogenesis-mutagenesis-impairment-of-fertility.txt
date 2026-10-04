@@ -1,0 +1,5 @@
+DailyMed 60f656ff-97b1-4a89-99af-8100483c2bac | Acetazolamide | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term studies in animals to evaluate the carcinogenic potential of acetazolamide have not been conducted. In a bacterial mutagenicity assay, acetazolamide was not mutagenic when evaluated with and without metabolic activation.
+
+                        The drug had no effect on fertility when administered in the diet to male and female rats at a daily intake of up to 4 times the recommended human dose of 1,000 mg in a 50 kg individual.

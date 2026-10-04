@@ -1,0 +1,13 @@
+DailyMed 2dc730d5-55fd-4e98-8c8a-daa7d8f872b0 | Menveo | 14.2 Booster Vaccination Study
+
+Immunogenicity in Adolescents and Adults Aged 15 Years through 55 Years
+
+                        For a description of study design and number of participants, see section 6.1 Booster Vaccination Study. The co-primary immunogenicity endpoints were hSBA seroresponse to each serogroup 29 days a) following a booster vaccination with MENVEO given to subjects who received a prior dose of MENVEO, and b) following a booster vaccination with MENVEO given to subjects who received a prior dose of MENACTRA. Seroresponse was defined as: a) post-vaccination hSBA ≥1:16 for subjects with a baseline hSBA <1:4 or b) at least 4-fold higher than baseline titers for subjects with a pre-vaccination hSBA ≥1:4. Secondary endpoints included the proportions of subjects with post-vaccination hSBA ≥1:8, the hSBA GMTs for each serogroup, and antibody titers against each serogroup 4 to 6 years after a prior dose (as measured by percentages of subjects with hSBA titers ≥1:8 and hSBA GMTs prior to booster vaccination).
+
+                        Seroresponse rates at Day 29 following a booster vaccination with MENVEO were 97% for serogroup A, 95% for serogroup C, 96% for serogroup W-135, and 97% for serogroup Y, in subjects who had received a prior dose of MENVEO (n = 290). At Day 6, following a booster vaccination, seroresponse rates were 39%, 51%, 50%, and 49% for serogroups A, C, W-135, and Y, respectively, in subjects who had received a prior dose of MENVEO.
+
+                        The hSBA GMTs were 13, 92, 112, and 63 for serogroups A, C, W-135, and Y at Day 6, and 210, 1160, 1395, and 1067, respectively, for the 4 serogroups at Day 29 following a booster dose of MENVEO.
+
+                        Overall, similar seroresponse rates and GMTs were observed for those subjects who received a booster vaccination with MENVEO following a prior dose of MENACTRA (n = 282).
+
+                        Prior to booster vaccination, the percentage of subjects with hSBA titers >1:8 for serogroups A, C, W-135, and Y were 12%, 62%, 76%, and 54% for those who received a prior dose of MENVEO 4 to 6 years earlier, and 15%, 54%, 77%, and 47% for those who received a prior dose of MENACTRA 4 to 6 years earlier. The hSBA GMTs for serogroups A, C, W-135, and Y prior to booster vaccination were 3, 16, 23, and 9 following a prior vaccination with MENVEO and 3, 11, 23, and 8 following a prior vaccination with MENACTRA.

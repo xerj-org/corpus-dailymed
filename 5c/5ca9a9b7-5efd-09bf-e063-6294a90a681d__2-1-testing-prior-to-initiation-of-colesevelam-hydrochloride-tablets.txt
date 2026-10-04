@@ -1,0 +1,12 @@
+DailyMed 5ca9a9b7-5efd-09bf-e063-6294a90a681d | COLESEVELAM HYDROCHLORIDE | 2.1 Testing Prior to Initiation of Colesevelam Hydrochloride Tablets
+
+Obtain lipid parameters, including triglyceride (TG) levels, before starting colesevelam hydrochloride tablets. Colesevelam hydrochloride is contraindicated in patients with TG levels > 500 mg/dL
+
+  [see 
+
+   Contraindications (4)
+                           and
+
+                              Warnings and Precautions (5.1)]
+
+  .

@@ -1,0 +1,7 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 1 INDICATIONS AND USAGE
+
+Maraviroc tablets are indicated in combination with other antiretroviral agents for the treatment of only CCR5-tropic human immunodeficiency virus type 1 (HIV-1) infection in adult and pediatric patients 2 years of age and older weighing at least 10 kg.
+
+                  Limitations of Use:
+
+                     Maraviroc tablets are not recommended in patients with dual/mixed- or CXCR4-tropic HIV-1 [see Microbiology (12.4)].

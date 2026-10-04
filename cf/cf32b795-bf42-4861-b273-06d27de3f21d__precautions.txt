@@ -1,0 +1,9 @@
+DailyMed cf32b795-bf42-4861-b273-06d27de3f21d | Gemfibrozil | PRECAUTIONS
+
+1. Initial Therapy
+
+  Laboratory studies should be done to ascertain that the lipid levels are consistently abnormal. Before instituting gemfibrozil therapy, every attempt should be made to control serum lipids with appropriate diet, exercise, weight loss in obese patients, and control of any medical problems such as diabetes mellitus and hypothyroidism that are contributing to the lipid abnormalities. 
+
+  2. Continued Therapy
+
+  Periodic determination of serum lipids should be obtained, and the drug withdrawn if lipid response is inadequate after three months of therapy.

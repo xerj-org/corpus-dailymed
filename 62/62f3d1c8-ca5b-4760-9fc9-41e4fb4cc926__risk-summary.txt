@@ -1,0 +1,5 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Risk Summary
+
+Prolonged experience with levetiracetam in pregnant women has not identified a drug-associated risk of major birth defects or miscarriage, based on published literature, which includes data from pregnancy registries and reflects experience over two decades [see Human Data]. In animal studies, levetiracetam produced developmental toxicity (increased embryofetal and offspring mortality, increased incidences of fetal structural abnormalities, decreased embryofetal and offspring growth, neurobehavioral alterations in offspring) at doses similar to human therapeutic doses [see Animal Data].
+
+                              In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. The background risk of major birth defects and miscarriage for the indicated population is unknown.

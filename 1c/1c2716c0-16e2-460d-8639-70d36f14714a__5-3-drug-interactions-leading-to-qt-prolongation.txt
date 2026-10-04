@@ -1,0 +1,3 @@
+DailyMed 1c2716c0-16e2-460d-8639-70d36f14714a | Paroxetine | 5.3 Drug Interactions Leading to QT Prolongation
+
+The CYP2D6 inhibitory properties of paroxetine can elevate plasma levels of thioridazine and pimozide. Since thioridazine and pimozide given alone produce prolongation of the QTc interval and increase the risk of serious ventricular arrhythmias, the use of paroxetine tablets is contraindicated in combination with thioridazine and pimozide [see Contraindications (4), Drug Interactions (7),Clinical Pharmacology (12.3)].

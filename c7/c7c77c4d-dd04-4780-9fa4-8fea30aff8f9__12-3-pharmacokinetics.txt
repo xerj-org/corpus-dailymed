@@ -1,0 +1,63 @@
+DailyMed c7c77c4d-dd04-4780-9fa4-8fea30aff8f9 | Desvenlafaxine | 12.3 Pharmacokinetics
+
+The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 50 to 600 mg (1 to 12 times the recommended approved dosage) per day. With once-daily dosing, steady-state plasma concentrations are achieved within approximately 4 to 5 days. At steady-state, multiple-dose accumulation of desvenlafaxine is linear and predictable from the single-dose pharmacokinetic profile.
+
+                           Absorption
+
+                        The absolute oral bioavailability of desvenlafaxine after oral administration is about 80%.
+
+                           Effect of Food
+
+                        Ingestion of a high-fat meal (800 to 1000 calories) increased desvenlafaxine Cmax about 16% and had no effect on AUC.
+
+                           Distribution
+
+                        Steady-state volume of distribution of desvenlafaxine is 3.4 L/kg. Plasma protein binding of desvenlafaxine is 30% and is independent of drug concentration.
+
+                           Elimination
+
+                           Metabolism
+
+                        Desvenlafaxine is primarily metabolized by conjugation (mediated by UGT isoforms) and, to a minor extent, through oxidative metabolism. CYP3A4 mediates the oxidative metabolism (N-demethylation) of desvenlafaxine. The CYP2D6 metabolic pathway is not involved. The pharmacokinetics of desvenlafaxine was similar in subjects with CYP2D6 poor and extensive metabolizer phenotype.
+
+                           Excretion
+
+                        Approximately 45% of desvenlafaxine is excreted unchanged in urine at 72 hours after oral administration. Approximately 19% of the administered dose is excreted as the glucuronide metabolite and <5% as the oxidative metabolite (N,O-didesmethylvenlafaxine) in urine.
+
+                           Specific Populations
+
+                        No clinically significant differences in the exposures of desvenlafaxine were observed based on ethnicity (White, Black, Hispanic).
+
+                        The effect of intrinsic patient factors on the pharmacokinetics of desvenlafaxine is presented in Figure 1.
+
+                           Figure 1.  Impact of Intrinsic Factors (Renal, Hepatic Impairment and Population Description) on Desvenlafaxine Pharmacokinetics
+
+                           Drug Interaction Studies
+
+                            Clinical Studies
+
+                              Other Drugs on
+
+                              Desvenlafaxine
+
+                        The effect of ketoconazole on the exposures of desvenlafaxine is summarized in Figure 2.
+
+                           Figure 2. Effect of Other Drugs on Desvenlafaxine Pharmacokinetics
+
+                              Desvenlafaxine
+
+                              on Other Drugs
+
+                        The effects of desvenlafaxine on the exposures of other drugs are summarized in Figure 3.
+
+                            Figure 3. Effects of
+                           Desvenlafaxine
+                           on Pharmacokinetics of Other Drugs
+
+                           In Vitro Studies
+
+                        Based on in vitro data, drugs that inhibit CYP isozymes 1A1, 1A2, 2A6, 2D6, 2C8, 2C9, 2C19, and 2E1 are not expected to have significant impact on the pharmacokinetic profile of desvenlafaxine.
+
+                        Desvenlafaxine does not inhibit CYP1A2, 2A6, 2C8, 2C9, 2C19 CYP2D6, or CYP3A4 isozymes. Desvenlafaxine does not induce CYP3A4 either.
+
+                        Desvenlafaxine is not a substrate or an inhibitor for the P-glycoprotein (P-gp) transporter.

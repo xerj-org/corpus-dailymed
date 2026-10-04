@@ -1,0 +1,7 @@
+DailyMed 89eb2ffc-02d9-4b46-b480-e9b10af33027 | TOFACITINIB CITRATE | 5.6 Gastrointestinal Perforations
+
+Gastrointestinal perforations may occur with tofacitinib tablets. Events of gastrointestinal perforation have been reported in clinical studies with tofacitinib tablets, although the role of JAK inhibition in these events is not known. In these studies, many patients with RA received background therapy with nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+                        There was no discernable difference in frequency of gastrointestinal perforation between the placebo and the tofacitinib tablets treatment groups in clinical trials of patients with UC, and many of them were receiving background corticosteroids.
+
+                        Promptly evaluate patients treated with tofacitinib tablets who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis or taking NSAIDs) and who present with new onset abdominal symptoms for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].

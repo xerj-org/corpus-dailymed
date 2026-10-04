@@ -1,0 +1,280 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                           Adverse Reactions in Subjects with Mild-to-Moderate Actinic Keratosis
+
+                        The safety and efficacy of AMELUZ in combination with PDT using a narrow spectrum source was evaluated in three double-blind and placebo-controlled phase 3 trials (Trials 1, 2, and 3), enrolling a total of 299 subjects that were treated with narrow band light. Trial subjects were adults greater than or equal to 49 years of age, and the majority had Fitzpatrick skin type I, II, or III. No subjects had Fitzpatrick skin type V or VI. Approximately 86% of subjects were male, and all subjects were White [see Clinical Studies (14.1)
+                           ].
+
+                        For all three trials, the enrolled subjects had mild to moderate AKs (Olsen grade 1 and 2) with 4 to 8 lesions on the face and scalp. Overall, 212 AMELUZ-treated subjects (n=32, n=55, and n=125) and 87 subjects receiving placebo (n=16, n=32, n=39) were illuminated with BF-RhodoLED or similar narrow spectrum lamps. For these trials, the maximal dose was one tube of AMELUZ (2 g) and the size of the application area was up to 20 cm2.
+
+                        Local skin reactions at the application site were observed in about 99.5% of subjects treated with AMELUZ and narrow spectrum lamps. The most frequent adverse reactions during and after PDT were application site erythema, pain, burning, irritation, edema, pruritus, exfoliation, scab, induration, and vesicles.
+
+                        Most adverse reactions occurred during illumination or shortly afterwards, were generally of mild or moderate intensity, and lasted for 1 to 4 days in most cases; in some cases, however, they persisted for 1 to 2 weeks or even longer. Severe pain/burning occurred in up to 30% of subjects. In one case, the adverse reactions required interruption or discontinuation of the illumination.
+
+                        Table 1 presents the incidence of common (≥1%, <10%) and very common (≥10%) adverse reactions at the application site in Trials 1, 2, and 3.
+
+                           Table 1: Application Site Adverse Reactions Occurring at ≥1% of the AMELUZ Group and More Frequently than the Vehicle Group in Subjects with Mild-to-Moderate Actinic Keratosis (Trials 1, 2, and 3)
+
+                                    Application Site Adverse Reaction
+
+                                  |
+
+                                    AMELUZ
+
+n=212
+
+                                  |
+
+                                    Vehicle
+
+n=87
+
+                                  |
+
+                                    Erythema
+
+                                    Pain/Burning
+
+                                    Irritation
+
+                                    Edema
+
+                                    Pruritus
+
+                                    Exfoliation
+
+                                    Scab
+
+                                    Induration
+
+                                    Vesicles
+
+                                    Paresthesia
+
+                                    Hyperalgesia
+
+                                    Reaction
+
+                                    Discomfort
+
+                                    Erosion
+
+                                    Discharge
+
+                                    Bleeding
+
+                                    Pustules
+
+                                  |
+
+                                    195 (92%)
+
+                                    195 (92%)
+
+                                    153 (72%)
+
+                                    75 (35%)
+
+                                    72 (34%)
+
+                                    41 (19%)
+
+                                    41 (19%)
+
+                                    26 (12%)
+
+                                    25 (12%)
+
+                                    18 (9%)
+
+                                    13 (6%)
+
+                                    8 (4%)
+
+                                    7 (3%)
+
+                                    6 (3%)
+
+                                    4 (2%)
+
+                                    3 (1%)
+
+                                    3 (1%)
+
+                                  |
+
+                                    34 (39%)
+
+                                    26 (30%)
+
+                                    17 (20%)
+
+                                    3 (3%)
+
+                                    14 (16%)
+
+                                    4 (5%)
+
+                                    2 (2%)
+
+                                    0 (0%)
+
+                                    1 (1%)
+
+                                    2 (2%)
+
+                                    0 (0%)
+
+                                    2 (2%)
+
+                                    0 (0%)
+
+                                    0 (0%)
+
+                                    0 (0%)
+
+                                    0 (0%)
+
+                                    0 (0%)
+
+                                  |
+
+                        In Trials 1, 2, and 3, common (≥1%, <10%) adverse reactions not at the application site in AMELUZ-treated subjects were headache, skin exfoliation, chills and eyelid edema.
+
+                        In Trials 1, 2, and 3, less common (≥0.1%, <1%) application site adverse reactions in AMELUZ-treated subjects were hemorrhage and swelling. Adverse reactions not at the application site were blister, feeling hot, pruritus, pyrexia, scab, nervousness, pain, petechiae, rash pustular, skin erosion and ulcer.
+
+                        In two open-label clinical trials to evaluate safety and tolerability, 116 subjects with actinic keratosis (AK) on the face and scalp were treated with three tubes (6 g) of AMELUZ applied to a 60 cm² area in combination with PDT. Most adverse reactions observed were consistent with those reported in trials using one tube (2 g) of AMELUZ on a 20 cm² area (Trials 1, 2, and 3) (see Table 1). Additional reactions which occurred in ≥1% of subjects when three tubes (6 g) of AMELUZ were applied to a 60 cm² area included dry eyes, photosensitivity, and application site discoloration, dryness, papules, and fissures.
+
+                        The frequencies of certain adverse reactions at the application site in these trials—exfoliation, itching, scabbing, and erosion—were more than 10% higher with the larger dose (three tubes, 6 g) and treatment area (60 cm²) compared to the frequencies observed in the trials for the smaller dose (one tube, 2 g) and area (20 cm²). Severe application site pain was reported in 41% of the subjects treated with three tubes (6 g) on a 60 cm² area. Most cases were reported during PDT illumination. A total of 15% of subjects discontinued illumination due to adverse reactions.
+
+                           Adverse Reactions in Subjects with Superficial Basal Cell Carcinoma
+
+                        The safety and efficacy of AMELUZ, in combination with PDT using the BF-RhodoLED lamp, was evaluated in a randomized controlled trial enrolling 187 adults (Trial 4) with superficial basal cell carcinoma (sBCC). Subjects received AMELUZ or vehicle followed by exposure to BF-RhodoLED red light. All subjects were White and the majority had Fitzpatrick skin type I, II, or III [Clinical Studies (14.2)].
+
+                        Most of the enrolled subjects had one sBCC lesion. Approximately 48% of the lesions were located on the neck and/or trunk and 45% of the lesions were located on the extremities.
+
+                        All subjects treated with AMELUZ and BF-RhodoLED lamp developed at least one adverse reaction at the application site. The most common adverse reactions during and after AMELUZ treatment in combination with PDT were application site pain that may be severe, erythema, pruritus, edema, paraesthesia, scab, induration, and exfoliation.
+
+                           Table 2: Application Site Adverse Reactions Occurring at ≥1% of the AMELUZ Group and More Frequently than in the Vehicle Group in Subjects with sBCC (Trials 4)
+
+                                    Application Site Adverse Reaction
+
+                                  |
+
+                                    AMELUZ
+
+N = 145
+
+                                  |
+
+                                    Vehicle
+
+N = 42
+
+                                  |
+
+                                    Pain
+
+                                    Erythema
+
+                                    Pruritus
+
+                                    Edema
+
+                                    Paraesthesia
+
+                                    Scab
+
+                                    Induration
+
+                                    Exfoliation
+
+                                    Discoloration
+
+                                    Vesicles
+
+                                    Dysaesthesia
+
+                                    Haemorrhage
+
+                                    Dryness
+
+                                    Hyperaesthesia
+
+                                    Swelling
+
+                                  |
+
+                                    138 (95%)
+
+                                    100 (69%)
+
+                                    73 (50%)
+
+                                    42 (29%)
+
+                                    35 (24%)
+
+                                    30 (21%)
+
+                                    25 (17%)
+
+                                    25 (17%)
+
+                                    13 (9%)
+
+                                    12 (8%)
+
+                                    3 (2%)
+
+                                    3 (2%)
+
+                                    2 (1%)
+
+                                    2 (1%)
+
+                                    2 (1%)
+
+                                  |
+
+                                    12 (29%)
+
+                                    15 (36%)
+
+                                    11 (26%)
+
+                                    5 (12%)
+
+                                    5 (12%)
+
+                                    2 (5%)
+
+                                    3 (7%)
+
+                                    6 (14%)
+
+                                    1 (2%)
+
+                                    1 (2%)
+
+                                    0 (0%)
+
+                                    0 (0%)
+
+                                    0 (0%)
+
+                                    0 (0%)
+
+                                    0 (0%)
+
+                                  |
+
+                        Less common (≥0.1%, <1%) application site adverse reactions were atrophy, hypoesthesia, inflammation, ulcer and fatigue. Less common adverse reactions not at the application site were vision blurred, visual impairment, headache, and solar lentigo.
+
+                        AMELUZ in combination with PDT was also evaluated in another clinical trial (Trial 5) that included 110 adults with sBCC and safety findings were consistent with those observed in Trial 4.
+
+                           Sensitization Potential of Aminolevulinic Acid
+
+                        In a clinical trial designed to investigate the sensitization potential of aminolevulinic acid with 216 healthy subjects, 13 subjects (6%) developed allergic contact dermatitis after continuous exposure for 21 days with doses of aminolevulinic acid that were higher than the recommended dose for the treatment of AK or sBCC.

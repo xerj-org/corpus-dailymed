@@ -1,0 +1,7 @@
+DailyMed dd62a2b8-300b-d92b-7b27-a30eaa68fdd3 | Tofacitinib | 1.5 Ulcerative Colitis
+
+Tofacitinib extended-release tablets are indicated for the treatment of adult patients with moderately to severely active ulcerative colitis (UC), who have an inadequate response or intolerance to one or more TNF blockers.
+
+                           Limitations of Use
+
+                        Use of tofacitinib extended-release tablets in combination with biological therapies for UC or with potent immunosuppressants such as azathioprine and cyclosporine is not recommended.

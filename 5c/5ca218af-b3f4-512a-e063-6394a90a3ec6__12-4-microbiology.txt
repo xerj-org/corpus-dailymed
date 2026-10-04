@@ -1,0 +1,29 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 12.4 Microbiology
+
+Mechanism of Action in Malaria
+
+                        The precise mechanism by which hydroxychloroquine exhibits activity against
+
+  Plasmodiumis not known. Hydroxychloroquine is a weak base and may exert its effect by concentrating in the acid vesicles of the parasite and inhibiting polymerization of heme. It can also inhibit certain enzymes by its interaction with DNA.
+
+                           Antimicrobial Activity
+
+                        Hydroxychloroquine is active against the erythrocytic forms of chloroquine sensitive strains
+
+  of P. falciparum, P. malariae, P. vivax,and
+
+  P. ovale. Hydroxychloroquine is not active against the gametocytes and exoerythrocytic forms including the hypnozoite liver stage forms of
+
+  P. vivaxand
+
+  P. ovale.
+
+                           Drug Resistance
+
+                        P. falciparum strains exhibiting reduced susceptibility to chloroquine also show reduced susceptibility to hydroxychloroquine. Resistance of
+
+  Plasmodiumparasites to chloroquine is widespread
+
+  [see
+
+   Indications and Usage (1.1)].

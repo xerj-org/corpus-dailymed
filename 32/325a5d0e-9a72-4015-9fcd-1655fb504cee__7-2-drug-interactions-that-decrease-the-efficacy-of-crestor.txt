@@ -1,0 +1,27 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 7.2 Drug Interactions that Decrease the Efficacy of CRESTOR
+
+Table 6 presents drug interactions that may decrease the efficacy of CRESTOR and instructions for preventing or managing them.
+
+                           Table 6: Drug Interactions that Decrease the Efficacy of CRESTOR
+
+                                           
+
+                                          Antacids
+
+                                  |
+
+                                       Prevention or Management:
+
+                                  |
+
+                                    In patients taking an antacid, administer CRESTOR at least 2 hours before the antacid.
+
+                                  |
+
+                                       Mechanism and Clinical Effect(s):
+
+                                  |
+
+                                    Concomitant aluminum and magnesium hydroxide combination antacid administration decreased the mean exposure of rosuvastatin 50% [see Clinical Pharmacology (12.3)].
+
+                                  |

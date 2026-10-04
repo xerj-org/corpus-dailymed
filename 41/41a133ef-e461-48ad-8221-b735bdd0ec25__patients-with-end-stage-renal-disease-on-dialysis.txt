@@ -1,0 +1,15 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Patients with End-Stage Renal Disease on Dialysis
+
+Clinical efficacy and safety studies with ELIQUIS did not enroll patients with end-stage renal disease (ESRD) on dialysis. In patients with ESRD maintained on intermittent hemodialysis, administration of ELIQUIS at the usually recommended dose
+
+  [see
+
+   Dosage and Administration (2.1)]
+
+  will result in concentrations of apixaban and pharmacodynamic activity similar to those observed in the ARISTOTLE study
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  . It is not known whether these concentrations will lead to similar stroke reduction and bleeding risk in patients with ESRD on dialysis as was seen in ARISTOTLE.

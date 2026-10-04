@@ -1,0 +1,15 @@
+DailyMed f8b01c77-620d-4734-a771-b8524b65bcca | KETAMINE HYDROCHLORIDE | 12.2 Pharmacodynamics
+
+Nervous System
+
+ Ketamine is a rapidly-acting general anesthetic producing a dissociative anesthetic state characterized by profound analgesia, normal pharyngeal-laryngeal reflexes, normal or slightly enhanced skeletal muscle tone, cardiovascular and respiratory stimulation, and occasionally a transient and minimal respiratory depression. The mechanism of action is primarily due to antagonism of N-methyl-D-aspartate (NMDA receptors) in the central nervous system.
+
+ Ketamine can produce nystagmus with pupillary dilation, salivation, lacrimation, and spontaneous limb movements with increased muscle tone through indirect sympathomimetic activity. Ketamine produces analgesia. Ketamine-induced emergence delirium can be reduced with benzodiazepines.
+
+                           Cardiovascular System
+
+ Ketamine increases blood pressure, heart rate, and cardiac output. Cardiovascular effects of ketamine are indirect and believed to be mediated by inhibition of both central and peripheral catecholamine reuptake. Elevation of blood pressure reaches a maximum within a few minutes of injection and usually returns to preanesthetic values within 15 minutes. In the majority of cases, the systolic and diastolic blood pressure peaks from 10% to 50% above preanesthetic levels shortly after induction of anesthesia, but the elevation can be higher or longer in individual cases.
+
+ Respiratory System
+
+ Ketamine is a potent bronchodilator suitable for anesthetizing patients at high risk for bronchospasm.

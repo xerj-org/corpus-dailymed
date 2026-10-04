@@ -1,0 +1,50 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Clinical Studies
+
+Felodipine produces dose-related decreases in systolic and diastolic blood pressure as demonstrated in six placebo-controlled, dose response studies using either immediate-release or extended-release dosage forms. These studies enrolled over 800 patients on active treatment, at total daily doses ranging from 2.5 to 20 mg. In those studies felodipine was administered either as monotherapy or was added to beta blockers. The results of the 2 studies with Felodipine given once daily as monotherapy are shown in the table below:
+
+                           MEAN REDUCTIONS IN BLOOD PRESSURE (mmHg)Placebo response subtracted
+
+                                 Dose |
+                                 N |
+                                 Systolic/Diastolic Mean Peak Response |
+                                 Mean Trough Response |
+                                 Trough/Peak Ratios
+
+(%) |
+
+                                 Study 1 (8 weeks) |
+
+                                 2.5 mg |
+                                 68 |
+                                 9.4/4.7 |
+                                 2.7/2.5 |
+                                 29/53 |
+
+                                 5 mg |
+                                 69 |
+                                 9.5/6.3 |
+                                 2.4/3.7 |
+                                 25/59 |
+
+                                 10 mg |
+                                 67 |
+                                 18.0/10.8 |
+                                 10.0/6.0 |
+                                 56/56 |
+
+                                 Study 2 (4 weeks) |
+
+                                 10 mg |
+                                 50 |
+                                 5.3/7.2 |
+                                 1.5/3.2 |
+                                 33/40Different number of patients available for peak and trough measurements
+
+                                  |
+
+                                 20 mg |
+                                 50 |
+                                 11.3/10.2 |
+                                 4.5/3.2 |
+                                 43/34
+                                  |

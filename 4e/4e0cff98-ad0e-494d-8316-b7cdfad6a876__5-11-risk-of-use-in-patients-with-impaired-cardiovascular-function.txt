@@ -1,0 +1,3 @@
+DailyMed 4e0cff98-ad0e-494d-8316-b7cdfad6a876 | Bupivacaine Hydrochloride | 5.11 Risk of Use in Patients with Impaired Cardiovascular Function
+
+Bupivacaine hydrochloride should be given in reduced doses in patients with impaired cardiovascular function (e.g., hypotension, heartblock) because they may be less able to compensate for functional changes associated with the prolongation of AV conduction produced by bupivacaine hydrochloride. Monitor patients closely for blood pressure, heart rate, and ECG changes.

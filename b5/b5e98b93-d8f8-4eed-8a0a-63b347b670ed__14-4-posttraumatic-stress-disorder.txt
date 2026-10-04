@@ -1,0 +1,19 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 14.4 Posttraumatic Stress Disorder
+
+The effectiveness of sertraline hydrochloride in the treatment of PTSD was established in two multicenter placebo-controlled studies (Studies PSTD-1 and PSTD-2) of adult outpatients who met DSM-III-R criteria for PTSD. The mean duration of PTSD for these patients was 12 years (Studies PSTD-1 and PSTD-2 combined) and 44% of patients (169 of the 385 patients treated) had secondary depressive disorder.
+
+                        Studies PSTD-1 and PSTD-2 were 12-week flexible dose studies. Sertraline hydrochloride was initiated at 25 mg/day for the first week, and titrated in weekly increments of 50 mg per day to a maximum dose of 200 mg/day on the basis of clinical response and tolerability. The mean sertraline hydrochloride dose for completers was 146 mg/day and 151 mg/day, respectively, for Studies PSTD-1 and PSTD-2. Study outcome was assessed by the Clinician-Administered PTSD Scale Part 2 (CAPS), which is a multi-item instrument that measures the three PTSD diagnostic symptom clusters of reexperiencing/intrusion, avoidance/numbing, and hyperarousal as well as the patient-rated Impact of Event Scale (IES), which measures intrusion and avoidance symptoms. Patients receiving sertraline hydrochloride (N=99 and N=94, respectively) showed statistically significant improvement compared to placebo (N=83 and N=92) on change from baseline to endpoint on the CAPS, IES, and on the Clinical Global Impressions (CGI-S) Severity of Illness and Global Improvement (CGI-I) scores.
+
+                        In two additional placebo-controlled PTSD trials (Studies PSTD-3 and PSTD-4), the difference in response to treatment between patients receiving sertraline hydrochloride and patients receiving placebo was not statistically significant. One of these additional studies was conducted in patients similar to those recruited for Studies PSTD-1 and PSTD-2, while the second additional study was conducted in predominantly male veterans.
+
+                        As PTSD is a more common disorder in women than men, the majority (76%) of patients in Studies PSTD-1 and PSTD-2 described above were women. Post hoc exploratory analyses revealed a statistically significant difference between sertraline hydrochloride and placebo on the CAPS, IES and CGI in women, regardless of baseline diagnosis of comorbid major depressive disorder, but essentially no effect in the relatively smaller number of men in these studies. The clinical significance of this apparent gender effect is unknown at this time. There was insufficient information to determine the effect of race or age on outcome.
+
+                        In Study PSTD-5, patients meeting DSM-III-R criteria for PTSD who had responded during a 24-week open trial on sertraline hydrochloride 50 to 200 mg/day (n=96) were randomized to continuation of sertraline hydrochloride or to substitution of placebo for up to 28 weeks of observation for relapse. Response during the open phase was defined as a CGI-I of 1 (very much improved) or 2 (much improved), and a decrease in the CAPS-2 score of > 30% compared to baseline. Relapse during the double-blind phase was defined as the following conditions being met on two consecutive visits:
+
+                        (1) CGI-I ≥3;
+
+                        (2) CAPS-2 score increased by ≥ 30% and by ≥ 15 points relative to baseline; and
+
+                        (3) worsening of the patient's condition in the investigator's judgment.
+
+                        Patients receiving continued sertraline hydrochloride treatment experienced statistically significantly lower relapse rates over the subsequent 28 weeks compared to those receiving placebo. This pattern was demonstrated in male and female subjects.

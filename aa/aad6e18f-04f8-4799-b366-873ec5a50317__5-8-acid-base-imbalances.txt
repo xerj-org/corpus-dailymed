@@ -1,0 +1,5 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 5.8 Acid/Base Imbalances
+
+Because lactate is metabolized to bicarbonate, administration of Lactated Ringer’s Injection may result in, or worsen, metabolic alkalosis. Closely monitor the acid-base balance in patients with, or at risk of, alkalosis.
+
+                        In patients with severe hepatic impairment, decreased lactate metabolism may result in worsening anion gap metabolic acidosis. Avoid Lactated Ringer’s Injection in patients with severe hepatic impairment. If use cannot be avoided in these patients, closely monitor serum bicarbonate levels.

@@ -1,0 +1,11 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 7.1 Local Anesthetics
+
+The toxic effects of local anesthetics are additive. If coadministration of other local anesthetics with Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection cannot be avoided, monitor patients for neurologic and cardiovascular effects related to local anesthetic systemic toxicity
+
+  [see
+
+   Dosage and Administration (2.1),
+
+   Warnings and Precautions (5.2)]
+
+  .

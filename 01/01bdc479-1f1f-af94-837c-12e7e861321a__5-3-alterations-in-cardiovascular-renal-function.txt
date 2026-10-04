@@ -1,0 +1,5 @@
+DailyMed 01bdc479-1f1f-af94-837c-12e7e861321a | Prednisone delayed release | 5.3 Alterations in Cardiovascular/Renal Function
+
+Corticosteroids can cause elevation of blood pressure, salt, and water retention, and increased excretion of potassium and calcium. These effects are less likely to occur with the synthetic derivatives except when used in large doses. Dietary salt restriction and potassium supplementation may be necessary. These agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
+
+                        Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.

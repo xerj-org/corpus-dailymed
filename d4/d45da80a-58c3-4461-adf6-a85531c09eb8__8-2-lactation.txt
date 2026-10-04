@@ -1,0 +1,9 @@
+DailyMed d45da80a-58c3-4461-adf6-a85531c09eb8 | Telmisartan | 8.2 Lactation
+
+Risk Summary
+
+                        There is no information regarding the presence of telmisartan in human milk, the effects on the breastfed infant, or the effects on milk production. Telmisartan is present in the milk of lactating rats (see Data). Because of the potential for serious adverse reactions in the breastfed infant including hypotension, hyperkalemia and renal impairment, advise a nursing woman not to breastfeed during treatment with Telmisartan.
+
+                           Data
+
+                        Telmisartan was present in the milk of lactating rats at concentrations 1.5 to 2 times those found in plasma from 4 to 8 hours after administration.

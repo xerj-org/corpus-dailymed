@@ -1,0 +1,83 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 2.1 Important Dosage and Administration Information
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+
+                        Shake well before use. Do not use if there is evidence of excessive creaming or aggregation, if large droplets are visible, or if there are other forms of phase separation indicating that the stability of the product has been compromised. Slight creaming, which should disappear after shaking, may be visible upon prolonged standing. Do not use if there is evidence of separation of the phases of the emulsion.
+
+                        Propofol injectable emulsion with EDTA inhibits microbial growth for up to 12 hours, as demonstrated by test data for representative USP microorganisms. Product is packaged under nitrogen.
+
+                        For general anesthesia or monitored anesthesia care (MAC) sedation, propofol injectable emulsion should be administered only by persons trained in the administration of general anesthesia and not involved in the conduct of the surgical/diagnostic procedure. Sedated patients should be continuously monitored, and equipment for maintaining a patent airway, providing artificial ventilation, administering supplemental oxygen, and instituting cardiovascular resuscitation must be immediately available. Patients should be continuously monitored for early signs of hypotension, apnea, airway obstruction, and/or oxygen desaturation. These cardiorespiratory effects are more likely to occur following rapid bolus administration, especially in the elderly, debilitated, or ASA-PS III or IV patients.
+
+                        For sedation of intubated, mechanically ventilated adult patients in the Intensive Care Unit, propofol injectable emulsion should be administered only by persons skilled in the management of critically ill patients and trained in cardiovascular resuscitation and airway management.
+
+                           Guidelines for Aseptic Technique for General Anesthesia/MAC Sedation
+
+  Propofol injectable emulsion must be prepared for use just prior to initiation of each individual anesthetic/sedative procedure. The vial rubber stopper should be disinfected using 70% isopropyl alcohol. Propofol injectable emulsion should be drawn into a sterile syringe immediately after a vial is opened. When withdrawing propofol injectable emulsion from vials, a sterile vent spike should be used. The syringe should be labelled with appropriate information including the date and time the vial was opened. Administration should commence promptly and be completed within 12 hours after the vial has been opened.
+
+                        Propofol injectable emulsion must be prepared for single dose only. Any unused propofol injectable emulsion drug product, reservoirs, dedicated administration tubing and/or solutions containing propofol injectable emulsion must be discarded at the end of the anesthetic procedure or at 12 hours, whichever occurs sooner. The intravenous line should be flushed every 12 hours and at the end of the anesthetic procedure to remove residual propofol injectable emulsion. [
+
+  see Warnings and Precautions (
+
+   5.2)
+
+  ].
+
+                           Guidelines for Aseptic Technique for ICU Sedation
+
+  Propofol injectable emulsion must be prepared for single dose only. Strict aseptic techniques must be followed. The vial rubber stopper should be disinfected using 70% isopropyl alcohol. A sterile vent spike and sterile tubing must be used for administration of propofol injectable emulsion. As with other lipid emulsions, the number of intravenous line manipulations should be minimized. Administration should commence promptly and must be completed within 12 hours after the vial has been spiked. The tubing and any unused propofol injectable emulsion drug product must be discarded after 12 hours.
+
+                        If propofol injectable emulsion is transferred to a syringe prior to administration, it should be drawn into a sterile syringe immediately after a vial is opened. When withdrawing propofol injectable emulsion from a vial, a sterile vent spike should be used.
+
+                        The syringe should be labelled with appropriate information including the date and time the vial was opened. Administration should commence promptly and be completed within 12 hours after the vial has been opened. Propofol injectable emulsion should be discarded and administration lines changed after 12 hours.
+
+  [see Warnings and Precautions (
+
+   5.2)
+
+  ] 
+
+                           Administration with Lidocaine
+
+  If lidocaine is to be administered to minimize pain on injection of Propofol injectable emulsion, it is recommended that it be administered prior to propofol injectable emulsion administration or that it be added to propofol injectable emulsion immediately before administration and in quantities not exceeding 20 mg lidocaine/200 mg propofol injectable emulsion. [
+
+  see Warnings and Precautions (
+
+   5.13)
+
+  ]
+
+                           Compatibility and Stability
+
+  Propofol injectable emulsion should not be mixed with other therapeutic agents prior to administration. 
+
+                           Dilution Prior to Administration
+
+  Propofol injectable emulsion is provided as a ready-to-use formulation. However, should dilution be necessary, it should only be diluted with 5% Dextrose Injection, USP, and it should not be diluted to a concentration less than 2 mg/mL because it is an emulsion. In diluted form it has been shown to be more stable when in contact with glass than with plastic (95% potency after 2 hours of running infusion in plastic).
+
+                           Administration with Other Fluids
+
+  Compatibility of propofol injectable emulsion with the coadministration of blood/serum/plasma has not been established [
+
+  see Warnings and Precautions (
+
+   5.15)
+
+  ]. When administered using a y-type infusion set, propofol injectable emulsion has been shown to be compatible with the following intravenous fluids:
+
+                           5% Dextrose Injection, USP
+
+                           Lactated Ringers Injection, USP
+
+                           Lactated Ringers and 5% Dextrose Injection
+
+                           5% Dextrose and 0.45% Sodium Chloride Injection, USP
+
+                           5% Dextrose and 0.2% Sodium Chloride Injection, USP.
+
+                           Administration with Pumps
+
+  When administering propofol injectable emulsion by infusion, syringe or volumetric pumps are recommended to provide controlled infusion rates. When infusing propofol injectable emulsion to patients undergoing magnetic resonance imaging, metered control devices may be utilized if mechanical pumps are impractical.
+
+                           Administration with Filters
+
+  Clinical experience with the use of in-line filters and propofol injectable emulsion during anesthesia or ICU/MAC sedation is limited. Propofol injectable emulsion should only be administered through a filter with a pore size of 5 micron or greater unless it has been demonstrated that the filter does not restrict the flow of propofol injectable emulsion and/or cause the breakdown of the emulsion. Filters should be used with caution and where clinically appropriate. Continuous monitoring is necessary due to the potential for restricted flow and/or breakdown of the emulsion.

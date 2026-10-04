@@ -1,0 +1,3 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | Metabolism
+
+Metoprolol is primarily metabolized by CYP2D6. Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereoselective metabolism that is dependent on oxidation phenotype. CYP2D6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations. Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of metoprolol than extensive metabolizers with normal CYP2D6 activity thereby decreasing metoprolol’s cardioselectivity.

@@ -1,0 +1,3 @@
+DailyMed 434fb630-c8d6-4583-b3ee-8e4ba6552c3d | CLAFORAN | REFERENCES
+
+1. Cockcroft, D.W. and Gault, M.H.: Prediction of Creatinine Clearance from Serum Creatinine, Nephron 16:31-41, 1976.

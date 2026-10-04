@@ -1,0 +1,5 @@
+DailyMed 37b19837-fcab-4536-abad-6f4f92dfe794 | BRINZOLAMIDE | 12.1 Mechanism of Action
+
+Carbonic anhydrase is an enzyme found in many tissues of the body, including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. In humans, carbonic anhydrase exists as a number of isoenzymes, the most active being carbonic anhydrase II, found primarily in red blood cells (RBCs), but also in other tissues. Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport. The result is a reduction in IOP.
+
+                        Brinzolamide ophthalmic suspension contains brinzolamide, an inhibitor of carbonic anhydrase II. Following topical ocular administration, brinzolamide inhibits aqueous humor formation and reduces elevated IOP. Elevated IOP is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss.

@@ -1,0 +1,33 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 8.7 Hepatic Impairment
+
+Severe Hepatic Impairment
+
+                        Tofacitinib tablets has not been studied in patients with severe hepatic impairment (HI) (Child-Pugh C); therefore, use of tofacitinib tablets in patients with severe HI is not recommended.
+
+                           Moderate Hepatic Impairment
+
+                        Tofacitinib tablets-treated patients with moderate hepatic impairment (Child-Pugh B) had greater tofacitinib blood concentration than tofacitinib tablets-treated patients with normal hepatic function
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  . Higher blood concentrations may increase the risk of some adverse reactions. The recommended tofacitinib tablets  dosage in patients with moderate HI is lower than the recommended dosage in patients with normal hepatic function
+
+  [see
+
+   Dosage and Administration (2.3, 
+
+   2.4, 
+
+   2.5)]
+
+  .
+
+                           Mild Hepatic Impairment
+
+                        The recommended dosage of tofacitinib tablets in patients with mild hepatic impairment (Child-Pugh A) is the same as patients with normal hepatic function.
+
+                           Hepatitis B or C Serology
+
+                        The safety and efficacy of tofacitinib tablets have not been studied in patients with positive hepatitis B virus or hepatitis C virus serology.

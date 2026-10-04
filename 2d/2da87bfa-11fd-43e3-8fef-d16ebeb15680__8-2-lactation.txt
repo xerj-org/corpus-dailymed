@@ -1,0 +1,9 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 8.2 Lactation
+
+Risk Summary
+
+                        Morphine is present in breast milk. Published lactation studies report variable concentrations of morphine in breast milk with administration of immediate-release morphine to nursing mothers in the early postpartum period with a milk-to-plasma morphine AUC ratio of 2.5:1 measured in one lactation study. However, there is insufficient information to determine the effects of morphine on the breastfed infant and the effects of morphine on milk production. Lactation studies have not been conducted with extended–release morphine, including morphine sulfate extended-release capsules. Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with morphine sulfate extended-release capsules.
+
+                           Clinical Considerations
+
+                        Monitor infants exposed to morphine through breast milk for excess sedation and respiratory depression. Withdrawal symptoms can occur in breastfed infants when maternal administration of morphine is stopped, or when breastfeeding is stopped.

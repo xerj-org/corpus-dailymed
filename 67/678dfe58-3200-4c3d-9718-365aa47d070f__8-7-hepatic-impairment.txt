@@ -1,0 +1,3 @@
+DailyMed 678dfe58-3200-4c3d-9718-365aa47d070f | PRAVASTATIN SODIUM | 8.7 Hepatic Impairment
+
+Pravastatin shows a large inter-subject variability in pharmacokinetics in patients with liver cirrhosis [Clinical Pharmacology (12.3)]. Pravastatin is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4), Warnings and Precautions (5.3)].

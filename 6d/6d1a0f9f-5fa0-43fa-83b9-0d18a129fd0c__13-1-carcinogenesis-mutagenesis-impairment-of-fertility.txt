@@ -1,0 +1,17 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 13.1 Carcinogenesis, Mutagenesis,Impairment of Fertility
+
+Carcinogenesis  
+
+                        Two-year carcinogenicity studies of ropinirole were conducted in mice at oral doses of 0, 5, 15, and 50 mg/kg/day and in rats at oral doses of 0, 1.5, 15, and 50 mg/kg/day.
+
+                        In rats, there was an increase in testicular Leydig cell adenomas at all doses tested. The lowest dose tested (1.5 mg/kg/day) is less than the MRHD for Parkinson’s disease (24 mg/day) on a mg/m2 basis. The endocrine mechanisms believed to be involved in the production of these tumors in rats are not considered relevant to humans.
+
+                        In mice, there was an increase in benign uterine endometrial polyps at a dose of 50 mg/kg/day. The highest dose not associated with this finding (15 mg/kg/day) is 3 times the MRHD on a mg/m2 basis.
+
+                           Mutagenesis  
+
+                        Ropinirole was not mutagenic or clastogenic in in vitro (Ames, chromosomal aberration in human lymphocytes, mouse lymphoma tk) assays, or in the in vivo mouse micronucleus test.
+
+                           Impairment of Fertility  
+
+                        When administered to female rats prior to and during mating and throughout pregnancy, ropinirole caused disruption of implantation at oral doses of 20 mg/kg/day (8 times the MRHD on a mg/m2 basis) or greater. This effect in rats is thought to be due to the prolactin-lowering effect of ropinirole. In rat studies using a low oral dose (5 mg/kg) during the prolactin-dependent phase of early pregnancy (gestation days 0 to 8), ropinirole did not affect female fertility at oral doses up to 100 mg/kg/day (40 times the MRHD on a mg/m2 basis). No effect on male fertility was observed in rats at oral doses up to 125 mg/kg/day (50 times the MRHD on a mg/m2 basis).

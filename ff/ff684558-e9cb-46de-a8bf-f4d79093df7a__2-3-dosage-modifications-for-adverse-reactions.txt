@@ -1,0 +1,174 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 2.3 Dosage Modifications for Adverse Reactions
+
+Table 2 provides recommended BEQALZI dosage modifications for adverse reactions.
+
+                        Table 3 provides temporary dose modifications upon restart after dose interruptions lasting more than 7 days.
+
+                        Table 4 provides recommended modifications to the target dose after adverse reactions are resolved.
+
+                           Table 2: Recommended BEQALZI Dosage Modifications for Adverse Reactions
+
+                                 Adverse ReactionAdverse reactions were graded using NCI CTCAE version 5.0.
+
+                                  |
+                                 Occurrence |
+                                 Dosage Modification |
+
+                                    Tumor Lysis Syndrome
+                                  |
+
+                                 Any blood chemistry changes or symptoms suggestive of TLS [see Warnings and Precautions (5.1)]
+                                  |
+
+                                    Any
+                                  |
+                                 Interrupt BEQALZI.
+
+ Upon resolution of lab abnormalities, resume BEQALZI.
+                                       For interruptions lasting 7 days or less, resume planned dosing.
+
+                                       For interruptions lasting more than 7 days, see Table 3 for dosage when resuming treatment.
+
+                                  |
+
+                                    Hematologic Toxicity
+                                  |
+
+                                 Grade ≥3 febrile neutropenia |
+
+                                    First
+                                  |
+                                 Interrupt BEQALZI.
+
+ Resume BEQALZI at the same dose upon recovery. |
+
+                                    Second and subsequent
+                                  |
+                                 Interrupt BEQALZI.A maximum of 2 dose reductions is recommended.
+
+ Upon recovery to Grade 1 or baseline level, resume BEQALZI and follow dose reduction guidelines in Table 3 and Table 4. |
+
+                                 Platelet count <50,000/mm3 with significant bleeding
+
+ Platelet count <25,000/mm3
+
+ Neutrophil count <500/mm3 lasting greater than 7 consecutive days |
+
+                                    First
+                                  |
+                                 Interrupt BEQALZI.
+
+ Resume BEQALZI at the same dose upon recovery to Grade 1 or baseline level. |
+
+                                    Second and subsequent
+                                  |
+                                 Interrupt BEQALZI.
+
+ Upon recovery to Grade 1 or baseline level, resume BEQALZI and follow dose reduction guidelines in Table 3 and Table 4. |
+
+                                    Nonhematologic Toxicity
+                                  |
+
+                                 Grade 3 nonhematologic toxicityPatients may continue taking BEQALZI for the following:
+                                          Grade 3 gastrointestinal toxicity (i.e., nausea, vomiting, diarrhea) unless unresponsive to treatment ≥3 days.
+
+                                          Asymptomatic biochemical laboratory abnormalities, other than TLS, that resolve in 7 days or less.
+
+                                  |
+
+                                    First
+                                  |
+                                 Interrupt BEQALZI.
+
+ Upon recovery to Grade 1 or baseline level, resume BEQALZI at the same dose. |
+
+                                    Second and subsequent
+                                  |
+                                 Interrupt BEQALZI.
+
+ Upon recovery to Grade 1 or baseline level, resume BEQALZI and follow dose reduction guidelines in Table 3 and Table 4. |
+
+                                 Grade 4 nonhematologic toxicity |
+
+                                    First
+                                  |
+                                 Interrupt BEQALZI.
+
+ Upon recovery to Grade 1 or baseline level, resume BEQALZI and follow dose reduction guidelines in Table 3 and Table 4. |
+
+                                    Second and subsequent
+                                  |
+                                 Interrupt BEQALZI.
+
+ Upon recovery to Grade 1 or baseline level, resume BEQALZI and follow dose reduction guidelines in Table 3 and Table 4. |
+
+                           For patients with a dose interruption lasting 7 days or less:
+
+                              During ramp-up phase (Weeks 1 to 4): Resume BEQALZI and continue the remaining ramp-up schedule.
+
+                              During the target dose (Week 5 and beyond): Resume BEQALZI once the adverse reaction has resolved. Refer to Table 2 and Table 4 if a modified target dose is needed.
+
+                           For patients with a dose interruption lasting more than 7 days:
+
+                              During ramp-up phase (Weeks 1 to 4): Restart BEQALZI at the dose shown in Table 3 based on the dose at the time of interruption, then re-escalate following the ramp-up schedule.
+
+                              During the target dose (Week 5 and beyond): Restart BEQALZI at the dose shown in Table 3 based on the dose at the time of interruption. Then, re-escalate to target dose determined per Table 4 when clinically appropriate.
+
+                           Table 3: Dose to Restart BEQALZI After a Dose Interruption Greater than 7 Days
+
+                                 Dose at Time of Interruption (mg) |
+                                 Highest Restart Dose (mg)The physician may restart at a lower dose than noted.
+
+                                  |
+
+                                 1 mg |
+                                 1 mgResume on Day 1 of the individual restart pack. Instruct patients to follow the dosing schedule printed on the blister card starting on Day 1 (1 tablet daily on Days 1 through 3, then 2 tablets daily on Days 4 through 7).
+
+                                  |
+
+                                 2 mg |
+                                 1 mg
+                                  |
+
+                                 5 mg |
+                                 2 mgResume on Day 4 of the individual restart pack. Instruct patients to remove and dispose of single tablets labeled Days 1 through 3 and restart taking tablets labeled Day 4 (2 tablets daily) of the individual restart pack.
+
+                                  |
+
+                                 10 mg |
+                                 5 mg
+                                  |
+
+                                 20 mg |
+                                 10 mg
+                                  |
+
+                                 40 mg |
+                                 20 mg
+                                  |
+
+                                 80 mg |
+                                 40 mg
+                                  |
+
+                                 160 mg |
+                                 80 mg
+                                  |
+
+                                 320 mg |
+                                 160 mg
+                                  |
+
+                           Table 4: Recommended Modification of Target Dose Level for Adverse Reactions
+
+                                 Target Dose Level at Interruption |
+                                 Modified Target Dose Level |
+
+                                 320 mg |
+                                 160 mg |
+
+                                 160 mg |
+                                 80 mg |
+
+                                 80 mg |
+                                 Discontinue |

@@ -1,0 +1,3 @@
+DailyMed 2141f08f-1623-4c88-a157-8dc4aebd3bda | Pentoxifylline | CONTRAINDICATIONS
+
+Pentoxifylline extended-release tablet should not be used in patients with recent cerebral and/or retinal hemorrhage or in patients who have previously exhibited intolerance to this product or methylxanthines such as caffeine, theophylline, and theobromine.

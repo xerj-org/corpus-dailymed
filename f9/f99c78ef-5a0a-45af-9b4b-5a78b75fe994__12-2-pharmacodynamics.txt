@@ -1,0 +1,7 @@
+DailyMed f99c78ef-5a0a-45af-9b4b-5a78b75fe994 | Desvenlafaxine | 12.2 Pharmacodynamics
+
+Desvenlafaxine lacked significant affinity for numerous receptors, including muscarinic-cholinergic, H1-histaminergic, or α1-adrenergic receptors in vitro. Desvenlafaxine also lacked monoamine oxidase (MAO) inhibitory activity.
+
+                           ECG changes
+
+                        Electrocardiograms were obtained from 1,492 desvenlafaxine treated patients with major depressive disorder and 984 placebo-treated patients in clinical studies lasting up to 8 weeks. No clinically relevant differences were observed between desvenlafaxine treated and placebo-treated patients for QT, QTc, PR, and QRS intervals. In a thorough QTc study with prospectively determined criteria, desvenlafaxine did not cause QT prolongation. No difference was observed between placebo and desvenlafaxine treatments for the QRS interval.

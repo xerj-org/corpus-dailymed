@@ -1,0 +1,32 @@
+DailyMed eceb9a99-7191-4be5-87c3-0102707cf98e | EVRYSDI | 2.1 Dosing Information
+
+EVRYSDI is administered orally once daily with or without food at approximately the same time each day. The recommended dosage is determined by age and body weight (see Table 1). EVRYSDI tablets are available for patients prescribed the 5 mg dose.
+
+                           Table 1	Adult and Pediatric Dosing Regimen by Age and Body Weight
+
+                                    Age and Body Weight
+                                  |
+                                 Recommended Daily Dosage |
+                                 Dosage Form |
+
+                                    Less than 2 months of age
+                                  |
+                                 0.15 mg/kg |
+                                 EVRYSDI for Oral Solution |
+
+                                    2 months to less than 2 years of age
+                                  |
+                                 0.2 mg/kg |
+
+                                    2 years of age and older weighing less than 20 kg
+                                  |
+                                 0.25 mg/kg |
+
+                                    2 years of age and older weighing 20 kg or more
+                                  |
+                                 5 mg |
+                                 EVRYSDI for Oral Solution
+
+or
+
+EVRYSDI Tablet |

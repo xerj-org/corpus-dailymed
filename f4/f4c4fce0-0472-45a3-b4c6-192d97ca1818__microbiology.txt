@@ -1,0 +1,94 @@
+DailyMed f4c4fce0-0472-45a3-b4c6-192d97ca1818 | CLINDAMYCIN HYDROCHLORIDE | Microbiology
+
+Mechanism of Action
+
+                        Clindamycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the ribosome. Clindamycin is bacteriostatic.
+
+                           Resistance
+
+                        Resistance to clindamycin is most often caused by modification of specific bases of the 23S ribosomal RNA. Cross-resistance between clindamycin and lincomycin is complete. Because the binding sites for these antibacterial drugs overlap, cross-resistance is sometimes observed among lincosamides, macrolides and streptogramin B.
+
+                        Macrolide-inducible resistance to clindamycin occurs in some isolates of macrolide-resistant bacteria. Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci should be screened for induction of clindamycin resistance using the D-zone test.
+
+                           Antimicrobial Activity
+
+                        Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both
+
+  in vitroand in clinical infections
+
+   (See
+
+                              INDICATIONS AND USAGE
+                           ):
+
+                            
+
+                           Gram-positive b
+                           acteria
+
+                           Staphylococcus aureus(methicillin-susceptible strains)
+
+                           Streptococcus pneumoniae(penicillin-susceptible strains)
+
+                           Streptococcus pyogenes
+
+                            
+
+                           Anaerobic bacteria
+
+                           Clostridium perfringens
+
+                           Fusobacterium necrophorum
+
+                           Fusobacterium nucleatum
+
+                           Peptostreptococcus anaerobius
+
+                           Prevotella melaninogenica
+
+                        The following
+
+  in vitrodata are available, but their clinical significance is unknown. At least 90 percent of the following bacteria exhibit an
+
+  in vitrominimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of a similar genus or organism group. However, the efficacy of clindamycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
+
+                            
+
+                           Gram-positive
+                           bacteria
+
+                           Staphylococcus epidermidis(methicillin-susceptible strains)
+
+                           Streptococcus agalactiae
+
+                           Streptococcus anginosus
+
+                           Streptococcus mitis
+
+                           Streptococcus oralis
+
+                           Anaerobic bacteria
+
+                            
+
+                           Actinomyces israelii
+
+                           Clostridium clostridioforme
+
+                           Eggerthella lenta
+
+                           Finegoldia (Peptostreptococcus) magna
+
+                           Micromonas (Peptostreptococcus) micros
+
+                           Prevotella bivia
+
+                           Prevotella intermedia
+
+                           Cutibacterium
+                            
+                           acnes
+
+                           Susceptibility Testing
+
+                        For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

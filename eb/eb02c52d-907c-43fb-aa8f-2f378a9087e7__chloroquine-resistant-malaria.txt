@@ -1,0 +1,7 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Chloroquine-Resistant Malaria
+
+Chloroquine phosphate tablets are not effective against chloroquine- or hydroxychloroquine-resistant strains of Plasmodium species (see
+                              CLINICAL PHARMACOLOGY, Microbiology
+                           ). Chloroquine resistance is widespread in P. falciparum and is reported in P. vivax. Before using chloroquine for prophylaxis, it should be ascertained whether chloroquine is appropriate for use in the region to be visited by the traveler. Information regarding the geographic areas where resistance to chloroquine occurs, is available at the Centers for Disease Control and Prevention (www.cdc.gov\malaria).
+
+                        Patients infected with a resistant strain of plasmodia as shown by the fact that normally adequate doses have failed to prevent or cure clinical malaria or parasitemia should be treated with another form of antimalarial therapy.

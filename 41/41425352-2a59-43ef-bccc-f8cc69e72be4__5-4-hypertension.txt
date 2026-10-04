@@ -1,0 +1,7 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 5.4 Hypertension
+
+NSAIDs, including Piroxicam Capsules, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events. Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs
+
+  [see Drug Interactions.(7)].
+
+                        Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.

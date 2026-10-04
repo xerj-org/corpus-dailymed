@@ -1,0 +1,157 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 12.3 Pharmacokinetics
+
+Nilotinib single-dose maximum concentration (Cmax) and area under the time concentration curve (AUC) in fasted healthy subjects receiving Nilotinib Capsules are presented in Table 11.
+
+                         
+
+                           Table 11: Nilotinib Geometric Mean (%CV) Single-Dose Exposure
+
+                                       Nilotinib Capsules Dose
+
+                                  |
+
+                                       Cmax (ng/mL)
+
+                                  |
+
+                                       AUC0-inf (ng•hr/mL)
+
+                                  |
+
+                                    200 mg (0.5 times the maximum approved recommended dose)
+
+                                  |
+
+                                    615 (38%)
+
+                                  |
+
+                                    10620 (45%)
+
+                                  |
+
+                                    50 mg (0.25 times the maximum approved recommended dose)
+
+                                  |
+
+                                    303 (29%)
+
+                                  |
+
+                                    4550 (48%)
+
+                                  |
+
+                         
+
+                         
+
+                        Steady-state nilotinib exposure was dose-dependent with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once or twice daily dosing. In adult patients with resistant or intolerant Ph+ CML given nilotinib 400 mg twice daily, the steady-state mean (% CV) Cmax and AUC0-12h were 2260 ng/mL (35%) and 18000 ng∙h/mL (33%), respectively. In adult patients with newly diagnosed Ph+ CML given nilotinib 300 mg twice daily, the steady-state mean (% CV) Cmax and AUC0-12h were 1540 ng/mL (48%) and 13337 ng∙h/mL (46%), respectively.  
+
+                         
+
+                        Steady state conditions were achieved by Day 8. An increase in serum exposure to nilotinib between the first dose and steady state was approximately 2-fold for daily dosing and 3.8-fold for twice daily dosing. The average steady state nilotinib trough and peak concentrations did not change over 12 months.
+
+                         
+
+                           Absorption
+
+                         
+
+                        The median time (range) to reach peak plasma nilotinib concentrations (Tmax) is 3.3 hours (1.0 to 5.5) following single dose administration of Nilotinib Capsules 200 mg (0.5 times the maximum approved recommended dose) in fasted healthy subjects.
+
+                         
+
+                        Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (
+
+                              5.10
+
+                           )].
+
+                           Effect of Food
+
+                         
+
+                        Nilotinib AUC increased by 68% with a high-fat meal (approximately 800 to 1000 calories, 50% fat) and increased by 53% with a low-fat meal (approximately 400 to 500 calories, 25% fat) compared to the fasted state following a single dose of Nilotinib Capsules 200 mg (0.5 times the maximum approved recommended dose) in healthy subjects.
+
+                         
+
+                           Distribution
+
+                         
+
+                        Serum protein binding is approximately 98% with a blood-to-serum ratio of 0.68.
+
+                         
+
+                         
+
+                           Elimination
+
+                         
+
+                        The mean (CV%) elimination half-life of nilotinib is 10 hours (30%) following a single dose of Nilotinib Capsules 200 mg (0.5 times the maximum approved recommended dose) in fasted healthy subjects.
+
+                         
+
+                        The mean (CV%) apparent elimination half-life is estimated to be approximately 17 hours (69%) and the mean (CV%) apparent clearance approximates 29 L/h (61%) in patients. 
+
+                         
+
+                           Metabolism
+
+                         
+
+                        Nilotinib is primarily metabolized via CYP3A4-mediated oxidation and to a minor extent by CYP2C8.
+
+                         
+
+                         
+
+                           Excretion
+
+                         
+
+                        After a single dose of radiolabeled nilotinib, more than 90% of the administered dose was eliminated within 7 days: 93% of the dose in feces. Parent drug accounted for 69% of the dose.
+
+                         
+
+                           Specific Populations
+
+                         
+
+                        No clinically significant differences in the pharmacokinetics of nilotinib were observed based on age, sex, race/ethnicity, or body weight. The effect of renal impairment on nilotinib pharmacokinetics is unknown.
+
+                         
+
+                           Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Tasigna® (nilotinib) capsules. However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+                         
+
+                         
+
+                           Patients with Hepatic Impairment
+
+                         
+
+                        Nilotinib mean AUC increased 1.4-fold in mild (Child-Pugh class A), 1.4-fold in moderate (Child-Pugh class B), and 1.6-fold in severe (Child-Pugh class C) hepatic impairment subjects following a single dose of Nilotinib Capsules 200 mg (0.5 times the maximum approved recommended dose).
+
+                         
+
+                           Drug Interaction Studies
+
+                           Clinical Studies
+
+                        Strong CYP3A Inhibitors: Nilotinib AUC increased by approximately 3-fold following concomitant administration of ketoconazole (strong CYP3A inhibitor) 400 mg once daily for 6 days. Nilotinib AUC increased by 1.3-fold with concomitant use with double-strength grapefruit juice.
+
+                           Strong CYP3A Inducers: Nilotinib AUC decreased by approximately 80% following concomitant use with rifampicin (strong CYP3A inducer) 600 mg daily.
+
+                           Proton Pump Inhibitors (PPIs): Nilotinib displays pH-dependent aqueous solubility [see Description (11)]. Nilotinib AUC decreased by 34% following concomitant use of multiple doses of esomeprazole (PPI) 40 mg daily.
+
+                        Other Drugs: No clinically significant differences in nilotinib pharmacokinetics were observed when used concomitantly with imatinib (moderate CYP3A inhibitor), famotidine (an H2 blocker), or an antacid. No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with nilotinib: oral midazolam (CYP3A substrate), imatinib, or warfarin (CYP2C9 substrate).
+
+                           In Vitro Studies
+
+                           Cytochrome P450 (CYP) Enzymes: Nilotinib is a competitive inhibitor of CYP2C8, CYP2D6, and is an inducer of CYP2B6 and CYP2C8.
+
+                           Transporter Systems: Nilotinib is a substrate of P-gp and an inhibitor of UGT1A1 and P-gp.

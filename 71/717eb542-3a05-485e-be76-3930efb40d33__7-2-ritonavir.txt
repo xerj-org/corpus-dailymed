@@ -1,0 +1,3 @@
+DailyMed 717eb542-3a05-485e-be76-3930efb40d33 | Levocetirizine Dihydrochloride | 7.2 Ritonavir
+
+Ritonavir increased the plasma AUC of cetirizine by about 42% accompanied by an increase in half-life (53%) and a decrease in clearance (29%) of cetirizine. The disposition of ritonavir was not altered by concomitant cetirizine administration.

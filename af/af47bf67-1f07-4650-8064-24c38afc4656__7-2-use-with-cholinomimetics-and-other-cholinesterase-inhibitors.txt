@@ -1,0 +1,3 @@
+DailyMed af47bf67-1f07-4650-8064-24c38afc4656 | ZUNVEYL | 7.2 Use with Cholinomimetics and Other Cholinesterase Inhibitors
+
+A synergistic effect is expected when cholinesterase inhibitors are given concurrently with succinylcholine, other cholinesterase inhibitors, similar neuromuscular blocking agents or cholinergic agonists such as bethanechol.

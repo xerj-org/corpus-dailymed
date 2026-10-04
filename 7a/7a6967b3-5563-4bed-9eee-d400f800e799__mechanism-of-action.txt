@@ -1,0 +1,3 @@
+DailyMed 7a6967b3-5563-4bed-9eee-d400f800e799 | Clindamycin | Mechanism of Action
+
+Clindamycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the ribosome. Clindamycin is bacteriostatic.

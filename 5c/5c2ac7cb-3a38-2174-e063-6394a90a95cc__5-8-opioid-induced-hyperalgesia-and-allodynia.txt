@@ -1,0 +1,19 @@
+DailyMed 5c2ac7cb-3a38-2174-e063-6394a90a95cc | Tramadol Hydrochloride | 5.8 Opioid-Induced Hyperalgesia and Allodynia
+
+Opioid-Induced Hyperalgesia (OIH) occurs when an opioid analgesic paradoxically causes an increase in pain, or an increase in sensitivity to pain. This condition differs from tolerance, which is the need for increasing doses of opioids to maintain a defined effect
+
+  [see
+
+   Dependence (9.3)]
+
+  . Symptoms of OIH include (but may not be limited to) increased levels of pain upon opioid dosage increase, decreased levels of pain upon opioid dosage decrease, or pain from ordinarily non-painful stimuli (allodynia). These symptoms may suggest OIH only if there is no evidence of underlying disease progression, opioid tolerance, opioid withdrawal, or addictive behavior.
+
+                        Cases of OIH have been reported, both with short-term and longer-term use of opioid analgesics. Though the mechanism of OIH is not fully understood, multiple biochemical pathways have been implicated. Medical literature suggests a strong biologic plausibility between opioid analgesics and OIH and allodynia. If a patient is suspected to be experiencing OIH, carefully consider appropriately decreasing the dose of the current opioid analgesic or opioid rotation (safely switching the patient to a different opioid moiety)
+
+  [see
+
+   Dosage and Administration (2.5);
+
+   Warnings and Precautions (5.18)]
+
+  .

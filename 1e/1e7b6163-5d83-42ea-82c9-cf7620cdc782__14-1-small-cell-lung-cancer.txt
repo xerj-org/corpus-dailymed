@@ -1,0 +1,125 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 14.1 Small Cell Lung Cancer
+
+DeLLphi-304
+
+                        The efficacy of IMDELLTRA was evaluated in DeLLphi-304 (NCT05740566), a multicenter, randomized, open-label trial. Eligible patients were required to have SCLC with disease progression following treatment with platinum-based chemotherapy with or without an anti-PD-(L)1 antibody. Patients were required to have an ECOG Performance Status of 0 or 1 and at least one measurable lesion per Response Evaluation Criteria in Solid Tumors (RECIST v1.1). Patients with symptomatic brain metastases or active immunodeficiency were ineligible.
+
+                        A total of 509 patients were randomized 1:1 to receive either IMDELLTRA (N=254) at an initial dose of 1 mg on Cycle 1 Day 1 followed by 10 mg on Days 8, 15, and every 2 weeks thereafter until disease progression or unacceptable toxicity or Investigator's choice of standard of care (SOC) chemotherapy (N=255) (topotecan [73%], lurbinectedin [18%] or amrubicin [9%]) until unacceptable toxicity or disease progression. Randomization was stratified by prior anti-PD-(L)1 exposure (yes versus no), platinum sensitivity status (chemotherapy-free interval (CFI) ≥ 180 days, < 180 to ≥ 90 days, or < 90 days), presence (previous or current) of brain metastases (yes versus no) and investigator's choice of standard of care (topotecan/amrubicin versus lurbinectedin).
+
+                        The median age was 65 years (range: 20 to 86); 52% age 65 or older; 69% male; 57% White, 40% Asian, 1.4% were other races or had race not reported, 1% Black or African American, 0.4% American Indian or Alaska Native; 32% had ECOG PS of 0 and 67% ECOG PS of 1; 100% had extensive stage disease at baseline of whom 91% had metastatic disease; 45% had brain metastases at baseline; 35% had liver metastases at baseline. Sixty-nine percent (69%) of patients were former smokers, 21% were current smokers, 11% were never smokers. All patients received prior platinum therapy; 71% received prior anti-PD-(L)1 therapy; 223 patients (44%) had chemotherapy-free interval < 90 days after end of first line platinum therapy, while 286 patients (56%) had chemotherapy-free interval ≥ 90 days.
+
+                        The major efficacy outcome measure was overall survival (OS). Key secondary efficacy outcome measures included progression-free survival (PFS) based on investigator assessment per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1) and select patient reported outcomes.
+
+                        Efficacy results are summarized in Table 18 and Figure 1.
+
+                           Table 18. Efficacy Results for Patients with SCLC who received IMDELLTRA
+
+                                 Efficacy Parameter |
+                                 IMDELLTRA (N = 254) |
+                                 Standard of Care (N = 255) |
+
+                                    Overall Survival (OS)
+                                  |
+                                  |
+
+                                   Deaths (%) |
+                                 111 (43.7) |
+                                 152 (59.6) |
+
+                                   Medianper Kaplan-Meier estimates
+
+ in months (95% CI) |
+                                 13.6 (11.1, NE) |
+                                 8.3 (7.0, 10.2) |
+
+                                   Hazard ratioHazard ratio based on the stratified Cox proportional hazard model
+
+ (95% CI) |
+                                 0.60 (0.47, 0.77) |
+
+                                   p-valuep-value based on the stratified log-rank test
+
+                                  |
+                                 <0.001 |
+
+                                    Progression-free Survival (PFS)PFS based on investigator assessment per RECIST 1.1
+
+                                  |
+                                  |
+
+                                   Events (%) |
+                                 191 (75.2) |
+                                 205 (80.4) |
+
+                                   Median in months (95% CI) |
+                                 4.2 (3.0, 4.4) |
+                                 3.2 (2.9, 4.2) |
+
+                                   Hazard ratio (95% CI) |
+                                 0.72 (0.59, 0.88) |
+
+                                   p-value
+                                  |
+                                 <0.001 |
+
+                        In a pre-specified exploratory subgroup analysis, the HR for OS was similar between patients with a chemotherapy-free interval (CFI) <90 days (n=223) and patients with a CFI ≥90 days (n=286), with HRs of 0.60 (95% CI: 0.43, 0.84) and 0.65 (95% CI: 0.45, 0.93), respectively.
+
+                           Figure 1: Kaplan-Meier Plot of Overall Survival in ITT on DeLLphi-304
+
+                        The analysis of mean change from baseline in dyspnea as assessed using the EORTC QLQ-C30 and EORTC QLQ-LC13 at week 18 demonstrated a statistically significant improvement in patients randomized to IMDELLTRA compared to SOC. At week 18, 149 patients (59%) randomized to IMDELLTRA and 116 (45%) patients randomized to SOC were still on treatment, and the compliance rates were 79% and 76% respectively at that timepoint.
+
+                        Figure 2 shows the change from baseline in dyspnea at week 18 in patients who had a change from baseline score at week 18 (n=116 for IMDELLTRA, n=88 for SOC). Two patients with a missing baseline value, both from the IMDELLTRA arm, are not included in the waterfall plot. Patients with no change in dyspnea score are not graphically represented in Figure 2 (n=38 for IMDELLTRA, n=26 for SOC).
+
+                           Figure 2: Waterfall plot of Change From Baseline in Dyspnea (Composite Score) at Week 18
+
+                           DeLLphi-301
+
+                        The efficacy of IMDELLTRA was evaluated in DeLLphi-301 [NCT05060016], an open- label, multicenter, multi-cohort clinical trial. Eligible patients were required to have relapsed/refractory SCLC with disease progression after receiving previous treatment with platinum-based chemotherapy and at least one other line of prior therapy, an ECOG Performance Status of 0 or 1, and at least one measurable lesion as defined by Response Evaluation Criteria in Solid Tumors (RECIST v1.1). The trial excluded patients with symptomatic brain metastases, evidence of interstitial lung disease or non-infectious pneumonitis, and active immunodeficiency.
+
+                        A total of 99 patients received IMDELLTRA intravenously at an initial dose of 1 mg on Cycle 1 Day 1 followed by 10 mg on Days 8, 15, and every 2 weeks thereafter until disease progression or unacceptable toxicity.
+
+                        The study population characteristics were: median age 64 years (range: 35 to 82); 48% of patients ≥ 65 years and 10% of patients ≥ 75 years; 72% male; 58% White, 41% Asian; 1% Hispanic or Latino; and 74% have ECOG 1.
+
+                        Ninety-seven percent of patients had metastatic disease at baseline; 22% had brain metastases at baseline; and 92% were former/current smokers. All patients received prior platinum-based chemotherapy (median two lines); 74% received prior anti-PD-(L)1 therapy (including 59% who received anti-PD[L]1 therapy in combination with platinum-based chemotherapy in the frontline setting); 51% received prior topoisomerase I inhibitor (including 20% who received topotecan). Platinum sensitivity status, defined by time to progression after first line platinum therapy, was known for 69/99 patients. Twenty-seven patients (27%) had platinum-resistant SCLC, defined as time to progression < 90 days after first line platinum therapy, while 42 patients (42%) had platinum-sensitive SCLC.
+
+                        Tumor assessments were performed every 6 weeks for the first 48 weeks and every 12 weeks thereafter. The major efficacy outcome measures were overall response rate (ORR) and duration of response (DOR) as evaluated by Blinded Independent Central Review (BICR) according to RECIST v1.1.
+
+                        Efficacy results are presented in Table 19.
+
+                           Table 19. Efficacy Results for DeLLphi-301
+
+                                 Efficacy Parameter |
+                                 IMDELLTRA (N = 99) |
+
+                                    Overall Response Rate (ORR)
+                                  |
+
+                                   ORR, % (95% CI) Assessed by Blinded Independent Central Review, CI = Confidence Interval
+
+                                  |
+                                 40 (31, 51) |
+
+                                   Complete Response, n (%) |
+                                 2 (2) |
+
+                                   Partial Response, n (%) |
+                                 38 (38) |
+
+                                    Duration of Response (DOR)
+
+                                  |
+
+                                   MedianMedian based on Kaplan-Meier estimate.
+
+, months (range) |
+                                 9.7 (2.7, 20.7+) |
+
+                                   Duration ≥ 6 monthsBased on observed duration of response.
+
+, % |
+                                 68 |
+
+                                   Duration ≥ 12 months, % |
+                                 40 |
+
+                        Of the 69 patients with available data regarding platinum sensitivity status, the ORR was 52% (95% CI: 32, 71) in 27 patients with platinum-resistant SCLC and 31%	(95% CI: 18, 47) in 42 patients with platinum-sensitive SCLC.

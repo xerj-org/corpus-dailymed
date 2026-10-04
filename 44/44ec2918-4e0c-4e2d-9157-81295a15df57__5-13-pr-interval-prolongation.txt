@@ -1,0 +1,5 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 5.13 PR Interval Prolongation
+
+Pregabalin treatment was associated with PR interval prolongation. In analyses of clinical trial ECG data in adult patients, the mean PR interval increase was 3 to 6 msec at pregabalin doses greater than or equal to 300 mg/day. This mean change difference was not associated with an increased risk of PR increase greater than or equal to 25% from baseline, an increased percentage of subjects with on-treatment PR greater than 200 msec, or an increased risk of adverse reactions of second or third degree AV block.
+
+                        Subgroup analyses did not identify an increased risk of PR prolongation in patients with baseline PR prolongation or in patients taking other PR prolonging medications. However, these analyses cannot be considered definitive because of the limited number of patients in these categories.

@@ -1,0 +1,61 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Active Benign Gastric Ulcer
+
+Cimetidine has been shown to be effective in the short-term treatment of active benign gastric ulcer.
+
+                              In a multicenter, double-blind U.S. study, patients with endoscopically confirmed benign gastric ulcer were treated with cimetidine 300 mg four times a day or with placebo for six weeks. Patients were limited to those with ulcers ranging from 0.5 to 2.5 cm in size. Endoscopically confirmed healing at six weeks was seen in significantlya more cimetidine-treated patients than in patients receiving the placebo, as shown below:
+
+                                  Table 4. Rate of Endoscopically Confirmed Gastric Ulcer Healing
+
+                                        |
+                                       Cimetidine |
+                                       Placebo |
+
+                                          week 2
+
+                                        |
+
+                                          14/63 (22%)
+
+                                        |
+
+                                          7/63 (11%)
+
+                                        |
+
+                                          total at week 6
+
+                                        |
+
+                                          43/65 (66%)1
+
+                                        |
+
+                                          30/67 (45%)
+
+                                        |
+
+                                 1.p < 0.05
+
+                              In a similar multicenter U.S. study of the 800 mg at bedtime oral regimen, the endoscopically confirmed healing rates were:
+
+                                 Table 5. Rate of Endoscopically Confirmed Gastric Ulcer Healing
+
+                                        |
+                                       Cimetidine |
+                                       Placebo |
+
+                                          total at week 6
+
+                                        |
+
+                                          63/83 (76%)1
+
+                                        |
+
+                                          44/80 (55%)
+
+                                        |
+
+                                 1.p = 0.005
+
+                              Similarly, in worldwide double-blind clinical studies, endoscopically evaluated benign gastric ulcer healing rates were consistently higher with cimetidine than with placebo.

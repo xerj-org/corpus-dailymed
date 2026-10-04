@@ -1,0 +1,3 @@
+DailyMed 761dc0f8-2f65-4615-ab49-a4bcffd40ce9 | Tadalafil | 17.9 Alcohol
+
+Patients should be made aware that both alcohol and tadalafil, a PDE5 inhibitor, act as mild vasodilators. When mild vasodilators are taken in combination, blood-pressure-lowering effects of each individual compound may be increased. Therefore, physicians should inform patients that substantial consumption of alcohol (e.g., 5 units or greater) in combination with tadalafil can increase the potential for orthostatic signs and symptoms, including increase in heart rate, decrease in standing blood pressure, dizziness, and headache [see Warnings and Precautions (5.9), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].

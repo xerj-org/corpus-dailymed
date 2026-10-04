@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients. The cause for the increased risk has not been identified.  In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve levofloxacin for use only when there are no alternative antibacterial treatments available.

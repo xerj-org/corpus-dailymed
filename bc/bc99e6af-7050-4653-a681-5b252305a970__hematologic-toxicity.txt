@@ -1,0 +1,17 @@
+DailyMed bc99e6af-7050-4653-a681-5b252305a970 | Diclofenac SodiumDelayed Release | Hematologic Toxicity
+
+Anemia has occurred in NSAID-treated patients. This may be due to occult or gross blood
+
+  loss, fluid retention, or an incompletely described effect on erythropoiesis. If a patient
+
+  treated with diclofenac, has any signs or symptoms of anemia, monitor hemoglobin or
+
+  hematocrit. NSAIDs, including diclofenac, may increase the risk of bleeding events. Comorbid
+
+  conditions such as coagulation disorders, concomitant use of warfarin, other
+
+  anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and
+
+  serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk. Monitor these
+
+  patients for signs of bleeding (see     PRECAUTIONS; Drug Interactions).

@@ -1,0 +1,3 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 8.7 Renal Impairment
+
+Morphine pharmacokinetics are altered in patients with renal failure. Start these patients with a lower than normal dosage of morphine sulfate extended-release capsules and titrate slowly while regularly evaluating for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].

@@ -1,0 +1,141 @@
+DailyMed 80bef3fd-4f6f-4190-8865-9ac46c8947a3 | Amoxicillin and Clavulanate Potassium | 12.4 Microbiology
+
+Mechanism of Action
+
+  Amoxicillin binds to penicillin-binding proteins within the bacterial cell wall and inhibits bacterial cell wall synthesis. Clavulanic acid is a beta-lactam, structurally related to penicillin, that may inactivate certain beta‑lactamase enzymes.
+
+                           Resistance
+
+  Resistance to penicillins may be mediated by destruction of the beta-lactam ring by a beta­-lactamase, altered affinity of penicillin for target, or decreased penetration of the antibacterial drug to reach the target site. Amoxicillin alone is susceptible to degradation by beta‑lactamases, and therefore its spectrum of activity does not include bacteria that produce these enzymes.
+
+                           Antimicrobial Activity
+
+  Amoxicillin and clavulanic acid has been shown to be active against most isolates of the following microorganisms, both
+
+  in vitroand in clinical infections
+
+  [see
+
+   Indications and Usage (1)]
+
+  .
+
+                           Lower Respiratory Tract Infections
+
+                        Gram-negative bacteria:
+
+                           Haemophilus influenzae
+
+                           Moraxella catarrhalis
+
+                            
+
+                           Acute Bacterial Sinusitis
+
+                        Gram-positive bacteria:
+
+                           Staphylococcus aureus(methicillin-susceptible)
+
+                           Streptococcus pneumoniae
+
+                            
+
+                        Gram-negative bacteria:
+
+                           Haemophilus influenzae
+
+                           Haemophilus parainfluenzae
+
+                           Klebsiella pneumoniae
+
+                           Moraxella catarrhalis
+
+                           Acute Bacterial Otitis Media
+
+                        Gram-positive bacteria:
+
+                           Streptococcus pneumoniae
+
+                            
+
+                        Gram-negative bacteria:
+
+   
+
+                           Haemophilus influenzae
+
+                           Moraxella catarrhalis
+
+                            
+
+                           Skin and Skin Structure Infections
+
+                        Gram-positive bacteria:
+
+   
+
+                           Staphylococcus aureus(methicillin-susceptible)
+
+                            
+
+                        Gram-negative bacteria:
+
+   
+
+                           Escherichia coli
+
+                           Klebsiella
+                            spp.
+
+                           Urinary Tract Infections
+
+                         Gram-negative bacteria (including beta-lactamase-producing strains):
+
+   
+
+                           Escherichia coli
+
+                           Klebsiellaspp.
+
+   
+
+                           Enterobacter
+                            spp.
+
+                        The following
+
+  in vitrodata are available, but their clinical significance is unknown. At least 90 percent of the following bacteria exhibit
+
+  in vitrominimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for amoxicillin and clavulanic acid against isolates of similar genus or organism group. However, the efficacy of amoxicillin and clavulanic acid in treating clinical infections caused by these bacteria have not been established in adequate and well-controlled trials.
+
+                        Gram-positive bacteria:
+
+   
+
+                           Enterococcus faecalis
+
+                           Staphylococcus epidermidis
+
+                           Staphylococcus saprophyticus
+
+                           Streptococcus pyogenes
+
+                           Viridans group Streptococcus
+
+                           Gram-negative Bacteria
+
+                           Eikenella corrodens
+
+                           Proteus mirabilis
+
+                           Anaerobic Bacteria
+
+                           Bacteroides species including Bacteroides fragilis
+
+                           Fusobacterium species
+
+                           Peptostreptococcus species
+
+                           Susceptibility Testing:
+
+  For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see https://www.fda.gov/STIC.

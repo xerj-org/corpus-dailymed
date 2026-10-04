@@ -1,0 +1,7 @@
+DailyMed 1bda03a2-6c7d-4c9e-b98a-e5e01bebb3b1 | Amoxicillin and Clavulanate Potassium | 7.5 Effects on Laboratory Tests
+
+High urine concentrations of amoxicillin may result in false-positive reactions when testing for the presence of glucose in urine using CLINITEST
+
+  ®, Benedict’s Solution, or Fehling’s Solution. Since this effect may also occur with amoxicillin and clavulanate potassium, it is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.
+
+  Following administration of amoxicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone, and estradiol has been noted.

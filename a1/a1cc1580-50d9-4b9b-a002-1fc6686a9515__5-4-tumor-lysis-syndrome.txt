@@ -1,0 +1,8 @@
+DailyMed a1cc1580-50d9-4b9b-a002-1fc6686a9515 | Nelarabine | 5.4 Tumor Lysis Syndrome
+
+Patients receiving nelarabine injection should receive intravenous hydration according to standard medical practice for the management of hyperuricemia in patients at risk for tumor lysis syndrome. Consideration should be given to the use of allopurinol in patients at risk of hyperuricemia
+  [see
+
+                              Dosage and Administration (2.4)
+
+                           ].

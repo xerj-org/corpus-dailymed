@@ -1,0 +1,3 @@
+DailyMed e4ea0c09-cdd1-4708-962c-6ba28b989df3 | Metronidazole | Nursing Mothers
+
+Metronidazole is secreted in human milk in concentrations similar to those found in plasma. Because of the potential for tumorigenicity shown for metronidazole in mouse and rat studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.

@@ -1,0 +1,3 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 5.8 Withdrawal of Antiepileptic Drugs
+
+In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including topiramate extended-release capsules, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)]. In situations where rapid withdrawal of topiramate extended-release capsules are medically required, appropriate monitoring is recommended.

@@ -1,0 +1,11 @@
+DailyMed e76f35a5-711c-c511-9fd8-b8c4c0b43b85 | Deflazacort Oral Suspension | 5.6 Effects on Bones
+
+Decreased Bone Mineral Density
+
+                        Corticosteroids, including deflazacort, decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function. This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of bone loss at any age. Bone loss can predispose patients to vertebral and long bone fractures. Consider a patient’s risk of osteoporosis before initiating corticosteroid therapy.
+
+                        Monitor bone mineral density in patients on long-term treatment with deflazacort.
+
+                           Avascular Necrosis
+
+                        Corticosteroids, including deflazacort, may cause avascular necrosis.

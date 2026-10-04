@@ -1,0 +1,19 @@
+DailyMed 2dfadeac-6599-41c5-8e25-5f78cba17f00 | Fluticasone Propionate and SalmeterolDISKUS | 5.13 Reduction in Bone Mineral Density
+
+Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing ICS. The clinical significance of small changes in BMD with regard to long-term consequences such as fracture is unknown. Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids), should be monitored and treated with established standards of care. Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating Fluticasone Propionate/Salmeterol DISKUS and periodically thereafter. If significant reductions in BMD are seen and Fluticasone Propionate/Salmeterol DISKUS is still considered medically important for that patient’s COPD therapy, use of medicine to treat or prevent osteoporosis should be strongly considered.
+
+                           2-Year Fluticasone Propionate Trial
+
+                        A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving chlorofluorocarbon (CFC)-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
+
+                           3-Year Bone Mineral Density Trial
+
+                        Effects of treatment with fluticasone propionate/salmeterol DISKUS 250/50 mcg or salmeterol 50 mcg on BMD at the L1-L4 lumbar spine and total hip were evaluated in 186 subjects with COPD (aged 43 to 87 years) in a 3-year double-blind trial. Of those enrolled, 108 subjects (72 males and 36 females) were followed for the entire 3 years. BMD evaluations were conducted at baseline and at 6-month intervals. Conclusions cannot be drawn from this trial regarding BMD decline in subjects treated with fluticasone propionate/salmeterol DISKUS versus salmeterol due to the inconsistency of treatment differences across gender and between lumbar spine and total hip.
+
+                        In this trial there were 7 non-traumatic fractures reported in 5 subjects treated with fluticasone propionate/salmeterol DISKUS and 1 non-traumatic fracture in 1 subject treated with salmeterol. None of the non-traumatic fractures occurred in the vertebrae, hip, or long bones.
+
+                           3-Year Survival Trial
+
+                        Effects of treatment with fluticasone propionate/salmeterol DISKUS 500/50 mcg, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on BMD was evaluated in a subset of 658 subjects (females and males aged 40 to 80 years) with COPD in the 3-year survival trial. BMD evaluations were conducted at baseline and at 48, 108, and 158 weeks. Conclusions cannot be drawn from this trial because of the large number of dropouts (>50%) before the end of the follow-up and the maldistribution of covariates among the treatment groups that can affect BMD.
+
+                        Fracture risk was estimated for the entire population of subjects with COPD in the survival trial (N = 6,184). The probability of a fracture over 3 years was 6.3% for fluticasone propionate/salmeterol DISKUS, 5.4% for fluticasone propionate, 5.1% for salmeterol, and 5.1% for placebo.

@@ -1,0 +1,3 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 7.6 SSRIs and SNRIs
+
+Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) affect platelet activation, the concomitant administration of SSRIs and SNRIs with clopidogrel may increase the risk of bleeding.

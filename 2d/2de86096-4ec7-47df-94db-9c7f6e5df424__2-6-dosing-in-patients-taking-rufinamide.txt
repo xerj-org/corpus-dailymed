@@ -1,0 +1,3 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 2.6 Dosing in Patients Taking Rufinamide
+
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)].

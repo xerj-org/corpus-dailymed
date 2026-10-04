@@ -1,0 +1,13 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 1.2 Helicobacter pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
+
+Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
+
+                           Triple Therapy
+
+                        Omeprazole delayed-release capsules in combination with clarithromycin and amoxicillin, is indicated for treatment of patients with H. pylori infection and duodenal ulcer disease (active or up to 1-year history) to eradicate H. pylori in adults.
+
+                           Dual Therapy
+
+                        Omeprazole delayed-release capsules in combination with clarithromycin are indicated for treatment of patients with H. pylori infection and duodenal ulcer disease to eradicate H. pylori in adults.
+
+                        Among patients who fail therapy, omeprazole delayed-release capsules with clarithromycin is more likely to be associated with the development of clarithromycin resistance as compared with triple therapy. In patients who fail therapy, susceptibility testing should be done. If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted [see Clinical Pharmacology () and the clarithromycin prescribing information, Microbiology section].

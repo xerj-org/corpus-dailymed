@@ -1,0 +1,3 @@
+DailyMed e4ea0c09-cdd1-4708-962c-6ba28b989df3 | Metronidazole | Central and Peripheral Nervous System Effects
+
+Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole products. Since persistent peripheral neuropathy has been reported in some patients receiving prolonged oral administration of metronidazole, patients should be observed carefully. The appearance of abnormal neurologic signs demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy.

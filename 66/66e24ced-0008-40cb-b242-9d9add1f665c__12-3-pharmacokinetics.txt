@@ -1,0 +1,23 @@
+DailyMed 66e24ced-0008-40cb-b242-9d9add1f665c | TADALAFIL | 12.3 Pharmacokinetics
+
+Over a dose range of 2.5 to 20 mg, tadalafil exposure (AUC) increases proportionally with dose in healthy subjects. Steady-state plasma concentrations are attained within 5 days of once per day dosing and exposure is approximately 1.6-fold greater than after a single dose. Mean tadalafil concentrations measured after the administration of a single oral dose of 20 mg and single and once daily multiple doses of 5 mg, from a separate study, (see Figure 4) to healthy male subjects are depicted in Figure 4.
+
+                           Figure 4: Plasma tadalafil concentrations (mean ± SD) following a single 20-mg tadalafil dose and single and once daily multiple doses of 5 mg
+
+                           Absorption — After single oral-dose administration, the maximum observed plasma concentration (Cmax) of tadalafil is achieved between 30 minutes and 6 hours (median time of 2 hours). Absolute bioavailability of tadalafil following oral dosing has not been determined.
+
+                        The rate and extent of absorption of tadalafil are not influenced by food; thus tadalafil tablets may be taken with or without food.
+
+                           Distribution — The mean apparent volume of distribution following oral administration is approximately 63 L, indicating that tadalafil is distributed into tissues. At therapeutic concentrations, 94% of tadalafil in plasma is bound to proteins.
+
+                        Less than 0.0005% of the administered dose appeared in the semen of healthy subjects.
+
+                           Metabolism — Tadalafil is predominantly metabolized by CYP3A4 to a catechol metabolite. The catechol metabolite undergoes extensive methylation and glucuronidation to form the methylcatechol and methylcatechol glucuronide conjugate, respectively. The major circulating metabolite is the methylcatechol glucuronide. Methylcatechol concentrations are less than 10% of glucuronide concentrations. In vitro data suggests that metabolites are not expected to be pharmacologically active at observed metabolite concentrations.
+
+                           Excretion — The mean oral clearance for tadalafil is 2.5 L/hr and the mean terminal half-life is 17.5 hours in healthy subjects. Tadalafil is excreted predominantly as metabolites, mainly in the feces (approximately 61% of the dose) and to a lesser extent in the urine (approximately 36% of the dose).
+
+                           Geriatric — Healthy male elderly subjects (65 years or over) had a lower oral clearance of tadalafil, resulting in 25% higher exposure (AUC) with no effect on Cmax relative to that observed in healthy subjects 19 to 45 years of age. No dose adjustment is warranted based on age alone. However, greater sensitivity to medications in some older individuals should be considered [see Use in Specific Populations (8.5)].
+
+                           Patients with Diabetes Mellitus — In male patients with diabetes mellitus after a 10 mg tadalafil dose, exposure (AUC) was reduced approximately 19% and Cmax was 5% lower than that observed in healthy subjects. No dose adjustment is warranted.
+
+                           Patients with BPH — In patients with BPH following single and multiple-doses of 20 mg tadalafil, no statistically significant differences in exposure (AUC and Cmax) were observed between elderly (70 to 85 years) and younger (≤60 years of age) subjects. No dose adjustment is warranted.

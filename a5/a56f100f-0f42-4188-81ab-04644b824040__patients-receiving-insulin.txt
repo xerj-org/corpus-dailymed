@@ -1,0 +1,5 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Patients Receiving Insulin
+
+Some Type II diabetic patients being treated with insulin may respond satisfactorily to glyburide tablets. If the insulin dose is less than 20 units daily, substitution of glyburide tablets 2.5 to 5 mg as a single daily dose may be tried. If the insulin dose is between 20 and 40 units daily, the patient may be placed directly on glyburide tablets 5 mg daily as a single dose. If the insulin dose is more than 40 units daily, a transition period is required for conversion to glyburide tablets. In these patients, insulin dosage is decreased by 50% and glyburide tablets 5 mg daily is started. Please refer to
+                                    Titration to Maintenance Dose
+                                  for further explanation.

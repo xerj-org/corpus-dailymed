@@ -1,0 +1,41 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 8.1 Pregnancy
+
+Risk Summary
+
+                         
+
+                        Based on findings from animal studies and the mechanism of action, Nilotinib Capsules can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (
+
+                              12.1
+
+                           )]. There are no available data in pregnant women to inform the drug-associated risk. In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes, including embryo-fetal lethality, fetal effects, and fetal variations in rats and rabbits at maternal exposures (AUC) approximately 2 and 0.5 times, respectively, the exposures in patients at the recommended dose (see Data). Advise pregnant women of the potential risk to a fetus.
+
+                         
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
+
+                         
+
+                           Data
+
+                           Animal Data
+
+                         
+
+                        In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of nilotinib up to 100 mg/kg/day and 300 mg/kg/day, respectively, during the period of organogenesis. 
+
+                         
+
+                        In rats, oral administration of nilotinib produced embryo-lethality/fetal effects at doses ≥ 30 mg/kg/day. At ≥ 30 mg/kg/day, skeletal variations of incomplete ossification of the frontals and misshapen sternebra were noted, and there was an increased incidence of small renal papilla and fetal edema. At 100 mg/kg/day, nilotinib was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption) and resulted in a single incidence of cleft palate and two incidences of pale skin were noted in the fetuses. A single incidence of dilated ureters was noted in a fetus also displaying small renal papilla at 100 mg/kg/day. Additional variations of forepaw and hindpaw phalanx unossified, fused sternebra, bipartite sternebra ossification, and incomplete ossification of the cervical vertebra were noted at 100 mg/kg/day. 
+
+                         
+
+                        In rabbits, oral administration of nilotinib resulted in the early sacrifice of two females, maternal toxicity and increased resorption of fetuses at 300 mg/kg/day. Fetal skeletal variations (incomplete ossification of the hyoid, bent hyoid, supernumerary short detached ribs and the presence of additional ossification sites near the nasals, frontals and in the sternebral column) were also increased at this dose in the presence of maternal toxicity. Slight maternal toxicity was evident at 100 mg/kg/day but there were no reproductive or embryo-fetal effects at this dose.
+
+                         
+
+                        At 30 mg/kg/day in rats and 300 mg/kg/day in rabbits, the maternal systemic exposure (AUC) were 72700 ng*hr/mL and 17100 ng*hr/mL, respectively, representing approximately 2 and 0.5 times the exposure in humans at the highest recommended dose 400 mg twice daily.
+
+                         
+
+                        When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 60 mg/kg (i.e., 360 mg/m2, approximately 0.7 times the clinical dose of 400 mg twice daily based on body surface area). At doses up to 20 mg/kg (i.e., 120 mg/m2, approximately 0.25 times the clinical dose of 400 mg twice daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.

@@ -1,0 +1,5 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 7.2 Amphetamines & Other Drugs Affected by Urine Acidification
+
+Ascorbic acid may acidify the urine and lower serum concentrations of amphetamine by increasing renal excretion (as reflected by changes in amphetamine urine recovery rates). In case of decreased amphetamine efficacy discontinue ascorbic acid injection administration. Standard monitoring of therapy is warranted.
+
+                        In addition, acidification of urine by ascorbic acid will alter the excretion of certain drugs affected by the pH of the urine (e.g., fluphenazine) when administered concurrently. It has been reported that concurrent administration of ascorbic acid and fluphenazine has resulted in decreased fluphenazine plasma concentrations. Standard monitoring of therapy is warranted.

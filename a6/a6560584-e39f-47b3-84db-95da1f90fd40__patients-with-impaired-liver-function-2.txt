@@ -1,0 +1,3 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Patients with Impaired Liver Function
+
+Patients with impaired liver function may have elevated plasma concentrations of felodipine and may respond to lower doses of Felodipine; therefore, patients should have their blood pressure monitored closely during dosage adjustment of Felodipine (see CLINICAL PHARMACOLOGY).

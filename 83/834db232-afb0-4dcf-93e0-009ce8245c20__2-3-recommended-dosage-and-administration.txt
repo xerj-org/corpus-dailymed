@@ -1,0 +1,35 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 2.3 Recommended Dosage and Administration
+
+NMOSD, IgG4-RD, and gMG
+
+                        UPLIZNA is administered as an intravenous infusion (see Table 2). The recommended dosage is:
+
+                           Initial dose: 300 mg intravenous infusion followed 2 weeks later by a second 300 mg intravenous infusion.
+
+                           Subsequent doses (starting 6 months from the first infusion): single 300 mg intravenous infusion every 6 months.
+
+                           Administration
+
+                        UPLIZNA must be diluted prior to administration [see Dosage and Administration (2.4)].
+
+                        Prior to the start of the intravenous infusion, the prepared infusion solution should be at room temperature.
+
+                        Administer UPLIZNA under the close supervision of an experienced healthcare professional with access to appropriate medical support to manage potential severe reactions such as serious infusion reactions [see Warnings and Precautions (5.1)].
+
+                        Administer the prepared solution intravenously via an infusion pump at an increasing rate to completion, approximately 90 minutes, according to the schedule in Table 2. Administer through an intravenous line containing a sterile, low-protein binding 0.2 or 0.22 micron in-line filter.
+
+                           Table 2. Recommended Infusion Rate for UPLIZNA Administration When Diluted in a 250 mL Intravenous Bag
+
+                                 Elapsed Time (minutes) |
+                                 Infusion Rate (mL/hour) |
+
+                                 0-30 |
+                                 42 |
+
+                                 31-60 |
+                                 125 |
+
+                                 61 to completion |
+                                 333 |
+
+                        Monitor the patient closely for infusion reactions during and for at least one hour after the completion of the infusion.

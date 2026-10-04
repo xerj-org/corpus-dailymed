@@ -1,0 +1,7 @@
+DailyMed 1451663c-b85a-4b45-8b27-6d572d0032f9 | Factrel | DESCRIPTION
+
+FACTREL Injection is a sterile solution containing 50 micrograms of synthetic gonadorelin (as hydrochloride) per mL in aqueous formulation containing 0.6% sodium chloride and 2% benzyl alcohol (as a preservative).
+
+                  Gonadorelin is the gonadotropin releasing hormone (GnRH) which is produced by the hypothalamus and causes the release of the gonadotropin luteinizing hormone (LH) and follicle-stimulating hormone (FSH) from the anterior pituitary.
+
+                  FACTREL Injection has the identical amino acid sequence as endogenous gonadorelin; 5-oxo Pro-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-Gly-NH2 with identical physiological activities. The molecular weight of gonadorelin is 1182 with a molecular formula of C55H75N17O13. The corresponding values for gonadorelin hydrochloride are 1219 (1 HCl) expressed as C55H75N17O13HCl, or 1255 (2 HCl) expressed as C55H75N17O13 2HCl.

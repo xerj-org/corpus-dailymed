@@ -1,0 +1,11 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | 4. CONTRAINDICATIONS
+
+AMELUZ is contraindicated in patients with:
+
+                     Known hypersensitivity to porphyrins.
+
+                     Known hypersensitivity to any of the components of AMELUZ, which includes soybean phosphatidylcholine [see Warnings and Precautions (5.1)].
+
+                     Porphyria. AMELUZ use may cause uncontrolled phototoxic effects [see Warnings and Precautions (5.5)].
+
+                     Photodermatoses. PDT may worsen the phototoxic or photoallergic reactions [see Warnings and Precautions (5.5)].

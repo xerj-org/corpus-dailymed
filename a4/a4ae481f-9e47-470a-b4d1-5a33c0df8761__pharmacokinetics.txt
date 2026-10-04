@@ -1,0 +1,7 @@
+DailyMed a4ae481f-9e47-470a-b4d1-5a33c0df8761 | Cyclobenzaprine Hydrochloride | Pharmacokinetics
+
+Estimates of mean oral bioavailability of cyclobenzaprine range from 33% to 55%. Cyclobenzaprine exhibits linear pharmacokinetics over the dose range 2.5 mg to 10 mg, and is subject to enterohepatic circulation. It is highly bound to plasma proteins. Drug accumulates when dosed three times a day, reaching steady-state within 3 to 4 days at plasma concentrations about four-fold higher than after a single dose. At steady state in healthy subjects receiving 10 mg t.i.d. (n=18), peak plasma concentration was 25.9 ng/mL (range, 12.8 to 46.1 ng/mL), and area under the concentration-time (AUC) curve over an 8-hour dosing interval was 177 ng.hr/mL (range, 80 to 319 ng.hr/mL.)
+
+                        Cyclobenzaprine is extensively metabolized, and is excreted primarily as glucuronides via the kidney. Cytochromes P450 3A4, 1A2, and, to a lesser extent, 2D6, mediate N-demethylation, one of the oxidative pathways for cyclobenzaprine. Cyclobenzaprine is eliminated quite slowly, with an effective half-life of 18 hours (range 8 to 37 hours; n=18); plasma clearance is 0.7 L/min.
+
+                        The plasma concentration of cyclobenzaprine is generally higher in the elderly and in patients with hepatic impairment (see PRECAUTIONS: Use in the Elderly and PRECAUTIONS: Impaired Hepatic Function).

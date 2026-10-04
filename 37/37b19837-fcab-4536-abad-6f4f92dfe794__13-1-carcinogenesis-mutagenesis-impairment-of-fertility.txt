@@ -1,0 +1,21 @@
+DailyMed 37b19837-fcab-4536-abad-6f4f92dfe794 | BRINZOLAMIDE | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Brinzolamide caused urinary bladder tumors in female mice at oral doses of 10 mg/kg/day and in male rats at oral doses of 8 mg/kg/day in 2-year studies. Brinzolamide was not carcinogenic in male mice or female rats dosed orally for up to 2 years. The carcinogenicity appears secondary to kidney and urinary bladder toxicity. These levels of exposure cannot be achieved with topical ophthalmic dosing in humans.
+
+                           Mutagenesis
+
+                        The following tests for mutagenic potential were negative: (1)
+
+  in vivomouse micronucleus assay; (2)
+
+  in vivosister chromatid exchange assay; and (3) Ames
+
+  E. colitest. The
+
+  in vitromouse lymphoma forward mutation assay was negative in the absence of activation, but positive in the presence of microsomal activation.
+
+                           Impairment of Fertility
+
+                        In reproduction studies of brinzolamide in rats, there were no adverse effects on the fertility or reproductive capacity of males or females at doses up to 18 mg/kg/day (375 times the RHOD based on mg/kg).

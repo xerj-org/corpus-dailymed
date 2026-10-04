@@ -1,0 +1,3 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 5.7 Never Share an ONSWIK Prefilled Pen Between Patients
+
+ONSWIK prefilled pens must never be shared between patients, even if the needle is changed. Sharing poses a risk for transmission of blood-borne pathogens.

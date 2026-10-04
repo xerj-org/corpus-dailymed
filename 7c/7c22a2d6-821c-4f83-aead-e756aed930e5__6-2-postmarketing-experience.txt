@@ -1,0 +1,5 @@
+DailyMed 7c22a2d6-821c-4f83-aead-e756aed930e5 | Naproxen Sodium | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of naproxen. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        Skin and Appendages: Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE).

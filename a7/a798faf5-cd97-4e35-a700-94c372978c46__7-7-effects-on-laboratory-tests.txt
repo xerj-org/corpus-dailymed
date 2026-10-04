@@ -1,0 +1,5 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 7.7 Effects on Laboratory Tests
+
+There have been reports of positive test results using the Bio-Rad Laboratories Platelia Aspergillus EIA test in patients receiving piperacillin and tazobactam injection who were subsequently found to be free of Aspergillus infection. Cross-reactions with non-Aspergillus polysaccharides and polyfuranoses with the Bio-Rad Laboratories Platelia Aspergillus EIA test have been reported. Therefore, positive test results in patients receiving piperacillin and tazobactam should be interpreted cautiously and confirmed by other diagnostic methods.
+
+                        As with other penicillins, the administration of piperacillin and tazobactam for injection may result in a false-positive reaction for glucose in the urine using a copper-reduction method (CLINITEST®). It is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.

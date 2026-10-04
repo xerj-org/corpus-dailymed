@@ -1,0 +1,3 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 5.2 Gastrointestinal Perforations
+
+Events of gastrointestinal perforation have been reported in clinical trials, primarily as complications of diverticulitis in patients treated with tocilizumab. Use Tocilizumab-anoh with caution in patients who may be at increased risk for gastrointestinal perforation. Promptly evaluate patients presenting with fever, new onset abdominal symptoms, and a change in bowel habits for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].

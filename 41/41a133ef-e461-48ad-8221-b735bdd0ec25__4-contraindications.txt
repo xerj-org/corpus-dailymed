@@ -1,0 +1,17 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 4 CONTRAINDICATIONS
+
+ELIQUIS is contraindicated in patients with the following conditions:
+
+                     Active pathological bleeding
+
+   [see
+
+    Warnings and Precautions (5.2)and
+
+    Adverse Reactions (6.1)]
+
+                     Severe hypersensitivity reaction to ELIQUIS (e.g., anaphylactic reactions)
+
+   [see
+
+    Adverse Reactions (6.1)]

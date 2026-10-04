@@ -1,0 +1,3 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 7.8 Tricyclic Antidepressants
+
+Tricyclic antidepressants have been reported to blunt the hypotensive effect of systemic clonidine. It is not known whether the concurrent use of these agents with brimonidine tartrate/timolol maleate ophthalmic solution in humans can lead to resulting interference with the IOP-lowering effect. Caution, however, is advised in patients taking tricyclic antidepressants which can affect the metabolism and uptake of circulating amines.

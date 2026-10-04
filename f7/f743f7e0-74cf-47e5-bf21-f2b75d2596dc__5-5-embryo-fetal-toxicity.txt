@@ -1,0 +1,7 @@
+DailyMed f743f7e0-74cf-47e5-bf21-f2b75d2596dc | Temozolomide | 5.5 Embryo-Fetal Toxicity
+
+Based on findings from animal studies and its mechanism of action, Temozolomide can cause fetal harm when administered to a pregnant woman. Adverse developmental outcomes have been reported in both pregnant patients and pregnant partners of male patients. Oral administration of temozolomide to rats and rabbits during the period of organogenesis resulted in embryolethality and polymalformations at doses less than the maximum human dose based on body surface area.
+
+                        Advise pregnant women and females of reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with Temozolomide and for 6 months after the last dose. Because of potential risk of genotoxic effects on sperm, advise male patients with female partners of reproductive potential to use condoms during treatment with Temozolomide and for 3 months after the last dose. Advise male patients not to donate semen during treatment with Temozolomide and for 3 months after the last dose
+
+  [see Use in Specific Populations (8.1, 8.3)].

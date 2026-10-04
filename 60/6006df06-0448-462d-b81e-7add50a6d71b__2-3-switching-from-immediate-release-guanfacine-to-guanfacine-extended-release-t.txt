@@ -1,0 +1,17 @@
+DailyMed 6006df06-0448-462d-b81e-7add50a6d71b | GuanfacineExtended-Release | 2.3 Switching from Immediate-Release Guanfacine to Guanfacine Extended-Release Tablets
+
+If switching from immediate-release guanfacine, discontinue that treatment, and titrate with guanfacine extended-release tablets following above recommended schedule.
+
+                        Do not substitute for immediate-release guanfacine tablets on a milligram-per-milligram basis, because of differing pharmacokinetic profiles. Guanfacine extended-release tablets have significantly reduced C
+
+  max(60% lower), bioavailability (43% lower), and a delayed T
+
+  max(3 hours later) compared to those of the same dose of immediate-release guanfacine
+
+  [see
+                           Clinical Pharmacology (
+
+                              12.3
+
+                           )
+                           ].

@@ -1,0 +1,5 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | OVERDOSAGE
+
+Ceftriaxone overdosage has been reported in patients with severe renal impairment. Reactions have included neurological outcomes, including encephalopathy, seizures. myoclonus, and non-convulsive status epilepticus. In the event of overdosage, discontinue Ceftriaxone for Injection therapy and provide general supportive treatment (see DOSAGE AND ADMINISTRATION and WARNINGS AND PRECAUTIONS).
+
+                  In the case of overdosage, drug concentration would not be reduced by hemodialysis or peritoneal dialysis. There is no specific antidote. Treatment of overdosage should be symptomatic.

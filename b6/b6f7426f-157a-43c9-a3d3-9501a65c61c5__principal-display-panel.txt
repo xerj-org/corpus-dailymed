@@ -1,0 +1,29 @@
+DailyMed b6f7426f-157a-43c9-a3d3-9501a65c61c5 | DIPHENHYDRAMINE | PRINCIPAL DISPLAY PANEL
+
+DRUG: DIPHENHYDRAMINE
+
+                  GENERIC: Diphenhydramine Hydrochloride
+
+                  DOSAGE: INJECTION, SOLUTION
+
+                  ADMINSTRATION: INTRAVENOUS
+
+                  NDC: 70518-4765-1
+
+                  NDC: 70518-4765-0
+
+                  PACKAGING: 1 mL in 1 VIAL
+
+                  OUTER PACKAGING: 25 in 1 CARTON
+
+                  ACTIVE INGREDIENT(S):
+
+                     DIPHENHYDRAMINE HYDROCHLORIDE 50mg in 1mL
+
+                  INACTIVE INGREDIENT(S):
+
+                     WATER
+
+                     SODIUM HYDROXIDE
+
+                     HYDROCHLORIC ACID

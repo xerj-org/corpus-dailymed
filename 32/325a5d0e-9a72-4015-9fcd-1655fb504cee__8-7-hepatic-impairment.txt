@@ -1,0 +1,7 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 8.7 Hepatic Impairment
+
+CRESTOR is contraindicated in patients with acute liver failure or decompensated cirrhosis. Chronic alcohol liver disease is known to increase rosuvastatin exposure. Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury [see Contraindications (4),
+
+                              Warnings and Precautions (5.3)
+
+                            and Clinical Pharmacology (12.3)].

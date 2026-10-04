@@ -1,0 +1,7 @@
+DailyMed 56b41079-60db-4256-9695-202b3a65d13d | Armour Thyroid | Hypothyroidism —
+
+Therapy is usually instituted using low doses, with increments which depend on the cardiovascular status of the patient. The usual starting dose is 30 mg Armour Thyroid (thyroid tablets, USP), with increments of 15 mg every 2 to 3 weeks. A lower starting dosage, 15 mg/day, is recommended in patients with long-standing myxedema, particularly if cardiovascular impairment is suspected, in which case extreme caution is recommended. The appearance of angina is an indication for a reduction in dosage. Most patients require 60 to 120 mg/day. Failure to respond to doses of 180 mg suggests lack of compliance or malabsorption. Maintenance dosages 60 to 120 mg/day usually result in normal serum T4 and T3 levels. Adequate therapy usually results in normal TSH and T4 levels after 2 to 3 weeks of therapy.
+
+                        Readjustment of thyroid hormone dosage should be made within the first four weeks of therapy, after proper clinical and laboratory evaluations, including serum levels of T4, bound and free, and TSH.
+
+                        Liothyronine (T3) may be used in preference to levothyroxine (T4) during radio-isotope scanning procedures, since induction of hypothyroidism in those cases is more abrupt and can be of shorter duration. It may also be preferred when impairment of peripheral conversion of levothyroxine (T4) and liothyronine (T3) is suspected.

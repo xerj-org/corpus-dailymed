@@ -1,0 +1,29 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series with lacosamide use in pregnant women are insufficient to identify a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes. Lacosamide produced developmental toxicity (increased embryofetal and perinatal mortality, growth deficit) in rats following administration during pregnancy. Developmental neurotoxicity was observed in rats following administration during a period of postnatal development corresponding to the third trimester of human pregnancy. These effects were observed at doses associated with clinically relevant plasma exposures
+
+  (see
+
+   Data)
+
+  .
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Oral administration of lacosamide to pregnant rats (20 mg/kg/day, 75 mg/kg/day, or 200 mg/kg/day) and rabbits (6.25 mg/kg/day, 12.5 mg/kg/day, or 25 mg/kg/day) during the period of organogenesis did not produce any effects on the incidences of fetal structural abnormalities. However, the maximum doses evaluated were limited by maternal toxicity in both species and embryofetal death in rats. These doses were associated with maternal plasma lacosamide exposures (AUC) approximately 2 and 1 times (rat and rabbit, respectively) that in humans at the maximum recommended human dose (MRHD) of 400 mg/day.
+
+                        In two studies in which lacosamide (25 mg/kg/day, 70 mg/kg/day, or 200 mg/kg/day and 50 mg/kg/day, 100 mg/kg/day, or 200 mg/kg/day) was orally administered to rats throughout pregnancy and lactation, increased perinatal mortality and decreased body weights in the offspring were observed at the highest dose tested. The no-effect dose for pre- and postnatal developmental toxicity in rats (70 mg/kg/day) was associated with a maternal plasma lacosamide AUC similar to that in humans at the MRHD.
+
+                        Oral administration of lacosamide (30 mg/kg/day, 90 mg/kg/day, or 180 mg/kg/day) to rats during the neonatal and juvenile periods of development resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory). The early postnatal period in rats is generally thought to correspond to late pregnancy in humans in terms of brain development. The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide AUC less than that in humans at the MRHD.
+
+                           In Vitro Data
+
+                        Lacosamide has been shown
+
+  in vitroto interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth. Potential adverse effects on CNS development related to this activity cannot be ruled out.

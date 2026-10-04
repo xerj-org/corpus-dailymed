@@ -1,0 +1,3 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 4 CONTRAINDICATIONS
+
+Concomitant use of sonrotoclax with strong CYP3A inhibitors at initiation and during the ramp-up phase is contraindicated in patients due to the potential for increased risk of tumor lysis syndrome [see Drug Interactions (7.1)].

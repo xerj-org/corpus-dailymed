@@ -1,0 +1,6 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 2.1 Acute Coronary Syndrome
+
+In patients who need an antiplatelet effect within hours, initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating clopidogrel without a loading dose will delay establishment of an antiplatelet effect by several days
+  [see
+   Clinical Pharmacology (12.3) and
+   Clinical Studies (14.1)].

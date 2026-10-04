@@ -1,0 +1,5 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 5.3 Mucocutaneous Adverse Reactions
+
+Mucocutaneous adverse reactions including dry skin, lip dry, pruritus, rash, alopecia, erythema, skin exfoliation [skin peeling], and dry eye occurred in most (98%) patients treated with SOHONOS. SOHONOS may contribute to an increased risk of skin and soft tissue infections, particularly paronychia and decubitus ulcer, due to a decreased skin barrier from adverse reactions such as dry and peeling skin [see Adverse Reactions (6.1)]. Some of these mucocutaneous adverse reactions led to dose reductions which occurred more frequently during flare-up dosing suggesting a dose response relationship.
+
+                        Prophylactic measures to minimize risk and/or treat the mucocutaneous adverse reactions are recommended (e.g., skin emollients, sunscreen, lip moisturizers, or artificial tears). Some patients may require dose reduction or drug discontinuation [see Dosage and Administration (2.4)].

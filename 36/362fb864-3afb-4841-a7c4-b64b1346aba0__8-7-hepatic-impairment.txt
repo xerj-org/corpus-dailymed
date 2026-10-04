@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 8.7 Hepatic Impairment
+
+Pharmacokinetic studies in hepatically impaired patients have not been conducted. Due to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are not expected to be affected by hepatic impairment.

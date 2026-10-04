@@ -1,0 +1,28 @@
+DailyMed 5dc0e9df-3b45-4469-93fe-3d2eddbfe2b7 | Dapagliflozin | 2.1 Testing Prior to Initiation of Dapagliflozin Tablets
+
+Assess renal function prior to initiation of dapagliflozin tablets and then as clinically indicated
+
+   [see Warnings and Precautions (
+
+    5.2)]
+
+   .
+
+                           Assess volume status. In patients with volume depletion, correct this condition before initiating dapagliflozin tablets
+
+   [see Warnings and Precautions (
+
+                                    5.2
+                                 )
+
+   and
+
+   Use in Specific Populations (
+
+                                    8.5
+                                 ,
+
+                                    8.6
+                                 )]
+
+   .

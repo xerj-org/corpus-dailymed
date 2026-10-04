@@ -1,0 +1,15 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 8.2 Lactation
+
+Risk Summary
+
+                           Timolol has been detected in human milk following oral and ophthalmic drug administration.
+
+ It is not known whether brimonidine tartrate is excreted in human milk. In animal studies, brimonidine tartrate has been shown to be excreted in breast milk.
+
+ Because of the potential for serious adverse reactions in the breastfed infant, including central nervous system depression and apnea, brimonidine tartrate/timolol maleate ophthalmic solution is not recommended for use during lactation.
+
+ Data
+
+                           Animal Data
+
+                           After a single oral dose of 14C-labeled brimonidine tartrate to lactating rats, brimonidine tartrate and trace metabolites were detected in milk after 30 minutes. There was 30% higher milk concentration compared to maternal plasma concentration 30 minutes after dosing and a 10-fold higher milk concentration compared to maternal plasma concentration 8 hours after dosing. No radiolabeled brimonidine tartrate or metabolites were detectable in milk 24 hours after dosing.

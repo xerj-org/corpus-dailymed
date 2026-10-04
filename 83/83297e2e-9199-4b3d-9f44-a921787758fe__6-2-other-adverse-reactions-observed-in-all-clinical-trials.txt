@@ -1,0 +1,11 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 6.2 Other Adverse Reactions Observed in All Clinical Trials
+
+Lamotrigine has been administered to 6,694 individuals for whom complete adverse reaction data was captured during all clinical trials, only some of which were placebo controlled. During these trials, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing. To provide a meaningful estimate of the proportion of individuals having adverse reactions, similar types of adverse reactions were grouped into a smaller number of standardized categories using modified COSTART dictionary terminology. The frequencies presented represent the proportion of the 6,694 individuals exposed to lamotrigine who experienced an event of the type cited on at least 1 occasion while receiving lamotrigine. All reported adverse reactions are included except those already listed in the previous tables or elsewhere in the labeling, those too general to be informative, and those not reasonably associated with the use of the drug.
+
+                        Adverse reactions are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions:
+
+  frequentadverse reactions are defined as those occurring in at least 1/100 patients;
+
+  infrequentadverse reactions are those occurring in 1/100 to 1/1,000 patients;
+
+  rareadverse reactions are those occurring in fewer than 1/1,000 patients.

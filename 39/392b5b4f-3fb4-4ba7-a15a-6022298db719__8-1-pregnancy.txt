@@ -1,0 +1,20 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 8.1 Pregnancy
+
+Risk Summary
+
+Based on findings in animal studies and its mechanism of action, exemestane can cause fetal harm when administered to a pregnant woman
+  [see Clinical Pharmacology (
+   12.1)]
+  . Limited human data from case reports are insufficient to inform a drug-associated risk. In animal reproduction studies, administration of exemestane to pregnant rats and rabbits caused increased incidence of abortions, embryo-fetal toxicity, and prolonged gestation with abnormal or difficult labor
+  [see Data]. Advise pregnant women of the potential risk to a fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+In animal reproduction studies in rats and rabbits, exemestane caused embryo-fetal toxicity, and was abortifacient. Radioactivity related to
+  14C-exemestane crossed the placenta of rats following oral administration of 1 mg/kg exemestane. The concentration of exemestane and its metabolites was approximately equivalent in maternal and fetal blood. When rats were administered exemestane from 14 days prior to mating until either days 15 or 20 of gestation, and resuming for the 21 days of lactation, an increase in placental weight was seen at 4 mg/kg/day (approximately 1.5 times the recommended human daily dose on a mg/m
+  2 basis). Increased resorptions, reduced number of live fetuses, decreased fetal weight, retarded ossification, prolonged gestation and abnormal or difficult labor was observed at doses equal to or greater than 20 mg/kg/day (approximately 7.5 times the recommended human daily dose on a mg/m
+  2 basis). Daily doses of exemestane, given to rabbits during organogenesis, caused a decrease in placental weight at 90 mg/kg/day (approximately 70 times the recommended human daily dose on a mg/m
+  2 basis) and in the presence of maternal toxicity, abortions, an increase in resorptions, and a reduction in fetal body weight were seen at 270 mg/kg/day. No malformations were noted when exemestane was administered to pregnant rats or rabbits during the organogenesis period at doses up to 810 and 270 mg/kg/day, respectively (approximately 320 and 210 times the recommended human dose on a mg/m
+  2 basis, respectively).

@@ -1,0 +1,7 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Geriatric Use
+
+Of the total number of subjects in clinical studies of ceftriaxone, 32% were 60 and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+                        The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day provided there is no severe renal and hepatic impairment (see
+                              CLINICAL PHARMACOLOGY
+                           ).

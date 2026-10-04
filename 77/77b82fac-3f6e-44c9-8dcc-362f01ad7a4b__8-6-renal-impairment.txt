@@ -1,0 +1,15 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 8.6 Renal Impairment
+
+Amoxicillin is primarily eliminated by the kidney. Both amoxicillin and clavulanate are removed from the circulation by hemodialysis.
+
+                           Amoxicillin and Clavulanate Potassium
+
+  No dosage adjustment is recommended in patients with mild to moderate renal impairment. A reduced dosage is recommended in patients with severe renal impairment (GFR less than 30 mL/min)
+
+  .Patients with a GFR of less than 30 mL/min should not receive the 875 mg/125 mg dose of amoxicillin and clavulanate potassium
+
+  [see
+
+   Dosage and Administration (2.6)]
+
+  .

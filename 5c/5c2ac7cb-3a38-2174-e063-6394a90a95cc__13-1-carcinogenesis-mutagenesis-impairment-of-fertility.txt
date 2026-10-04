@@ -1,0 +1,23 @@
+DailyMed 5c2ac7cb-3a38-2174-e063-6394a90a95cc | Tramadol Hydrochloride | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        A slight, but statistically significant, increase in two common murine tumors, pulmonary and hepatic, was observed in an NMRI mouse carcinogenicity study, particularly in aged mice. Mice were dosed orally up to 30 mg/kg in the drinking water (0.36 times the MRHD) for approximately two years, although the study was not done with the Maximum Tolerated Dose. This finding is not believed to suggest risk in humans. No evidence of carcinogenicity was noted in a rat 2-year carcinogenicity study testing oral doses of up to 30 mg/kg in the drinking water, 0.73 times the MRHD.
+
+                           Mutagenesis
+
+                        Tramadol was mutagenic in the presence of metabolic activation in the mouse lymphoma assay. Tramadol was not mutagenic in the
+
+  in vitrobacterial reverse mutation assay using
+
+  Salmonellaand
+
+  E. coli(Ames), the mouse lymphoma assay in the absence of metabolic activation, the
+
+  in vitrochromosomal aberration assay, or the
+
+  in vivomicronucleus assay in bone marrow.
+
+                           Impairment of Fertility
+
+                        No effects on fertility were observed for tramadol at oral dose levels up to 50 mg/kg in male rats and 75 mg/kg in female rats. These dosages are 1.2 and 1.8 times the maximum recommended human daily dose based on body surface area, respectively.

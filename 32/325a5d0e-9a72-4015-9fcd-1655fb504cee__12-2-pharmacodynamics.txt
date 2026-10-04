@@ -1,0 +1,3 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 12.2 Pharmacodynamics
+
+Inhibition of HMG-CoA reductase by rosuvastatin accelerates the expression of LDL-receptors, followed by the uptake of LDL-C from blood to the liver, leading to a decrease in plasma LDL-C and total cholesterol. Sustained inhibition of cholesterol synthesis in the liver also decreases levels of very-low-density lipoproteins. The maximum LDL-C reduction of CRESTOR is usually achieved by 4 weeks and is maintained after that.

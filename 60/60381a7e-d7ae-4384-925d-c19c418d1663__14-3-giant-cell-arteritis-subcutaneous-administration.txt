@@ -1,0 +1,114 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 14.3 Giant Cell Arteritis – Subcutaneous Administration
+
+The efficacy and safety of subcutaneously administered tocilizumab was assessed in a single, randomized, double-blind, multicenter study in patients with active GCA. In Study WA28119 (NCT01791153), 251 screened patients with new-onset or relapsing GCA were randomized to one of four treatment arms. Two subcutaneous doses of tocilizumab (162 mg every week and 162 mg every other week) were compared to two different placebo control groups (pre-specified prednisone-taper regimen over 26 weeks and 52 weeks) randomized 2:1:1:1. The study consisted of a 52-week blinded period, followed by a 104-week open-label extension.
+
+                        All patients received background glucocorticoid (prednisone) therapy. Each of the tocilizumab-treated groups and one of the placebo-treated groups followed a pre-specified prednisone-taper regimen with the aim to reach 0 mg by 26 weeks, while the second placebo-treated group followed a pre-specified prednisone-taper regimen with the aim to reach 0 mg by 52 weeks designed to be more in keeping with standard practice.
+
+                        The primary efficacy endpoint was the proportion of patients achieving sustained remission from Week 12 through Week 52. Sustained remission was defined by a patient attaining a sustained (1) absence of GCA signs and symptoms from Week 12 through Week 52, (2) normalization of erythrocyte sedimentation rate (ESR) (to < 30 mm/hr without an elevation to ≥ 30 mm/hr attributable to GCA) from Week 12 through Week 52, (3) normalization of C-reactive protein (CRP) (to < 1 mg/dL, with an absence of successive elevations to ≥ 1mg/dL) from Week 12 through Week 52, and (4) successful adherence to the prednisone taper defined by not more than 100 mg of excess prednisone from Week 12 through Week 52. Tocilizumab 162 mg weekly and 162 mg every other week + 26 weeks prednisone taper both showed superiority in achieving sustained remission from Week 12 through Week 52 compared with placebo + 26 weeks prednisone taper (Table 9). Both tocilizumab treatment arms also showed superiority compared to the placebo + 52 weeks prednisone taper (Table 9).
+
+                           Table 9 Efficacy Results from Study WA28119
+
+                                  |
+                                 PBO + 26 weeks prednisone taper
+
+ N=50 |
+                                 PBO + 52 weeks prednisone taper
+
+ N=51 |
+                                 TCZ 162mg SC QW + 26 weeks prednisone taper
+
+ N=100 |
+                                 TCZ 162 mg SC Q2W + 26 weeks prednisone taper
+
+ N=49 |
+
+                                    Sustained remissiona
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Responders, n (%) |
+                                 7 (14.0%) |
+                                 9 (17.6%) |
+                                 56 (56.0%) |
+                                 26 (53.1%) |
+
+                                 Unadjusted difference in proportions vs PBO + 26 weeks taper
+
+ (99.5% CI) |
+                                 N/A |
+                                 N/A |
+                                 42.0%
+
+ (18.0, 66.0) |
+                                 39.1%
+
+ (12.5, 65.7) |
+
+                                 Unadjusted difference in proportions vs PBO + 52 weeks taper
+
+ (99.5% CI) |
+                                 N/A |
+                                 N/A |
+                                 38.4%
+
+ (14.4, 62.3) |
+                                 35.4%
+
+ (8.6, 62.2) |
+
+                                    Components of Sustained Remission
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Sustained absence of GCA signs and symptomsb, n (%) |
+                                 20 (40.0%) |
+                                 23 (45.1%) |
+                                 69 (69.0%) |
+                                 28 (57.1%) |
+
+                                 Sustained ESR<30 mm/hrc, n (%) |
+                                 20 (40.0%) |
+                                 22 (43.1%) |
+                                 83 (83.0%) |
+                                 37 (75.5%) |
+
+                                 Sustained CRP normalizationd, n (%) |
+                                 17 (34.0%) |
+                                 13 (25.5%) |
+                                 72 (72.0%) |
+                                 34 (69.4%) |
+
+                                 Successful prednisone taperinge, n (%) |
+                                 10 (20.0%) |
+                                 20 (39.2%) |
+                                 60 (60.0%) |
+                                 28 (57.1%) |
+
+                           aSustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptomsb, normalization of ESRc, normalization of CRPd and adherence to the prednisone taper regimene.
+
+                           bPatients who did not have any signs or symptoms of GCA recorded from Week 12 up to Week 52.
+
+                           cPatients who did not have an elevated ESR ≥30 mm/hr which was classified as attributed to GCA from Week 12 up to Week 52.
+
+                           dPatients who did not have two or more consecutive CRP records of ≥ 1mg/dL from Week 12 up to Week 52.
+
+                           ePatients who did not enter escape therapy and received ≤ 100mg of additional concomitant prednisone from Week 12 up to Week 52.
+
+Patients not completing the study to week 52 were classified as non-responders in the primary and key secondary analysis: PBO+26: 6 (12.0%), PBO+52: 5 (9.8%), TCZ QW: 15 (15.0%), TCZ Q2W: 9 (18.4%).
+
+CRP = C-reactive protein
+
+ESR = erythrocyte sedimentation rate PBO = placebo
+
+Q2W = every other week dose QW = every week dose
+
+TCZ = tocilizumab
+
+                        The estimated annual cumulative prednisone dose was lower in the two tocilizumab dose groups (medians of 1887 mg and 2207 mg on tocilizumab QW and Q2W, respectively) relative to the placebo arms (medians of 3804 mg and 3902 mg on placebo + 26 weeks prednisone and placebo + 52 weeks prednisone taper, respectively).

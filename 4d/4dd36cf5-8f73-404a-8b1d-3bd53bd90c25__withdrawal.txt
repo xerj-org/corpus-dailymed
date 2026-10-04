@@ -1,0 +1,5 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Withdrawal
+
+Do not rapidly reduce or abruptly discontinue PERCOCET in a patient physically dependent on opioids. When discontinuing PERCOCET in a physically dependent patient, gradually taper the dosage. Rapid tapering of PERCOCET in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see DOSAGE AND ADMINISTRATION, DRUG ABUSE AND DEPENDENCE].
+
+                        Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including PERCOCET. In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see PRECAUTIONS; Drug Interactions].

@@ -1,0 +1,6 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 7.2 Warfarin
+
+No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other disposition parameters for R- and S- warfarin was detected in a clinical study involving healthy volunteers. Similarly, no apparent effect of warfarin on levofloxacin absorption and disposition was observed. However, there have been reports during the postmarketing experience in patients that levofloxacin enhances the effects of warfarin. Elevations of the prothrombin time in the setting of concurrent warfarin and levofloxacin use have been associated with episodes of bleeding. Prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if levofloxacin is administered concomitantly with warfarin. Patients should also be monitored for evidence of bleeding [see Adverse Reactions (
+                                 6.3
+
+                           ); Patient Counseling Information (17)].

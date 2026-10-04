@@ -1,0 +1,3 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 7.4 Drugs with pH-Dependent Renal Elimination
+
+Due to the alkalinizing action of lactate (formation of bicarbonate), Lactated Ringer’s Injection may interfere with the elimination of drugs with pH-dependent renal elimination. Renal clearance of alkaline drugs may be decreased. In contrast, renal clearance of acidic drugs may be increased.

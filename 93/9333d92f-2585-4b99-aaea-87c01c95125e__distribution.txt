@@ -1,0 +1,3 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | Distribution
+
+The distribution of exogenous estrogens is similar to that of endogenous estrogens. Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs. Estrogens circulate in the blood largely bound to sex hormone binding globulin (SHBG) and albumin.

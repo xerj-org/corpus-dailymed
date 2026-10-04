@@ -1,0 +1,5 @@
+DailyMed d8057d1a-e8af-42ab-9da2-b545730b2655 | Cyclophosphamide | 5.4 Pulmonary Toxicity
+
+Pneumonitis, pulmonary fibrosis, pulmonary veno-occlusive disease and other forms of pulmonary toxicity leading to respiratory failure have been reported during and following treatment with cyclophosphamide. Late onset pneumonitis (greater than 6 months after start of cyclophosphamide) appears to be associated with increased mortality. Pneumonitis may develop years after treatment with cyclophosphamide.
+
+                        Monitor patients for signs and symptoms of pulmonary toxicity.

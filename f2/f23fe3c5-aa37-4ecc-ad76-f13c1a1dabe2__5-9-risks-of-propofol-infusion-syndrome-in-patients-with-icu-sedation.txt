@@ -1,0 +1,7 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 5.9 Risks of Propofol Infusion Syndrome in Patients with ICU Sedation
+
+Use of propofol injectable emulsion infusions for both adult and pediatric ICU sedation has been associated with a constellation of metabolic derangements and organ system failures, referred to as Propofol Infusion Syndrome, that have resulted in death. The syndrome is characterized by severe metabolic acidosis, hyperkalemia, lipemia, rhabdomyolysis, hepatomegaly, renal failure, ECG changes (Coved ST segment elevation -similar to ECG changes of the Brugada syndrome) and/or cardiac failure.
+
+                        The following appear to be major risk factors for the development of these events: decreased oxygen delivery to tissues; serious neurological injury and/or sepsis; high dosages of one or more of the following pharmacological agents: vasoconstrictors, steroids, inotropes and/or prolonged, high-dose infusions of propofol (> 5mg/kg/hour for > 48 hours). The syndrome has also been reported following large-dose, short-term infusions during surgical anesthesia. In the setting of prolonged need for sedation, increasing propofol dose requirements to maintain a constant level of sedation, or onset of metabolic acidosis during administration of a propofol infusion, consideration should be given to using alternative means of sedation.
+
+                        Prescribers should be alert to these events in patients with the above risk factors and immediately discontinue propofol when the above signs develop.

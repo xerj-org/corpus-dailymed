@@ -1,0 +1,11 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 5.4 Potassium Imbalances
+
+Hyperkalemia
+
+                        Potassium-containing solutions, including Lactated Ringer’s Injection, may increase the risk of hyperkalemia. This risk is increased in patients predisposed to hyperkalemia including those with severe renal impairment, acute dehydration, extensive tissue injury or burns, heart failure, or in those using concomitant drugs that are associated with hyperkalemia.
+
+                        Avoid use of Lactated Ringer’s Injection in patients with, or at increased risk for, hyperkalemia. If use cannot be avoided in these patients, closely monitor serum potassium concentrations.
+
+                           Hypokalemia
+
+                        The potassium concentration in Lactated Ringer’s Injection is similar to the concentration in plasma. It is insufficient to normalize the serum potassium in patients with severe hypokalemia.

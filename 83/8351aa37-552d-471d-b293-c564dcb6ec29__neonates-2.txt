@@ -1,0 +1,11 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | NEONATES
+
+Hyperbilirubinemic neonates, especially prematures, should not be treated with ceftriaxone. Ceftriaxone is contraindicated in premature neonates  (see
+                              CONTRAINDICATIONS
+                           ).
+
+                        Ceftriaxone is contraindicated in neonates (≤28 days) if they require (or are expected to require) treatment with calcium‑containing IV solutions, including continuous calcium‑containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see
+                              CONTRAINDICATIONS
+                           ).
+
+                        Intravenous doses should be given over 60 minutes in neonates to reduce the risk of bilirubin encephalopathy.

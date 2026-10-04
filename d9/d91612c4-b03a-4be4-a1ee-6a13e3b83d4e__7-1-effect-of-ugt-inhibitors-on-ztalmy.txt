@@ -1,0 +1,3 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 7.1 Effect of UGT Inhibitors on ZTALMY
+
+Concomitant use of ZTALMY and UGT inhibitors (e.g., valproic acid) may increase the exposure of ganaxolone, which may increase the risk of ZTALMY associated adverse reactions in patients who have titrated to a stable ZTALMY dosage. Consider a reduction of ZTALMY maintenance dosage when initiating a UGT inhibitor [see Clinical Pharmacology (12.3)].

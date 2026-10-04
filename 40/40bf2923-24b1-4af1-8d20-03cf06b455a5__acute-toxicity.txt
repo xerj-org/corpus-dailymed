@@ -1,0 +1,7 @@
+DailyMed 40bf2923-24b1-4af1-8d20-03cf06b455a5 | Carbamazepine | Acute Toxicity
+
+Lowest known lethal dose: adults, 3.2 g (a 24-year-old woman died of a cardiac arrest and a 24-year-old man died of pneumonia and hypoxic encephalopathy); children, 4 g (a 14-year-old girl died of a cardiac arrest), 1.6 g (a 3-year-old girl died of aspiration pneumonia).
+
+                        Oral LD
+
+  50in animals (mg/kg): mice, 1100 to 3750; rats, 3850 to 4025; rabbits, 1500 to 2680; guinea pigs, 920.

@@ -1,0 +1,92 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 14.1 Intravenous Ocrelizumab in Patients With Relapsing Forms of Multiple Sclerosis
+
+The efficacy of intravenous ocrelizumab was demonstrated in two randomized, double-blind, double-dummy, active comparator-controlled clinical trials of identical design, in patients with relapsing forms of multiple sclerosis (RMS) treated for 96 weeks (Study 1; NCT01247324 and Study 2; NCT01412333). The dose of intravenous ocrelizumab was 600 mg every 24 weeks (initial treatment was given as two 300 mg IV infusions administered 2 weeks apart, and subsequent doses were administered as a single 600 mg IV infusion) and placebo subcutaneous injections were given 3 times per week. The dose of REBIF, the active comparator, was 44 mcg given as subcutaneous injections 3 times per week and placebo IV infusions were given every 24 weeks. Both studies included patients who had experienced at least one relapse within the prior year, or two relapses within the prior two years, and had an Expanded Disability Status Scale (EDSS) score from 0 to 5.5. Patients with primary progressive forms of multiple sclerosis (MS) were excluded. Neurological evaluations were performed every 12 weeks and at the time of a suspected relapse. Brain MRIs were performed at baseline and at Weeks 24, 48, and 96.
+
+                        The primary outcome of both Study 1 and Study 2 was the annualized relapse rate (ARR). Additional outcome measures included the proportion of patients with confirmed disability progression, the mean number of MRI T1 gadolinium (Gd)-enhancing lesions at Weeks 24, 48, and 96, and new or enlarging MRI T2 hyperintense lesions. Progression of disability was defined as an increase of 1 point or more from the baseline EDSS score attributable to MS when the baseline EDSS score was 5.5 or less, or 0.5 points or more when the baseline EDSS score was above 5.5. Disability progression was considered confirmed when the increase in the EDSS was confirmed at a regularly scheduled visit 12 weeks after the initial documentation of neurological worsening. The primary population for analysis of confirmed disability progression was the pooled population from Studies 1 and 2.
+
+                        In Study 1, 410 patients were randomized to intravenous ocrelizumab and 411 to REBIF; 11% of intravenous ocrelizumab-treated patients and 17% of REBIF-treated patients did not complete the 96-week double-blind treatment period. The baseline demographic and disease characteristics were balanced between the two treatment groups. At baseline, the mean age of patients was 37 years; 66% were female. The mean time from MS diagnosis to randomization was 3.8 years, the mean number of relapses in the previous year was 1.3, and the mean EDSS score was 2.8; 74% of patients had not been treated with a non-steroid therapy for MS in the 2 years prior to the study. At baseline, 40% of patients had one or more T1 Gd-enhancing lesions (mean 1.8).
+
+                        In Study 2, 417 patients were randomized to intravenous ocrelizumab and 418 to REBIF; 14% of intravenous ocrelizumab-treated patients and 23% of REBIF-treated patients did not complete the 96-week double-blind treatment period. The baseline demographic and disease characteristics were balanced between the two treatment groups. At baseline, the mean age of patients was 37 years; 66% were female. The mean time from MS diagnosis to randomization was 4.1 years, the mean number of relapses in the previous year was 1.3, and the mean EDSS score was 2.8; 74% of patients had not been treated with a non-steroid therapy for MS in the 2 years prior to the study. At baseline, 40% of intravenous ocrelizumab-treated patients had one or more T1 Gd-enhancing lesions (mean 1.9).
+
+                        In Study 1 and Study 2, intravenous ocrelizumab significantly lowered the annualized relapse rate and the proportion of patients with disability progression confirmed at 12 weeks after onset compared to REBIF. Results for Study 1 and Study 2 are presented in Table 3 and Figure 1.
+
+                           Table 3	Key Clinical and MRI Endpoints in RMS Patients From Study 1 and Study 2
+
+                                 Endpoints |
+                                 Study 1 |
+                                 Study 2 |
+
+                                 Intravenous Ocrelizumab 600 mg |
+                                 REBIF 44 mcg three times a week |
+                                 Intravenous Ocrelizumab 600 mg |
+                                 REBIF 44 mcg three times a week |
+
+                                 every 24 weeks
+
+ N=410 |
+                                 N=411 |
+                                 every 24 weeks
+
+N=417 |
+                                 N=418 |
+
+                                    Clinical Endpoints
+                                  |
+
+                                 Annualized Relapse Rate (Primary Endpoint) |
+                                 0.156 |
+                                 0.292 |
+                                 0.155 |
+                                 0.290 |
+
+                                   Relative Reduction |
+                                 46% (p<0.0001) |
+                                 47% (p<0.0001) |
+
+                                 Proportion Relapse-free |
+                                 83% |
+                                 71% |
+                                 82% |
+                                 72% |
+
+                                 Proportion of Patients with 12-week Confirmed Disability ProgressionDefined as an increase of 1.0 point or more from the baseline Expanded Disability Status Scale (EDSS) score for patients with baseline score of 5.5 or less, or 0.5 or more when the baseline score is greater than 5.5, Kaplan-Meier estimates at Week 96.
+
+                                  |
+                                 9.8% Intravenous Ocrelizumab vs 15.2% REBIF |
+
+                                   Risk Reduction (Pooled AnalysisData prospectively pooled from Study 1 and Study 2.
+
+) |
+                                 40%; p=0.0006 |
+
+                                    MRI Endpoints
+                                  |
+
+                                 Mean number of T1 Gd-enhancing lesions per MRI scan |
+                                 0.016 |
+                                 0.286 |
+                                 0.021 |
+                                 0.416 |
+
+                                   Relative Reduction |
+                                 94% (p<0.0001) |
+                                 95% (p<0.0001) |
+
+                                 Mean number of new and/or enlarging T2 hyperintense lesions per MRI  |
+                                 0.323 |
+                                 1.413 |
+                                 0.325 |
+                                 1.904 |
+
+                                   Relative Reduction |
+                                 77% (p<0.0001) |
+                                 83% (p<0.0001) |
+
+                                    Figure 1 Kaplan-Meier PlotPre-specified pooled analysis of Study 1 and 2
+
+ of Time to Onset of Confirmed Disability Progression Sustained for at Least 12 Weeks With the Initial Event of Neurological Worsening Occurring During the Double-Blind Treatment Period in Pooled Studies 1 and 2 in Patients With RMS (Pooled ITT Population)
+                                  |
+
+                                  |
+
+                        In exploratory subgroup analyses of Study 1 and Study 2, the effect of intravenous ocrelizumab on annualized relapse rate and disability progression was similar in male and female patients.

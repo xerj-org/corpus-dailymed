@@ -1,0 +1,14 @@
+DailyMed bb6d9142-3647-4591-8f84-31b61b755634 | Oxazepam | Geriatric Use
+
+Clinical studies of oxazepam were not adequate to determine whether subjects aged 65 and over respond differently than younger subjects. Age (less than 80 years old) does not appear to have a clinically significant effect on oxazepam kinetics [see
+                                 CLINICAL PHARMACOLOGY
+                              ].
+
+                        Clinical circumstances, some of which may be more common in the elderly, such as hepatic or renal impairment, should be considered. Greater sensitivity of some older individuals to the effects of oxazepam (e.g., sedation, hypotension, paradoxical excitation) cannot be ruled out [see
+                                 PRECAUTIONS: General 
+                           and 
+
+                                 ADVERSE REACTIONS
+                              ]. In general, dose selection for oxazepam for elderly patients should be cautious, usually starting at the lower end of the dosing range [see
+                                 DOSAGE AND ADMINISTRATION
+                              ].

@@ -1,0 +1,13 @@
+DailyMed 1ac7a13e-3f30-e140-e063-6394a90aa09d | Valacyclovir | 14.4 Chickenpox
+
+The use of valacyclovir tablets for treatment of chickenpox in pediatric subjects aged 2 to less than 18 years is based on single-dose pharmacokinetic and multiple-dose safety data from an open-label trial with valacyclovir and supported by safety and extrapolated efficacy data from 3 randomized, double-blind, placebo-controlled trials evaluating oral acyclovir in pediatric subjects.
+
+                        The single-dose pharmacokinetic and multiple-dose safety trial enrolled 27 pediatric subjects aged 1 to less than 12 years with clinically suspected VZV infection. Each subject was dosed with valacyclovir oral suspension, 20 mg/kg 3 times daily for 5 days. Acyclovir systemic exposures in pediatric subjects following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of herpes zoster. The mean projected daily acyclovir exposures in pediatric subjects across all age-groups (1 to less than 12 years) were lower (C
+
+  max: ↓13%, AUC: ↓30%)than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily. The projected daily exposures in pediatric subjects were greater (daily AUC approximately 100% greater) than the exposures seen in immunocompetent pediatric subjects receiving acyclovir 20 mg/kg 4 times daily for the treatment of chickenpox. Based on the pharmacokinetic and safety data from this trial and the safety and extrapolated efficacy data from the acyclovir trials, oral valacyclovir 20 mg/kg 3 times a day for 5 days (not to exceed 1 gram 3 times daily) is recommended for the treatment of chickenpox in pediatric patients aged 2 to less than 18 years. Because the efficacy and safety of acyclovir for the treatment of chickenpox in children aged less than 2 years have not been established, efficacy data cannot be extrapolated to support valacyclovir treatment in children aged less than 2 years with chickenpox.
+
+                        Valacyclovir is also not recommended for the treatment of herpes zoster in children because safety data up to 7 days' duration are not available
+
+  [see
+
+   Use in Specific Populations (8.4)].

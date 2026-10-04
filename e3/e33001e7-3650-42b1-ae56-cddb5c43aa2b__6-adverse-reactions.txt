@@ -1,0 +1,13 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions can occur with SCEMBLIX and are discussed in greater detail in other sections of the labeling:
+
+                     Myelosuppression [see Warnings and Precautions (5.1)]
+
+                     Pancreatic Toxicity [see Warnings and Precautions (5.2)]
+
+                     Hypertension [see Warnings and Precautions (5.3)]
+
+                     Hypersensitivity [see Warnings and Precautions (5.4)]
+
+                     Cardiovascular Toxicity [see Warnings and Precautions (5.5)]

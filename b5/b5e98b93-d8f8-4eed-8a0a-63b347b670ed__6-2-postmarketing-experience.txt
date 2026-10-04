@@ -1,0 +1,65 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of sertraline hydrochloride tablets. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                              Bleeding or Clotting Disorders
+
+                        Increased coagulation times (altered platelet function)
+
+                              Cardiac Disorders
+
+                        AV block, bradycardia, atrial arrhythmias, QTc-interval prolongation, ventricular tachycardia (including Torsade de Pointes) [See Clinical Pharmacology (12.2)]
+
+                              Endocrine Disorders
+
+                        Gynecomastia, hyperprolactinemia, menstrual irregularities, SIADH
+
+                              Eye Disorders
+
+                        Blindness, optic neuritis, cataract
+
+                              Hepatobiliary Disorders
+
+                        Severe liver events (including hepatitis, jaundice, liver failure with some fatal outcomes), pancreatitis
+
+                              Hemic and Lymphatic
+
+                              Disorders
+
+                        Agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness
+
+                              Immune System Disorders
+
+                        Angioedema
+
+                              Metabolism and Nutrition Disorders
+
+                        Hyponatremia, hyperglycemia
+
+                              Musculoskeletal and Connective Tissue Disorders
+
+                        Rhabdomyolysis, trismus
+
+                              Nervous System Disorders
+
+                        Serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
+
+                              Psychiatric Disorders
+
+                        Psychosis, enuresis, paroniria
+
+                              Renal and Urinary Disorders
+
+                        Acute renal failure
+
+                              Respiratory, Thoracic and Mediastinal Disorders
+
+                        Pulmonary hypertension, eosinophilic pneumonia, anosmia, hyposmia
+
+                              Skin and Subcutaneous Tissue Disorders
+
+                        Photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN)
+
+                              Vascular Disorders
+
+                        Cerebrovascular spasm (including reversible cerebral vasoconstriction syndrome and Call- Fleming syndrome), vasculitis

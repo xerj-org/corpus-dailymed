@@ -1,0 +1,156 @@
+DailyMed 9dff10ec-6a55-47b6-a458-b7c39e32dc55 | Temozolomide | 2.2 Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma
+
+Administer Temozolomide once daily for 42 to 49 consecutive days during the concomitant use phase with focal radiotherapy and then once daily on Days 1 to 5 of each 28-day cycle for 6 cycles during the maintenance use phase.
+
+                        Provide Pneumocystis pneumonia (PCP) prophylaxis during the concomitant use phase and continue in patients who develop lymphopenia until resolution to Grade 1 or less [see Warnings and Precautions (5.3)].
+
+                           Concomitant Use Phase:
+
+  The recommended dosage of Temozolomide is 75 mg/ m2 once daily for 42 days to 49 days in combination with focal radiotherapy. Focal radiotherapy includes the tumor bed or resection site with a 2 to 3 cm margin.
+
+                        Other administration schedules have been used.
+
+                        Obtain a complete blood count weekly. The recommended dosage modifications due to adverse reactions during concomitant use phase are provided in
+
+  Table 1.
+
+                           TABLE 1:Dosage Modifications Due to Adverse Reactions During Concomitant Use Phase
+
+                                    Adverse Reaction
+                                  |
+
+                                    Interruption
+                                  |
+
+                                    Discontinuation
+                                  |
+
+                                    Absolute Neutrophil Count
+                                  |
+
+                                    Withhold Temozolomide if ANC is greater than or equal to 0.5 x 10
+
+      9/L and less than 1.5 x 10
+
+      9/L.
+
+                                    Resume Temozolomide at the same dose when ANC is greater than or equal to 1.5 x 10
+
+      9/L.
+
+                                  |
+                                 Discontinue Temozolomide if ANC count is less than 0.5 x 10
+
+     9/L.
+
+     |
+
+                                    Platelet Count
+                                  |
+
+                                    Withhold Temozolomide if platelet count is greater than or equal to 10 x 10
+
+      9/L and less than 100 x 10
+
+      9/L.
+
+                                    Resume Temozolomide at the same dose when platelet count is greater than or equal to 100 x 10
+
+      9/L.
+
+                                  |
+                                 Discontinue Temozolomide if platelet count is less than 10 x 10
+
+     9/L.
+
+     |
+
+                                    Non-hematological Adverse Reaction (except for alopecia, nausea, vomiting)
+                                  |
+
+                                    Withhold Temozolomide if Grade 2 adverse reaction occurs.
+
+                                    Resume Temozolomide at the same dose when resolution to Grade 1 or less.
+
+                                  |
+                                 Discontinue Temozolomide if Grade 3 or 4 adverse reaction occurs. |
+
+                           Single Agent Maintenance Use Phase:
+
+                        Beginning 4 weeks after concomitant use phase completion, administer Temozolomide once daily on Days 1 to 5 of each 28-day cycle for 6 cycles. The recommended dosage of Temozolomide in the maintenance use phase is:
+
+                        • Cycle 1: 150 mg/ m2 per day on days 1 to 5.
+
+  • Cycles 2 to 6: May increase to 200 mg/m2 per day on days 1 to 5 before starting Cycle 2 if no dosage interruptions or discontinuation are required (Table 1). If the dose is not escalated at the onset of Cycle 2,
+
+  do notincrease the dose for Cycles 3 to 6.
+
+                        Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1.5 x 109/L and the platelet count is above 100 x 109/L. Do not start the next cycle until the ANC and platelet count exceed these levels.
+
+                        The recommended dosage modifications due to adverse reactions during the the maintenance use phase are provided in
+
+  Table 2.
+
+                        If Temozolomide is withheld, reduce the dose for the next cycle by 50 mg/m2 per day. Permanently discontinue Temozolomide in patients who are unable to tolerate a dose of 100 mg/m2 per day.
+
+                           TABLE 2: Dosage Modifications Due to Adverse Reactions During Maintenance and Adjuvant Treatment
+
+                                    Adverse Reactions
+                                  |
+
+                                    Interruption and Dose Reduction
+                                  |
+
+                                    Discontinuation
+                                  |
+
+                                       Absolute Neutrophil Count
+
+                                  |
+                                 Withhold Temozolomide if ANC less than 1 x 10
+
+     9/L. When ANC is above 1.5 x 10
+
+     9/L, resume Temozolomide at reduced dose for the next cycle.
+
+     |
+
+                                    Discontinue Temozolomide if unable to tolerate a dose of 100 mg/m
+
+      2per day.
+
+                                  |
+
+                                       Platelet Count
+
+                                  |
+
+                                    Withhold Temozolomide if platelet less than 50 x 10
+
+      9/L.
+
+                                    When platelet count is above 100 x 10
+
+      9/L, resume Temozolomide at reduced dose for the next cycle.
+
+                                  |
+
+                                    Discontinue Temozolomide if unable to tolerate a dose of 100 mg/m
+
+      2per day.
+
+                                  |
+
+                                       Nonhematological Adverse Reaction (except for alopecia, nausea, vomiting)
+
+                                  |
+                                 Withhold Temozolomide if Grade 3 adverse reaction occurs.
+
+  When resolved to Grade 1 or less, resume Temozolomide at reduced dose for the next cycle.
+     |
+
+                                    Discontinue Temozolomide if recurrent Grade 3 adverse reaction occurs after dose reduction, if Grade 4 adverse reaction occurs, or if unable to tolerate a dose of 100mg/m
+
+      2per day.
+
+                                  |

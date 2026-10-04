@@ -1,0 +1,7 @@
+DailyMed cbe5bd6a-f36a-4557-82d8-ef4e49d310e9 | Temazepam | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenicity studies were conducted in rats at dietary temazepam doses up to 160 mg/kg/day for 24 months and in mice at dietary doses of 160 mg/kg/day for 18 months. No evidence of carcinogenicity was observed although hyperplastic liver nodules were observed in female mice exposed to the highest dose. The clinical significance of this finding is not known.
+
+                        Fertility in male and female rats was not adversely affected by temazepam capsules.
+
+                        No mutagenicity tests have been done with temazepam.

@@ -1,0 +1,11 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 12.2 Pharmacodynamics
+
+Exposure-Response Relationships
+
+                        There are no clinically significant exposure-response relationships for efficacy over the exposure range observed between tarlatamab-dlle 10 mg and 100 mg (10 times the highest approved recommended dosage).
+
+                        There is an exposure-response relationship between tarlatamab-dlle exposure and neutropenia or neurologic toxicity including ICANS with a higher risk of any grade neutropenia or neurologic toxicity including ICANS at higher exposure.
+
+                           Serum Cytokines
+
+                        Transient elevation of serum cytokines IL-2, IL-6, IL-8, IL-10, and IFN-γ were observed at a tarlatamab-dlle dosage of 0.3 mg and above. Peak elevation of cytokines was generally observed 24 hours following the initial dose of IMDELLTRA at 1 mg on Cycle 1 Day 1 and generally returned to baseline levels prior to the next infusion on Cycle 1 Day 8.

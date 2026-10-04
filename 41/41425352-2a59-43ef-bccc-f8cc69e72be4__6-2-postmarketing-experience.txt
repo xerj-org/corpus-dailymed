@@ -1,0 +1,27 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of Piroxicam Capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Body as a Whole: Fever, infection, sepsis, anaphylactic reactions, appetite changes, death, flu-like syndrome, pain (colic), serum sickness
+
+                           Cardiovascular System:Congestive heart failure, hypertension, tachycardia, syncope, arrhythmia, exacerbation of angina, hypotension, myocardial infarction, vasculitis
+
+                           Digestive System:Dyspepsia, elevated liver enzymes, gross bleeding/perforation, heartburn, ulcers (gastric/duodenal), dry mouth, esophagitis, gastritis, glossitis, hematemesis, hepatitis, jaundice, melena, rectal bleeding, eructation, liver failure, pancreatitis
+
+                           Hemic and Lymphatic System:Anemia, increased bleeding time, ecchymosis, eosinophilia, epistaxis, leukopenia, purpura, petechial rash, thrombocytopenia, agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopenia
+
+                           Hypersensitivity:Positive ANA
+
+                           Metabolic and Nutritional:Weight changes, Fluid retention, hyperglycemia, hypoglycemia
+
+                           Nervous System:Anxiety, asthenia, confusion, depression, dream abnormalities, insomnia, malaise, nervousness, paresthesia, somnolence, tremors, akathisia, convulsions, coma, hallucinations, meningitis, mood alterations
+
+                           Respiratory System:Asthma, dyspnea, respiratory depression, pneumonia
+
+                           Skin and Appendages:Alopecia, bruising, desquamation, erythema, photosensitivity, sweat, angioedema, toxic epidermal necrosis, erythema multiforme, exfoliative dermatitis, onycholysis, Stevens Johnson Syndrome, fixed drug eruption (FDE), urticaria, vesiculobullous reaction
+
+                           Special Senses:Conjunctivitis, hearing impairment, swollen eyes
+
+                           Urogenital System:Abnormal renal function, cystitis, dysuria, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, oliguria/polyuria, proteinuria, renal failure, glomerulonephritis
+
+                           Reproductive System and Breast Disorders:Female fertility decreased

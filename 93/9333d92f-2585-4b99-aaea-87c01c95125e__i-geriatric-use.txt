@@ -1,0 +1,7 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | I. Geriatric Use.
+
+The safety and efficacy of estradiol tablets in geriatric patients has not been established. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greatest frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+
+                        In the Women’s Health Initiative Memory Study, including 4,532 women 65 years of age and older, followed for an average of 4 years, 82% (n = 3,729) were 65 to 74 while 18% (n = 803) were 75 and over. Most women (80%) had no prior hormone therapy use. Women treated with conjugated estrogens plus medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia. Alzheimer’s disease was the most common classification of probable dementia in both the conjugated estrogens plus medroxyprogesterone acetate group and the placebo group. Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70 (See WARNINGS, Dementia).
+
+                        It is unknown whether these findings apply to estrogen alone therapy.

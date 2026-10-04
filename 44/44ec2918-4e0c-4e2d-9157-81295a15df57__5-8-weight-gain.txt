@@ -1,0 +1,15 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 5.8 Weight Gain
+
+Pregabalin treatment may cause weight gain. In pregabalin controlled clinical trials in adult patients of up to 14 weeks, a gain of 7% or more over baseline weight was observed in 9% of pregabalin-treated patients and 2% of placebo-treated patients. Few patients treated with pregabalin (0.3%) withdrew from controlled trials due to weight gain. Pregabalin associated weight gain was related to dose and duration of exposure but did not appear to be associated with baseline BMI, gender, or age. Weight gain was not limited to patients with edema
+
+  [see
+
+                              Warnings and Precautions (5.7)].
+
+  Although weight gain was not associated with clinically important changes in blood pressure in short-term controlled studies, the long-term cardiovascular effects of pregabalin-associated weight gain are unknown.
+
+   Among diabetic patients, pregabalin-treated patients gained an average of 1.6 kg (range: -16 to 16 kg), compared to an average 0.3 kg (range: -10 to 9 kg) weight gain in placebo patients. In a cohort of 333 diabetic patients who received pregabalin for at least 2 years, the average weight gain was 5.2 kg.
+
+  While the effects of pregabalin-associated weight gain on glycemic control have not been systematically assessed, in controlled and longer-term open label clinical trials with diabetic patients, pregabalin treatment did not appear to be associated with loss of glycemic control (as measured by HbA
+
+  1C).

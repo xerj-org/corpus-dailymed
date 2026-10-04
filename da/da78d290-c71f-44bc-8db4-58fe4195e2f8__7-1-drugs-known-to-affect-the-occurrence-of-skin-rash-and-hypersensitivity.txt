@@ -1,0 +1,29 @@
+DailyMed da78d290-c71f-44bc-8db4-58fe4195e2f8 | Allopurinol | 7.1 Drugs Known to Affect the Occurrence of Skin Rash and Hypersensitivity
+
+Concomitant use of the following drugs may increase the risk of skin rash, which may be severe: bendamustine, thiazide diuretics, ampicillin and amoxicillin. Renal impairment may further increase risk with concomitant use of thiazide diuretics
+
+  [see
+
+   Warnings and Precautions (5.1, 
+
+   5.2)and
+
+   Clinical Pharmacology (12.2)]
+
+  .
+
+                        Monitor kidney function and reduce the dose of allopurinol in patients with concomitant thiazide diuretic use and impaired renal function
+
+  [see
+
+   Dosage and Administration (2.6),
+
+   Warnings and Precautions (5.1)].
+
+                        Discontinue allopurinol at the first appearance of skin rash or other signs which may indicate a hypersensitivity reaction when use concomitantly with these drugs
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .

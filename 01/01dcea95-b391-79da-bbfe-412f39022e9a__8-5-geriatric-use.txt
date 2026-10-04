@@ -1,0 +1,7 @@
+DailyMed 01dcea95-b391-79da-bbfe-412f39022e9a | Prucalopride | 8.5 Geriatric Use
+
+Of the 2,484 patients treated with prucalopride tablets 1 mg or 2 mg once daily in 6 controlled trials of at least 12-week duration in patients with CIC, 15% were 65 years of age and over, and 5% were 75 years of age and over [see Clinical Studies (14)]. No overall differences in safety and effectiveness were observed between elderly and younger patients.
+
+                        In an additional 4-week double-blind, placebo-controlled dose escalation study in 89 elderly nursing home residents with CIC (PRU-USA-26, NCT00627692), no unanticipated safety issues were identified.
+
+                        Elderly subjects had higher prucalopride exposure compared to younger subjects. However, the effect of age on the pharmacokinetics of prucalopride appeared to be related to decreased renal function [see Clinical Pharmacology (12.3)]. Adjust the dosage in elderly patients based on renal function [see Dosage and Administration (2), Use in Specific Populations (8.6)].

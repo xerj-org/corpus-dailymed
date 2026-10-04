@@ -1,0 +1,11 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 2.4 Dosage Modifications for Patients with Severe or Moderate Hepatic Impairment
+
+Avoid administration of ZEPZELCA in patients with severe hepatic impairment (total bilirubin > 3 × Upper Limit of Normal (ULN)). If administration of ZEPZELCA cannot be avoided, the recommended dosage is 1.6 mg/m2 by intravenous infusion over 60 minutes every 21 days until disease progression or unacceptable toxicity [see
+
+                              Use In Specific Populations (8.6)
+
+                            and Clinical Pharmacology (12.3)].
+
+                        In patients with moderate hepatic impairment (total bilirubin > 1.5 to ≤ 3 × ULN and any AST), the recommended dosage of ZEPZELCA is 1.6 mg/m2 by intravenous infusion over 60 minutes every 21 days until disease progression or unacceptable toxicity.
+
+                        For patients with baseline severe or moderate hepatic impairment who experience intolerable adverse reactions at the 1.6 mg/m2 recommended dosage, permanently discontinue ZEPZELCA.

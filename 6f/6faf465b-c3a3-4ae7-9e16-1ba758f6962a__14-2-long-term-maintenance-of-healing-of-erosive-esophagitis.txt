@@ -1,0 +1,262 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
+
+Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed EE to demonstrate efficacy of pantoprazole sodium delayed-release tablets in long-term maintenance of healing. The two U.S. studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of pantoprazole sodium delayed-release tablets once daily or 150 mg of ranitidine twice daily. As demonstrated in Table 10, pantoprazole sodium delayed-release tablets 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing. In addition, pantoprazole sodium delayed-release tablets 40 mg were superior to all other treatments studied.
+
+                           Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
+
+                                 Note: Pantoprazole sodium delayed-release tablets 10 mg were superior (p < 0.05) to ranitidine in Study 2, but not Study 1. |
+
+                                  |
+
+                                       Pantoprazole Sodium Delayed-Release Tablets
+
+                                       20 mg daily
+
+                                  |
+
+                                       Pantoprazole Sodium Delayed-Release Tablets
+
+                                       40 mg daily
+
+                                  |
+
+                                       Ranitidine
+
+                                       150 mg twice daily
+
+                                  |
+
+                                       Study 1
+
+                                  |
+
+                                    n = 75
+
+                                  |
+
+                                    n = 74
+
+                                  |
+
+                                    n = 75
+
+                                  |
+
+                                    Month 1
+
+                                  |
+
+                                    91(p < 0.05 vs. ranitidine)
+
+                                  |
+
+                                    99
+
+                                  |
+
+                                    68
+
+                                  |
+
+                                    Month 3
+
+                                  |
+
+                                    82
+
+                                  |
+
+                                    93
+                                       (p < 0.05 vs. pantoprazole sodium delayed-release tablets 20 mg)
+
+                                  |
+
+                                    54
+
+                                  |
+
+                                    Month 6
+
+                                  |
+
+                                    76
+
+                                  |
+
+                                    90
+
+                                  |
+
+                                    44
+
+                                  |
+
+                                    Month 12
+
+                                  |
+
+                                    70
+
+                                  |
+
+                                    86
+
+                                  |
+
+                                    35
+
+                                  |
+
+                                       Study 2
+
+                                  |
+
+                                    n = 74
+
+                                  |
+
+                                    n = 88
+
+                                  |
+
+                                    n = 84
+
+                                  |
+
+                                    Month 1
+
+                                  |
+
+                                    89
+
+                                  |
+
+                                    92
+
+                                  |
+
+                                    62
+
+                                  |
+
+                                    Month 3
+
+                                  |
+
+                                    78
+
+                                  |
+
+                                    91
+
+                                  |
+
+                                    47
+
+                                  |
+
+                                    Month 6
+
+                                  |
+
+                                    72
+
+                                  |
+
+                                    88
+
+                                  |
+
+                                    39
+
+                                  |
+
+                                    Month 12
+
+                                  |
+
+                                    72
+
+                                  |
+
+                                    83
+
+                                  |
+
+                                    37
+
+                                  |
+
+                        Pantoprazole sodium delayed-release tablets 40 mg were superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment. Pantoprazole sodium delayed-release tablets 20 mg, administered once daily, were also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 11.
+
+                           Table 11: Number of Episodes of Heartburn (mean ± SD)
+
+                                  |
+
+                                       Pantoprazole Sodium Delayed-Release Tablets
+
+                                       40 mg daily
+
+                                  |
+
+                                       Ranitidine
+
+                                       150 mg twice daily
+
+                                  |
+
+                                    Month 1
+
+                                  |
+
+                                    Daytime
+
+                                  |
+
+                                    5.1 ± 1.6(p < 0.001 vs. ranitidine, combined data from the two U.S. studies)
+
+                                  |
+
+                                    18.3 ± 1.6
+
+                                  |
+
+                                    Nighttime
+
+                                  |
+
+                                    3.9 ± 1.1
+
+                                  |
+
+                                    11.9 ± 1.1
+
+                                  |
+
+                                    Month 12
+
+                                  |
+
+                                    Daytime
+
+                                  |
+
+                                    2.9 ± 1.5
+
+                                  |
+
+                                    17.5 ± 1.5
+
+                                  |
+
+                                    Nighttime
+
+                                  |
+
+                                    2.5 ± 1.2
+
+                                  |
+
+                                    13.8 ± 1.3
+
+                                  |

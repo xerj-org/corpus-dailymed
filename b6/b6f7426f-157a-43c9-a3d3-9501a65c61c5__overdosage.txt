@@ -1,0 +1,8 @@
+DailyMed b6f7426f-157a-43c9-a3d3-9501a65c61c5 | DIPHENHYDRAMINE | OVERDOSAGE
+
+Antihistamine overdosage reactions may vary from central nervous system depression to stimulation. Stimulation is particularly likely in pediatric patients. Atropine-like signs and symptoms; dry mouth; fixed, dilated pupils; flushing; and gastrointestinal symptoms may also occur.
+
+  Stimulants
+  should not be used.
+
+  Vasopressors may be used to treat hypotension.

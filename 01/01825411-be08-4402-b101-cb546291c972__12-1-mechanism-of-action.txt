@@ -1,0 +1,3 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 12.1 Mechanism of Action
+
+Rocuronium bromide is a nondepolarizing neuromuscular blocking agent with a rapid to intermediate onset depending on dose and intermediate duration. It acts by competing for cholinergic receptors at the motor end-plate. This action is antagonized by acetylcholinesterase inhibitors, such as neostigmine and edrophonium.

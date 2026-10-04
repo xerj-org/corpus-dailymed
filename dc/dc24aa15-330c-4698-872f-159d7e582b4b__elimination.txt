@@ -1,0 +1,3 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | Elimination
+
+The majority of MPA dose administered is eliminated in the urine primarily as MPAG (> 60%) and approximately 3% as unchanged MPA following mycophenolic acid delayed release administration to stable renal transplant patients. The mean renal clearance of MPAG was 15.5 (± 5.9) mL/min. MPAG is also secreted in the bile and available for deconjugation by gut flora. MPA resulting from the deconjugation may then be reabsorbed and produce a second peak of MPA approximately 6 to 8 hours after mycophenolic acid delayed release dosing. The mean elimination half-life of MPA and MPAG ranged between 8 and 16 hours, and 13 and 17 hours, respectively.

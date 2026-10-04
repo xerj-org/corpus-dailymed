@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Tolerance
+
+Tolerance to diazepam tablets may develop from continued therapy. Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose). Tolerance to the therapeutic effect of diazepam tablets may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.

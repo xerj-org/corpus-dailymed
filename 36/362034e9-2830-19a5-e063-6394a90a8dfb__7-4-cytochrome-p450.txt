@@ -1,0 +1,11 @@
+DailyMed 362034e9-2830-19a5-e063-6394a90a8dfb | ANASTROZOLE | 7.4 Cytochrome P450
+
+Based on
+
+  in vitroand
+
+  in vivoresults, it is unlikely that co-administration of anastrozole tablets 1 mg will affect other drugs as a result of inhibition of cytochrome P450
+
+  [see
+
+   Clinical Pharmacology (12.3)].

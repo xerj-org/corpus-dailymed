@@ -1,0 +1,23 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 6 ADVERSE REACTIONS
+
+The following adverse reactions are included in more detail in other sections of the prescribing information:
+
+                     Suicidal thoughts and behaviors [see Warnings and Precautions (5.1)]
+
+                     Serotonin syndrome [see Warnings and Precautions (5.2)]
+
+                     Increased risk of bleeding [see Warnings and Precautions (5.5)]
+
+                     Activation of mania/hypomania [see Warnings and Precautions (5.6)]
+
+                     Discontinuation syndrome [see Warnings and Precautions (5.7)]
+
+                     Seizures [see Warnings and Precautions (5.8)]
+
+                     Angle-closure glaucoma [see Warnings and Precautions (5.9)]
+
+                     Hyponatremia [see Warnings and Precautions (5.10)]
+
+                     Sexual Dysfunction [see Warnings and Precautions (5.11)]
+
+                     Fracture [see Warnings and Precautions (5.12)]

@@ -1,0 +1,14 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Hematologic
+
+Cases of thrombotic microangiopathy, including thrombotic thrombocytopenic purpura and hemolytic uremic syndrome, have been reported (see
+
+                              WARNINGS
+                           ).
+
+                        Thrombocytopenia has occurred primarily with high dose intermittent therapy, but has also been noted after resumption of interrupted treatment. It rarely occurs during well-supervised daily therapy. This effect is reversible if the drug is discontinued as soon as purpura occurs. Cerebral hemorrhage and fatalities have been reported when rifampin administration has been continued or resumed after the appearance of purpura.
+
+                        Rare reports of disseminated intravascular coagulation have been observed.
+
+                        Leukopenia, hemolytic anemia, decreased hemoglobin, bleeding, and vitamin K–dependent coagulation disorders (abnormal prolongation of prothrombin time or low vitamin K–dependent coagulation factors) have been observed.
+
+                        Agranulocytosis has been reported very rarely.

@@ -1,0 +1,11 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 2.5 Discontinuation for Iodinated Contrast Imaging Procedures
+
+Discontinue dapagliflozin and metformin HCl extended-release tablets at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR less than 60 mL/min/1.73 m
+
+  2, in patients with a history of liver disease, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast. Re-evaluate eGFR 48 hours after the imaging procedure; restart dapagliflozin and metformin HCl extended-release tablets if renal function is stable
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .

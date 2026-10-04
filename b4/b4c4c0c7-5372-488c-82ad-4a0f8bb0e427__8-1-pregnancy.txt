@@ -1,0 +1,23 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage (see Data). There are risks of poor neonatal adaptation with exposure to tricyclic antidepressants (TCAs), including doxepin, during pregnancy (see Clinical Considerations). In animal reproduction studies, oral administration of doxepin to rats and rabbits during the period of organogenesis caused adverse developmental effects at doses 65 and 23 times the maximum recommended human dose (MRHD) of 6 mg/day based on AUC, respectively. Oral administration of doxepin to pregnant rats during pregnancy and lactation resulted in decreased pup survival and a delay in pup growth at doses 60 times the MRHD based on AUC (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of major birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Fetal/Neonatal adverse reactions
+
+                        Neonates exposed to TCAs, including doxepin, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding. Such complications can arise immediately upon delivery. Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hyperreflexia, tremor, jitteriness, irritability and constant crying. These findings are consistent with either direct toxic effects of TCAs or possibly a drug discontinuation syndrome. Monitor neonates who were exposed to doxepin in the third trimester of pregnancy for poor neonatal adaptation syndrome.
+
+                           Data
+
+                           Human Data
+
+                        Published epidemiologic studies of pregnant women exposed to TCAs, including doxepin, have not established an association with major birth defects, miscarriage or adverse maternal outcomes. Methodological limitations of these observational studies include small sample size and lack of adequate controls.
+
+                           Animal Data
+
+                        When doxepin (30, 100, and 150 mg/kg/day) was administered orally to pregnant rats during the period of organogenesis, developmental toxicity (increased incidences of fetal structural abnormalities consisting of non-ossified bones in the skull and sternum and decreased fetal body weights) and maternal toxicity were noted at ≥100 mg/kg/day, which produced plasma exposures(AUCs) of doxepin and nordoxepin (the primary metabolite in humans) approximately 65 and 53 times, respectively, the plasma AUCs at the MRHD. The plasma exposures at the no-effect dose for embryo-fetal developmental toxicity in rats (30 mg/kg/day) are approximately 6 and 5 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD. When doxepin (10, 30, and 60 mg/kg/day) was administered orally to pregnant rabbits during the period of organogenesis, fetal body weights were reduced at the highest dose in the absence of maternal toxicity, which produced plasma AUCs of doxepin and nordoxepin approximately 23 and 56 times, respectively, the plasma AUCs at the MRHD. The plasma exposures at the no-effect dose for developmental effects (30 mg/kg/day) are approximately 8 and 25 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD. Oral administration of doxepin (10, 30, and 100 mg/kg/day) to rats throughout pregnancy and lactation resulted in decreased pup survival and transient growth delay at the highest dose, which produced plasma AUCs of doxepin and nordoxepin approximately 60 and 39 times, respectively, the plasma AUCs at the MRHD. The plasma exposures at the no-effect dose for adverse effects on pre- and postnatal development in rats (30 mg/kg/day) are approximately 2 and 1 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD.

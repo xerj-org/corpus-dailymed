@@ -1,0 +1,15 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 8.2 Lactation
+
+Risk Summary
+
+                         
+
+                        There are no data on the presence of nilotinib or its metabolites in human milk or its effects on a breastfed child or on milk production. However, nilotinib is present in the milk of lactating rats. Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with Nilotinib Capsules and for 14 days after the last dose.
+
+                         
+
+                           Animal Data
+
+                         
+
+                        After a single 20 mg/kg of [14C] nilotinib dose to lactating rats, the transfer of parent drug and its metabolites into milk was observed. The overall milk-to-plasma exposure ratio of total radioactivity was approximately 2, based on the AUC0-24h or AUC0-INF values. No rat metabolites of nilotinib were detected that were unique to milk.

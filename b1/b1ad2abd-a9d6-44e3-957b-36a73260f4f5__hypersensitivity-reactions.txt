@@ -1,0 +1,3 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Hypersensitivity Reactions
+
+There have been postmarketing reports of hypersensitivity reactions with haloperidol. These include anaphylactic reaction, angioedema, dermatitis exfoliative, hypersensitivity vasculitis, rash, urticaria, face edema, laryngeal edema, bronchospasm, and laryngospasm (see ADVERSE REACTIONS). Haloperidol injection is contraindicated in patients with hypersensitivity to this drug (see CONTRAINDICATIONS).

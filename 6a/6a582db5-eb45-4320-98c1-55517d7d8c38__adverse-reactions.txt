@@ -1,0 +1,153 @@
+DailyMed 6a582db5-eb45-4320-98c1-55517d7d8c38 | Isosorbide Mononitrate | ADVERSE REACTIONS
+
+The table below shows the frequencies of the adverse events that occurred in >5% of the subjects in three placebo-controlled North American studies, in which patients in the active treatment arm received 30 mg, 60 mg, 120 mg, or 240 mg of isosorbide mononitrate extended-release tablets once daily. In parentheses, the same table shows the frequencies with which these adverse events were associated with the discontinuation of treatment. Overall, 8% of the patients who received 30 mg, 60 mg, 120 mg, or 240 mg of isosorbide mononitrate in the three placebo-controlled North American studies discontinued treatment because of adverse events. Most of these discontinued because of headache. Dizziness was rarely associated with withdrawal from these studies. Since headache appears to be a dose-related adverse effect and tends to disappear with continued treatment, it is recommended that ISMN treatment be initiated at low doses for several days before being increased to desired levels.
+
+                     FREQUENCY AND ADVERSE EVENTS (DISCONTINUED)
+   Some individuals discontinued for multiple reasons.
+
+                              Three Controlled North American Studies
+
+                            |
+
+                              Dose
+
+                            |
+
+                              Placebo
+
+                            |
+
+                              30mg
+
+                            |
+
+                              60mg
+
+                            |
+
+                              120mg
+      Patients were started on 60 mg and titrated to their final dose.
+
+                            |
+
+                              240mg
+
+                            |
+
+                              Patients
+
+                            |
+
+                              96
+
+                            |
+
+                              60
+
+                            |
+
+                              102
+
+                            |
+
+                              65
+
+                            |
+
+                              65
+
+                            |
+
+                              Headache
+
+                            |
+
+                              15% (0%)
+
+                            |
+
+                              38% (5%)
+
+                            |
+
+                              51% (8%)
+
+                            |
+
+                              42% (5%)
+
+                            |
+
+                              57% (8%)
+
+                            |
+
+                              Dizziness
+
+                            |
+
+                              4% (0%)
+
+                            |
+
+                              8% (0%)
+
+                            |
+
+                              11% (1%)
+
+                            |
+
+                              9% (2%)
+
+                            |
+
+                              9% (2%)
+
+                            |
+
+                  In addition, the three North American trials were pooled with 11 controlled trials conducted in Europe. Among the 14 controlled trials, a total of 711 patients were randomized to isosorbide mononitrate extended-release tablets. When the pooled data were reviewed, headache and dizziness were the only adverse events that were reported by >5% of patients. Other adverse events, each reported by ≤5% of exposed patients, and in many cases of uncertain relation to drug treatment, were:
+
+                     Autonomic Nervous System Disorders: Dry mouth, hot flushes.
+
+                     Body as a Whole: Asthenia, back pain, chest pain, edema, fatigue, fever, flu-like symptoms, malaise, rigors.
+
+                     Cardiovascular Disorders, General: Cardiac failure, hypertension, hypotension.
+
+                     Central and Peripheral Nervous System Disorders: Dizziness, headache, hypoesthesia, migraine, neuritis, paresis, paresthesia, ptosis, tremor, vertigo.
+
+                     Gastrointestinal System Disorders: Abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gastric ulcer, gastritis, glossitis, hemorrhagic gastric ulcer, hemorrhoids, loose stools, melena, nausea, vomiting.
+
+                     Hearing and Vestibular Disorders: Earache, tinnitus, tympanic membrane perforation.
+
+                     Heart Rate and Rhythm Disorders: Arrhythmia, arrhythmia atrial, atrial fibrillation, bradycardia, bundle branch block, extrasystole, palpitation, tachycardia, ventricular tachycardia.
+
+                     Liver and Biliary System Disorders: SGOT increase, SGPT increase.
+
+                     Metabolic and Nutritional Disorders:Hyperuricemia, hypokalemia.
+
+                     Musculoskeletal System Disorders: Arthralgia, frozen shoulder, muscle weakness, musculoskeletal pain, myalgia, myositis, tendon disorder, torticollis.
+
+                     Myo-, Endo-, Pericardial and Valve Disorders: Angina pectoris aggravated, heart murmur, heart sound abnormal, myocardial infarction, Q wave abnormality.
+
+                     Platelet, Bleeding and Clotting Disorders: Purpura, thrombocytopenia.
+
+                     Psychiatric Disorders: Anxiety, concentration impaired, confusion, decreased libido, depression, impotence, insomnia, nervousness, paroniria, somnolence.
+
+                     Red Blood Cell Disorder: Hypochromic anemia.
+
+                     Reproductive Disorders, Female: Atrophic vaginitis, breast pain.
+
+                     Resistance Mechanism Disorders: Bacterial infection, moniliasis, viral infection.
+
+                     Respiratory System Disorders: Bronchitis, bronchospasm, coughing, dyspnea, increased sputum, nasal congestion, pharyngitis, pneumonia, pulmonary infiltration, rales, rhinitis, sinusitis.
+
+                     Skin and Appendages Disorders: Acne, hair texture abnormal, increased sweating, pruritus, rash, skin nodule.
+
+                     Urinary System Disorders: Polyuria, renal calculus, urinary tract infection.
+
+                     Vascular (Extracardiac) Disorders: Flushing, intermittent claudication, leg ulcer, varicose vein.
+
+                     Vision Disorders: Conjunctivitis, photophobia, vision abnormal.
+
+                  In addition, the following spontaneous adverse event has been reported during the marketing of isosorbide mononitrate: syncope.

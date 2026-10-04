@@ -1,0 +1,5 @@
+DailyMed 8e28f049-6110-4473-830f-c494191a7197 | Cephalexin | 8.5 Geriatric Use
+
+Of the 701 subjects in 3 published clinical studies of cephalexin, 433 (62%) were 65 and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+
+                        This drug is substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection [see Warnings and Precautions (5.4)].

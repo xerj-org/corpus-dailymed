@@ -1,0 +1,9 @@
+DailyMed 01dcea95-b391-79da-bbfe-412f39022e9a | Prucalopride | 8.2 Lactation
+
+Risk Summary
+
+                         Prucalopride is present in breast milk (see Data). There are no data on the effects of prucalopride on the breastfed child or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for prucalopride and any potential adverse effects on the breastfed child from prucalopride or from the underlying maternal condition.  
+
+                           Data
+
+                        In an open-label study in 8 healthy lactating women in the weaning stage, plasma and milk samples were collected at predose (day 1 and 4), and then 2, 4, 8, 12, and 24 hours (day 4) after a 2-mg dose of prucalopride was administered once daily for 4 days. Prucalopride is excreted in breast milk with a milk to plasma AUC ratio of 2.65:1; the average amount passed to the infant was estimated to be 1.74 mcg/kg/day, which is about 6% of the maternal dose, adjusted for body weight. The prucalopride concentration detected in breast milk during weaning may not reflect the prucalopride concentration in breast milk during full milk production.

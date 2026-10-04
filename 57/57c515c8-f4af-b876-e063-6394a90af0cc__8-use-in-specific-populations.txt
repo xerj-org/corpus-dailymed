@@ -1,0 +1,95 @@
+DailyMed 57c515c8-f4af-b876-e063-6394a90af0cc | IMPAVIDO | 8 USE IN SPECIFIC POPULATIONS
+
+8.1 Pregnancy
+
+                     Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to IMPAVIDO during pregnancy. Healthcare providers are encouraged to register patients by calling 1-866-588-5405.
+
+                     Risk Summary
+
+IMPAVIDO is contraindicated during pregnancy. Based on data from animal reproduction studies, IMPAVIDO may cause embryo-fetal toxicity when administered to pregnant women.
+
+                  There are no available data on IMPAVIDO use in pregnant women to determine a drug-associated risk of major birth defects, miscarriage, or adverse maternal and/or fetal outcomes. If a woman becomes pregnant while being treated with IMPAVIDO, treatment should be discontinued and the patient should be counseled about the potential risk to the fetus.
+
+Embryo-fetal toxicity, including death and fetal malformations, was observed in embryo-fetal studies in rats and rabbits administered oral miltefosine during organogenesis at doses that were respectively 0.06 and 0.2 times the maximum recommended human dose (MRHD) of 3.33 mg/kg/day. Numerous visceral and skeletal fetal malformations were observed in a fertility study in female rats administered miltefosine prior to mating through day 7 of pregnancy at doses 0.3 times the MRHD.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                     Data
+
+                     Animal Data
+
+                  In an embryo-fetal development study in pregnant rats, miltefosine was administered in oral doses of 0.6, 1.2, 2.4, 6, 12, and 24 mg/kg/day during the period of organogenesis (Day 6 to Day 15 of gestation). Miltefosine dosages ≥ 1.2 mg/kg/day [0.06 times the MRHD based on body surface area (BSA) comparison] caused embryo-fetal toxicity including death and fetal malformations. Malformations included undeveloped cerebrum, hemorrhagic fluid filling the lumina of the skull, cleft palate and generalized edema. In an embryo-fetal development study in pregnant rabbits, miltefosine was administered in oral doses of 0.6, 1.2, 2.4, 6, 12, and 24 mg/kg/day during the period of organogenesis (Day 6 to Day 18 of gestation). Abortion and fetal resorption occurred with one dam receiving 2.4 mg/kg/day miltefosine (0.2 times the MRHD based on BSA comparison) and fetal resorptions occurred with all dams receiving ≥ 6.0 mg/kg/day miltefosine. In both rats and rabbits, there were no viable litters at miltefosine doses ≥ 6.0 mg/kg/day (0.3 or 0.6 times the MRHD based on BSA comparisons for rats and rabbits respectively).
+
+In a separate fertility study in female rats, miltefosine was administered in oral doses of 2.15, 6.81, and 21.5 mg/kg for four weeks before mating and up to Day 7 of pregnancy. Miltefosine doses ≥ 6.81 mg/kg/day (0.3 times the MRHD based on BSA comparison) produced numerous visceral (misshapen cerebral structures, dilated ventricles filled with brown masses, misshapen spinal cord, misshapen and malpositioned eyes, hypophysis, and absent inner ear) and skeletal (cleft palate, dumbbell-shaped ossification of thoracic vertebral centers, markedly enlarged skull bones, and markedly dilated suturae) fetal malformations.
+  [see Contraindications (4.1), Nonclinical Toxicology (13.1)].
+
+                     8.2 Lactation
+
+                     Risk Summary
+
+There are no data on the presence of miltefosine in human or animal milk, the effects on the breastfed infants, or the effects on milk production. Because of the potential for serious adverse reactions, breastfeeding is not recommended during treatment with IMPAVIDO and for 5 months after the last dose.
+
+                     8.3 Females and Males of Reproductive Potential
+
+                     Pregnancy Testing
+
+Verify pregnancy status prior to initiating IMPAVIDO in females of reproductive potential
+  [see Boxed Warning and Use in Specific Populations (8.1)].
+
+                     Contraception
+
+                     Females
+
+                  Advise females of reproductive potential to use effective contraception during treatment with IMPAVIDO and for 5 months after the last dose [see Boxed Warning, Warnings and Precautions (5.1) and Use in Specific Populations (8.1)]. Vomiting and/or diarrhea occurring during IMPAVIDO therapy may affect absorption of oral contraceptives and therefore compromise their efficacy. If vomiting and/or diarrhea occur during IMPAVIDO therapy, advise females to use an additional non-oral method of effective contraception
+  [see Boxed Warning, Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+
+                     Infertility
+
+                     Females
+
+Based on animal fertility studies, IMPAVIDO may impair fertility in females of reproductive potential
+  [see Nonclinical Toxicology (13.1)]. The effects of IMPAVIDO on human female fertility have not been formally studied
+  [see Warnings and Precautions (5.3)].
+
+                     Males
+
+                  Based on animal fertility and postmarketing studies, IMPAVIDO may impair fertility in males of reproductive potential
+  [see Warnings and Precautions (5.2) and Nonclinical Toxicology (13.1)].
+
+In an open-label, uncontrolled, single-center study that assessed the effects of miltefosine on sperm parameters, a total of 58 adult males with cutaneous or mucosal leishmaniasis were administered miltefosine for 28 days at a target dose of 2.5 mg/kg/day and underwent semen analysis testing prior to treatment, at the end of treatment, at 3 months after completing treatment, and if needed, at 6 months after completing treatment. The primary safety endpoint was determined at the end of treatment and included the number and percentage of patients with abnormal sperm parameters and clinically relevant changes from baseline in sperm parameters. The secondary safety endpoints included mean sperm parameters at baseline, end of treatment, and 3 and 6 months after treatment completion. Mean serum testosterone and FSH concentrations were also evaluated
+  [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+
+                  Treatment with IMPAVIDO was associated with reductions in all sperm parameters at the end of treatment. All sperm parameters, except for sperm concentration, recovered on follow-up assessments at 3 and 6 months after treatment completion
+  [see Adverse Reactions (6.1)].
+
+For sperm concentration, small mean decreases persisted on follow-up assessments at 3 and 6 months after treatment completion, with approximately 26% of subjects showing post-treatment sperm concentrations reductions of ≥ 50% and reductions to the lower limit of normal (< 20 million/ mL) persisting in up to 8% of patients on their last observed assessment. Semen analyses were not conducted beyond 6 months in any patient, therefore, the duration of effect of IMPAVIDO on sperm concentration after treatment is unknown
+  [see Adverse Reactions (6.1)].
+
+No clinically meaningful changes were observed in serum testosterone or FSH concentrations.
+
+Reductions in ejaculate volume and temporary absence of ejaculate were reported in an observational study of male patients who received IMPAVIDO. These adverse reactions resolved in all patients in this study upon completion of IMPAVIDO therapy
+  [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
+
+The effect of IMPAVIDO on spermatogenesis may persist for an unknown duration.
+
+Whether IMPAVIDO affects male fertility is unknown
+  [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+
+                     8.4 Pediatric Use
+
+Safety and effectiveness in pediatric patients less than 12 years old have not been established. Juvenile rats were more sensitive to the miltefosine-induced effects, especially retinal and kidney effects, than adult rats
+  [see Indications and Usage (1)].
+
+                     8.5 Geriatric Use
+
+Clinical studies of IMPAVIDO did not include sufficient numbers of subjects 65 years of age and over to determine if they respond differently than younger subjects.
+
+                     8.6 Renal Impairment
+
+Patients with serum creatinine or BUN levels ≥1.5 times the upper limit of normal were excluded from the clinical studies. Miltefosine pharmacokinetics have not been studied in patients with renal impairment.
+
+                     8.7 Hepatic Impairment
+
+Patients with serum levels of ALT or AST ≥3 times the upper limit of normal and bilirubin levels ≥2 times the upper limit of normal were excluded from the clinical studies. Miltefosine pharmacokinetics have not been studied in patients with hepatic impairment.

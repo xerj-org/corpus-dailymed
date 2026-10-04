@@ -1,0 +1,9 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 5.1 Non-infectious Pneumonitis
+
+Non-infectious pneumonitis is a class effect of rapamycin derivatives. Non-infectious pneumonitis was reported in up to 19% of patients treated with everolimus tablets for oral suspension in clinical trials, some cases were reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event. The incidence of Grade 3 and 4 non-infectious pneumonitis was up to 4% and up to 0.2%, respectively [see Adverse Reactions (6.1)]. Fatal outcomes have been observed.
+
+                        Consider a diagnosis of non-infectious pneumonitis in patients presenting with non-specific respiratory signs and symptoms. Consider opportunistic infections, such as pneumocystis jiroveci pneumonia (PJP) in the differential diagnosis. Advise patients to report promptly any new or worsening respiratory symptoms.
+
+                        Continue everolimus tablets for oral suspension without dose alteration in patients who develop radiological changes suggestive of non-infectious pneumonitis and have few or no symptoms. Imaging appears to overestimate the incidence of clinical pneumonitis.
+
+                        For Grade 2 to 4 non-infectious pneumonitis, withhold or permanently discontinue everolimus tablets for oral suspension based on severity [see Dosage and Administration (2.9)]. Corticosteroids may be indicated until clinical symptoms resolve. Administer prophylaxis for PJP when concomitant use of corticosteroids or other immunosuppressive agents are required. The development of pneumonitis has been reported even at a reduced dose.

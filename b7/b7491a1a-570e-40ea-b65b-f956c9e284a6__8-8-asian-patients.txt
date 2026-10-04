@@ -1,0 +1,11 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 8.8 Asian Patients
+
+Pharmacokinetic studies have demonstrated an approximate 2-fold increase in median exposure to rosuvastatin in Asian subjects when compared with White controls. Adjust the rosuvastatin dosage in Asian patients
+
+  [see
+
+   Dosage and Administration (2.4)
+
+                           and
+
+   Clinical Pharmacology (12.3)].

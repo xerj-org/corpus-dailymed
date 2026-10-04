@@ -1,0 +1,5 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 2.1 Patient Selection
+
+Select patients for treatment of HR-positive, HER2-negative locally advanced or metastatic breast cancer with REVTORPYK based on the absence of detected PIK3CA mutations in breast cancer [see Clinical Studies (14)].
+
+                        An FDA-authorized test for the determination of PIK3CA mutation status in patients with HR-positive, HER2-negative locally advanced or metastatic breast cancer is not available.

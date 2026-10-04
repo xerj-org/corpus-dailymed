@@ -1,0 +1,7 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 5.4 Use in Patients with Renal Impairment
+
+Discontinue rivaroxaban in patients who develop acute renal failure while on treatment [see Use in Specific Populations (8.6)].
+
+                           Pediatric Patients
+
+                        There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile; therefore, avoid the use of rivaroxaban tablets in these patients [Use in Specific Populations (8.6)].

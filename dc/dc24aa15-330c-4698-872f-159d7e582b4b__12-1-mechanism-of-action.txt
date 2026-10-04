@@ -1,0 +1,11 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 12.1 Mechanism of Action
+
+Mycophenolic acid (MPA), an immunosuppressant, is an uncompetitive and reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH), and therefore inhibits the
+
+                              de novo
+                           pathway of guanosine nucleotide synthesis without incorporation to DNA. T- and B-lymphocytes are critically dependent for their proliferation on
+
+                              de novo
+                           synthesis of purines, whereas other cell types can utilize salvage pathways. MPA has cytostatic effects on lymphocytes.
+
+                        Mycophenolate sodium has been shown to prevent the occurrence of acute rejection in rat models of kidney and heart allotransplantation. Mycophenolate sodium also decreases antibody production in mice.

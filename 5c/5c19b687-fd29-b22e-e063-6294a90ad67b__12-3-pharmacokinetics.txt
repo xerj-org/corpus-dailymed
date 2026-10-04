@@ -1,0 +1,11 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 12.3 Pharmacokinetics
+
+Absorption
+
+  Following dosing with two packets of imiquimod cream, 3.75% once daily (18.75 mg imiquimod/day) for up to 3 weeks, systemic absorption of imiquimod was observed in all subjects when imiquimod cream was applied to the face and/or scalp in 17 subjects with at least 10 AK lesions. The mean peak serum imiquimod concentration at the end of the trial was approximately 0.323 ng/mL. The median time to maximal concentrations (Tmax) occurred at 9 hours after dosing. Based on the plasma half-life of imiquimod observed at the end of the trial, 29.3±17 hours, steadystate concentrations can be anticipated to occur by Day 7 with once-daily dosing.
+
+  Systemic absorption of imiquimod (up to 9.4 mg [one packet]) across the affected skin of 18 subjects with EGW was observed with once daily dosing for 3 weeks in all subjects. The subjects had either a minimum of 8 warts (range 8 to 93) or a surface area involvement of greater than 100 mm
+
+  2(range 15 to 620 mm
+
+  2) at trial entry. The mean peak serum imiquimod concentration at Day 21 was 0.488 +/- 0.368 ng/mL. The median time to maximal concentrations (Tmax) occurred 12 hours after dosing. Based on the plasma half-life of imiquimod observed at the end of the trial, 24.1+/-12.4 hours, steady-state concentrations can be anticipated to occur by Day 7 with once daily dosing. Because of the small number of subjects present (13 males, 5 females) it was not possible to select out or do an analysis of absorption based on sex/site of application.

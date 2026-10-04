@@ -1,0 +1,3 @@
+DailyMed 9b3ab9ea-caee-4186-9068-43ca527c098d | Amoxicillin | 4 CONTRAINDICATIONS
+
+Amoxicillin is contraindicated in patients who have experienced a serious hypersensitivity reaction (e.g., anaphylaxis or Stevens-Johnson syndrome) to amoxicillin or to other β-lactam antibacterial drugs (e.g., penicillins and cephalosporins).

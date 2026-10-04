@@ -1,0 +1,13 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+                        The data described below reflect exposure to RITUXAN HYCELA in 892 patients in four controlled trials with exposures ranging from a single injection up to 27 months of treatment.
+
+                        The population included 382 patients with follicular lymphoma (FL), 369 patients with diffuse large B-cell lymphoma (DLBCL), and 141 patients with chronic lymphocytic leukemia (CLL). The median age was 60 years (range: 18–85 years, 53% were male, and 84% were White. In the SABRINA study patients with FL received a full dose of a rituximab product by intravenous infusion, followed by RITUXAN HYCELA (1,400 mg rituximab/23,400 Units hyaluronidase human), in combination with chemotherapy for up to 7 doses (i.e., total of 8 doses in combination with chemotherapy), or as monotherapy for up to 12 doses (maintenance treatment). In the MabEase study patients with DLBCL received a full dose of a rituximab product by intravenous infusion, followed by RITUXAN HYCELA (1,400 mg rituximab/23,400 Units hyaluronidase human), given in combination with chemotherapy for up to 7 doses (i.e., up to a total of 8 doses). In the SAWYER study patients with CLL on part 2 received a full dose of a rituximab product by intravenous infusion, followed by RITUXAN HYCELA (1,600 mg rituximab/26,800 Units hyaluronidase human) for up to 5 doses, in combination with fludarabine and cyclophosphamide (i.e., total of 6 doses).
+
+                        The most common adverse reactions (≥ 20%) of RITUXAN HYCELA observed in patients with FL on the SABRINA study were: infections, neutropenia, nausea, constipation, cough, and fatigue.
+
+                        The most common adverse reactions (≥ 20%) of RITUXAN HYCELA observed in patients with DLBCL on the MabEase study were: infections, neutropenia, alopecia, nausea, and anemia.
+
+                        The most common adverse reactions (≥ 20%) of RITUXAN HYCELA observed in patients with CLL on part 2 of the SAWYER study were: infections, neutropenia, nausea, thrombocytopenia, pyrexia, vomiting, and injection site erythema.

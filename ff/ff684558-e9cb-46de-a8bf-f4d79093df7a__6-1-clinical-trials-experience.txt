@@ -1,0 +1,168 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                           Mantle Cell Lymphoma
+
+                        The safety of BEQALZI was evaluated in 115 adult patients with previously treated MCL in a single-arm, multicenter clinical trial, BGB-11417-201 (NCT05471843) [see Clinical Studies (14.1)]. The trial required prior receipt of anti-CD20–based therapy and a BTK inhibitor. The trial excluded patients on moderate or strong CYP3A inhibitors or strong CYP3A inducers and required an absolute neutrophil count (ANC) ≥1000/mm3; platelets ≥75,000/mm3; creatinine clearance ≥50 mL/min; AST and ALT ≤3 × upper limit of normal (ULN); and serum total bilirubin ≤2 × ULN.
+
+                        Patients received BEQALZI 320 mg orally once daily following completion of a 4-week ramp-up dosing schedule. Of the 115 patients who received BEQALZI, 52% were exposed for at least 6 months and 34% were exposed for at least 1 year.
+
+                        Serious adverse reactions were reported in 37% of patients who received BEQALZI, most frequently (≥2%) from pneumonia (10%). Fatal adverse reactions occurred in 4.3% of patients, including from pneumonia (2.6%) and sudden death (1.7%).
+
+                        Adverse reactions led to dose interruption of BEQALZI in 27% of patients, dose reduction in 0.9%, and permanent discontinuation in 8%. The most common reasons for dose interruption were infections (10%) and neutropenia (5%). The most common adverse reaction leading to treatment discontinuation was infection (1.7%).
+
+                        Table 7 summarizes select adverse reactions in Study BGB-11417-201, excluding laboratory terms.
+
+                           Table 7: Adverse Reactions (≥10%) in Patients with MCL Who Received BEQALZI in BGB-11417-201
+
+                                 Adverse Reaction |
+                                 BEQALZI
+
+ (N=115) |
+
+                                 All Grades (%) |
+                                 Grade 3 or 4 (%) |
+
+                                    Infections
+                                  |
+
+                                 PneumoniaIncludes pneumonia, COVID-19 pneumonia, pneumonia bacterial, and other related terms.
+
+                                  |
+                                 16Additionally includes three fatal cases (2.6%) of pneumonia.
+
+                                  |
+                                 10 |
+
+                                 Upper respiratory tract infectionIncludes upper respiratory tract infection, pharyngitis, sinusitis, and other related terms.
+
+                                  |
+                                 12 |
+                                 1.7 |
+
+                                    General Disorders
+                                  |
+
+                                 FatigueIncludes fatigue and asthenia.
+
+                                  |
+                                 16 |
+                                 0.9 |
+
+                                 EdemaIncludes edema peripheral, generalized edema, and other related terms.
+
+                                  |
+                                 14 |
+                                 0 |
+
+                                 Pyrexia |
+                                 10 |
+                                 0.9 |
+
+                                    Gastrointestinal Disorders
+                                  |
+
+                                 Diarrhea |
+                                 14 |
+                                 1.7 |
+
+                                 Constipation |
+                                 10 |
+                                 0 |
+
+                                    Skin and Subcutaneous Tissue Disorders
+                                  |
+
+                                 RashIncludes rash, dermatitis, drug eruption, and other related terms.
+
+                                  |
+                                 10 |
+                                 0 |
+
+                                    Musculoskeletal and Connective Tissue Disorders
+                                  |
+                                  |
+                                  |
+
+                                 Musculoskeletal painIncludes musculoskeletal pain, back pain, bone pain, and other related terms.
+
+                                  |
+                                 10 |
+                                 0 |
+
+                        Clinically relevant adverse reactions in <10% of patients who received BEQALZI included: TLS, headache, nausea, vomiting, mucositis, peripheral sensory neuropathy, febrile neutropenia, pneumonitis, herpes zoster infection, and sepsis.
+
+                        Table 8 summarizes new or worsening laboratory abnormalities throughout treatment. Grade 4 laboratory abnormalities in ≥2% of patients included decreases in neutrophils (6%) and platelet count (3.5%).
+
+                           Table 8: Select Laboratory Abnormalities (≥20%) That Worsened from Baseline in Patients with Previously Treated MCL Who Received BEQALZI
+
+                                 Laboratory AbnormalityThe denominator used to calculate the rate varied from 103 to 115 based on the number of patients with a baseline value and at least one post-treatment value.
+
+                                  |
+                                 BEQALZI |
+
+                                 All Grades, % |
+                                 Grade 3 or 4 (%) |
+
+                                    Hematology
+                                  |
+
+                                 Lymphocytes decreased |
+                                 66 |
+                                 29 |
+
+                                 Hemoglobin decreased |
+                                 52 |
+                                 9 |
+
+                                 Neutrophils decreased |
+                                 50 |
+                                 18 |
+
+                                 Platelets decreased |
+                                 36 |
+                                 9 |
+
+                                    Chemistry
+                                  |
+
+                                 Calcium decreased |
+                                 42 |
+                                 1.7 |
+
+                                 Uric acid increased |
+                                 42 |
+                                 0 |
+
+                                 Glucose increased |
+                                 35 |
+                                 0 |
+
+                                 Creatinine increased |
+                                 32 |
+                                 1.7 |
+
+                                 Potassium decreased |
+                                 30 |
+                                 4.3 |
+
+                                 Sodium decreased |
+                                 29 |
+                                 9 |
+
+                                 Aspartate aminotransferase increased |
+                                 27 |
+                                 2.8 |
+
+                                 Alkaline phosphatase increased |
+                                 25 |
+                                 0 |
+
+                                 Alanine aminotransferase increased |
+                                 22 |
+                                 0.9 |
+
+                                 Calcium increased |
+                                 21 |
+                                 0 |

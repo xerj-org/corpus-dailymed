@@ -1,0 +1,17 @@
+DailyMed 085e0809-6b7f-447e-976e-8276c29daad6 | Terbinafine | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from postmarketing cases on the use of terbinafine tablets in pregnant women are insufficient to evaluate a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+
+                        In animal reproduction studies, terbinafine did not cause malformations or any harm to the fetus when administered to pregnant rabbits and rats during the period of organogenesis at oral doses up to 12 and 23 times the maximum recommended human dose (MRHD) of 250 mg/day, respectively (see data).
+
+                        All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
+
+                           Data
+
+                           Animal Data
+
+                        In embryo-fetal development studies in rats and rabbits, pregnant animals received orally (by gavage) doses of terbinafine up to 300 mg/kg/day, during the period of organogenesis. There were no maternal or embryo-fetal effects in either species up to the maximum dose tested. The 300 mg/kg/day dose level in rats and rabbits corresponds to 23 and 12 times the MRHD [based on body surface area (BSA) comparisons], respectively.
+
+                        In a rat peri- and postnatal development study, terbinafine doses of up to 300 mg/kg/day (12 times the MRHD based on BSA comparisons) given by oral gavage during late pregnancy and lactation (Day 15 of gestation to day 20 post-partum) had no adverse effects on parturition and lactation.

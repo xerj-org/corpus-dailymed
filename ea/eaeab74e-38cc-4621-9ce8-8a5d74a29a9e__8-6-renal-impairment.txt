@@ -1,0 +1,11 @@
+DailyMed eaeab74e-38cc-4621-9ce8-8a5d74a29a9e | Sildenafil | 8.6 Renal Impairment
+
+No dose adjustment is required for mild (CLcr=50 to 80 mL/min) and moderate (CLcr=30 to 49 mL/min) renal impairment. In volunteers with severe renal impairment (Clcr<30 mL/min), sildenafil clearance was reduced, resulting in higher plasma exposure of sildenafil (~2 fold), approximately doubling of C
+
+  maxand AUC. A starting dose of 25 mg should be considered in patients with severe renal impairment
+
+  [see Dosage and Administration
+
+   (2.5)and Clinical Pharmacology
+
+   (12.3)].

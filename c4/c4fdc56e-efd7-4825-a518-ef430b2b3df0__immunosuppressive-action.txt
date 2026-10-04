@@ -1,0 +1,7 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | Immunosuppressive Action
+
+Cytarabine Injection is capable of obliterating immune responses in man during administration with little or no accompanying toxicity. Suppression of antibody responses to E-coli-VI antigen and tetanus toxoid have been demonstrated. This suppression was obtained during both primary and secondary antibody responses.
+
+                        Cytarabine also suppressed the development of cell-mediated immune responses such as delayed hypersensitivity skin reaction to dinitrochlorobenzene.  However, it had no effect on already established delayed hypersensitivity reactions.
+
+                        Following 5-day courses of intensive therapy with cytarabine the immune response was suppressed, as indicated by the following parameters: macrophage ingress into skin windows; circulating antibody response following primary antigenic stimulation; lymphocyte blastogenesis with phytohemagglutinin. A few days after termination of therapy there was a rapid return to normal.

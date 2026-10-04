@@ -1,0 +1,3 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 4.1 Active Bleeding
+
+Clopidogrel tablets are contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage.

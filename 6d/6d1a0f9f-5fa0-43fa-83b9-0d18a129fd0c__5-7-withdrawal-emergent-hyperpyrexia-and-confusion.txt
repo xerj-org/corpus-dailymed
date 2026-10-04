@@ -1,0 +1,3 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 5.7 Withdrawal-Emergent Hyperpyrexia and Confusion
+
+A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction of, withdrawal of, or changes in, dopaminergic therapy. Therefore it is recommended that the dose be tapered at the end of treatment with ropinirole tablets as a prophylactic measure [see Dosage and Administration (2.2, 2.3)].

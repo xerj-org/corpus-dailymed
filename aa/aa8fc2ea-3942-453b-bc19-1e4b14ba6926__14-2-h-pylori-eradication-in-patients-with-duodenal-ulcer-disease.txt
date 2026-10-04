@@ -1,0 +1,441 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 14.2 H. pylori Eradication in Patients with Duodenal Ulcer Disease
+
+Triple Therapy (omeprazole/clarithromycin/amoxicillin)
+
+                        Three U.S., randomized, double-blind clinical studies in patients with H. pylori infection and duodenal ulcer disease (n = 558) compared omeprazole plus clarithromycin plus amoxicillin with clarithromycin plus amoxicillin. Two studies (1 and 2) were conducted in patients with an active duodenal ulcer, and the other study (3) was conducted in patients with a history of a duodenal ulcer in the past 5 years but without an ulcer present at the time of enrollment. The dose regimen in the studies was omeprazole 20 mg twice daily plus clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days; or clarithromycin 500 mg twice daily plus amoxicillin 1 g twice daily for 10 days. In studies 1 and 2, patients who took the omeprazole regimen also received an additional 18 days of omeprazole 20 mg once daily. Endpoints studied were eradication of H. pylori and duodenal ulcer healing (studies 1 and 2 only). H. pylori status was determined by CLOtest®, histology and culture in all three studies. For a given patient, H. pylori was considered eradicated if at least two of these tests were negative, and none was positive.
+
+                        The combination of omeprazole plus clarithromycin plus amoxicillin was effective in eradicating H. pylori.
+
+                           Table 9: Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval]
+
+                                  |
+
+                                       Omeprazole + clarithromycin + amoxicillin
+
+                                  |
+
+                                       Clarithromycin + amoxicillin
+
+                                  |
+
+                                       Per-Protocol
+                                             1
+
+                                  |
+
+                                       Intent-to-Treat
+                                             2
+
+                                  |
+
+                                       Per-Protocol
+                                             1
+
+                                  |
+
+                                       Intent-to-Treat
+                                             2
+
+                                  |
+
+                                    Study 1
+
+                                  |
+
+                                    77
+                                          3
+                                        [64, 86]
+
+(n = 64)
+
+                                  |
+
+                                    69
+                                          3
+                                        [57, 79]
+
+(n = 80)
+
+                                  |
+
+                                    43 [31, 56]
+
+(n = 67)
+
+                                  |
+
+                                    37 [27, 48]
+
+(n = 84)
+
+                                  |
+
+                                    Study 2
+
+                                  |
+
+                                    78
+                                          3
+                                        [67, 88]
+
+(n = 65)
+
+                                  |
+
+                                    73
+                                          3
+                                       [61, 82]
+
+(n = 77)
+
+                                  |
+
+                                    41 [29, 54]
+
+(n = 68)
+
+                                  |
+
+                                    36 [26, 47]
+
+(n = 83)
+
+                                  |
+
+                                    Study 3
+
+                                  |
+
+                                    90
+                                          3
+                                       [80, 96]
+
+(n = 69)
+
+                                  |
+
+                                    83
+                                          3
+                                       [74, 91]
+
+(n = 84)
+
+                                  |
+
+                                    33 [24, 44]
+
+(n = 93)
+
+                                  |
+
+                                    32 [23, 42]
+
+(n = 99)
+
+                                  |
+
+                               
+
+                              1 Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer.
+
+                               
+
+                              2 Patients were included in the analysis if they had documented H. pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy.
+
+                               
+
+                              3 (p < 0.05) versus clarithromycin plus amoxicillin.
+
+                           Dual Therapy (omeprazole/clarithromycin)
+
+                        Four randomized, double-blind, multi-center studies (4, 5, 6, and 7) evaluated omeprazole 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days, followed by omeprazole 20 mg once daily, (Studies 4, 5, and 7) or by omeprazole 40 mg once daily (Study 6) for an additional 14 days in patients with active duodenal ulcer associated with H. pylori. Studies 4 and 5 were conducted in the U.S. and Canada and enrolled 242 and 256 patients, respectively. H. pylori infection and duodenal ulcer were confirmed in 219 patients in Study 4 and 228 patients in Study 5. These studies compared the combination regimen to omeprazole and clarithromycin monotherapies. Studies 6 and 7 were conducted in Europe and enrolled 154 and 215 patients, respectively. H. pylori infection and duodenal ulcer were confirmed in 148 patients in Study 6 and 208 patients in Study 7. These studies compared the combination regimen with omeprazole monotherapy. The results for the efficacy analyses for these studies are described below. H. pylori eradication was defined as no positive test (culture or histology) at 4 weeks following the end of treatment, and two negative tests were required to be considered eradicated of H. pylori. In the per-protocol analysis, the following patients were excluded: dropouts, patients with missing H. pylori tests post-treatment, and patients that were not assessed for H. pylori eradication because they were found to have an ulcer at the end of treatment.
+
+                        The combination of omeprazole and clarithromycin was effective in eradicating H. pylori.
+
+                           Table 10: H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval]
+
+                                  |
+
+                                       Omeprazole + Clarithromycin
+
+                                  |
+
+                                       Omeprazole
+
+                                  |
+
+                                       Clarithromycin
+
+                                  |
+
+                                       U.S. Studies
+
+                                  |
+
+                                    Study 4
+
+                                  |
+
+                                    74 [60, 85]
+                                          1,2
+
+                                    (n = 53)
+
+                                  |
+
+                                    0 [0, 7]
+
+(n = 54)
+
+                                  |
+
+                                    31 [18, 47]
+
+(n = 42)
+
+                                  |
+
+                                    Study 5
+
+                                  |
+
+                                    64 [51, 76]
+                                          1,2
+
+                                    (n = 61)
+
+                                  |
+
+                                    0 [0, 6]
+
+(n = 59)
+
+                                  |
+
+                                    39 [24, 55]
+
+(n = 44)
+
+                                  |
+
+                                       Non U.S. Studies
+
+                                  |
+
+                                    Study 6
+
+                                  |
+
+                                    83 [71, 92]
+                                          2
+
+                                    (n = 60)
+
+                                  |
+
+                                    1 [0, 7]
+
+(n = 74)
+
+                                  |
+
+                                    N/A
+
+                                  |
+
+                                    Study 7
+
+                                  |
+
+                                    74 [64, 83]
+                                          2
+
+                                    (n = 86)
+
+                                  |
+
+                                    1 [0, 6]
+
+(n = 90)
+
+                                  |
+
+                                    N/A
+
+                                  |
+
+                           1 Statistically significantly higher than clarithromycin monotherapy (p < 0.05).
+
+                           2 Statistically significantly higher than omeprazole monotherapy (p < 0.05).
+
+                        Ulcer healing was not significantly different when clarithromycin was added to omeprazole therapy compared with omeprazole therapy alone.
+
+                        The combination of omeprazole and clarithromycin was effective in eradicating H. pylori and reduced duodenal ulcer recurrence.
+
+                           Table 11: Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence
+
+                                     
+
+                                  |
+
+                                       H. pylori eradicated
+                                          1
+
+                                  |
+
+                                       H. pylori not eradicated
+                                          1
+
+                                  |
+
+                                       U.S. Studies
+                                             2
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    6 months post-treatment
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Study 4
+
+                                  |
+
+                                    35
+                                          4
+
+                                    (n=49)
+
+                                  |
+
+                                    60
+
+(n=88)
+
+                                  |
+
+                                    Study 5
+
+                                  |
+
+                                    8
+                                          4
+
+                                    (n=53)
+                                          4
+
+                                  |
+
+                                    60
+
+(n=106)
+
+                                  |
+
+                                       Non U.S. Studies
+                                             3
+
+                                  |
+                                  |
+                                  |
+
+                                    6 months post-treatment
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Study 6
+
+                                  |
+
+                                    5
+                                          4
+
+                                    (n=43)
+
+                                  |
+
+                                    46
+
+(n=78)
+
+                                  |
+
+                                    Study 7
+
+                                  |
+
+                                    6
+                                          4
+
+                                    (n=53)
+                                          4
+
+                                  |
+
+                                    43
+
+(n=107)
+
+                                  |
+
+                                    12 months post-treatment
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Study 6
+
+                                  |
+
+                                    5
+                                          4
+
+                                    (n=39)
+
+                                  |
+
+                                    68
+
+(n=71)
+
+                                  |
+
+                           1
+                           H. pylori eradication status assessed at same time point as ulcer recurrence.
+
+                           2 Combined results for omeprazole + clarithromycin, omeprazole, and clarithromycin treatment arms.
+
+                           3 Combined results for omeprazole + clarithromycin and omeprazole treatment arms.
+
+                           4 (p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated.

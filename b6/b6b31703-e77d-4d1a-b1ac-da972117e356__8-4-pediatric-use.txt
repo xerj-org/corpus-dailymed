@@ -1,0 +1,21 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 8.4 Pediatric Use
+
+The safety and effectiveness of mirtazapine tablets have not been established in pediatric patients with MDD. Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with mirtazapine tablets, and the data were insufficient to establish the safety and effectiveness of mirtazapine tablets in pediatric patients with MDD. 
+
+  Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric patients
+
+  [see Boxed Warning and Warnings and Precautions (
+
+   5.1)]
+
+  .
+
+   
+
+  In an 8-week-long clinical trial in pediatric patients receiving doses between 15 to 45 mg per day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients. The mean increase in weight was 4 kg (2 kg SD) for mirtazapine-treated patients versus 1 kg (2 kg SD) for placebo-treated patients
+
+  [see Warnings and Precautions (
+
+   5.7)]
+
+  .

@@ -1,0 +1,5 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 12.1 Mechanism of Action
+
+Beclomethasone dipropionate is a prodrug that is extensively converted to the active metabolite, beclomethasone-17-monopropionate. The precise mechanism through which beclomethasone dipropionate affects rhinitis symptoms is unknown. Corticosteroids have been shown to have multiple anti-inflammatory effects, inhibiting both inflammatory cells (e.g., mast cells, eosinophils, basophils, lymphocytes, macrophages, and neutrophils) and the release of inflammatory mediators (e.g., histamine, eicosanoids, leukotrienes, and cytokines).
+
+                        Beclomethasone-17-monopropionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor which is approximately 13 times that of dexamethasone, 6 times that of triamcinolone acetonide, 1.5 times that of budesonide and 25 times that of beclomethasone dipropionate. The clinical significance of these findings is unknown.

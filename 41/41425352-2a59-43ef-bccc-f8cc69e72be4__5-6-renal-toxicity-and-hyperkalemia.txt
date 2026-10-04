@@ -1,0 +1,17 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 5.6 Renal Toxicity and Hyperkalemia
+
+Renal Toxicity
+
+                        Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
+
+                        Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion. In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation. Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or ARBs, and the elderly. Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
+                        No information is available from controlled clinical studies regarding the use of Piroxicam Capsules in patients with advanced renal disease. The renal effects of Piroxicam Capsules may hasten the progression of renal dysfunction in patients with preexisting renal disease.
+
+                        Correct volume status in dehydrated or hypovolemic patients prior to initiating Piroxicam Capsules. Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of Piroxicam Capsules
+
+  [see Drug Interactions (7)]. Avoid the use of Piroxicam Capsules in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function. If Piroxicam Capsules are used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
+
+                           Hyperkalemia
+
+                        Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment. In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.

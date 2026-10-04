@@ -1,0 +1,7 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of intravenous atezolizumab. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Cardiac: pericarditis, pericardial effusion, cardiac tamponade
+
+                           Musculoskeletal and Connective Tissue: tenosynovitis

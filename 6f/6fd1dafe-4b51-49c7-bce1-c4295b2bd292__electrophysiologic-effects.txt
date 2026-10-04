@@ -1,0 +1,5 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | Electrophysiologic Effects
+
+In general, no detrimental effects on the cardiac conduction system have been seen with nicardipine. During acute electrophysiologic studies, it increased heart rate and prolonged the corrected QT interval to a minor degree. It did not affect sinus node recovery or SA conduction times. The PA, AH, and HV intervals* or the functional and effective refractory periods of the atrium were not prolonged. The relative and effective refractory periods of the His-Purkinje system were slightly shortened.
+
+                              *PA = conduction time from high to low right atrium; AH = conduction time from low right atrium to His bundle deflection, or AV nodal conduction time; HV = conduction time through the His bundle and the bundle branch-Purkinje system.

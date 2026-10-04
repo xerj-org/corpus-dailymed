@@ -1,0 +1,3 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 8.7 Hepatic Impairment
+
+Dosage adjustment of piperacillin and tazobactam for injection is not warranted in patients with hepatic cirrhosis [see Clinical Pharmacology (12.3)].

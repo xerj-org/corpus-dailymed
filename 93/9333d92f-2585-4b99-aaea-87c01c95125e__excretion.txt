@@ -1,0 +1,3 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | Excretion
+
+Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.

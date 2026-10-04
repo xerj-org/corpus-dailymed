@@ -1,0 +1,15 @@
+DailyMed 2dc730d5-55fd-4e98-8c8a-daa7d8f872b0 | Menveo | 8.1 Pregnancy
+
+Risk Summary
+
+                        All pregnancies have a risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                        There are no adequate and well-controlled studies of MENVEO in pregnant women in the U.S. There was a pregnancy exposure registry conducted from 2014-2017 that included 82 subjects. Available data do not suggest an increased risk of major birth defects and miscarriage in women who received MENVEO within 28 days prior to conception or during pregnancy (see Data).
+
+                        A developmental toxicity study was performed in female rabbits administered 0.5 mL (at each occasion) of MENVEO prior to mating and during gestation. A single human dose is 0.5 mL. This study revealed no adverse effects on fetal or pre-weaning development (see Data).
+
+                           Data
+
+                           Human Data: A pregnancy exposure registry (2014 to 2017) included 82 pregnancies with known outcomes with exposure within 28 days prior to conception or during pregnancy. Miscarriage was reported for 12.2% of pregnancies with exposure to MENVEO within 28 days prior to conception or during pregnancy (10/82). Major birth defects were reported for 3.6% of live born infants whose mothers were exposed within 28 days prior to conception or during pregnancy (2/55). The rates of miscarriage and major birth defects were consistent with estimated background rates.
+
+                           Animal Data: In a developmental toxicity study, female rabbits were administered MENVEO by intramuscular injection on Days 29, 15, and 1 prior to mating and on Gestation Days 7 and 20. The total dose was 0.5 mL at each occasion (a single human dose is 0.5 mL). No adverse effects on pre-weaning development up to Postnatal Day 29 were observed. There were no vaccine-related fetal malformations or variations observed.

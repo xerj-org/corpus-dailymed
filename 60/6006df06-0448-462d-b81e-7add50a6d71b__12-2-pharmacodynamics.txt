@@ -1,0 +1,15 @@
+DailyMed 6006df06-0448-462d-b81e-7add50a6d71b | GuanfacineExtended-Release | 12.2 Pharmacodynamics
+
+Guanfacine is a selective central alpha
+
+  2A-adrenergic receptor agonist in that it has a 15 to 20 times higher affinity for this receptor subtype than for the alpha
+
+  2Bor alpha
+
+  2Csubtypes.
+
+                        Guanfacine is a known antihypertensive agent. By stimulating central alpha
+
+  2A-adrenergic receptors, guanfacine reduces sympathetic nerve impulses from the vasomotor center to the heart and blood vessels. This results in a decrease in peripheral vascular resistance and a reduction in heart rate.
+
+                        In a thorough QT study, the administration of two dose levels of immediate-release guanfacine (4 mg and 8 mg) produced concentrations approximately 2 to 4 times the concentrations observed with the maximum recommended dose of guanfacine extended-release tablets of 0.12 mg/kg. Guanfacine was not shown to prolong the QTc interval to any clinically relevant extent.

@@ -1,0 +1,9 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 8.5 Geriatric Use
+
+Patients over 65 years are not at an increased risk of developing adverse effects solely because of age. However, dosage should be adjusted in the presence of renal impairment [see Dosage and Administration (2)].
+
+                        In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+                        Piperacillin and tazobactam for injection contains 54 mg (2.35 mEq) of sodium per gram of piperacillin in the combination product. At the usual recommended doses, patients would receive between 648 and 864 mg/day (28.2 and 37.6 mEq) of sodium. The geriatric population may respond with a blunted natriuresis to salt loading. This may be clinically important with regard to such diseases as congestive heart failure.
+
+                        This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

@@ -1,0 +1,4 @@
+DailyMed 1eb5eb7a-8c5f-43a3-9b9f-6321cdb6f6c7 | Chlordiazepoxide Hydrochloride | Drug Interactions
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration. Benzodiazepines interact at GABA
+  A sites and opioids interact primarily at mu receptors. When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists. Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.

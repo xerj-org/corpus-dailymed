@@ -1,0 +1,4 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 8.6 Renal Impairment
+
+Ascorbic acid injection should be used with caution in scorbutic patients with a history of or risk of developing renal oxalate stones or evidence of renal impairment or other issues (e.g., patients on dialysis, patients with diabetic nephropathy and renal transplant recipients). These patients may be at increased risk of developing acute or chronic oxalate nephropathy following high dose ascorbic acid administration [ see Warning and Precaution (5.1
+                           ].

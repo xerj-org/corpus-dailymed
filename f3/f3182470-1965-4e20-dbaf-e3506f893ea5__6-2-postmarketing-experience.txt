@@ -1,0 +1,37 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 6.2 Postmarketing Experience
+
+The temporal association between vaccination with ROTARIX and intussusception was evaluated in a hospital-based active surveillance study that identified infants with intussusception at participating hospitals in Mexico. Using a self-controlled case series method,4 the incidence of intussusception during the first 7 days after receipt of ROTARIX and during the 31-day period after receipt of ROTARIX was compared with a control period. The control period was from birth to one year, excluding the pre-defined risk period (first 7 days or first 31 days post-vaccination, respectively).
+
+                        Over a 2-year period, the participating hospitals provided health services to approximately 1 million infants under 1 year of age. Among 750 infants with intussusception, the relative incidence of intussusception in the 31‑day period after the first dose of ROTARIX compared with the control period was 1.96 (95.5% CI: 1.46, 2.63)]; the relative incidence of intussusception in the first 7 days after the first dose of ROTARIX compared with the control period was 6.07 (95.5% CI: 4.20, 8.63).
+
+                        The Mexico study did not take into account all medical conditions that may predispose infants to intussusception. The results may not be generalizable to U.S. infants who have a lower background rate of intussusception than Mexican infants. However, if a temporal increase in the risk for intussusception following ROTARIX similar in magnitude to that observed in the Mexico study does exist in U.S. infants, it is estimated that approximately 1 to 3 additional cases of intussusception hospitalizations would occur per 100,000 vaccinated infants in the U.S. within 7 days following the first dose of ROTARIX. In the first year of life, the background rate of intussusception hospitalizations in the U.S. has been estimated to be approximately 34 per 100,000 infants.5
+
+                        Other postmarketing observational studies conducted in Brazil and Australia also suggest an increased risk of intussusception within the first 7 days following the second dose of ROTARIX.2,3
+
+                        Worldwide passive postmarketing surveillance data suggest that most cases of intussusception reported following ROTARIX occur in the 7-day period after the first dose.
+
+                        The following adverse reactions have been identified during postapproval use of ROTARIX. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to vaccination.
+
+                           Gastrointestinal Disorders
+
+                        Intussusception (including death).
+
+                        Recurrent intussusception (including death).
+
+                        Hematochezia.
+
+                        Gastroenteritis associated with prolonged vaccine viral shedding in infants with Severe Combined Immunodeficiency Disease (SCID) resulting in severe diarrhea [see Contraindications (4.4)].
+
+                        Acute gastroenteritis associated with vaccine viral shedding in infants without known immune deficiency.
+
+                           Blood and Lymphatic System Disorders
+
+                        Idiopathic thrombocytopenic purpura.
+
+                           Vascular Disorders
+
+                        Kawasaki disease.
+
+                           General Disorders and Administration Site Conditions
+
+                        Maladministration.

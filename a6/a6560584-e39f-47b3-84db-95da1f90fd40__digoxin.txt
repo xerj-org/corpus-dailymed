@@ -1,0 +1,3 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Digoxin
+
+When given concomitantly with Felodipine the pharmacokinetics of digoxin in patients with heart failure was not significantly altered.

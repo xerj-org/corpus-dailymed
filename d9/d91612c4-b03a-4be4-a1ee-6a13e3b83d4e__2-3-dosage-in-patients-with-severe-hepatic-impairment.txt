@@ -1,0 +1,75 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 2.3 Dosage in Patients with Severe Hepatic Impairment
+
+ZTALMY is administered by mouth three times daily and must be taken with food [see Clinical Pharmacology (12.3)].
+
+                        The recommended titration schedule and maintenance dosage are based on body weight for patients weighing 28 kg or less. Dosage recommendations for patients with severe hepatic impairment and weighing 28 kg or less are included in Table 3, and dosage recommendations for patients with severe hepatic impairment (Child-Pugh class C) weighing more than 28 kg are included in Table 4. Dosage should be increased based on tolerability no more frequently than every 7 days. Titration increments should not exceed those shown in Table 3 and Table 4.
+
+                        No dosage adjustment is necessary in patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment.
+
+                           Table 3 	ZTALMY Recommended Titration Schedule for Patients with Severe Hepatic Impairment and Weighing 28 kg or Less
+
+                                    Dosage
+                                  |
+                                 Total Daily DoseApproximate daily dose.
+
+                                  |
+                                 Days |
+
+                                    0.66 mg/kg three times daily
+                                  |
+                                 2 mg/kg/day |
+                                 1 to 7 |
+
+                                    1.33 mg/kg three times daily
+                                  |
+                                 4 mg/kg/day |
+                                 8 to 14 |
+
+                                    2.66 mg/kg three times daily
+                                  |
+                                 8 mg/kg/day |
+                                 15 to 21 |
+
+                                    4.66 mg/kg three times daily
+                                  |
+                                 14 mg/kg/day |
+                                 22 to 28 |
+
+                                    7 mg/kg three times daily
+                                  |
+                                 21 mg/kg/day |
+                                 29 and thereafter |
+
+                           Table 4	ZTALMY Recommended Titration Schedule for Patients with Severe Hepatic Impairment and Weighing More Than 28 kg
+
+                                    Dosage
+                                  |
+                                 Total Daily DoseApproximate daily dose.
+
+                                  |
+                                 Days |
+
+                                    17 mg three times daily
+                                  |
+                                 50 mg |
+                                 1 to 7 |
+
+                                    33 mg three times daily
+                                  |
+                                 100 mg |
+                                 8 to 14 |
+
+                                    67 mg three times daily
+                                  |
+                                 200 mg |
+                                 15 to 21 |
+
+                                    133 mg three times daily
+                                  |
+                                 400 mg |
+                                 22 to 28 |
+
+                                    200 mg three times daily
+                                  |
+                                 600 mg |
+                                 29 and thereafter |

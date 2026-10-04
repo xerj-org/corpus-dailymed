@@ -1,0 +1,5 @@
+DailyMed f6da5155-9c26-46bb-bc0f-ece4ea21405f | telmisartan | 5.5 Impaired Renal Function
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, anticipate changes in renal function in susceptible individuals. In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure or renal dysfunction), treatment with angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death. Similar results have been reported with telmisartan     [see       Clinical Pharmacology (12.3)].
+
+                        In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen were observed. There has been no long-term use of telmisartan in patients with unilateral or bilateral renal artery stenosis, but anticipate an effect similar to that seen with ACE inhibitors.

@@ -1,0 +1,3 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | 5.4 Serious Dermatological Reactions
+
+Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients treated with levetiracetam. The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment. Recurrence of the serious skin reactions following rechallenge with levetiracetam has also been reported. Levetiracetam should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related. If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.

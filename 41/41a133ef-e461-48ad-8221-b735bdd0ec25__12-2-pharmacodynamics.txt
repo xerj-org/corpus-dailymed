@@ -1,0 +1,9 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 12.2 Pharmacodynamics
+
+As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR, and activated partial thromboplastin time (aPTT). Changes observed in these clotting tests at the expected therapeutic dose, however, are small, subject to a high degree of variability, and not useful in monitoring the anticoagulation effect of apixaban.
+
+                        The Rotachrom
+
+  ®Heparin chromogenic assay was used to measure the effect of apixaban on FXa activity in humans during the apixaban development program. A concentration-dependent increase in anti-FXa activity was observed in the dose range tested and was similar in healthy subjects and patients with AF.
+
+                        This test is not recommended for assessing the anticoagulant effect of apixaban.

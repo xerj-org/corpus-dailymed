@@ -1,0 +1,3 @@
+DailyMed 9b3ab9ea-caee-4186-9068-43ca527c098d | Amoxicillin | 7.1 Probenecid
+
+Probenecid decreases the renal tubular secretion of amoxicillin. Concurrent use of amoxicillin and probenecid may result in increased and prolonged blood levels of amoxicillin.

@@ -1,0 +1,90 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 2.4 Administration
+
+TRUQAP dosing schedule for each week is provided in Table 1.
+
+                           Table 1: TRUQAP Dosing Schedule for Each Week
+
+                                       Day
+
+                                  |
+
+                                       1
+
+                                  |
+
+                                       2
+
+                                  |
+
+                                       3
+
+                                  |
+
+                                       4
+
+                                  |
+
+                                       5
+                                       No dosing on day 5, 6 and 7.
+
+                                  |
+
+                                       6
+
+                                  |
+
+                                       7
+
+                                  |
+
+                                       Morning
+
+                                  |
+
+                                    2 x 200 mg
+
+                                  |
+
+                                    2 x 200 mg
+
+                                  |
+
+                                    2 x 200 mg
+
+                                  |
+
+                                    2 x 200 mg
+
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                       Evening
+
+                                  |
+
+                                    2 x 200 mg
+
+                                  |
+
+                                    2 x 200 mg
+
+                                  |
+
+                                    2 x 200 mg
+
+                                  |
+
+                                    2 x 200 mg
+
+                                  |
+                                  |
+                                  |
+                                  |
+
+                        Swallow TRUQAP tablets whole. Do not chew, crush, or split tablets prior to swallowing. Do not take tablets that are broken, cracked, or otherwise not intact.
+
+                        If a patient misses a dose within 4 hours of the scheduled time, instruct the patient to take the missed dose. If a patient misses a dose more than 4 hours of the scheduled time, instruct the patient to skip the dose and take the next dose at its usual scheduled time.
+
+                        If a patient vomits a dose, instruct the patient not to take an additional dose and take the next dose at its usual scheduled time.

@@ -1,0 +1,9 @@
+DailyMed d68b79ab-3104-410e-a63f-9919a23625af | Ticagrelor | 2.1 General Instructions
+
+Advise patients who miss a dose of ticagrelor tablet to take their next dose at its scheduled time. 
+
+ For patients who are unable to swallow tablets whole, ticagrelor tablets can be crushed, mixed with water, and drunk. The mixture can also be administered via a nasogastric tube (CH8 or greater) [see Clinical Pharmacology (12.3)].
+
+ Do not administer ticagrelor tablet with another oral P2Y12 platelet inhibitor.
+
+ Avoid aspirin at doses higher than recommended [see Clinical Studies (14.1)].

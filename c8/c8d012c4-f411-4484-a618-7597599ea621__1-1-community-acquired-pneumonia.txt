@@ -1,0 +1,10 @@
+DailyMed c8d012c4-f411-4484-a618-7597599ea621 | Azithromycin monohydrate | 1.1 Community-Acquired Pneumonia
+
+Azithromycin for injection is indicated for the treatment of adult patients with community-acquired pneumonia due to the following susceptible microorganisms:
+  Chlamydophila pneumoniae,
+  Haemophilus influenzae,
+  Legionella pneumophila,
+  Moraxella catarrhalis,
+  Mycoplasma pneumoniae,
+  Staphylococcus aureus, or
+  Streptococcus pneumoniae in patients who require initial intravenous therapy.

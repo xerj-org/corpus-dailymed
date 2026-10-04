@@ -1,0 +1,13 @@
+DailyMed 9e3c796b-2e68-4bcc-b927-18a58bea4703 | Carbidopa-levodopa | Pharmacokinetics
+
+Carbidopa reduces the amount of levodopa required to produce a given response by about 75% and, when administered with levodopa, increases both plasma levels and the plasma half-life of levodopa, and decreases plasma and urinary dopamine and homovanillic acid.
+
+                        The plasma half-life of levodopa is about 50 minutes, without carbidopa. When carbidopa and levodopa are administered together, the half-life of levodopa is increased to about 1.5 hours. At steady state, the bioavailability of carbidopa from carbidopa and levodopa tablets is approximately 99% relative to the concomitant administration of carbidopa and levodopa.
+
+                        In clinical pharmacologic studies, simultaneous administration of carbidopa and levodopa produced greater urinary excretion of levodopa in proportion to the excretion of dopamine than administration of the two drugs at separate times.
+
+                        Pyridoxine hydrochloride (vitamin B
+
+  6), in oral doses of 10 mg to 25 mg, may reverse the effects of levodopa by increasing the rate of aromatic amino acid decarboxylation. Carbidopa inhibits this action of pyridoxine; therefore, carbidopa and levodopa tablets can be given to patients receiving supplemental pyridoxine (vitamin B
+
+  6).

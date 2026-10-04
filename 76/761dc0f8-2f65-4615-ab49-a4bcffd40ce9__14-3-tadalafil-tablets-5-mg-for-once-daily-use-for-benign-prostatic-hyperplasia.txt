@@ -1,0 +1,300 @@
+DailyMed 761dc0f8-2f65-4615-ab49-a4bcffd40ce9 | Tadalafil | 14.3 Tadalafil tablets 5 mg for Once Daily Use for Benign Prostatic Hyperplasia (BPH)
+
+The efficacy and safety of tadalafil for once daily use for the treatment of the signs and symptoms of BPH was evaluated in 3 randomized, multinational, double-blinded, placebo-controlled, parallel-design, efficacy and safety studies of 12 weeks duration. Two of these studies were in men with BPH and one study was specific to men with both ED and BPH [see Clinical Studies (14.4)]. The first study (Study J) randomized 1058 patients to receive either tadalafil 2.5 mg, 5 mg, 10 mg or 20 mg for once daily use or placebo. The second study (Study K) randomized 325 patients to receive either tadalafil 5 mg for once daily use or placebo. The full study population was 87% White, 2% Black, 11% other races; 15% was of Hispanic ethnicity. Patients with multiple co-morbid conditions such as diabetes mellitus, hypertension, and other cardiovascular disease were included.
+
+                        The primary efficacy endpoint in the two studies that evaluated the effect of tadalafil for the signs and symptoms of BPH was the International Prostate Symptom Score (IPSS), a four week recall questionnaire that was administered at the beginning and end of a placebo run-in period and subsequently at follow-up visits after randomization. The IPSS assesses the severity of irritative (frequency, urgency, nocturia) and obstructive symptoms (incomplete emptying, stopping and starting, weak stream, and pushing or straining), with scores ranging from 0 to 35; higher numeric scores representing greater severity. Maximum urinary flow rate (Qmax), an objective measure of urine flow, was assessed as a secondary efficacy endpoint in Study J and as a safety endpoint in Study K.
+
+                        The results for BPH patients with moderate to severe symptoms and a mean age of 63.2 years (range 44 to 87) who received either tadalafil 5 mg for once daily use or placebo (N=748) in Studies J and K are shown in Table 19 and Figures 5 and 6, respectively.
+
+                        In each of these 2 trials, tadalafil 5 mg for once daily use resulted in statistically significant improvement in the total IPSS compared to placebo. Mean total IPSS showed a decrease starting at the first scheduled observation (4 weeks) in Study K and remained decreased through 12 weeks.
+
+                           Table 19: Mean IPSS Changes in BPH Patients in Two Tadalafil Tablets for Once Daily Use Studies
+
+                                  |
+
+                                       Study J
+
+                                  |
+
+                                       Study K
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Tadalafil 5 mg
+
+                                  |
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       Tadalafil 5 mg
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       (N=205)
+
+                                  |
+
+                                       (N=205)
+
+                                  |
+
+                                       p-value
+
+                                  |
+
+                                       (N=164)
+
+                                  |
+
+                                       (N=160)
+
+                                  |
+
+                                       p-value
+
+                                  |
+
+                                       Total Symptom Score (IPSS)  
+
+                                  |
+
+                                    Baseline
+
+                                  |
+
+                                    17.1
+
+                                  |
+
+                                    17.3
+
+                                  |
+                                  |
+
+                                    16.6
+
+                                  |
+
+                                    17.1
+
+                                  |
+                                  |
+
+                                    Change from Baseline to Week 12
+
+                                  |
+
+                                    -2.2
+
+                                  |
+
+                                    -4.8
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                    -3.6
+
+                                  |
+
+                                    -5.6
+
+                                  |
+
+                                    0.004
+
+                                  |
+
+                          
+
+                           Figure 5: Mean IPSS Changes in BPH Patients by Visit in Study J
+
+                            
+
+                            Figure 6: Mean IPSS Changes in BPH Patients by Visit in Study K
+
+                        In Study J, the effect of tadalafil 5 mg once daily on maximum urinary flow rate (Qmax) was evaluated as a secondary efficacy endpoint. Mean Qmax increased from baseline in both the treatment and placebo groups (tadalafil 5 mg: 1.6 mL/sec, placebo: 1.2 mL/sec); however, these changes were not significantly different between groups.
+
+                        In Study K, the effect of tadalafil 5 mg once daily on Qmax was evaluated as a safety endpoint. Mean Qmax increased from baseline in both the treatment and placebo groups (tadalafil 5 mg: 1.6 mL/sec, placebo: 1.1 mL/sec); however, these changes were not significantly different between groups.
+
+                           Efficacy Results in Patients with BPH initiating tadalafil and Finasteride - Tadalafil for once daily use initiated together with finasteride was shown to be effective in treating the signs and symptoms of BPH in men with an enlarged prostate (greater than 30 cc) for up to 26 weeks. This additional double-blinded, parallel-design study of 26 weeks duration randomized 696 men to initiate either tadalafil 5 mg with finasteride 5 mg or placebo with finasteride 5 mg. The study population had a mean age of 64 years (range 46 to 86). Patients with multiple co-morbid conditions such as erectile dysfunction, diabetes mellitus, hypertension, and other cardiovascular disease were included.
+
+                        Tadalafil with finasteride demonstrated statistically significant improvement in the signs and symptoms of BPH compared to placebo with finasteride, as measured by the total IPSS at 12 weeks, the primary study endpoint (see Table 20). Key secondary endpoints demonstrated improvement in total IPSS starting at the first scheduled observation at week 4 (tadalafil-4.0, placebo -2.3: p less than .001) and the score remained decreased through 26 weeks (tadalafil-5.5, placebo -4.5; p=.022). However, the magnitude of the treatment difference between placebo/finasteride and tadalafil/finasteride decreased from 1.7 points at Week 4 to 1.0 point at Week 26, as shown in Table 20 and in Figure 7. The incremental benefit of tadalafil beyond 26 weeks is unknown.
+
+                           Table 20: Mean Total IPSS Changes in BPH Patients in a Tadalafil for Once Daily Use Study Together with Finasteride
+
+                                    a Overall ITT population.
+
+                                    b Mixed model for repeated measurements.
+
+                                    c Unadjusted mean.
+
+                                  |
+
+                                  |
+                                  |
+
+                                       Placebo and finasteride 5 mg
+
+                                  |
+                                  |
+
+                                       Tadalafil 5mg and finasteride 5 mg
+
+                                  |
+
+                                       Treatment difference
+
+                                  |
+                                  |
+
+                                       n
+
+                                  |
+
+                                       (N=350)a
+
+                                  |
+
+                                       n
+
+                                  |
+
+                                       (N=345)a
+
+                                  |
+                                  |
+
+                                       p-valueb
+
+                                  |
+
+                                       Total Symptom Score (IPSS)  
+
+                                  |
+
+                                    Baselinec
+
+                                  |
+
+                                    349
+
+                                  |
+
+                                    17.4
+
+                                  |
+
+                                    344
+
+                                  |
+
+                                    17.1
+
+                                  |
+                                  |
+                                  |
+
+                                    Change from Baseline to Week 4b
+
+                                  |
+
+                                    340
+
+                                  |
+
+                                    -2.3
+
+                                  |
+
+                                    330
+
+                                  |
+
+                                    -4
+
+                                  |
+
+                                    -1.7
+
+                                  |
+
+                                    <.001
+
+                                  |
+
+                                    Change from Baseline to Week 12b
+
+                                  |
+
+                                    318
+
+                                  |
+
+                                    -3.8
+
+                                  |
+
+                                    317
+
+                                  |
+
+                                    -5.2
+
+                                  |
+
+                                    -1.4
+
+                                  |
+
+                                    0.001
+
+                                  |
+
+                                    Change from Baseline to Week 26b
+
+                                  |
+
+                                    295
+
+                                  |
+
+                                    -4.5
+
+                                  |
+
+                                    308
+
+                                  |
+
+                                    -5.5
+
+                                  |
+
+                                    -1
+
+                                  |
+
+                                    0.022
+
+                                  |
+
+                                                                     
+
+                           Figure 7: Mean Total IPSS Changes By Visit in BPH Patients Taking Tadalafil for Once Daily Use Together With Finasteride
+
+                        In the 404 patients who had both ED and BPH at baseline, changes in erectile function were assessed as key secondary endpoints using the EF domain of the IIEF questionnaire. Tadalafil with finasteride (N=203) was compared to placebo with finasteride (N=201). A statistically significant improvement from baseline (tadalafil/finasteride 13.7, placebo/finasteride 15.1) was observed at week 4 (tadalafil/finasteride 3.7, placebo/finasteride -1.1; p less than .001), week 12 (tadalafil/finasteride 4.7, placebo/finasteride 0.6; p less than .001), and week 26 (tadalafil/finasteride 4.7, placebo/finasteride 0.0; p less than .001).

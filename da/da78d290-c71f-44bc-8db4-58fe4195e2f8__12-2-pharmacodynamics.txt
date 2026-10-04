@@ -1,0 +1,17 @@
+DailyMed da78d290-c71f-44bc-8db4-58fe4195e2f8 | Allopurinol | 12.2 Pharmacodynamics
+
+Allopurinol reduces the production of uric acid by inhibiting the biochemical reactions immediately preceding its formation in a dose dependent manner. The pharmacological action of allopurinol is generally believed to be mediated by its oxypurinol metabolite.
+
+                           Effect on Hypoxanthine and Xanthine
+
+                        Reutilization of both hypoxanthine and xanthine for nucleotide and nucleic acid synthesis is markedly enhanced when their oxidations are inhibited by allopurinol and oxipurinol. This reutilization does not disrupt normal nucleic acid anabolism, however, because feedback inhibition is an integral part of purine biosynthesis. As a result of xanthine oxidase inhibition, the serum concentration of hypoxanthine plus xanthine in patients receiving allopurinol for treatment of hyperuricemia is usually in the range of 0.3 mg/dL to 0.4 mg/dL compared to a normal level of approximately 0.15 mg/dL. A maximum of 0.9 mg/dL of these oxypurines has been reported when the serum urate was lowered to less than 2 mg/dL by high doses of allopurinol. These values are far below the saturation levels at which point their precipitation would be expected to occur (above 7 mg/dL). The increased xanthine and hypoxanthine in the urine in patients who were treated with oral allopurinol have not been accompanied by problems of nephrolithiasis; however, there are isolated case reports of xanthine crystalluria.
+
+                           Drug Interaction Studies
+
+                           Fluorouracil:Based on non-clinical data, allopurinol may decrease anti-tumor activity due to suppression of phosphorylation of 5-fluorouracil.
+
+                           Pegloticase: Concomitant use of allopurinol and pegloticase may potentially blunt the rise of serum uric acid levels required for monitoring the safe use of pegloticase.
+
+                           Cytotoxic Agents: Enhanced bone marrow suppression by cyclophosphamide and other cytotoxic agents has been reported among patients with neoplastic disease, except leukemia, in the presence of allopurinol.
+
+                           Thiazide Diuretics: Reports that the concomitant administration of allopurinol and thiazide diuretics contributed to increased allopurinol toxicity were reviewed; however, a causal mechanism or cause-and-effect relationship was not found.

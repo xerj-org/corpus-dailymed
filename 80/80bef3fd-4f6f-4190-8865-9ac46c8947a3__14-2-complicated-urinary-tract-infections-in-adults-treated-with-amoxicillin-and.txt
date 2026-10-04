@@ -1,0 +1,55 @@
+DailyMed 80bef3fd-4f6f-4190-8865-9ac46c8947a3 | Amoxicillin and Clavulanate Potassium | 14.2 Complicated Urinary Tract Infections in Adults Treated with Amoxicillin and Clavulanate Potassium Tablets
+
+A randomized, controlled trial was conducted in adults with pyelonephritis (n=361) or complicated urinary tract infection (n=268), defined as urinary tract abnormalities that predispose to relapse after bacteriuria eradication. Patients were randomized 1:1 to receive amoxicillin and clavulanate potassium tablets 875 mg/125 mg every 12 hours (n=308) or amoxicillin and clavulanate potassium tablets 500 mg/125 mg every 8 hours (n=321). Among bacteriologically evaluable patients, bacteriologic success rates were comparable between the two dosing regimens when assessed immediately after therapy and at follow-up visits.
+
+                           Table 13: Bacteriologic Efficacy Rates in Complicated Urinary Tract Infections in Adults
+
+                                    Time Post Therapy
+
+                                  |
+
+                                    875 mg every
+
+                                    12 hours
+
+                                    % (n)
+
+                                  |
+
+                                    500 mg every
+
+                                    8 hours
+
+                                    % (n)
+
+                                  |
+
+                                 2 to 4 days
+
+                                  |
+                                 81% (58)
+
+                                  |
+                                 80% (54)
+
+                                  |
+
+                                 5 to 9 days
+
+                                  |
+                                 58% (41)
+
+                                  |
+                                 52% (52)
+
+                                  |
+
+                                 2 to 4 weeks
+
+                                  |
+                                 52% (101)
+
+                                  |
+                                 55% (104)
+
+                                  |

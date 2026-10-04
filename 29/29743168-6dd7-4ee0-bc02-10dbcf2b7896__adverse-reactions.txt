@@ -1,0 +1,608 @@
+DailyMed 29743168-6dd7-4ee0-bc02-10dbcf2b7896 | Foscarnet Sodium | ADVERSE REACTIONS
+
+THE MAJOR TOXICITY OF FOSCARNET SODIUM INJECTION IS RENAL IMPAIRMENT (see WARNINGS section). Approximately 33% of 189 patients with AIDS and CMV retinitis who received foscarnet sodium injection (60 mg/kg TID), without adequate hydration, developed significant impairment of renal function (serum creatinine ≥ 2.0 mg/dL). The incidence of renal impairment in subsequent clinical trials in which 1000 mL of normal saline or 5% dextrose solution was given with each infusion of foscarnet sodium injection was 12% (34/280).
+
+                  Foscarnet sodium injection has been associated with changes in serum electrolytes including hypocalcemia (15–30%), hypophosphatemia (8–26%) and hyperphosphatemia (6%), hypomagnesemia (15– 30%), and hypokalemia (16–48%) (see WARNINGS section). The higher percentages were derived from those patients receiving hydration.
+
+                  Foscarnet sodium injection treatment was associated with seizures in 18/189 (10%) AIDS patients in the initial five controlled studies (see WARNINGS section). Risk factors associated with seizures included impaired baseline renal function, low total serum calcium, and underlying CNS conditions predisposing the patient to seizures. The rate of seizures did not increase with duration of treatment. Three cases were associated with overdoses of foscarnet sodium injection (see OVERDOSAGE section).
+
+                  In five controlled U.S. clinical trials the most frequently reported adverse events in patients with AIDS and CMV retinitis are shown in Table 9. These figures were calculated without reference to drug relationship or severity.
+
+                     TABLE 9
+
+                     Adverse Events Reported in Five Controlled US Clinical Trials
+
+                            |
+
+                              n = 189
+
+                            |
+                            |
+
+                              n = 189
+
+                            |
+
+                              Fever
+
+                            |
+                           65%
+
+                            |
+
+                              Abnormal Renal Function
+
+                            |
+                           27%
+
+                            |
+
+                              Nausea
+
+                            |
+                           47%
+
+                            |
+
+                              Vomiting
+
+                            |
+                           26%
+
+                            |
+
+                              Anemia
+
+                            |
+                           33%
+
+                            |
+
+                              Headache
+
+                            |
+                           26%
+
+                            |
+
+                              Diarrhea
+
+                            |
+                           30%
+
+                            |
+
+                              Seizures
+
+                            |
+                           10%
+
+                            |
+
+                   From the same controlled studies, adverse events categorized by investigator as “severe” are shown in Table 10. Although death was specifically attributed to foscarnet sodium injection in only one case, other complications of foscarnet sodium injection (i.e., renal impairment, electrolyte abnormalities, and seizures) may have contributed to patient deaths (see WARNINGS section).
+
+                     TABLE 10
+
+ Severe Adverse Events
+
+                            |
+
+                              n = 189
+
+                            |
+
+                              Death
+
+                            |
+                           14%
+
+                            |
+
+                              Abnormal Renal Function
+
+                            |
+                           14%
+
+                            |
+
+                              Marrow Suppression
+
+                            |
+                           10%
+
+                            |
+
+                              Anemia
+
+                            |
+                           9%
+
+                            |
+
+                              Seizures
+
+                            |
+                           7%
+
+                            |
+
+                  From the five initial U.S. controlled trials of foscarnet sodium injection, the following list of adverse events has been compiled regardless of causal relationship to foscarnet sodium injection. Evaluation of these reports was difficult because of the diverse manifestations of the underlying disease and because most patients received numerous concomitant medications.
+
+                     Incidence of 5% or Greater
+
+                     Body as a Whole: fever, fatigue, rigors, asthenia, malaise, pain, infection, sepsis, death
+
+                     Central and Peripheral Nervous System: headache, paresthesia, dizziness, involuntary muscle contractions, hypoesthesia, neuropathy, seizures including grand mal seizures (see WARNINGS)
+
+                     Gastrointestinal System: anorexia, nausea, diarrhea, vomiting, abdominal pain
+
+                     Hematologic: anemia, granulocytopenia, leukopenia, neutropenia (see PRECAUTIONS)
+
+                     Metabolic and Nutritional: mineral and electrolyte imbalances (see WARNINGS) including hypokalemia, hypocalcemia, hypomagnesemia, hypophosphatemia, hyperphosphatemia
+
+                     Psychiatric: depression, confusion, anxiety
+
+                     Respiratory System: coughing, dyspnea
+
+                     Skin and Appendages: rash, increased sweating
+
+                     Urinary System: alterations in renal function including increased serum creatinine, decreased creatinine clearance, and abnormal renal function (see WARNINGS)
+
+                     Special Senses: vision abnormalities
+
+                     Incidence between 1% and 5%
+
+                     Application Site: injection site pain, injection site inflammation
+
+                     Body as a Whole: back pain, chest pain (including reports of transient chest pain as part of infusion reactions), edema, influenza-like symptoms, bacterial infections, moniliasis, fungal infections, abscess
+
+                     Cardiovascular: hypertension, palpitations, ECG abnormalities including sinus tachycardia, first degree AV block and non-specific ST-T segment changes, hypotension, flushing, cerebrovascular disorder (see WARNINGS)
+
+                     Central and Peripheral Nervous System: tremor, ataxia, dementia, stupor, generalized spasms, sensory disturbances, meningitis, aphasia, abnormal coordination, leg cramps, EEG abnormalities (see WARNINGS)
+
+                     Gastrointestinal: constipation, dysphagia, dyspepsia, rectal hemorrhage, dry mouth, melena, flatulence, ulcerative stomatitis, pancreatitis
+
+                     Hematologic: thrombocytopenia, platelet abnormalities, thrombosis, white blood cell abnormalities, lymphadenopathy
+
+                     Liver and Biliary: abnormal A-G ratio, abnormal hepatic function, increased SGPT, increased SGOT
+
+                     Metabolic and Nutritional: hyponatremia, decreased weight, increased alkaline phosphatase, increased LDH, increased BUN, acidosis, cachexia, thirst
+
+                     Musculo-Skeletal: arthralgia, myalgia
+
+                     Neoplasms: lymphoma-like disorder, sarcoma
+
+                     Psychiatric: insomnia, somnolence, nervousness, amnesia, agitation, aggressive reaction, hallucination
+
+                     Respiratory System: pneumonia, sinusitis, pharyngitis, rhinitis, respiratory disorders, respiratory insufficiency, pulmonary infiltration, stridor, pneumothorax, hemoptysis, bronchospasm
+
+                     Skin and Appendages: pruritus, skin ulceration, seborrhea, erythematous rash, maculo-papular
+
+                  rash, skin discoloration
+
+                     Special Senses: taste perversions, eye abnormalities, eye pain, conjunctivitis
+
+                     Urinary System: albuminuria, dysuria, polyuria, urethral disorder, urinary retention, urinary tract infections, acute renal failure, nocturia, facial edema
+
+                  Selected adverse events occurring at a rate of less than 1% in the five initial U.S. controlled clinical trials of foscarnet sodium injection include: syndrome of inappropriate antidiuretic hormone secretion, pancytopenia, hematuria, dehydration, hypoproteinemia, increases in amylase and creatinine phosphokinase, cardiac arrest, coma, and other cardiovascular and neurologic complications.
+
+                  Selected adverse event data from the Foscarnet vs. Ganciclovir CMV Retinitis Trial (FGCRT), performed by the Studies of the Ocular Complications of AIDS (SOCA) Research Group, are shown in Table 11 (see CLINICAL TRIALS section).
+
+                     TABLE 11
+
+ FGCRT: Selected Adverse Events*
+
+                              EVENT
+
+                            |
+
+                              GANCICLOVIR
+
+                            |
+
+                              FOSCARNET
+
+                            |
+
+No. of
+
+Events |
+
+No. of
+
+Patients |
+
+Rates†
+                            |
+
+No. of
+
+Events |
+
+No. of
+
+Patients |
+
+Rates†
+                            |
+
+                           Absolute neutrophil count
+
+decreasing to <0.50 x 109 per liter
+
+                            |
+
+63 |
+
+41 |
+
+1.30 |
+
+31 |
+
+17 |
+
+0.72 |
+
+                           Serum creatinine increasing to
+
+>260 μmol per liter (>2.9 mg/dL)
+
+                            |
+
+6 |
+
+4 |
+
+0.12 |
+
+13 |
+
+9 |
+
+0.30 |
+
+                           Seizure ‡
+
+                            |
+
+21 |
+
+13 |
+
+0.37 |
+
+19 |
+
+13 |
+
+0.37 |
+
+                           Catheterization-related infection
+
+                            |
+
+49 |
+
+27 |
+
+1.26 |
+
+51 |
+
+28 |
+
+1.46 |
+
+                           Hospitalization
+
+                            |
+
+209 |
+
+91 |
+
+4.74 |
+
+202 |
+
+75 |
+
+5.03 |
+
+                   * Values for the treatment groups refer only to patients who completed at least one follow-up visit – i.e., 133 to 119 patients in the ganciclovir group and 93 to 100 in the foscarnet group. “Events” denotes all events observed and “patients” the number of patients with one or more of the indicated events.
+
+                     †Per person-year at risk
+
+                     ‡Final frozen SOCA I database dated October 1991
+
+ Selected adverse events from ACTG Study 228 (CRRT) comparing combination therapy with foscarnet sodium injection or ganciclovir monotherapy are shown in Table 12. The most common reason for a treatment change in patients assigned to either foscarnet sodium injection or ganciclovir was retinitis progression. The most frequent reason for a treatment change in the combination treatment group was toxicity.
+
+                     TABLE 12
+
+ CRRT: Selected Adverse Events
+
+                            |
+                           Foscarnet SodiumInjection
+
+N=88
+
+                            |
+                           Ganciclovir
+
+N=93
+
+                            |
+                           Combination
+
+N=93
+
+                            |
+
+                           No. Events
+
+                            |
+                           No. Pts.*
+
+                            |
+                           Rate†
+
+                            |
+                           No. Events
+
+                            |
+                           No. Pts.*
+
+                            |
+                           Rate†
+
+                            |
+                           No. Events
+
+                            |
+                           No. Pts.*
+
+                            |
+                           Rate†
+
+                            |
+
+                           Anemia (Hgb <70g/L)
+
+                            |
+                           11
+
+                            |
+                           7
+
+                            |
+                           0.20
+
+                            |
+                           9
+
+                            |
+                           7
+
+                            |
+                           0.14
+
+                            |
+                           19
+
+                            |
+                           15
+
+                            |
+                           0.33
+
+                            |
+
+                           Neutropenia‡
+
+ANC <0.75 x 109 cells/L
+
+ANC <0.50 x 109 cells/L
+
+                            |
+                           86
+
+50
+
+                            |
+                           32
+
+25
+
+                            |
+                           1.53
+
+0.91
+
+                            |
+                           95
+
+49
+
+                            |
+                           41
+
+28
+
+                            |
+                           1.51
+
+0.80
+
+                            |
+                           107
+
+50
+
+                            |
+                           51
+
+28
+
+                            |
+                           1.91
+
+0.85
+
+                            |
+
+                           Thrombocytopenia
+
+Platelets <50 x 109/L
+
+Platelets <20 x 109/L
+
+                            |
+                           28
+
+1
+
+                            |
+                           14
+
+1
+
+                            |
+                           0.50
+
+0.01
+
+                            |
+                           19
+
+6
+
+                            |
+                           8
+
+2
+
+                            |
+                           0.43
+
+0.05
+
+                            |
+                           40
+
+7
+
+                            |
+                           15
+
+6
+
+                            |
+                           0.56
+
+0.18
+
+                            |
+
+                           Nephrotoxicity
+
+Creatinine >260
+
+μmol/L (>2.9 mg/dL)
+
+                            |
+                           9
+
+                            |
+                           7
+
+                            |
+                           0.15
+
+                            |
+                           10
+
+                            |
+                           7
+
+                            |
+                           0.17
+
+                            |
+                           11
+
+                            |
+                           10
+
+                            |
+                           0.20
+
+                            |
+
+                           Seizures
+
+                            |
+                           6
+
+                            |
+                           6
+
+                            |
+                           0.17
+
+                            |
+                           7
+
+                            |
+                           6
+
+                            |
+                           0.15
+
+                            |
+                           10
+
+                            |
+                           5
+
+                            |
+                           0.18
+
+                            |
+
+                           Hospitalizations
+
+                            |
+                           86
+
+                            |
+                           53
+
+                            |
+                           1.86
+
+                            |
+                           111
+
+                            |
+                           59
+
+                            |
+                           2.36
+
+                            |
+                           118
+
+                            |
+                           64
+
+                            |
+                           2.36
+
+                            |
+
+                  * Pts. = patients with event; †Rate = events/person/year; ‡ANC = absolute neutrophil count
+
+                  Adverse events that have been reported in post-marketing surveillance include: administration site extravasation, localized edema, hypersensitivity reactions (including anaphylactic shock, urticaria and angioedema) (see WARNINGS section), gastrointestinal hemorrhage, increased lipase, glomerulonephritis, nephrotic syndrome, proteinuria, status epilepticus, ventricular arrhythmia, prolongation of QT interval, torsade de pointes (see WARNINGS section), gamma GT increased, diabetes insipidus (usually nephrogenic), renal calculus, Fanconi syndrome acquired, renal tubular acidosis, renal tubular necrosis, crystal-induced nephropathy, hypercalcemia, hypernatremia, esophageal ulceration and muscle disorders including myopathy, myositis, muscle weakness and rare cases of rhabdomyolysis. Cases of vesiculobullous eruptions including erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome have been reported. In most cases, patients were taking other medications that have been associated with toxic epidermal necrolysis or Stevens-Johnson syndrome.
+
+                     To report SUSPECTED ADVERSE REACTIONS, contact Somerset Therapeutics, LLC at 1-800-417-9175 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

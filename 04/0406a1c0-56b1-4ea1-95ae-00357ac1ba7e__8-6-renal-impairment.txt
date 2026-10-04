@@ -1,0 +1,7 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 8.6 Renal Impairment
+
+Dapagliflozin was evaluated in two glycemic control adult trials that included patients with type 2 diabetes mellitus with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2 
+                           [see Clinical Studies (14.1)], and an eGFR of 30 to less than 60 mL/min/1.73 m2, respectively). Patients with diabetes and renal impairment using dapagliflozin may be more likely to experience hypotension and may be at higher risk for acute kidney injury secondary to volume depletion. In the trial of adult patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving dapagliflozin experienced bone fractures compared to none receiving placebo. Use of dapagliflozin for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m2 
+                           [see Dosage and Administration (2.1)].
+
+                        Efficacy and safety trials with dapagliflozin did not enroll patients with an eGFR less than 25 mL/min/1.73 m2 or on dialysis.

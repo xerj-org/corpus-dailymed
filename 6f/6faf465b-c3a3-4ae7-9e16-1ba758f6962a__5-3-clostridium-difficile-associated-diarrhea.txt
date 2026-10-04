@@ -1,0 +1,5 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | 5.3 Clostridium difficile-Associated Diarrhea
+
+Published observational studies suggest that PPI therapy like pantoprazole sodium delayed-release tablets may be associated with an increased risk of Clostridium difficile-associated diarrhea, especially in hospitalized patients. This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
+
+                        Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.

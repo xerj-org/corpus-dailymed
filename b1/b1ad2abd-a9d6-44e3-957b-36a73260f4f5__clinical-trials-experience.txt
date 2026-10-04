@@ -1,0 +1,173 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
+
+                        The data described below reflect exposure to haloperidol in the following:
+
+                              •
+
+284 patients who participated in 3 double-blind, placebo-controlled clinical trials with haloperidol (oral formulation, 2 to 20 mg/day); two trials were in the treatment of schizophrenia and one in the treatment of bipolar disorder.
+
+                              •
+
+1295 patients who participated in 16 double-blind, active comparator-controlled clinical trials with haloperidol (injection or oral formulation, 1 to 45 mg/day) in the treatment of schizophrenia.
+
+                        Based on the pooled safety data, the most common adverse reactions in haloperidol-treated patients from these double-blind placebo-controlled clinical trials (≥5%) were: extrapyramidal disorder, hyperkinesia, tremor, hypertonia, dystonia, and somnolence.
+
+                        Adverse Reactions Reported at ≥1% Incidence in Double-Blind Placebo-Controlled Clinical Trials with Oral Haloperidol
+
+                        Adverse reactions occurring in ≥1% of haloperidol-treated patients and at higher rate than placebo in 3 double-blind, parallel, placebo-controlled, clinical trials with the oral formulation are shown in Table 1.
+
+                           Table 1. Adverse Reactions Occurring in ≥1% of Haloperidol-Treated Patients in Double-Blind, Parallel Placebo-Controlled Clinical Trials (Oral Haloperidol)
+
+                                    a Represents the total reporting rate for extrapyramidal disorder (reported term) and individual symptoms of extrapyramidal disorder, including events that did not meet the threshold of ≥1% for inclusion in this table  |
+
+                                       System/Organ Class
+
+      Adverse Reaction
+
+                                  |
+
+                                       Haloperidol
+
+                                       (n=284)
+
+                                       %
+
+                                  |
+
+                                       Placebo
+
+                                       (n=282)
+
+                                       %
+
+                                  |
+
+                                       Gastrointestinal Disorders
+
+                                  |
+
+                                          Constipation
+
+                                  |
+
+                                    4.2
+
+                                  |
+
+                                    1.8
+
+                                  |
+
+                                          Dry mouth
+
+                                  |
+
+                                    1.8
+
+                                  |
+
+                                    0.4
+
+                                  |
+
+                                          Salivary hypersecretion
+
+                                  |
+
+                                    1.2
+
+                                  |
+
+                                    0.7
+
+                                  |
+
+                                       Nervous System Disorders
+
+                                  |
+
+                                          Extrapyramidal disordera
+
+                                  |
+
+                                    50.7
+
+                                  |
+
+                                    16.0
+
+                                  |
+
+                                                Hyperkinesia
+
+                                  |
+
+                                    10.2
+
+                                  |
+
+                                    2.5
+
+                                  |
+
+                                                Tremor
+
+                                  |
+
+                                    8.1
+
+                                  |
+
+                                    3.6
+
+                                  |
+
+                                                Hypertonia
+
+                                  |
+
+                                    7.4
+
+                                  |
+
+                                    0.7
+
+                                  |
+
+                                                Dystonia
+
+                                  |
+
+                                    6.7
+
+                                  |
+
+                                    0.4
+
+                                  |
+
+                                                Bradykinesia
+
+                                  |
+
+                                    4.2
+
+                                  |
+
+                                    0.4
+
+                                  |
+
+                                          Somnolence
+
+                                  |
+
+                                    5.3
+
+                                  |
+
+                                    1.1
+
+                                  |

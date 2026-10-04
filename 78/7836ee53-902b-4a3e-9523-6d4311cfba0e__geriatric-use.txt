@@ -1,0 +1,15 @@
+DailyMed 7836ee53-902b-4a3e-9523-6d4311cfba0e | Atenolol | Geriatric Use
+
+Hypertension and Angina Pectoris Due to Coronary Atherosclerosis:
+
+                        Clinical studies of atenolol did not include sufficient number of patients aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients.  In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+                        Acute Myocardial Infarction:
+
+                        Of the 8,037 patients with suspected acute myocardial infarction randomized to atenolol in the ISIS-1 trial (See
+                              CLINICAL PHARMACOLOGY
+                           ), 33% (2,644) were 65 years of age and older. It was not possible to identify significant differences in efficacy and safety between older and younger patients; however, elderly patients with systolic blood pressure < 120 mmHg seemed less likely to benefit (See
+                              INDICATIONS AND USAGE
+                           ).
+
+                        In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.

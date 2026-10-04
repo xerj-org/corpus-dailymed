@@ -1,0 +1,1115 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety population described in WARNINGS and PRECAUTIONS reflects exposure to TRUQAP 400 mg orally, twice a day for 4 days followed by 3 days off, in combination with fulvestrant, in 355 patients in CAPItello-291 until disease progression or unacceptable toxicity. Among the 355 patients who received TRUQAP, 52% were exposed for 6 months or longer, and 27% were exposed for greater than one year. In this safety population, the most common (≥ 20%) adverse reactions including laboratory abnormalities were diarrhea (72%), cutaneous adverse reactions (58%), increased random glucose (57%), decreased lymphocytes (47%), decreased hemoglobin (45%), increased fasting glucose (37%), nausea and fatigue (35% each), decreased leukocytes (32%), increased triglycerides (27%), decreased neutrophils (23%), increased creatinine (22%), vomiting (21%), and stomatitis (20%).The safety population described in WARNINGS and PRECAUTIONS also reflects exposure to TRUQAP 400 mg orally, twice a day for 4 days followed by 3 days off, in combination with abiraterone, in 503 patients with mAPMN/S prostate cancer with PTEN deficiency in CAPItello-281 until disease progression or unacceptable toxicity.
+
+                           CAPItello-291
+
+                        The safety of TRUQAP was evaluated in CAPItello-291, a clinical trial including 288 adult patients (155 patients in TRUQAP with fulvestrant arm and 133 patients in placebo with fulvestrant arm) whose breast cancer had one or more PIK3CA/AKT1/PTEN-alterations [see Clinical Studies (14)]. Among patients who received TRUQAP, 61% were exposed for 6 months or longer and 30% were exposed for greater than one year.
+
+                        Of the 155 patients who received TRUQAP with fulvestrant, the median age was 58 years (range 36 to 84); female (99%); White (48%), Asian (31%), Black (1.3%), American Indian/Alaska Native (0.6%), and other races (19%).
+
+                        Serious adverse reactions occurred in 18% of patients receiving TRUQAP with fulvestrant. The most common serious adverse reactions (≥ 1%) were cutaneous adverse reaction (3.9%), diarrhea and pneumonia (2.6% each), vomiting and pyrexia (1.9% each), hyperglycemia, hypersensitivity, fatigue, renal injury and second malignancy (1.3% each).
+
+                        Fatal adverse reactions occurred in 1.3% of patients who received TRUQAP with fulvestrant, including sepsis (0.6%), and acute myocardial infarction (0.6%).
+
+                        Permanent TRUQAP discontinuation due to an adverse reaction occurred in 10% of patients. The most common adverse reaction (≥ 2%) leading to permanent discontinuation of TRUQAP was cutaneous adverse reactions (6%). Dosage interruptions of TRUQAP due to an adverse reaction occurred in 39% of patients. Adverse reactions leading to dosage interruption in ≥ 2% of patients included cutaneous adverse reactions (14%), diarrhea (10%), pyrexia (4.5%), vomiting and nausea (3.2% each), and fatigue (2.6%).
+
+                        Dose reductions of TRUQAP due to adverse reactions occurred in 21% of patients receiving TRUQAP with fulvestrant. Adverse reactions leading to TRUQAP dose reductions in ≥ 2% of patients were diarrhea and cutaneous adverse reactions (8% each).
+
+                        The most common (≥ 20%) adverse reactions including laboratory abnormalities were diarrhea (77%), increased random glucose (58%), cutaneous adverse reaction (56%), decreased lymphocytes (49%), decreased hemoglobin (47%), fatigue (38%), increased fasting glucose (37%), nausea and decreased leukocytes (35% each), increased triglycerides (30%), stomatitis (25%), decreased neutrophils (25%), vomiting (21%). Adverse reactions and laboratory abnormalities are listed in Table 4 and Table 5, respectively.
+
+                           Table 4: Adverse Reactions ≥ 10% in Patients who Received TRUQAP with Fulvestrant [with a Difference Between Arms of ≥ 3%] in CAPItello-291
+
+                                        Adverse Reaction 
+
+                                  |
+
+                                       TRUQAP with Fulvestrant
+
+                                       N=155
+
+                                  |
+
+                                       Placebo with Fulvestrant
+
+                                       N=133
+
+                                  |
+
+                                       All Grades
+
+                                       %
+
+                                  |
+
+                                       Grade 3 or 4
+
+                                       %
+
+                                  |
+
+                                       All Grades
+
+                                       %
+
+                                  |
+
+                                       Grade 3 or 4
+
+                                       %
+
+                                  |
+
+                                    Gastrointestinal Disorders 
+
+                                  |
+
+                                    Diarrhea 
+
+                                  |
+
+                                    77
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    19
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                    Nausea 
+
+                                  |
+
+                                    35
+
+                                  |
+
+                                    1.3
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                    StomatitisIncludes other related terms.
+
+ 
+
+                                  |
+
+                                    25
+
+                                  |
+
+                                    1.9
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Vomiting 
+
+                                  |
+
+                                    21
+
+                                  |
+
+                                    1.9
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                       Skin and Subcutaneous Tissue Disorders 
+
+                                  |
+
+                                    Cutaneous adverse reactionsCutaneous adverse reaction includes butterfly rash, dermatitis, allergic dermatitis, dry skin, eczema, erythema multiforme, hand dermatitis, palmar-plantar erythrodysesthesia syndrome, pruritus, rash, erythematous rash, maculo-papular rash, papular rash, skin discoloration, skin fissures, skin reaction, skin ulcer, urticaria, purpura, erythema and drug eruption.
+
+ 
+
+                                  |
+
+                                    56
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    16
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                       General Disorders and Administration Site Conditions 
+
+                                  |
+
+                                    Fatigue
+
+                                  |
+
+                                    38
+
+                                  |
+
+                                    1.9
+
+                                  |
+
+                                    27
+
+                                  |
+
+                                    1.5
+
+                                  |
+
+                                       Metabolism and Nutrition Disorders 
+
+                                  |
+
+                                    Decreased appetite 
+
+                                  |
+
+                                    17
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                       Nervous System Disorders 
+
+                                  |
+
+                                    Headache 
+
+                                  |
+
+                                    17
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                       Infections and Infestations 
+
+                                  |
+
+                                    Urinary tract infection 
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    0.6
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                       Renal and Urinary disorders
+
+                                  |
+
+                                    Renal injuryRenal injury includes acute kidney injury, renal failure, renal impairment, glomerular filtration rate decreased, increased creatinine and proteinuria.
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    2.6
+
+                                  |
+
+                                    1.5
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                        Clinically relevant adverse reactions occurring in < 10% of patients treated with TRUQAP included anemia, pyrexia, dysgeusia, dyspepsia, pneumonia, weight decreased, hypersensitivity (including anaphylactic reaction).
+
+                           Table 5: Laboratory Abnormalities (≥ 10%) That Worsened from Baseline in Patients who Received TRUQAP with Fulvestrant [With a Difference Between Arms ≥3%] in CAPItello-291
+
+                                       Laboratory Abnormality
+
+                                  |
+
+                                       TRUQAP with Fulvestrant
+                                       The denominator used to calculate the rate varied from 129 to 155 based on the number of patients with a baseline value and at least one post-treatment value.
+
+                                  |
+
+                                       Placebo with Fulvestrant
+                                       The denominator used to calculate the rate varied from 109 to 131 based on the number of patients with a baseline value and at least one post-treatment value.
+
+                                  |
+
+                                           
+
+                                          All Grades
+
+                                           
+
+                                          (%)
+
+                                  |
+
+                                           
+
+                                          Grade 3 or 4
+
+                                           
+
+                                          (%)
+
+                                  |
+
+                                       All Grades
+
+                                       (%)
+
+                                  |
+
+                                       Grade 3 or 4
+
+                                       (%)
+
+                                  |
+
+                                       Glucose Metabolism
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                    Increased random glucose
+
+                                  |
+
+                                    58
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    17
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Increased fasting glucose
+
+                                  |
+
+                                    37
+
+                                  |
+
+                                    0.6
+
+                                  |
+
+                                    29
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                       Hematology
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                    Decreased lymphocytes
+
+                                  |
+
+                                    49
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    2.3
+
+                                  |
+
+                                    Decreased hemoglobin
+
+                                  |
+
+                                    47
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    22
+
+                                  |
+
+                                    2.3
+
+                                  |
+
+                                    Decreased leukocytes
+
+                                  |
+
+                                    35
+
+                                  |
+
+                                    0.6
+
+                                  |
+
+                                    23
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Decreased neutrophils
+
+                                  |
+
+                                    25
+
+                                  |
+
+                                    1.9
+
+                                  |
+
+                                    16
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                    Decreased platelets
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    1.9
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                       Other Categories
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                    Increased triglycerides
+
+                                  |
+
+                                    30
+
+                                  |
+
+                                    0.7
+
+                                  |
+
+                                    22
+
+                                  |
+
+                                    0.9
+
+                                  |
+
+                                    Increased alanine aminotransferase
+
+                                  |
+
+                                    23
+
+                                  |
+
+                                    2.6
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                       Electrolytes/Renal
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                    Decreased corrected calcium
+
+                                  |
+
+                                    19
+
+                                  |
+
+                                    0.6
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Increased creatinine
+
+                                  |
+
+                                    19
+
+                                  |
+
+                                    1.3
+
+                                  |
+
+                                    4.6
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                    Decreased potassium
+
+                                  |
+
+                                    17
+
+                                  |
+
+                                    4.5
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    0
+
+                                  |
+
+                           CAPItello-281
+
+                        The safety of TRUQAP was evaluated in CAPItello-281, a clinical trial including 1006 adult patients (503 patients in TRUQAP with abiraterone and prednisone/prednisolone arm and 503 patients in placebo with abiraterone and prednisone/prednisolone arm) with mAPMN/S prostate cancer with PTEN deficiency [see Clinical Studies (14)]. Among the 503 patients who received TRUQAP, 74% were exposed for 6 months or longer, 58% were exposed for 12 months or longer, and 35% were exposed for more than 2 years.
+
+                        Serious adverse reactions occurred in 47% of patients who received TRUQAP with abiraterone and prednisone. The most common serious adverse reactions (≥ 2%) were pneumonia (7%), cutaneous adverse reactions (5%), hyperglycemia (5%), hemorrhage (3.4%), urinary tract infection (3.2%), ischemic cerebro /cardiovascular events (3.2%), acute kidney injury (2.2%), and hypokalemia (2.2%).
+
+                        Fatal adverse reactions occurred in 8% of patients who received TRUQAP with abiraterone and prednisone, including sepsis (1.2%), ischemic cerebro-/cardiovascular events (1%), hemorrhage (0.6%), pneumonia (0.4%), and diabetic ketoacidosis (0.2%).
+
+                        Dosage interruptions of TRUQAP due to an adverse reaction occurred in 65% of patients. Adverse reactions leading to dosage interruption in ≥ 2% of patients included cutaneous adverse reactions (22%), hyperglycemia (15%), diarrhea (13%), pneumonia (4%), hypokalemia (3.4%), fatigue (3.2%), pyrexia (3.2%), vomiting (2.6%), urinary tract infection (2.4%), nausea (2%) and anemia (2%).
+
+                        Permanent TRUQAP discontinuation due to an adverse reaction occurred in 20% of patients. The most common adverse reactions (≥ 2%) leading to treatment discontinuation were cutaneous adverse reactions (8%) and hyperglycemia (2.4%).
+
+                        Dose reductions of TRUQAP due to adverse reactions occurred in 32% of patients. Adverse reactions leading to TRUQAP dose reductions in ≥ 2% of patients were cutaneous adverse reactions (12%), hyperglycemia (9%), diarrhea (5%), and fatigue (2%).
+
+                        The most common (≥ 20%) adverse reactions including laboratory abnormalities were increased fasting glucose, decreased hemoglobin, decreased lymphocytes, cutaneous adverse reactions, diarrhea, decreased potassium, increased creatinine, increased non-fasting glucose, increased alanine aminotransferase, increased triglycerides, increased aspartate aminotransferase, decreased sodium, and fatigue.
+
+                        Adverse reactions and laboratory abnormalities are listed in Table 6 and Table 7, respectively.
+
+                           Table 6: Adverse Reactions ≥ 10% in Patients who Received TRUQAP plus Abiraterone [with a Difference Between Arms of ≥ 5% (All Grades) or ≥2% (Grade 3 or 4)] in CAPItello-281
+
+                                       Adverse Reaction
+
+                                  |
+
+                                       TRUQAP plus Abiraterone
+
+                                       N=503
+
+                                  |
+
+                                       Placebo plus Abiraterone
+
+                                       N=503
+
+                                  |
+
+                                       All Grades
+
+                                       %
+
+                                  |
+
+                                       Grade 3 or 4
+
+                                       %
+
+                                  |
+
+                                       All Grades
+
+                                       %
+
+                                  |
+
+                                       Grade 3 or 4
+
+                                       %
+
+                                  |
+
+                                       Gastrointestinal Disorders
+
+                                  |
+
+                                    Diarrhea
+
+                                  |
+
+                                    53
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    0.4
+
+                                  |
+
+                                    Nausea
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    0.6
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    0.2
+
+                                  |
+
+                                       Skin and Subcutaneous Tissue Disorders 
+
+                                  |
+
+                                    Cutaneous adverse reactionsCutaneous adverse reaction includes brachioradial pruritus, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis exfoliative, dermatitis exfoliative generalized, drug eruption, dry skin, eczema, eczema asteatotic, eczema nummular, erythema, erythema ab igne, erythema multiforme, exfoliative rash, eye pruritus, eyelids pruritus, genital erythema, mucocutaneous rash, palmar-plantar erythrodysesthesia syndrome, pruritus, pruritus allergic, pruritus genital, purpura, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin fissures, skin ulcer, stoma site rash, urticaria, and urticaria papular.
+
+                                  |
+
+                                    53
+
+                                  |
+
+                                    17
+
+                                  |
+
+                                    16
+
+                                  |
+
+                                    0.4
+
+                                  |
+
+                                       General Disorders and Administration Site Conditions 
+
+                                  |
+
+                                    FatigueIncludes other related terms.
+
+                                  |
+
+                                    26
+
+                                  |
+
+                                    1.2
+
+                                  |
+
+                                    19
+
+                                  |
+
+                                    1.2
+
+                                  |
+
+                                    Pyrexia
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    1.2
+
+                                  |
+
+                                    3.2
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                       Infections and Infestations
+
+                                  |
+
+                                    Urinary tract infection
+
+                                  |
+
+                                    16
+
+                                  |
+
+                                    4.2
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    1.8
+
+                                  |
+
+                                    Pneumonia
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    2.4
+
+                                  |
+
+                                       Metabolism and Nutrition Disorders 
+
+                                  |
+
+                                    Decreased appetite
+
+                                  |
+
+                                    10
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    4.2
+
+                                  |
+
+                                    0
+
+                                  |
+
+                        Clinically relevant adverse reactions occurring in < 10% of patients treated with TRUQAP included vomiting, stomatitis, decreased weight, dyspepsia, dysgeusia, hypersensitivity, and diabetic ketoacidosis.
+
+                           Table 7: Selected Laboratory Abnormalities (≥ 10%) in Patients who Received TRUQAP plus Abiraterone With a Difference Between Arms ≥ 5% (All Grades) or ≥2% (Grade 3 or 4) in CAPItello-281
+
+                                       Laboratory Abnormality
+
+                                  |
+
+                                       TRUQAP plus Abiraterone
+                                       The denominator used to calculate the rate varied from 472 to 500 based on the number of patients with a baseline value and at least one post-treatment value
+
+                                  |
+
+                                       Placebo plus Abiraterone
+                                       The denominator used to calculate the rate varied from 485 to 500 based on the number of patients with a baseline value and at least one post-treatment value.
+
+                                  |
+
+                                           
+
+                                          All Grades
+
+                                           
+
+                                          (%)
+
+                                  |
+
+                                           
+
+                                          Grade 3 or 4
+
+                                           
+
+                                          (%)
+
+                                  |
+
+                                       All Grades
+
+                                       (%)
+
+                                  |
+
+                                       Grade 3 or 4
+
+                                       (%)
+
+                                  |
+
+                                       Chemistry
+
+                                  |
+
+                                    Increased fasting glucose
+
+                                  |
+
+                                    70
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    50
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    Decreased potassium
+
+                                  |
+
+                                    51
+
+                                  |
+
+                                    19
+
+                                  |
+
+                                    36
+
+                                  |
+
+                                    10
+
+                                  |
+
+                                    Increased creatinine
+
+                                  |
+
+                                    49
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    24
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    Increased non-fasting glucose
+
+                                  |
+
+                                    49
+
+                                  |
+
+                                    23
+
+                                  |
+
+                                    31
+
+                                  |
+
+                                    2.3
+
+                                  |
+
+                                    Increased triglycerides
+
+                                  |
+
+                                    37
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    32
+
+                                  |
+
+                                    2.6
+
+                                  |
+
+                                    Increased alanine aminotransferase
+
+                                  |
+
+                                    38
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    36
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    Increased aspartate aminotransferase
+
+                                  |
+
+                                    36
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    37
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    Decreased sodium
+
+                                  |
+
+                                    30
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    23
+
+                                  |
+
+                                    3.6
+
+                                  |
+
+                                       Hematology
+
+                                  |
+
+                                    Decreased hemoglobin
+
+                                  |
+
+                                    61
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    46
+
+                                  |
+
+                                    3.2
+
+                                  |
+
+                                    Decreased lymphocytes
+
+                                  |
+
+                                    58
+
+                                  |
+
+                                    17
+
+                                  |
+
+                                    36
+
+                                  |
+
+                                    9
+
+                                  |

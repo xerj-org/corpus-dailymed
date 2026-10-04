@@ -1,0 +1,7 @@
+DailyMed 3357af32-f91b-4663-8f86-a2bcee7855ea | ExcenelRTU EZ | Cattle:
+
+— For bovine respiratory disease and acute bovine interdigital necrobacillosis: administer by intramuscular or subcutaneous administration at the dosage of 0.5 to 1 mg CE/lb (1.1 to 2.2 mg CE/kg) BW (1 to 2 mL sterile suspension per 100 lb BW). Administer daily at 24 hour intervals for a total of three consecutive days. Additional treatments may be administered on Days 4 and 5 for animals which do not show a satisfactory response (not recovered) after the initial three treatments. In addition, for BRD only, administer intramuscularly or subcutaneously 1 mg CE/lb (2.2 mg CE/kg) BW every other day on Days 1 and 3 (48 hour interval). Do not inject more than 15 mL per injection site.
+
+                        Selection of dosage level (0.5 to 1 mg CE/lb) and regimen/duration (daily or every other day for BRD only) should be based on an assessment of the severity of disease, pathogen susceptibility and clinical response.
+
+                        — For acute post-partum metritis: administer by intramuscular or subcutaneous administration at the dosage of 1 mg CE/lb (2.2 mg CE/kg) BW (2 mL sterile suspension per 100 lb BW). Administer at 24 hour intervals for five consecutive days. Do not inject more than 15 mL per injection site.

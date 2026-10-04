@@ -1,0 +1,11 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 5.2 Sudden Death, Torsades de Pointes and QTc Interval Prolongation
+
+Cases of sudden death, torsades de pointes (TdP) and QTc interval prolongation have been reported in haloperidol treated patients [
+
+  see Adverse Reactions(
+
+  6.1,
+
+  6.2)]. Cases have been reported even in the absence of predisposing factors. Higher than recommended haloperidol dosages were associated with a higher risk of TdP and QTc interval prolongation.
+
+                        Avoid use of haloperidol decanoate in patients who are at significant risk of developing TdP including those with congenital long QT syndrome, uncontrolled or significant cardiac disease, recent myocardial infarction, ischemic cardiomyopathy, unstable angina, bradyarrhythmias, uncontrolled hypertension, high degree atrioventricular block, severe aortic stenosis or uncontrolled hypothyroidism. Avoid the concomitant use of haloperidol decanoate with drugs that may increase the risk of the QTc interval prolongation or increase haloperidol exposure. Assess the QTc interval via an ECG at baseline and during treatment as clinically indicated. Obtain serum electrolytes (including potassium, calcium, phosphorus and magnesium) at baseline and during treatment as clinically indicated and correct electrolyte abnormalities.

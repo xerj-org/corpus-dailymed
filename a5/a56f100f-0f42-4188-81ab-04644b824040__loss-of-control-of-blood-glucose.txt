@@ -1,0 +1,5 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Loss of Control of Blood Glucose
+
+When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection or surgery, a loss of control may occur. At such times it may be necessary to discontinue glyburide and administer insulin.
+
+                              The effectiveness of any hypoglycemic drug, including glyburide, in lowering blood glucose to a desired level decreases in many patients over a period of time which may be due to progression of the severity of diabetes or to diminished responsiveness to the drug. This phenomenon is known as secondary failure, to distinguish it from primary failure in which the drug is ineffective in an individual patient when glyburide is first given. Adequate adjustment of dose and adherence to diet should be assessed before classifying a patient as a secondary failure.

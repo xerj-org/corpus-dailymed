@@ -1,0 +1,44 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | ADVERSE REACTIONS
+
+The following adverse reactions have been identified during post-approval use of chloroquine or other 4-aminoqunoline compounds. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                     Ocular disorders: Maculopathy and macular degeneration have been reported and may be irreversible. Irreversible retinopathy with retinal pigmentation changes (bull’s eye appearance) and visual field defects (paracentral scotomas) in patients receiving long-term or high-dosage 4- aminoquinoline therapy have been reported (see
+                        WARNINGS
+                     ). Visual disturbances (blurring of vision and difficulty of focusing or accommodation); nyctalopia; scotomatous vision with field defects of paracentral, pericentral ring types, and typically temporal scotomas (e.g., difficulty in reading with words tending to disappear, seeing half an object, misty vision, and fog before the eyes) have been reported. Reversible corneal opacities have also been reported.
+
+                     Immune system disorders: Urticaria, anaphylactic reaction including angioedema.
+
+                     Ear and labyrinth disorders: Nerve type deafness; tinnitus, reduced hearing in patients with preexisting auditory damage.
+
+                     Musculoskeletal and connective tissue-disorders: Sensorimotor disorders, skeletal muscle myopathy or neuromyopathy leading to progressive weakness and atrophy of proximal muscle groups, depression of tendon reflexes and abnormal nerve conduction.
+
+                     Gastrointestinal disorders: Hepatitis, increased liver enzymes, anorexia, nausea, vomiting, diarrhea, abdominal cramps.
+
+                     Skin and subcutaneous tissue disorders: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis. Pleomorphic skin eruptions, skin and mucosal pigmentary changes; lichen planus-like eruptions, pruritus,; drug rash with eosinophilia and systemic symptoms (DRESS syndrome); photosensitivity and hair loss and bleaching of hair pigment.
+
+                     Blood and lymphatic system disorders: Pancytopenia, aplastic anemia, reversible agranulocytosis, thrombocytopenia and neutropenia. Hemolytic anemia in G6PD deficient patients (see
+                        PRECAUTIONS
+                     ).
+
+                     Nervous system disorders: Convulsions, mild and transient headache, polyneuropathy, acute extrapyramidal disorders (such as dystonia, dyskinesia, tongue protrusion, torticollis) (see
+                        WARNINGS
+                      and
+                        OVERDOSAGE
+                     ).
+
+                     Neuropsychiatric disorders: Neuropsychiatric changes including psychosis, delirium, anxiety, agitation, insomnia, confusion, hallucinations, personality changes, depression, suicidal behavior, suicidal ideation, affect/emotional lability, irritability, nervousness, nightmares/sleep terrors, depression, delusions, paranoia, and mania.
+
+                     Cardiac disorders: Hypotension, electrocardiographic changes (particularly, inversion or depression of the T-wave with widening of the QRS complex), and cardiomyopathy (which may result in cardiac failure and in some cases a fatal outcome).
+
+                  Cardiac arrhythmias, conduction disorders such as bundle branch block / atrio-ventricular block, QT interval prolongation, torsade de pointes, ventricular tachycardia and ventricular fibrillation have been reported with therapeutic doses of chloroquine as well as with overdose. The risk is greater if chloroquine is administered at high doses. Fatal cases have been reported (see
+                        WARNINGS, Cardiac Effects and 
+                        OVERDOSAGE
+                     ).
+
+                     Metabolic and Nutritional disorders: Hypoglycemia (see
+                        WARNINGS
+                     ).
+
+                     T
+                     o report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 
+                     1-800-FDA-1088 or www.fda.gov/medwatch.

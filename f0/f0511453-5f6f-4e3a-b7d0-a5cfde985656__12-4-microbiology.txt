@@ -1,0 +1,103 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 12.4 Microbiology
+
+Mechanism of Action
+
+                        Tebipenem, the active moiety of UTEBZI, is a carbapenem antibacterial drug with in vitro activity against certain gram‑negative and gram‑positive bacteria. The bactericidal action of tebipenem is mediated through binding to essential penicillin‑binding proteins (PBPs). In Escherichia coli and Klebsiella pneumoniae, tebipenem has affinity for PBPs 1a, 1b, 2, 3, 4 and 5/6 with preferential binding to PBP 2. Inhibition of PBPs leads to disruption of cell wall biosynthesis.
+
+                           Resistance
+
+                        Potential mechanisms of resistance to tebipenem are alterations of PBPs, production of carbapenemases, overexpression of efflux pumps, and alterations of outer membrane transport proteins. Tebipenem demonstrates cross‑resistance with other carbapenems and is stable in the presence of some beta‑lactamases, including extended‑spectrum beta‑lactamases (ESBLs). Across Enterobacterales, the frequency with which spontaneous resistant mutants to tebipenem developed was <1.4 ×10-9 to 5.54 ×10-5 at 4 times MIC.
+
+                        Tebipenem demonstrated in vitro activity against a subgroup of Enterobacterales isolates genotypically characterized for certain beta‑lactamases, including ESBLs such as TEM, SHV, CTX-M, oxacillinase [OXA], and AmpC. Tebipenem is not active against bacteria that produce serine carbapenemases (such as KPC, OXA‑48), and metallo‑carbapenemases (such as NDM and VIM).
+
+                        Tebipenem is active against certain ESBL-producing Enterobacterales, including isolates that are also resistant to fluoroquinolones and/or trimethoprim-sulfamethoxazole. Tebipenem has shown in vitro activity against Escherichia coli sequence type (ST) 131-clade.
+
+                           Interactions with Other Antimicrobials
+
+                           In vitro studies have demonstrated no antagonism against Escherichia coli, Klebsiella pneumoniae, or Staphylococcus aureus between tebipenem and the following antibacterial classes: penicillins, monobactams, beta‑lactam/beta‑lactamase inhibitor combinations, cephalosporins, carbapenems, aminoglycosides, dihydrofolate reductase inhibitors, macrolides, fosfomycins, fluoroquinolones, fusidanes, glycopeptides, glycylcyclines, lincosamides, lipopeptides, nitrofurans and oxazolidinones. The clinical significance of these in vitro findings is unknown.
+
+                           Antimicrobial Activity
+
+                        Tebipenem has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)].
+
+                        Aerobic Bacteria
+
+                              Gram‑negative bacteria
+
+                              •
+
+                              Escherichia coli
+
+                              •
+
+                              Enterobacter cloacae species complex
+
+                              •
+
+                              Klebsiella oxytoca
+
+                              •
+
+                              Klebsiella pneumoniae
+
+                              Gram‑positive bacteria
+
+                              •
+
+                              Enterococcus faecalis
+
+                        The following in vitro data are available, but their clinical significance is unknown. At least 90 percent of the following bacteria exhibit in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for tebipenem against isolates of similar genus or organism group. However, the efficacy of UTEBZI in treating clinical infections caused by these bacteria has not been established in adequate and well‑controlled clinical trials.
+
+                        Aerobic Bacteria
+
+                              Gram‑negative bacteria
+
+                              •
+
+                              Citrobacter freundii complex
+
+                              •
+
+                              Citrobacter koseri
+
+                              •
+
+                              Klebsiella aerogenes
+
+                              •
+
+                              Morganella morganii
+
+                              •
+
+                              Proteus mirabilis
+
+                              •
+
+                              Providencia rettgeri
+
+                              •
+
+                              Klebsiella variicola
+
+                              •
+
+                              Serratia marcescens
+
+                              Gram‑positive bacteria
+
+                              •
+
+                              Staphylococcus aureus
+
+                              •
+
+                              Staphylococcus saprophyticus
+
+                              •
+
+                              Streptococcus agalactiae
+
+                           Susceptibility Testing
+
+                        For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by the FDA for this drug, please see https://www.fda.gov/STIC.

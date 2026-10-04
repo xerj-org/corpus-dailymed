@@ -1,0 +1,216 @@
+DailyMed 63df5af3-b8ac-4e76-9830-2dbb340af922 | Tivicay PD; Tivicay | 7.3 Established and Other Potentially Significant Drug Interactions
+
+Table 8 provides clinical recommendations as a result of drug interactions with TIVICAY or TIVICAY PD. These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy [see Dosage and Administration (2), Clinical Pharmacology (12.3)].
+
+                           Table 8. Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Trials or Predicted Interactions [see Dosage and Administration (2)]
+
+                                 INSTI = integrase strand transfer inhibitor. |
+
+                                    a  See Clinical Pharmacology (12.3) Table 11 or Table 12 for magnitude of interaction.
+
+                                    b  The lower dolutegravir exposures observed in INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance [see Microbiology (12.4)]) upon coadministration with certain inducers may result in loss of therapeutic effect and development of resistance to TIVICAY or other coadministered antiretroviral agents. |
+
+                                       Concomitant Drug Class:
+
+                                       Drug Name
+
+                                  |
+
+                                       Effect on Concentration of Dolutegravir and/or Concomitant Drug
+
+                                  |
+
+                                       Clinical Comment
+
+                                  |
+
+                                          HIV-1 Antiviral Agents
+
+                                  |
+
+                                       Non-nucleoside reverse transcriptase inhibitor:
+
+                                      Etravirinea
+
+                                  |
+
+                                    ↓Dolutegravir
+
+                                  |
+
+                                    Use of TIVICAY or TIVICAY PD with etravirine without coadministration of atazanavir/ritonavir, darunavir/ritonavir, or lopinavir/ritonavir is not recommended.
+
+                                  |
+
+                                       Non-nucleoside reverse transcriptase inhibitor:
+
+                                      Efavirenza
+
+                                  |
+
+                                    ↓Dolutegravir
+
+                                  |
+
+                                    Adjust dose of TIVICAY to twice daily for treatment-naïve and treatment-experienced, INSTI-naïve adult patients.
+
+                                    In pediatric patients (at least 4 weeks of age), increase the weight-based dose of TIVICAY or TIVICAY PD to twice daily (Tables 3 and 4). Use alternative combinations that do not include metabolic inducers where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b
+
+                                  |
+
+                                       Non-nucleoside reverse transcriptase inhibitor:
+
+                                      Nevirapine
+
+                                  |
+
+                                    ↓Dolutegravir
+
+                                  |
+
+                                    Avoid coadministration with nevirapine because there are insufficient data to make dosing recommendations.
+
+                                  |
+
+                                       Protease inhibitors:
+
+                                      Fosamprenavir/ritonavira
+
+                                      Tipranavir/ritonavira
+
+                                  |
+
+                                    ↓Dolutegravir
+
+                                  |
+
+                                    Adjust dose of TIVICAY to twice daily for treatment-naïve and treatment-experienced, INSTI-naïve adult patients.
+
+                                    In pediatric patients (at least 4 weeks of age), increase the weight-based dose of TIVICAY or TIVICAY PD to twice daily (Tables 3 and 4).
+
+                                    Use alternative combinations that do not include metabolic inducers where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b
+
+                                  |
+
+                                          Other Agents
+
+                                  |
+
+                                      Dofetilide
+
+                                  |
+
+                                    ↑Dofetilide
+
+                                  |
+
+                                    Coadministration is contraindicated with TIVICAY or TIVICAY PD [see Contraindications (4)].
+
+                                  |
+
+                                      Carbamazepinea
+
+                                  |
+
+                                    ↓Dolutegravir
+
+                                  |
+
+                                    Adjust dose of TIVICAY to twice daily in treatment-naïve or treatment-experienced, INSTI-naïve adult patients.
+
+                                    In pediatric patients (at least 4 weeks of age), increase the weight-based dose of TIVICAY or TIVICAY PD to twice daily (Tables 3 and 4).
+
+                                    Use alternative treatment that does not include carbamazepine where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b
+
+                                  |
+
+                                      Oxcarbazepine
+
+  Phenytoin
+
+  Phenobarbital
+
+  St. John’s wort (Hypericum perforatum)
+
+                                  |
+
+                                    ↓Dolutegravir
+
+                                  |
+
+                                    Avoid coadministration with TIVICAY or TIVICAY PD because there are insufficient data to make dosing recommendations.
+
+                                  |
+
+                                       Medications containing polyvalent cations (e.g., Mg or Al):
+
+                                      Cation-containing antacidsa or laxatives
+
+  Sucralfate
+
+  Buffered medications
+
+                                  |
+
+                                    ↓Dolutegravir
+
+                                  |
+
+                                    Administer TIVICAY or TIVICAY PD 2 hours before or 6 hours after taking medications containing polyvalent cations.
+
+                                  |
+
+                                       Oral calcium or iron supplements, including multivitamins containing calcium or iron
+                                       a
+
+                                  |
+
+                                    ↓Dolutegravir
+
+                                  |
+
+                                    When taken with food, TIVICAY and supplements or multivitamins containing calcium or iron can be taken at the same time. Under fasting conditions, TIVICAY or TIVICAY PD should be taken 2 hours before or 6 hours after taking supplements containing calcium or iron.
+
+                                  |
+
+                                       Potassium channel blocker:
+
+                                    Dalfampridine
+
+                                  |
+
+                                    ↑Dalfampridine
+
+                                  |
+
+                                    Elevated levels of dalfampridine increase the risk of seizures. The potential benefits of taking dalfampridine concurrently with TIVICAY or TIVICAY PD should be considered against the risk of seizures in these patients.
+
+                                  |
+
+                                    Metformin
+
+                                  |
+
+                                    ↑Metformin
+
+                                  |
+
+                                    Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of TIVICAY or TIVICAY PD and metformin.
+
+                                  |
+
+                                    Rifampina
+
+                                  |
+
+                                    ↓Dolutegravir
+
+                                  |
+
+                                    Adjust dose of TIVICAY to twice daily for treatment-naïve and treatment-experienced, INSTI-naïve adult patients.
+
+                                    In pediatric patients (at least 4 weeks of age), increase the weight-based dose of TIVICAY or TIVICAY PD to twice daily (Tables 3 and 4).
+
+                                    Use alternatives to rifampin where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b
+
+                                  |

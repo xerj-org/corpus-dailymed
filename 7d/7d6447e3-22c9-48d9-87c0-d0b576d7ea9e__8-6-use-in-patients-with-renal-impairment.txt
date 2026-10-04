@@ -1,0 +1,7 @@
+DailyMed 7d6447e3-22c9-48d9-87c0-d0b576d7ea9e | Cyclophosphamide | 8.6 Use in Patients with Renal Impairment
+
+In patients with severe renal impairment, decreased renal excretion may result in increased plasma levels of cyclophosphamide and its metabolites. This may result in increased toxicity
+
+  [see CLINICAL PHARMACOLOGY (12.3)]. Monitor patients with severe renal impairment (CrCl =10 mL/min to 24 mL/min) for signs and symptoms of toxicity.
+
+                         Cyclophosphamide and its metabolites are dialyzable although there are probably quantitative differences depending upon the dialysis system being used. In patients requiring dialysis, use of a consistent interval between cyclophosphamide administration and dialysis should be considered.

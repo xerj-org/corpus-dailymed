@@ -1,0 +1,11 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 5.5 Hypersensitivity and Administration-Related Reactions
+
+Severe administration-related reactions (ARRs), including hypersensitivity, anaphylaxis, and events with fatal outcomes, have been associated with intravenous pertuzumab and trastuzumab. Patients experiencing dyspnea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of a severe or of a fatal ARR.
+
+                        In the FeDeriCa trial, the incidence of hypersensitivity was 1.2% in the PHESGO arm. Administration-related reactions occurred in 21% of patients who received PHESGO. In the PHESGO arm, the most common administration-related reactions were injection site reaction (15%) and injection site pain (2%).
+
+                        Closely monitor patients during and for 30 minutes after the injection of initial dose and during and for 15 minutes following subsequent injections of maintenance dose of PHESGO. If a significant injection-related reaction occurs, slow down or pause the injection and administer appropriate medical therapies. Evaluate and carefully monitor patients until complete resolution of signs and symptoms.
+
+                        Permanently discontinue with PHESGO in patients who experience anaphylaxis or severe injection-related reactions. Medications to treat such reactions, as well as emergency equipment, should be available for immediate use. For patients experiencing reversible Grade 1 or 2 hypersensitivity reactions, consider pre-medication with an analgesic, antipyretic, or an antihistamine prior to readministration of PHESGO [see Adverse Reactions (6.1)].
+
+                        PHESGO is contraindicated in patients with known hypersensitivity to pertuzumab, trastuzumab, hyaluronidase or to any of its excipients [see Contraindications (4)].

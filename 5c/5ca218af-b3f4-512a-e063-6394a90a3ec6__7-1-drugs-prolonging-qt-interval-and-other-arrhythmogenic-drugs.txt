@@ -1,0 +1,7 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 7.1 Drugs Prolonging QT Interval and Other Arrhythmogenic Drugs
+
+Hydroxychloroquine sulfate tablets prolongs the QT interval. There may be an increased risk of inducing ventricular arrhythmias if hydroxychloroquine sulfate tables are used concomitantly with other arrhythmogenic drugs. Therefore, hydroxychloroquine sulfate tablets are not recommended in patients taking other drugs that have the potential to prolong the QT interval or are arrhythmogenic
+
+  [see
+
+   Warnings and Precautions (5.1)].

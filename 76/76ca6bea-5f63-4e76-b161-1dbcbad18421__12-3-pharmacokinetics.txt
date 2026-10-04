@@ -1,0 +1,31 @@
+DailyMed 76ca6bea-5f63-4e76-b161-1dbcbad18421 | Allopurinol | 12.3 Pharmacokinetics
+
+Absorption
+
+                        Allopurinol is approximately 90% absorbed from the gastrointestinal tract.  Peak plasma levels generally occur at 1.5 hours and 4.5 hours for allopurinol and oxipurinol respectively. After a single oral dose of 300 mg allopurinol, maximum plasma levels of about 3 mcg/mL of allopurinol and 6.5 mcg/mL of oxipurinol are produced.
+
+                           Elimination
+
+                        The half-life of allopurinol and oxipurinol are approximately 1 hour to 2 hours and 15 hours following oral dose of allopurinol, respectively.
+
+                           Metabolism
+
+                        Allopurinol is metabolized to the corresponding xanthine analogue, oxypurinol (alloxanthine), which also is an inhibitor of xanthine oxidase. 
+
+                           Excretion
+
+                        Allopurinol and its primary active metabolite, oxipurinol, are eliminated by the kidneys. Approximately 20% of the ingested allopurinol is excreted in the feces. Oxipurinol is primarily eliminated unchanged in urine by glomerular filtration and tubular reabsorption. 
+
+                           Drug Interaction Studies
+
+                           Capecitabine:Concomitant use with allopurinol may decrease concentration of capecitabine’s active metabolites, which may decrease capecitabine efficacy.
+
+                           Cyclosporine:Concomitant use of allopurinol increases cyclosporine concentrations which may increase the risk of adverse reactions.
+
+                           Mercaptopurine or Azathioprine:Allopurinol inhibits xanthine oxidase mediated metabolism of mercaptopurine and azathioprine. Concomitant use of allopurinol increases the exposure of either mercaptopurine or azathioprine which may increase the risk of their adverse reactions including myelosuppression.
+
+                           Theophylline:Concomitant use of allopurinol doses greater than or equal to 600 mg/day may decrease the clearance of theophylline.
+
+                           Uricosuric Agents:Uricosuric agents increase the excretion of the active allopurinol metabolite oxypurinol. Concomitant use with uricosuric agents decreases oxypurinol exposure which may reduce the inhibition of xanthine oxidase by oxypurinol and increases the urinary excretion of uric acid.
+
+                           Warfarin:Allopurinol may inhibit the metabolism of warfarin, possibly enhancing its anticoagulant effect.

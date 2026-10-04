@@ -1,0 +1,3 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 12.1 Mechanism of Action
+
+Gadobutrol is a paramagnetic molecule (macrocyclic non-ionic complex of gadolinium) that develops a magnetic moment when placed in a magnetic field. The magnetic moment alters the relaxation rates of water protons in its vicinity in the body, leading to an increase in signal intensity (brightness) of tissues.

@@ -1,0 +1,83 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Chemically stimulated
+
+Oral cimetidine significantly inhibited gastric acid secretion stimulated by betazole (an isomer of histamine), pentagastrin, caffeine and insulin as follows:
+
+                                       Table 2
+
+                                                Stimulant
+                                              |
+
+                                                Stimulant Dose
+                                              |
+
+                                                Cimetidine
+                                              |
+
+                                                % Inhibition
+                                              |
+
+                                                Betazole
+
+                                              |
+
+                                                1.5 mg/kg (sc)
+
+                                              |
+
+                                                300 mg (po)
+
+                                              |
+
+                                                85% at 2 ½ hours
+
+                                              |
+
+                                                Pentagastrin
+
+                                              |
+
+                                                6 mcg/kg/hr (iv)
+
+                                              |
+
+                                                100 mg/hr (iv)
+
+                                              |
+
+                                                60% at 1 hour
+
+                                              |
+
+                                                Caffeine
+
+                                              |
+
+                                                5 mg/kg/hr (iv)
+
+                                              |
+
+                                                300 mg (po)
+
+                                              |
+
+                                                100% at 1 hour
+
+                                              |
+
+                                                Insulin
+
+                                              |
+
+                                                0.03 units/kg/hr (iv)
+
+                                              |
+
+                                                100 mg/hr (iv)
+
+                                              |
+
+                                                82% at 1 hour
+
+                                              |
+
+                                    When food and betazole were used to stimulate secretion, inhibition of hydrogen ion concentration usually ranged from 45 to 75% and the inhibition of volume ranged from 30 to 65%.

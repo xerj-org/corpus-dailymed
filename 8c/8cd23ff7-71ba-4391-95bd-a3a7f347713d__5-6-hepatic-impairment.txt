@@ -1,0 +1,10 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 5.6 Hepatic Impairment
+
+The clearance of orally administered tolterodine immediate release was substantially lower in cirrhotic patients than in the healthy volunteers. For patients with mild to moderate hepatic impairment (Child-Pugh Class A or B), the recommended dose for tolterodine tartrate extended-release capsules is 2 mg once daily. Tolterodine tartrate extended-release capsules are not recommended for use in patients with severe hepatic impairment (Child-Pugh Class C)
+  [see
+
+                                 DOSAGE AND ADMINISTRATION (2.2)
+                               and
+
+                                 USE IN SPECIFIC POPULATIONS (8.6)
+                              ].

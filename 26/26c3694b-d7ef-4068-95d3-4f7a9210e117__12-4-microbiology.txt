@@ -1,0 +1,39 @@
+DailyMed 26c3694b-d7ef-4068-95d3-4f7a9210e117 | Amoxicillin | 12.4 Microbiology
+
+Mechanism of Action
+
+                        Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria.
+
+                              Resistance
+
+                        Resistance to amoxicillin is mediated primarily through enzymes called beta-lactamases that cleave the beta-lactam ring of amoxicillin, rendering it inactive.
+
+                              Antimicrobial Activity
+
+                        Amoxicillin has been shown to be active against most isolates of the following microorganisms, both
+
+  in vitroand in clinical infections
+
+  [see Indications And Usage (
+
+   1).
+
+                              Gram-Positive Bacteria
+
+                           Enterococcus faecalis
+
+                           Staphylococcus spp.
+
+                           Streptococcus pneumoniae
+
+                           Streptococcus spp. (alpha and beta-hemolytic)
+
+                              Gram-Negative Bacteria
+
+                           Escherichia coli
+
+                           Haemophilus influenzae
+
+                           Helicobacter pylori
+
+                           Proteus mirabilis

@@ -1,0 +1,5 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.10 Serious Adverse Reactions with Concomitant Theophylline
+
+Serious and fatal reactions have been reported in patients receiving concurrent administration of ciprofloxacin and theophylline. These reactions have included cardiac arrest, seizure, status epilepticus, and respiratory failure. Instances od nausea, vomiting, tremor, irritability, or palpitation have also occurred.
+
+                        Although similar serious adverse reactions have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by ciprofloxacin cannot be eliminated. If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Drug Interactions (7)].

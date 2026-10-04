@@ -1,0 +1,3 @@
+DailyMed cd6868b9-5824-442b-8d65-4db29ecb70a4 | ZEGERID | 5.11 Interaction with St. John’s wort or Rifampin
+
+Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7)]. Avoid concomitant use of ZEGERID with St. John’s wort or rifampin.

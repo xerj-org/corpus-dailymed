@@ -1,0 +1,11 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 5.3 Cytopenias
+
+IMDELLTRA can cause cytopenias including neutropenia, thrombocytopenia, and anemia.
+
+                           In the pooled safety population [see Adverse Reactions (6.1)], based on laboratory data, decreased neutrophils occurred in 16% of patients, including 9% Grade 3 or 4. The median time to onset for Grade 3 or 4 decreased neutrophil count was 41 days (range: 2 to 306 days). Decreased platelets occurred in 30%, including 2.2% Grade 3 or 4. The median time to onset for Grade 3 or 4 decreased platelets was 67 days (range: 3 to 420 days). Decreased hemoglobin occurred in 56% of patients, including 4.7% Grade 3 or 4.
+
+                        Febrile neutropenia was reported as an adverse event in 1.5% of patients treated with IMDELLTRA.
+
+                        Monitor patients for signs and symptoms of cytopenias. Perform complete blood counts prior to treatment with all doses of IMDELLTRA, up through Cycle 5 Day 15 and then prior to administration of IMDELLTRA on Day 1 of each cycle starting with Cycle 6.
+
+                        Based on the severity of cytopenias, temporarily withhold or permanently discontinue IMDELLTRA [see Dosage and Administration (2.5)].

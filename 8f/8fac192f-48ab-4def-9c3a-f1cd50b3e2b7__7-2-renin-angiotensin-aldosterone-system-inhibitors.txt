@@ -1,0 +1,3 @@
+DailyMed 8fac192f-48ab-4def-9c3a-f1cd50b3e2b7 | POTASSIUM CHLORIDE | 7.2 Renin-Angiotensin-Aldosterone System Inhibitors
+
+Drugs that inhibit the renin-angiotensin-aldosterone system (RAAS) including angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), spironolactone, eplerenone, or aliskiren produce potassium retention by inhibiting aldosterone production. Closely monitor potassium in patients receiving concomitant RAAS therapy.

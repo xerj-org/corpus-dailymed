@@ -1,0 +1,10 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 2.1 Evaluations Prior To Prescribing and Use of Isotretinoin Capsules
+
+In patients who can get pregnant, only prescribe isotretinoin capsules after verification and documentation that they are not pregnant [see Contraindications (4) and Warnings and Precautions (5.1, 5.2)]. For the detailed requirements prior to prescribing isotretinoin capsules, see Use in Specific Populations (8.3)
+                           .
+
+                        Prior to isotretinoin capsules use in all patients, complete the following laboratory testing:
+
+                           A fasting lipid profile including triglycerides [see Warnings and Precautions (5.8, 5.15)].
+
+                           Liver function tests [see Warnings and Precautions (5.10, 5.15)].

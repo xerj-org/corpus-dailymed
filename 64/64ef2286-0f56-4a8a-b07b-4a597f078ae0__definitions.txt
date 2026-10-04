@@ -1,0 +1,9 @@
+DailyMed 64ef2286-0f56-4a8a-b07b-4a597f078ae0 | Oxistat | Definitions
+
+1.
+
+Mycological Cure: No evidence (culture and KOH preparation) of the baseline (original) pathogen in a specimen from the affected area taken at the 2-week post-treatment visit (for tinea [pityriasis] versicolor, mycological cure was limited to KOH only).
+
+                              2.
+
+Treatment Success: Both a global evaluation of 90% clinical improvement and a microbiologic eradication (see above) at the 2-week post-treatment visit.

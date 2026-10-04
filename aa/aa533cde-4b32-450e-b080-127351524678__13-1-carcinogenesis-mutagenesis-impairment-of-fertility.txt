@@ -1,0 +1,7 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+
+Studies in rats at doses of up to 5000 parts per million (ppm) in complete feed (approximately 340 times the maximum recommended human dose, based on surface area) for 30 months showed no evidence of carcinogenesis. In mice, administration of glimepiride for 24 months resulted in an increase in benign pancreatic adenoma formation that was dose-related and was thought to be the result of chronic pancreatic stimulation. No adenoma formation in mice was observed at a dose of 320 ppm in complete feed, or 46–54 mg/kg body weight/day. This is at least 28 times the maximum human recommended dose of 8 mg once daily based on surface area.
+
+Glimepiride was non-mutagenic in a battery of in vitro and in vivo mutagenicity studies (Ames test, somatic cell mutation, chromosomal aberration, unscheduled DNA synthesis, and mouse micronucleus test).
+
+There was no effect of glimepiride on male mouse fertility in animals exposed up to 2500 mg/kg body weight (>1,500 times the maximum recommended human dose based on surface area). Glimepiride had no effect on the fertility of male and female rats administered up to 4000 mg/kg body weight (approximately 4,000 times the maximum recommended human dose based on surface area).

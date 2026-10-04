@@ -1,0 +1,23 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | 8.1 Pregnancy
+
+Risk Summary
+
+                        The safety of ADZYNMA for use during pregnancy has not been established in controlled clinical trials. Limited data with ADZYNMA use during pregnancy are insufficient to inform a drug-associated risk of adverse developmental outcomes. In determining whether ADZYNMA should be used in pregnancy, healthcare providers should balance the potential benefits with the potential risks.
+
+                        The background rate of major birth defects and miscarriage in the indicated population is unknown. In the U.S. general population, the estimated background rate of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Human Data
+
+                        There have been four cTTP patients exposed to ADZYNMA during pregnancy.
+
+                        Two patients in a long-term extension study were found to be pregnant early in the first trimester while receiving prophylaxis with ADZYNMA. Both patients were discontinued from the study to comply with the protocol requirements. The first patient had no further exposure to ADZYNMA and had a first trimester miscarriage approximately two months after study discontinuation. The investigator assessed the event was unrelated to ADZYNMA. The second patient resumed treatment with ADZYNMA under a compassionate use program and delivered a healthy full-term baby with no safety concerns reported by the investigator.
+
+                        Two additional cTTP patients were treated with ADZYNMA in a compassionate use program during pregnancy. The first patient, in the third trimester of her second pregnancy, experienced a stroke and thrombocytopenia that was refractory to daily plasmapheresis. At 33 weeks of gestation, ADZYNMA treatment was started once weekly. ADAMTS13 activity levels normalized, thrombocytopenia resolved, and a healthy baby was delivered at 37 weeks with no safety concerns reported by the treating physician due to ADZYNMA. The second patient had an exacerbation of her cTTP during her second trimester of pregnancy despite prior daily plasma exchange. Her pregnancy was considered to be at risk, with inadequate response to plasma-based therapies. ADZYNMA was started once weekly and induced clinical remission. The baby was delivered by a cesarean section at week 29 and the treating physician reported no adverse events due to ADZYNMA.
+
+                        Whether ADZYNMA should be used in pregnancy is solely up to the medical judgment of the healthcare provider.
+
+                           Nonclinical Data
+
+                        In an embryo-fetal development study in rats, ADZYNMA was administered in female rats at 80, 200, or 400 IU/kg [up to 10x human equivalent dose (HED)] every third day from 2 weeks before mating through Day 16 of gestation and was not associated with any adverse maternal findings or treatment-related effects on embryo-fetal development. In a pre- and post-natal development study in rats, ADZYNMA was administered at 80, 200, or 400 IU/kg [up to 10x HED] by intravenous (IV) bolus injection every three days from Day 6 of gestation to weaning at approximately Day 21 of lactation. There were no adverse maternal effects or findings in F1 or F2 offspring.

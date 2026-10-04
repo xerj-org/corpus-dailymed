@@ -1,0 +1,3 @@
+DailyMed a7b8ea07-e926-f0a5-c20d-92f23ed350d0 | Hydrocodone Bitartrate | 8.7 Renal Impairment
+
+Patients with renal impairment have higher plasma concentrations than those with normal function. Use a low initial dose of hydrocodone bitartrate extended-release capsules in patients with renal impairment and regularly evaluate for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].

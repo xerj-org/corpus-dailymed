@@ -1,0 +1,3 @@
+DailyMed fec09050-5ac2-451b-a2b9-5a21b2def212 | Prednisone | Tuberculosis
+
+If prednisone tablets are used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur. Closely monitor such patients for reactivation. During prolonged prednisone tablets therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.

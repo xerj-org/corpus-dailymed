@@ -1,0 +1,4 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 5.9 Increased Risk of Bleeding with Concomitant Use of Warfarin
+
+Altered coagulation parameters and/or bleeding, including death, have been reported during concomitant use of warfarin and fluorouracil. Monitor INR more frequently and adjust the dose of warfarin in patients receiving concomitant warfarin [see Drug Interactions (7)]
+                           .

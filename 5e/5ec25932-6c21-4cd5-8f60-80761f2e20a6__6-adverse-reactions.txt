@@ -1,0 +1,181 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 6 ADVERSE REACTIONS
+
+The following serious or otherwise important adverse reactions are discussed elsewhere in the labeling:
+
+                     Hypersensitivity reaction [see Warnings and Precautions (5.1)]
+
+                     Hypotension and/or bradycardia [see Warnings and Precautions (5.4)]
+
+                     Propofol Infusion Syndrome [see Warnings and Precautions (5.9)]
+
+                  In the description below, rates of the more common events represent US/Canadian clinical study results. Less frequent events are also derived from publications and marketing experience in over 8 million patients; there are insufficient data to support an accurate estimate of their incidence rates. These studies were conducted using a variety of premedicants, varying lengths of surgical/diagnostic procedures, and various other anesthetic/sedative agents. Most adverse events were mild and transient.
+
+                     Clinical Trials Experience
+
+                  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                     Anesthesia and MAC Sedation in Adults
+
+                  The following estimates of adverse events for propofol injectable emulsion include data from clinical trials in general anesthesia/MAC sedation (N=2,889 adult patients). The adverse events listed below as probably causally related are those events in which the actual incidence rate in patients treated with propofol injectable emulsion was greater than the comparator incidence rate in these trials. Therefore, incidence rates for anesthesia and MAC sedation in adults generally represent estimates of the percentage of clinical trial patients which appeared to have probable causal relationship.
+
+                  The adverse experience profile from reports of 150 patients in the MAC sedation clinical trials is similar to the profile established with propofol injectable emulsion during anesthesia (see Table 3 below). During MAC sedation clinical trials, significant respiratory events included cough, upper airway obstruction, apnea, hypoventilation, and dyspnea.
+
+                     Anesthesia in Pediatric Patients
+
+                  Generally, the adverse experience profile from reports of 506 propofol injectable emulsion pediatric patients from 6 days through 16 years of age in the US/Canadian anesthesia clinical trials is similar to the profile established with propofol injectable emulsion during anesthesia in adults. Although not reported as an adverse event in clinical trials, apnea is frequently observed in pediatric patients.
+
+                     ICU Sedation in Adults
+
+                  The following estimates of adverse events include data from clinical trials in ICU sedation (N=159 adult patients). Probably related incidence rates for ICU sedation were determined by individual case report form review. Probable causality was based upon an apparent dose response relationship and/or positive responses to rechallenge. In many instances the presence of concomitant disease and concomitant therapy made the causal relationship unknown. Therefore, incidence rates for ICU sedation generally represent estimates of the percentage of clinical trial patients which appeared to have a probable causal relationship.
+
+                               Table 2. Treatment Emergent Adverse Events Observed from Clinical Trials
+
+                            |
+
+                            |
+
+                               Anesthesia/MAC Sedation
+
+                            |
+
+                               ICU Sedation
+
+                            |
+
+                            Body as a Whole:
+
+                            |
+                            Anaphylaxis/Anaphylactoid reaction perinatal disorder, tachycardia, bigeminy, bradycardia, premature ventricular contractions, hemorrhage,
+
+ ECG abnormal
+
+ arrhythmia atrial, fever, extremities pain , anticholinergic syndrome, asthenia, awareness, chest pain, extremities pain, fever, increased drug effect, neck rigidity/stiffness, trunk pain
+
+                            |
+                            Fever, sepsis, trunk pain, whole body weakness
+
+                            |
+
+                            Cardiovascular:
+
+                            |
+                            Premature atrial contractions Syncope, hypotension [see also Clinical Pharmacology (12)],
+
+                              t achycardia Nodal, arrhythmia
+
+ Bradycardia, arrhythmia, atrial fibrillation, atrioventricular heart block, bigeminy, bleeding, bundle branch block, cardiac arrest, ECG abnormal, edema, extrasystole, heart block, hypertension, myocardial infarction, myocardial ischemia, premature ventricular contractions, ST segment depression, supraventricular tachycardia, tachycardia, ventricular fibrillation
+
+                            |
+                            Bradycardia,
+
+ decreased cardiac output, arrhythmia, atrial fibrillation, bigeminy, cardiac arrest, extrasystole, right heart failure, ventricular tachycardia
+
+                            |
+
+                            Central Nervous System:
+
+                            |
+                            Hypertonia/Dystonia, paresthesia, movement, abnormal dreams, agitation, amorous behavior, anxiety, bucking/jerking/thrashing, chills/shivering/clonic/myoclonic movement, combativeness, confusion, delirium, depression, dizziness, emotional lability, euphoria, fatigue, hallucinations, headache, hypotonia, hysteria, insomnia, moaning, neuropathy, opisthotonos, rigidity, seizures, somnolence, tremor, twitching
+
+                            |
+                            Agitation, hypotension, hills/shivering, intracranial hypertension, seizures, somnolence, thinking abnormal
+
+                            |
+
+                            Digestive:
+
+                            |
+                            Hypersalivation, nausea, cramping, diarrhea, dry mouth, enlarged parotid, nausea, swallowing, vomiting
+
+                            |
+                            Ileus, liver function abnormal
+
+                            |
+
+                            Hemic/Lymphatic:
+
+                            |
+                            Leukocytosis, coagulation disorder, leukocytosis
+
+                            |
+                            |
+
+                            Injection Site:
+
+                            |
+                            Phlebitis, pruritus, burning/Stinging or pain, hives/itching, phlebitis, redness/discoloration
+
+                            |
+                            |
+
+                            Metabolic/Nutritional:
+
+                            |
+                            hypomagnesemia, hyperkalemia, hyperlipemia
+
+                            |
+                            BUN increased, creatinine increased, dehydration, hyperglycemia, metabolic acidosis, osmolality increased, hyperlipemia
+
+                            |
+
+                            Musculoskeletal:
+
+                            |
+                            Myalgia
+
+                            |
+                            |
+
+                            Nervous:
+
+                            |
+                            Dizziness, agitation, chills, somnolence
+
+ Delirium
+
+                            |
+                            |
+
+                            Respiratory:
+
+                            |
+                            Wheezing, cough, laryngospasm, hypoxia, apnea, bronchospasm, burning in throat, dyspnea, hiccough, hyperventilation, hypoventilation, pharyngitis, sneezing, tachypnea, upper airway obstruction
+
+                            |
+                            Decreased lung function, respiratory acidosis during weaning, hypoxia
+
+                            |
+
+                            Skin and Appendages:
+
+                            |
+                            Flushing, Pruritus, rash, conjunctival hyperemia, diaphoresis, urticaria
+
+                            |
+                            Rash
+
+                            |
+
+                            Special Senses:
+
+                            |
+                            Amblyopia, vision abnormal, diplopia, ear pain, eye pain, nystagmus, taste perversion, tinnitus
+
+                            |
+                            |
+
+                            Urogenital:
+
+                            |
+                            Cloudy urine, oliguria, urine retention
+
+                            |
+                            Green urine, kidney failure
+
+                            |
+
+                     Postmarketing Experience
+
+                  During the post-marketing period, there have been rare reports of local pain, swelling, blisters, and/or tissue necrosis following accidental extravasation of propofol injectable emulsion [see Warnings and Precautions (5.14)].
+
+                  Venous sequelae, i.e., phlebitis or thrombosis, have been reported rarely (<1%).

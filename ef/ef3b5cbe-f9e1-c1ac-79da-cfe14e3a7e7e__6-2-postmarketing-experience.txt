@@ -1,0 +1,47 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 6.2 Postmarketing Experience
+
+The following reactions have been identified during post approval use of paroxetine. Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                              Blood system disorders
+                              : events related to impaired hematopoiesis (including agranulocytosis, aplastic anemia, bone marrow aplasia and pancytopenia), hemolytic anemia
+
+                              Cardiac disorders
+                              : torsade de pointes, ventricular fibrillation, ventricular tachycardia
+
+                              Endocrine disorders
+                              : hyperprolactinemia, syndrome of inappropriate antidiuretic hormone (SIADH) secretion
+
+                              Gastrointestinal disorders
+                              : acute pancreatitis
+
+                              Hepatobiliary disorders
+                              : elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction)
+
+                              Immune system disorders
+                              : anaphylactic reaction, vasculitis syndromes (such as Henoch-Schönlein purpura).
+
+                              Metabolism and nutrition disorders
+                              : porphyria
+
+                              Musculoskeletal and connective tissue disorders: Hypertonia
+
+                              Nervous system disorders
+                              : extrapyramidal symptoms (i.e. akathisia, bradykinesia, cogwheel rigidity, oculogyric crisis which has been associated with concomitant use of pimozide), Guillain-Barré Syndrome, anosmia, hyposmia, optic neuritis, restless legs syndrome (RLS), status epilepticus
+
+                              Pregnancy, puerperium and perinatal conditions
+                              : eclampsia, premature birth
+
+                              Renal disorders
+                              : acute renal failure
+
+                              Reproductive system and breast disorders
+                              : galactorrhea, priapism
+
+                              Respiratory,  disorders
+                              : allergic alveolitis, laryngospasm, pulmonary hypertension
+
+                              Skin and subcutaneous tissue disorders
+                              : Drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), Toxic epidermal necrolysis (TEN)
+
+                              Vascular disorders
+                              : severe hypotension

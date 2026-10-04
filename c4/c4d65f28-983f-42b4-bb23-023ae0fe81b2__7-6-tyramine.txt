@@ -1,0 +1,23 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 7.6 Tyramine
+
+MAO in the gastrointestinal tract and liver (primarily type A) provides protection from exogenous amines (e.g., tyramine).  If tyramine were absorbed intact, it could lead to severe hypertension, including hypertensive crisis. Aged, fermented, cured, smoked, and pickled foods containing large amounts of exogenous amines (e.g., aged cheese, pickled herring) may cause release of norepinephrine resulting in a rise in blood pressure (Tyramine Reaction). Patients should be advised to avoid foods containing a large amount of tyramine while taking recommended doses of XADAGO
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .
+
+                        Selectivity for inhibiting MAO-B decreases in a dose-related manner above the highest recommended daily dosage, which may increase the risk for hypertension
+
+  [see
+
+   Clinical Pharmacology (12.2)]
+
+  .  In addition, isoniazid has some monoamine oxidase inhibiting activity. Monitor for hypertension and reaction to dietary tyramine in patients treated with isoniazid and XADAGO
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .

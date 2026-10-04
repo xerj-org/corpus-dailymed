@@ -1,0 +1,3 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 7.4 Laboratory Test Interference
+
+Because ascorbic acid is a strong reducing agent, it can interfere with numerous laboratory tests based on oxidation-reduction reactions (e.g., glucose, nitrite and bilirubin levels, leukocyte count, etc.). Chemical detecting methods based on colorimetric reactions are generally those tests affected. Ascorbic acid may lead to inaccurate results (false negatives) obtained for checking blood or urinary glucose levels, nitrite, bilirubin, and leukocytes if tested during or within 24 hours after infusion [see Warnings and Precautions (5.3)] .

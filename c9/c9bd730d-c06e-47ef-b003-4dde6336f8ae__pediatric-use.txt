@@ -1,0 +1,5 @@
+DailyMed c9bd730d-c06e-47ef-b003-4dde6336f8ae | Acetazolamide | Pediatric Use
+
+The safety and effectiveness of acetazolamide in pediatric patients have not been established.
+
+                        Growth retardation has been reported in children receiving long-term therapy, believed secondary to chronic acidosis.

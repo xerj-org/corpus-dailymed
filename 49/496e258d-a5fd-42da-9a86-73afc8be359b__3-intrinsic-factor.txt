@@ -1,0 +1,3 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | 3) Intrinsic Factor
+
+Intrinsic factor secretion was studied with betazole as a stimulant. Oral cimetidine 300 mg inhibited the rise in intrinsic factor concentration produced by betazole, but some intrinsic factor was secreted at all times.

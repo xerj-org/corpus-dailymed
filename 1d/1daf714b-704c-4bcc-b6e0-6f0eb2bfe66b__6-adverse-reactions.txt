@@ -1,0 +1,21 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+                     Serious adverse reactions or death from Dihydropyrimidine Dehydrogenase (DPD) deficiency [see Warnings and Precautions (5.1)]
+
+                     Cardiotoxicity [see Warnings and Precautions (5.2)]
+
+                     Hyperammonemic encephalopathy [see Warnings and Precautions (5.3)]
+
+                     Neurologic toxicity [see Warnings and Precautions (5.4)]
+
+                     Diarrhea [see Warnings and Precautions (5.5)]
+
+                     Palmar-plantar erythrodysesthesia (hand-foot syndrome) [see Warnings and Precautions (5.6)]
+
+                     Myelosuppression [see Warnings and Precautions (5.7)]
+
+                     Mucositis [see Warnings and Precautions (5.8)]
+
+                     Increased risk of bleeding with concomitant use of warfarin [see Warnings and Precautions (5.9)]

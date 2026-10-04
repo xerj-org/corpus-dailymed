@@ -1,0 +1,79 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 14.4 Symptomatic GERD
+
+A placebo-controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without EE. Results are shown below.
+
+                           % Successful Symptomatic Outcome1
+
+                                  |
+
+                                    Omeprazole
+
+20 mg a.m.
+
+                                  |
+
+                                    Omeprazole
+
+10 mg a.m.
+
+                                  |
+
+                                    Placebo
+
+a.m.
+
+                                  |
+
+                                    All patients
+
+                                  |
+
+                                    46
+                                          2,3
+
+                                    (n = 205)
+
+                                  |
+
+                                    31
+                                          3
+
+                                    (n = 199)
+
+                                  |
+
+                                    13
+
+(n = 105)
+
+                                  |
+
+                                    Patients with confirmed GERD
+
+                                  |
+
+                                    56
+                                          2,3
+
+                                    (n = 115)
+
+                                  |
+
+                                    36
+                                          3
+
+                                    (n = 109)
+
+                                  |
+
+                                    14
+
+(n = 59)
+
+                                  |
+
+                           1 Defined as complete resolution of heartburn.
+
+                           2 (p < 0.005) versus 10 mg.
+
+                           3 (p < 0.005) versus placebo.

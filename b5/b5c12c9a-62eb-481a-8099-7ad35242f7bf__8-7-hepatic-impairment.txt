@@ -1,0 +1,11 @@
+DailyMed b5c12c9a-62eb-481a-8099-7ad35242f7bf | Bupropion Hydrochloride | 8.7 Hepatic Impairment
+
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of bupropion hydrochloride tablets is 75 mg daily. In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing
+
+  [see Dosage and Administration (
+
+   2.2), Clinical Pharmacology (
+
+   12.3)]
+
+  .

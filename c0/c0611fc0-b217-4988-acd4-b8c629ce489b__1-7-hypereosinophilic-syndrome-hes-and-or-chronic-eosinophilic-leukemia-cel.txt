@@ -1,0 +1,3 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 1.7 Hypereosinophilic Syndrome (HES) and/or Chronic Eosinophilic Leukemia (CEL)
+
+Adult patients with hypereosinophilic syndrome and/or chronic eosinophilic leukemia who have the FIP1L1-PDGFRα fusion kinase (mutational analysis or fluorescence in situ hybridization [FISH] demonstration of CHIC2 allele deletion) and for patients with HES and/or CEL who are FIP1L1-PDGFRα fusion kinase negative or unknown.

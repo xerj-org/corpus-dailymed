@@ -1,0 +1,5 @@
+DailyMed 0961f83e-25e9-4ffc-8669-44e4e9169978 | Bupropion Hydrochloride | 2.3 Dose Adjustment in Patients with Renal Impairment
+
+Consider reducing the dose and/or frequency of bupropion hydrochloride tablets in patients with renal impairment (Glomerular Filtration Rate [GFR] Less than 90 mL/ min) [
+                              see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)
+                           ].

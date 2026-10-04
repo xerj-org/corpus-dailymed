@@ -1,0 +1,5 @@
+DailyMed 5c2ccdcf-4f47-df06-e063-6294a90a42eb | Clonazepam | Panic Disorder:
+
+Adverse events during exposure to clonazepam were obtained by spontaneous report and recorded by clinical investigators using terminology of their own choosing. Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories. In the tables and tabulations that follow, CIGY dictionary terminology has been used to classify reported adverse events, except in certain cases in which redundant terms were collapsed into more meaningful terms, as noted below.
+
+                        The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed. An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.

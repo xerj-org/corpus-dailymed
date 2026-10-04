@@ -1,0 +1,34 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 2.3 Dosage Modifications in Patients with Renal Impairment
+
+Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine. These alternative pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment. Nonetheless, some modification of dosage is recommended, particularly for patients with severe renal dysfunction. Dosage guidelines for use in patients with renal impairment are shown in Table 4.
+
+                           Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impaired Renal Function
+
+                                 Creatinine Clearance (mL/min) |
+                                 Dose |
+
+                                 > 50 |
+                                 See Usual Dosage. |
+
+                                 30 to 50 |
+                                 250 to 500 mg every 12 hours |
+
+                                 5 to 29 |
+                                 250 to 500 mg every 18 hours |
+
+                                 Patients on hemodialysis or Peritoneal dialysis |
+                                 250 to 500 mg every 24 hours (after dialysis) |
+
+                        When only the serum creatinine concentration is known, the following formulas may be used to estimate creatinine clearance:
+
+                           Men - Creatinine clearance (mL/min) = Weight (kg × (140–age)
+
+                                                            72 × serum creatinine (mg/dL)
+
+                           Women - 0.85 × the value calculated for men.
+
+                        The serum creatinine should represent a steady state of renal function.
+
+                        In patients with severe infections and severe renal impairment, a unit dose of 750 mg may be administered at the intervals noted above. Patients should be carefully monitored.
+
+                        Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of cUTI and pyelonephritis. No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (that is, creatinine clearance of < 50 mL/min/1.73m2).

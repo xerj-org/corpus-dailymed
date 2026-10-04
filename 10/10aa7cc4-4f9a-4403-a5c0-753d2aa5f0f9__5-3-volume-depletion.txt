@@ -1,0 +1,5 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 5.3 Volume Depletion
+
+Dapagliflozin can cause intravascular volume depletion which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine. There have been post-marketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin. Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m
+
+  2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension. Before initiating dapagliflozin and metformin HCl in patients with one or more of these characteristics, assess volume status and renal function. Monitor for signs and symptoms of hypotension and renal function after initiating therapy.

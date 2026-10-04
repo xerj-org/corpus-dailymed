@@ -1,0 +1,5 @@
+DailyMed a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec | Zybic | 5.12 Hematologic Toxicity
+
+Anemia has occurred in NSAID-treated patients. This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis. If a patient treated with Zybic™ has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
+
+                        NSAIDs, including Zybic™, may increase the risk of bleeding events. Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk. Monitor these patients for signs of bleeding [see Drug Interactions (7)].

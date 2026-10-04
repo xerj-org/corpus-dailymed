@@ -1,0 +1,7 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 5.2 Hyperglycemia and Hypoglycemia
+
+Pharmacological studies in animals and humans show that lanreotide, like somatostatin and other somatostatin analogs, inhibits the secretion of insulin and glucagon. Hence, patients treated with lanreotide injection may experience hypoglycemia or hyperglycemia. Blood glucose levels should be monitored when lanreotide treatment is initiated, or when the dose is altered, and antidiabetic treatment should be adjusted accordingly [see
+                                 Adverse 
+
+                                 Reactions (6.1)
+                              ].

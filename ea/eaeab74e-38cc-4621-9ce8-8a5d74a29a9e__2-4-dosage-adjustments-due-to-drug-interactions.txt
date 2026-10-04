@@ -1,0 +1,24 @@
+DailyMed eaeab74e-38cc-4621-9ce8-8a5d74a29a9e | Sildenafil | 2.4 Dosage Adjustments Due to Drug Interactions
+
+Ritonavir
+
+  The recommended dose for ritonavir-treated patients is 25 mg prior to sexual activity and the recommended maximum dose is 25 mg within a 48 hour period because concomitant administration increased the blood levels of sildenafil by 11-fold [
+
+  see Warnings and Precautions
+
+   (5.6), Drug Interactions
+
+   (7.4),and Clinical Pharmacology
+
+                              (12.3)].
+
+                              CYP3A4 Inhibitors
+
+  Consider a starting dose of 25 mg in patients treated with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, or saquinavir) or erythromycin. Clinical data have shown that co-administration with saquinavir or erythromycin increased plasma levels of sildenafil by about 3 fold 
+
+  [see Drug Interactions 
+
+                                 (7.4)
+                              and Clinical Pharmacology
+
+                                 (12.3)].

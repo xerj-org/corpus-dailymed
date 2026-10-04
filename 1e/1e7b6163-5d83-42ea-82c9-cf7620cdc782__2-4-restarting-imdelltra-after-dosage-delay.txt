@@ -1,0 +1,39 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 2.4 Restarting IMDELLTRA After Dosage Delay
+
+If a dose of IMDELLTRA is delayed, restart based on the recommendation as listed in Table 4 and resume the dose and schedule accordingly [see Dosage and Administration (2.2)].
+
+                        Administer recommended concomitant medications as indicated in Table 3.
+
+                           Table 4. Recommendations for Restarting IMDELLTRA After Dosage Delay
+
+                                 Last Dose Administered |
+                                 Time Since the Last Dose Administered |
+                                 ActionAdminister recommended concomitant medications before and after Cycle 1 Day 1 and Cycle 1 Day 8 IMDELLTRA infusions and monitor patients accordingly [see Dosage and Administration (2.1, 2.2 and 2.3)].
+
+                                  |
+
+                                    1 mg on Cycle 1 Day 1
+                                  |
+                                 2 weeks or less (≤ 14 days) |
+                                 Administer IMDELLTRA 10 mg, then resume with the planned dose and schedule. |
+
+                                 Greater than 2 weeks (> 14 days) |
+                                 Administer IMDELLTRA step-up dose 1 mg. If tolerated, increase to 10 mg 1 week later. Then resume with the planned dose and schedule. |
+
+                                 10 mg on Cycle 1 Day 8 |
+                                 3 weeks or less (≤ 21 days) |
+                                 Administer IMDELLTRA 10 mg, then resume with the planned dose and schedule. |
+
+                                 Greater than 3 weeks (> 21 days) |
+                                 Administer IMDELLTRA step-up dose 1 mg. If tolerated, increase to 10 mg 1
+
+week later. Then resume with the planned dose and schedule. |
+
+                                 10 mg on Cycle 1 Day 15 and subsequent Cycles every 2 weeks thereafter |
+                                 4 weeks or less (≤ 28 days) |
+                                 Administer IMDELLTRA 10 mg, then resume with the planned dose and schedule. |
+
+                                 Greater than 4 weeks (> 28 days) |
+                                 Administer IMDELLTRA step-up dose 1 mg. If tolerated, increase to 10 mg 1
+
+week later. Then resume with the planned dose and schedule. |

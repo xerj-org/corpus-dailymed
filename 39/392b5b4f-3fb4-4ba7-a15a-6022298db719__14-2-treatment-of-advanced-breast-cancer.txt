@@ -1,0 +1,361 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 14.2 Treatment of Advanced Breast Cancer
+
+Exemestane 25 mg administered once daily was evaluated in a randomized double-blind, multicenter, multinational comparative study and in two multicenter single-arm studies of postmenopausal women with advanced breast cancer who had disease progression after treatment with tamoxifen for metastatic disease or as adjuvant therapy. Some patients also have received prior cytotoxic therapy, either as adjuvant treatment or for metastatic disease.
+
+                        The primary purpose of the three studies was evaluation of objective response rate (complete response [CR] and partial response [PR]). Time to tumor progression and overall survival were also assessed in the comparative trial. Response rates were assessed based on World Health Organization (WHO) criteria, and in the comparative study, were submitted to an external review committee that was blinded to patient treatment. In the comparative study, 769 patients were randomized to receive exemestane tablets 25 mg once daily (N = 366) or megestrol acetate 40 mg four times daily (N = 403). Demographics and baseline characteristics are presented in Table 9.
+
+                           Table 9. Demographics and Baseline Characteristics from the Comparative Study of Postmenopausal Women with Advanced Breast Cancer Whose Disease Had Progressed after Tamoxifen Therapy
+
+                                    Parameter
+                                  |
+
+                                    Exemestane
+
+                                    (N = 366)
+                                  |
+
+                                    Megestrol Acetate
+
+                                    (N = 403)
+                                  |
+
+                                    Median Age (range)
+
+                                  |
+
+                                    65 (35-89)
+
+                                  |
+
+                                    65 (30-91)
+
+                                  |
+
+                                    ECOG Performance Status
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    167 (46%)
+
+                                  |
+
+                                    187 (46%)
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    162 (44%)
+
+                                  |
+
+                                    172 (43%)
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    34 (9%)
+
+                                  |
+
+                                    42 (10%)
+
+                                  |
+
+                                    Receptor Status
+
+                                  |
+
+                                    ER and/or PgR +
+
+                                  |
+
+                                    246 (67%)
+
+                                  |
+
+                                    274 (68%)
+
+                                  |
+
+                                    ER and PgR unknown
+
+                                  |
+
+                                    116 (32%)
+
+                                  |
+
+                                    128 (32%)
+
+                                  |
+
+                                    Responders to prior tamoxifen
+
+                                  |
+
+                                    68 (19%)
+
+                                  |
+
+                                    85 (21%)
+
+                                  |
+
+                                    NE for response to prior tamoxifen
+
+                                  |
+
+                                    46 (13%)
+
+                                  |
+
+                                    41 (10%)
+
+                                  |
+
+                                    Site of Metastasis
+
+                                  |
+
+                                    Visceral ± other sites
+
+                                  |
+
+                                    207 (57%)
+
+                                  |
+
+                                    239 (59%)
+
+                                  |
+
+                                    Bone only
+
+                                  |
+
+                                    61 (17%)
+
+                                  |
+
+                                    73 (18%)
+
+                                  |
+
+                                    Soft tissue only
+
+                                  |
+
+                                    54 (15%)
+
+                                  |
+
+                                    51 (13%)
+
+                                  |
+
+                                    Bone & soft tissue
+
+                                  |
+
+                                    43 (12%)
+
+                                  |
+
+                                    38 (9%)
+
+                                  |
+
+                                    Measurable Disease
+
+                                  |
+
+                                    287 (78%)
+
+                                  |
+
+                                    314 (78%)
+
+                                  |
+
+                                    Prior Tamoxifen Therapy
+
+                                  |
+
+                                    Adjuvant or Neoadjuvant
+
+                                  |
+
+                                    145 (40%)
+
+                                  |
+
+                                    152 (38%)
+
+                                  |
+
+                                    Advanced Disease, Outcome
+
+                                  |
+                                  |
+                                  |
+
+                                    CR, PR, or SD ≥ 6 months
+
+                                  |
+
+                                    179 (49%)
+
+                                  |
+
+                                    210 (52%)
+
+                                  |
+
+                                    SD < 6 months, PD or NE
+
+                                  |
+
+                                    42 (12%)
+
+                                  |
+
+                                    41 (10%)
+
+                                  |
+
+                                    Prior Chemotherapy
+
+                                  |
+
+                                    For advanced disease ± adjuvant
+
+                                  |
+
+                                    58 (16%)
+
+                                  |
+
+                                    67 (17%)
+
+                                  |
+
+                                    Adjuvant only
+
+                                  |
+
+                                    104 (28%)
+
+                                  |
+
+                                    108 (27%)
+
+                                  |
+
+                                    No chemotherapy
+
+                                  |
+
+                                    203 (56%)
+
+                                  |
+
+                                    226 (56%)
+
+                                  |
+
+                        The efficacy results from the comparative study are shown in Table 10. The objective response rates observed in the two treatment arms showed that exemestane tablets were not different from megestrol acetate. Response rates for exemestane tablets from the two single-arm trials were 23.4% and 28.1%.
+
+                           Table 10. Efficacy Results from the Comparative Study of Postmenopausal Women with Advanced Breast Cancer Whose Disease Had Progressed after Tamoxifen Therapy
+
+                                    Response Characteristics
+                                  |
+
+                                    Exemestane (N=366)
+                                  |
+
+                                    Megestrol Acetate (N=403)
+                                  |
+
+                                    Objective Response Rate = CR + PR (%)
+
+			Difference in Response Rate (AR-MA)
+
+                                    95% C.I.
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    12.4
+
+                                  |
+
+                                    2.6
+
+			7.5, -2.3
+
+                                  |
+
+                                    CR (%)
+
+			PR (%)
+
+			SD ≥ 24 Weeks (%)
+
+			Median Duration of Response (weeks)
+
+			Median TTP (weeks)
+
+                                  |
+
+                                    2.2
+
+			12.8
+
+			21.3
+
+			76.1
+
+			20.3
+
+                                  |
+
+                                    1.2
+
+			11.2
+
+			21.1
+
+			71
+
+			16.6
+
+                                  |
+
+                                    Hazard Ratio (AR-MA)
+
+                                  |
+
+                                    0.84
+
+                                  |
+
+                                    Abbreviations: CR = complete response, PR = partial response, SD = stable disease (no change), TTP = time to tumor progression, C.I. = confidence interval, MA = megestrol acetate, AR = exemestane
+
+                                  |
+
+                        There were too few deaths occurring across treatment groups to draw conclusions on overall survival differences. The Kaplan-Meier curve for time to tumor progression in the comparative study is shown in Figure 2.
+
+                           Figure 2. Time to Tumor Progression in the Comparative Study of Postmenopausal Women With Advanced Breast Cancer Whose Disease Had Progressed After Tamoxifen Therapy

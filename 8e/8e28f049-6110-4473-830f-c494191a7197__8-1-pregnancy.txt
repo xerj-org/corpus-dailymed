@@ -1,0 +1,21 @@
+DailyMed 8e28f049-6110-4473-830f-c494191a7197 | Cephalexin | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from published epidemiologic studies and pharmacovigilance case reports over several decades of cephalexin use in pregnant women have not established drug-associated risks of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Available studies have methodologic limitations, including small sample size, retrospective data collection, and inconsistent comparator groups.
+
+                        Animal reproduction studies with mice and rats using oral doses of cephalexin that are 0.6- and 1.2-times the maximum recommended human dose (MRHD) based on body surface area during organogenesis revealed no evidence of harm to the fetus (see Data).
+
+                            
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                            
+
+                        In animal reproduction studies, pregnant mice and rats administered oral cephalexin doses of 250 or 500 mg/kg/day (approximately 0.6 and 1.2 times the MRHD) based on body surface area, respectively during the period of organogenesis showed no adverse effects on embryofetal development.
+
+                        In a pre- and post-natal developmental toxicity study, pregnant rats that received oral doses of 250 or 500 mg/kg/day of cephalexin from Day 15 of pregnancy to litter Day 21 showed no adverse effects on parturition, litter size, or growth of offspring.

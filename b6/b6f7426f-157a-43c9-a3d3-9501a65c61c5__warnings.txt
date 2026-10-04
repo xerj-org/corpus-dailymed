@@ -1,0 +1,5 @@
+DailyMed b6f7426f-157a-43c9-a3d3-9501a65c61c5 | DIPHENHYDRAMINE | WARNINGS
+
+Antihistamines should be used with considerable caution in patients with narrow-angle glaucoma, stenosing peptic ulcer, pyloroduodenal obstruction, symptomatic prostatic hypertrophy, or bladder-neck obstruction.
+
+  Local necrosis has been associated with the use of subcutaneous or intradermal use of intravenous diphenhydramine hydrochloride injection.

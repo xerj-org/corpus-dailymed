@@ -1,0 +1,84 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | Other Reactions
+
+Following is a list of treatment-emergent adverse reactions reported by patients treated with fluoxetine in clinical trials. This listing is not intended to include reactions (1) already listed in previous tables or elsewhere in labeling, (2) for which a drug cause was remote, (3) which were so general as to be uninformative, (4) which were not considered to have significant clinical implications, or (5) which occurred at a rate equal to or less than placebo.
+
+  Reactions are classified by body system using the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
+
+  Body as a Whole
+  —
+
+  Frequent:chills;
+
+  Infrequent:suicide attempt;
+
+  Rare:acute abdominal syndrome, photosensitivity reaction.
+
+  Cardiovascular System
+  —
+
+  Frequent:palpitation;
+
+  Infrequent:arrhythmia, hypotension
+
+  1.
+
+                                 Digestive System—
+
+  Infrequent:dysphagia, gastritis, gastroenteritis, melena, stomach ulcer;
+
+  Rare:bloody diarrhea, duodenal ulcer, esophageal ulcer, gastrointestinal hemorrhage, hematemesis, hepatitis, peptic ulcer, stomach ulcer hemorrhage.
+
+                                 Hemic and Lymphatic System—
+
+  Infrequent:ecchymosis;
+
+  Rare:petechia, purpura.
+
+                                 Investigations
+                                 —
+                                 Frequent:QT interval prolongation (QT
+
+  cF ≥450 msec)
+
+  3.
+
+                                 Nervous System —
+
+  Frequent:emotional lability;
+
+  Infrequent:akathisia, ataxia, balance disorder
+
+  1, bruxism
+
+  1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction;
+
+  Rare:delusions.
+
+                                 Respiratory System—
+
+  Rare:larynx edema.
+
+                                 Skin and Appendages—
+
+  Infrequent:alopecia;
+
+  Rare:purpuric rash.
+
+                                 Special Senses—
+
+  Frequent:taste perversion;
+
+  Infrequent:mydriasis.
+
+                                 Urogenital System
+                                  — Frequent:micturition disorder;
+
+  Infrequent:dysuria, gynecological bleeding
+
+  2.
+
+                                 1MedDRA dictionary term from integrated database of placebo controlled trials of 15870 patients, of which 9673 patients received fluoxetine.
+
+                                 2Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage. Adjusted for gender.
+
+                                 3QT prolongation data are based on routine ECG measurements in clinical trials.

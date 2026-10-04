@@ -1,0 +1,9 @@
+DailyMed 1bda03a2-6c7d-4c9e-b98a-e5e01bebb3b1 | Amoxicillin and Clavulanate Potassium | 5.3 Drug-Induced Enterocolitis Syndrome (DIES)
+
+Drug-induced enterocolitis syndrome (DIES) has been reported with use of amoxicillin, a component of amoxicillin and clavulanate potassium tablets
+
+   [see
+
+    Adverse Reactions (6.2)]
+
+   , with most cases occurring in pediatric patients ≤ 18 years of age. DIES is a non-IgE mediated hypersensitivity reaction characterized by protracted vomiting occurring 1 to 4 hours after drug ingestion in the absence of skin or respiratory symptoms. DIES maybeassociated with pallor, lethargy, hypotension, shock, diarrhea within 24 hours of ingesting amoxicillin, and leukocytosis with neutrophilia. If DIES occurs, discontinue amoxicillin and clavulanate potassium and institute appropriate therapy.

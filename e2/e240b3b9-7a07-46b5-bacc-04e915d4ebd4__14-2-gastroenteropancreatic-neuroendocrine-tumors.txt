@@ -1,0 +1,75 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 14.2 Gastroenteropancreatic Neuroendocrine Tumors
+
+The efficacy of lanreotide injection was established in a multicenter, randomized, double-blind, placebo-controlled trial of 204 patients with unresectable, well or moderately differentiated, metastatic or locally advanced, gastroenteropancreatic neuroendocrine tumors. Patients were required to have non-functioning tumors without hormone-related symptoms. Patients were randomized 1:1 to receive lanreotide injection 120 mg (n=101) or placebo (n=103) every 4 weeks until disease progression, unacceptable toxicity, or a maximum of 96 weeks of treatment. Randomization was stratified by the presence or absence of prior therapy and by the presence or absence of disease progression within 6 months of enrollment. The major efficacy outcome measure was progression-free survival (PFS), defined as time to disease progression as assessed by central independent radiological review using the Response Evaluation Criteria in Solid Tumors (RECIST 1.0) or death.
+
+                        The median patient age was 63 years (range 30 years to 92 years) and 95% were Caucasian. Disease progression was present in nine of 204 patients (4.4%) in the 6 months prior to enrollment and 29 patients (14%) received prior chemotherapy. Ninety-one patients (45%) had primary sites of disease in the pancreas, with the remainder originating in the midgut (35%), hindgut (7%), or unknown primary location (13%). The majority (69%) of the study population had grade 1 tumors. Baseline prognostic characteristics were similar between arms with one exception; there were 39% of patients in the lanreotide injection arm and 27% of patients in the placebo arm who had hepatic involvement by tumor of greater than 25%.
+
+                        Patients on the lanreotide injection arm had a statistically significant improvement in PFS compared to patients receiving placebo (see Table 6 and Figure 1).
+
+                           Table 6: Efficacy Results in Study 3
+
+                                  |
+
+                                    Lanreotide Acetate
+
+                                  |
+
+                                    Placebo
+
+                                  |
+
+                                    n=101
+
+                                  |
+
+                                    n=103
+
+                                  |
+
+                                    Number of Events (%)
+
+                                  |
+
+                                    32 (31.7%)
+
+                                  |
+
+                                    60 (58.3%)
+
+                                  |
+
+                                    Median PFS (months)(95% CI)
+
+                                  |
+
+                                    NE1 (NE, NE)
+
+                                  |
+
+                                    16.6 (11.2, 22.1)
+
+                                  |
+
+                                    HR (95% CI)
+
+                                  |
+
+                                    0.47 (0.30, 0.73)2
+
+                                  |
+
+                                    Log-rank p-value
+
+                                  |
+
+                                    < 0.001
+
+                                  |
+
+                                       1 NE = not reached at 22 months
+
+                                       2 Hazard Ratio is derived from a Cox stratified proportional hazards model
+
+                                  |
+
+                           Figure 1: Kaplan-Meier Curves of Progression-Free Survival

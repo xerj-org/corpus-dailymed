@@ -1,0 +1,9 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 5.11 Growth Retardation in Children and Adolescents
+
+Growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate. The long-term effects of prolonged treatment with imatinib mesylate on growth in children are unknown. Therefore, monitor growth in children under imatinib mesylate treatment
+
+  [see Adverse Reactions (
+
+   6.1)]
+
+  .

@@ -1,0 +1,3 @@
+DailyMed 09736975-2493-4dbc-bbe0-cc56a1fec53f | Gabapentin | 2.1 Dosage for Postherpetic Neuralgia
+
+In adults with postherpetic neuralgia, gabapentin capsules may be initiated on Day 1 as a single 300 mg dose, on Day 2 as 600 mg/day (300 mg two times a day), and on Day 3 as 900 mg/day (300 mg three times a day). The dose can subsequently be titrated up as needed for pain relief to a dose of 1800 mg/day (600 mg three times a day). In clinical studies, efficacy was demonstrated over a range of doses from 1800 mg/day to 3600 mg/day with comparable effects across the dose range; however, in these clinical studies, the additional benefit of using doses greater than 1800 mg/day was not demonstrated.

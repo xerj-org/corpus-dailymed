@@ -1,0 +1,7 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | Pregnancy
+
+Reproduction studies performed in rats, mice and rabbits by the intramuscular (IM), intravenous (IV), subcutaneous (SC), and oral routes at maximum levels ranging from 12 to 250 times the human dose have demonstrated no impairment of fertility or significant harm to the fetus due to metoclopramide. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+                           Fetal/Neonatal Adverse Reactions
+
+                        Metoclopramide crosses the placental barrier and may cause extrapyramidal signs and methemoglobinemia in neonates with material administration during delivery. Monitor neonates for extrapyramidal signs.

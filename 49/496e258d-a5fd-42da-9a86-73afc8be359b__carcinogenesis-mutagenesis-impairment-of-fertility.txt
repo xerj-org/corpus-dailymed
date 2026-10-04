@@ -1,0 +1,7 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In a 24 month toxicity study conducted in rats, at dose levels of 150, 378 and 950 mg/kg/day (approximately 8 to 48 times the recommended human dose), there was a small increase in the incidence of benign Leydig cell tumors in each dose group; when the combined drug-treated groups and control groups were compared, this increase reached statistical significance. In a subsequent 24 month study, there were no differences between the rats receiving 150 mg/kg/day and the untreated controls. However, a statistically significant increase in benign Leydig cell tumor incidence was seen in the rats that received 378 and 950 mg/kg/day. These tumors were common in control groups as well as treated groups and the difference became apparent only in aged rats.
+
+                        Cimetidine has demonstrated a weak antiandrogenic effect. In animal studies this was manifested as reduced prostate and seminal vesicle weights. However, there was no impairment of mating performance or fertility, nor any harm to the fetus in these animals at doses 8 to 48 times the full therapeutic dose of cimetidine, as compared with controls. The cases of gynecomoastia seen in patients treated for one month or longer may be related to this effect.
+
+                        In human studies, cimetidine has been shown to have no effect on spermatogenesis, sperm count, motility, morphology or in vitro fertilizing capacity.

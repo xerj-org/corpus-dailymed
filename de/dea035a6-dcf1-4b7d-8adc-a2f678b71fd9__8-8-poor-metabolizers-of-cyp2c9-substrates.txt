@@ -1,0 +1,4 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 8.8 Poor Metabolizers of CYP2C9 Substrates
+
+In patients who are known or suspected to be poor CYP2C9 metabolizers (i.e., CYP2C9*3/*3), based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) administer celecoxib starting with half the lowest recommended dose. Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers [see Dosage and Administration (2.7), and Clinical Pharmacology (12.5)
+                           ].

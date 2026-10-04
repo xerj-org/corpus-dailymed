@@ -1,0 +1,3 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 5.4 Embryo-Fetal Toxicity
+
+Based on findings from animal studies and its mechanism of action, fulvestrant can cause fetal harm when administered to a pregnant woman. In animal reproduction studies, administration of fulvestrant to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at daily doses that are significantly less than the maximum recommended human dose. Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with fulvestrant injection and for one year after the last dose [see Use in Specific Populations (8.1), (8.3) and Clinical Pharmacology (12.1)].

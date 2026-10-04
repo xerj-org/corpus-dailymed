@@ -1,0 +1,9 @@
+DailyMed 55d6aee1-01ca-4791-8404-386664b4ab07 | Olmesartan Medoxomil and Hydrochlorothiazide | 5.5 Electrolyte and Metabolic Imbalances
+
+Olmesartan medoxomil and hydrochlorothiazide tablets contains hydrochlorothiazide which can cause hypokalemia and hyponatremia. Hypomagnesemia can result in hypokalemia which may be difficult to treat despite potassium repletion. Olmesartan medoxomil and hydrochlorothiazide tablets also contain olmesartan, a drug that inhibits the RAS. Drugs that inhibit the RAS can cause hyperkalemia. Monitor serum electrolytes periodically.
+
+                        Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
+
+                        Hyperuricemia may occur or frank gout may be precipitated in patients receiving thiazide therapy.
+
+                        Hydrochlorothiazide decreases urinary calcium excretion and may cause elevations of serum calcium. Monitor calcium levels.

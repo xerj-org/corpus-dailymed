@@ -1,0 +1,21 @@
+DailyMed c05ee6a5-c98b-45f4-83fd-40781639d653 | DigiFab | 12.3 Pharmacokinetics
+
+The pharmacokinetics and pharmacodynamics of DIGIFAB were assessed in a randomized and controlled study of DIGIFAB and Digibind
+
+  ®(n=8) or Digibind
+
+  ®(n=8). The objective of the pharmacokinetic and pharmacodynamic study was to compare parameters for DIGIFAB to those for Digibind
+
+  ®. and Digibind
+
+  ®, respectively) indicate considerable penetration from the circulation into the extracellular space and are consistent with previous reports of ovine Fab distribution, as are the elimination half-life values (15 hours and 23 hours for DIGIFAB and Digibind
+
+  ®, respectively).
+
+  8-12The elimination half-life of 15-20 hours in patients with normal renal function appears to be increased up to 10 fold in patients with renal impairment, although volume of distribution remains unaffected.
+
+  12
+
+                        The primary outcome measure for this study was the serum level of free (unbound) digoxin. The results demonstrated that both products reduced the level of free digoxin in the serum to below the limit of assay quantitation for several hours after Fab administration. Cumulative urinary excretion of digoxin was comparable for both products and exceeded 40% of the administered dose by 24 hours. These results demonstrate that DIGIFAB and Digibind
+
+  ®have equivalent pharmacodynamic effects on the digoxin parameters that are relevant to the treatment of digoxin toxicity.

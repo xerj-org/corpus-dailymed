@@ -1,0 +1,3 @@
+DailyMed 32242f34-6e2b-4098-bd8e-3d55162f31b5 | DEXMEDETOMIDINE HYDROCHLORIDE | 5.8 Hyperthermia or Pyrexia
+
+Dexmedetomidine hydrochloride in 0.9% sodium chloride injection may induce hyperthermia or pyrexia, which may be resistant to traditional cooling methods, such as administration of cooled intravenous fluids and antipyretic medications. Discontinue dexmedetomidine hydrochloride in 0.9% sodium chloride injection if drug-related hyperthermia or pyrexia is suspected and monitor patients until body temperature normalizes.

@@ -1,0 +1,5 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Endocrine
+
+Gynecomastia has been reported in patients treated for one month or longer. In patients being treated for pathological hypersecretory states, this occurred in about 4% of cases while in all others the incidence was 0.3% to 1% in various studies. No evidence of induced endocrine dysfunction was found, and the condition remained unchanged or returned toward normal with continuing cimetidine treatment.
+
+                        Reversible impotence has been reported in patients with pathological hypersecretory disorders, e.g., Zollinger-Ellison Syndrome, receiving cimetidine, particularly in high doses for at least 12 months (range 12 to 79 months, mean 38 months). However, in large-scale surveillance studies at regular dosage, the incidence has not exceeded that commonly reported in the general population.

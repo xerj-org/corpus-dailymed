@@ -1,0 +1,5 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Vaccination
+
+. Indicated immunization procedures may be undertaken in patients receiving nonimmunosuppressive doses of corticosteroids as replacement therapy (e.g., for Addison’s disease).
+
+  Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids. Killed or inactivated vaccines may be administered. However, the response to such vaccines may be diminished and cannot be predicted

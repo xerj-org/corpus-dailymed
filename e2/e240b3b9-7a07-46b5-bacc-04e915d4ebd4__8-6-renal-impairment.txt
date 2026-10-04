@@ -1,0 +1,10 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 8.6 Renal Impairment
+
+Acromegaly
+
+                        Lanreotide has been studied in patients with end-stage renal function on dialysis, but has not been studied in patients with mild, moderate, or severe renal impairment. It is recommended that patients with moderate or severe renal impairment receive a starting dose of lanreotide of 60 mg. Caution should be exercised when considering patients with moderate or severe renal impairment for an extended dosing interval of lanreotide injection 120 mg every 6 or 8 weeks [see Dosage and Administration (2.1) and 
+                              Clinical Pharmacology (12.3)].
+
+                           Neuroendocrine Tumors (NET) – Gastroenteropancreatic Neuroendocrine Tumors
+
+                        No effect was observed in total clearance of lanreotide in patients with mild to moderate renal impairment receiving lanreotide injection 120 mg. Patients with severe renal impairment were not studied [see Clinical Pharmacology (12.3)].

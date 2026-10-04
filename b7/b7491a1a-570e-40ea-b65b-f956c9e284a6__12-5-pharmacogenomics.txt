@@ -1,0 +1,5 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 12.5 Pharmacogenomics
+
+Disposition of rosuvastatin, involves OATP1B1 and other transporter proteins. Higher plasma concentrations of rosuvastatin have been reported in very small groups of patients (n=3 to 5) who have two reduced function alleles of the gene that encodes OATP1B1 (
+  SLCO1B1 521T > C). The frequency of this genotype (i.e.,
+  SLCO1B1 521 C/C) is generally lower than 5% in most racial/ethnic groups. The impact of this polymorphism on efficacy and/or safety of rosuvastatin has not been clearly established.

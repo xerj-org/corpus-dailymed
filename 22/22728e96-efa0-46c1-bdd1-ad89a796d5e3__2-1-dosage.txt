@@ -1,0 +1,33 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | 2.1 Dosage
+
+For intravenous use after reconstitution only.
+
+                           Each vial of ADZYNMA is labeled with the actual rADAMTS13 activity, measured in terms of its potency in International Units (IU).
+
+                           Calculate administration dose and volume based on the patient's body weight using the actual potency (and not the nominal potency) as printed on ADZYNMA vial.
+
+                           For Intravenous (IV) Infusion at a rate of 2 to 4 mL per minute.
+
+                           Prophylactic Therapy
+
+                        The recommended prophylactic dosage regimen of ADZYNMA is as follows:
+
+                           Administer 40 IU/kg body weight once every other week.
+
+                           The prophylactic dosing frequency may be adjusted to 40 IU/kg body weight once weekly based on prior prophylactic dosing regimen or clinical response [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14)].
+
+                           On-Demand Therapy
+
+                        A guide for dosing ADZYNMA for on demand treatment of an acute event is provided in
+                              Table 1
+                           .
+
+                           Table 1: Dosing for On-Demand Therapy
+
+                                 Treatment Day 1 |
+                                 Treatment Day 2 |
+                                 Treatment Day 3 and Beyond |
+
+                                 40 IU/kg  |
+                                 20 IU/kg |
+                                 15 IU/kg once daily until two days after the acute event is resolved. |

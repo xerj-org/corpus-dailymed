@@ -1,0 +1,11 @@
+DailyMed 1ac7a13e-3f30-e140-e063-6394a90aa09d | Valacyclovir | 8.6 Renal Impairment
+
+Dosage reduction is recommended when administering valacyclovir tablets to patients with renal impairment
+
+  [see
+
+   Dosage and Administration (2.4),
+
+   Warnings and Precautions (5.2,
+
+   5.3)].

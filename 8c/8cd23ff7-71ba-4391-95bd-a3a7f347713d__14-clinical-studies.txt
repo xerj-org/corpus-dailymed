@@ -1,0 +1,114 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 14 CLINICAL STUDIES
+
+Tolterodine tartrate extended-release capsules 2 mg were evaluated in 29 patients in a Phase 2 dose-effect study. Tolterodine tartrate extended-release capsules 4 mg were evaluated for the treatment of overactive bladder with symptoms of urge urinary incontinence and frequency in a randomized, placebo-controlled, multicenter, double-blind, Phase 3, 12-week study. A total of 507 patients received tolterodine tartrate extended-release capsules 4 mg once daily in the morning and 508 received placebo. The majority of patients were Caucasian (95%) and female (81%), with a mean age of 61 years (range, 20 to 93 years). In the study, 642 patients (42%) were 65 to 93 years of age. The study included patients known to be responsive to tolterodine immediate release and other anticholinergic medications, however, 47% of patients never received prior pharmacotherapy for overactive bladder. At study entry, 97% of patients had at least 5 urge incontinence episodes per week and 91% of patients had 8 or more micturitions per day.
+
+                  The primary efficacy assessment was change in mean number of incontinence episodes per week at week 12 from baseline. Secondary efficacy measures included change in mean number of micturitions per day and mean volume voided per micturition at week 12 from baseline.
+
+                  Patients treated with tolterodine tartrate extended-release capsules experienced a statistically significant decrease in number of urinary incontinence per week from baseline to last assessment (week 12) compared with placebo as well as a decrease in the average daily urinary frequency and an increase in the average urine volume per void.
+
+                  Mean change from baseline in weekly incontinence episodes, urinary frequency, and volume voided between placebo and tolterodine tartrate extended-release capsules are summarized in Table 4.
+
+                     Table 4.    95% Confidence Intervals (CI) for the Difference between Tolterodine Tartrate Extended-Release Capsules (4 mg daily) and Placebo for Mean Change at Week 12 from Baseline
+   Intent-to-treat analysis.
+
+                           SD = Standard Deviation. |
+
+                            |
+
+                              Tolterodine Tartrate Extended-Release Capsules
+
+			(n=507)
+
+                            |
+
+                              Placebo
+
+			(n=508)
+      1 to 2 patients missing in placebo group for each efficacy parameter.
+
+                            |
+
+                              Treatment Difference, vs. Placebo
+
+			(95% Cl)
+
+                            |
+
+                              Number of incontinence episodes/week
+
+			Mean Baseline
+
+			Mean Change from Baseline
+
+                            |
+
+                              22.1
+
+			–11.8 (SD 17.8)
+
+                            |
+
+                              23.3
+
+			–6.9 (SD 15.4)
+
+                            |
+
+                              -4.8
+      The difference between tolterodine tartrate extended-release capsules and placebo was statistically significant.
+
+			(–6.9, –2.8)
+
+                            |
+
+                              Number of micturitions/day
+
+			Mean Baseline
+
+			Mean Change from Baseline
+
+                            |
+
+                              10.9
+
+			–1.8 (SD 3.4)
+
+                            |
+
+                              11.3
+
+			–1.2 (SD 2.9)
+
+                            |
+
+                              -0.6
+
+			(–1.0, –0.2)
+
+                            |
+
+                              Volume voided per micturition (mL)
+
+			Mean Baseline
+
+			Mean Change from Baseline
+
+                            |
+
+                              141
+
+			34 (SD 51)
+
+                            |
+
+                              136
+
+			14 (SD 41)
+
+                            |
+
+                              20
+
+			(14, 26)
+
+                            |

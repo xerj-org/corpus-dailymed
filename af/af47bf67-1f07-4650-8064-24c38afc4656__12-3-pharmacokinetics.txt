@@ -1,0 +1,3 @@
+DailyMed af47bf67-1f07-4650-8064-24c38afc4656 | ZUNVEYL | 12.3 Pharmacokinetics
+
+Benzgalantamine is a prodrug of galantamine, the active metabolite. The systemic exposures of benzgalantamine are less than 1% of galantamine exposures; therefore, the pharmacokinetic information presented below is for that of galantamine. Dose-proportionality is observed for ZUNVEYL over the dose range of 5 to 15 mg and steady state is achieved within a week.

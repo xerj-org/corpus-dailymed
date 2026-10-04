@@ -1,0 +1,5 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 5.6 Development of Drug-Resistant Bacteria
+
+As with other antibiotics, prolonged use of Ertapenem for injection may result in overgrowth of non-susceptible organisms. Repeated evaluation of the patient's condition is essential. If superinfection occurs during therapy, appropriate measures should be taken.
+
+                        Prescribing Ertapenem for injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

@@ -1,0 +1,132 @@
+DailyMed 01bdc479-1f1f-af94-837c-12e7e861321a | Prednisone delayed release | 14 CLINICAL STUDIES
+
+The efficacy of prednisone delayed-release tablets in the treatment of rheumatoid arthritis was assessed in one multicenter, double-blind, placebo-controlled, randomized, 12-week trial in patients ≥18 years with active rheumatoid arthritis diagnosed according to American College of Rheumatology (ACR) criteria. Patients were enrolled who were not currently treated with corticosteroids but had received non-biologic DMARD therapy for at least 6 months before receipt of study medication, and had an incomplete response to DMARD therapy alone. Patients were randomized in a 2:1 ratio to treatment with prednisone delayed-release tablets 5 mg (n=231) or placebo (n=119) administered at 10 pm. A total of 350 patients were enrolled and ranged in age from 27 to 80 years (median age 57 years) with 84% females. Race was distributed as follows: 98% Caucasian, 1% African-American, and <1% Asian.
+
+                  The percentage of patients with improvement in rheumatoid arthritis at 12 weeks using ACR response criteria (ACR20) was assessed as the primary endpoint, and ACR20, ACR50 and ACR70 responses for patients treated with prednisone delayed-release tablets 5 mg versus placebo are shown in Table 1. The relative efficacy of prednisone delayed-release tablets compared to immediate-release prednisone has not been established.
+
+                     Table 1. ACR Responses (Percentage of Patients)
+
+                           ACR Response at 12 Weeks |
+                           Prednisone delayed-release tablets 5 mg |
+                           Placebo |
+                           Prednisone delayed-release tablets 5 mg –
+
+Placebo (95% CI) |
+
+                           N = 231 |
+                           N = 119 |
+                            |
+
+                           All missing values were imputed as non-responders. |
+
+                           ACR20 |
+                           47% |
+                           29% |
+                           17%
+
+(7.2, 27.6) |
+
+                           ACR50 |
+                           22% |
+                           10% |
+                           12%
+
+(4.4, 19.6) |
+
+                           ACR70 |
+                           7% |
+                           3% |
+                           4%
+
+(0.1, 8.7) |
+
+                  The results of the components of the ACR response criteria are shown in Table 2.
+
+                     Table 2. Components of ACR Response
+
+                           Parameter |
+                           Prednisone delayed-release tablets 5 mg + DMARD
+
+N = 231 |
+                           Placebo + DMARD
+
+N = 119 |
+
+                           Baseline |
+                           Week 12 |
+                           Baseline |
+                           Week 12 |
+
+                           Mean (SD) is presented. Baseline values were carried forward for patients with missing data at Week 12. |
+
+                           Tender joint counta
+                            |
+                           12.6 (6.2) |
+                           7.9 (6.8) |
+                           12.5 (5.9) |
+                           9.8 (6.7) |
+
+                           Swollen joint counta
+                            |
+                           8.4 (4.4) |
+                           4.8 (4.8) |
+                           8.6 (4.7) |
+                           6.1 (5.4) |
+
+                           Patient assessment of painb
+                            |
+                           55.3 (21.9) |
+                           33.0 (24.5) |
+                           50.5 (23.3) |
+                           39.6 (24.7) |
+
+                           Patient global assessmentc
+                            |
+                           57.4 (20.1) |
+                           36.2 (24.5) |
+                           50.9 (20.9) |
+                           43.0 (22.4) |
+
+                           Physician global assessmentc
+                            |
+                           55.2 (16.1) |
+                           31.9 (19.7) |
+                           54.1 (17.4) |
+                           40.4 (21.8) |
+
+                           Disability index (HAQ-DI)d
+                            |
+                           1.3 (0.6) |
+                           1.1 (0.6) |
+                           1.3 (0.6) |
+                           1.2 (0.6) |
+
+                           ESR (mm/hr) |
+                           33.0 (16.6) |
+                           25.2 (16.8) |
+                           32.9 (20.0) |
+                           26.5 (19.7) |
+
+                           CRP (mg/dL) |
+                           9.3 (13.2) |
+                           7.5 (10.7) |
+                           11.8 (18.0) |
+                           9.7 (12.1) |
+
+                     a  28-joint count
+
+                     b  Patient assessment of arthritis pain. Visual analog scale: 0 = no pain, 100 = very intensive pain
+
+                     c Patient or physician global assessment of disease activity. Visual analog scale: 0 = not active at all, 100 = extremely active
+
+                     d Health Assessment Questionnaire Disability Index; 0 = best, 3 = worst, measures the patient’s ability to perform the following: dress/groom, arise, eat, walk, reach, grip, maintain hygiene, and maintain daily activity
+
+                  The percentage of patients achieving ACR20 responses by visit is shown in Figure 2.
+
+                           Figure 2. ACR20 Response Over 12 Weeks |
+
+                            |
+
+                     a The same patients may not have responded at each time point.
+
+                  The percent change from baseline in the duration of morning stiffness at 12 weeks was assessed as a prespecified secondary endpoint. Patients treated with prednisone delayed-release tablets had a median decrease in the duration of morning stiffness of 55% compared to 33% in placebo-treated patients (20% estimated median difference between treatment groups with 95% confidence interval [7, 32]). This corresponds to a median duration of morning stiffness of 46 minutes in the prednisone delayed-release tablets group and 85 minutes in the placebo group.

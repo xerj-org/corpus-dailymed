@@ -1,0 +1,15 @@
+DailyMed 180985f0-3fbd-4868-a826-b84101618a03 | Tizanidine | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of tizanidine hydrochloride. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        Cardiac Disorders: Ventricular tachycardia, decreased blood pressure
+
+                        Hepatobiliary Disorders: Hepatotoxicity [see Warnings and Precautions (5.2)] hepatitis
+
+                        Musculoskeletal and Connective Tissue Disorders: arthralgia
+
+                        Nervous System Disorders: Convulsion, paresthesia, tremor, muscle spasms
+
+                        Psychiatric Disorders: Hallucinations [see Warnings and Precautions (5.4)], depression
+
+                        Skin and Subcutaneous Tissue Disorders: Stevens Johnson Syndrome, anaphylactic reaction [seeWarnings and Precautions (5.5)], exfoliative dermatitis, rash

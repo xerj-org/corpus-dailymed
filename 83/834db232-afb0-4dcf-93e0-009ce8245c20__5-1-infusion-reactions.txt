@@ -1,0 +1,9 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 5.1 Infusion Reactions
+
+UPLIZNA can cause infusion reactions, including anaphylaxis. Symptoms of infusion reactions can include headache, nausea, somnolence, dyspnea, fever, myalgia, rash, or palpitations. Infusion reactions were observed in 9.3%, 7.4%, and 10.1% of patients treated with UPLIZNA during the randomized-controlled periods of Study 1 in patients with NMOSD, Study 2 in patients with IgG4-RD, and Study 3 in patients with gMG, respectively. Infusion reactions were most common with the first infusion but were also observed during subsequent infusions.
+
+                              Reducing the Risk of Infusion Reactions and Managing Infusion Reactions
+
+                        Administer pre-medication with a corticosteroid, an antihistamine, and an antipyretic [see Dosage and Administration (2.2)].
+
+                        Management recommendations for infusion reactions depend on the type and severity of the reaction. For life-threatening infusion reactions, immediately and permanently stop UPLIZNA and administer appropriate supportive treatment. For less severe infusion reactions, management may involve temporarily stopping the infusion, reducing the infusion rate, and/or administering symptomatic treatment.

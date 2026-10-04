@@ -1,0 +1,29 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 6 ADVERSE REACTIONS
+
+The following serious adverse reactions are described elsewhere in the labeling:
+
+                     Fluid Retention and Edema [see Warnings and Precautions (5.1)]
+
+                     Hematologic Toxicity [see Warnings and Precautions (5.2)]
+
+                     Congestive Heart Failure and Left Ventricular Dysfunction [see Warnings and Precautions (5.3)]
+
+                     Hepatotoxicity [see Warnings and Precautions (5.4)]
+
+                     Hemorrhage [see Warnings and Precautions (5.5)]
+
+                     Gastrointestinal Disorders [see Warnings and Precautions (5.6)]
+
+                     Hypereosinophilic Cardiac Toxicity [see Warnings and Precautions (5.7)]
+
+                     Dermatologic Toxicities [see Warnings and Precautions (5.8)]
+
+                     Hypothyroidism [see Warnings and Precautions (5.9)]
+
+                     Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
+
+                     Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
+
+                     Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
+
+                     Renal Toxicity [see Warnings and Precautions (5.14)]

@@ -1,0 +1,3 @@
+DailyMed 80bef3fd-4f6f-4190-8865-9ac46c8947a3 | Amoxicillin and Clavulanate Potassium | 7.3 Allopurinol
+
+The concurrent administration of allopurinol and amoxicillin increases substantially the incidence of rashes in patients receiving both drugs as compared to patients receiving amoxicillin alone. It is not known whether this potentiation of amoxicillin rashes is due to allopurinol or the hyperuricemia present in these patients. Discontinue allopurinol at the first appearance of skin rash when used concomitantly with amoxicillin and clavulanate potassium.

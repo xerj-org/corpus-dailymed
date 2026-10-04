@@ -1,0 +1,17 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 12.6 Specific Populations
+
+Hepatic Impairment
+
+                        Relative to the AUC of everolimus in subjects with normal hepatic function, the average AUC in 6 patients with mild hepatic impairment (Child-Pugh Class A) was 1.6-fold higher following administration of a 10 mg single dose. In 2 independently studied groups of 8 and 9 patients with moderate hepatic impairment (Child-Pugh Class B) the average AUC was 2.1-fold and 3.3-fold higher following administration of a 2 mg or a 10 mg single dose, respectively; and in 6 patients with severe hepatic impairment (Child-Pugh Class C) the average AUC was 3.6-fold higher following administration of a 10 mg single dose. For patients with mild hepatic impairment (Child-Pugh Class A), the dose should be reduced by approximately one-third of the normally recommended daily dose. For patients with moderate or severe hepatic impairment (Child-Pugh Class B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose. Further dose adjustment and/or dose titration should be made if a patient’s whole blood trough concentration of everolimus, as measured by an LC/MS/MS assay, is not within the target trough concentration range of 3 to 8 ng/mL [see Dosage and Administration (2.7)].
+
+                           Renal Impairment
+
+                        No pharmacokinetic studies in patients with renal impairment were conducted. Posttransplant renal function (creatinine clearance range: 11 to 107 mL/min) did not affect the pharmacokinetics of everolimus; therefore, no dosage adjustments are needed in patients with renal impairment.
+
+                           Geriatrics
+
+                        A limited reduction in everolimus oral CL/F of 0.33% per year was estimated in adults (age range studied was 16 to 70 years). There is no evidence to suggest that elderly patients will require a different dosage recommendation from younger adult patients.
+
+                           Race
+
+                        Based on analysis of population pharmacokinetics, oral clearance (CL/F) is, on average, 20% higher in black transplant patients.

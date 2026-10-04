@@ -1,0 +1,7 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 4 CONTRAINDICATIONS
+
+SOHONOS is contraindicated in the following patients:
+
+                     During Pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+
+                     A history of allergy or hypersensitivity to retinoids, or to any component of SOHONOS. Anaphylaxis and other allergic reactions have occurred with other retinoids. [see Description (11)].

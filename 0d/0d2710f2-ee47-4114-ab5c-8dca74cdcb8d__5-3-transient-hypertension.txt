@@ -1,0 +1,3 @@
+DailyMed 0d2710f2-ee47-4114-ab5c-8dca74cdcb8d | Dexmedetomidine; Dexmedetomidine in Dextrose | 5.3 Transient Hypertension
+
+Transient hypertension has been observed primarily during the loading dose in association with the initial peripheral vasoconstrictive effects of dexmedetomidine. Treatment of the transient hypertension has generally not been necessary, although reduction of the loading infusion rate may be desirable.

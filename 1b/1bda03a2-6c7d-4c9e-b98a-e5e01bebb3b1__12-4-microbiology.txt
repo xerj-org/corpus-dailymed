@@ -1,0 +1,83 @@
+DailyMed 1bda03a2-6c7d-4c9e-b98a-e5e01bebb3b1 | Amoxicillin and Clavulanate Potassium | 12.4 Microbiology
+
+Amoxicillin is a semisynthetic antibacterial with
+
+  in vitrobactericidal activity against Gram-positive and Gram-negative bacteria. Amoxicillin is, however, susceptible to degradation by beta-lactamases, and therefore, the spectrum of activity does not include organisms which produce these enzymes. Clavulanic acid is a beta-lactam, structurally related to the penicillins, which possesses the ability to inactivate some beta-lactamase enzymes commonly found in microorganisms resistant to penicillins and cephalosporins. In particular, it has good activity against the clinically important plasmid-mediated beta-lactamases frequently responsible for transferred drug resistance.
+
+  The formulation of amoxicillin and clavulanic acid in amoxicillin and clavulanate potassium protects amoxicillin from degradation by some beta-lactamase enzymes and extends the antibacterial spectrum of amoxicillin to include many bacteria normally resistant to amoxicillin.
+
+  Amoxicillin and clavulanic acid has been shown to be active against most isolates of the following bacteria, both
+
+  in vitroand in clinical infections
+
+  [see
+
+   Indications and Usage (1)]
+
+  .
+
+                           Gram-positive bacteria
+
+  Staphylococcus aureus
+
+                           Gram-negative bacteria
+
+  Enterobacter
+  species
+
+                           Escherichia coli
+
+                           Haemophilus influenzae
+
+                           Klebsiellaspecies
+
+                           Moraxella catarrhalis
+
+                           The following
+
+  in vitrodata are available,
+
+  but their clinical significance is unknown. At least 90 percent of the following bacteria exhibit an
+
+  in vitrominimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for amoxicillin and clavulanic acid. However, the efficacy of amoxicillin and clavulanic acid in treating clinical infections due to these bacteria
+
+  has not beenestablished in adequate and well-controlled clinical trials.
+
+                           Gram-positive bacteria
+
+  Enterococcus faecalis
+
+                           Staphylococcus epidermidis
+
+                           Staphylococcus saprophyticus
+
+                           Streptococcus pneumoniae
+
+                           Streptococcus pyogenes
+
+                           Viridans group
+
+  Streptococcus
+
+                           Gram-negative Bacteria
+
+  Eikenella corrodens
+
+                           Proteus mirabilis
+
+                           Anaerobic Bacteria
+
+  Bacteroides
+  species including
+
+  Bacteroides fragilis
+
+                           Fusobacteriumspecies
+
+                           Peptostreptococcusspecies
+
+                              Susceptibility Test Methods
+
+  For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see:
+
+                              https://www.fda.gov/STIC.

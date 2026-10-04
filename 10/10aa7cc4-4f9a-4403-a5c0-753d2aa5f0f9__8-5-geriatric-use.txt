@@ -1,0 +1,35 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 8.5 Geriatric Use
+
+Dapagliflozin and metformin HCl
+
+                        No dapagliflozin and metformin HCl dosage change is recommended based on age. More frequent assessment of renal function is recommended in elderly patients.
+
+                            
+
+                           Dapagliflozin
+
+                        A total of 1424 (24%) of the 5936 dapagliflozin-treated patients were 65 years and older and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical trials assessing the efficacy of dapagliflozin in improving glycemic control. After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older. In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin for glycemic control had adverse reactions of hypotension
+
+  [see
+
+   Warnings and Precautions (5.3) 
+
+  and
+
+    
+
+   Adverse Reactions (6.1)]
+
+  .
+
+                        In the DAPA-HF, DELIVER and DAPA-CKD trials, safety and efficacy were similar for patients aged 65 years and younger and those older than 65 in both the overall population and in the patients with type 2 diabetes mellitus. In the DAPA-HF trial, 2714 (57%) out of 4744 patients with heart failure with reduced ejection fraction (HFrEF) were older than 65 years. Out of 2139 patients with HFrEF and type 2 diabetes mellitus, 1211 (57%) were older than 65 years. In the DELIVER trial, 4759 (76%) out of 6263 patients with heart failure (LVEF >40%) were older than 65 years. Out of 2806 patients with LVEF >40% and type 2 diabetes mellitus, 2072 (74%) were older than 65 years. In the DAPA-CKD trial, 1818 (42%) out of 4304 patients with chronic kidney disease were older than 65 years. Out of 2906 patients with chronic kidney disease and type 2 diabetes mellitus, 1399 (48%) were older than 65 years.
+
+                           Metformin HCl
+
+                        Controlled clinical trials of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently than younger patients. In general, dosage selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis. Assess renal function more frequently in elderly patients
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .

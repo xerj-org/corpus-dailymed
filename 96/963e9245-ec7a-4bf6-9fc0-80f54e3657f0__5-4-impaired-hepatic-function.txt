@@ -1,0 +1,3 @@
+DailyMed 963e9245-ec7a-4bf6-9fc0-80f54e3657f0 | telmisartan | 5.4 Impaired Hepatic Function
+
+As the majority of telmisartan is eliminated by biliary excretion, patients with biliary obstructive disorders or hepatic insufficiency can be expected to have reduced clearance. Initiate telmisartan at low doses and titrate slowly in these patients     [see        Use in Specific Populations (8.6)and       Clinical Pharmacology (12.3)].

@@ -1,0 +1,13 @@
+DailyMed c3dfa8a1-d10a-4a1a-8eba-5f4e2a5a2949 | Metformin Hydrochloride; METFORMIN HYDROCHLORIDE | 2.4 Recommended Dosage in Patients with Renal Impairment
+
+• Assess renal function prior to initiation of metformin hydrochloride tablets/metformin hydrochloride extended-release tablets and periodically thereafter.
+
+                        • Metformin hydrochloride tablets/Metformin hydrochloride extended-release tablets are contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2.
+
+                        • Initiation of metformin hydrochloride tablets/metformin hydrochloride extended-release tablets in patients with an eGFR between 30 to 45 mL/minute/1.73 m2 is not recommended.
+
+                        • In patients taking metformin hydrochloride tablets/metformin hydrochloride extended-release tablets whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit risk of continuing therapy.
+
+                        • Discontinue metformin hydrochloride tablets/metformin hydrochloride extended-release tablets if the patient’s eGFR later falls below 30 mL/minute/1.73 m2 [see
+                              Warnings and Precautions (5.1)
+                           ].

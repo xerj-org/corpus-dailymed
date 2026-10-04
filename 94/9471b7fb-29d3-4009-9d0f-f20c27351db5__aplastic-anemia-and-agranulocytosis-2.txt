@@ -1,0 +1,5 @@
+DailyMed 9471b7fb-29d3-4009-9d0f-f20c27351db5 | Carbamazepine | Aplastic Anemia and Agranulocytosis
+
+Aplastic anemia and agranulocytosis have been reported in association with the use of carbamazepine (see
+
+  BOXED WARNING). Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.

@@ -1,0 +1,60 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 2.5 Recommended Dosage in Patients with Renal Impairment
+
+Adult Patients
+
+                        Table 4 provides dosing recommendations for patients based on renal function and concomitant medications.
+
+                           Table 4. Recommended Dosage in Adults Based on Renal Function
+
+                                 Concomitant Medications |
+                                 Dosage of Maraviroc Tablets Based on Renal Function |
+
+                                 Normal
+
+ (CrCl >80 mL/min) |
+                                 Mild
+
+ (CrCl >50 and ≤80 mL/min) |
+                                 Moderate
+
+ (CrCl ≥30 and ≤50 mL/min) |
+                                 Severe
+
+ (CrCl <30 mL/min) |
+                                 End-Stage
+
+ Renal Disease on Regular Hemodialysis |
+
+                                 Potent CYP3A inhibitors (with or without a CYP3A inducer)Potent CYP3A inhibitors (with or without a CYP3A inducer) including: clarithromycin, cobicistat, elvitegravir/ritonavir, itraconazole, ketoconazole, nefazodone, protease inhibitors (except tipranavir/ritonavir), telithromycin.
+
+                                  |
+                                 150 mg twice daily |
+                                 150 mg twice daily |
+                                 150 mg twice daily |
+                                 Contra-indicated |
+                                 Contra-indicated |
+
+                                 Noninteracting concomitant medicationsNoninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers such as: dolutegravir, enfuvirtide, nevirapine, all NRTIs, raltegravir, and tipranavir/ritonavir.
+
+                                  |
+                                 300 mg twice daily |
+                                 300 mg twice daily |
+                                 300 mg twice daily |
+                                 300 mg twice daily |
+                                 300 mg twice dailyDosage of maraviroc tablets should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Contraindications (4), Warnings and Precautions (5.3)]
+                                       .
+
+                                  |
+
+                                 Potent and moderate CYP3A inducers (without a potent CYP3A inhibitor)Potent and moderate CYP3A inducers (without a potent CYP3A inhibitor) including: carbamazepine, efavirenz, etravirine, phenobarbital, phenytoin, and rifampin.
+
+                                  |
+                                 600 mg twice daily |
+                                 600 mg twice daily |
+                                 600 mg twice daily |
+                                 Contra-indicated |
+                                 Contra-indicated |
+
+                           Pediatric Patients
+
+                        There are no data to recommend specific doses of maraviroc tablets in pediatric patients with mild or moderate renal impairment [see Use in Specific Populations (8.6)]. Additionally, maraviroc tablets are contraindicated for pediatric patients with severe renal impairment or end-stage renal disease (ESRD) on regular hemodialysis who are receiving potent CYP3A inhibitors or inducers [see Contraindications (4)].

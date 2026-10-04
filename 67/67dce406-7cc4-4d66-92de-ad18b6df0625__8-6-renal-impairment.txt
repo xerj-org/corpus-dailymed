@@ -1,0 +1,3 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 8.6 Renal Impairment
+
+The effect of renal impairment on the pharmacokinetics of palovarotene has not been evaluated. Given that palovarotene is hepatically eliminated, no dose adjustment of SOHONOS is recommended in patients with mild (CLcr 60 to 89 mL/min) or moderate (CLcr 30 to 59 mL/min) renal impairment. Use of SOHONOS in patients with severe (CLcr 15 to 29 mL/min) renal impairment is not recommended.

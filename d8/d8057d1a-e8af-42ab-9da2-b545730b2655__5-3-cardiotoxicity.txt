@@ -1,0 +1,11 @@
+DailyMed d8057d1a-e8af-42ab-9da2-b545730b2655 | Cyclophosphamide | 5.3 Cardiotoxicity
+
+Myocarditis, myopericarditis, pericardial effusion including cardiac tamponade, and congestive heart failure, which may be fatal, have been reported with cyclophosphamide therapy.
+
+                        Supraventricular arrhythmias (including atrial fibrillation and flutter) and ventricular arrhythmias (including severe QT prolongation associated with ventricular tachyarrhythmia) have been reported after treatment with regimens that included cyclophosphamide.
+
+                        The risk of cardiotoxicity may be increased with high doses of cyclophosphamide, in patients with advanced age, and in patients with previous radiation treatment to the cardiac region and/or previous or concomitant treatment with other cardiotoxic agents.
+
+                        Particular caution is necessary in patients with risk factors for cardiotoxicity and in patients with pre-existing cardiac disease.
+
+                         Monitor patients with risk factors for cardiotoxicity and with pre-existing cardiac disease.

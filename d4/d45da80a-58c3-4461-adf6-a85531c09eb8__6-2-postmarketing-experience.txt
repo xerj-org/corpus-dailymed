@@ -1,0 +1,31 @@
+DailyMed d45da80a-58c3-4461-adf6-a85531c09eb8 | Telmisartan | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of telmisartan. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure. Blood and Lymphatic System Disorders: Anemia, eosinophilia, thrombocytopenia
+
+                           Gastrointestinal Disorders: Abdominal pain, diarrhea, dyspepsia, nausea
+
+                           General Disorders and Administration Site Conditions: Asthenia, chest pain, edema, face edema, fatigue, lower limb edema, pain, weakness
+
+                           Hepato-biliary: Abnormal hepatic function/liver disorder
+
+                           Immune System Disorders: Anaphylactic reaction, hypersensitivity
+
+                           Investigations: Increased CPK, uric acid increased
+
+                           Metabolism and Nutrition Disorders: Hyperkalemia, hypoglycemia (in diabetic patients), hyponatremia
+
+                           Musculoskeletal and Connective Tissue Disorders: Myalgia
+
+                           Nervous System Disorders: Dizziness, headache, syncope
+
+                           Renal and Urinary Disorders: Renal impairment including acute renal failure
+
+                           Reproductive System and Breast Disorders: Erectile dysfunction
+
+                           Respiratory, Thoracic and Mediastinal Disorders: Coughing
+
+                           Skin and Subcutaneous Tissue Disorders: Angioedema (with fatal outcome), angioneurotic edema, drug eruption (toxic skin eruption mostly reported as toxicoderma, rash, and urticaria), erythema, sweating increased, urticaria
+
+                           Vascular Disorder: Hypotension (including postural hypotension)
+
+                        Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers, including telmisartan.

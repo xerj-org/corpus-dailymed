@@ -1,0 +1,27 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 8.1 Pregnancy
+
+Risk Summary
+
+                        The available data with tofacitinib tablets from a pregnancy exposure registry that enrolled 11 exposed pregnant females, pharmacovigilance, and published literature are insufficient to draw conclusions about a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes. There are risks to the mother and the fetus associated with RA and UC in pregnancy
+
+  (see Clinical Considerations). In animal reproduction studies, fetocidal and teratogenic effects were noted when pregnant rats and rabbits received tofacitinib during the period of organogenesis at exposures multiples of 73-times and 6.3-times the maximum recommended dose of 10 mg twice daily, respectively. Further, in a peri- and post-natal study in rats, tofacitinib resulted in reductions in live litter size, postnatal survival, and pup body weights at exposure multiples of approximately 73-times the recommended dosage of 5 mg twice daily and approximately 36 times the maximum recommended dosage of 10 mg twice daily, respectively
+
+  (see Data).
+
+                        The background risks of major birth defects and miscarriage for the indicated populations are unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. The background risks in the U.S. general population of major birth defects and miscarriages are 2 to 4% and 15 to 20% of clinically recognized pregnancies, respectively.
+
+                           Clinical Considerations
+
+                            
+
+                           Disease-Associated Maternal and/or Embryo/Fetal Risk:Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with RA or UC. Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2,500 grams) infants, and small for gestational age at birth.
+
+                           Data
+
+                            
+
+                           Animal Data:In a rat embryofetal developmental study, in which pregnant rats received tofacitinib during organogenesis, tofacitinib was teratogenic at exposure levels approximately 146 times the recommended dose of 5 mg twice daily, and approximately 73 times the maximum recommended dose of 10 mg twice daily (on an AUC basis at oral doses of 100 mg/kg/day in rats). Teratogenic effects consisted of external and soft tissue malformations of anasarca and membranous ventricular septal defects, respectively; and skeletal malformations or variations (absent cervical arch; bent femur, fibula, humerus, radius, scapula, tibia, and ulna; sternoschisis; absent rib; misshapen femur; branched rib; fused rib; fused sternebra; and hemicentric thoracic centrum). In addition, there was an increase in post-implantation loss, consisting of early and late resorptions, resulting in a reduced number of viable fetuses. Mean fetal body weight was reduced. No developmental toxicity was observed in rats at exposure levels approximately 58 times the recommended dose of 5 mg twice daily, and approximately 29 times the maximum recommended dose of 10 mg twice daily (on an AUC basis at oral doses of 30 mg/kg/day in pregnant rats).
+
+                        In a rabbit embryofetal developmental study in which pregnant rabbits received tofacitinib during the period of organogenesis, tofacitinib was teratogenic at exposure levels approximately 13 times the recommended dose of 5 mg twice daily, and approximately 6.3 times the maximum recommended dose of 10 mg twice daily (on an AUC basis at oral doses of 30 mg/kg/day in rabbits) in the absence of signs of maternal toxicity. Teratogenic effects included thoracogastroschisis, omphalocele, membranous ventricular septal defects, and cranial/skeletal malformations (microstomia, microphthalmia), mid-line and tail defects. In addition, there was an increase in post-implantation loss associated with late resorptions. No developmental toxicity was observed in rabbits at exposure levels approximately 3 times the recommended dose of 5 mg twice daily, and approximately 1.5 times the maximum recommended dose of 10 mg twice daily (on an AUC basis at oral doses of 10 mg/kg/day in pregnant rabbits).
+
+                        In a peri- and postnatal development study in pregnant rats that received tofacitinib from gestation day 6 through day 20 of lactation, there were reductions in live litter size, postnatal survival, and pup body weights at exposure levels approximately 73 times the recommended dose of 5 mg twice daily, and approximately 36 times the maximum recommended dose of 10 mg twice daily (on an AUC basis at oral doses of 50 mg/kg/day in rats). There was no effect on behavioral and learning assessments, sexual maturation or the ability of the F1 generation rats to mate and produce viable F2 generation fetuses in rats at exposure levels approximately 17 times the recommended dose of 5 mg twice daily, and approximately 8.3 times the maximum recommended dose of 10 mg twice daily (on an AUC basis at oral doses of 10 mg/kg/day in rats).

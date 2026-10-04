@@ -1,0 +1,9 @@
+DailyMed cf74ba2f-afc5-4baa-8594-979c889a5831 | XELJANZ; XELJANZXR | 12.2 Pharmacodynamics
+
+Treatment with XELJANZ was associated with dose-dependent reductions of circulating CD16/56+ natural killer cells, with estimated maximum reductions occurring at approximately 8-10 weeks after initiation of therapy. These changes generally resolved within 2-6 weeks after discontinuation of treatment. Treatment with XELJANZ was associated with dose-dependent increases in B cell counts. Changes in circulating T-lymphocyte counts and T-lymphocyte subsets (CD3+, CD4+ and CD8+) were small and inconsistent. The clinical significance of these changes is unknown.
+
+                        Total serum IgG, IgM, and IgA levels after 6-month dosing in patients with rheumatoid arthritis (RA) were lower than in patients who received placebo; however, changes were small and not dose-dependent.
+
+                        After treatment with XELJANZ in patients with RA, rapid decreases in serum C-reactive protein (CRP) were observed and maintained throughout dosing. Changes in CRP observed with XELJANZ treatment do not reverse fully within 2 weeks after discontinuation, indicating a longer duration of pharmacodynamic activity compared to the pharmacokinetic half-life.
+
+                        Similar changes in T cells, B cells, and serum CRP have been observed in patients with active psoriatic arthritis (PsA) although reversibility was not assessed. Total serum immunoglobulins were not assessed in patients with active PsA.

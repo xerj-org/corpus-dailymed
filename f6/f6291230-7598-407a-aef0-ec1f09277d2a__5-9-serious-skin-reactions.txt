@@ -1,0 +1,11 @@
+DailyMed f6291230-7598-407a-aef0-ec1f09277d2a | celecoxib | 5.9 Serious Skin Reactions
+
+Serious skin reactions have occurred following treatment with celecoxib capsules, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP). These serious events may occur without warning and can be fatal.
+
+                        Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of celecoxib capsules at the first appearance of skin rash or any other sign of hypersensitivity. Celecoxib capsules are contraindicated in patients with previous serious skin reactions to NSAIDs [
+
+  see Contraindications (
+
+   4)
+
+  ].

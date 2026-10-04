@@ -1,0 +1,9 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Hepatic Enzyme Inducers, Inhibitors and Substrates
+
+Drugs which cytochrome P450 3A4 (CYP 3A4) enzyme activity (e.g., ) may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased. Drugs which CYP 3A4 (e.g., ) have the potential to result in increased plasma concentrations of corticosteroids. Glucocorticoids are moderate inducers of CYP 3A4. Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., ) may increase their clearance, resulting in decreased plasma concentration.
+
+  induce
+                                 barbiturates, phenytoin, carbamazepine, rifampin
+                                 inhibit
+                                 ketoconazole, itraconazole, ritonavir, indinavir, macrolide antibiotics such as erythromycin
+                                 indinavir, erythromycin

@@ -1,0 +1,5 @@
+DailyMed ff660787-880f-4f2b-baac-fd2dbfcd79c2 | Selexipag; Selexipag TITRATION PACK | 2.7 Dosage Adjustment with Co-administration of Moderate CYP2C8 Inhibitors
+
+When co-administered with moderate CYP2C8 inhibitors (e.g., clopidogrel, deferasirox and teriflunomide) in adult patients, reduce the dosing of selexipag to once daily [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+
+                           Pediatric use information is approved for Actelion Pharmaceuticals US, Inc.'s Uptravi® (Selexipag) Tablets. However, due to Actelion Pharmaceuticals US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

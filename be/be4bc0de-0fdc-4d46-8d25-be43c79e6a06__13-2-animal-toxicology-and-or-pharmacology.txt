@@ -1,0 +1,3 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 13.2 Animal Toxicology and/or Pharmacology
+
+In repeat-dose toxicity studies up to 6-months duration, oral administration of abemaciclib resulted in retinal atrophy of the eyes in mice at a dose of 150 mg/kg/day (approximately 10 times the exposure at the maximum recommended human dose based on AUC) and in rats at a dose of 30 mg/kg/day (approximately 5 times the exposure at the maximum recommended human dose based on AUC). In a 2-year rat carcinogenicity study, oral administration of abemaciclib resulted in retinal atrophy in the eyes at doses ≥0.3 mg/kg/day (approximately 0.05 times the exposure at the maximum recommended human dose based on AUC).

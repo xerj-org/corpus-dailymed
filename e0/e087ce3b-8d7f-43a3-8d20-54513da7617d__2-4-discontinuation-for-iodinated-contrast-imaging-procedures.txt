@@ -1,0 +1,3 @@
+DailyMed e087ce3b-8d7f-43a3-8d20-54513da7617d | Metformin Hydrochloride | 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
+
+Discontinue metformin hydrochloride oral solution at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m2; in patients with a history of liver disease, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast. Re-evaluate eGFR 48 hours after the imaging procedure; restart metformin hydrochloride oral solution if renal function is stable.

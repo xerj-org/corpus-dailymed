@@ -1,0 +1,3 @@
+DailyMed 9e92ccc3-d81c-461d-a19f-7e9b582be357 | dextroamphetamine sulfate | Carcinogenesis/Mutagenesis
+
+Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of dextroamphetamine sulfate extended-release have not been performed.

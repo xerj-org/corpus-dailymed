@@ -1,0 +1,7 @@
+DailyMed d45da80a-58c3-4461-adf6-a85531c09eb8 | Telmisartan | 12.2 Pharmacodynamics
+
+In normal volunteers, a dose of telmisartan 80 mg inhibited the pressor response to an intravenous infusion of angiotensin II by about 90% at peak plasma concentrations with approximately 40% inhibition persisting for 24 hours.
+
+                        Plasma concentration of angiotensin II and plasma renin activity (PRA) increased in a dose-dependent manner after single administration of telmisartan to healthy subjects and repeated administration to hypertensive patients. The once-daily administration of up to 80 mg telmisartan to healthy subjects did not influence plasma aldosterone concentrations. In multiple dose studies with hypertensive patients, there were no clinically significant changes in electrolytes (serum potassium or sodium), or in metabolic function (including serum levels of cholesterol, triglycerides, HDL, LDL, glucose, or uric acid).
+
+                        In 30 hypertensive patients with normal renal function treated for 8 weeks with telmisartan 80 mg or telmisartan 80 mg in combination with hydrochlorothiazide 12.5 mg, there were no clinically significant changes from baseline in renal blood flow, glomerular filtration rate, filtration fraction, renovascular resistance, or creatinine clearance.

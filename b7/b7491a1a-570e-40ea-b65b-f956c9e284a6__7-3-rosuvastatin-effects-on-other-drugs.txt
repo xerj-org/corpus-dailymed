@@ -1,0 +1,28 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 7.3 Rosuvastatin Effects on Other Drugs
+
+Table 7 presents rosuvastatin’s effect on other drugs and instructions for preventing or managing them.
+
+                           Table 7: Rosuvastatin Effects on Other Drugs
+
+                                       Warfarin
+
+                                  |
+
+                                       Clinical Impact:
+
+                                  |
+
+                                    Rosuvastatin significantly increased the INR in patients receiving warfarin
+      [see
+       Clinical Pharmacology (12.3)]
+      .
+
+                                  |
+
+                                       Intervention:
+
+                                  |
+
+                                    In patients taking warfarin, obtain an INR before starting rosuvastatin and frequently enough after initiation, dose titration or discontinuation to ensure that no significant alteration in INR occurs. Once the INR is stable, monitor INR at regularly recommended intervals
+
+                                  |

@@ -1,0 +1,168 @@
+DailyMed 362034e9-2830-19a5-e063-6394a90a8dfb | ANASTROZOLE | 14.3 Second-Line Therapy in Postmenopausal Women with Advanced Breast Cancer who had Disease Progression following Tamoxifen Therapy
+
+Anastrozole was studied in two controlled clinical trials (0004, a North American study; 0005, a predominately European study) in postmenopausal women with advanced breast cancer who had disease progression following tamoxifen therapy for either advanced or early breast cancer. Some of the patients had also received previous cytotoxic treatment. Most patients were ER-positive; a smaller fraction were ER-unknown or ER-negative; the ER-negative patients were eligible only if they had a positive response to tamoxifen. Eligible patients with measurable and non-measurable disease were randomized to receive either a single daily dose of 1 mg or 10 mg of anastrozole tablets or megestrol acetate 40 mg four times a day. The studies were double-blinded with respect to anastrozole tablets. Time to progression and objective response (only patients with measurable disease could be considered partial responders) rates were the primary efficacy variables. Objective response rates were calculated based on the Union Internationale Contre le Cancer (UICC) criteria. The rate of prolonged (more than 24 weeks) stable disease, the rate of progression, and survival were also calculated.
+
+                        Both trials included over 375 patients; demographics and other baseline characteristics were similar for the three treatment groups in each trial. Patients in the 0005 trial had responded better to prior tamoxifen treatment. Of the patients entered who had prior tamoxifen therapy for advanced disease (58% in Trial 0004; 57% in Trial 0005), 18% of these patients in Trial 0004 and 42% in Trial 0005 were reported by the primary investigator to have responded. In Trial 0004, 81% of patients were ER-positive, 13% were ER-unknown, and 6% were ER-negative. In Trial 0005, 58% of patients were ER-positive, 37% were ER-unknown, and 5% were ER-negative. In Trial 0004, 62% of patients had measurable disease compared to 79% in Trial 0005. The sites of metastatic disease were similar among treatment groups for each trial. On average, 40% of the patients had soft tissue metastases; 60% had bone metastases; and 40% had visceral (15% liver) metastases.
+
+                        Efficacy results from the two studies were similar as presented in Table 13. In both studies there were no significant differences between treatment arms with respect to any of the efficacy parameters listed in the table below.
+
+                           Table 13 – Efficacy Results of Second-line Treatment
+
+                                  |
+                                 Anastrozole tablets
+
+  1 mg
+     |
+                                 Anastrozole tablets
+
+  10 mg
+     |
+                                 Megestrol Acetate
+
+  160 mg
+     |
+
+                                 Trial 0004 |
+
+                                 (
+
+     N. America)
+
+     |
+                                 (N=128) |
+                                 (N=130) |
+                                 (N=128) |
+
+                                 Median Follow-up (months)
+
+     Surviving Patients
+
+                                  |
+                                 31.3 |
+                                 30.9 |
+                                 32.9 |
+
+                                 Median Time to Death (months) |
+                                 29.6 |
+                                 25.7 |
+                                 26.7 |
+
+                                 2 Year Survival Probability (%) |
+                                 62.0 |
+                                 58.0 |
+                                 53.1 |
+
+                                 Median Time to Progression (months) |
+                                 5.7 |
+                                 5.3 |
+                                 5.1 |
+
+                                 Objective Response (all patients ) (%) |
+                                 12.5 |
+                                 10.0 |
+                                 10.2 |
+
+                                 Stable Disease for >24 weeks (%) |
+                                 35.2 |
+                                 29.2 |
+                                 32.8 |
+
+                                 Progression (%) |
+                                 86.7 |
+                                 85.4 |
+                                 90.6 |
+
+                                 Trial 0005 |
+
+                                 (
+
+     Europe, Australia, S. Africa)
+
+     |
+                                 (N=135) |
+                                 (N=118) |
+                                 (N=125) |
+
+                                 Median Follow-up (months)
+
+                                  |
+                                 31.0 |
+                                 30.9 |
+                                 31.5 |
+
+                                 Median Time to Death (months) |
+                                 24.3 |
+                                 24.8 |
+                                 19.8 |
+
+                                 2 Year Survival Probability (%) |
+                                 50.5 |
+                                 50.9 |
+                                 39.1 |
+
+                                 Median Time to Progression (months) |
+                                 4.4 |
+                                 5.3 |
+                                 3.9 |
+
+                                 Objective Response (all patients) (%) |
+                                 12.6 |
+                                 15.3 |
+                                 14.4 |
+
+                                 Stable Disease for >24 weeks (%) |
+                                 24.4 |
+                                 25.4 |
+                                 23.2 |
+
+                                 Progression (%) |
+                                 91.9 |
+                                 89.8 |
+                                 92.0 |
+
+                        When data from the two controlled trials are pooled, the objective response rates and median times to progression and death were similar for patients randomized to anastrozole tablets 1 mg and megestrol acetate. There is, in this data, no indication that anastrozole tablets 10 mg are superior to anastrozole tablets 1 mg.
+
+                           Table 14 – Pooled Efficacy Results of Second-line Treatment
+
+                                 Trials 0004 & 0005
+
+  (Pooled Data)
+     |
+                                 Anastrozole tablets
+
+  1 mg
+
+  N=263
+     |
+                                 Anastrozole tablets
+
+  10 mg
+
+  N=248
+     |
+                                 Megestrol Acetate
+
+  160 mg
+
+  N=253
+     |
+
+                                 Median Time to Death (months) |
+                                 26.7 |
+                                 25.5 |
+                                 22.5 |
+
+                                 2 Year Survival Probability (%) |
+                                 56.1 |
+                                 54.6 |
+                                 46.3 |
+
+                                 Median Time to Progression |
+                                 4.8 |
+                                 5.3 |
+                                 4.6 |
+
+                                 Objective Response (all patients) (%) |
+                                 12.5 |
+                                 12.5 |
+                                 12.3 |

@@ -1,0 +1,821 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Effect of rifampin on other drugs
+
+Induction of Drug Metabolizing Enzymes and Transporters
+
+Drug metabolizing enzymes and transporters affected by rifampin include cytochromes P450 (CYP) 1A2, 2B6, 2C8, 2C9, 2C19, and 3A4, UDP-glucuronyltransferases (UGT), sulfotransferases, carboxylesterases, and transporters including P-glycoprotein (P-gp) and multidrug resistance-associated protein 2 (MRP2). Most drugs are substrates for one or more of these enzyme or transporter pathways, and these pathways may be induced by rifampin simultaneously. Therefore, rifampin may increase the metabolism and decrease the activity of certain coadministered drugs or increase the activity of a coadministered pro-drug (where metabolic activation is required) and has the potential to perpetuate clinically important drug-drug interactions against many drugs and across many drug classes (Table 1).
+
+                              Table 1 summarizes the effect of rifampin on other drugs or drug classes. Adjust dosages of concomitant drugs based on approved drug labeling and if applicable, therapeutic drug monitoring, unless otherwise specified.
+
+                                 Table 1: Drug Interactions with Rifampin that Affect Concomitant Drug Concentrations
+   1
+
+                                       AUC = area under the time-concentration curve |
+
+                                             Drug or Drug Class and Prevention or Management
+
+                                        |
+
+                                             Clinical Effect
+
+                                        |
+
+                                             Antiretrovirals
+
+                                             Prevention or Management: Concomitant use is contraindicated (see
+      CONTRAINDICATIONS)
+
+                                        |
+
+                                          Atazanavir
+
+                                        |
+
+                                          Decrease AUC by 72%
+
+                                        |
+
+                                          Darunavir
+      2
+
+                                        |
+
+                                          Substantial decrease in exposure, which may result in loss of therapeutic effect and development of resistance.
+
+                                        |
+
+                                          Tipranavir
+
+                                        |
+
+                                          Fosamprenavir
+      3
+
+                                        |
+
+                                          Decrease AUC by 82%
+
+                                        |
+
+                                          Saquinavir
+
+                                        |
+
+                                          Decrease AUC by 70%
+
+			Coadministration may result in severe hepatocellular toxicity
+
+                                        |
+
+                                       Cabotegravir |
+                                       Decrease AUC by 59% |
+
+                                       Fostemsavir |
+                                       Decrease AUC by 82% |
+
+                                       Lenacapavir (SUNLENCA)
+     13
+                                        |
+                                       Decrease AUC by 84% |
+
+                                             Antiretrovirals
+
+                                             Prevention or Management: Avoid concomitant use
+
+                                        |
+
+                                          Zidovudine
+
+                                        |
+
+                                          Decrease AUC by 47%
+
+                                        |
+
+                                          Indinavir
+
+                                        |
+
+                                          Decrease AUC by 92%
+
+                                        |
+
+                                          Efavirenz
+
+                                        |
+
+                                          Decrease AUC by 26 %
+
+                                        |
+
+                                             Antiretrovirals
+
+                                          Prevention or Management: Dose adjustment is indicated
+     |
+
+                                       Lenacapavir (YEZTUGO)
+     14
+
+			Refer to the YEZTUGO prescribing information for YEZTUGO dose adjustment.
+     |
+                                       Decrease AUC by 84% |
+
+                                             Cortisol Receptor Blocker
+
+                                        |
+
+                                          Mifepristone
+
+                                             Prevention or Management: Avoid concomitant use
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Hepatitis C Antiviral
+
+                                             Prevention or Management: Avoid concomitant use
+
+                                        |
+
+                                          Daclatasvir
+
+                                        |
+
+                                          Decrease AUC by 79%
+
+                                        |
+
+                                          Simeprevir
+
+                                        |
+
+                                          Decrease AUC by 48%
+
+                                        |
+
+                                          Sofosbuvir
+      2
+
+                                        |
+
+                                          Decrease AUC by 72%
+
+			Coadministration of sofosbuvir with rifampin, may decrease sofosbuvir plasma concentrations, leading to reduced therapeutic effect of sofosbuvir.
+
+                                        |
+
+                                          Telaprevir
+
+                                        |
+
+                                          Decrease AUC by 92%
+
+                                        |
+
+                                             Systemic Hormonal Contraceptives
+
+                                             Prevention or Management: Advise patients to change to non-hormonal methods of birth control during rifampin therapy
+
+                                        |
+
+                                          Estrogens
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Progestins
+
+                                        |
+
+                                             Anticonvulsants
+
+                                        |
+
+                                          Phenytoin
+      4
+
+                                        |
+
+                                          Decrease exposure
+      4
+
+                                        |
+
+                                             Antiarrhythmics
+
+                                        |
+
+                                          Disopyramide
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Mexiletine
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Quinidine
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Propafenone
+
+                                        |
+
+                                          Decrease AUC by 50% to 67%
+
+                                        |
+
+                                          Tocainide
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Antiestrogens
+
+                                        |
+
+                                          Tamoxifen
+
+                                        |
+
+                                          Decrease AUC by 86%
+
+                                        |
+
+                                          Toremifene
+
+                                        |
+
+                                          Decrease steady state concentrations of toremifene in serum
+
+                                        |
+
+                                             Antithrombotic Agents
+
+                                        |
+
+                                          Clopidogrel
+
+                                             Prevention or Management: Concomitant use of clopidogrel and rifampin should be discouraged
+
+                                        |
+
+                                          Increase active metabolite exposure and risk of bleeding
+
+                                        |
+
+                                          Ticagrelor
+
+                                             Prevention or Management: Avoid use
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Antipsychotics
+
+                                        |
+
+                                          Haloperidol
+
+                                        |
+
+                                          Decrease plasma concentrations by 70%
+
+                                        |
+
+                                          Lurasidone
+
+                                             Prevention or Management: Concomitant use is contraindicated
+
+			(See
+
+                                                CONTRAINDICATIONS
+                                             ).
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Oral Anticoagulants
+
+                                             Prevention or Management: Perform prothrombin time daily or as frequently as necessary to establish and maintain the required dose of anticoagulant
+
+                                        |
+
+                                          Warfarin
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Antifungals
+
+                                        |
+
+                                          Fluconazole
+
+                                        |
+
+                                          Decrease AUC by 23%
+
+                                        |
+
+                                          Itraconazole
+
+                                             Prevention or Management: Not recommended 2 weeks before and during itraconazole treatment
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Ketoconazole
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                       Caspofungin
+
+                                          Prevention or Management: Refer
+
+			to the caspofungin prescribing
+
+			information for caspofungin dose
+
+			adjustment.
+     |
+                                       Decrease exposure |
+
+                                             Beta-blockers
+
+                                        |
+
+                                          Metoprolol
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Propranolol
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Benzodiazepines
+
+                                        |
+
+                                          Diazepam
+      1
+                                             ,
+                                             5
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Benzodiazepine-related drugs
+
+                                        |
+
+                                          Zopiclone
+
+                                        |
+
+                                          Decrease AUC by 82%
+
+                                        |
+
+                                          Zolpidem
+
+                                        |
+
+                                          Decrease AUC by 73%
+
+                                        |
+
+                                             Calcium Channel Blockers
+                                             5
+
+                                        |
+
+                                          Diltiazem
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Nifedipine
+      6
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Verapamil
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Corticosteroids
+                                             7
+
+                                        |
+
+                                          Prednisolone
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Cardiac Glycosides
+
+                                        |
+
+                                          Digoxin
+
+                                             Prevention or Management: Measure serum digoxin concentrations before initiating rifampin. Continue monitoring and increase digoxin dose by approximately 20% to 40% as necessary.
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Digitoxin
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Fluoroquinolones
+
+                                        |
+
+                                          Pefloxacin
+      8
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Moxifloxacin
+      1
+                                             ,
+                                             4
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Oral Hypoglycemic Agents (e.g. sulfonylureas)
+
+                                        |
+
+                                          Glyburide
+
+                                        |
+
+                                          Decrease exposure
+
+			Rifampin may worsen glucose control of glyburide
+
+                                        |
+
+                                          Glipizide
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Immunosuppressive Agents
+
+                                        |
+
+                                          Cyclosporine
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Tacrolimus
+
+                                             Prevention or Management: Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when rifampin and tacrolimus are used concomitantly.
+
+                                        |
+
+                                          Decrease AUC by 56%
+
+                                        |
+
+                                             Narcotic Analgesics
+
+                                        |
+
+                                          Oxycodone
+
+                                        |
+
+                                          Decrease AUC by 86%
+
+                                        |
+
+                                          Morphine
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Progestin Antagonist
+
+                                        |
+
+                                          Mifepristone
+
+                                             Prevention or Management: Refer to the post-treatment assessment in the mifepristone prescribing information to verify that treatment has been successful
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Selective 5-HT3 Receptor Antagonists
+
+                                        |
+
+                                          Ondansetron
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Statins Metabolized by CYP3A4
+
+                                        |
+
+                                          Simvastatin
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Thiazolidinediones
+
+                                        |
+
+                                          Rosiglitazone
+
+                                        |
+
+                                          Decrease AUC by 66%
+
+                                        |
+
+                                             Tricyclic Antidepressants
+
+                                        |
+
+                                          Nortriptyline
+      9
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                             Other Drugs
+
+                                        |
+
+                                          Enalapril
+
+                                        |
+
+                                          Decrease active metabolite exposure
+
+                                        |
+
+                                          Chloramphenicol
+      10
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Clarithromycin
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Dapsone
+
+                                        |
+
+                                          Rifampin has been shown to
+
+                                          increase the clearance of dapsone
+
+                                          and, accordingly, decrease dapsone
+
+                                          exposure. Rifampin has also been
+
+                                          shown to increase the production of the
+
+                                          hydroxylamine metabolite of dapsone
+
+                                          which could increase the risk of
+
+                                          methemoglobinemia
+
+                                        |
+
+                                          Doxycycline
+      11
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Irinotecan
+      12
+
+                                             Prevention or Management: Avoid the use of rifampin, strong CYP3A4 inducer, if possible. Substitute non-enzyme inducing therapies at least 2 weeks prior to initiation of irinotecan therapy
+
+                                        |
+
+                                          Decrease irinotecan and active metabolite exposure
+
+                                        |
+
+                                          Levothyroxine
+
+                                        |
+
+                                          Decrease exposure
+
+                                        |
+
+                                          Losartan
+
+                                        |
+
+                                          Parent
+
+                                        |
+
+                                          Decrease AUC by 30%
+
+                                        |
+
+                                          Active metabolite (E3174)
+
+                                        |
+
+                                          Decrease AUC by 40%.
+
+                                        |
+
+                                          Methadone
+
+                                        |
+
+                                          In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels and a concurrent appearance of withdrawal symptoms.
+
+                                        |
+
+                                          Praziquantel
+
+                                             Prevention or Management: Concomitant use is contraindicated (See
+      CONTRAINDICATIONS)
+
+                                        |
+
+                                          Decrease plasma praziquantel concentrations to undetectable levels.
+
+                                        |
+
+                                          Quinine
+
+                                             Prevention or Management: Avoid concomitant use
+
+                                        |
+
+                                          Decrease AUC by 75% to 85%
+
+                                        |
+
+                                          Telithromycin
+
+                                        |
+
+                                          Decrease AUC by 86%
+
+                                        |
+
+                                          Theophylline
+
+                                        |
+
+                                          Decrease exposure by 20% to 40%
+
+                                        |
+
+                              1 - Administered with rifampin 600 mg daily, unless otherwise specified
+
+2 - Rifampin dosage used concomitantly with the drug(s) is not specified in the proposed package insert.
+
+3 - Administered with rifampin 300 mg daily
+
+4 - Administered with rifampin 450 mg daily
+
+5 - Administered with rifampin 1200 mg daily
+
+6 - Rifampin 1200 mg administered as a single oral dose 8 hours before administering a single oral dose of nifedipine 10 mg
+
+7 - Numerous cases in the literature describe a decrease in glucocorticoid effect when used concomitantly with rifampin. The literature contains reports of acute adrenal crisis or adrenal insufficiency induced by the combination of rifampin-isoniazid-ethambutol or rifampin-isoniazid in patients with Addison's disease
+
+8 - Administered with rifampin 900 mg daily
+
+9 - A tuberculosis treatment regimen including rifampin (600 mg/day) isoniazid (300 mg/day), pyrazinamide (500 mg 3× per day), and pyridoxine (25 mg) was associated with higher than expected doses of nortriptyline were required to obtain a therapeutic drug level. Following the discontinuation of rifampin, the patient became drowsy and the serum nortriptyline levels rose precipitously (3-fold) into the toxic range.
+
+10 - Concomitant use with rifampin in 2 children
+
+11 - Administered with rifampin (10 mg/kg daily)
+
+12 - Administered with an antibiotic regimen including rifampin (450 mg/day), isoniazid (300 mg/day), and streptomycin (0.5 g/day) IM
+
+13 - Indicated for the treatment of human immunodeficiency virus-1 (HIV-1) infection
+
+14 - Indicated for HIV-1 pre-exposure prophylaxis (PrEP)

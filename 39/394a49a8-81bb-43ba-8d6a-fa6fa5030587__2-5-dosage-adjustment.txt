@@ -1,0 +1,25 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 2.5 Dosage Adjustment
+
+Renal Impairment
+
+  Establish baseline renal function in patients initiating ramipril capsules. Usual regimens of therapy with ramipril capsules may be followed in patients with estimated creatinine clearance >40 mL/min. However, in patients with worse impairment, 25% of the usual dose of ramipril is expected to produce full therapeutic levels of ramiprilat
+
+  [see
+
+                                 Use in Specific Populations (8.6)
+
+                           ].
+
+                           Hypertension
+
+   
+
+                           For patients with hypertension and renal impairment, the recommended initial dose is 1.25 mg ramipril capsules once daily. Dosage may be titrated upward until blood pressure is controlled or to a maximum total daily dose of 5 mg.
+
+  Heart Failure Post-Myocardial Infarction
+
+  For patients with heart failure and renal impairment, the recommended initial dose is 1.25 mg ramipril capsules once daily. The dose may be increased to 1.25 mg twice daily, and up to a maximum dose of 2.5 mg twice daily depending on clinical response and tolerability.
+
+                           Volume Depletion or Renal Artery Stenosis
+
+  Blood pressure decreases associated with any dose of ramipril capsules depend, in part, on the presence or absence of volume depletion (e.g., past and current diuretic use) or the presence or absence of renal artery stenosis. If such circumstances are suspected to be present, initiate dosing at 1.25 mg once daily. Adjust dosage according to blood pressure response.

@@ -1,0 +1,13 @@
+DailyMed 1c2716c0-16e2-460d-8639-70d36f14714a | Paroxetine | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Two-year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day (mice) and 1, 5, and 20 mg/kg/day (rats). These doses are up to 2 (mouse) and 3 (rat) times the MRHD of 60 mg on a mg/m2 basis. There was a significantly greater number of male rats in the high-dose group with reticulum cell sarcomas (1/100, 0/50, 0/50, and 4/50 for control, low-, middle-, and high-dose groups, respectively) and a significantly increased linear trend across dose groups for the occurrence of lymphoreticular tumors in male rats. Female rats were not affected. Although there was a dose-related increase in the number of tumors in mice, there was no drug-related increase in the number of mice with tumors. The relevance of these findings to humans is unknown.
+
+                           Mutagenesis
+
+                        Paroxetine produced no genotoxic effects in a battery of 5 in vitro and 2 in vivo assays that included the following: Bacterial mutation assay, mouse lymphoma mutation assay, unscheduled DNA synthesis assay, and tests for cytogenetic aberrations in vivo in mouse bone marrow and in vitro in human lymphocytes and in a dominant lethal test in rats.
+
+                           Impairment of Fertility
+
+                        A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is 2 times the MRHD of 60 mg on a mg/m2 basis. Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks. These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (8 and 4 times the MRHD of 60 mg on a mg/m2 basis).

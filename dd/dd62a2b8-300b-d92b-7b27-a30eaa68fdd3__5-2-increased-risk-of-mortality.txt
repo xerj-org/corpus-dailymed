@@ -1,0 +1,7 @@
+DailyMed dd62a2b8-300b-d92b-7b27-a30eaa68fdd3 | Tofacitinib | 5.2 Increased Risk of Mortality
+
+Increased risk of mortality may occur with tofacitinib extended-release tablets. Adult patients with rheumatoid arthritis (RA), 50 years of age and older, with at least one cardiovascular risk factor treated with XELJANZ tablets 5 mg or 10 mg twice a day had a higher observed rate of all-cause mortality, including sudden cardiovascular death, compared to those treated with TNF blockers in a large, randomized, postmarketing safety study (RA Safety Study 1). The incidence rate of all-cause mortality per 100 patient-years was 1.23 for XELJANZ tablets 10 mg twice a day, 0.88 for XELJANZ tablets 5 mg twice a day, and 0.69 for TNF blockers [see Clinical Studies (14.6)]. Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with tofacitinib extended-release tablets.
+
+                        XELJANZ 10 mg twice daily (or tofacitinib extended-release tablets 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
+
+                        For the treatment of UC, use tofacitinib extended-release tablets at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.5)].

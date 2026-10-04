@@ -1,0 +1,31 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | 14.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
+
+The effectiveness of levetiracetam as adjunctive therapy in patients with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 37 sites in 14 countries. Of the 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME. Eligible patients on a stable dose of 1 antiepileptic drug (AED) experiencing one or more myoclonic seizures per day for at least 8 days during the prospective 8-week baseline period were randomized to either levetiracetam or placebo (levetiracetam N=60, placebo N=60). Patients were titrated over 4 weeks to a target dose of 3000 mg/day and treated at a stable dose of 3000 mg/day over 12 weeks (evaluation period). Study drug was given in 2 divided doses. The primary measure of effectiveness was the proportion of patients with at least 50% reduction in the number of days per week with one or more myoclonic seizures during the treatment period (titration + evaluation periods) as compared to baseline. Table 10 displays the results for the 113 patients with JME in this study. Of 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME. The results are displayed in Table 10.
+
+                           Table 10: Responder Rate (≥50% Reduction from Baseline) in Myoclonic Seizure Days Per Week For Patients With JME
+
+                                  |
+
+                                       Placebo
+
+                                       (N=59)
+
+                                  |
+
+                                       Levetiracetam
+
+                                       (N=54)
+
+                                  |
+
+                                    Percentage of responders
+
+                                  |
+
+                                    23.7%
+
+                                  |
+
+                                    60.4%Statistically significant versus placebo
+
+                                  |

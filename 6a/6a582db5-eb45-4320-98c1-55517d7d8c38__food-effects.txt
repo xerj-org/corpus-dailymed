@@ -1,0 +1,4 @@
+DailyMed 6a582db5-eb45-4320-98c1-55517d7d8c38 | Isosorbide Mononitrate | Food Effects
+
+The influence of food on the bioavailability of ISMN after single-dose administration of isosorbide mononitrate extended-release tablets 60 mg was evaluated in three different studies involving either a "light" breakfast or a high-calorie, high-fat breakfast. Results of these studies indicate that concomitant food intake may decrease the rate (increase in T
+  max) but not the extent (AUC) of absorption of ISMN.

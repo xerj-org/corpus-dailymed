@@ -1,0 +1,7 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Pediatric Accidental Ingestion
+
+A number of fatalities have been reported following the accidental ingestion of chloroquine, sometimes in relatively small doses (0.75 g or 1 g chloroquine phosphate in one 3-year-old child). Patients should be strongly warned to keep chloroquine phosphate tablets out of the reach of children because they are especially sensitive to the 4-aminoquinoline compounds (see
+                              OVERDOSAGE
+                            and
+                              ADVERSE REACTIONS
+                           ).

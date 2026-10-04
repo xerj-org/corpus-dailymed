@@ -1,0 +1,5 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described below with the incidence of ADA in other studies, including those of tarlatamab-dlle or of other tarlatamab products.
+
+                        During the maximum 3-year treatment period during which the presence of ADA was evaluated in DeLLphi-300, DeLLphi-301, and DeLLphi-304, 8% (36/445) of patients who received the recommended step-up and full dose of IMDELLTRA developed treatment- emergent ADA. In DeLLphi-301 and DeLLphi-304, which included neutralizing antibody assessments, 38% (11/29) of the patients who developed treatment-emergent ADA also developed neutralizing antibodies. ADA resulted in a 14% increase in the clearance of tarlatamab-dlle. Because of the low occurrence of ADA, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and effectiveness of tarlatamab-dlle is unknown.

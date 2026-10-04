@@ -1,0 +1,3 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 5.5 Tumor Lysis Syndrome (TLS)
+
+TLS can occur within 12–24 hours after administration of a rituximab-containing product, including RITUXAN HYCELA. A high number of circulating malignant cells (≥ 25,000/mm3) or high tumor burden confers a greater risk of TLS. Administer aggressive intravenous hydration and anti-hyperuricemic therapy in patients at high risk for TLS. Correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated [see Warnings and Precautions (5.8)].

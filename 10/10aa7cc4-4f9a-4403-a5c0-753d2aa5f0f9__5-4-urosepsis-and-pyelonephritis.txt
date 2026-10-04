@@ -1,0 +1,9 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 5.4 Urosepsis and Pyelonephritis
+
+Serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization have been reported in patients receiving SGLT2 inhibitors, including dapagliflozin. Treatment with SGLT2 inhibitors increases the risk for urinary tract infections. Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated
+
+  [see
+
+   Adverse Reactions (6.2)]
+
+  .

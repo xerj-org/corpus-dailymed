@@ -1,0 +1,3 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 7.1 Antibiotics
+
+Drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as rocuronium bromide include certain antibiotics (e.g., aminoglycosides; vancomycin; tetracyclines; bacitracin; polymyxins; colistin; and sodium colistimethate). If these antibiotics are used in conjunction with rocuronium bromide, prolongation of neuromuscular block may occur.

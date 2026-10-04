@@ -1,0 +1,17 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 6.2 Postmarketing Experience
+
+The following additional adverse reactions have been identified during postmarketing use of GADAVIST or other GBCAs. Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Cardiac Disorders: Cardiac arrest
+
+                           Gastrointestinal Disorders: Acute pancreatitis with onset within 48 hours after GBCA administration
+
+                           General Disorders and Administration Site Conditions: Fatigue, asthenia, pain syndromes, and heterogeneous clusters of symptoms in the neurological, cutaneous, and musculoskeletal systems with variable onset and duration after GBCA administration [see Warnings and Precautions (5.5)]
+
+                           Immune System Disorders: Hypersensitivity reactions (anaphylactic shock, circulatory collapse, respiratory arrest, bronchospasm, cyanosis, oropharyngeal swelling, laryngeal edema, blood pressure increased, chest pain, angioedema, conjunctivitis, hyperhidrosis, cough, sneezing, burning sensation, and pallor)
+
+                           Renal Disorders: Nephrogenic systemic fibrosis
+
+                           Respiratory, Thoracic, and Mediastinal Disorders: Acute respiratory distress syndrome, pulmonary edema
+
+                           Skin Disorders: Gadolinium associated plaques

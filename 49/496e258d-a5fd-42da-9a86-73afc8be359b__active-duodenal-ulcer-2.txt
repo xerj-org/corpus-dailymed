@@ -1,0 +1,15 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Active Duodenal Ulcer
+
+Clinical studies have indicated that suppression of nocturnal acid is the most important factor in duodenal ulcer healing (see CLINICAL PHARMACOLOGY, Acid Secretion). This is supported by recent clinical trials (see Clinical Trials, Active duodenal ulcer). Therefore, there is no apparent rationale, except for familiarity with use, for treating with anything other than a once-daily at bedtime oral dosage regimen.
+
+                              In a U.S. oral dose-ranging study of 400 mg at bedtime, 800 mg at bedtime and 1600 mg at bedtime, a continuous dose response relationship for ulcer healing was demonstrated.
+
+                              However, 800 mg at bedtime is the dose of choice for most patients, as it provides a high healing rate (the difference between 800 mg at bedtime and 1600 mg at bedtime being small), maximal pain relief, a decreased potential for drug interactions (see PRECAUTIONS, Drug Interactions) and maximal patient convenience. Patients unhealed at four weeks, or those with persistent symptoms, have been shown to benefit from two to four weeks of continued therapy.
+
+                              It has been shown that patients who both have an endoscopically demonstrated ulcer larger than 1 cm and are also heavy smokers (i.e., smoke one pack of cigarettes or more per day) are more difficult to heal. There is some evidence which suggests that more rapid healing can be achieved in this subpopulation with cimetidine 1600 mg at bedtime. While early pain relief with either 800 mg at bedtime or 1600 mg at bedtime is equivalent in all patients, 1600 mg at bedtime provides an appropriate alternative when it is important to ensure healing within four weeks for this subpopulation. Alternatively, approximately 94% of all patients will also heal in eight weeks with cimetidine 800 mg at bedtime.
+
+                              Other cimetidine oral regimens in the U.S. which have been shown to be effective are: 300 mg four times daily, with meals and at bedtime, the original regimen with which U.S. physicians have the most experience, and 400 mg twice daily, in the morning and at bedtime (see Clinical Trials, Active duodenal ulcer).
+
+                              Concomitant antacids should be given as needed for relief of pain. However, simultaneous administration of oral cimetidine and antacids is not recommended, since antacids have been reported to interfere with the absorption of cimetidine.
+
+                              While healing with cimetidine often occurs during the first week or two, treatment should be continued for 4 to 6 weeks unless healing has been demonstrated by endoscopic examination.

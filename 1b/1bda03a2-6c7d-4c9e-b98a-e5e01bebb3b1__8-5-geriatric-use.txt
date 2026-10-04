@@ -1,0 +1,5 @@
+DailyMed 1bda03a2-6c7d-4c9e-b98a-e5e01bebb3b1 | Amoxicillin and Clavulanate Potassium | 8.5 Geriatric Use
+
+Of the 3,119 patients in an analysis of clinical studies of amoxicillin and clavulanate potassium, 32% were greater than or equal to 65 years old, and 14% were greater than or equal to 75 years old. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+  This drug is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

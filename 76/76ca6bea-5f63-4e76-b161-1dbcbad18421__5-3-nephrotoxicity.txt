@@ -1,0 +1,15 @@
+DailyMed 76ca6bea-5f63-4e76-b161-1dbcbad18421 | Allopurinol | 5.3 Nephrotoxicity
+
+Treatment with allopurinol may result in acute kidney injury due to formation of xanthine calculi or due to precipitation of urates in patients receiving concomitant uricosuric agents. Patients with pre-existing kidney disease, including chronic kidney disease or history of kidney stones, may be at increased risk for worsening of kidney function or acute kidney injury due to xanthine calculi while receiving treatment with allopurinol.
+
+                        In patients receiving allopurinol for the management of gout or the management of recurrent calcium oxalate calculi, monitor kidney function frequently during the early stages of allopurinol administration. Maintain fluid intake sufficient to yield a urinary output of at least 2 liters per day of neutral or, preferably, slightly alkaline urine to avoid the possibility of formation of xanthine calculi and help prevent renal precipitation of urates in patients receiving concomitant uricosuric agents.
+
+                        In patients receiving allopurinol for the management of tumor lysis syndrome, monitor kidney function at least daily during the early stages of allopurinol administration. Maintain fluid intake sufficient to yield a urinary output of at least 2 liters per day in adults and at least 2 liters/m
+
+  2/day (or at least 100 mL/m
+
+  2/hour) in pediatric patients
+
+  [see
+
+   Dosage and Administration (2.4)].

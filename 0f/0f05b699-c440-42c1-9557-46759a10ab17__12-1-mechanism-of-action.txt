@@ -1,0 +1,7 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 12.1 Mechanism of Action
+
+Many breast cancers have estrogen receptors (ER) and the growth of these tumors can be stimulated by estrogen. Fulvestrant is an estrogen receptor antagonist that binds to the estrogen receptor in a competitive manner with affinity comparable to that of estradiol and downregulates the ER protein in human breast cancer cells.
+
+                           In vitro studies demonstrated that fulvestrant is a reversible inhibitor of the growth of tamoxifen-resistant, as well as estrogen-sensitive human breast cancer (MCF-7) cell lines. In in vivo tumor studies, fulvestrant delayed the establishment of tumors from xenografts of human breast cancer MCF-7 cells in nude mice. Fulvestrant inhibited the growth of established MCF-7 xenografts and of tamoxifen-resistant breast tumor xenografts.
+
+                        Fulvestrant showed no agonist-type effects in in vivo uterotropic assays in immature or ovariectomized mice and rats. In in vivo studies in immature rats and ovariectomized monkeys, fulvestrant blocked the uterotropic action of estradiol. In postmenopausal women, the absence of changes in plasma concentrations of FSH and LH in response to fulvestrant treatment (250 mg monthly) suggests no peripheral steroidal effects.

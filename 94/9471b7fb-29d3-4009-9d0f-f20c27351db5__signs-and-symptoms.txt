@@ -1,0 +1,27 @@
+DailyMed 9471b7fb-29d3-4009-9d0f-f20c27351db5 | Carbamazepine | Signs and Symptoms
+
+The first signs and symptoms appear after 1 to 3 hours. Neuromuscular disturbances are the most prominent. Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (greater than 60 g) have been ingested.
+
+                              Respiration:
+                           Irregular breathing, respiratory depression.
+
+                              Cardiovascular System:
+                           Tachycardia, hypotension or hypertension, shock, conduction disorders.
+
+                              Nervous System and Muscles:
+                           Impairment of consciousness ranging in severity to deep coma. Convulsions, especially in small children. Motor restlessness, muscular twitching, tremor, athetoid movements, opisthotonos, ataxia, drowsiness, dizziness, mydriasis, nystagmus, adiadochokinesia, ballism, psychomotor disturbances, dysmetria. Initial hyperreflexia, followed by hyporeflexia.
+
+                              Gastrointestinal Tract:
+                           Nausea, vomiting.
+
+                              Kidneys and Bladder:
+                           Anuria or oliguria, urinary retention.
+
+                              Laboratory Findings:
+                           Isolated instances of overdosage have included leukocytosis, reduced leukocyte count, glycosuria, and acetonuria. EEG may show dysrhythmias.
+
+                              Combined Poisoning:
+                           When alcohol, tricyclic antidepressants, barbiturates, or hydantoins are taken at the same time, the signs and symptoms of acute poisoning with carbamazepine may be aggravated or modified.
+
+                              Propylene Glycol Toxicity:
+                           In cases of suspected overdose with carbamazepine oral suspension, which contains 50 mg of propylene glycol per mL, monitor for signs of propylene glycol toxicity, including hemolysis, hyperosmolarity with anion gap metabolic acidosis, acute kidney injury, CNS toxicity, and multi-organ failure.

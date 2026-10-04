@@ -1,0 +1,21 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+                     Nephrogenic Systemic Fibrosis
+
+                  Inform the patient that GADAVIST may increase the risk of NSF among patients with impaired elimination of the drug and that NSF may result in fatal or debilitating fibrosis affecting the skin, muscle, and internal organs.
+
+                  Instruct the patients to contact their physician if they develop signs or symptoms of NSF following GADAVIST administration, such as burning, itching, swelling, scaling, hardening and tightening of the skin; red or dark patches on the skin; stiffness in joints with trouble moving, bending or straightening the arms, hands, legs or feet; pain in the hip bones or ribs; or muscle weakness [see Warnings and Precautions (5.2)].
+
+                     Acute Respiratory Distress Syndrome
+
+                  Advise patients that acute respiratory distress syndrome (ARDS) has occurred with GADAVIST. Inform patients on the symptoms of the observed ARDS cases, and instruct patients to inform their healthcare provider if they experience these symptoms [see Warnings and Precautions (5.4)].
+
+                     Gadolinium Retention
+
+                  Advise patients that gadolinium is retained for months or years in brain, bone, skin, and other organs following GADAVIST administration even in patients with normal renal function. The clinical consequences of retention are unknown. Retention depends on multiple factors and is greater following administration of linear GBCAs than following administration of macrocyclic GBCAs [see Warnings and Precautions (5.5)].
+
+                     Pregnancy
+
+                  Advise pregnant women of the potential risk of fetal exposure to GADAVIST [see Use in Specific Populations (8.1)].

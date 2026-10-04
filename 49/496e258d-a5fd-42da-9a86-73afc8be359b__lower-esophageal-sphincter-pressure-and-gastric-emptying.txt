@@ -1,0 +1,3 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Lower Esophageal Sphincter Pressure and Gastric Emptying
+
+Cimetidine has no effect on lower esophageal sphincter (LES) pressure or the rate of gastric emptying.

@@ -1,0 +1,25 @@
+DailyMed a7b8ea07-e926-f0a5-c20d-92f23ed350d0 | Hydrocodone Bitartrate | 8.1 Pregnancy
+
+Risk Summary
+
+                        Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)]. There are no studies of hydrocodone bitartrate extended-release capsules use in pregnant women. Rats administered oral hydrocodone during gestation and lactation showed increases in stillborn pups and decreases in pup survival at doses equivalent to the human dose of 100 mg/day. Reduced nursing behavior and decreased body weights were observed at 2 times the human dose. Reduced fetal weights were observed in rabbits administered hydrocodone during the period of organogenesis at doses equivalent to 5 times the human dose of 100 mg/day. In this study, increases in the number of umbilical hernias, irregularly shaped bones, and delays in fetal skeletal maturation were observed at doses 15 times the human dose of 100 mg/day. No fetal malformations were observed in animal reproduction studies with oral administration of hydrocodone bitartrate during organogenesis in rats and rabbits at doses approximately 2 and 10 times a human dose of 100 mg/day, respectively [see Data]. Based on animal data, advise pregnant women of the potential risks to a fetus.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Fetal/neonatal adverse reactions
+
+                        Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth. Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.4)].
+
+                           Labor or Delivery
+
+                        Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates. An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate. Hydrocodone bitartrate extended-release capsules are not recommended for use in women during and immediately prior to labor, when shorter-acting analgesics or other analgesic techniques are more appropriate. Opioid analgesics, including hydrocodone bitartrate extended-release capsules, can prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions. However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
+
+                           Data
+
+                           Animal Data
+
+                        Oral doses of hydrocodone bitartrate up to 25 mg/kg/day in rats and 50 mg/kg/day in rabbits, equivalent to 2 and 10 times an adult human dose of 100 mg/day, respectively on a mg/m2 basis, did not result in any fetal malformations. Fetuses of rabbits administered oral doses of 75 mg/kg/day hydrocodone bitartrate (15 times an adult human dose of 100 mg/day on a mg/m2 basis) during the period of organogenesis exhibited an increased number of malformations consisting of umbilical hernia, and irregularly shaped bones (ulna, femur, tibia and/or fibula). Maternal toxicity was evident at this dose (decreased body weight). In addition, oral hydrocodone bitartrate reduced fetal weights at doses greater than or equal to 25 mg/kg/day (equivalent to approximately 5 times an adult human dose of 100 mg/day on a mg/m2 basis). Delays in fetal skeletal maturation (reduced ossification of hyoid bodies and xiphoid bones) were seen following dosing with 75 mg/kg/day (a dose equivalent to 15 times an adult human dose of 100 mg/day on a mg/m2 basis).
+
+                        Hydrocodone bitartrate administered orally to female rats at oral doses of 10 mg/kg/day and 25 mg/kg/day during gestation and lactation resulted in pups which were noted as cold to touch and caused a reduction in fetal viability (increases in the number of stillborn pups and/or pups dying postpartum). The doses causing these effects were equivalent to approximately 1 and 2.4 times an adult human dose of 100 mg/day, on a mg/m2 basis. Nursing was reduced in pups of mothers administered 25 mg/kg/day which correlated with decreased body weight/body weight gain and food consumption in male pups. Minimal maternal toxicity was evident at 25 mg/kg (decreased body weight).

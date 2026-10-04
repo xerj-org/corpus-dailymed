@@ -1,0 +1,13 @@
+DailyMed 1ac7a13e-3f30-e140-e063-6394a90aa09d | Valacyclovir | 8.5 Geriatric Use
+
+Of the total number of subjects in clinical trials of valacyclovir tablets, 906 were 65 and over, and 352 were 75 and over. In a clinical trial of herpes zoster, the duration of pain after healing (post-herpetic neuralgia) was longer in subjects 65 and older compared with younger adults. Elderly patients are more likely to have reduced renal function and require dose reduction. Elderly patients are also more likely to have renal or CNS adverse events
+
+  [see
+
+   Dosage and Administration (2.4),
+
+   Warnings and Precautions (5.2,
+
+   5.3),
+
+   Clinical Pharmacology (12.3)].

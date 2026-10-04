@@ -1,0 +1,11 @@
+DailyMed a7b8ea07-e926-f0a5-c20d-92f23ed350d0 | Hydrocodone Bitartrate | 8.2 Lactation
+
+Risk Summary
+
+                        Hydrocodone is present in human milk. A published lactation study reports variable concentrations of hydrocodone and hydromorphone (an active metabolite) in breast milk with administration of immediate-release hydrocodone to nursing mothers in the early post-partum period. This lactation study did not assess breastfed infants for potential adverse drug reactions. Lactation studies have not been conducted with extended-release hydrocodone, including hydrocodone bitartrate extended-release capsules, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+
+                        Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with hydrocodone bitartrate extended-release capsules.
+
+                           Clinical Considerations
+
+                        Monitor infants exposed to hydrocodone bitartrate through breast milk for excess sedation and respiratory depression. Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped.

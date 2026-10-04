@@ -1,0 +1,7 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 8.4 Pediatric Use
+
+The safety and effectiveness of NIKTIMVO for the treatment of cGVHD after failure of at least two prior lines of systemic therapy have been established in pediatric patients weighing at least 40 kg. Use of NIKTIMVO in pediatric patients weighing at least 40 kg is supported by evidence from clinical trials that included 3 children (ages 6 to less than 12 years old) and 5 adolescents (ages 12 to less than 17 years old) [see Clinical Studies (14)]. The safety and effectiveness of NIKTIMVO have not been established in pediatric patients weighing less than 40 kg.
+
+Compared to adult and pediatric patients weighing 40 kg and above, patients weighing less than 40 kg had lower maximum concentration, trough concentration, and average concentration at the same weight-based dosage.
+
+Based on findings of thickening of the growth plate and metaphysis and/or degeneration of the growth plate in the femur in animals, monitor bone growth and development in pediatric patients [see Nonclinical Toxicology (13.2)].

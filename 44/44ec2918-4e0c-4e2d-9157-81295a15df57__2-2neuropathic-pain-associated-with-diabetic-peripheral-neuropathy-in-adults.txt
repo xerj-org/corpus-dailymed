@@ -1,0 +1,11 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 2.2Neuropathic Pain Associated with Diabetic Peripheral Neuropathy in Adults
+
+The maximum recommended dose of pregabalin capsule is 100 mg three times a day (300 mg/day) in patients with creatinine clearance of at least 60 mL/min. Begin dosing at 50 mg three times a day (150 mg/day). The dose may be increased to 300 mg/day within 1 week based on efficacy and tolerability.
+
+  Although pregabalin capsule was also studied at 600 mg/day, there is no evidence that this dose confers additional significant benefit and this dose was less well tolerated. In view of the dose-dependent adverse reactions, treatment with doses above 300 mg/day is not recommended
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  .

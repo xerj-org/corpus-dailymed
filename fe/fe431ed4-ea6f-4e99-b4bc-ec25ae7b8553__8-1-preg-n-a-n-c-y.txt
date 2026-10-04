@@ -1,0 +1,14 @@
+DailyMed fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553 | KYBELLA | 8 . 1 Preg n a n c y
+
+Risk Summary
+
+                        There are no adequate and well-controlled trials of KYBELLA in pregnant women to inform the drug-associated risk.    In animal reproduction studies, no fetal harm was observed with the subcutaneous administration of deoxycholic acid to rats during organogenesis at doses up to 5 times the maximum recommended human dose (MRHD) of 100 mg [see Data]
+                           . 
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown.  However, the background risk of major birth defects in the U.S. general population is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies. 
+
+                           Data
+
+                           Animal Data:
+
+                        Embryofetal development studies have been performed in rats and rabbits using subcutaneous doses of deoxycholic acid administered during the period of organogenesis.  For the basis of comparing animal to human doses, the MRHD is 1.7 mg/kg (100 mg/60 kg).  No evidence of fetal harm was observed in rats at up to the highest dose tested (50 mg/kg) which is 5-fold higher than the MRHD of KYBELLA based on a mg/m2 comparison.  However, missing intermediate lung lobe was noted in rabbits at all dose levels tested including the lowest dose (10 mg/kg) which is 2-fold higher than the MRHD of KYBELLA based on a mg/m2 comparison.  These effects may be related to maternal toxicity, which was also seen at all dose levels tested.

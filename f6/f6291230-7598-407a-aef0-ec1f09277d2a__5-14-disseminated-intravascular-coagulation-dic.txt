@@ -1,0 +1,3 @@
+DailyMed f6291230-7598-407a-aef0-ec1f09277d2a | celecoxib | 5.14 Disseminated Intravascular Coagulation (DIC)
+
+Because of the risk of disseminated intravascular coagulation with use of celecoxib capsules in pediatric patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, and inform patients and their caregivers to report symptoms as soon as possible.

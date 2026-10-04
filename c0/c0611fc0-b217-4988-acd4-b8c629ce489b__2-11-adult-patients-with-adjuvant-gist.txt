@@ -1,0 +1,9 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 2.11 Adult Patients With Adjuvant GIST
+
+The recommended dose of imatinib mesylate tablets are 400 mg/day for the adjuvant treatment of adult patients following complete gross resection of GIST. In clinical trials, one year of imatinib mesylate tablets and three years of imatinib mesylate tablets were studied. In the patient population defined in Study 2, three years of imatinib mesylate tablets are recommended
+
+  [see Clinical Studies (
+
+   14.8)]
+
+  . The optimal treatment duration with imatinib mesylate tablets are not known.

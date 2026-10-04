@@ -1,0 +1,13 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 5.3 Progressive Multifocal Leukoencephalopathy
+
+Cases of progressive multifocal leukoencephalopathy (PML) have been reported in patients with MS treated with ocrelizumab in the postmarketing setting. PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability. PML has occurred in ocrelizumab-treated patients who had not been treated previously with natalizumab (which has a known association with PML), were not taking any immunosuppressive or immunomodulatory medications associated with the risk of PML prior to or concomitantly with ocrelizumab, and did not have any known ongoing systemic medical conditions resulting in compromised immune system function.
+
+                        JCV infection resulting in PML has also been observed in patients treated with other anti-CD20 antibodies and other MS therapies.
+
+                        At the first sign or symptom suggestive of PML, withhold OCREVUS ZUNOVO and perform an appropriate diagnostic evaluation. Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+
+                        MRI findings may be apparent before clinical signs or symptoms. Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported in patients treated with other MS medications associated with PML. Many of these patients subsequently became symptomatic with PML. Therefore, monitoring with MRI for signs that may be consistent with PML may be useful, and any suspicious findings should lead to further investigation to allow for an early diagnosis of PML, if present. Following discontinuation of another MS medication associated with PML, lower PML-related mortality and morbidity have been reported in patients who were initially asymptomatic at diagnosis compared to patients who had characteristic clinical signs and symptoms at diagnosis.
+
+                        It is not known whether these differences are due to early detection and discontinuation of MS treatment or due to differences in disease in these patients.
+
+                        If PML is confirmed, treatment with OCREVUS ZUNOVO should be discontinued.

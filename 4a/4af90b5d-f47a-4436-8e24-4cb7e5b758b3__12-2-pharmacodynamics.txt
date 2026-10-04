@@ -1,0 +1,59 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 12.2 Pharmacodynamics
+
+Adults
+
+                        Famotidine inhibited both basal and nocturnal gastric secretion, as well as secretion stimulated by food and pentagastrin. After oral administration of famotidine, the onset of the antisecretory effect occurred within 1 hour; the maximum effect was dose-dependent, occurring within 1 to 3 hours. Duration of inhibition of secretion by doses of 20 mg and 40 mg was 10 to 12 hours.
+
+                        Single evening oral doses of 20 mg and 40 mg inhibited basal and nocturnal acid secretion in all subjects; mean nocturnal gastric acid secretion was inhibited by 86% and 94%, respectively, for a period of at least 10 hours. The same doses given in the morning suppressed food-stimulated acid secretion in all subjects. The mean suppression was 76% and 84%, respectively, 3 to 5 hours after administration, and 25% and 30%, respectively, 8 to 10 hours after administration. In some subjects who received the 20 mg dose, however, the antisecretory effect was dissipated within 6 to 8 hours. There was no cumulative effect with repeated doses. The nocturnal intragastric pH was raised by evening doses of 20 mg and 40 mg of famotidine to mean values of 5.0 and 6.4, respectively. When famotidine was given after breakfast, the basal daytime interdigestive pH at 3 and 8 hours after 20 mg or 40 mg of famotidine was raised to a pH level of about 5.
+
+                        Famotidine had little or no effect on fasting or postprandial serum gastrin levels. Gastric emptying and exocrine pancreatic function were not affected by famotidine.
+
+                        In clinical pharmacology studies, systemic effects of famotidine in the CNS, cardiovascular, respiratory or endocrine systems were not noted. Also, no anti-androgenic effects were noted. Serum hormone levels, including prolactin, cortisol, thyroxine (T4), and testosterone, were not altered after treatment with famotidine.
+
+                           Pediatric Patients
+
+                        Pharmacodynamics of famotidine, assessed by gastric pH, were evaluated in 5 pediatric patients 2 years to 13 years of age using the sigmoid Emax model. These data suggest that the relationship between serum concentration of famotidine and gastric acid suppression is similar to that observed in adults (see Table 4).
+
+                           Table 4: Serum Concentrations of Famotidine Associated with Gastric Acid Reduction in Famotidine-Treated Pediatric and Adult Patientsa
+
+                                  |
+
+                                       EC
+
+                                          50
+
+                                       (ng/mL)
+                                       a
+
+                                  |
+
+                                 Pediatric Patients
+
+                                  |
+                                 26 ± 13
+
+                                  |
+
+                                 Adults
+
+                                  |
+
+                                  |
+
+                                     Healthy adult subjects
+
+                                  |
+                                 26.5 ± 10.3
+
+                                  |
+
+                                     Adult patients with upper GI bleeding
+
+                                  |
+                                 18.7 ± 10.8
+
+                                  |
+
+                           a  Using the sigmoid Emax model, serum concentrations of famotidine associated with 50% maximum gastric acid reduction are presented as mean ± SD.
+
+                        In a study examining the effect of famotidine on gastric pH and duration of acid suppression in pediatric patients, four pediatric patients ages 11 to 15 years of age using the oral formulation at a dose of 0.5 mg/kg, maintained a gastric pH above 5 for 13.5 ± 1.8 hours.

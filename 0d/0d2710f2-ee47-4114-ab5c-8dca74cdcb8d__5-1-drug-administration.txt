@@ -1,0 +1,3 @@
+DailyMed 0d2710f2-ee47-4114-ab5c-8dca74cdcb8d | Dexmedetomidine; Dexmedetomidine in Dextrose | 5.1 Drug Administration
+
+Dexmedetomidine should be administered only by persons skilled in the management of patients in the intensive care or operating room setting. Due to the known pharmacological effects of dexmedetomidine, patients should be continuously monitored while receiving dexmedetomidine.

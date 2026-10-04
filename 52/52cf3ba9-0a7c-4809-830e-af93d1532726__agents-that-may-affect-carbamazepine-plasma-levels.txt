@@ -1,0 +1,3 @@
+DailyMed 52cf3ba9-0a7c-4809-830e-af93d1532726 | CARBAMAZEPINE | Agents That May Affect Carbamazepine Plasma Levels
+
+When carbamazepine is given with drugs that can increase or decrease carbamazepine levels, close monitoring of carbamazepine levels is indicated and dosage adjustment may be required.

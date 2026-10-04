@@ -1,0 +1,816 @@
+DailyMed 63df5af3-b8ac-4e76-9830-2dbb340af922 | Tivicay PD; Tivicay | 14.2 Adult Participants
+
+Treatment-Naïve Participants
+
+                        In SPRING-2, 822 participants were randomized and received at least 1 dose of either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily, both in combination with fixed-dose dual NRTI treatment (either abacavir sulfate and lamivudine [EPZICOM] or emtricitabine/tenofovir [TRUVADA]). There were 808 participants included in the efficacy and safety analyses. At baseline, the median age of participants was 36 years, 13% female, 15% non-white, 11% had hepatitis B and/or C virus co-infection, 2% were CDC Class C (AIDS), 28% had HIV-1 RNA greater than 100,000 copies per mL, 48% had CD4+ cell count less than 350 cells/mm3, and 39% received EPZICOM; these characteristics were similar between treatment groups.
+
+                        In SINGLE, 833 participants were randomized and received at least 1 dose of either TIVICAY 50 mg once daily with fixed-dose abacavir sulfate and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA). At baseline, the median age of participants was 35 years, 16% female, 32% non-white, 7% had hepatitis C co-infection (hepatitis B virus co-infection was excluded), 4% were CDC Class C (AIDS), 32% had HIV-1 RNA greater than 100,000 copies/mL, and 53% had CD4+ cell count less than 350 cells/mm3; these characteristics were similar between treatment groups.
+
+                        Outcomes for SPRING-2 (Week 96 analysis) and SINGLE (Week 144 open-label phase analysis which followed the Week 96 double-blind phase) are provided in Table 16. Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
+
+                           Table 16. Virologic Outcomes of Randomized Treatment in SPRING-2 at Week 96 and SINGLE at Week 144 (Snapshot Algorithm)
+
+                                 NRTI = Nucleoside reverse transcriptase inhibitor. |
+
+                                    a  Adjusted for pre-specified stratification factors.
+
+                                    b  The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 86% in the raltegravir group, with a treatment difference of 2.6% and 95% CI of (-1.9%, 7.2%).
+
+                                    c  The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%).
+
+                                    d  Includes participants who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window.
+
+                                    e  Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. |
+
+                                  |
+
+                                       SPRING-2
+
+                                       Week 96
+
+                                  |
+
+                                       SINGLE
+
+                                       Week 144
+
+                                  |
+
+                                       TIVICAY
+
+                                       50 mg Once Daily + 2 NRTIs
+
+                                       (n = 403)
+
+                                  |
+
+                                       Raltegravir
+
+                                       400 mg Twice Daily + 2 NRTIs
+
+                                       (n = 405)
+
+                                  |
+
+                                       TIVICAY
+
+                                       50 mg + EPZICOM Once Daily
+
+                                       (n = 414)
+
+                                  |
+
+                                       ATRIPLA
+
+                                       Once Daily
+
+                                       (n = 419)
+
+                                  |
+
+                                       HIV-1 RNA <50 copies/mL
+
+                                  |
+
+                                    82%
+
+                                  |
+
+                                    78%
+
+                                  |
+
+                                    71%
+
+                                  |
+
+                                    63%
+
+                                  |
+
+                                        Treatment differencea
+
+                                  |
+
+                                    4.9% (95% CI: -0.6%, 10.3%)b
+
+                                  |
+
+                                    8.3% (95% CI: 2.0%, 14.6%)c
+
+                                  |
+
+                                       Virologic nonresponse
+
+                                  |
+
+                                    5%
+
+                                  |
+
+                                    10%
+
+                                  |
+
+                                    10%
+
+                                  |
+
+                                    7%
+
+                                  |
+
+                                        Data in window not <50 copies/mL
+
+                                  |
+
+                                    1%
+
+                                  |
+
+                                    3%
+
+                                  |
+
+                                    4%
+
+                                  |
+
+                                    <1%
+
+                                  |
+
+                                        Discontinued for lack of efficacy
+
+                                  |
+
+                                    2%
+
+                                  |
+
+                                    3%
+
+                                  |
+
+                                    3%
+
+                                  |
+
+                                    3%
+
+                                  |
+
+                                        Discontinued for other reasons while not suppressed
+
+                                  |
+
+                                    <1%
+
+                                  |
+
+                                    3%
+
+                                  |
+
+                                    3%
+
+                                  |
+
+                                    4%
+
+                                  |
+
+                                        Change in ART regimen
+
+                                  |
+
+                                    <1%
+
+                                  |
+
+                                    <1%
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                       No virologic data
+
+                                  |
+
+                                    12%
+
+                                  |
+
+                                    12%
+
+                                  |
+
+                                    18%
+
+                                  |
+
+                                    30%
+
+                                  |
+
+                                    Reasons
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                        Discontinued study/study drug due to adverse event or deathd
+
+                                  |
+
+                                    2%
+
+                                  |
+
+                                    2%
+
+                                  |
+
+                                    4%
+
+                                  |
+
+                                    14%
+
+                                  |
+
+                                        Discontinued study/study drug for other reasonse
+
+                                  |
+
+                                    8%
+
+                                  |
+
+                                    9%
+
+                                  |
+
+                                    12%
+
+                                  |
+
+                                    13%
+
+                                  |
+
+                                        Missing data during window but on study
+
+                                  |
+
+                                    2%
+
+                                  |
+
+                                    <1%
+
+                                  |
+
+                                    2%
+
+                                  |
+
+                                    3%
+
+                                  |
+
+                                       Proportion (%) of Participants with HIV-1 RNA <50 copies/mL by Baseline Category
+
+                                  |
+
+                                       Plasma viral load (copies/mL)
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                        ≤100,000
+
+                                  |
+
+                                    84%
+
+                                  |
+
+                                    83%
+
+                                  |
+
+                                    73%
+
+                                  |
+
+                                    64%
+
+                                  |
+
+                                        >100,000
+
+                                  |
+
+                                    79%
+
+                                  |
+
+                                    63%
+
+                                  |
+
+                                    69%
+
+                                  |
+
+                                    61%
+
+                                  |
+
+                                       Gender
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                        Male
+
+                                  |
+
+                                    84%
+
+                                  |
+
+                                    79%
+
+                                  |
+
+                                    72%
+
+                                  |
+
+                                    66%
+
+                                  |
+
+                                        Female
+
+                                  |
+
+                                    70%
+
+                                  |
+
+                                    68%
+
+                                  |
+
+                                    69%
+
+                                  |
+
+                                    48%
+
+                                  |
+
+                                       Race
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                        White
+
+                                  |
+
+                                    83%
+
+                                  |
+
+                                    78%
+
+                                  |
+
+                                    72%
+
+                                  |
+
+                                    71%
+
+                                  |
+
+                                        African-American/African Heritage/Other
+
+                                  |
+
+                                    77%
+
+                                  |
+
+                                    75%
+
+                                  |
+
+                                    71%
+
+                                  |
+
+                                    47%
+
+                                  |
+
+                           SPRING-2: Virologic outcomes were also comparable across baseline characteristics including CD4+ cell count, age, and use of EPZICOM or TRUVADA as NRTI background regimen. The median change in CD4+ cell counts from baseline was 276 cells/mm3 in the group receiving TIVICAY and 264 cells/mm3 for the raltegravir group at 96 weeks.
+
+                        There was no treatment-emergent resistance to dolutegravir or to the NRTI background.
+
+                           SINGLE: Treatment differences were maintained across baseline characteristics including baseline viral load, CD4+ cell count, age, gender, and race.
+
+                        The adjusted mean changes in CD4+ cell counts from baseline were 378 cells/mm3 in the group receiving TIVICAY + EPZICOM and 332 cells/mm3 for the ATRIPLA group at 144 weeks. The adjusted difference between treatment arms and 95% CI was 46.9 cells/mm3 (15.6 cells/mm3, 78.2 cells/mm3) (adjusted for pre-specified stratification factors: baseline HIV-1 RNA, and baseline CD4+ cell count).
+
+                        There was no treatment-emergent resistance to dolutegravir, abacavir, or lamivudine.
+
+                           FLAMINGO: In FLAMINGO, 485 participants were randomized and received at least 1 dose of either TIVICAY 50 mg once daily (n = 243) or darunavir + ritonavir 800 mg/100 mg once daily (n = 242), both in combination with investigator-selected NRTI background regimen (either fixed-dose abacavir and lamivudine [EPZICOM] or fixed-dose emtricitabine/tenofovir disoproxil fumarate [TRUVADA]). There were 484 participants included in the efficacy and safety analyses. At baseline, the median age of participants was 34 years, 15% female, 28% non-white, 10% had hepatitis B and/or C virus co-infection, 3% were CDC Class C (AIDS), 25% had HIV‑1 RNA greater than 100,000 copies/mL, and 35% had CD4+ cell count less than 350 cells/mm3; these characteristics were similar between treatment groups. Overall response rates by Snapshot algorithm through Week 96 were 80% for TIVICAY and 68% for darunavir/ritonavir. The proportion of participants who were non-responders (HIV-1 RNA greater than or equal to 50 copies per mL) at Week 96 was 8% and 12% in the arms receiving TIVICAY and darunavir + ritonavir, respectively; no virologic data were available for 12% and 21% for participants treated with TIVICAY and darunavir + ritonavir, respectively. The adjusted overall response rate difference in proportion and 95% CI was 12.4% (4.7%, 20.2%). No treatment-emergent primary resistance substitutions were observed in either treatment group.
+
+                           Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Participants
+
+                        In the international, multicenter, double-blind trial (SAILING), 719 participants with HIV‑1 were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least 1 fully active agent. These participants were antiretroviral treatment-experienced adults. There were 715 participants included in the efficacy and safety analyses. At baseline, the median age was 43 years, 32% were female, 50% non-white, 16% had hepatitis B and/or C virus co‑infection, 46% were CDC Class C (AIDS), 20% had HIV‑1 RNA greater than 100,000 copies/mL, and 72% had CD4+ cell count less than 350 cells/mm3; these characteristics were similar between treatment groups. All participants had at least 2‑class antiretroviral treatment resistance, and 49% of participants had at least 3‑class antiretroviral treatment resistance at baseline. Week 48 outcomes for SAILING are shown in Table 17.
+
+                           Table 17. Virologic Outcomes of Randomized Treatment in SAILING at 48 Weeks (Snapshot Algorithm)
+
+                                    a  BR = Background regimen. Background regimen was restricted to less than or equal to 2 antiretroviral treatments with at least 1 fully active agent.
+
+                                    b  Adjusted for pre-specified stratification factors.
+
+                                    c  Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. |
+
+                                  |
+
+                                       TIVICAY
+
+                                       50 mg Once Daily + BRa
+
+                                       (n = 354)
+
+                                  |
+
+                                       Raltegravir
+
+                                       400 mg Twice Daily + BRa
+
+                                       (n = 361)
+
+                                  |
+
+                                       HIV-1 RNA <50 copies/mL
+
+                                  |
+
+                                    71%
+
+                                  |
+
+                                    64%
+
+                                  |
+
+                                        Adjustedb treatment difference
+
+                                  |
+
+                                    7.4% (95% CI: 0.7%, 14.2%)
+
+                                  |
+
+                                       Virologic nonresponse
+
+                                  |
+
+                                    20%
+
+                                  |
+
+                                    28%
+
+                                  |
+
+                                       No virologic data
+
+                                  |
+
+                                    9%
+
+                                  |
+
+                                    9%
+
+                                  |
+
+                                    Reasons
+
+                                  |
+                                  |
+                                  |
+
+                                        Discontinued study/study drug due to adverse event or death
+
+                                  |
+
+                                    3%
+
+                                  |
+
+                                    4%
+
+                                  |
+
+                                        Discontinued study/study drug for other reasonsc
+
+                                  |
+
+                                    5%
+
+                                  |
+
+                                    4%
+
+                                  |
+
+                                        Missing data during window but on study
+
+                                  |
+
+                                    2%
+
+                                  |
+
+                                    1%
+
+                                  |
+
+                                       Proportion (%) with HIV-1 RNA <50 copies/mL by Baseline Category
+
+                                  |
+
+                                       Plasma viral load (copies/mL)
+
+                                  |
+                                  |
+                                  |
+
+                                        ≤50,000 copies/mL
+
+                                  |
+
+                                    75%
+
+                                  |
+
+                                    71%
+
+                                  |
+
+                                        >50,000 copies/mL
+
+                                  |
+
+                                    62%
+
+                                  |
+
+                                    47%
+
+                                  |
+
+                                       Background regimen
+
+                                  |
+                                  |
+                                  |
+
+                                        No darunavir use
+
+                                  |
+
+                                    67%
+
+                                  |
+
+                                    60%
+
+                                  |
+
+                                        Darunavir use with primary PI substitutions
+
+                                  |
+
+                                    85%
+
+                                  |
+
+                                    67%
+
+                                  |
+
+                                        Darunavir use without primary PI substitutions
+
+                                  |
+
+                                    69%
+
+                                  |
+
+                                    70%
+
+                                  |
+
+                                       Gender
+
+                                  |
+                                  |
+                                  |
+
+                                        Male
+
+                                  |
+
+                                    70%
+
+                                  |
+
+                                    66%
+
+                                  |
+
+                                        Female
+
+                                  |
+
+                                    74%
+
+                                  |
+
+                                    60%
+
+                                  |
+
+                                       Race
+
+                                  |
+                                  |
+                                  |
+
+                                        White
+
+                                  |
+
+                                    75%
+
+                                  |
+
+                                    71%
+
+                                  |
+
+                                        African-American/African Heritage/Other
+
+                                  |
+
+                                    67%
+
+                                  |
+
+                                    57%
+
+                                  |
+
+                        Treatment differences were maintained across the baseline characteristics including CD4+ cell count and age.
+
+                        The mean changes in CD4+ cell counts from baseline were 162 cells/mm3 in the group receiving TIVICAY and 153 cells/mm3 in the raltegravir group.
+
+                           Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Participants
+
+                        VIKING-3 examined the effect of TIVICAY 50 mg twice daily over 7 days of functional monotherapy, followed by OBT with continued treatment of TIVICAY 50 mg twice daily.
+
+                        In the multicenter, open-label, single-arm VIKING‑3 trial, 183 adult participants with HIV‑1 received TIVICAY 50 mg twice daily with the current failing background regimen for 7 days, then received TIVICAY with OBT from Day 8. These participants were antiretroviral treatment-experienced, with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance. A total of 183 participants enrolled: 133 participants with INSTI resistance at screening and 50 participants with only historical evidence of resistance (and not at screening). At baseline, median age of participants was 48 years; 23% were female, 29% non-white, and 20% had hepatitis B and/or C virus co‑infection. Median baseline CD4+ cell count was 140 cells/mm3, median duration of prior antiretroviral treatment was 13 years, and 56% were CDC Class C. Participants showed multiple‑class antiretroviral treatment resistance at baseline: 79% had greater than or equal to 2 NRTI, 75% greater than or equal to 1 NNRTI, and 71% greater than or equal to 2 PI major substitutions; 62% had non‑R5 virus.
+
+                        Mean reduction from baseline in HIV-1 RNA at Day 8 (primary endpoint) was 1.4 log10 (95% CI: 1.3 log10, 1.5 log10). Response at Week 48 was affected by baseline INSTI substitutions [see Microbiology (12.4)].
+
+                        After the functional monotherapy phase, participants had the opportunity to re-optimize their background regimen when possible. Week 48 virologic outcomes for VIKING-3 are shown in Table 18.
+
+                           Table 18. Virologic Outcomes of Treatment of VIKING-3 at 48 Weeks (Snapshot Algorithm)
+
+                                 OBT = Optimized Background Therapy. |
+
+                                  |
+
+                                       TIVICAY 50 mg Twice Daily + OBT
+
+                                       (n = 183)
+
+                                  |
+
+                                       HIV-1 RNA <50 copies/mL
+
+                                  |
+
+                                    63%
+
+                                  |
+
+                                       Virologic nonresponse
+
+                                  |
+
+                                    32%
+
+                                  |
+
+                                       No virologic data
+
+                                    Reasons
+
+                                  |
+                                  |
+
+                                        Discontinued study/study drug due to adverse event or death
+
+                                  |
+
+                                    3%
+
+                                  |
+
+                                       Proportion (%) with HIV-1 RNA <50 copies/mL by Baseline Category
+
+                                  |
+
+                                       Gender
+
+                                  |
+                                  |
+
+                                        Male
+
+                                  |
+
+                                    63%
+
+                                  |
+
+                                        Female
+
+                                  |
+
+                                    64%
+
+                                  |
+
+                                       Race
+
+                                  |
+                                  |
+
+                                        White
+
+                                  |
+
+                                    63%
+
+                                  |
+
+                                        African-American/African Heritage/Other
+
+                                  |
+
+                                    64%
+
+                                  |
+
+                        Participants harboring virus with Q148 and with additional Q148-associated secondary substitutions also had a reduced response at Week 48 in a stepwise fashion [see Microbiology (12.4)].
+
+                        The median change in CD4+ cell count from baseline was 80 cells/mm3 at Week 48.
+
+                           Virologically Suppressed Participants
+
+                        SWORD‑1 and SWORD‑2 are identical 148-week, Phase III, randomized, multicenter, parallel-group, non-inferiority trials. A total of 1,024 adult participants with HIV‑1 who were on a stable suppressive antiretroviral regimen (containing 2 NRTIs plus either an INSTI, an NNRTI, or a PI) for at least 6 months (HIV‑1 RNA less than 50 copies/mL), with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials. Participants were randomized 1:1 to continue their current antiretroviral regimen (n°= 511) or be switched to TIVICAY 50 mg plus rilpivirine 25 mg administered once daily (n = 513). Participants originally assigned to continue their current antiretroviral regimen and who remained virologically suppressed at Week 48 switched to TIVICAY plus rilpivirine at Week 52 (n = 477).
+
+                        The primary efficacy endpoint for the SWORD trial was the proportion of participants with plasma HIV-1 RNA less than 50 copies/mL at Week 48. The proportion of participants with HIV-1 RNA less than 50 copies/mL at Week 48 was 95% for both treatment groups; treatment difference and 95% CI was -0.2% (-3.0%, 2.5%). The proportion of participants with HIV‑1 RNA greater than or equal to 50 copies/mL (virologic failure) at Week 48 was 0.6% and 1.2% for the dolutegravir plus rilpivirine treatment group and the current antiretroviral regimen treatment groups, respectively; treatment difference and 95% CI was -0.6% (-1.7%, 0.6%). At Week 148 in the pooled SWORD-1 and SWORD-2 trials, 84% of participants who received TIVICAY plus rilpivirine from study start had plasma HIV-1 RNA less than 50 copies/mL (Snapshot algorithm). In participants who initially remained on their current antiretroviral regimen and switched to TIVICAY plus rilpivirine at Week 52, 90% had plasma HIV-1 RNA less than 50 copies/mL at Week 148 (Snapshot algorithm), which was comparable to the response rate (89%) observed at Week 100 (similar exposure duration) in participants receiving TIVICAY plus rilpivirine from study start.
+
+                        Refer to the prescribing information for JULUCA (dolutegravir and rilpivirine) tablet for complete virologic outcome information.

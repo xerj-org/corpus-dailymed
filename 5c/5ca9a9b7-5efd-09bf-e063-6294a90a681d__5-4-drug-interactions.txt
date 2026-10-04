@@ -1,0 +1,15 @@
+DailyMed 5ca9a9b7-5efd-09bf-e063-6294a90a681d | COLESEVELAM HYDROCHLORIDE | 5.4 Drug Interactions
+
+Colesevelam hydrochloride reduces gastrointestinal absorption of some drugs. Administer drugs with a known interaction at least 4 hours prior to colesevelam hydrochloride
+
+  [see
+
+   Drug Interactions (7)]
+
+  .
+
+                        Due to the potential for decreased absorption of other drugs that have not been tested for interaction, especially those with a narrow therapeutic index, consider administering at least 4 hours prior to colesevelam hydrochloride
+
+  [see
+
+   Clinical Pharmacology (12.3)].

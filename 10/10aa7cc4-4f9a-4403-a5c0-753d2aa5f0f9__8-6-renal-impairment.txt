@@ -1,0 +1,91 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 8.6 Renal Impairment
+
+Initiation of dapagliflozin and metformin HCl is not recommended in patients with an eGFR below 45 mL/min/1.73 m
+
+  2and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m
+
+  2) or end-stage renal disease
+
+  [see
+
+   Dosage and Administration (2.4),
+
+   Contraindications (4) 
+
+  and
+
+    
+
+   Warnings and Precautions (5.1,
+
+   5.3)]
+
+  .
+
+                            
+
+                           Dapagliflozin
+
+                        Dapagliflozin 10 mg was evaluated in 4304 adult patients with chronic kidney disease (eGFR 25 to 75 mL/min/1.73 m
+
+  2) in the DAPA-CKD trial. Dapagliflozin 10 mg was also evaluated in 1926 adult patients with an eGFR of 30 to 60 mL/min/1.73 m
+
+  2in the DAPA-HF trial. The safety profile of dapagliflozin across eGFR subgroups was consistent with the known safety profile
+
+  [see
+
+   Adverse Reactions (6.1) 
+
+  and
+
+    
+
+   Clinical Studies (14.4 and
+
+   14.5)]
+
+  .
+
+                        Dapagliflozin 10 mg was evaluated in two glycemic control trials that included adult patients with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m
+
+  2, and an eGFR of 30 to less than 60 mL/min/1.73 m
+
+  2)
+
+  [see
+
+   Clinical Studies (14.1)]
+
+  . Patients with diabetes and renal impairment using dapagliflozin 10 mg are more likely to experience hypotension and may be at higher risk for acute kidney injury secondary to volume depletion. In the trial of adult patients with an eGFR 30 to less than 60 mL/min/1.73 m
+
+  2, 13 patients receiving dapagliflozin experienced bone fractures compared to none receiving placebo. Use of dapagliflozin 10 mg for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m
+
+  2
+                           [see
+
+   Dosage and Administration (2.4)]
+
+  .
+
+                            
+
+                           Metformin HCl
+
+                        Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment. Dapagliflozin and metformin HCl is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m
+
+  2
+                           [see
+
+   Dosage and Administration (2.4),
+
+   Contraindications (4),
+
+   Warnings and Precautions (5.1),
+
+  and
+
+    
+
+   Clinical Pharmacology (12.3)]
+
+  .

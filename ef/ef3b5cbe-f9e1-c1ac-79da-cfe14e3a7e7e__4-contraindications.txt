@@ -1,0 +1,9 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 4 CONTRAINDICATIONS
+
+PAXIL is contraindicated in patients:
+
+                     Taking, or within 14 days of stopping, MAOIs (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [see Warnings and Precautions (5.2) and Drug Interactions (7)].
+
+                     Who receive drugs that can prolong QTc interval and are also CYP450 2D6 substrates [see Drug Interactions (7) and Warnings and Precautions (5.3)]
+
+                     With known hypersensitivity to paroxetine or any of the inactive ingredients in PAXIL. Hypersensitivity  reactions have included anaphylaxis, angioedema, and Stevens- Johnson syndrome [see Adverse Reactions (6.1), (6.2)].

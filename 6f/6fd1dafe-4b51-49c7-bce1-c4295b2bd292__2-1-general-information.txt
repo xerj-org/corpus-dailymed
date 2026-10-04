@@ -1,0 +1,5 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 2.1 General Information
+
+Individualize dosing based on the severity of hypertension and the response of the patient during dosing. Monitor blood pressure and heart rate both during and after the infusion to avoid tachycardia or too rapid or excessive reduction in either systolic or diastolic blood pressure.
+
+                        Administer Nicardipine Hydrochloride by slow continuous infusion by a central line or through a large peripheral vein. Change the infusion site every 12 hours if administered via peripheral vein [see Intravenous Infusion Site (5.7)].

@@ -1,0 +1,3 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Patients Receiving Colesevelam
+
+When colesevelam is coadministered with glyburide, maximum plasma concentration and total exposure to glyburide is reduced. Therefore, glyburide tablets should be administered at least 4 hours prior to colesevelam.

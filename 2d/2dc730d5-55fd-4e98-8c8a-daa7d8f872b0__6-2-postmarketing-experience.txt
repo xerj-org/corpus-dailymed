@@ -1,0 +1,55 @@
+DailyMed 2dc730d5-55fd-4e98-8c8a-daa7d8f872b0 | Menveo | 6.2 Postmarketing Experience
+
+In addition to reports in clinical trials, the following adverse reactions have been identified during postapproval use of MENVEO. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the vaccine.
+
+                           Blood and Lymphatic System Disorders
+
+                        Local lymphadenopathy.
+
+                           Ear and Labyrinth Disorders
+
+                        Hearing impaired, ear pain, vertigo, vestibular disorder.
+
+                           Eye Disorders
+
+                        Eyelid ptosis.
+
+                           General Disorders and Administration Site Conditions
+
+                        Injection site pruritus; pain; erythema; inflammation; and swelling, including extensive swelling of the vaccinated limb; fatigue; malaise; pyrexia.
+
+                           Immune System Disorders
+
+                        Hypersensitivity reactions, including anaphylaxis.
+
+                           Infections and Infestations
+
+                        Vaccination site cellulitis.
+
+                           Injury, Poisoning, and Procedural Complications
+
+                        Fall, head injury.
+
+                           Investigation
+
+                        Alanine aminotransferase increased, body temperature increased.
+
+                           Musculoskeletal and Connective Tissue Disorders
+
+                        Arthralgia, bone pain.
+
+                           Nervous System Disorders
+
+                        Dizziness, syncope, tonic convulsion, headache, facial paresis, balance disorder.
+
+                           Respiratory, Thoracic, and Mediastinal Disorders
+
+                        Oropharyngeal pain.
+
+                           Skin and Subcutaneous Tissue Disorders
+
+                        Skin exfoliation.
+
+                           Postmarketing Observational Safety Study
+
+                        In a postmarketing observational safety study conducted in a U.S. health maintenance organization, data from electronic health records of 48,899 persons aged 11 through 21 years were used to evaluate pre-specified events of interest following vaccination with MENVEO. Using a self-controlled case series method, Bell’s palsy showed a statistically significant increased risk in the period 1 to 84 days post vaccination compared with the control period, with an overall adjusted relative incidence of 2.9 (95% CI: 1.1-7.5). Among the 8 reported cases of Bell’s palsy, 6 cases occurred in persons who received MENVEO concomitantly with one or more of the following vaccines: Tdap, HPV, and Influenza vaccine. All reported Bell’s palsy cases resolved.

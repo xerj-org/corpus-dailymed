@@ -1,0 +1,3 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 1.8 Limitations of Use
+
+Therapy may be initiated before bacteriological results are available when beta-lactamase-producing pathogens are suspected. When results show susceptibility to amoxicillin alone, amoxicillin and clavulanate potassium tablets should not be used.

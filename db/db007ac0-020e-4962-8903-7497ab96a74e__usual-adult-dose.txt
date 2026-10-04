@@ -1,0 +1,7 @@
+DailyMed db007ac0-020e-4962-8903-7497ab96a74e | Imipramine Hydrochloride | Usual Adult Dose
+
+Hospitalized Patients -Initially, 100 mg/day in divided doses gradually increased to 200 mg/day as required. If no response after two weeks, increase to 250 to 300 mg/day.
+
+                           Outpatients -Initially, 75 mg/day increased to 150 mg/day. Dosages over 200 mg/day are not recommended. Maintenance, 50 to 150 mg/day.
+
+                           Adolescent and Geriatric Patients -Initially, 30 to 40 mg/day; it is generally not necessary to exceed 100 mg/day.

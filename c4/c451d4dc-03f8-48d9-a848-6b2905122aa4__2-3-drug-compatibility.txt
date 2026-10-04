@@ -1,0 +1,25 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 2.3 Drug Compatibility
+
+May inject Sugammadex Injection into the intravenous line of a running infusion with the following intravenous solutions:
+
+                           0.9% sodium chloride
+
+                           5% dextrose
+
+                           0.45% sodium chloride and 2.5% dextrose
+
+                           5% dextrose in 0.9% sodium chloride
+
+                           isolyte P with 5% dextrose
+
+                           Ringer's lactate solution
+
+                           Ringer's solution
+
+                        Ensure the infusion line is adequately flushed (e.g., with 0.9% sodium chloride) between administration of Sugammadex Injection and other drugs.
+
+                        Do not mix Sugammadex Injection with other products except those listed above.
+
+                        Sugammadex Injection is physically incompatible with verapamil, ondansetron, and ranitidine.
+
+                        Visually inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever the solution and container permit.

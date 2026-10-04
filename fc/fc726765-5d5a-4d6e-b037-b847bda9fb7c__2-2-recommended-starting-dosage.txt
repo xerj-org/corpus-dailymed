@@ -1,0 +1,19 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 2.2 Recommended Starting Dosage
+
+The recommended starting dose of Kerendia is based on eGFR and is presented in Table 1.
+
+                           Table 1: Recommended Starting Dosage
+
+                                 eGFR (mL/min/1.73m2) |
+                                 Starting Dose |
+
+                                 ≥ 60  |
+                                 20 mg orally once daily |
+
+                                 ≥ 25 to < 60 |
+                                 10 mg orally once daily |
+
+                                 < 25  |
+                                 Initiation is not recommended  |
+
+                        For patients who are unable to swallow whole tablets, Kerendia may be crushed and mixed with water or soft foods such as applesauce immediately prior to use and administered orally [see Clinical Pharmacology (12.3)].

@@ -1,0 +1,144 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 12.3 Pharmacokinetics
+
+Two pharmacokinetic crossover trials were carried out with GAMUNEX-C in 44 subjects with Primary Humoral Immunodeficiency to assess intravenous vs subcutaneous administration. In the first study, a single sequence, open-label, crossover trial in adults and adolescents, the pharmacokinetics, safety, and tolerability of subcutaneously (SC) administered GAMUNEX-C in subjects with PI were evaluated. A total of 32 and 26 subjects received GAMUNEX-C as IV or SC for PK study, respectively, of whom 3 were adolescents.  Subjects received GAMUNEX-C 200-600 mg/kg IV every 3-4 weeks for at least 3 months, at which time they entered the IV phase of the study. Subjects were crossed over to weekly SC infusions. The weekly SC dose was determined by multiplying the total IV dose by 1.37 and dividing the resultant new total dose by 3 or 4 depending on the previous IV interval.
+
+                        In the second study, a single sequence, open-label, crossover trial, the pharmacokinetics, safety, and tolerability of SC administered GAMUNEX-C were evaluated in children and adolescents.  The design of the study was essentially the same as above. A total of 11 subjects  received GAMUNEX-C as IV and 10 received GAMUNEX-C as SC for PK analysis. Age groups were as follows: age 2 to 5 years, [N = 1 both phases]; 6 to 11 years, [N = 5 completing IV phase, N = 4 evaluated in SC phase]; 12-16 years: [N = 5 both phases].
+
+                        The pharmacokinetic parameters of GAMUNEX-C, measured as total IgG for intravenous administration are shown in Table 7.
+
+                           Table 7: PK Parameters Following IV Administration of GAMUNEX®-C by Age
+
+                                  Age Group  |
+                                  Statistics  |
+                                  t1/2
+
+ (hr)  |
+                                  AUC(0-t)
+
+ (hr*mg/mL)  |
+                                  AUC(0-tau)
+
+ (hr*mg/mL)  |
+                                  CL(0-t)
+
+ (mL/hr/kg)  |
+                                  Vss
+
+ (mL/kg)  |
+
+                                  2 – 5 years
+
+ N = 1  |
+                                  Mean  |
+                                  1038.5 |
+                                  7479.0  |
+                                  7499.0  |
+                                  0.05 |
+                                  82.0 |
+
+                                  SDSD - standard deviation; NA - not applicable.
+
+Source: studies 060001, T5004-401
+
+   |
+                                  NA
+                                  |
+                                  NA
+                                  |
+                                  NA
+                                  |
+                                  NA
+                                  |
+                                  NA
+                                  |
+
+                                  6 – 11 years
+
+ N = 5  |
+                                  Mean  |
+                                  758.5 |
+                                  5953.6  |
+                                  6052.6  |
+                                  0.09 |
+                                  94.8  |
+
+                                  SD
+                                  |
+                                  138.0 |
+                                 1573.8 |
+                                  1333.6  |
+                                  0.03 |
+                                 17.7  |
+
+                                  12 – 16 years
+
+ N = 8  |
+                                  Mean  |
+                                  717.9 |
+                                  8131.9  |
+                                  8009.5  |
+                                  0.07 |
+                                 73.3 |
+
+                                  SD
+                                  |
+                                  170.1 |
+                                  1173.4  |
+                                  1358.8  |
+                                  0.02  |
+                                  17.2 |
+
+                                  ≥ 17 years
+
+ N = 29  |
+                                  Mean  |
+                                  720.6 |
+                                  7564.9  |
+                                  7524.8  |
+                                  0.06 |
+                                  65.5  |
+
+                                  SD
+                                  |
+                                  130.9 |
+                                 1190.7  |
+                                  1183.1  |
+                                  0.02  |
+                                  18.7 |
+
+                        The mean trough concentrations (mean Ctrough) of total IgG following IV administration are presented in Table 8 for both studies.
+
+                           Table 8: Mean Trough Concentrations of Total IgG (mg/mL)
+
+                                      
+                                  |
+                                  Adult, AdolescentMeasured in plasma
+
+                                  |
+                                  Child, AdolescentMeasured in serum
+
+                                  |
+
+                                  IV
+
+ Mean Ctrough
+                                  |
+                                  IV
+
+                                      Mean Ctrough     |
+
+                                  n  |
+                                  32 |
+                                  11 |
+
+                                  Mean (mg/mL)  |
+                                  9.6 |
+                                  10.0 |
+
+                                  %CV  |
+                                  22.3 |
+                                  19 |
+
+                                  Range  |
+                                  6.7-14.0  |
+                                  7.8-13.2 |

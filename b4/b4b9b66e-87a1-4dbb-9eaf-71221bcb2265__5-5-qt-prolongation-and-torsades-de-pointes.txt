@@ -1,0 +1,19 @@
+DailyMed b4b9b66e-87a1-4dbb-9eaf-71221bcb2265 | mirtazapine | 5.5 QT Prolongation and Torsades de Pointes
+
+The effect of mirtazapine tablets on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis. This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval. However, the degree of QT prolongation observed with both 45 mg and 75 mg (1.67 times the maximum recommended daily dose) doses of mirtazapine was not at a level generally considered to be clinically meaningful. During postmarketing use of mirtazapine, cases of QT prolongation, Torsades de Pointes, ventricular tachycardia, and sudden death, have been reported
+
+  [see Adverse Reactions (
+
+   6.1,
+
+   6.2)]
+
+  . The majority of reports occurred in association with overdose or in patients with other risk factors for QT prolongation, including concomitant use of QTc-prolonging medicines
+
+  [see Drug Interactions (
+
+   7) and Overdosage (
+
+   10)]
+
+  . Exercise caution when mirtazapine tablets are prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other drugs thought to prolong the QTc interval.

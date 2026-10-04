@@ -1,0 +1,7 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 5.12 Hematologic Toxicity
+
+Anemia has occurred in NSAID-treated patients. This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis. If a patient treated with Piroxicam Capsules has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
+
+                        NSAIDs, including Piroxicam Capsules, may increase the risk of bleeding events. Co-morbid conditions such as coagulation disorders, concomitant use of warfarin, other anticoagulants, antiplatelet drugs (e.g., aspirin), SSRIs, and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk. Monitor these patients for signs of bleeding
+
+  [see Drug Interactions (7)].

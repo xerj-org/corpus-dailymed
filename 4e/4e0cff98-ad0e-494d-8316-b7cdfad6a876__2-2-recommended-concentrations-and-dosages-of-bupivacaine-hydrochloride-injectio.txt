@@ -1,0 +1,460 @@
+DailyMed 4e0cff98-ad0e-494d-8316-b7cdfad6a876 | Bupivacaine Hydrochloride | 2.2 Recommended Concentrations and Dosages of Bupivacaine Hydrochloride Injection
+
+The dosage of bupivacaine hydrochloride injection administered varies with the anesthetic procedure, the area to be anesthetized, the vascularity of the tissues, the number of neuronal segments to be blocked, the depth of anesthesia and degree of muscle relaxation required, the duration of anesthesia desired, individual tolerance, and the physical condition of the patient. Administer the smallest dosage and concentration required to produce the desired result.
+
+                        The types of block and recommended bupivacaine hydrochloride injection concentrations are shown in Table 1.
+
+                           Table 1. Types of Block and Recommended Bupivacaine Hydrochloride Injection Concentrations
+
+                                       Type of Block
+
+                                  |
+
+                                       Bupivacaine Hydrochloride Injection
+
+                                  |
+
+                                       0.25%
+
+                                       (2.5 mg/mL)
+
+                                  |
+
+                                       0.5%
+
+                                       (5 mg/mL)
+
+                                  |
+
+                                       0.75%
+
+                                       (7.5 mg/mL)*
+
+                                  |
+
+                                    Local infiltration
+
+                                  |
+
+                                    ✓
+
+                                  |
+                                   |
+                                   |
+
+                                    Peripheral nerve block
+
+                                  |
+
+                                    ✓
+
+                                  |
+
+                                    ✓
+
+                                  |
+                                   |
+
+                                    Retrobulbar block
+
+                                  |
+                                   |
+                                   |
+
+                                    ✓
+
+                                  |
+
+                                    Sympathetic block
+
+                                  |
+
+                                    ✓
+
+                                  |
+                                   |
+                                   |
+
+                                    Caudal block†
+
+                                  |
+
+                                    ✓
+
+                                  |
+
+                                    ✓
+
+                                  |
+                                   |
+
+                                    Lumbar epidural block†
+
+                                  |
+
+                                    ✓
+
+                                  |
+
+                                    ✓
+
+                                  |
+
+                                    ✓
+
+                                    (not for obstetrical anesthesia)
+
+                                  |
+
+                                    Epidural test dose
+
+                                  |
+                                   |
+                                   |
+                                   |
+
+                                    Dental block
+
+                                  |
+                                   |
+                                   |
+
+                                     
+
+                                  |
+
+                        * Bupivacaine hydrochloride injection 0.75% (7.5 mg/mL) is not recommended for nonobstetrical surgical procedures in pregnant patients.
+
+  † Avoid use of multiple-dose vials of bupivacaine hydrochloride injection for caudal or epidural anesthesia [
+
+  see Warnings and Precautions (
+
+   5.4)
+
+  ].
+
+                        ✓= indicated use [
+
+  see Warnings and Precautions (
+
+   5.1)
+
+  ].
+
+                        At recommended dosages, bupivacaine hydrochloride injection produces complete sensory block, but the effect on motor function differs among the three concentrations. Table 2 provides information on the expected effect on motor function for the three concentrations.
+
+                           Table 2. Bupivacaine Hydrochloride Injection Concentration vs. Motor Function
+
+                                       Bupivacaine hydrochloride injection Concentration
+
+                                  |
+
+                                       Motor Function
+
+                                  |
+
+                                    0.25%
+
+                                    (2.5 mg/mL)
+
+                                  |
+
+                                    When used for caudal, epidural, or peripheral nerve block, produces incomplete motor block. Should be used for operations in which muscle relaxation is not important, or when another means of providing muscle relaxation is used concurrently. Onset of action may be slower than with the 0.5% (5 mg/mL) or 0.75% (7.5 mg/mL) solutions.
+
+                                  |
+
+                                    0.5%
+
+                                    (5 mg/mL)
+
+                                  |
+
+                                    Provides motor blockade for caudal, epidural, or nerve block, but muscle relaxation may be inadequate for operations in which complete muscle relaxation is essential.
+
+                                  |
+
+                                    0.75%
+
+                                    (7.5 mg/mL)
+
+                                  |
+
+                                    Produces complete motor block. Most useful for epidural block in abdominal operations requiring complete muscle relaxation, and for retrobulbar anesthesia. Not for obstetrical anesthesia.
+
+                                  |
+
+                        The duration of anesthesia with bupivacaine hydrochloride injection is such that for most indications, a single dose is sufficient.
+
+  The maximum dosage limit within the recommended dosage range must be individualized in each case after evaluating the size and physical status of the patient, as well as the anticipated rate of systemic absorption from a particular injection site.
+
+                        The dosages in Table 3 are recommended as a guide for use in the average adult. These doses may be repeated once every three hours. Do not exceed a total daily dosage of 400 mg in 24 hours. The duration of anesthetic effect may be prolonged by the addition of epinephrine.
+
+                           Table 3. Recommended Concentrations and Doses of Bupivacaine Hydrochloride Injection in Adults
+
+                                       Type of Block
+
+                                  |
+
+                                       Concentration of
+                                       b
+                                       upivacaine hydrochloride
+                                       injection
+
+                                  |
+
+                                       Each Dose
+
+                                  |
+
+                                       Motor Block*
+
+                                  |
+
+                                       mL
+
+                                  |
+
+                                       mg of
+                                       b
+                                       upivacaine hydrochloride
+                                       injection
+
+                                  |
+
+                                    Local infiltration
+
+                                  |
+
+                                    0.25%
+
+                                    (2.5 mg/mL)
+
+      †
+
+                                  |
+
+                                    Up to 70 (without epinephrine)
+
+                                  |
+
+                                    Up to 175 (without epinephrine)
+
+                                  |
+
+                                    —
+
+                                  |
+
+                                    Peripheral nerve block
+
+                                  |
+
+                                    0.5%
+
+                                    (5 mg/mL)
+
+      †
+
+                                  |
+
+                                    5–35
+
+                                    (without epinephrine)
+
+                                  |
+
+                                    25–175
+
+                                    (without epinephrine)
+
+                                  |
+
+                                    moderate to complete
+
+                                  |
+
+                                    0.25%
+
+                                    (2.5 mg/mL)
+
+      †
+
+                                  |
+
+                                    5–70
+
+                                    (without epinephrine)
+
+                                  |
+
+                                    12.5–175
+
+                                    (without epinephrine)
+
+                                  |
+
+                                    moderate to complete
+
+                                  |
+
+                                    Retrobulbar block
+
+      [see Dosage and Administration (2.6)]
+
+                                  |
+
+                                    0.75%
+
+                                    (7.5 mg/mL)
+
+                                  |
+
+                                    2–4
+
+                                  |
+
+                                    15–30
+
+                                  |
+
+                                    complete
+
+                                  |
+
+                                    Sympathetic block
+
+                                  |
+
+                                    0.25%
+
+                                    (2.5 mg/mL)
+
+                                  |
+
+                                    20–50
+
+                                  |
+
+                                    50–125
+
+                                  |
+
+                                    —
+
+                                  |
+
+                                    Caudal block
+
+                                  |
+
+                                    0.5%
+
+                                    (5 mg/mL)
+
+      †
+
+                                  |
+
+                                    15–30
+
+                                  |
+
+                                    75–150
+
+                                  |
+
+                                    moderate to complete
+
+                                  |
+
+                                    0.25%
+
+                                    (2.5 mg/mL)
+
+      †
+
+                                  |
+
+                                    15–30
+
+                                  |
+
+                                    37.5–75
+
+                                  |
+
+                                    moderate
+
+                                  |
+
+                                    Lumbar epidural block
+
+      [see Dosage and Administration (2.3)]
+
+                                  |
+
+                                    0.75%
+
+                                    (7.5 mg/mL)
+
+      ‡
+
+                                  |
+
+                                    10–20
+
+                                  |
+
+                                    75–150
+
+                                  |
+
+                                    complete
+
+                                  |
+
+                                    0.5%
+
+                                    (5 mg/mL)
+
+      †
+
+                                  |
+
+                                    10–20
+
+                                  |
+
+                                    50–100
+
+                                  |
+
+                                    moderate to complete
+
+                                  |
+
+                                    0.25%
+
+                                    (2.5 mg/mL)
+
+      †
+
+                                  |
+
+                                    10–20
+
+                                  |
+
+                                    25–50
+
+                                  |
+
+                                    partial to moderate
+
+                                  |
+
+                        * With continuous (intermittent) techniques, repeat doses increase the degree of motor block. The first repeat dose of 0.5% (5 mg/mL) may produce complete motor block. Intercostalnerve block with 0.25% (2.5 mg/mL) also may produce complete motor block for intra-thoracic and upper intra-abdominal surgery.
+
+  † Solutions with or without epinephrine (i.e., applies to bupivacaine hydrochloride injection). 
+
+  ‡ For single-dose use; not for intermittent epidural technique. Not for obstetrical anesthesia.

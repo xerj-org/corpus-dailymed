@@ -1,0 +1,5 @@
+DailyMed 698a46a6-29b5-4763-9442-ec9ad5eea86b | Nitroglycerin | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+                        Adverse reactions occurring at a frequency greater than 2 % and greater than placebo included: headache, dizziness, and paresthesia.

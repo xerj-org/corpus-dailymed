@@ -1,0 +1,9 @@
+DailyMed 483bd97f-c4d0-4e23-aaa8-6334f4471e0c | PAXIL CR | WARNING: SUICIDAL THOUGHTS AND BEHAVIORS
+
+Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric and young adult patients in short-term studies. Closely monitor all antidepressant-treated patients for clinical worsening, and for emergence of suicidal thoughts and behaviors
+                     [See Warnings and Precautions
+                     (
+                     5.1
+                     )]
+                     PAXIL CR is not approved for use in pediatric patients
+                     [see Use in Specific Populations (8.4)].

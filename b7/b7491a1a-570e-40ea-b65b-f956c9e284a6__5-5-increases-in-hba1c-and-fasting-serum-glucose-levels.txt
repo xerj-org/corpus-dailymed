@@ -1,0 +1,9 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 5.5 Increases in HbA1c and Fasting Serum Glucose Levels
+
+Increases in HbA1c and fasting serum glucose levels have been reported with statins, including rosuvastatin. Based on clinical trial data with rosuvastatin, in some instances these increases may exceed the threshold for the diagnosis of diabetes mellitus
+
+  [see
+
+   Adverse Reactions (6.1)].
+
+  Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.

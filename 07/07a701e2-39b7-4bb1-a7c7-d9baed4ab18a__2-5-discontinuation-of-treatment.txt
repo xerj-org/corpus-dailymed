@@ -1,0 +1,15 @@
+DailyMed 07a701e2-39b7-4bb1-a7c7-d9baed4ab18a | Guanfacine Extended-Release | 2.5 Discontinuation of Treatment
+
+Following discontinuation of guanfacine extended-release tablets, patients may experience increases in blood pressure and heart rate [see
+                            Warnings and Precautions (
+
+                              5.4
+
+                           )
+                            and
+                            Adverse Reactions (
+
+                              6
+
+                           )
+                           ]. Patients/caregivers should be instructed not to discontinue guanfacine extended-release tablets without consulting their health care provider. Monitor blood pressure and pulse when reducing the dose or discontinuing the drug. Taper the daily dose in decrements of no more than 1 mg every 3 to 7 days to minimize the risk of rebound hypertension.

@@ -1,0 +1,7 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Hepatobiliary
+
+Dose-related increases in serum transaminase have been reported. In most cases they did not progress with continued therapy and returned to normal at the end of therapy. There have been rare reports of cholestatic or mixed cholestatic-hepatocellular effects. These were usually reversible. Because of the predominance of cholestatic features, severe parenchymal injury is considered highly unlikely. However, as in the occasional liver injury with other H2-receptor antagonists, in exceedingly rare circumstances fatal outcomes have been reported.
+
+                        There has been reported a single case of biopsy-proven periportal hepatic fibrosis in a patient receiving cimetidine.
+
+                        Rare cases of pancreatitis, which cleared on withdrawal of the drug, have been reported.

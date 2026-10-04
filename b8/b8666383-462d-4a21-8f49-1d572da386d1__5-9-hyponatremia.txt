@@ -1,0 +1,11 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 5.9 Hyponatremia
+
+Hyponatremia has been reported during treatment with SNRIs and SSRIs, including fluoxetine. In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH). Cases with serum sodium lower than 110 mmol/L have been reported and appeared to be reversible when fluoxetine was discontinued. Elderly patients may be at greater risk of developing hyponatremia with SNRIs and SSRIs. Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk
+
+  [see
+
+   Use in Specific Populations (8.5)]
+
+  . Discontinuation of fluoxetine should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+
+  Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls. More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death.

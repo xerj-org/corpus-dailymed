@@ -1,0 +1,9 @@
+DailyMed 7a6967b3-5563-4bed-9eee-d400f800e799 | Clindamycin | Distribution
+
+Biologically inactive clindamycin phosphate is converted to active clindamycin. By the end of short-term intravenous infusion, peak serum concentrations of active clindamycin are reached.
+
+                        After intramuscular injection of clindamycin phosphate, peak concentrations of active clindamycin are reached within 3 hours in adults and 1 hour in pediatric patients.
+
+                        Serum concentrations of clindamycin can be maintained above the in vitro minimum inhibitory concentrations for most indicated organisms by administration of clindamycin phosphate every 8 to 12 hours in adults and every 6 to 8 hours in pediatric patients, or by continuous intravenous infusion. An equilibrium state is reached by the third dose.
+
+                        No significant concentrations of clindamycin are attained in the cerebrospinal fluid even in the presence of inflamed meninges.

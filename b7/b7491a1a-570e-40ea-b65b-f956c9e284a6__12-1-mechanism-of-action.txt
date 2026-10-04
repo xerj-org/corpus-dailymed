@@ -1,0 +1,3 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 12.1 Mechanism of Action
+
+Rosuvastatin is an inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl coenzyme A to mevalonate, a precursor of cholesterol.

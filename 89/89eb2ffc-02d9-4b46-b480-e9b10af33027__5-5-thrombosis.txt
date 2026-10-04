@@ -1,0 +1,13 @@
+DailyMed 89eb2ffc-02d9-4b46-b480-e9b10af33027 | TOFACITINIB CITRATE | 5.5 Thrombosis
+
+Thrombosis may occur with tofacitinib tablets. Thrombosis, including pulmonary embolism (PE), deep venous thrombosis (DVT), and arterial thrombosis, have occurred in patients treated with tofacitinib and other Janus kinase (JAK) inhibitors used to treat inflammatory conditions. Many of these events were serious and some resulted in death [see Warnings and Precautions (5.2)].
+
+                        Patients with RA 50 years of age and older with at least one cardiovascular risk factor treated with tofacitinib tablets 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of these thrombotic events. The incidence rate of DVT per 100 patient-years was 0.28 for tofacitinib tablets 10 mg twice a day, 0.22 for tofacitinib tablets 5 mg twice a day, and 0.16 for TNF blockers. The incidence rate of PE per 100 patient-years was 0.49 for tofacitinib tablets 10 mg twice a day, 0.18 for tofacitinib tablets 5 mg twice a day, and 0.05 for TNF blockers [see Clinical Studies (14.6)].
+
+                        Tofacitinib tablets 10 mg twice daily dosages are not recommended for the treatment of RA, PsA, AS, or pcJIA [see Dosage and Administration (2.3, 2.4)].
+
+                        In a long-term extension study in patients with UC, five cases of pulmonary embolism were reported in patients taking tofacitinib tablets 10 mg twice daily, including one death in a patient with advanced cancer.
+
+                        Promptly evaluate patients with symptoms of thrombosis and discontinue tofacitinib tablets in patients with symptoms of thrombosis.
+
+                        Avoid tofacitinib tablets in patients that may be at increased risk of thrombosis. For the treatment of UC, use tofacitinib tablets at the lowest effective dose and for the shortest duration needed to achieve/maintain therapeutic response [see Dosage and Administration (2.5)].

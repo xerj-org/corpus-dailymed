@@ -1,0 +1,11 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 8.4 Pediatric Use
+
+The safety and effectiveness of imatinib mesylate have been demonstrated in pediatric patients with newly diagnosed Ph+ chronic phase CML and Ph+ ALL
+
+  [see Clinical Studies (
+
+   14.2,
+
+   14.4) ]
+
+  . There are no data in children under 1 year of age.

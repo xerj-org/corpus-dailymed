@@ -1,0 +1,97 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Primary Generalized Tonic-Clonic Seizures
+
+Although the pattern of adverse reactions in this study seems somewhat different from that seen in patients with partial seizures, this is likely due to the much smaller number of patients in this study compared to partial seizure studies. The adverse reaction pattern for patients with primary generalized tonic-clonic (PGTC) seizures is expected to be essentially the same as for patients with partial seizures.
+
+                              In the controlled clinical study that included patients with PGTC seizures, the most common adverse reaction in patients receiving levetiracetam oral formulation in combination with other AEDs, for events with rates greater than placebo was nasopharyngitis.
+
+                              Table 6 lists adverse reactions that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with levetiracetam and were numerically more common than in patients treated with placebo. In this study, either levetiracetam or placebo was added to concurrent AED therapy.
+
+                                 Table 6: Adverse ReactionsAdverse reactions occurred in at least 5% of levetiracetam-treated patients and occurred more frequently than placebo-treated patients
+
+ in a Placebo-Controlled, Adjunctive Study in Patients with PGTC Seizures
+
+                                                Adverse Reaction
+
+                                        |
+
+                                             Levetiracetam
+
+                                             (N=79)
+
+                                             %
+
+                                        |
+
+                                             Placebo
+
+                                             (N=84)
+
+                                             %
+
+                                        |
+
+                                             Nasopharyngitis
+
+                                        |
+
+                                          14
+
+                                        |
+
+                                          5
+
+                                        |
+
+                                             Fatigue
+
+                                        |
+
+                                          10
+
+                                        |
+
+                                          8
+
+                                        |
+
+                                             Diarrhea
+
+                                        |
+
+                                          8
+
+                                        |
+
+                                          7
+
+                                        |
+
+                                             Irritability
+
+                                        |
+
+                                          6
+
+                                        |
+
+                                          2
+
+                                        |
+
+                                             Mood swings
+
+                                        |
+
+                                          5
+
+                                        |
+
+                                          1
+
+                                        |
+
+                              In the placebo-controlled study, 5% of patients receiving levetiracetam and 8% receiving placebo either discontinued or had a dose reduction during the treatment period as a result of an adverse reaction.
+
+                              This study was too small to adequately characterize the adverse reactions that could be expected to result in discontinuation of treatment in this population. It is expected that the adverse reactions that would lead to discontinuation in this population would be similar to those resulting in discontinuation in other epilepsy trials (see Tables 3 and 5).
+
+                              In addition, the following adverse reactions were seen in other controlled adult studies of levetiracetam: balance disorder, disturbance in attention, eczema, memory impairment, myalgia, and blurred vision.

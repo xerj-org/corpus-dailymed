@@ -1,0 +1,3 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 12.1 Mechanism of Action
+
+The mechanism of action of haloperidol decanoate for the treatment of schizophrenia in adults is unclear. However, its effect in schizophrenia could be mediated through its activity as an antagonist at central dopamine type 2 receptors. Haloperidol also binds to alpha-1 adrenergic receptors, but with lower affinity and displays minimal binding to muscarinic cholinergic and histaminergic (H1) receptors.

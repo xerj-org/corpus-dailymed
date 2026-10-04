@@ -1,0 +1,7 @@
+DailyMed dd2b0604-f887-40d9-9109-dafcc9987e4e | telmisartan | 13.1 Carcinogenesis,Mutagenesis,Impairment of Fertility
+
+There was no evidence of carcinogenicity when telmisartan was administered in the diet to mice and rats for up to 2 years. The highest doses administered to mice (1000 mg/kg/day) and rats (100 mg/kg/day) are, on a mg/m     2basis, about 59 and 13 times, respectively, the maximum recommended human dose (MRHD) of telmisartan. These same doses have been shown to provide average systemic exposures to telmisartan >100 times and >25 times, respectively, the systemic exposure in humans receiving the MRHD (80 mg/day).
+
+                        Genotoxicity assays did not reveal any telmisartan-related effects at either the gene or chromosome level. These assays included bacterial mutagenicity tests with     Salmonellaand     E.coli (Ames), a gene mutation test with Chinese hamster V79 cells, a cytogenetic test with human lymphocytes, and a mouse micronucleus test.
+
+                        No drug-related effects on the reproductive performance of male and female rats were noted at 100 mg/kg/day (the highest dose administered), about 13 times, on a mg/m     2basis, the MRHD of telmisartan. This dose in the rat resulted in an average systemic exposure (telmisartan AUC as determined on day 6 of pregnancy) at least 50 times the average systemic exposure in humans at the MRHD (80 mg/day).

@@ -1,0 +1,93 @@
+DailyMed 1ac7a13e-3f30-e140-e063-6394a90aa09d | Valacyclovir | 2.4 Patients with Renal Impairment
+
+Dosage recommendations for adult patients with reduced renal function are provided in Table 1
+
+  [see
+
+   Use in Specific Populations (8.5,
+
+   8.6),
+
+   Clinical Pharmacology (12.3)].
+
+  Data are not available for the use of valacyclovir tablets in pediatric patients with a creatinine clearance less than 50 mL/min/1.73 m
+
+  2.
+
+                           Table 1. Valacyclovir Tablets Dosage Recommendations for Adults with Renal Impairment
+
+                                 Indications |
+                                 Normal Dosage Regimen
+
+  (Creatinine Clearance ≥50 mL/min)
+     |
+                                 Creatinine Clearance (mL/min) |
+
+                                 30-49 |
+                                 10-29 |
+                                 <10 |
+
+                                    Cold sores (Herpes labialis )
+
+  Do not exceed 1 day of treatment.
+
+                                  |
+                                 Two 2-gram doses taken 12 hours apart |
+                                 Two 1-gram doses taken 12 hours apart |
+                                 Two 500-mg doses taken 12 hours apart |
+                                 500-mg single dose |
+
+                                    Genital herpes :
+
+  Initial episode
+
+                                  |
+                                 1 gram every 12 hours |
+                                 no reduction |
+                                 1 gram every 24 hours |
+                                 500 mg every 24 hours |
+
+                                    Genital herpes :
+
+  Recurrent episode
+
+                                  |
+                                 500 mg every 12 hours |
+                                 no reduction |
+                                 500 mg every 24 hours |
+                                 500 mg every 24 hours |
+
+                                    Genital herpes:
+
+  Suppressive therapy
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Immunocompetent patients |
+                                 1 gram every 24 hours |
+                                 no reduction |
+                                 500 mg every 24 hours |
+                                 500 mg every 24 hours |
+
+                                 Alternate dose for immunocompetent patients with less than or equal to 9 recurrences/year |
+                                 500 mg every 24 hours |
+                                 no reduction |
+                                 500 mg every 48 hours |
+                                 500 mg every 48 hours |
+
+                                 HIV-1-infected patients |
+                                 500 mg every 12 hours |
+                                 no reduction |
+                                 500 mg every 24 hours |
+                                 500 mg every 24 hours |
+
+                                    Herpes zoster
+                                  |
+                                 1 gram every 8 hours |
+                                 1 gram every 12 hours |
+                                 1 gram every 24 hours |
+                                 500 mg every 24 hours |

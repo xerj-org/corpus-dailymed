@@ -1,0 +1,7 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 7.1 Summary
+
+The information reported in sections
+
+  7.2–
+
+  7.4is based on binding affinity between Sugammadex Injection and other drugs, preclinical experiments, clinical studies and simulations of a pharmacokinetic-pharmacodynamic (PK-PD) model. Based on these considerations, no clinically significant pharmacodynamic interactions with other drugs are expected, with the exception of toremifene and hormonal contraceptives.

@@ -1,0 +1,25 @@
+DailyMed 71f56227-d87a-4bc0-a879-c1993c6ccba6 | Dexmethylphenidate HydrochlorideExtended-Release | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including dexmethylphenidate hydrochloride extended-release capsules, during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visiting https://womensmentalhealth.org/adhd-medications/.
+
+                           Risk Summary
+
+                        Dexmethylphenidate is the d-threo enantiomer of racemic methylphenidate. Published studies and postmarketing reports on methylphenidate use during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There may be risks to the fetus associated with the use of CNS stimulants during pregnancy (see Clinical Considerations). Embryo-fetal development studies in rats showed delayed fetal skeletal ossification at doses up to 5 times the maximum recommended human dose (MRHD) of 20 mg/day given to adults based on plasma levels. A decrease in pup weight in males was observed in a pre- and post-natal development study with oral administration of methylphenidate to rats throughout pregnancy and lactation at doses 5 times the MRHD of 20 mg/day given to adults based on plasma levels (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Fetal/Neonatal Adverse Reactions
+
+                        CNS stimulants, such as dexmethylphenidate hydrochloride extended-release capsules, can cause vasoconstriction and thereby decrease placental perfusion. No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.
+
+                           Data
+
+                           Animal Data
+
+                        In embryo-fetal development studies conducted in rats and rabbits, dexmethylphenidate was administered orally at doses of up to 20 and 100 mg/kg/day, respectively, during the period of organogenesis. No evidence of malformations was found in either the rat or rabbit study; however, delayed fetal skeletal ossification was observed at the highest dose level in rats. When dexmethylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 20 mg/kg/day, post-weaning body weight gain was decreased in male offspring at the highest dose, but no other effects on postnatal development were observed. At the highest doses tested, plasma levels [area under the curves (AUCs)] of dexmethylphenidate in pregnant rats and rabbits were approximately 5 and 1 times, respectively, those in adults dosed with 20 mg/day. Plasma levels in adults were comparatively similar to plasma levels in adolescents.
+
+                        Racemic methylphenidate has been shown to cause malformations (increased incidence of fetal spina bifida) in rabbits when given in doses of 200 mg/kg/day throughout organogenesis.

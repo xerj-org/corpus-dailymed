@@ -1,0 +1,3 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 5.3 Hemolytic Anemia
+
+Sulfonylureas can cause hemolytic anemia in patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency. Because glimepiride is a sulfonylurea, use caution in patients with G6PD deficiency and consider the use of a non-sulfonylurea alternative. There are also postmarketing reports of hemolytic anemia in patients receiving glimepiride who did not have known G6PD deficiency [see Adverse Reactions (6.2)].

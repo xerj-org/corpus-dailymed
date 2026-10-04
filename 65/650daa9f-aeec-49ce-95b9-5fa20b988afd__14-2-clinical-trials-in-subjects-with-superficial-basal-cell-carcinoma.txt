@@ -1,0 +1,107 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | 14.2 Clinical Trials in Subjects with Superficial Basal Cell Carcinoma
+
+The efficacy and safety of AMELUZ, in combination with PDT using the BF-RhodoLED lamp, for the treatment of superficial basal cell carcinoma (sBCC) were evaluated in a multicenter, randomized, double-blind, placebo-controlled trial (Trial 4 [NCT03573401]).
+
+                        In this trial, 187 subjects with at least 1 histologically confirmed sBCC lesion on the face/forehead, bald scalp, extremities and/or neck/trunk were treated. Most of the enrolled subjects had one sBCC lesion. Approximately 48% of the lesions were located on the neck and/or trunk and 45% of the lesions were located on the extremities. For each subject, one lesion was defined as Main Target Lesion (preselected for surgical excision and histological analysis 12 weeks after start of the last PDT cycle). Additional lesions in the same illumination area were treated but not excised. Subjects ranged from 33 to 89 years of age (mean 63 years), and 95% had Fitzpatrick skin type I, II, or III. No subject had Fitzpatrick skin type V or VI. All subjects were White, with 2% of Hispanic or Latino ethnicity. Approximately 57 % of subjects were male.
+
+                        All subjects received at least one PDT cycle consisting of two PDTs sessions 7 to 14 days apart. Each session was performed with up to one tube (2 grams) of AMELUZ or vehicle and the BF-RhodoLED lamp. Sessions were comprised of lesion preparation (degreasing with alcohol, and careful debridement to remove scales or crusts), application of AMELUZ or vehicle with occlusion for 3 hours, and removal of the residual gel. Subsequently, the treatment area was illuminated with the BF-RhodoLED lamp at approximately 37 J/cm2.
+
+                        Subjects clinically diagnosed as partial responders or non-responders 12 weeks after the start of the first PDT cycle received a second PDT cycle (52%, 97/184; 62/145 (42.8%) in the AMELUZ group and 35/42 (83.3%) in the vehicle group).
+
+                        The primary efficacy endpoint was the composite clinical and histological complete response of the Main Target Lesion 12 weeks after the start of the last PDT cycle. Clinical response was based on clinical assessment only. Histological response was determined by biopsy.
+
+                        Efficacy results for the primary and key secondary endpoints are presented in Table 4.
+
+                           Table 4: Efficacy Results at 12 Weeks After the Start of the Last PDT Cycle in Subjects with sBCC in Trial 4
+
+                                  |
+
+                                    AMELUZ
+
+(n=145)
+
+                                  |
+
+                                    Vehicle
+
+(n=42)
+
+                                  |
+
+                                       Primary Endpoint
+
+                                  |
+                                  |
+                                  |
+
+                                    Main Target Lesion composite clinical and histological response, n (%)
+
+                                  |
+
+                                    95 (66%)
+
+                                  |
+
+                                    2 (5%)
+
+                                  |
+
+                                       Key Secondary Endpoints:
+
+                                  |
+                                  |
+                                  |
+
+                                    Main Target Lesion histological response
+
+                                  |
+
+                                    110 (76%)
+
+                                  |
+
+                                    8 (19%)
+
+                                  |
+
+                                    Main Target Lesion clinical response
+
+                                  |
+
+                                    121 (83%)
+
+                                  |
+
+                                    9 (21%)
+
+                                  |
+
+                                    Subject complete clinical response1
+
+                                  |
+
+                                    119 (82%)
+
+                                  |
+
+                                    9 (21%)
+
+                                  |
+
+                                    Subject complete response2
+
+                                  |
+
+                                    93 (64%)
+
+                                  |
+
+                                    2 (5%)
+
+                                  |
+
+                           1 Subject complete clinical response defined as all (main and additional) target lesions assessed as clinically clear 12 weeks after the start of last PDT cycle.
+
+                           2 Subject complete response defined as main target lesion clinically and histologically clear as well as all additional target lesions assessed as clinically clear 12 weeks after the start of last PDT cycle.
+
+                        At 12 weeks after start of the last PDT cycle, 26/119 (22%) subjects in the AMELUZ group were clinically cleared at target lesions but had histologically confirmed residual sBCC.

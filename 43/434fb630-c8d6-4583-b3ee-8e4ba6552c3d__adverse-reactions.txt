@@ -1,0 +1,57 @@
+DailyMed 434fb630-c8d6-4583-b3ee-8e4ba6552c3d | CLAFORAN | ADVERSE REACTIONS
+
+Clinical Trials Experience
+
+CLAFORAN is generally well tolerated. The most common adverse reactions have been local reactions following IM or IV injection. Other adverse reactions have been encountered infrequently.
+
+                     The most frequent adverse reactions (greater than 1%) are:
+
+Local (4.3%) - Injection site inflammation with IV administration. Pain, induration, and tenderness after IM injection.
+
+                  Hypersensitivity (2.4%) - Rash, pruritus, fever, eosinophilia.
+
+                  Gastrointestinal (1.4%) - Colitis, diarrhea, nausea, and vomiting.
+
+                  Symptoms of pseudomembranous colitis can appear during or after antibiotic treatment.
+
+                  Nausea and vomiting have been reported rarely.
+
+                     Less frequent adverse reactions (less than 1%) are:
+
+Hematologic System - Neutropenia, leukopenia, have been reported. Some individuals have developed positive direct Coombs Tests during treatment with CLAFORAN and other cephalosporin antibiotics.
+
+                  Genitourinary System - Moniliasis, vaginitis.
+
+                  Central Nervous System - Headache.
+
+                  Liver - Transient elevations in AST, ALT, serum LDH, and serum alkaline phosphatase levels have been reported.
+
+                  Kidney - As with some other cephalosporins, transient elevations of BUN have been occasionally observed with CLAFORAN.
+
+                     Post-Marketing Experience
+
+The following adverse reactions have been identified during post-approval use of CLAFORAN. Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                  Cardiovascular System - Potentially life-threatening arrhythmias following rapid (less than 60 seconds) bolus administration via central venous catheter have been observed.
+
+                  Central Nervous System - Administration of high doses of beta-lactam antibiotics, including cefotaxime, particularly in patients with renal insufficiency may result in encephalopathy (e.g. impairment of consciousness, abnormal movements and convulsions). Dizziness has also been reported.
+
+                  Cutaneous - As with other cephalosporins, isolated cases of toxic epidermal necrolysis, Stevens-Johnson syndrome, and erythema multiforme have been reported. Acute generalized exanthematous pustulosis (AGEP) has also been reported.
+
+                  General disorders and administration site conditions - Inflammatory reactions at the injection site, including phlebitis/thrombophlebitis.
+
+                  Hematologic System - Hemolytic anemia, agranulocytosis, thrombocytopenia, pancytopenia, bone marrow failure.
+
+                  Hypersensitivity - Anaphylaxis (e.g., angioedema, bronchospasm, malaise possibly culminating in shock), urticaria.
+
+                  Kidney - Interstitial nephritis, transient elevations of creatinine, acute renal failure.
+
+                  Liver - Hepatitis, jaundice, cholestasis, elevations of gamma GT and bilirubin.
+
+                     Cephalosporin Class Labeling
+
+In addition to the adverse reactions listed above which have been observed in patients treated with cefotaxime sodium, the following adverse reactions and altered laboratory tests have been reported for cephalosporin class antibiotics: allergic reactions, hepatic dysfunction including cholestasis, aplastic anemia, hemorrhage, and false-positive test for urinary glucose.
+
+                  Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced. See DOSAGE AND ADMINISTRATION and OVERDOSAGE. If seizures associated with drug therapy occur, the drug should be discontinued.
+
+                  Anticonvulsant therapy can be given if clinically indicated.

@@ -1,0 +1,3 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 5.2 Concurrent Gastric Malignancy
+
+In adults, symptomatic response to therapy with famotidine for oral suspension does not preclude the presence of gastric malignancy. Consider evaluation for gastric malignancy in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with famotidine for oral suspension.

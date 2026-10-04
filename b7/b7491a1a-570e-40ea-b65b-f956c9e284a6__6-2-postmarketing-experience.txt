@@ -1,0 +1,19 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of rosuvastatin. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Blood Disorders: thrombocytopenia
+
+                           Hepatobiliary Disorders: hepatitis, jaundice, fatal and non-fatal hepatic failure
+
+                           Musculoskeletal Disorders: arthralgia, rare reports of immune-mediated necrotizing myopathy associated with statin use
+
+                           Nervous System Disorders: peripheral neuropathy, rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, and confusion) associated with the use of all statins. The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks). There have been rare reports of new-onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
+
+                           Psychiatric Disorders: depression, sleep disorders (including insomnia and nightmares)
+
+                           Reproductive System and Breast Disorders: gynecomastia
+
+                           Respiratory Disorders: interstitial lung disease
+
+                           Skin and Subcutaneous Tissue Disorders: drug reaction with eosinophilia and systemic symptoms (DRESS), lichenoid drug eruption

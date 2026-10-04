@@ -1,0 +1,5 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 1.12 Uncomplicated Urinary Tract Infections
+
+Levofloxacin is indicated for the treatment of uncomplicated urinary tract infections (mild to moderate) due to Escherichia coli, Klebsiella pneumoniae, or Staphylococcus saprophyticus.
+
+                        Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients uncomplicated urinary tract infection is self-limiting, reserve levofloxacin for treatment of uncomplicated urinary tract infections in patients who have no alternative treatment options.

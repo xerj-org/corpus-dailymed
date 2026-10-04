@@ -1,0 +1,3 @@
+DailyMed 6006df06-0448-462d-b81e-7add50a6d71b | GuanfacineExtended-Release | 5.3 Cardiac Conduction Abnormalities
+
+The sympatholytic action of guanfacine extended-release tablets may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs. Titrate guanfacine extended-release tablets slowly and monitor vital signs frequently in patients with cardiac conduction abnormalities or patients concomitantly treated with other sympatholytic drugs.

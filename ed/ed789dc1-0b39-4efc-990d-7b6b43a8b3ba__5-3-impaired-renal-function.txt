@@ -1,0 +1,3 @@
+DailyMed ed789dc1-0b39-4efc-990d-7b6b43a8b3ba | Irbesartan | 5.3 Impaired Renal Function
+
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe heart failure, or volume depletion) may be at particular risk of developing acute renal failure or death on irbesartan tablets. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on irbesartan tablets [see Drug Interactions (7.3)].

@@ -1,0 +1,415 @@
+DailyMed 0ef9de1a-b786-4b6c-a250-3f5ac532b16a | METFORMIN HYDROCHLORIDE | 14 CLINICAL STUDIES
+
+In a multicenter, randomized, double-blind, active-controlled, dose-ranging, parallel group study conducted in patients type 2 diabetes mellitus, metformin hydrochloride extended-release tablets 1,500 mg once daily, metformin hydrochloride extended-release tablets 1,500 per day in divided doses (500 mg in the morning and 1,000 mg in the evening), and metformin hydrochloride extended-release tablets 2,000 mg once daily were compared to immediate-release metformin HCl tablets 1,500 mg per day in divided doses (500 mg in the morning and 1,000 mg in the evening). This study included patients (n=338) who were newly diagnosed with diabetes, patients treated only with diet and exercise, patients treated with a single antidiabetic medication (sulfonylureas, alpha-glucosidase inhibitors, thiazolidinediones, or meglitinides), and patients (n=368) receiving metformin HCl tablets up to 1,500 mg/day plus a sulfonylurea at a dose equal to or less than one-half the maximum dose. Patients who were enrolled on monotherapy or combination antidiabetic therapy underwent a 6-week washout. Patients randomized to metformin hydrochloride extended-release tablets began titration from 1,000 mg/day up to their assigned treatment dose over 3 weeks. Patients randomized to immediate-release metformin initiated 500 mg twice daily for 1 week followed by 500 mg with breakfast and 1,000 mg with dinner for the second week. The 3-week treatment period was followed by an additional 21-week period at the randomized dose. The results are presented in Table 5.
+
+                         
+
+                        Table 5: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 Comparing Metformin Hydrochloride Extended-Release Tablets versus Metformin HCl Tablets* in Patients with Type 2 Diabetes Mellitus
+
+                            |
+
+                                 Metformin hydrochloride extended-release tablets
+
+                            |
+
+                                 Metformin HCl Tablets*
+
+                                 1,500 mg in
+
+                                 Divided Doses
+
+                                 (n=174)
+
+                            |
+
+                                 1,500 mg Once Daily
+
+                                 (n=178)
+
+                            |
+
+                                 1,500 mg in Divided Doses
+
+                                 (n=182)
+
+                            |
+
+                                 2,000 mg Once Daily
+
+                                 (n=172)
+
+                            |
+
+                                 HbA1c (%), N
+
+                            |
+
+                              169
+
+                            |
+
+                              175
+
+                            |
+
+                              159
+
+                            |
+
+                              170
+
+                            |
+
+                              Baseline
+
+                            |
+
+                              8.2
+
+                            |
+
+                              8.5
+
+                            |
+
+                              8.3
+
+                            |
+
+                              8.7
+
+                            |
+
+                              Mean Change at Final Visit
+
+                            |
+
+                              -0.7
+
+                            |
+
+                              -0.7
+
+                            |
+
+                              -1.1
+
+                            |
+
+                              -0.7
+
+                            |
+
+                              Mean Difference from Metformin HCl Tablets* (98.4% CI)
+
+                            |
+
+                              0 (-0.3, 0.3)
+
+                            |
+
+                              0 (-0.3, 0.3)
+
+                            |
+
+                              -0.4 (-0.7, -0.1)
+
+                            |
+
+                              N/A
+
+                            |
+
+                                 Fasting Plasma Glucose (mg/dL), N
+
+                            |
+
+                              175
+
+                            |
+
+                              179
+
+                            |
+
+                              170
+
+                            |
+
+                              172
+
+                            |
+
+                              Baseline
+
+                            |
+
+                              190
+
+                            |
+
+                              192.3
+
+                            |
+
+                              184
+
+                            |
+
+                              197
+
+                            |
+
+                              Mean Change at Final Visit
+
+                            |
+
+                              -39
+
+                            |
+
+                              -32
+
+                            |
+
+                              -42
+
+                            |
+
+                              -32
+
+                            |
+
+                              Mean Difference from Metformin HCl Tablets* (95% CI)
+
+                            |
+
+                              -6 (-15, 2)
+
+                            |
+
+                              0 (-8, 9)
+
+                            |
+
+                              -10 (-19, -1)
+
+                            |
+
+                              N/A
+
+                            |
+
+                         
+
+                        * Immediate-release metformin HCl tablets
+
+                  Mean baseline body weight was 88.2 kg, 90.5 kg, 87.7 kg and 88.7 kg in the metformin hydrochloride extended-release tablets 1,500 mg once daily, metformin hydrochloride extended-release tablets 1,500 mg in divided doses, metformin hydrochloride extended-release tablets 2,000 mg once daily and metformin HCl tablets 1,500 mg in divided doses arms, respectively. Mean change in body weight from baseline to week 24 was -0.9 kg, -0.7 kg, -1.1 kg, and -0.9 kg in the metformin hydrochloride extended-release tablets 1,500 mg once daily, metformin hydrochloride extended-release tablets 1,500 mg in divided doses, metformin hydrochloride extended-release tablets 2,000 mg once daily and metformin HCl tablets 1,500 mg in divided doses arms, respectively.
+
+                  A double-blind, randomized, placebo-controlled (glyburide add-on) multicenter study enrolled patients with type 2 diabetes mellitus who were newly diagnosed or treated with diet and exercise (n=144), or who were receiving monotherapy with metformin, sulfonylureas, alpha-glucosidase inhibitors, thiazolidinediones, or meglitinides, or treated with combination therapy consisting of metformin HCl/glyburide at doses up to 1,000 mg metformin + 10 mg glyburide per day (or equivalent doses of glipizide or glimepiride up to half the maximum therapeutic dose) (n=431). All patients were stabilized on glyburide for a 6-week run-in period, and then randomized to 1 of 4 treatments: placebo + glyburide (glyburide alone); metformin hydrochloride extended-release tablets 1,500 mg once a day + glyburide, metformin hydrochloride extended-release tablets 2,000 mg once a day + glyburide, or metformin hydrochloride extended-release tablets 1,000 mg twice a day + glyburide. A 3-week metformin hydrochloride extended-release tablets titration period was followed by a 21-week maintenance treatment period. Use of insulin and oral hypoglycemic agents other than the study drugs were prohibited. The results are presented in Table 6.
+
+                         
+
+                        Table 6: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 for the Metformin Hydrochloride Extended-Release Tablets + Glyburide Groups and Placebo+ Glyburide Treatment Group in Patients with Type 2 Diabetes Mellitus
+
+                            |
+
+                                 Metformin Hydrochloride Extended-Release Tablets + Glyburide*
+
+                            |
+
+                                 Placebo +
+
+                                 Glyburide*
+
+                                 (n=144)
+
+                            |
+
+                                 1,500 mg Once Daily
+
+                                 (n=144)
+
+                            |
+
+                                 1,000 mg Twice Daily
+
+                                 (n=141)
+
+                            |
+
+                                 2,000 mg Once Daily
+
+                                 (n=146)
+
+                            |
+
+                                 HbA1c (%), N
+
+                            |
+
+                              136
+
+                            |
+
+                              136
+
+                            |
+
+                              144
+
+                            |
+
+                              141
+
+                            |
+
+                              Baseline
+
+                            |
+
+                              7.9
+
+                            |
+
+                              7.8
+
+                            |
+
+                              7.7
+
+                            |
+
+                              8.1
+
+                            |
+
+                              Mean Change at Final Visit
+
+                            |
+
+                              -0.7
+
+                            |
+
+                              -0.8
+
+                            |
+
+                              -0.7
+
+                            |
+
+                              -0.1
+
+                            |
+
+                              Mean Difference from Glyburide Alone (95% CI)
+
+                            |
+
+                              -0.8a (-1, -0.6)
+
+                            |
+
+                              -0.9a (-1.1, -0.7)
+
+                            |
+
+                              -0.8a (-1, -0.6)
+
+                            |
+
+                              N/A
+
+                            |
+
+                                 Fasting Plasma Glucose (mg/dL), N
+
+                            |
+
+                              143
+
+                            |
+
+                              141
+
+                            |
+
+                              145
+
+                            |
+
+                              144
+
+                            |
+
+                              Baseline
+
+                            |
+
+                              163
+
+                            |
+
+                              163
+
+                            |
+
+                              159
+
+                            |
+
+                              164
+
+                            |
+
+                              Mean Change at Final Visit
+
+                            |
+
+                              -14
+
+                            |
+
+                              -16
+
+                            |
+
+                              -9
+
+                            |
+
+                              16
+
+                            |
+
+                              Mean Difference from Glyburide Alone (95% CI)
+
+                            |
+
+                              -29.2a (-39, -20)
+
+                            |
+
+                              -31.2a (-41, -22)
+
+                            |
+
+                              -24.9a (-35, -15)
+
+                            |
+
+                              N/A
+
+                            |
+
+                         
+
+                        * Glyburide was administered as 10 mg at breakfast and 5 mg at dinner.
+
+                         
+
+                        a p-value for pairwise comparison <0.001
+
+                  Mean baseline body weight was 89.4 kg, 103.7 kg, 102.9 kg and 95.6 kg in the metformin hydrochloride extended-release tablets 1,500 mg once daily, metformin hydrochloride extended-release tablets 1,500 mg in divided doses, metformin hydrochloride extended-release tablets 2,000 mg once daily and metformin HCl tablets 1,500 mg in divided doses arms, respectively. Mean change in body weight from baseline to week 24 was 0.3 kg, 0.1 kg, 0 kg, and 0.7 kg in the metformin hydrochloride extended-release tablets 1,500 mg once daily, metformin hydrochloride extended-release tablets 1,500 mg in divided doses, metformin hydrochloride extended-release tablets 2,000 mg once daily and metformin HCl tablets 1,500 mg in divided doses arms, respectively.

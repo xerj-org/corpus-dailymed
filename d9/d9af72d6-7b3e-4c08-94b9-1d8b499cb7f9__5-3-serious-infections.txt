@@ -1,0 +1,25 @@
+DailyMed d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9 | MYHIBBIN | 5.3 Serious Infections
+
+Patients receiving immunosuppressants, including MYHIBBIN, are at increased risk of developing bacterial, fungal, protozoal and new or reactivated viral infections, including opportunistic infections. The risk increases with the total immunosuppressive load. These infections may lead to serious outcomes, including hospitalizations and death   [see     Adverse Reactions (6.1,     6.2)].
+
+                        Serious viral infections reported include:
+
+                           Polyomavirus-associated nephropathy (PVAN), especially due to BK virus infection
+
+                           JC virus-associated progressive multifocal leukoencephalopathy (PML), and
+
+                           Cytomegalovirus (CMV) infections: CMV seronegative transplant patients who receive an organ from a CMV seropositive donor are at highest risk of CMV viremia and CMV disease.
+
+                           Viral reactivation in patients infected with Hepatitis B and C
+
+                           COVID-19
+
+                        Consider dose reduction or discontinuation of MYHIBBIN in patients who develop new infections or reactivate viral infections, weighing the risk that reduced immunosuppression represents to the functioning allograft.
+
+                        PVAN, especially due to BK virus infection, is associated with serious outcomes, including deteriorating renal function and renal graft loss   [see     Adverse Reactions (6.2)].   Patient monitoring may help detect patients at risk for PVAN.
+
+                        PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies, and ataxia   [see     Adverse Reactions (6.2)]. In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms.
+
+                        The risk of CMV viremia and CMV disease is highest among transplant recipients seronegative for CMV at time of transplant who receive a graft from a CMV seropositive donor. Therapeutic approaches to limiting CMV disease exist and should be routinely provided. Patient monitoring may help detect patients at risk for CMV disease.
+
+                        Viral reactivation has been reported in patients infected with HBV or HCV. Monitoring infected patients for clinical and laboratory signs of active HBV or HCV infection is recommended.

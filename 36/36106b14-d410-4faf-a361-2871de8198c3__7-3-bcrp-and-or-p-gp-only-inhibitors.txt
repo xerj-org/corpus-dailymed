@@ -1,0 +1,24 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 7 .3 BCRP and / or P-gp Only Inhibitors
+
+Ubrogepant is a substrate of BCRP and P-gp efflux transporters. Use of BCRP and/or P-gp only inhibitors (e.g., quinidine, carvedilol, eltrombopag, curcumin) may increase the exposure of ubrogepant 
+
+  [
+                           s
+                           ee
+                           Clinical Pharmacology
+
+                           (
+
+                              12.3
+
+                           )
+                           ]. Clinical drug interaction studies with inhibitors of these transporters were not conducted. Dose adjustment is recommended with BCRP and/or P-gp only inhibitors 
+
+  [see
+                           Dosage and Administration
+                           (
+
+                              2.2
+
+                           )
+                           ].

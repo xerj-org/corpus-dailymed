@@ -1,0 +1,5 @@
+DailyMed 5bc172e4-e8a2-441a-be52-279a7f890196 | Inluriyo | 5.1 Embryo-Fetal Toxicity
+
+Based on findings in animals and its mechanism of action, INLURIYO can cause fetal harm when administered to a pregnant woman. In an animal reproduction study, oral administration of imlunestrant to pregnant rats during the period of organogenesis led to embryo-fetal mortality and structural abnormalities at maternal exposures that were below the human exposure at the recommended dose based on AUC.
+
+                        Advise pregnant women and females of reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with INLURIYO and for 1 week after the last dose. Advise male patients with female partners of reproductive potential to use effective contraception during treatment with INLURIYO and for 1 week after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].

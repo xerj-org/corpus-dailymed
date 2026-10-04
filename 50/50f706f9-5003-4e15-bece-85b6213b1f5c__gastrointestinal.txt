@@ -1,0 +1,5 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Gastrointestinal
+
+Heartburn, epigastric distress, anorexia, nausea, vomiting, jaundice, flatulence, cramps, and diarrhea have been noted in some patients. Although
+  Clostridium difficile has been shown
+  in vitro to be sensitive to rifampin, pseudomembranous colitis has been reported with the use of rifampin (and other broad spectrum antibiotics). Therefore, it is important to consider this diagnosis in patients who develop diarrhea in association with antibiotic use. Tooth discoloration (which may be permanent) may occur.

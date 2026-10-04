@@ -1,0 +1,5 @@
+DailyMed f6da5155-9c26-46bb-bc0f-ece4ea21405f | telmisartan | 4 CONTRAINDICATIONS
+
+Telmisartan is contraindicated in patients with known hypersensitivity (e.g., anaphylaxis or angioedema) to telmisartan or any other component of this product     [see       Adverse Reactions (6.2)].
+
+                  Do not co-administer aliskiren with telmisartan in patients with diabetes.     [see       Drug interactions(7)].

@@ -1,0 +1,9 @@
+DailyMed 63df5af3-b8ac-4e76-9830-2dbb340af922 | Tivicay PD; Tivicay | 7.2 Effect of Other Agents on the Pharmacokinetics of Dolutegravir
+
+Dolutegravir is metabolized by UGT1A1 with some contribution from CYP3A. Dolutegravir is also a substrate of UGT1A3, UGT1A9, BCRP, and P-gp in vitro. Drugs that induce those enzymes and transporters may decrease dolutegravir plasma concentration and reduce the therapeutic effect of dolutegravir.
+
+                        Coadministration of dolutegravir and other drugs that inhibit these enzymes may increase dolutegravir plasma concentration.
+
+                        Etravirine significantly reduced plasma concentrations of dolutegravir, but the effect of etravirine was mitigated by coadministration of lopinavir/ritonavir or darunavir/ritonavir and is expected to be mitigated by atazanavir/ritonavir (Table 8) [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
+
+                        In vitro, dolutegravir was not a substrate of OATP1B1 or OATP1B3.

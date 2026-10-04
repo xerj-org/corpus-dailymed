@@ -1,0 +1,5 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 2.1 Allergic Rhinitis
+
+Adults and Adolescents (12 Years of Age and Older):  The recommended dose of QNASL Nasal Aerosol is 320 mcg per day administered as 2 actuations in each nostril (QNASL 80 mcg Nasal Aerosol) once daily (maximum total daily dose of 4 actuations per day).
+
+                           Children (4 to 11 Years of Age):  The recommended dose of QNASL Nasal Aerosol is 80 mcg per day administered as 1 actuation in each nostril (QNASL 40 mcg Nasal Aerosol) once daily (maximum total daily dose of 2 actuations per day).

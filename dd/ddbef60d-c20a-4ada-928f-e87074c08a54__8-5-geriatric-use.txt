@@ -1,0 +1,5 @@
+DailyMed ddbef60d-c20a-4ada-928f-e87074c08a54 | NOREPINEPHRINE BITARTRATE IN SODIUM CHLORIDE | 8.5 Geriatric Use
+
+Clinical studies of Norepinephrine Bitartrate in Sodium Chloride Injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+                        Avoid administration of Norepinephrine Bitartrate in Sodium Chloride Injection into the veins in the leg in elderly patients [see Warnings and Precautions (5.1)].

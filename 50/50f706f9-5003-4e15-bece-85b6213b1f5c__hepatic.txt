@@ -1,0 +1,6 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Hepatic
+
+Hepatotoxicity including transient abnormalities in liver function tests (e.g., elevations in serum bilirubin, alkaline phosphatase, serum transaminases, gamma-glutamyl transferase), hepatitis, a shock-like syndrome with hepatic involvement and abnormal liver function tests, and cholestasis have been reported. (see
+
+                              WARNINGS
+                           ).

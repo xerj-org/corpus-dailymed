@@ -1,0 +1,7 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 8.5 Geriatric Use
+
+The steady-state pharmacokinetics of nicardipine are similar in elderly hypertensive patients (greater than 65 years) and young healthy adults.
+
+                        Clinical studies of nicardipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+
+                        Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and concomitant disease of other drug therapy.

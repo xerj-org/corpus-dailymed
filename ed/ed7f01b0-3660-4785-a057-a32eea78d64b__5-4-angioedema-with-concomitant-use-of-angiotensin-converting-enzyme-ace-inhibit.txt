@@ -1,0 +1,3 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 5.4 Angioedema With Concomitant Use of Angiotensin-Converting Enzyme (ACE) Inhibitors
+
+Patients taking concomitant ACE inhibitors with everolimus tablets for oral suspension may be at increased risk for angioedema (e.g., swelling of the airways or tongue, with or without respiratory impairment). In a pooled analysis of randomized double-blind oncology clinical trials, the incidence of angioedema in patients taking AFINITOR with an ACE inhibitor was 6.8% compared to 1.3% in the control arm with an ACE inhibitor. Permanently discontinue everolimus tablets for oral suspension for angioedema.

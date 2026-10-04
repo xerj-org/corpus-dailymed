@@ -1,0 +1,9 @@
+DailyMed cf32b795-bf42-4861-b273-06d27de3f21d | Gemfibrozil | 5. Pregnancy
+
+Gemfibrozil has been shown to produce adverse effects in rats and rabbits at doses between 0.5 and 3 times the human dose (based on surface area). There are no adequate and well-controlled studies in pregnant women. Gemfibrozil should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+  Administration of gemfibrozil to female rats at 2 times the human dose (based on surface area) before and throughout gestation caused a dose-related decrease in conception rate, an increase in stillborns, and a slight reduction in pup weight during lactation. There were also dose-related increased skeletal variations. Anophthalmia occurred, but rarely.
+
+  Administration of 0.6 and 2 times the human dose (based on surface area) of gemfibrozil to female rats from gestation day 15 through weaning caused dose-related decreases in birth weight and suppressions of pup growth during lactation.
+
+  Administration of 1 and 3 times the human dose (based on surface area) of gemfibrozil to female rabbits during organogenesis caused a dose-related decrease in litter size and, at the high dose, an increased incidence of parietal bone variations.

@@ -1,0 +1,25 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 5.1 Myopathy and Rhabdomyolysis
+
+Rosuvastatin may cause myopathy [muscle pain, tenderness, or weakness associated with elevated creatine kinase (CK)] and rhabdomyolysis. Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred as a result of rhabdomyolysis with statins, including rosuvastatin.
+
+                           Risk Factors for Myopathy
+
+Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher rosuvastatin dosage. Asian patients on rosuvastatin may be at higher risk for myopathy
+  [see
+   Drug Interactions (7.1) and
+   Use in Specific Populations (8.8)]
+  . The myopathy risk is greater in patients taking rosuvastatin 40 mg daily compared with lower rosuvastatin dosages.
+
+                           Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
+
+The concomitant use of rosuvastatin with cyclosporine or gemfibrozil is not recommended. rosuvastatin dosage modifications are recommended for patients taking certain antiviral medications, darolutamide, and regorafenib
+  [see
+   Dosage and Administration (2.6)]
+  . Niacin, fibrates, and colchicine may also increase the risk of myopathy and rhabdomyolysis
+  [see
+   Drug Interactions (7.1)]
+  .
+
+                        Discontinue rosuvastatin if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected. Muscle symptoms and CK elevations may resolve if rosuvastatin is discontinued. Temporarily discontinue rosuvastatin in patients experiencing an acute or serious condition at high risk of developing renal failure secondary to rhabdomyolysis (e.g., sepsis; shock; severe hypovolemia; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy).
+
+                        Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the rosuvastatin dosage. Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.

@@ -1,0 +1,33 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 1.2 Indications in Pediatric Patients
+
+Azithromycin tablets are indicated in pediatric patients for the treatment of mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below:
+
+  [see
+
+   Use in Specific Populations (8.4)and
+
+   Clinical Studies (14.2)].
+
+                           Acute otitis media caused by
+
+   Haemophilus influenzae,
+
+   Moraxella catarrhalis,or
+
+   Streptococcus pneumoniae,in pediatric patients 6 months of age and older
+
+   .
+
+                           Community-acquired pneumonia due to
+
+   Chlamydophila pneumoniae,
+
+   Haemophilus influenzae,
+
+   Mycoplasma pneumoniae, or
+
+   Streptococcus pneumoniaein pediatric patients 6 months of age and older appropriate for oral therapy.
+
+                           Pharyngitis/tonsillitis caused by
+
+   Streptococcus pyogenesas an alternative to first-line therapy in individuals who cannot use first-line therapy in pediatric patients 2 years of age and older.

@@ -1,0 +1,7 @@
+DailyMed e4ea0c09-cdd1-4708-962c-6ba28b989df3 | Metronidazole | Drug Resistance
+
+A potential for development of resistance exists against metronidazole.
+
+                              Resistance may be due to multiple mechanisms that include decreased uptake of the drug, altered reduction efficiency, overexpression of the efflux pumps, inactivation of the drug, and/or increased DNA damage repair.
+
+                              Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.

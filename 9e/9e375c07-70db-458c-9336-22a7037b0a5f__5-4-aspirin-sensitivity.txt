@@ -1,0 +1,3 @@
+DailyMed 9e375c07-70db-458c-9336-22a7037b0a5f | montelukast sodium | 5.4 Aspirin Sensitivity
+
+Patients with known aspirin sensitivity should continue avoidance of aspirin or non-steroidal anti-inflammatory agents while taking montelukast sodium. Although montelukast sodium is effective in improving airway function in asthmatics with documented aspirin sensitivity, it has not been shown to truncate bronchoconstrictor response to aspirin and other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients [see Clinical Studies (14.1)].

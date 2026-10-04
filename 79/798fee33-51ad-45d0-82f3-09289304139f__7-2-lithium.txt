@@ -1,0 +1,3 @@
+DailyMed 798fee33-51ad-45d0-82f3-09289304139f | OLMESARTAN MEDOXOMIL AND HYDROCHLOROTHIAZIDE | 7.2 Lithium
+
+Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists or hydrochlorothiazide. Monitor serum lithium levels during concomitant use.

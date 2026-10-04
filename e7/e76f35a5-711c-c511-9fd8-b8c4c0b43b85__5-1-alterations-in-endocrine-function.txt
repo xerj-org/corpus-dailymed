@@ -1,0 +1,27 @@
+DailyMed e76f35a5-711c-c511-9fd8-b8c4c0b43b85 | Deflazacort Oral Suspension | 5.1 Alterations in Endocrine Function
+
+Corticosteroids, such as deflazacort, can cause serious and life-threatening alterations in endocrine function, especially with chronic use. Monitor patients receiving deflazacort for Cushing’s syndrome, hyperglycemia, and adrenal insufficiency after deflazacort withdrawal. In addition, patients with hypopituitarism, primary adrenal insufficiency or congenital adrenal hyperplasia, altered thyroid function, or pheochromocytoma may be at increased risk for adverse endocrine events.
+
+                           Risk of Adrenal Insufficiency Following Corticosteroid Withdrawal
+
+                        Corticosteroids produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, with the potential for the development of secondary adrenal insufficiency after withdrawal of corticosteroid treatment. Acute adrenal insufficiency can occur if corticosteroids are withdrawn abruptly, and can be fatal. The degree and duration of adrenocortical insufficiency produced is variable among patients and depends on the dose, frequency, and duration of corticosteroid therapy. The risk is reduced by gradually tapering the corticosteroid dose when withdrawing treatment. This insufficiency may persist, however, for months after discontinuation of prolonged therapy; therefore, in any situation of stress occurring during that period of discontinuation, corticosteroid therapy should be reinstituted. For patients already taking corticosteroids during times of stress, the dosage may need to be increased.
+
+                        A steroid “withdrawal syndrome”, seemingly unrelated to adrenocortical insufficiency, may also occur following abrupt discontinuance of corticosteroids. This syndrome includes symptoms such as anorexia, nausea, vomiting, lethargy, headache, fever, joint pain, desquamation, myalgia, and/or weight loss. These effects are thought to be due to the sudden change in corticosteroid concentration rather than to low corticosteroid levels.
+
+                           Cushing’s Syndrome
+
+                        Cushing’s syndrome (hypercortisolism) occurs with prolonged exposure to exogenous corticosteroids, including deflazacort. Symptoms include hypertension, truncal obesity and thinning of the limbs, purple striae, facial rounding, facial plethora, muscle weakness, easy and frequent bruising with thin fragile skin, posterior neck fat deposition, osteopenia, acne, amenorrhea, hirsutism and psychiatric abnormalities.
+
+                           Hyperglycemia
+
+                        Corticosteroids can increase blood glucose, worsen pre-existing diabetes, predispose those on long-term therapy to diabetes mellitus, and may reduce the effect of anti-diabetic drugs.
+
+                        Monitor blood glucose at regular intervals. For patients with hyperglycemia, anti-diabetic treatment should be initiated or adjusted accordingly.
+
+                           Considerations for Use in Patients with Altered Thyroid Function
+
+                        Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients. Changes in thyroid status of the patient may necessitate a dose adjustment of the corticosteroid. When concomitant administration of corticosteroids and levothyroxine is required, administration of corticosteroid should precede the initiation of levothyroxine therapy to reduce the risk of adrenal crisis.
+
+                           Pheochromocytoma Crisis
+
+                        There have been reports of pheochromocytoma crisis, which can be fatal, after administration of systemic corticosteroids. In patients with suspected or identified pheochromocytoma, consider the risk of pheochromocytoma crisis prior to administering corticosteroids.

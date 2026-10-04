@@ -1,0 +1,13 @@
+DailyMed 698a46a6-29b5-4763-9442-ec9ad5eea86b | Nitroglycerin | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of Nitroglycerin Lingual Spray and other nitroglycerin drugs. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure.
+
+                        Neurologic: weakness, drowsiness
+
+  Dermatologic: cutaneous vasodilation, flushing, drug rash, exfoliative dermatitis
+
+  Gastrointestinal: nausea, vomiting
+
+  Respiratory: transient hypoxemia
+
+  Cardiovascular: tachycardia

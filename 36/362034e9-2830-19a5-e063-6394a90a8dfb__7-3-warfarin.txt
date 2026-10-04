@@ -1,0 +1,5 @@
+DailyMed 362034e9-2830-19a5-e063-6394a90a8dfb | ANASTROZOLE | 7.3 Warfarin
+
+In a study conducted in 16 male volunteers, anastrozole did not alter the exposure (as measured by C
+
+  maxand AUC) and anticoagulant activity (as measured by prothrombin time, activated partial thromboplastin time, and thrombin time) of both R- and S-warfarin.

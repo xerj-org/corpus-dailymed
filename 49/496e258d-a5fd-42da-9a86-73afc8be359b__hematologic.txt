@@ -1,0 +1,3 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Hematologic
+
+Decreased white blood cell counts in cimetidine-treated patients (approximately 1 per 100,000 patients), including agranulocytosis (approximately 3 per million patients, have been reported, including a few reports of recurrence on rechallenge. Most of these reports were in patients who had serious concomitant illnesses and received drugs and/or treatment known to produce neutropenia. Thrombocytopenia (approximately 3 per million patients) and, very rarely, cases of pancytopenia or aplastic anemia have also been reported. As with some other H2-receptor antagonists, there have been extremely rare reports of immune hemolytic anemia.

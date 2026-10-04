@@ -1,0 +1,7 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 4 CONTRAINDICATIONS
+
+GAMUNEX-C FlexBag is contraindicated in:
+
+                     Patients with known hypersensitivity reactions, including anaphylactic or severe systemic reaction, to the administration of human immune globulin. 
+
+                     IgA deficient patients with antibodies to IgA and a history of hypersensitivity.

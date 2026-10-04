@@ -1,0 +1,3 @@
+DailyMed 2dc730d5-55fd-4e98-8c8a-daa7d8f872b0 | Menveo | 14 CLINICAL STUDIES
+
+For all age groups, effectiveness has been inferred from the measurement of serogroup-specific anticapsular antibodies with bactericidal activity using pooled human serum that lacked bactericidal activity as the source of exogenous complement (hSBA).

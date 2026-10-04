@@ -1,0 +1,54 @@
+DailyMed 8e28f049-6110-4473-830f-c494191a7197 | Cephalexin | 2.3 Recommended Dosage in Adult and Pediatric Patients at Least 15 Years of Age with Renal Impairment
+
+Administer the following dosing regimens for cephalexin capsules to patients with renal impairment [see Warnings and Precautions (5.4)
+                            and
+                              Use in Specific Populations (8.6)
+
+                           ]. See Table 1 for dosage in adults and pediatric patients at least 15 years of age with renal impairment. There is insufficient information to recommend dosage adjustment for pediatric patients younger than 15 years of age with renal impairment.
+
+                           Table 1. Recommended Cephalexin Capsules Dosage for Adult Patients and Pediatric Patients (at Least 15 Years of Age) with Renal Impairment
+
+                                    Renal function (Creatinine Clearance)
+
+                                  |
+
+                                    Dosage recommendation
+
+                                  |
+
+                                 Greater than or equal to 60 mL/min
+
+                                  |
+                                 No dosage adjustment
+
+                                  |
+
+                                 30 mL/min to 59 mL/min
+
+                                  |
+                                 No dosage adjustment; maximum daily dose should not exceed 1 g
+
+                                  |
+
+                                 15 mL/min to 29 mL/min
+
+                                  |
+                                 250 mg, every 8 hours or every 12 hours
+
+                                  |
+
+                                 5 mL/min to 14 mL/min not yet on dialysis*
+
+                                  |
+                                 250 mg, every 24 hours
+
+                                  |
+
+                                 1 mL/min to 4 mL/min not yet on dialysis*
+
+                                  |
+                                 250 mg, every 48 hours or every 60 hours
+
+                                  |
+
+                        *There is insufficient information to make dose adjustment recommendations in patients on hemodialysis.

@@ -1,0 +1,5 @@
+DailyMed 60f656ff-97b1-4a89-99af-8100483c2bac | Acetazolamide | Drug-Induced Edema:
+
+Recommended dosage is 250 to 375 mg of acetazolamide once a day for one or two days, alternating with a day of rest.
+
+                        Note: The dosage recommendations for glaucoma and epilepsy differ considerably from those for congestive heart failure, since the first two conditions are not dependent upon carbonic anhydrase inhibition in the kidney which requires intermittent dosage if it is to recover from the inhibitory effect of the therapeutic agent.

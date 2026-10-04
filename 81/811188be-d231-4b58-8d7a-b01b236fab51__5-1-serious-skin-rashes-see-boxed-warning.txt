@@ -1,0 +1,33 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 5.1 Serious Skin Rashes [see Boxed Warning]
+
+Pediatric Population
+
+                        The incidence of serious rash associated with hospitalization and discontinuation of lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 17 years) is approximately 0.3% to 0.8%. One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking lamotrigine as adjunctive therapy. Additionally, there have been rare cases of toxic epidermal necrolysis (TEN) with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
+
+                        There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients. In pediatric patients who used valproate concomitantly for epilepsy, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
+
+                           Adult Population
+
+                        Serious rash associated with hospitalization and discontinuation of lamotrigine occurred in 0.3% (11 of 3,348) of adult patients who received lamotrigine in premarketing clinical trials of epilepsy. In the bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine as adjunctive therapy. No fatalities occurred among these individuals. However, in worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
+
+                        Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (
+
+  5.3)].
+
+                           Risk Factors
+
+                           Concomitant Use of Valproate
+
+                        There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults. Specifically, of 584 patients administered lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered lamotrigine in the absence of valproate were hospitalized.
+
+                           Patients with History of Allergy or Rash to Other Antiepileptic Drugs
+
+                        The risk of rash may be increased in patients with a history of allergy or rash to other AEDs.
+
+                           Not Adhering to the Recommended Dosage  
+
+                        The risk of rash is increased by both exceeding the recommended initial dose of lamotrigine and exceeding the recommended dose escalation for lamotrigine.
+
+                           Patients with Genetic Variant Human Leukocyte Antigen (HLA)-B*1502 Allele
+
+                        Retrospective case-control studies in patients of certain Asian ancestry (e.g., Han Chinese and Thai) suggest that the HLA-B*1502 allele is associated with an increased risk (approximately 2-3 times higher) of developing Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) in patients using lamotrigine. The risks and benefits of therapy should be weighed when considering use of lamotrigine in patients known to be positive for HLA-B*1502. Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management. Many HLA‑B*1502-positive patients treated with lamotrigine will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur in HLA-B*1502-negative patients of any ethnicity.

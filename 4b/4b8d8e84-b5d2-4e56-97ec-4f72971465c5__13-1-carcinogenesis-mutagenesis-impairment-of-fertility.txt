@@ -1,0 +1,7 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+The carcinogenicity of beclomethasone dipropionate was evaluated in rats which were exposed for a total of 95 weeks:  13 weeks at inhalation doses up to 0.4 mg/kg/day and the remaining 82 weeks at combined oral and inhalation doses up to 2.4 mg/kg/day. There was no evidence of treatment-related increases in the incidence of tumors in this study at the highest dose, which is approximately 75 and 130 times the MRHD in adults and children, respectively, on a mg/m2 basis.
+
+                        Beclomethasone dipropionate did not induce gene mutation in bacterial cells or mammalian Chinese hamster ovary (CHO) cells in vitro.  No significant clastogenic effect was seen in cultured CHO cells in vitro or in the mouse micronucleus test in vivo.
+
+                         In rats, beclomethasone dipropionate caused decreased conception rates at an oral dose of 16 mg/kg/day (approximately 500 times the MRHD in adults on a mg/m2 basis). Impairment of fertility, as evidenced by inhibition of the estrous cycle in dogs was observed following treatment by the oral route at a dose of 0.5 mg/kg/day (approximately 50 times the MRHD in adults on a mg/m2 basis).  No inhibition of the estrous cycle in dogs was seen following 12 months of exposure to beclomethasone dipropionate by the inhalation route at an estimated daily dose of 0.33 mg/kg (approximately 35 times the MRHD in adults on a mg/m2 basis).

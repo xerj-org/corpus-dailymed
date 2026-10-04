@@ -1,0 +1,5 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 7.2 Interactions Potentially Affecting the Efficacy of Sugammadex Injection
+
+Toremifene
+
+                        For toremifene, which has a relatively high binding affinity for sugammadex and for which relatively high plasma concentrations might be present, some displacement of vecuronium or rocuronium from the complex with Sugammadex Injection could occur. The recovery to TOF ratio to 0.9 could therefore be delayed in patients who have received toremifene on the same day of surgery.

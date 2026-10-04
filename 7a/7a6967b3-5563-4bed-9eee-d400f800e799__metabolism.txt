@@ -1,0 +1,3 @@
+DailyMed 7a6967b3-5563-4bed-9eee-d400f800e799 | Clindamycin | Metabolism
+
+In vitro studies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.

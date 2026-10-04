@@ -1,0 +1,91 @@
+DailyMed 5bc172e4-e8a2-441a-be52-279a7f890196 | Inluriyo | 2.3 Dosage Modifications for Adverse Reactions
+
+The recommended INLURIYO dosage modifications for adverse reactions are provided in Tables 1 and 2.
+
+                        The recommended dose reduction is to 200 mg once daily.
+
+                        Permanently discontinue INLURIYO in patients who are unable to tolerate 200 mg once daily.
+
+                        Refer to the Prescribing Information for dosage modification guidelines and other relevant safety information for abemaciclib when used in combination with INLURIYO.
+
+                           Table 1: INLURIYO Dosage Modifications - Adverse Reactions (except hepatotoxicity)
+
+                                    Grade
+                                  |
+
+                                    INLURIYO Dosage Modifications
+                                  |
+
+                                 Persistent or recurrent Grade 2 that does not resolve with maximal supportive measures within 7 days to baseline or Grade 1
+ |
+                                 Withhold until toxicity resolves to baseline or ≤Grade 1.
+
+Resume INLURIYO at the same dose.
+ |
+
+                                 Grade 3 or 4 (except non-hepatic asymptomatic laboratory changes)
+ |
+                                 Withhold until toxicity resolves to baseline or ≤Grade 1.
+
+Resume INLURIYO at next lower dose.
+ |
+
+                           Table 2: INLURIYO Dosage Modification - Hepatotoxicity
+
+                                    Abbreviation: ALT = alanine aminotransferase, AST = aspartate aminotransferase, TBL=total bilirubin, ULN = upper limit of normal.
+
+                                  |
+
+                                 Monitor ALT/AST during imlunestrant therapy as clinically indicated.
+ |
+
+                                    Liver Transaminase
+                                  |
+
+                                    INLURIYO Dosage Modifications
+                                  |
+
+                                    Persistent or Recurrent:
+
+AST/ALT >3.0-5.0×ULN
+ |
+                                 Withhold until toxicity resolves to baseline or to >ULN-3.0×ULN.
+
+Resume INLURIYO at the same dose.
+ |
+
+                                    If AST/ALT at baseline is within the normal range:
+
+AST/ALT >5.0-20×ULN
+
+Or
+
+                                    If AST/ALT at baseline is above ULN:
+
+AST/ALT ≥3 × baseline
+
+(if AST/ALT≥1.5 x ULN at baseline)
+
+Or
+
+AST/ALT >8 × ULN
+
+(whichever is the lower threshold)
+ |
+                                 Withhold until toxicity resolves to baseline or to >ULN-3.0×ULN.
+
+Resume INLURIYO at next lower dose or discontinue if receiving 200 mg daily.
+ |
+
+                                 AST/ALT >20.0×ULN
+
+Or
+
+ALT or AST ≥ 3 × ULN concurrent with TBL ≥ 2 × ULN (if ALT or AST < 1.5 × ULN at baseline), in the absence of cholestasis
+
+Or
+
+ALT or AST ≥ 2 × baseline concurrent with TBL ≥ 2 × ULN (if ALT or AST ≥ 1.5 × ULN at baseline), in the absence of cholestasis
+ |
+                                 Permanently discontinue INLURIYO.
+ |

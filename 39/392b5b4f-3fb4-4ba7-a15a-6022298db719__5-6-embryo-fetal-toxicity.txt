@@ -1,0 +1,11 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 5.6 Embryo-Fetal Toxicity
+
+Based on findings from animal studies and its mechanism of action, exemestane can cause fetal harm when administered to a pregnant woman. In animal reproduction studies, administration of exemestane to pregnant rats and rabbits caused increased incidence of abortions and embryo-fetal toxicity. Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with exemestane tablets and for 1 month after the last dose
+
+  [see Use in Specific Populations (
+
+   8.1), (
+
+   8.3) and Clinical Pharmacology (
+
+   12.1)].

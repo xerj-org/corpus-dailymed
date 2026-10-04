@@ -1,0 +1,21 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 8.2 Lactation
+
+Risk Summary
+
+                        Valproate is excreted in human milk. Data in the published literature describe the presence of valproate in human milk (range: 0.4 mcg/mL to 3.9 mcg/mL), corresponding to 1% to 10% of maternal serum levels. Valproate serum concentrations collected from breastfed infants aged 3 days postnatal to 12 weeks following delivery ranged from 0.7 mcg/mL to 4 mcg/mL, which were 1% to 6% of maternal serum valproate levels. A published study in children up to six years of age did not report adverse developmental or cognitive effects following exposure to valproate via breast milk [see Data ].
+
+                        There are no data to assess the effects of divalproex sodium delayed-release tablets on milk production or excretion.
+
+                           Clinical Considerations
+
+                        The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for divalproex sodium delayed-release tablets and any potential adverse effects on the breastfed infant from divalproex sodium delayed-release tablets or from the underlying maternal condition.
+
+                        Monitor the breastfed infant for signs of liver damage including jaundice and unusual bruising or bleeding. There have been reports of hepatic failure and clotting abnormalities in offspring of women who used valproate during pregnancy [see Use in Specific Populations (8.1)].
+
+                           Data
+
+                        In a published study, breast milk and maternal blood samples were obtained from 11 epilepsy patients taking valproate at doses ranging from 300 mg/day to 2,400 mg/day on postnatal days 3 to 6. In 4 patients who were taking valproate only, breast milk contained an average valproate concentration of 1.8 mcg/mL (range: 1.1 mcg/mL to 2.2 mcg/mL), which corresponded to 4.8% of the maternal plasma concentration (range: 2.7% to 7.4%). Across all patients (7 of whom were taking other AEDs concomitantly), similar results were obtained for breast milk concentration (1.8 mcg/mL, range: 0.4 mcg/mL to 3.9 mcg/mL) and maternal plasma ratio (5.1%, range: 1.3% to 9.6%).
+
+                        A published study of 6 breastfeeding mother-infant pairs measured serum valproate levels during maternal treatment for bipolar disorder (750 mg/day or 1,000 mg/day). None of the mothers received valproate during pregnancy, and infants were aged from 4 weeks to 19 weeks at the time of evaluation. Infant serum levels ranged from 0.7 mcg/mL to 1.5 mcg/mL. With maternal serum valproate levels near or within the therapeutic range, infant exposure was 0.9% to 2.3% of maternal levels. Similarly, in 2 published case reports with maternal doses of 500 mg/day or 750 mg/day during breastfeeding of infants aged 3 months and 1 month, infant exposure was 1.5% and 6% that of the mother, respectively.
+
+                        A prospective observational multicenter study evaluated the long-term neurodevelopmental effects of AED use on children. Pregnant women receiving monotherapy for epilepsy were enrolled with assessments of their children at ages 3 years and 6 years. Mothers continued AED therapy during the breastfeeding period. Adjusted IQs measured at 3 years for breastfed and non-breastfed children were 93 (n=11) and 90 (n=24), respectively. At 6 years, the scores for breastfed and non-breastfed children were 106 (n=11) and 94 (n=25), respectively (p=0.04). For other cognitive domains evaluated at 6 years, no adverse cognitive effects of continued exposure to an AED (including valproate) via breast milk were observed.

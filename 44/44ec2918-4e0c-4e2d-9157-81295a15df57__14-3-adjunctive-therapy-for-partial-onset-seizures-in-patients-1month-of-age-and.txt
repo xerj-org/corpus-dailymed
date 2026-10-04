@@ -1,0 +1,299 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 14.3 Adjunctive Therapy for Partial-Onset Seizures in Patients 1Month of Age and Older
+
+Adjunctive Therapy for Partial-Onset Seizures in Adult Patients
+
+                           The efficacy of pregabalin as adjunctive therapy for partial-onset seizures in adult patients was established in three 12-week, randomized, double-blind, placebo-controlled, multicenter studies. Patients were enrolled who had partial-onset seizures with or without secondary generalization and were not adequately controlled with 1 to 3 concomitant antiepileptic drugs (AEDs). Patients taking gabapentin were required to discontinue gabapentin treatment 1 week prior to entering baseline. During an 8-week baseline period, patients had to experience at least 6 partial-onset seizures with no seizure-free period exceeding 4 weeks. The mean duration of epilepsy was 25 years in these 3 studies and the mean and median baseline seizure frequencies were 22.5 and 10 seizures per month, respectively. Approximately half of the patients were taking 2 concurrent AEDs at baseline. Among the pregabalin-treated patients, 80% completed the double-blind phase of the studies.
+
+  Table 11 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
+
+                           Table 11. Seizure Response in Controlled, Adjunctive Epilepsy Studies in Adults
+
+                                    Daily Dose of Pregabalin 
+
+                                  |
+
+                                    Dosing Regimen 
+
+                                  |
+
+                                    N 
+
+                                  |
+
+                                    Baseline Seizure Frequency/mo 
+
+                                  |
+
+                                    Median % Change from Baseline 
+
+                                  |
+
+                                    p-value, vs. placebo 
+
+                                  |
+
+                                    Study E1 
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Placebo
+
+                                  |
+                                 BID 
+
+                                  |
+                                 100
+
+                                  |
+                                 9.5
+
+                                  |
+                                 0
+
+                                  |
+                                  
+
+                                  |
+
+                                 50 mg/day 
+
+                                  |
+                                 BID 
+
+                                  |
+                                 88
+
+                                  |
+                                 10.3
+
+                                  |
+                                 -9
+
+                                  |
+                                 0.4230
+
+                                  |
+
+                                 150 mg/day 
+
+                                  |
+                                 BID 
+
+                                  |
+                                 86
+
+                                  |
+                                 8.8
+
+                                  |
+                                 -35
+
+                                  |
+                                 0.0001
+
+                                  |
+
+                                 300 mg/day 
+
+                                  |
+                                 BID 
+
+                                  |
+                                 90
+
+                                  |
+                                 9.8
+
+                                  |
+                                 -37
+
+                                  |
+                                 0.0001
+
+                                  |
+
+                                 600 mg/day 
+
+                                  |
+                                 BID 
+
+                                  |
+                                 89
+
+                                  |
+                                 9
+
+                                  |
+                                 -57
+
+                                  |
+                                 0.0001
+
+                                  |
+
+                                    Study E2 
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Placebo
+
+                                  |
+                                 TID
+
+                                  |
+                                 96
+
+                                  |
+                                 9.3
+
+                                  |
+                                 1
+
+                                  |
+                                  
+
+                                  |
+
+                                 150 mg/day 
+
+                                  |
+                                 TID
+
+                                  |
+                                 99
+
+                                  |
+                                 11.5
+
+                                  |
+                                 -17
+
+                                  |
+                                 0.0007
+
+                                  |
+
+                                 600 mg/day 
+
+                                  |
+                                 TID
+
+                                  |
+                                 92
+
+                                  |
+                                 12.3
+
+                                  |
+                                 -43
+
+                                  |
+                                 0.0001
+
+                                  |
+
+                                    Study E3 
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Placebo 
+
+                                  |
+                                 BID/TID
+
+                                  |
+                                 98
+
+                                  |
+                                 11
+
+                                  |
+                                 -1
+
+                                  |
+                                  
+
+                                  |
+
+                                 600 mg/day 
+
+                                  |
+                                 BID
+
+                                  |
+                                 103
+
+                                  |
+                                 9.5
+
+                                  |
+                                 -36
+
+                                  |
+                                 0.0001
+
+                                  |
+
+                                 600 mg/day 
+
+                                  |
+                                 TID
+
+                                  |
+                                 111
+
+                                  |
+                                 10
+
+                                  |
+                                 -48
+
+                                  |
+                                 0.0001
+
+                                  |

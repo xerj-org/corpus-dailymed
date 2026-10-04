@@ -1,0 +1,909 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                           Acromegaly
+
+                        The data described below reflect exposure to lanreotide injection in 416 acromegalic patients in seven studies. One study was a fixed-dose pharmacokinetic study. The other six studies were open-label or extension studies, one had a placebo-controlled, run-in period, and another had an active control. The population was mainly Caucasian (329/353, 93%) with a median age of 53 years of age (range 19 years to 84 years). Fifty-four subjects (13%) were age 66 to 74 and 18 subjects (4.3%) were 75 years of age and older.
+
+                        Patients were evenly matched for sex (205 males and 211 females). The median average monthly dose was 91.2 mg (e.g., 90 mg injected via the deep subcutaneous route every 4 weeks) over 385 days with a median cumulative dose of 1,290 mg. Of the patients reporting acromegaly, severity at baseline (N=265), serum GH levels were less than 10 ng/mL for 69% (183/265) of the patients and 10 ng/mL or greater for 31% (82/265) of the patients.
+
+                        The most commonly reported adverse reactions reported by greater than 5% of patients who received lanreotide injection (N=416) in the overall pooled safety studies in acromegaly patients were gastrointestinal disorders (diarrhea, abdominal pain, nausea, constipation, flatulence, vomiting, loose stools), cholelithiasis, and injection site reactions.
+
+                        Tables 1 and 2 present adverse reaction data from clinical studies with lanreotide injection in acromegalic patients. The tables include data from a single clinical study and pooled data from seven clinical studies.
+
+                           Adverse Reactions in Parallel Fixed-Dose Phase of Study 1
+
+                        The incidence of treatment-emergent adverse reactions for lanreotide injection 60 mg, 90 mg, and 120 mg by dose as reported during the first 4 months (fixed-dose phase) of Study 1 [see 
+
+                              Clinical Studies (14.1)] are provided in Table 1.
+
+                           Table 1: Adverse Reactions at an Incidence of Greater than 5% with Lanreotide Overall and Occurring at Higher Rate than Placebo: Placebo-Controlled and Fixed-Dose Phase of Study 1 By Dose
+
+                                       Body System
+
+            Preferred Term  |
+
+                                       Placebo-Controlled
+
+                                       Double-Blind Phase
+
+                                    Weeks 0 to 4
+
+                                  |
+
+                                       Fixed-Dose Phase
+
+                                       Double-Blind + Single-Blind 
+
+                                    Weeks 0 to 20 
+
+                                  |
+
+                                       Placebo 
+
+                                       (N=25)
+
+                                  |
+
+                                       Lanreotide Acetate
+
+                                       Overall
+
+                                       (N=83)
+
+                                  |
+
+                                       Lanreotide Acetate,
+
+                                       60 mg
+
+                                       (N=34)
+
+                                  |
+
+                                       Lanreotide Acetate,
+
+                                       90 mg
+
+                                       (N=36)
+
+                                  |
+
+                                       Lanreotide Acetate,
+
+                                       120 mg
+
+                                       (N=37)
+
+                                  |
+
+                                       Lanreotide Acetate
+
+                                       Overall
+
+                                       (N=107)
+
+                                  |
+
+                                 N (%)  |
+                                 N (%)  |
+                                 N (%)  |
+                                 N (%)  |
+                                 N (%)  |
+                                 N (%)  |
+
+                                       Gastrointestinal System Disorders
+
+                                    Diarrhea
+
+                                    Abdominal pain
+
+            Flatulence  |
+
+                                    1 (4%)
+
+                                    0
+
+                                    1 (4%)
+
+                                    0 
+
+                                  |
+
+                                    30 (36%)
+
+                                    26 (31%)
+
+                                    6 (7%)
+
+                                    5 (6%) 
+
+                                  |
+
+                                    12 (35%)
+
+                                    9 (26%)
+
+                                    3 (9%)
+
+                                    0 (0%) 
+
+                                  |
+
+                                    21 (58%)
+
+                                    15 (42%)
+
+                                    6 (17%)
+
+                                    3 (8%) 
+
+                                  |
+
+                                    27 (73%)
+
+                                    24 (65%)
+
+                                    7 (19%)
+
+                                    5 (14%) 
+
+                                  |
+
+                                    60 (56%)
+
+                                    48 (45%)
+
+                                    16 (15%)
+
+                                    8 (7%) 
+
+                                  |
+
+                                       Application Site Disorders
+
+            (Injection site mass/pain/reaction/inflammation)  |
+                                 0 (0%)  |
+                                 5 (6%)  |
+                                 3 (9%)  |
+                                 4 (11%)  |
+                                 8 (22%)  |
+                                 15 (14%)  |
+
+                                       Liver and Biliary System Disorders
+
+            Cholelithiasis  |
+
+                                    1 (4%)
+
+                                    0 
+
+                                  |
+
+                                    3 (4%)
+
+                                    2 (2%) 
+
+                                  |
+
+                                    9 (26%)
+
+                                    5 (15%) 
+
+                                  |
+
+                                    7 (19%)
+
+                                    6 (17%) 
+
+                                  |
+
+                                    4 (11%)
+
+                                    3 (8%) 
+
+                                  |
+
+                                    20 (19%)
+
+                                    14 (13%) 
+
+                                  |
+
+                                       Heart Rate & Rhythm Disorders
+
+            Bradycardia  |
+
+                                    0
+
+                                    0 
+
+                                  |
+
+                                    8 (10%)
+
+                                    7 (8%) 
+
+                                  |
+
+                                    7 (21%)
+
+                                    6 (18%) 
+
+                                  |
+
+                                    2 (6%)
+
+                                    2 (6%) 
+
+                                  |
+
+                                    5 (14%)
+
+                                    2 (5%) 
+
+                                  |
+
+                                    14 (13%)
+
+                                    10 (9%) 
+
+                                  |
+
+                                       Red Blood Cell Disorders
+
+            Anemia  |
+
+                                    0
+
+                                    0 
+
+                                  |
+
+                                    6 (7%)
+
+                                    6 (7%) 
+
+                                  |
+
+                                    2 (6%)
+
+                                    2 (6%) 
+
+                                  |
+
+                                    5 (14%)
+
+                                    5 (14%) 
+
+                                  |
+
+                                    2 (5%)
+
+                                    2 (5%) 
+
+                                  |
+
+                                    9 (8%)
+
+                                    9 (8%) 
+
+                                  |
+
+                                       Metabolic & Nutritional Disorders
+
+            Weight decrease  |
+
+                                    3 (12%)
+
+                                    0 
+
+                                  |
+
+                                    13 (16%)
+
+                                    7 (8%) 
+
+                                  |
+
+                                    8 (24%)
+
+                                    3 (9%) 
+
+                                  |
+
+                                    9 (25%)
+
+                                    4 (11%) 
+
+                                  |
+
+                                    4 (11%)
+
+                                    2 (5%) 
+
+                                  |
+
+                                    21 (20%)
+
+                                    9 (8%) 
+
+                                  |
+
+                                    A patient is counted only once for each body system and preferred term.
+
+            Dictionary = WHOART.  |
+
+                        In Study 1, the adverse reactions of diarrhea, abdominal pain, and flatulence increased in incidence with increasing dose of lanreotide injection.
+
+                           Adverse Reactions in Long-Term Clinical Trials
+
+                        Table 2 provides the most common adverse reactions (greater than 5%) that occurred in 416 acromegalic patients treated with lanreotide injection pooled from 7 studies compared to those patients from the 2 efficacy studies (Studies 1 and 2). Patients with elevated GH and IGF-1 levels were either naive to somatostatin analog therapy or had undergone a 3-month washout [see Clinical Studies (14.1)].
+
+                           Table 2: Adverse Reactions in Lanreotide-Treated Patients at an Incidence Greater than 5% in Overall Group Versus Adverse Reactions Reported in Studies 1 and 2
+
+                                    System Organ Class   |
+
+                                    Number and Percentage of Patients  |
+
+                                       Studies 1 & 2
+
+                                       (N=170)
+
+                                  |
+
+                                       Overall Pooled Data
+
+                                       (N=416)
+
+                                  |
+
+                                    N  |
+
+                                    %  |
+
+                                    N  |
+
+                                    %  |
+
+                                    Patients with any Adverse Reactions  |
+
+                                    157  |
+
+                                    92  |
+
+                                    356  |
+
+                                    86  |
+
+                                       Gastrointestinal disorders
+
+                                    Diarrhea
+
+                                    Abdominal pain
+
+                                    Nausea
+
+                                    Constipation
+
+                                    Flatulence
+
+                                    Vomiting
+
+            Loose stools   |
+
+                                       121
+
+                                    81
+
+                                    34
+
+                                    15
+
+                                    9
+
+                                    12
+
+                                    8
+
+                                    16 
+
+                                  |
+
+                                       71
+
+                                    48
+
+                                    20
+
+                                    9
+
+                                    5
+
+                                    7
+
+                                    5
+
+                                    9 
+
+                                  |
+
+                                       235
+
+                                    155
+
+                                    79
+
+                                    46
+
+                                    33
+
+                                    30
+
+                                    28
+
+                                    23 
+
+                                  |
+
+                                       57
+
+                                    37
+
+                                    19
+
+                                    11
+
+                                    8
+
+                                    7
+
+                                    7
+
+                                    6 
+
+                                  |
+
+                                       Hepatobiliary disorders
+
+            Cholelithiasis  |
+
+                                       53
+
+                                    45 
+
+                                  |
+
+                                       31
+
+                                    27 
+
+                                  |
+
+                                       99
+
+                                    85 
+
+                                  |
+
+                                       24
+
+                                    20 
+
+                                  |
+
+                                       General disorders and administration site conditions
+
+            (Injection site pain/mass/induration/nodule/pruritus)  |
+
+                                       51
+
+                                    28 
+
+                                  |
+
+                                       30
+
+                                    17 
+
+                                  |
+
+                                       91
+
+                                    37 
+
+                                  |
+
+                                       22
+
+                                    9 
+
+                                  |
+
+                                       Musculoskeletal and connective tissue disorders
+
+            Arthralgia  |
+
+                                       44
+
+                                    17 
+
+                                  |
+
+                                       26
+
+                                    10 
+
+                                  |
+
+                                       70
+
+                                    30 
+
+                                  |
+
+                                       17
+
+                                    7 
+
+                                  |
+
+                                       Nervous system disorders
+
+                                    Headache 
+
+                                  |
+
+                                       34
+
+                                    9 
+
+                                  |
+
+                                       20
+
+                                    5 
+
+                                  |
+
+                                       80
+
+                                    30 
+
+                                  |
+
+                                       19
+
+                                    7 
+
+                                  |
+
+                                 Dictionary = MedDRA 7.1  |
+                                   |
+                                   |
+                                   |
+                                   |
+
+                        In addition to the adverse reactions listed in Table 2, the following reactions were also seen:
+
+                           Sinus bradycardia occurred in 7% (12) of patients in the pooled Study 1 and 2 and in 3% (13) of patients in the overall pooled studies.
+
+                           Hypertension occurred in 7% (11) of patients in the pooled Study 1 and 2 and in 5% (20) of patients in the overall pooled studies.
+
+                           Anemia occurred in 7% (12) of patients in the pooled Study 1 and 2 and in 3% (14) of patients in the overall pooled studies.
+
+                           Gastrointestinal Adverse Reactions
+
+                        In the pooled clinical studies of lanreotide injection therapy, a variety of gastrointestinal (GI) reactions occurred, the majority of which were mild to moderate in severity. One percent of acromegalic patients treated with lanreotide injection in the pooled clinical studies discontinued treatment because of gastrointestinal reactions.
+
+                        Pancreatitis was reported in less than 1% of patients.
+
+                           Gallbladder Adverse Reactions
+
+                        In clinical studies involving 416 acromegalic patients treated with lanreotide injection, cholelithiasis and gallbladder sludge were reported in 20% of the patients. Among 167 acromegalic patients treated with lanreotide injection who underwent routine evaluation with gallbladder ultrasound, 17% had gallstones at baseline. New cholelithiasis was reported in 12% of patients. Cholelithiasis may be related to dose or duration of exposure [see Warnings and Precautions (5.1)].
+
+                           Injection Site Reactions
+
+                        In the pooled clinical studies, injection site pain (4%) and injection site mass (2%) were the most frequently reported local adverse drug reactions that occurred with the administration of lanreotide injection. In a specific analysis, 20 of 413 patients (5%) presented indurations at the injection site. Injection site adverse reactions were more commonly reported soon after the start of treatment and were less commonly reported as treatment continued. Such adverse reactions were usually mild or moderate but did lead to withdrawal from clinical studies in two subjects.
+
+                           Glucose Metabolism Adverse Reactions
+
+                        In the clinical studies in acromegalic patients treated with lanreotide injection, adverse reactions of dysglycemia (hypoglycemia, hyperglycemia, diabetes) were reported by 14% (47/332) of patients and were considered related to study drug in 7% (24/332) of patients [see 
+
+                              Warnings and Precautions (5.2)].
+
+                           Cardiac Adverse Reactions
+
+                        In the pooled clinical studies, sinus bradycardia (3%) was the most frequently observed heart rate and rhythm disorder. All other cardiac adverse drug reactions were observed in less than 1% of patients. The relationship of these events to lanreotide injection could not be established because many of these patients had underlying cardiac disease [see
+                                 Warnings and 
+
+                                 Precautions (5.3)
+                              ].
+
+                        A comparative echocardiography study of lanreotide and another somatostatin analog demonstrated no difference in the development of new or worsening valvular regurgitation between the 2 treatments over 1 year. The occurrence of clinically significant mitral regurgitation (i.e., moderate or severe in intensity) or of clinically significant aortic regurgitation (i.e., at least mild in intensity) was low in both groups of patients throughout the study.
+
+                           Other Adverse Reactions
+
+                        For the most commonly occurring adverse reactions in the pooled analysis, diarrhea, abdominal pain, and cholelithiasis, there was no apparent trend for increasing incidence with age. GI disorders and renal and urinary disorders were more common in patients with documented hepatic impairment; however, the incidence of cholelithiasis was similar between groups.
+
+                           Gastroenteropancreatic Neuroendocrine Tumors
+
+                        The safety of lanreotide injection 120 mg for the treatment of patients with gastroenteropancreatic neuroendocrine tumors (GEP-NETs) was evaluated in Study 3, a double-blind, placebo-controlled trial. Patients in Study 3 were randomized to receive lanreotide injection (N=101) or placebo (N=103) administered by deep subcutaneous injection once every 4 weeks. The data below reflect exposure to lanreotide injection in 101 patients with GEP-NETs, including 87 patients exposed for at least 6 months and 72 patients exposed for at least 1 year (median duration of exposure 22 months). Patients treated with lanreotide injection had a median age of 64 years (range 30 years to 83 years), 53% were men and 96% were Caucasian. Eighty-one percent of patients (83/101) in the lanreotide injection arm and 82% of patients (82/103) in the placebo arm did not have disease progression within 6 months of enrollment and had not received prior therapy for GEP-NETs. The rates of discontinuation due to treatment-emergent adverse reactions were 5% (5/101 patients) in the lanreotide injection arm and 3% (3/103 patients) in the placebo arm.
+
+                        Table 3 compares the adverse reactions reported with an incidence of 5% and greater in patients receiving lanreotide injection 120 mg administered every 4 weeks and reported more commonly than placebo.
+
+                           Table 3: Adverse Reactions Occurring in 5% and Greater of Lanreotide-Treated Patients and at a Higher Rate Than in Placebo-Treated Patients in Study 3
+
+                                 Adverse Reaction |
+                                 Lanreotide Acetate 120 mgN=101 |
+                                 PlaceboN=103 |
+
+                                 Any (%) |
+                                 Severe** (%) |
+                                 Any (%) |
+                                 Severe** (%) |
+
+                                       Any Adverse Reactions
+
+                                  |
+
+                                       88
+
+                                  |
+
+                                       26
+
+                                  |
+
+                                       90
+
+                                  |
+
+                                       31
+
+                                  |
+
+                                    Abdominal pain1
+
+                                  |
+
+                                    34*
+
+                                  |
+
+                                    6*
+
+                                  |
+
+                                    24*
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    Musculoskeletal pain2
+
+                                  |
+
+                                    19*
+
+                                  |
+
+                                    2*
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    Vomiting
+
+                                  |
+
+                                    19*
+
+                                  |
+
+                                    2*
+
+                                  |
+
+                                    9*
+
+                                  |
+
+                                    2*
+
+                                  |
+
+                                    Headache
+
+                                  |
+
+                                    16
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    Injection site reaction3
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Hyperglycemia4
+
+                                  |
+
+                                    14*
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Hypertension5
+
+                                  |
+
+                                    14*
+
+                                  |
+
+                                    1*
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Cholelithiasis
+
+                                  |
+
+                                    14*
+
+                                  |
+
+                                    1*
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Dizziness
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    2*
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Depression6
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Dyspnea
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                       1 Includes preferred terms of abdominal pain, abdominal pain upper/lower, abdominal discomfort
+
+                                       2  Includes preferred terms of myalgia, musculoskeletal discomfort, musculoskeletal pain, back pain
+
+                                       3  Includes preferred terms of infusion site extravasation, injection site discomfort, injection site granuloma, injections site hematoma, injection site hemorrhage, injection site induration, injection site mass, injections site nodule, injection site pain, injection site pruritus, injection site rash, injection site reaction, injection site swelling
+
+                                       4  Includes preferred terms of diabetes mellitus, glucose tolerance impaired, hyperglycemia, type 2 diabetes mellitus
+
+                                       5  Includes preferred terms of hypertension, hypertensive crisis
+
+                                       6  Includes preferred terms of depression, depressed mood
+
+                                    * Includes one or more serious adverse events (SAEs) defined as any event that results in death, is life threatening, results in hospitalization or prolongation of hospitalization, results in persistent or significant disability, results in congenital anomaly/birth defect, or may jeopardize the patient and may require medical or surgical intervention to prevent one of the outcomes listed.
+
+                                       ** Defined as hazardous to well-being, significant impairment of function or incapacitation
+
+                                  |
+
+                           Carcinoid Syndrome
+
+                        The safety of lanreotide injection, 120 mg in patients with histopathologically confirmed neuroendocrine tumors and a history of carcinoid syndrome (flushing and/or diarrhea) was evaluated in Study 4, a double-blind, placebo-controlled trial. Patients were randomized to receive lanreotide injection (N=59) or placebo (N=56) administered by deep subcutaneous injection once every 4 weeks. Patients in both arms of Study 4 had access to subcutaneous octreotide as rescue medication for symptom control.
+
+                        Adverse reactions reported in Study 4 were generally similar to those reported in Study 3 for the GEP-NETs population shown in Table 3 above. Adverse reactions occurring in Study 4 in 5% and greater of lanreotide injection-treated patients and occurring at least 5% more than in placebo-treated patients were headache (12% vs 5%, respectively), dizziness (7% vs 0%, respectively), and muscle spasm (5% vs 0%, respectively) by week 16.

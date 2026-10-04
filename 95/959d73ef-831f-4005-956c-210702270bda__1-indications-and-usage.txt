@@ -1,0 +1,3 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 1 INDICATIONS AND USAGE
+
+REVTORPYK is indicated in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting [see Dosage and Administration (2.1) and Clinical Studies (14)].

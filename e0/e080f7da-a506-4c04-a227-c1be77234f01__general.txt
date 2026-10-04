@@ -1,0 +1,87 @@
+DailyMed e080f7da-a506-4c04-a227-c1be77234f01 | Ibuprofen | General
+
+Ibuprofen tablets cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency. Abrupt discontinuation of corticosteroids may lead to disease exacerbation. Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids.
+
+                        The pharmacological activity of ibuprofen tablets in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
+
+                           Hepatic effects
+
+Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs, including ibuprofen tablets. These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy. Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDs. In addition, rare cases of severe hepatic reactions, including jaundice, fulminant hepatitis, liver necrosis, and hepatic failure, some of them with fatal outcomes have been reported. A patient with symptoms and/or signs suggesting liver dysfunction, or with abnormal liver test values, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with ibuprofen tablets. If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), ibuprofen tablets should be discontinued.
+
+                           Hematological effects
+
+Anemia is sometimes seen in patients receiving NSAIDs, including ibuprofen tablets. This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis. Patients on long-term treatment with NSAIDs, including ibuprofen tablets should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
+
+                        In two post-marketing clinical studies the incidence of a decreased hemoglobin level was greater than previously reported. Decrease in hemoglobin of 1 gram or more was observed in 17.1% of 193 patients on 1600 mg ibuprofen daily (osteoarthritis), and in 22.8% of 189 patients taking 2400 mg of ibuprofen daily (rheumatoid arthritis). Positive stool occult blood tests and elevated serum creatinine levels were also observed in these studies.
+
+                        NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients. Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
+
+                        Patients receiving ibuprofen tablets who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants should be carefully monitored.
+
+                           Pre-existing asthma
+
+Patients with asthma may have aspirin-sensitive asthma. The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which can be fatal. Since cross reactivity, including bronchospasm, between aspirin and NSAIDs has been reported in such aspirin-sensitive patients, ibuprofen tablets should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
+
+                           Ophthalmological effects
+
+Blurred and/or diminished vision, scotomata, and/or changes in color vision have been reported. If a patient develops such complaints while receiving ibuprofen tablets, the drug should be discontinued, and the patient should have an ophthalmologic examination which includes central visual fields and color vision testing.
+
+                           Aseptic Meningitis
+
+Aseptic meningitis with fever and coma has been observed on rare occasions in patients on ibuprofen therapy. Although it is probably more likely to occur in patients with systemic lupus erythematosus and related connective tissue diseases, it has been reported in patients who do not have an underlying chronic disease. If signs or symptoms of meningitis develop in a patient on ibuprofen tablets, the possibility of its being related to ibuprofen tablets should be considered.
+
+                           Information for Patients
+
+                           Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
+
+                           Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
+
+                              Cardiovascular Thrombotic Events
+
+	Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see
+
+                                 WARNINGS
+                              ].
+
+                           Ibuprofen tablets, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death. Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative signs or symptoms including epigastric pain, dyspepsia, melena, and hematemesis. Patients should be apprised of the importance of this follow-up [see
+
+                                 WARNINGS
+                              ,
+
+                                 Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
+                              ].
+
+                              Serious Skin Reactions, including DRESS
+
+	Advise patients to stop taking ibuprofen tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see
+
+                                 WARNINGS
+                              ].
+
+                           Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
+
+                              Heart Failure And Edema
+
+	Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see
+
+                                 WARNINGS
+                              ].
+
+                           Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness and "flu-like" symptoms). If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+
+                           Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat). If these occur, patients should be instructed to seek immediate emergency help [see
+
+                                 WARNINGS
+                              ].
+
+                              Fetal Toxicity
+
+	Inform pregnant women to avoid use of ibuprofen tablets and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus. If treatment with ibuprofen tablets is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see
+
+                                 WARNINGS, Fetal Toxicity and
+    PRECAUTIONS, Pregnancy
+                              ].
+
+                           Laboratory Tests
+
+Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding. Patients on long-term treatment with NSAIDs should have their CBC and chemistry profile checked periodically. If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash etc.), or abnormal liver tests persist or worsen, ibuprofen tablets should be discontinued.

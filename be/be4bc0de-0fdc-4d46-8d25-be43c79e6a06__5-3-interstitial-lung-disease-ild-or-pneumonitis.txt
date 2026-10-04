@@ -1,0 +1,7 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 5.3 Interstitial Lung Disease (ILD) or Pneumonitis
+
+Severe, life-threatening, or fatal interstitial lung disease (ILD) or pneumonitis can occur in patients treated with VERZENIO and other CDK4/6 inhibitors. In VERZENIO-treated patients in early breast cancer (monarchE, N=2791), 3% of patients experienced ILD or pneumonitis of any grade: 0.4% were Grade 3 or 4 and there was one fatality (0.1%). In VERZENIO-treated patients in advanced or metastatic breast cancer (N=1108) (MONARCH 1, MONARCH 2, MONARCH 3, EMBER-3), 3.2% of VERZENIO-treated patients had ILD or pneumonitis of any grade: 0.5% had Grade 3 or 4, and 0.5% had fatal outcomes. Additional cases of ILD or pneumonitis have been observed in the postmarketing setting, with fatalities reported [see Adverse Reactions (6.2)].
+
+                        Monitor patients for pulmonary symptoms indicative of ILD or pneumonitis. Symptoms may include hypoxia, cough, dyspnea, or interstitial infiltrates on radiologic exams. Infectious, neoplastic, and other causes for such symptoms should be excluded by means of appropriate investigations.
+
+                        Withhold or reduce dose for patients who develop persistent or recurrent Grade 2 ILD or pneumonitis. Permanently discontinue VERZENIO in all patients with Grade 3 or 4 ILD or pneumonitis [see Dosage and Administration (2.2)].

@@ -1,0 +1,31 @@
+DailyMed bb6d9142-3647-4591-8f84-31b61b755634 | Oxazepam | Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including oxazepam during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
+
+                           Risk Summary
+
+                        Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see
+                                 WARNINGS, Neonatal Sedation and Withdrawal Syndrome and
+                                 PRECAUTIONS: Clinical Considerations]. Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects [see Data].
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Fetal/Neonatal Adverse Reactions
+
+                        Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates. Monitor neonates exposed to oxazepam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems. Monitor neonates exposed to oxazepam during pregnancy for signs of withdrawal. Manage these neonates accordingly [see
+                                 WARNINGS, Neonatal Sedation and Withdrawal Syndrome
+                              ].
+
+                           Data
+
+                           Human Data
+
+                        Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects. Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted. In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+                           Animal Data
+
+                        Reproductive studies in animals were performed in mice, rats, and two strains of rabbits. Occasional anomalies (reduction of tarsals, tibia, metatarsals, malrotated limbs, gastroschisis, malformed skull, and microphthalmia) were seen in drug-treated rabbits without relationship to dosage. Although all of these anomalies were not present in the concurrent control group, they have been reported to occur randomly in historical controls. At doses of 40 mg/kg and higher, there was evidence of fetal resorption and increased fetal loss in rabbits which was not seen at lower doses.

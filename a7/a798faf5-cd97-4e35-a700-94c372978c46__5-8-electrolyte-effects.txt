@@ -1,0 +1,3 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 5.8 Electrolyte Effects
+
+Piperacillin and tazobactam for injection contains a total of 2.35 mEq (54 mg) of Na+ (sodium) per gram of piperacillin in the combination product. This should be considered when treating patients requiring restricted salt intake. Periodic electrolyte determinations should be performed in patients with low potassium reserves, and the possibility of hypokalemia should be kept in mind with patients who have potentially low potassium reserves and who are receiving cytotoxic therapy or diuretics.

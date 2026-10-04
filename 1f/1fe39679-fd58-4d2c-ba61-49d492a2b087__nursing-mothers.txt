@@ -1,0 +1,14 @@
+DailyMed 1fe39679-fd58-4d2c-ba61-49d492a2b087 | ACETAMINOPHEN AND CODEINE PHOSPHATE | Nursing Mothers
+
+Codeine and its active metabolite, morphine, are present in human milk. There are published studies and cases that have reported excessive sedation, respiratory depression, and death in infants exposed to codeine via breast milk. Women who are ultra-rapid metabolizers of codeine achieve higher than expected serum levels of morphine, potentially leading to higher levels of morphine in breast milk that can be dangerous in their breastfed infants. In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
+
+  There is no information on the effects of codeine on milk production. Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with acetaminophen and codeine phosphate tablets (see
+
+                              WARNINGS
+                           ).
+
+  Acetaminophen is excreted in breast milk in small amounts, but the significance of its effect on nursing infants is not known. Because of the potential for serious adverse reactions in nursing infants from acetaminophen, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+
+                        Clinical Considerations
+
+  If infants are exposed to acetaminophen and codeine phosphate tablets through breast milk, they should be monitored for excess sedation and respiratory depression. Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped.

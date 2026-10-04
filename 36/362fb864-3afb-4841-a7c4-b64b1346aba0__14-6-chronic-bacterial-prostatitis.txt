@@ -1,0 +1,53 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 14.6 Chronic Bacterial Prostatitis
+
+Adult patients with a clinical diagnosis of prostatitis and microbiological culture results from urine sample collected after prostatic massage (VB3) or expressed prostatic secretion (EPS) specimens obtained via the Meares-Stamey procedure were enrolled in a multicenter, randomized, double-blind study comparing oral levofloxacin 500 mg, once daily for a total of 28 days to oral ciprofloxacin 500 mg, twice daily for a total of 28 days. The primary efficacy endpoint was microbiologic efficacy in microbiologically evaluable patients. A total of 136 and 125 microbiologically evaluable patients were enrolled in the levofloxacin and ciprofloxacin groups, respectively. The microbiologic eradication rate by patient infection at 5-18 days after completion of therapy was 75.0% in the levofloxacin group and 76.8% in the ciprofloxacin group (95% CI [-12.58, 8.98] for levofloxacin minus ciprofloxacin). The overall eradication rates for pathogens of interest are presented in Table 15.
+
+                           Table 15: Bacteriological Eradication Rates (Chronic Bacterial Prostatitis)
+
+                                   |
+                                  Levofloxacin
+
+ (N=136)
+                                  |
+                                  Ciprofloxacin
+
+ (N=125)
+                                  |
+
+                                  Pathogen
+                                  |
+                                  N
+                                  |
+                                  Eradication
+                                  |
+                                  N
+                                  |
+                                  Eradication
+                                  |
+
+                                  E. coli
+                                  |
+                                  15 |
+                                  14 (93.3%) |
+                                  11 |
+                                  9 (81.8%) |
+
+                                  E. faecalis
+                                  |
+                                  54 |
+                                  39 (72.2%) |
+                                  44 |
+                                  33 (75.0%) |
+
+                                  S. epidermidis*
+                                  |
+                                  11 |
+                                  9 (81.8%) |
+                                  14 |
+                                  11 (78.6%) |
+
+                        * Eradication rates shown are for patients who had a sole pathogen only; mixed cultures were excluded.
+
+                        Eradication rates for S. epidermidis when found with other co-pathogens are consistent with rates seen in pure isolates.
+
+                        Clinical success (cure + improvement with no need for further antibiotic therapy) rates in microbiologically evaluable population 5-18 days after completion of therapy were 75.0% for levofloxacin-treated patients and 72.8% for ciprofloxacin-treated patients (95% CI [-8.87, 13.27] for levofloxacin minus ciprofloxacin). Clinical long-term success (24-45 days after completion of therapy) rates were 66.7% for the levofloxacin-treated patients and 76.9% for the ciprofloxacin-treated patients (95% CI [-23.40, 2.89] for levofloxacin minus ciprofloxacin).

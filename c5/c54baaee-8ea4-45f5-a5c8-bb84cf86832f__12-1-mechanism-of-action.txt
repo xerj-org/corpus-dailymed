@@ -1,0 +1,5 @@
+DailyMed c54baaee-8ea4-45f5-a5c8-bb84cf86832f | Methadone Hydrochloride | 12.1 Mechanism of Action
+
+Methadone hydrochloride is a mu-agonist; a synthetic opioid with multiple actions qualitatively similar to those of morphine, the most prominent of which involves the central nervous system and organs composed of smooth muscle. The methadone withdrawal syndrome, although qualitatively similar to that of morphine, differs in that the onset is slower, the course is more prolonged, and the symptoms are less severe.
+
+                        Some data also indicate that methadone acts as an antagonist at the N-methyl-D-aspartate (NMDA) receptor. The contribution of NMDA receptor antagonism to methadone’s efficacy is unknown.

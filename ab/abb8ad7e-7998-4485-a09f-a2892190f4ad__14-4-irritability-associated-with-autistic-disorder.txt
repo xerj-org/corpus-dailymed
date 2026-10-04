@@ -1,0 +1,159 @@
+DailyMed abb8ad7e-7998-4485-a09f-a2892190f4ad | ARIPIPRAZOLE | 14.4 Irritability Associated with Autistic Disorder
+
+Pediatric Patients
+
+                        The efficacy of aripiprazole in the treatment of irritability associated with autistic disorder was established in two 8-week, placebo-controlled trials in pediatric patients (6 to 17 years of age) who met the DSM-IV criteria for autistic disorder and demonstrated behaviors such as tantrums, aggression, self-injurious behavior, or a combination of these problems. Over 75% of these patients were under 13 years of age.
+
+                        Efficacy was evaluated using two assessment scales: The Aberrant Behavior Checklist (ABC) and the Clinical Global Impression-Improvement (CGI-I) scale. The primary outcome measure in both trials was the change from baseline to endpoint in the Irritability subscale of the ABC (ABC-I). The ABC-I subscale measured symptoms of irritability in autistic disorder.
+
+                        The results of these trials are as follows:
+
+                        In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n=98), aged 6 to 17 years, received daily doses of placebo or aripiprazole 2 to 15 mg/day. Aripiprazole, starting at 2 mg/day with increases allowed up to 15 mg/day based on clinical response, significantly improved scores on the ABC-I subscale and on the CGI-I scale compared with placebo. The mean daily dose of aripiprazole at the end of 8-week treatment was 8.6 mg/day (Study 1 in Table 26).
+
+                        In the other 8-week, placebo-controlled trial in children and adolescents with autistic disorder (n=218), aged 6 to 17 years, three fixed doses of aripiprazole (5 mg/day, 10 mg/day, or 15 mg/day) were compared to placebo. Aripiprazole dosing started at 2 mg/day and was increased to 5 mg/day after one week. After a second week, it was increased to 10 mg/day for patients in the 10 and 15 mg dose arms, and after a third week, it was increased to 15 mg/day in the 15 mg/day treatment arm (Study 2 in Table 26). All three doses of aripiprazole significantly improved scores on the ABC-I subscale compared with placebo.
+
+                           Table 26: Irritability Associated with Autistic Disorder Studies (Pediatric)
+
+                                       Study Number
+
+                                  |
+
+                                       Treatment Group
+
+                                  |
+
+                                       Primary Efficacy Measure: ABC-I
+
+                                  |
+
+                                       Mean
+
+                                       Baseline
+
+                                       Score (SD)
+
+                                  |
+
+                                       LS Mean Change from Baseline (SE)
+
+                                  |
+
+                                       Placebo-subtracted Difference* (95% CI)
+
+                                  |
+
+                                    Study 1
+
+                                  |
+
+                                    Aripiprazole (2 to 15 mg/day)†
+
+                                  |
+
+                                    29.6 (6.37)
+
+                                  |
+
+                                    -12.9 (1.44)
+
+                                  |
+
+                                    -7.9 (-11.7, -4.1)
+
+                                  |
+
+                                    Placebo
+
+                                  |
+
+                                    30.2 (6.52)
+
+                                  |
+
+                                    -5.0 (1.43)
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    Study 2
+
+                                  |
+
+                                    Aripiprazole (5 mg/day)†
+
+                                  |
+
+                                    28.6 (7.56)
+
+                                  |
+
+                                    -12.4 (1.36)
+
+                                  |
+
+                                    -4.0 (-7.7, -0.4)
+
+                                  |
+
+                                    Aripiprazole (10 mg/day)†
+
+                                  |
+
+                                    28.2 (7.36)
+
+                                  |
+
+                                    -13.2 (1.25)
+
+                                  |
+
+                                    -4.8 (-8.4, -1.3)
+
+                                  |
+
+                                    Aripiprazole (15 mg/day)†
+
+                                  |
+
+                                    28.9 (6.41)
+
+                                  |
+
+                                    -14.4 (1.31)
+
+                                  |
+
+                                    -6.0 (-9.6, -2.3)
+
+                                  |
+
+                                    Placebo
+
+                                  |
+
+                                    28.0 (6.89)
+
+                                  |
+
+                                    -8.4 (1.39)
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval.
+
+                                  |
+
+                                    *Difference (drug minus placebo) in least-squares mean change from baseline.
+
+                                  |
+
+                                    † Doses statistically significantly superior to placebo.
+
+                                  |

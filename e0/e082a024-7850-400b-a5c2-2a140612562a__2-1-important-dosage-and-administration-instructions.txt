@@ -1,0 +1,9 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 2.1 Important Dosage and Administration Instructions
+
+Zortress tablets should be swallowed whole with a glass of water.
+
+                        Do not crush Zortress tablets.
+
+                        Administer Zortress consistently approximately 12 hours apart with or without food to minimize variability in absorption and at the same time as cyclosporine or tacrolimus [see Clinical Pharmacology (12.3)].
+
+                        Patients receiving Zortress may require dose adjustments based on everolimus blood concentrations achieved, tolerability, individual response, change in concomitant medications and the clinical situation. Optimally, dose adjustments of Zortress should be based on trough concentrations obtained 4 or 5 days after a previous dosing change. Dose adjustment is required if the trough concentration is below 3 ng/mL. The total daily dose of Zortress should be doubled using the available tablet strengths (0.25 mg, 0.5 mg, 0.75 mg, or 1 mg). Dose adjustment is also required if the trough concentration is greater than 8 ng/mL on 2 consecutive measures; the dose of Zortress should be decreased by 0.25 mg twice daily [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].

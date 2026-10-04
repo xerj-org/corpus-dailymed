@@ -1,0 +1,21 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 14.6 Clinical Studies in Posttraumatic Stress Disorder
+
+The effectiveness of PAXIL in the treatment of Posttraumatic Stress Disorder (PTSD) in adults was demonstrated in two 12-week, multicenter, placebo-controlled studies (Studies PTSD-1 and PTSD-2) of adult outpatients who met DSM-IV criteria for PTSD. The mean duration of PTSD symptoms for the two pooled studies was 13 years (ranged from 0.1 year to 57 years). The percentage of patients with secondary MDD or non-PTSD anxiety disorders in the two pooled studies was 41% (356 out of 858 patients) and 40% (345 out of 858 patients), respectively. Study outcomes were assessed by the:
+
+                        1.Clinician-Administered PTSD Scale Part 2 (CAPS-2) score (the CAPS-2 score is a multi-item instrument that measures 3 aspects of PTSD with the following symptom clusters: Reexperiencing/intrusion, avoidance/numbing and hyperarousal), and
+
+                        2.Clinical Global Impression-Global Improvement Scale (CGI-I).
+
+                        The two primary outcomes for each trial were:
+
+                        1.Change from baseline to endpoint on the CAPS-2 total score (17 items), and
+
+                        2.Proportion of responders on the CGI-I, where responders were defined as patients that had a score of 1 (very much improved) or 2 (much improved).
+
+                        Below are the design characteristics and efficacy results from these studies:
+
+                           Study PTSD-1 was a 12-week study that compared fixed dosage regimen of PAXIL 20 mg or 40 mg daily to placebo daily. The PAXIL 20 mg and 40 mg dosage regimens were demonstrated to be statistically significantly superior to placebo on change from baseline for the CAPS-2 total score and on proportion of responders on the CGI-I. There was not sufficient evidence in this study to suggest a greater benefit for the 40 mg daily PAXIL dosage compared to the 20 mg daily PAXIL dosage. Study PTSD-2 was a 12-week flexible-dose study compared PAXIL 20 mg to 50 mg daily to placebo daily. PAXIL was demonstrated to be significantly superior to placebo on change from baseline for the CAPS-2 total score and on proportion of responders on the CGI-I.
+
+                        In Study PTSD-1, 68% (377/551) of the patients were women, and in Study PTSD-2 66% (202/303) of the patient were women. Subgroup analyses did not indicate differences in treatment outcomes as a function of sex. There were an insufficient number of patients who were 65 years and older or among the racial groups to conduct subgroup analyses based on age or race, respectively.
+
+                        A third study, a flexible-dose study (Study PTSD-3) that compared PAXIL 20 mg to 50 mg daily to placebo, demonstrated PAXIL to be statistically significantly superior to placebo on change from baseline for CAPS-2 total score, but not on proportion of responders on the CGI-I.

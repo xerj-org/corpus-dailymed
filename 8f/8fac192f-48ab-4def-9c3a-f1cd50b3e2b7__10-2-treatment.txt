@@ -1,0 +1,17 @@
+DailyMed 8fac192f-48ab-4def-9c3a-f1cd50b3e2b7 | POTASSIUM CHLORIDE | 10.2 Treatment
+
+Treatment measures for hyperkalemia include the following:
+
+                           Monitor closely for arrhythmias and electrolyte changes.
+
+                           Eliminate foods and medications containing potassium and of any agents with potassium-sparing properties such as potassium-sparing diuretics, ARBs, ACE inhibitors, NSAIDs, certain nutritional supplements and many others.
+
+                           Administer intravenous calcium gluconate if the patient is at no risk or low risk of developing digitalis toxicity.
+
+                           Administer intravenously 300 to 500 mL/hr of 10% dextrose solution containing 10 to 20 units of crystalline insulin per 1000 mL.
+
+                           Correct acidosis, if present, with intravenous sodium bicarbonate.
+
+                           Use exchange resins, hemodialysis, or peritoneal dialysis.
+
+                           In patients who have been stabilized on digitalis, too rapid a lowering of the serum potassium concentration can produce digitalis toxicity.

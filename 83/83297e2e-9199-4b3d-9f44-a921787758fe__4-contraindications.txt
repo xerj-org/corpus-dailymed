@@ -1,0 +1,13 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 4 CONTRAINDICATIONS
+
+Lamotrigine is contraindicated in patients who have demonstrated hypersensitivity (e.g., rash, angioedema, acute urticaria, extensive pruritus, mucosal ulceration) to the drug or its ingredients
+
+  [see
+
+   Boxed Warning,
+
+   Warnings and Precautions (5.1,
+
+   5.3)]
+
+  .

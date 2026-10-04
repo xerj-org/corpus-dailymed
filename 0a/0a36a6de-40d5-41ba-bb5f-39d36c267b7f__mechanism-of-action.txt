@@ -1,0 +1,3 @@
+DailyMed 0a36a6de-40d5-41ba-bb5f-39d36c267b7f | Lidocaine hydrochloride | Mechanism of Action:
+
+Lidocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action.

@@ -1,0 +1,5 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 5.1 Anaphylactic and Anaphylactoid Reactions
+
+Use of propofol injectable emulsion has been associated with both fatal and life threatening anaphylactic and anaphylactoid reactions.
+
+                        Clinical features of anaphylaxis, including angioedema, bronchospasm, erythema, and hypotension, occur rarely following propofol injectable emulsion administration.

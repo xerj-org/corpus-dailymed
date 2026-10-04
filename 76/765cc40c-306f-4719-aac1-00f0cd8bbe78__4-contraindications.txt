@@ -1,0 +1,51 @@
+DailyMed 765cc40c-306f-4719-aac1-00f0cd8bbe78 | Dicyclomine hydrochloride | 4 CONTRAINDICATIONS
+
+Dicyclomine hydrochloride is contraindicated in infants less than 6 months of age
+
+  [see Use in Specific Populations (
+
+   8.4)],
+
+  nursing mothers
+
+  [see Use in Specific Populations (
+
+   8.3)]
+
+  , and in patients with:
+
+                  • unstable cardiovascular status in acute hemorrhage
+
+  • myasthenia gravis
+
+  [see Warnings and Precautions (
+
+   5.4)]
+
+  • glaucoma
+
+  [see Adverse Reactions (
+
+   6.3) and Drug Interactions (
+
+   7.1)]
+
+  • obstructive uropathy
+
+  [see Warnings and Precautions (
+
+   5.8)]
+
+  • obstructive disease of the gastrointestinal tract
+
+  [see Warnings and Precautions (
+
+   5.5)]
+
+  • severe ulcerative colitis
+
+  [see Warnings and Precautions (
+
+   5.7)]
+
+  • reflux esophagitis

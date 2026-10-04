@@ -1,0 +1,9 @@
+DailyMed fed5ed29-7091-4b3c-bf67-64f32cd189bb | PROCHLORPERAZINE EDISYLATE | Long-Term Therapy
+
+Given the likelihood that some patients exposed chronically to antipsychotics will develop tardive dyskinesia, it is advised that all patients in whom chronic use is contemplated be given, if possible, full information about this risk. The decision to inform patients and/or their guardians must obviously take into account the clinical circumstances and the competency of the patient to understand the information provided.
+
+                        To lessen the likelihood of adverse reactions related to cumulative drug effect, patients with a history of long-term therapy with prochlorperazine and/or other antipsychotics should be evaluated periodically to decide whether the maintenance dosage could be lowered or drug therapy discontinued.
+
+                           Children with acute illnesses (e.g., chickenpox, CNS infections, measles, gastroenteritis) or dehydration seem to be much more susceptible to neuromuscular reactions, particularly dystonias, than are adults. In such patients, the drug should be used only under close supervision.
+
+                        Drugs which lower the seizure threshold, including phenothiazine derivatives, should not be used with metrizamide. As with other phenothiazine derivatives, prochlorperazine should be discontinued at least 48 hours before myelography, should not be resumed for at least 24 hours postprocedure, and should not be used for the control of nausea and vomiting occurring either prior to myelography with metrizamide or postprocedure.

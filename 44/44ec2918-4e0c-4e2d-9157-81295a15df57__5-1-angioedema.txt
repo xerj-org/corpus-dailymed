@@ -1,0 +1,5 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 5.1 Angioedema
+
+There have been postmarketing reports of angioedema in patients during initial and chronic treatment with pregabalin. Specific symptoms included swelling of the face, mouth (tongue, lips, and gums), and neck (throat and larynx). There were reports of life-threatening angioedema with respiratory compromise requiring emergency treatment. Discontinue pregabalin immediately in patients with these symptoms.
+
+                        Exercise caution when prescribing pregabalin to patients who have had a previous episode of angioedema. In addition, patients who are taking other drugs associated with angioedema (e.g., angiotensin converting enzyme inhibitors [ACE-inhibitors]) may be at increased risk of developing angioedema.

@@ -1,0 +1,11 @@
+DailyMed 09736975-2493-4dbc-bbe0-cc56a1fec53f | Gabapentin | 7.3 Maalox® (aluminum hydroxide, magnesium hydroxide)
+
+The mean bioavailability of gabapentin was reduced by about 20% with concomitant use of an antacid (Maalox
+
+  ®) containing magnesium and aluminum hydroxides. It is recommended that gabapentin be taken at least 2 hours following Maalox administration
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  .

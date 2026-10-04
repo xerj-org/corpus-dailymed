@@ -1,0 +1,7 @@
+DailyMed 2f73a4db-2c7f-4e42-a914-87aedc2780fb | Ticagrelor | 5.1 Risk of Bleeding
+
+Drugs that inhibit platelet function including ticagrelor tablets increase the risk of bleeding [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+
+                           Patients treated for acute ischemic stroke or TIA 
+
+                           Patients at NIHSS >5 and patients receiving thrombolysis were excluded from THALES and use of ticagrelor tablets in such patients is not recommended.

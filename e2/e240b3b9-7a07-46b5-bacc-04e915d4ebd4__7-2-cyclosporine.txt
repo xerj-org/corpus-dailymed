@@ -1,0 +1,3 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 7.2 Cyclosporine
+
+Concomitant administration of cyclosporine with lanreotide injection may decrease the absorption of cyclosporine, and therefore, may necessitate adjustment of cyclosporine dose to maintain therapeutic drug concentrations [see Clinical Pharmacology (12.3)].

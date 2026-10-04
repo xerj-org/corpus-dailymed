@@ -1,0 +1,3 @@
+DailyMed eceb9a99-7191-4be5-87c3-0102707cf98e | EVRYSDI | 7.1 Effect of EVRYSDI on Substrates of Multidrug and Toxin Extrusion (MATE) Protein Transporters
+
+Based on in vitro data, EVRYSDI may increase plasma concentrations of drugs eliminated via MATE1 or MATE2-K [see Clinical Pharmacology (12.3)], such as metformin. Avoid coadministration of EVRYSDI with MATE substrates. If coadministration cannot be avoided, monitor for drug-related toxicities and consider dosage reduction of the coadministered drug (based on the labeling of that drug) if needed.

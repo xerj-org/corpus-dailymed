@@ -1,0 +1,5 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 2.5 Dosage Modifications for Patients with Severe Hepatic Impairment
+
+For patients with severe hepatic impairment (Child Pugh-C), reduce the VERZENIO dosage frequency to once daily [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+                        Refer to the Full Prescribing Information for the coadministered fulvestrant, tamoxifen, imlunestrant or aromatase inhibitor for dose modification requirements for severe hepatic impairment.

@@ -1,0 +1,49 @@
+DailyMed 5c2ac7cb-3a38-2174-e063-6394a90a95cc | Tramadol Hydrochloride | 8.1 Pregnancy
+
+Risk Summary
+
+                        Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome
+
+  [see Warnings and Precautions (5.4)]. Available data with tramadol hydrochloride tablets in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
+
+                        In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD). Tramadol decreased pup body weight and increased pup mortality at 1.2 and 1.9 times the MRHD
+
+  [see Data]. Based on animal data, advise pregnant women of the potential risk to a fetus.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Fetal/Neonatal Adverse Reactions
+
+                        Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+
+                        Neonatal opioid withdrawal syndrome can present as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight. The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn. Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome and manage accordingly
+
+  [see
+
+   Warnings and Precautions (5.4)]
+
+  .
+
+                        Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported during postmarketing.
+
+                           Labor or Delivery
+
+                        Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates. An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate. Tramadol hydrochloride tablet is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate. Opioid analgesics, including tramadol hydrochloride tablet, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions. However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor. Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
+
+                        Tramadol has been shown to cross the placenta. The mean ratio of serum tramadol in the umbilical veins compared to maternal veins was 0.83 for 40 women given tramadol during labor.
+
+                        The effect of tramadol hydrochloride tablet, if any, on the later growth, development, and functional maturation of the child is unknown.
+
+                           Data
+
+                           Animal Data
+
+                        Tramadol has been shown to be embryotoxic and fetotoxic in mice, (120 mg/kg), rats (25 mg/kg) and rabbits (75 mg/kg) at maternally toxic dosages, but was not teratogenic at these dose levels. These doses on a mg/m
+
+  2basis are 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
+
+                        No drug-related teratogenic effects were observed in progeny of mice (up to 140 mg/kg), rats (up to 80 mg/kg) or rabbits (up to 300 mg/kg) treated with tramadol by various routes. Embryo and fetal toxicity consisted primarily of decreased fetal weights, decreased skeletal ossification and increased supernumerary ribs at maternally toxic dose levels. Transient delays in developmental or behavioral parameters were also seen in pups from rat dams allowed to deliver. Embryo and fetal lethality were reported only in one rabbit study at 300 mg/kg, a dose that would cause extreme maternal toxicity in the rabbit. The dosages listed for mouse, rat and rabbit are 1.7, 1.9 and 14.6 times the MRHD, respectively.
+
+                        Tramadol was evaluated in pre- and post-natal studies in rats. Progeny of dams receiving oral (gavage) dose levels of 50 mg/kg 1.2 times the MRHD) or greater had decreased weights, and pup survival was decreased early in lactation at 80 mg/kg (1.9 times the MRHD).

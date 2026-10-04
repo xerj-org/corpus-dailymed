@@ -1,0 +1,9 @@
+DailyMed 014c93dc-5737-479c-a9f0-aaadac1ac298 | Tyrvaya | 12.3 Pharmacokinetics
+
+Absorption/Distribution 
+
+                        Following administration of 0.12 mg (0.06 mg per 50-µL spray in each nostril), a strength of varenicline that is higher than the labeled concentration, varenicline can be detected in plasma by 5 minutes, generally achieves peak concentration within 2 hours, with a mean Cmax of 0.34 ng/mL, and has an AUC0-inf of 7.46 h*ng/mL.  The systemic exposure (AUC0-inf) following this intranasal dose was approximately 7.5% of the exposure observed following a 1 mg oral dose of varenicline.  
+
+                           Metabolism/Elimination
+
+                        The mean ± SD elimination half-life of varenicline after intranasal administration is approximately 19 ± 10 hours. Varenicline undergoes minimal metabolism with 92% excreted as unchanged drug in the urine.

@@ -1,0 +1,5 @@
+DailyMed 5dc0e9df-3b45-4469-93fe-3d2eddbfe2b7 | Dapagliflozin | 5.5 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+
+Reports of necrotizing fasciitis of the perineum (Fournier’s Gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin. Cases have been reported in both females and males. Serious outcomes have included hospitalization, multiple surgeries, and death.
+
+                        Patients treated with dapagliflozin presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis. If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement. Discontinue dapagliflozin, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.

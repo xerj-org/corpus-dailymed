@@ -1,0 +1,429 @@
+DailyMed 2141f08f-1623-4c88-a157-8dc4aebd3bda | Pentoxifylline | ADVERSE REACTIONS
+
+Clinical trials were conducted using either extended-release pentoxifylline tablets for up to 60 weeks or immediate-release pentoxifylline capsules for up to 24 weeks. Dosage ranges in the tablet studies were 400 mg bid to tid and in the capsule studies, 200-400 mg tid. The table summarizes the incidence (in percent) of adverse reactions considered drug related, as well as the numbers of patients who received extended-release pentoxifylline tablets, immediate-release pentoxifylline capsules, or the corresponding placebos. The incidence of adverse reactions was higher in the capsule studies (where dose related increases were seen in digestive and nervous system side effects) than in the tablet studies. Studies with the capsule include domestic experience, whereas studies with the extended-release tablets were conducted outside the U.S.
+
+                  The table indicates that in the tablet studies few patients discontinued because of adverse effects.
+
+                                 INCIDENCE (%) OF SIDE EFFECTS
+
+                            |
+
+                                 (Numbers of Patients at Risk)
+
+                            |
+
+                                 Extended-Release Tablets
+
+                            |
+
+                                 Immediate-Release Capsules
+
+                            |
+
+                                 Commercially Available
+
+                            |
+
+                                 Used only for Controlled Clinical Trials
+
+                            |
+
+                                 TRENTAL
+
+  (321)
+
+                            |
+
+                                 Placebo
+
+  (128)​​​​​​​
+
+                            |
+
+                                 TRENTAL
+
+  (177)
+
+                            |
+
+                                 Placebo
+
+  (138)
+
+                            |
+
+                              Discontinued for Side Effect​​​​​​​
+
+                            |
+
+                              3.1
+
+                            |
+
+                              0
+
+                            |
+
+                              9.6
+
+                            |
+
+                              7.2
+
+                            |
+
+                                 CARDIOVASCULAR SYSTEM
+
+                            |
+
+                              Angina/Chest Pain
+
+                            |
+
+                              0.3
+
+                            |
+
+                              -
+
+                            |
+
+                              1.1
+
+                            |
+
+                              2.2
+
+                            |
+
+                              Arrhythmia/Palpitation
+
+                            |
+
+                              -
+
+                            |
+
+                              -
+
+                            |
+
+                              1.7
+
+                            |
+
+                              0.7
+
+                            |
+
+                              Flushing
+
+                            |
+
+                              -
+
+                            |
+
+                              -
+
+                            |
+
+                              2.3
+
+                            |
+
+                              0.7
+
+                            |
+
+                                 DIGESTIVE SYSTEM
+
+                            |
+
+                              Abdominal Discomfort
+
+                            |
+
+                              -
+
+                            |
+
+                              -
+
+                            |
+
+                              4.0
+
+                            |
+
+                              1.4
+
+                            |
+
+                              Belching/Flatus/Bloating
+
+                            |
+
+                              0.6
+
+                            |
+
+                              -
+
+                            |
+
+                              9.0
+
+                            |
+
+                              3.6
+
+                            |
+
+                              Diarrhea
+
+                            |
+
+                              -
+
+                            |
+
+                              -
+
+                            |
+
+                              3.4
+
+                            |
+
+                              2.9
+
+                            |
+
+                              Dyspepsia
+
+                            |
+
+                              2.8
+
+                            |
+
+                              4.7
+
+                            |
+
+                              9.6
+
+                            |
+
+                              2.9
+
+                            |
+
+                              Nausea
+
+                            |
+
+                              2.2
+
+                            |
+
+                              0.8
+
+                            |
+
+                              28.8
+
+                            |
+
+                              8.7
+
+                            |
+
+                              Vomiting
+
+                            |
+
+                              1.2
+
+                            |
+
+                              -
+
+                            |
+
+                              4.5
+
+                            |
+
+                              0.7
+
+                            |
+
+                                 NERVOUS SYSTEM
+
+                            |
+
+                              Agitation/Nervousness
+
+                            |
+
+                              -
+
+                            |
+
+                              -
+
+                            |
+
+                              1.7
+
+                            |
+
+                              0.7
+
+                            |
+
+                              Dizziness
+
+                            |
+
+                              1.9
+
+                            |
+
+                              3.1
+
+                            |
+
+                              11.9
+
+                            |
+
+                              4.3
+
+                            |
+
+                              Drowsiness
+
+                            |
+
+                              -
+
+                            |
+
+                              -
+
+                            |
+
+                              1.1
+
+                            |
+
+                              5.8
+
+                            |
+
+                              Headache
+
+                            |
+
+                              1.2
+
+                            |
+
+                              1.6
+
+                            |
+
+                              6.2
+
+                            |
+
+                              5.8
+
+                            |
+
+                              Insomnia
+
+                            |
+
+                              -
+
+                            |
+
+                              -
+
+                            |
+
+                              2.3
+
+                            |
+
+                              2.2
+
+                            |
+
+                              Tremor
+
+                            |
+
+                              0.3
+
+                            |
+
+                              0.8
+
+                            |
+
+                              -
+
+                            |
+
+                              -
+
+                            |
+
+                              Blurred Vision
+
+                            |
+
+                              -
+
+                            |
+
+                              -
+
+                            |
+
+                              2.3
+
+                            |
+
+                              1.4
+
+                            |
+
+                  Pentoxifylline extended-release tablet has been marketed in Europe and elsewhere since 1972. In addition to the above symptoms, the following have been reported spontaneously since
+
+  marketing or occurred in other clinical trials with an incidence of less than 1%; the causal relationship was uncertain:
+
+                  Cardiovascular - dyspnea, edema, hypotension.
+
+  Digestive - anorexia, cholecystitis, constipation, dry mouth/thirst.
+
+  Nervous - anxiety, confusion, depression, seizures, aseptic meningitis.
+
+  Respiratory - epistaxis, flu-like symptoms, laryngitis, nasal congestion.
+
+  Skin and Appendages - brittle fingernails, pruritus, rash, urticaria, angioedema.
+
+  Special Senses - blurred vision, conjunctivitis, earache, scotoma.
+
+  ​​​​​​​Miscellaneous - bad taste, excessive salivation, leukopenia, malaise, sore throat/swollen neck glands, weight change.
+
+                  A few rare events have been reported spontaneously worldwide since marketing in 1972. Although they occurred under circumstances in which a causal relationship with pentoxifylline could not be established, they are listed to serve as information for physicians. Cardiovascular — angina, arrhythmia, tachycardia. Digestive — hepatitis, jaundice, cholestasis, increased liver enzymes; and Hemic and Lymphatic — decreased serum fibrinogen, pancytopenia, aplastic anemia, leukemia, purpura, thrombocytopenia. Immune system disorders — anaphylactic reaction, anaphylactoid reaction, anaphylactic shock.
+
+                     To report SUSPECTED ADVERSE REACTIONS, contact Advagen Pharma Ltd. at +1-866- 488-0312 or FDA at 1-800-FDA-1088 or
+
+   www.fda.gov/medwatch.

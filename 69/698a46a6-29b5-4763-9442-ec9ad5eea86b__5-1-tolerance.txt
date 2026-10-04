@@ -1,0 +1,9 @@
+DailyMed 698a46a6-29b5-4763-9442-ec9ad5eea86b | Nitroglycerin | 5.1 Tolerance
+
+Excessive use may lead to the development of tolerance. Only the smallest number of doses required for effective relief of the acute angina attack should be used
+
+  [see 
+
+                              Dosage and Administration (2.1)
+
+                           ].

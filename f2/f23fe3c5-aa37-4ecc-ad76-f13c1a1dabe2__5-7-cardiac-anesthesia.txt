@@ -1,0 +1,3 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 5.7 Cardiac Anesthesia
+
+Slower rates of administration should be utilized in premedicated patients, geriatric patients, patients with recent fluid shifts, and patients who are hemodynamically unstable. Fluid deficits should be corrected prior to administration of propofol injectable emulsion. In those patients where additional fluid therapy may be contraindicated, other measures, e.g., elevation of lower extremities, or use of pressor agents, may be useful to offset the hypotension which is associated with the induction of anesthesia with propofol injectable emulsion.

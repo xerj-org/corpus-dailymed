@@ -1,0 +1,105 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 12.3 Pharmacokinetics
+
+Everolimus pharmacokinetics have been characterized after oral administration of single and multiple doses to adult kidney transplant patients, hepatically-impaired patients, and healthy subjects.
+
+                           Absorption
+
+                        After oral dosing, peak everolimus concentrations occur 1 to 2 hours post dose. Over the dose range of 0.5 mg to 2 mg twice daily, everolimus Cmax and AUC are dose proportional in transplant patients at steady-state.
+
+                           Food Effect
+
+                        In 24 healthy subjects, a high-fat breakfast (44.5 g fat) reduced everolimus Cmax by 60%, delayed Tmax by a median 1.3 hours, and reduced AUC by 16% compared with a fasting administration. To minimize variability, everolimus should be taken consistently with or without food [
+                           s
+                           ee
+                           Dosage and Administration (2.
+                           1
+                           )
+                           ]
+                           .
+
+                           Distribution
+
+                        The blood-to-plasma ratio of everolimus is concentration dependent ranging from 17% to 73% over the range of 5 ng/mL to 5000 ng/mL. Plasma protein binding is approximately 74% in healthy subjects and in patients with moderate hepatic impairment. The apparent distribution volume associated with the terminal phase (Vz/F) from a single-dose pharmacokinetic study in maintenance kidney transplant patients is 342 to 107 L (range: 128 to 589 L).
+
+                           Elimination
+
+                           Metabolism
+
+                        Everolimus is a substrate of CYP3A and P-gp. Following oral administration, everolimus is the main circulating component in human blood. Six main metabolites of everolimus have been detected in human blood, including 3 monohydroxylated metabolites, 2 hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus. These metabolites were also identified in animal species used in toxicity studies and showed approximately 100 times less activity than everolimus itself.
+
+                           Excretion
+
+                        After a single dose of radiolabeled everolimus was given to transplant patients receiving cyclosporine, the majority (80%) of radioactivity was recovered from the feces and only a minor amount (5%) was excreted in urine. Parent drug was not detected in urine and feces.
+
+                           Pharmacokinetics in Kidney Transplant Patients
+
+                        Steady-state is reached by Day 4 with an accumulation in blood concentrations of 2- to 3-fold compared with the exposure after the first dose. Table 4 below provides a summary of the steady-state pharmacokinetic parameters.
+
+                           Table 4. Steady-State Pharmacokinetic Parameters (mean +/- SD) Following the Administration of 0.75 mg Twice Daily
+
+                                    1Population pharmacokinetic analysis. |
+
+                                    C
+
+                                       max
+
+                                  |
+
+                                    T
+
+                                       max
+
+                                  |
+
+                                    AUC
+                                  |
+
+                                    CL/F
+
+                                       1
+
+                                  |
+
+                                    Vc/F
+
+                                       1
+
+                                  |
+
+                                    Half-life (T
+
+                                       1/2
+
+                                    )
+                                  |
+
+                                 11.1 + 4.6 ng/mL |
+                                 1-2 h |
+                                 75 + 31 ng•h/mL |
+                                 8.8 L/h |
+                                 110 L |
+                                 30 ± 11 h |
+
+                        The half-life estimates from 12 maintenance renal transplant patients who received single doses of everolimus capsules at 0.75 mg or 2.5 mg with their maintenance cyclosporine regimen indicate that the pharmacokinetics of everolimus are linear over the clinically-relevant dose range. Results indicate the half-life of everolimus in maintenance renal transplant patients receiving single doses of 0.75 mg or 2.5 mg Zortress during steady-state cyclosporine treatment was 30 ± 11 hours (range: 19 to 53 hours).
+
+                           Drug Interactions Studies
+
+                        Everolimus is known to be a substrate for both CYP3A and P-gp. The pharmacokinetic interaction between everolimus and concomitantly administered drugs is discussed below. All in vivo interaction studies were conducted without concomitant cyclosporine, except the ones evaluating the effect of cyclosporine [see Warnings and Precautions (5.14), Drug Interactions (7)].
+
+                           Cyclosporine (P-gp and Weak CYP3A Inhibitor): In a single-dose study in 12 healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range: 46% to 365%) and Cmax by 82% (range: 25% to 158%) when coadministered with 2 mg Zortress compared with administration of Zortress alone [see Drug Interactions (7.1)].
+
+                           Ketoconazole (P-gp and Strong CYP3A Inhibitor): Multiple-dose administration of 200 mg ketoconazole twice daily for 8 days to 12 healthy subjects significantly increased everolimus Cmax, AUC, and half-life 3.9-fold, 15-fold, and 1.9-fold, respectively, when coadministered with 2 mg Zortress [see Warnings and Precautions (5.14)].
+
+                           Erythromycin (P-gp and Moderate CYP3A Inhibitor): Multiple-dose administration of 500 mg erythromycin 3 times daily for 9 days to 16 healthy subjects significantly increased everolimus Cmax, AUC, and half-life 2-fold, 4.4-fold, and 1.4-fold, respectively, when coadministered with 2 mg Zortress.
+
+                           Verapamil (P-gp and Moderate CYP3A Inhibitor): Multiple-dose administration of 80 mg verapamil 3 times daily for 6 days to 16 healthy subjects significantly increased everolimus Cmax and AUC 2.3-fold and 3.5-fold, respectively, when coadministered with 2 mg Zortress. Everolimus half-life has not changed.
+
+                           Atorvastatin (CYP3A Substrate) and Pravastatin (MRP2 Substrate): Following administration of a single dose of 2 mg Zortress to 12 healthy subjects, the coadministration of a single oral dose administration of atorvastatin 20 mg or pravastatin 20 mg decreased everolimus Cmax and AUC by 9% and 10%, respectively. There was no apparent change in the mean T1/2 or median Tmax. In the same study, the coadministered Zortress dose increased the mean Cmax of atorvastatin by 11% and decreased the AUC by 7%. The coadministered Zortress dose decreased the mean Cmax and AUC of pravastatin by 10% and 5%, respectively [see Drug Interactions (7.2)].
+
+                           Midazolam (CYP3A Substrate): In 25 healthy male subjects, coadministration of a single dose of midazolam 4 mg oral solution with steady-state everolimus (10 mg daily dose for 5 days) resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC; whereas the terminal half-life of midazolam and the metabolic AUC-ratio (1-hydroxymidazolam/midazolam) were not affected.
+
+                           Rifampin (P-gp inhibitor and inducer and Strong CYP3A Inducer): Coadministration of a single dose of 4 mg Zortress with rifampin after pretreatment of 12 healthy subjects with multiple-dose rifampin (600 mg once-daily for 8 days) increased everolimus clearance nearly 3-fold, and decreased Cmax by 58% and AUC by 63%. The observed change in everolimus is a composite effect of inhibition of P-gp as well as induction of CYP3A4 and P-gp.
+
+                           Octreotide: Coadministration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.
+
+                           Cannabidiol Oral Solution: Everolimus Cmax and AUC increased 2.5-fold when coadministered with cannabidiol oral solution (12.5 mg/kg twice daily) [see Drug Interactions (7.1)].

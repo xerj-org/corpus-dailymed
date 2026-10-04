@@ -1,0 +1,11 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 2.2 Dosage Adjustment in Specific Populations
+
+For patients with mild to moderate hepatic impairment (Child-Pugh Class A or B) or severe renal impairment (CCr 10 to 30 mL/min), the recommended dose of tolterodine tartrate extended-release capsules is 2 mg once daily. Tolterodine tartrate extended-release capsules are not recommended for use in patients with severe hepatic impairment (Child-Pugh Class C). Patients with CCr<10 mL/min have not been studied and use of tolterodine tartrate extended-release capsules in this population is not recommended
+  [see
+
+                                 WARNINGS AND PRECAUTIONS (5.6)
+                               and
+
+                                 USE IN SPECIFIC POPULATIONS (8.6,
+    8.7)
+                              ].

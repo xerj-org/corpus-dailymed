@@ -1,0 +1,27 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 13.1 Carcinogenesis, Mutagenesis and Impairment of Fertility
+
+Carcinogenesis
+
+                        Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months).
+
+                        ▪ In the rat study, survival was reduced in all haloperidol dose groups, decreasing the number of rats at risk for developing tumors. However, a relatively greater number of rats survived to the end of the study in the high dose haloperidol male and female groups. These haloperidol-treated rats at doses up to approximately 2.5 times the maximum recommended human oral dose (MRHD) of haloperidol of 20 mg/day based on mg/m2 body surface area did not have a greater incidence of tumors than control-treated rats.
+
+                        ▪ In female mice, there was a statistically significant increase in mammary gland neoplasia and total tumor incidence at haloperidol doses approximately 0.3 and 1.2 times the oral MRHD based on mg/m2 body surface area and there was statistically significant increase in pituitary gland neoplasia at approximately 1.2 times the oral MRHD. In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
+
+                        Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer. An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs [
+
+  see Warnings and Precautions(
+
+  5.14)].
+
+                        Mutagenesis
+
+                        No mutagenic potential of haloperidol decanoate was found in the Ames Salmonella assay. Negative or inconsistent positive findings have been obtained in
+
+  in vitroand
+
+  in vivostudies of effects of haloperidol on chromosome structure and number. The available cytogenetic evidence is considered too inconsistent to be conclusive.
+
+                        Impairment of Fertility
+
+                        Haloperidol was orally administered to male rats at doses of 0.5 mg/kg/day, 2.5 mg/kg/day and 15 mg/kg/day (approximately 0.2 to 7 times the oral MRHD based on mg/m2 body surface area) for 63 days prior to mating with untreated females. Decreases in mating performance and fertility, as well as markedly decreased motor activity, was observed at seven times the oral MRHD based on mg/m2 body surface area. The NOAEL of 2.5 mg/kg/day is approximately equal to the oral MRHD based on mg/m2 body surface area.

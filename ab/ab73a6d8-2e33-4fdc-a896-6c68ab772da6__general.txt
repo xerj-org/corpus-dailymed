@@ -1,0 +1,69 @@
+DailyMed ab73a6d8-2e33-4fdc-a896-6c68ab772da6 | Bisoprolol Fumarate and Hydrochlorothiazide | General
+
+Electrolyte and Fluid Balance Status
+
+                        Although the probability of developing hypokalemia is reduced with bisoprolol fumarate and hydrochlorothiazide tablets because of the very low dose of HCTZ employed, periodic determination of serum electrolytes should be performed, and patients should be observed for signs of fluid or electrolyte disturbances, i.e., hyponatremia, hypochloremic alkalosis, hypokalemia, and hypomagnesemia. Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
+
+                        Warning signs or symptoms of fluid and electrolyte imbalance include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+
+                        Hypokalemia may develop, especially with brisk diuresis when severe cirrhosis is present, during concomitant use of corticosteroids or adrenocorticotropic hormone (ACTH) or after prolonged therapy. Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
+
+                        Hypokalemia and hypomagnesemia can provoke ventricular arrhythmias or sensitize or exaggerate the response of the heart to the toxic effects of digitalis. Hypokalemia may be avoided or treated by potassium supplementation or increased intake of potassium-rich foods.
+
+                        Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction rather than salt administration, except in rare instances when the hyponatremia is life threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+
+                           Parathyroid Disease
+
+                        Calcium excretion is decreased by thiazides, and pathologic changes in the parathyroid glands, with hypercalcemia and hypophosphatemia, have been observed in a few patients on prolonged thiazide therapy.
+
+                           Hyperuricemia
+
+                        Hyperuricemia or acute gout may be precipitated in certain patients receiving thiazide diuretics. Bisoprolol fumarate, alone or in combination with HCTZ, has been associated with increases in uric acid. However, in U.S. clinical trials, the incidence of treatment-related increases in uric acid was higher during therapy with HCTZ 25 mg (25%) than with B/H 6.25 mg (10%). Because of the very low dose of HCTZ employed, hyperuricemia may be less likely with bisoprolol fumarate and hydrochlorothiazide tablets.
+
+                           Drug Interactions
+
+                        Bisoprolol fumarate and hydrochlorothiazide tablets may potentiate the action of other antihypertensive agents used concomitantly. Bisoprolol fumarate and hydrochlorothiazide tablets should not be combined with other beta-blocking agents. Patients receiving catecholamine- depleting drugs, such as reserpine or guanethidine, should be closely monitored because the added beta-adrenergic blocking action of bisoprolol fumarate may produce excessive reduction of sympathetic activity. In patients receiving concurrent therapy with clonidine, if therapy is to be discontinued, it is suggested that bisoprolol fumarate and hydrochlorothiazide tablets be discontinued for several days before the withdrawal of clonidine.
+
+                        Bisoprolol fumarate and hydrochlorothiazide tablets should be used with caution when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+
+                        Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+
+                        The concomitant use of beta-blockers with sulfonylureas may increase the risk of severe hypoglycemia (see WARNINGS - Hypoglycemia).
+
+                           Bisoprolol Fumarate
+
+                        Concurrent use of rifampin increases the metabolic clearance of bisoprolol fumarate, shortening its elimination half-life. However, initial dose modification is generally not necessary.
+
+                        Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics and cimetidine. There was no effect of bisoprolol fumarate on prothrombin times in patients on stable doses of warfarin.
+
+                           Risk of Anaphylactic Reaction
+
+                        While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.
+
+                           Hydrochlorothiazide
+
+                        When given concurrently the following drugs may interact with thiazide diuretics. Alcohol, barbiturates, or narcotics - potentiation of orthostatic hypotension may occur.
+
+                        Antidiabetic drugs (oral agents and insulin) - dosage adjustment of the antidiabetic drug may be required.
+
+                        Other antihypertensive drugs - additive effect or potentiation.
+
+                        Cholestyramine and colestipol resins - Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single doses of cholestyramine and colestipol resins bind the hydrochlorothiazide and reduce its absorption in the gastrointestinal tract by up to 85 percent and 43 percent, respectively.
+
+                        Corticosteroids, ACTH - Intensified electrolyte depletion, particularly hypokalemia.
+
+                        Pressor amines (e.g., norepinephrine) - possible decreased response to pressor amines but not sufficient to preclude their use.
+
+                        Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) - possible increased responsiveness to the muscle relaxant.
+
+                        Lithium - generally should not be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with bisoprolol fumarate and hydrochlorothiazide tablets.
+
+                        Nonsteroidal anti-inflammatory drugs - In some patients, the administration of a nonsteroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium sparing, and thiazide diuretics. Therefore, when bisoprolol fumarate and hydrochlorothiazide tablets and nonsteroidal anti- inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+
+                        In patients receiving thiazides, sensitivity reactions may occur with or without a history of allergy or bronchial asthma. Photosensitivity reactions and possible exacerbation or activation of systemic lupus erythematosus have been reported in patients receiving thiazides. The antihypertensive effects of thiazides may be enhanced in the post-sympathectomy patient.
+
+                           Laboratory Test Interactions
+
+                        Based on reports involving thiazides, bisoprolol fumarate and hydrochlorothiazide tablets may decrease serum levels of protein-bound iodine without signs of thyroid disturbance.
+
+                        Because it includes a thiazide, bisoprolol fumarate and hydrochlorothiazide tablets should be discontinued before carrying out tests for parathyroid function (see PRECAUTIONS - Parathyroid Disease).

@@ -1,0 +1,3 @@
+DailyMed 5ca5b043-533e-2d1a-e063-6294a90a8d4a | Lacosamide | 7.1 Strong CYP3A4 or CYP2C9 Inhibitors
+
+Patients with renal or hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have a significant increase in exposure to lacosamide. Dose reduction may be necessary in these patients.

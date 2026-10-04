@@ -1,0 +1,21 @@
+DailyMed 7c58bf4a-4a92-4db8-89bc-4de1b5831efc | Atorvastatin calcium | 8.2 Lactation
+
+Risk Summary
+
+                        There is no information about the presence of atorvastatin in human milk, the effects of the drug on the breastfed infant or the effects of the drug on milk production. However, it has been shown that another drug in this class passes into human milk. Studies in rats have shown that atorvastatin and/or its metabolites are present in the breast milk of lactating rats. When a drug is present in animal milk, it is likely that the drug will be present in human milk
+
+  (see Data). Statins, including atorvastatin calcium tablets, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
+
+                        Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with atorvastatin calcium tablets
+
+  [see Use in Specific Populations (
+
+   8.1), Clinical Pharmacology (
+
+   12.1)]
+
+  .
+
+                           Data
+
+                        Following a single oral administration of 10 mg/kg of radioactive atorvastatin to lactating rats, the concentration of total radioactivity was determined. Atorvastatin and/or its metabolites were measured in the breast milk and pup plasma at a 2:1 ratio (milk:plasma).

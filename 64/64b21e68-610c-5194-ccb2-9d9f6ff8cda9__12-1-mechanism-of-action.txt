@@ -1,0 +1,5 @@
+DailyMed 64b21e68-610c-5194-ccb2-9d9f6ff8cda9 | Brimonidine Tartrate | 12.1 Mechanism of Action
+
+Brimonidine tartrate ophthalmic solution is a relatively selective alpha-2 adrenergic receptor agonist with a peak ocular hypotensive effect occurring at two hours post-dosing.
+
+                        Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing uveoscleral outflow.

@@ -1,0 +1,56 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 14 CLINICAL STUDIES
+
+The effectiveness of isotretinoin for the treatment of severe recalcitrant nodular acne in non-pregnant patients 12 years of age and older has been established and is based on a double-blind, randomized, parallel group trial (Study 1) in subjects with severe recalcitrant nodular acne who received isotretinoin or another isotretinoin capsule product under fed conditions. A total of 925 subjects were randomized 1:1 to receive isotretinoin or another isotretinoin capsule product. Study subjects ranged from 12 to 54 years of age (including 397 pediatric subjects 12 years of age and older); 60% were male, 40% were female; and the racial groups included 87% White, 4% Black, 6% Asian, and 3% Other. Enrolled subjects had a weight of 40 to 110 kg and had at least 10 nodular lesions on the face and/or trunk. Subjects were treated with an initial dose of 0.5 mg/kg/day in two divided doses for the first 4 weeks, followed by 1 mg/kg/day in two divided doses for the following 16 weeks.
+
+                  Change from baseline to Week 20 in total nodular lesion count and proportion of subjects with at least a 90% reduction in total nodular lesion count from baseline to Week 20 are presented in Table 3. Total nodular lesion counts by visit are presented in Figure 1. A single course of isotretinoin and another isotretinoin capsule product treatment for 15 to 20 weeks has been shown to result in complete and prolonged remission of acne in many patients.
+
+                      Table 3: Efficacy Results in Subjects with Severe Recalcitrant Nodular Acne at Week 20 (Study 1)
+
+                            |
+
+                              Isotretinoin
+
+                              N=464
+
+                            |
+
+                              Another
+                               Isotretinoin Capsule Product*
+
+N=461
+
+                            |
+
+                              Nodular Lesions
+
+Mean Baseline Count
+
+Mean Reduction
+
+                            |
+                           18.4
+
+-15.68
+
+                            |
+                           17.7
+
+-15.62
+
+                            |
+
+                              Subjects
+                               Achieving 90%
+
+                              Reduction,
+                               n (%)
+
+                            |
+                           324 (70%)
+
+                            |
+                           344 (75%)
+
+                            |
+
+                      Figure 1: Total Nodular (Facial and Truncal) Lesion Count in Subjects with Severe Recalcitrant Nodular Acne by Visit in Study 1

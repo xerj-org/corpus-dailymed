@@ -1,0 +1,19 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | WARNING: TARDIVE DYSKINESIA
+
+•
+
+                        Metoclopramide, including metoclopramide injection, can cause tardive dyskinesia (TD), a potentially irreversible serious movement disorder. In patients treated with metoclopramide, including metoclopramide injection, the risk of developing tardive dyskinesia increases with duration of treatment and total cumulative dosage.
+
+                        •
+
+                        Metoclopramide injection is contraindicated in patients with a history of TD.
+
+                        •
+
+                        Immediately discontinue metoclopramide injection in patients who develop signs or symptoms of TD.
+
+                        •
+
+                        In patients with diabetic gastroparesis, avoid a total duration of treatment with metoclopramide products, including metoclopramide injection, for longer than 12 weeks. If longer-term use is unavoidable, routinely monitor for signs and symptoms of TD.
+
+                     See WARNINGS.

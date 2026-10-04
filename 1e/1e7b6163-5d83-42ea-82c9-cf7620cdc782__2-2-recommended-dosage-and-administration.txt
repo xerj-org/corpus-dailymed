@@ -1,0 +1,76 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 2.2 Recommended Dosage and Administration
+
+Administer IMDELLTRA as an intravenous infusion for one hour.
+
+                              The recommended step-up dose and schedule for IMDELLTRA is provided in Table 1. Administer step-up dose on Cycle 1 Day 1 to reduce the incidence and severity of CRS.
+
+                              After Cycle 1 Day 15, administer IMDELLTRA every 2 weeks until disease progression or unacceptable toxicity.
+
+                           Table 1. Recommended Dose and Schedule of IMDELLTRA
+
+                                 Dosing Schedule |
+                                 Day |
+                                 Dose of IMDELLTRA |
+                                 Administration Instructions |
+                                 Recommended Monitoring |
+
+                                 Note: See Table 4 for recommendation on restarting IMDELLTRA after dose delays. |
+
+                                    Step-up Dose and Schedule Cycle 1
+                                  |
+                                 Day 1Administer recommended concomitant medications before and after Cycle 1 Day 1 and Cycle 1 Day 8 IMDELLTRA infusions as described in Table 3.
+
+                                  |
+                                 Step-up dose 1 mg |
+                                 Administer IMDELLTRA as a 1-hour intravenous infusion in an appropriate healthcare setting. |
+                                 Monitor patients from the start of the IMDELLTRA infusion for 6 to 8
+
+ hours on Cycle 1 Day 1 and Cycle 1 Day 8 in an appropriate healthcare setting.
+
+Perform patient assessment including vital signs check on Cycle 1 Days 2 and 9.
+
+Recommend that patients remain within 1 hour of an appropriate healthcare setting for a total of 48 hours from start of the IMDELLTRA infusion accompanied by a caregiver. |
+
+                                 Day 8
+                                  |
+                                 10 mg
+                                  |
+
+                                 Day 15 |
+                                 10 mg |
+                                 Observe patients for 6-8 hours post IMDELLTRA infusionExtended monitoring in a healthcare setting is not required unless the patient experiences Grade ≥ 2 CRS, ICANS or neurological toxicity during prior treatments. See Tables 5 and 6 for monitoring recommendations.
+
+                                  |
+
+                                 Cycle 2 |
+                                 Day 1 and 15 |
+                                 10 mg |
+                                 Observe patients for 6-8 hours post IMDELLTRA infusion. |
+
+                                 Cycles 3 and 4 |
+                                 Day 1 and 15 |
+                                 10 mg |
+                                 Observe patients for 3-4 hours post IMDELLTRA infusion. |
+
+                                 Cycle 5 and subsequent infusions |
+                                 Day 1 and 15 |
+                                 10 mg |
+                                 Observe patients for 2 hours post IMDELLTRA infusion. |
+
+                           Administration
+
+                              The intravenous (IV) catheter for concomitant medications administration can be used to administer the IMDELLTRA infusion.
+
+                              To ensure patency, flush the IV catheter over 3 to 5 minutes using 0.9% Sodium Chloride for Injection.
+
+                           Administer the reconstituted and diluted IMDELLTRA as a 1-hour intravenous infusion at a constant flow rate using an infusion pump. The pump should be programmable, lockable, non-elastomeric, and have an alarm. Flush the IV-line upon completion of the IMDELLTRA infusion.
+
+                        Table 2 provides the infusion duration and rate.
+
+                           Table 2. IMDELLTRA Infusion Duration and Rate
+
+                                 Infusion Duration for 250 mL IV Preparation |
+                                 Infusion Rate |
+
+                                 1 hour |
+                                 250 mL/hour |

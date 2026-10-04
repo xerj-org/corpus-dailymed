@@ -1,0 +1,37 @@
+DailyMed 10272dc1-657d-4798-a34a-b6341b92e560 | propofol | 2.3 Maintenance of General Anesthesia for Patients Greater than or Equal to 2 Months of Age
+
+Propofol injectable emulsion has been used with a variety of agents commonly used in anesthesia such as atropine, scopolamine, glycopyrrolate, diazepam, depolarizing and nondepolarizing muscle relaxants, and opioid analgesics, as well as with inhalational and regional anesthetic agents.
+
+                        In the elderly, debilitated, or ASA-PS III or IV patients, rapid bolus doses should not be used, as this will increase the likelihood of undesirable cardiorespiratory depression.
+
+                           Adult Patients
+
+                        In adults, anesthesia can be maintained by administering propofol injectable emulsion by infusion or intermittent intravenous bolus injection. The patient's clinical response will determine the infusion rate or the amount and frequency of incremental injections
+
+                           Continuous Infusion
+
+                        Propofol injectable emulsion 100 mcg/kg/min to 200 mcg/kg/min administered in a variable rate infusion with 60% to 70% nitrous oxide and oxygen provides anesthesia for patients undergoing general surgery. Maintenance by infusion of propofol injectable emulsion should immediately follow the induction dose in order to provide satisfactory or continuous anesthesia during the induction phase. During this initial period following the induction dose, higher rates of infusion are generally required (150 mcg/kg/min to 200 mcg/kg/min) for the first 10 minutes to 15 minutes. Infusion rates should subsequently be decreased 30% to 50% during the first half-hour of maintenance. Generally, rates of 50 mcg/kg/min to 100 mcg/kg/min in adults should be achieved during maintenance in order to optimize recovery times.
+
+                        Other drugs that cause CNS depression (hypnotics/sedatives, inhalational anesthetics, and opioids) can increase the CNS depression induced by propofol.
+
+                           Intermittent Bolus
+
+                        Increments of propofol injectable emulsion 25 mg (2.5 mL) to 50 mg (5 mL) may be administered in adult patients undergoing general surgery. The incremental boluses should be administered when changes in vital signs indicate a response to surgical stimulation or light anesthesia.
+
+                           Cardiac Anesthesia
+
+                        The maintenance dose of propofol in adult cardiac patients should be administered as 25 to 100 mcg/kg/min, and should be adjusted according to the patient's sedation level and clinical response.
+
+                           Pediatric Patients
+
+                        In children greater than or equal to 2 months of age, anesthesia can be maintained by administering propofol injectable emulsion by infusion or intermittent intravenous bolus injection. An initial bolus of between 1 to 4 mg/kg, followed by subsequent administration of smaller aliquots based on patients' response (0.5 to 2 mg/kg). The patient's clinical response will determine the infusion rate or the amount and frequency of incremental injections.
+
+                           Continuous Infusion
+
+                        Propofol injectable emulsion administered as a variable rate infusion provides satisfactory anesthesia for most children 2 months of age or older, ASA-PS I or II, undergoing general anesthesia.
+
+                        In general, for the pediatric population, maintenance by infusion of propofol injectable emulsion at a rate of 200 mcg/kg/min to 300 mcg/kg/min should immediately follow the induction dose. Following the first half-hour of maintenance, infusion rates of 125 mcg/kg/min to 150 mcg/kg/min are typically needed. Propofol injectable emulsion should be titrated to achieve the desired clinical effect. Younger pediatric patients may require higher maintenance infusion rates than older pediatric patients [see Clinical Studies (14.1)].
+
+                           Intermittent Bolus
+
+                        An initial bolus of 1 to 4 mg/kg should be administered, with additional 0.5 to 2 mg/kg doses as needed. The incremental boluses should be administered when changes in vital signs indicate a response to surgical stimulation or light anesthesia.

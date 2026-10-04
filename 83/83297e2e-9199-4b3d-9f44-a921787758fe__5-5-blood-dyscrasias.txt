@@ -1,0 +1,5 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 5.5 Blood Dyscrasias
+
+There have been reports of blood dyscrasias that may or may not be associated with multiorgan hypersensitivity (also known as DRESS)
+
+  [see Warnings and Precautions (5.3)].These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytopenia, and, rarely, aplastic anemia and pure red cell aplasia.

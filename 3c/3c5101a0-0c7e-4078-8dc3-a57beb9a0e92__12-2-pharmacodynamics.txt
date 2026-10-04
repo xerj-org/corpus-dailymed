@@ -1,0 +1,39 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 12.2 Pharmacodynamics
+
+In MRI, visualization of normal and pathological tissue depends in part on variations in the radiofrequency signal intensity that occurs with:
+
+                           Differences in proton density
+
+                           Differences of the spin-lattice or longitudinal relaxation times (T1)
+
+                           Differences in the spin-spin or transverse relaxation time (T2)
+
+                        When placed in a magnetic field, gadobutrol shortens the T1 and T2 relaxation times in targeted tissues. The extent to which a contrast agent can affect the relaxation rate of tissue water (1/T1 or 1/T2) is termed relaxivity (r1 or r2). The relaxivity of GBCAs is presented in Table 4.
+
+                           Table 4: Relaxivity (r1) of GBCAs in Human Plasma at 1.5 T and 37°C
+
+                                 Gadolinium-Chelate  |
+                                 r1 (L∙mmol -1 ∙s-1) |
+
+                                 Gadobenate |
+                                 6.3 |
+
+                                 Gadobutrol |
+                                 5.2 |
+
+                                 Gadodiamide |
+                                 4.3 |
+
+                                 Gadopiclenol |
+                                 12.8 |
+
+                                 Gadoterate |
+                                 3.6 |
+
+                                 Gadoteridol |
+                                 4.1 |
+
+                                 Gadoxetate |
+                                 6.9 |
+
+                        Compared to 0.5 molar gadolinium-based contrast agents, the higher concentration of GADAVIST results in half the volume of administration and a more compact contrast bolus injection. At the site of imaging, the relative height and width of the time intensity curve for GADAVIST varies as a function of imaging location and multiple patient, injection, and device-specific factors.

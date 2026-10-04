@@ -1,0 +1,25 @@
+DailyMed c8d012c4-f411-4484-a618-7597599ea621 | Azithromycin monohydrate | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        In clinical trials of intravenous azithromycin for community-acquired pneumonia, in which 2 to 5 IV doses were given, the reported adverse reactions were mild to moderate in severity and were reversible upon discontinuation of the drug. The majority of patients in these trials had one or more co-morbid diseases and were receiving concomitant medications. Approximately 1.2% of the patients discontinued intravenous azithromycin therapy, and a total of 2.4% discontinued azithromycin therapy by either the intravenous or oral route because of clinical or laboratory side effects.
+
+                        In clinical trials conducted in patients with pelvic inflammatory disease, in which 1 to 2 IV doses were given, 2% of women who received monotherapy with azithromycin and 4% who received azithromycin plus metronidazole discontinued therapy due to clinical side effects.
+
+                        Clinical adverse reactions leading to discontinuations from these studies were gastrointestinal (abdominal pain, nausea, vomiting, diarrhea), and rashes; laboratory side effects leading to discontinuation were increases in transaminase levels and/or alkaline phosphatase levels.
+
+                        Overall, the most common adverse reactions associated with treatment in adult patients who received IV/Oral azithromycin in studies of community-acquired pneumonia were related to the gastrointestinal system with diarrhea/loose stools (4.3%), nausea (3.9%), abdominal pain (2.7%), and vomiting (1.4%) being the most frequently reported.
+
+                        Approximately 12% of patients experienced a side effect related to the intravenous infusion; most common were pain at the injection site (6.5%) and local inflammation (3.1%).
+
+                        The most common adverse reactions associated with treatment in adult women who received IV/Oral azithromycin in trials of pelvic inflammatory disease were related to the gastrointestinal system. Diarrhea (8.5%) and nausea (6.6%) were most commonly reported, followed by vaginitis (2.8%), abdominal pain (1.9%), anorexia (1.9%), rash and pruritus (1.9%). When azithromycin was co-administered with metronidazole in these trials, a higher proportion of women experienced adverse reactions of nausea (10.3%), abdominal pain (3.7%), vomiting (2.8%), infusion site reaction, stomatitis, dizziness, or dyspnea (all at 1.9%).
+
+                        Adverse reactions that occurred with a frequency of 1% or less included the following:
+
+                           Gastrointestinal: Dyspepsia, flatulence, mucositis, oral moniliasis, and gastritis.
+
+                           Nervous system: Headache, somnolence.
+
+                           Allergic: Bronchospasm.
+
+                           Special senses: Taste perversion.

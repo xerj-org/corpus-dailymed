@@ -1,0 +1,3 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 1.6 Muscle Invasive Bladder Cancer
+
+TECENTRIQ HYBREZA, as monotherapy, is indicated as adjuvant treatment of adult patients with muscle invasive bladder cancer (MIBC) after cystectomy who have circulating tumor DNA molecular residual disease (ctDNA MRD) as determined by an FDA-authorized test [see Dosage and Administration (2.1)].

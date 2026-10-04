@@ -1,0 +1,132 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 2.6 Dosage Modifications Due to Drug Interactions
+
+Table 1 displays dosage modifications for rosuvastatin tablets due to drug interactions
+  [see
+   Warnings and Precautions (5.1)
+
+                           and
+   Drug Interactions (7.1)].
+
+                           Table 1: Rosuvastatin Tablets Dosage Modifications Due to Drug Interactions
+
+                                       Concomitantly Used Drug
+
+                                  |
+
+                                       Rosuvastatin Tablets Dosage Modifications
+
+                                  |
+
+                                    Cyclosporine
+
+                                  |
+
+                                    Do not exceed 5 mg once daily.
+
+                                  |
+
+                                    Teriflunomide
+
+                                  |
+
+                                    Do not exceed 10 mg once daily.
+
+                                  |
+
+                                    Enasidenib
+
+                                  |
+
+                                    Do not exceed 10 mg once daily.
+
+                                  |
+
+                                    Capmatinib
+
+                                  |
+
+                                    Do not exceed 10 mg once daily.
+
+                                  |
+
+                                    Fostamatinib
+
+                                  |
+
+                                    Do not exceed 20 mg once daily.
+
+                                  |
+
+                                    Febuxostat
+
+                                  |
+
+                                    Do not exceed 20 mg once daily.
+
+                                  |
+
+                                    Gemfibrozil
+
+                                  |
+
+                                    Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily.
+
+                                  |
+
+                                    Tafamidis
+
+                                  |
+
+                                    Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily.
+
+                                  |
+
+                                    Antiviral Medications
+
+                                  |
+
+                                       Sofbuvir/velpatasvir/voxilaprevir
+
+                                       Ledipasvir/sofosbuvir
+
+                                  |
+
+                                    Concomitant use not recommended.
+
+                                  |
+
+                                       Simeprevir
+
+                                       Dasabuvir/ombitasvir/paritaprevir/ritonavir
+
+                                       Elbasvir/Grazoprevir
+
+                                       Sofosbuvir/Velpatasvir
+
+                                       Glecaprevir/Pibrentasvir
+
+                                       Atazanavir/Ritonavir
+
+                                       Lopinavir/Ritonavir
+
+                                  |
+
+                                    Initiate at 5 mg once daily. Do not exceed 10 mg once daily.
+
+                                  |
+
+                                    Darolutamide
+
+                                  |
+
+                                    Do not exceed 5 mg once daily.
+
+                                  |
+
+                                    Regorafenib
+
+                                  |
+
+                                    Do not exceed 10 mg once daily.
+
+                                  |

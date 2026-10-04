@@ -1,0 +1,70 @@
+DailyMed d4d29e80-2f6f-475d-b704-f9443aadf3db | Verapamil Hydrochloride | ADVERSE REACTIONS
+
+Serious adverse reactions are uncommon when verapamil hydrochloride therapy is initiated with upward dose titration within the recommended single and total daily dose. See
+                        WARNINGS
+                      for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response. Reversible (upon discontinuation of verapamil) non-obstructive, paralytic ileus has been infrequently reported in association with the use of verapamil. The following reactions to orally administered verapamil occurred at rates greater than 1% or occurred at lower rates but appeared clearly drug-related in clinical trials in 4,954 patients:
+
+                           Constipation  |
+                            7.3% |
+                           Dyspnea  |
+                            1.4% |
+
+                            Dizziness   |
+                            3.3% |
+                            Bradycardia (HR <50/min) |
+                            1.4% |
+
+                            Nausea |
+                            2.7% |
+                            AV block total (1°, 2°, 3°) |
+                            1.2% |
+
+                            Hypotension |
+                            2.5% |
+                            2° and 3°                                        |
+                            0.8% |
+
+                            Headache  |
+                            2.2% |
+                            Rash |
+                            1.2% |
+
+                            Edema |
+                            1.9% |
+                            Flushing |
+                            0.6% |
+
+                            CHF, Pulmonary edema                    |
+                            1.8% |
+                            |
+                            |
+
+                            Fatigue |
+                            1.7% |
+                            |
+                            |
+
+                            Elevated liver enzymes (see
+                                 WARNINGS
+                              ) |
+                            |
+                            |
+                            |
+
+                  In clinical trials related to the control of ventricular response in digitalized patients who had atrial fibrillation or flutter, ventricular rates below 50 at rest occurred in 15% of patients and asymptomatic hypotension occurred in 5% of patients.
+
+                  The following reactions, reported in 1% or less of patients, occurred under conditions (open trials, marketing experience) where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship:
+
+                     Cardiovascular: angina pectoris, atrioventricular dissociation, chest pain, claudication, myocardial infarction, palpitations, purpura (vasculitis), syncope.
+
+                     Digestive system:  diarrhea, dry mouth, gastrointestinal distress, gingival hyperplasia.
+
+                     Hemic and lymphatic:  ecchymosis or bruising.
+
+                     Nervous system:  cerebrovascular accident, confusion, equilibrium disorders, insomnia, muscle cramps, paresthesia, psychotic symptoms, shakiness, somnolence, extrapyramidal symptoms.
+
+                     Skin:  arthralgia and rash, exanthema, hair loss, hyperkeratosis, macules, sweating, urticaria, Stevens-Johnson syndrome, erythema multiforme.
+
+                     Special senses: blurred vision, tinnitus.
+
+                     Urogenital: gynecomastia, galactorrhea/hyperprolactinemia, increased urination, spotty menstruation, impotence.

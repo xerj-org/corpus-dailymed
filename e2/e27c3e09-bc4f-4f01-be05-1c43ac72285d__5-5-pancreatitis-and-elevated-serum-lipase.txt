@@ -1,0 +1,11 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 5.5 Pancreatitis and Elevated Serum Lipase
+
+Nilotinib can cause increases in serum lipase [see Adverse Reactions (
+
+                              6.1
+
+                           )]. Patients with a previous history of pancreatitis may be at greater risk of elevated serum lipase. If lipase elevations are accompanied by abdominal symptoms, interrupt dosing and consider appropriate diagnostics to exclude pancreatitis [see Dosage and Administration (
+
+                              2.6
+
+                           )]. Test serum lipase levels monthly or as clinically indicated.

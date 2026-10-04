@@ -1,0 +1,129 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 12.3 Pharmacokinetics
+
+Absorption
+
+ Famotidine is incompletely absorbed. The bioavailability of oral doses is 40 to 45%. Bioavailability may be slightly increased by food, or slightly decreased by antacids; however, these effects are of no clinical consequence.
+
+                        Peak famotidine plasma levels occur in 1 to 3 hours. Plasma levels after multiple dosages are similar to those after single doses.
+
+                           Distribution
+
+ Fifteen to 20% of famotidine in plasma is protein bound.
+
+                           Elimination
+
+ Metabolism
+
+                        Famotidine undergoes minimal first-pass metabolism. Twenty-five to 30% of an oral dose was recovered in the urine as unchanged compound. The only metabolite identified in humans is the S-oxide.
+
+                            Excretion
+
+                        Famotidine has an elimination half-life of 2.5 to 3.5 hours. Famotidine is eliminated by renal (65 to 70%) and metabolic (30 to 35%) routes. Renal clearance is 250 to 450 mL/min, indicating some tubular excretion.
+
+                           Specific Populations
+
+ Pediatric Patients
+
+                            
+
+                              Infants from Birth to 12 Months
+
+ After a single oral dose administration of 0.5 mg/kg orally in patients from birth to 12 months, the bioavailability is approximately 42%.
+
+                        The AUC increased 1.4-fold after single oral dose of 1 mg/kg compared to 0.5 mg/kg and 2.7-fold after multiple oral doses of 1 mg/kg compared to 0.5 mg/kg.
+
+                        Plasma clearance is reduced and elimination half-life is prolonged in pediatric patients from birth to 3 months of age compared to older pediatric patients. Following intravenous administration of 0.5 mg/kg, CLTotal was 0.13 ± 0.06 L/hr/kg, 0.21 ± 0.06 L/hr/kg, and 0.49 ± 0.17 L/hr/kg in pediatric patients <1 month of age, <3 months of age, and >3 to 12 months of age, respectively. Elimination half-life was 10.5 hours, 8.1 hours, and 4.5 hours in pediatric patients <1 month of age, <3 months of age, and >3 to 12 months of age, respectively.
+
+                              Patients 11 Years to 15 Years
+
+ The mean bioavailability in 8 pediatric patients was 50% compared to adult values of 42% to 49%.
+
+                        Pharmacokinetic parameters in pediatric patients 11 years to 15 years is compared to infants from birth to 12 months in Table 5.
+
+                           Table 5: Mean Pharmacokinetic Parameters Following a Single Oral Dose of 0.5 mg/kg in Infants and Pediatric Patients
+
+                                    a arithmetic mean ± S.D.
+
+                                    b median
+
+                                    c observed minimum and maximum values
+
+                                    d reported minimum and maximum values
+
+                                  |
+
+                                  |
+
+                                     Infants
+
+                                    from Birth to 12 Months
+
+                                    (N=5)
+
+                                  |
+
+                                    Pediatric Patients
+
+                                    11 Years to 15 Years
+
+                                    (N=8)
+
+                                  |
+
+                                 AUC0-∞ (ng*hr/mL)a
+
+                                  |
+                                 645 ± 249
+
+                                  |
+                                 580 ± 60
+
+                                  |
+
+                                 Cmax (ng/mL)
+
+                                  |
+                                 79.2
+
+                                  |
+                                 97.3
+
+                                  |
+
+                                 Tmax(hr)b
+
+                                  |
+                                 2.0 (1.0, 4.1)c
+
+                                  |
+                                 2.3 (2.1, 2.9)d
+
+                                  |
+
+                                 T1/2 (hr)
+
+                                  |
+                                 5.82
+
+                                  |
+                                 2.13
+
+                                  |
+
+                           Patients with Renal Impairment
+
+ In adult patients with severe renal impairment (creatinine clearance less than 30 mL/min), the systemic exposure (AUC) of famotidine increased at least 5-fold. In adult patients with moderate renal impairment (creatinine clearance between 30 to 60 mL/min), the AUC of famotidine increased at least 2-fold [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
+
+ Drug Interaction Studies
+
+ Human Organic Anion Transporter (OAT) 1 and 3
+
+                            In vitro studies indicate that famotidine is a substrate for OAT1 and OAT3. Following coadministration of probenecid (1500 mg), an inhibitor of OAT1 and OAT3, with a single oral 20 mg dose of famotidine in 8 healthy subjects, the serum AUC0-10h of famotidine increased from 424 to 768 ng.hr/mL and the maximum serum concentration (Cmax) increased from 73 to 113 ng/mL. Renal clearance, urinary excretion rate and amount of famotidine excreted unchanged in urine were decreased. The clinical relevance of this interaction is unknown.
+
+                            Multidrug and Toxin Extrusion Protein 1 (MATE-1)
+
+                        An  in vitro study showed that famotidine is an inhibitor of MATE-1. However, no clinically significant interaction with metformin, a substrate for MATE-1, was observed.
+
+                           CYP1A2
+
+                        Famotidine is a weak CYP1A2 inhibitor.

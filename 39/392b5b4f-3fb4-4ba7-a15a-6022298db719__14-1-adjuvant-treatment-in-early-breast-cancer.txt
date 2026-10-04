@@ -1,0 +1,866 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 14.1 Adjuvant Treatment in Early Breast Cancer
+
+The Intergroup Exemestane Study 031 (IES) was a randomized, double-blind, multicenter, multinational study comparing exemestane (25 mg/day) vs. tamoxifen (20 or 30 mg/day) in postmenopausal women with early breast cancer. Patients who remained disease-free after receiving adjuvant tamoxifen therapy for 2 to 3 years were randomized to receive an additional 3 or 2 years of exemestane or tamoxifen to complete a total of 5 years of hormonal therapy.
+
+                        The primary objective of the study was to determine whether, in terms of disease-free survival, it was more effective to switch to exemestane rather than continuing tamoxifen therapy for the remainder of five years. Disease-free survival was defined as the time from randomization to time of local or distant recurrence of breast cancer, contralateral invasive breast cancer, or death from any cause.
+
+                        The secondary objectives were to compare the two regimens in terms of overall survival and long-term tolerability.
+
+Time to contralateral invasive breast cancer and distant recurrence-free survival were also evaluated.
+
+                        A total of 4724 patients in the intent-to-treat (ITT) analysis were randomized to exemestane tablets 25 mg once daily (N = 2352) or to continue to receive tamoxifen once daily at the same dose received before randomization (N = 2372). Demographic and baseline tumor characteristics are presented in Table 5. Prior breast cancer therapy is summarized in Table 6.
+
+                           Table 5. Demographic and Baseline Tumor Characteristics from the IES Study of Postmenopausal Women with Early Breast Cancer (ITT Population)
+
+                                    Parameter
+                                  |
+
+                                    Exemestane
+
+                                    (N = 2352)
+                                  |
+
+                                    Tamoxifen
+
+                                    (N = 2372)
+                                  |
+
+                                       Age (years):
+
+			Median age (range)
+
+                                  |
+
+                                    63 (38 – 96)
+
+                                  |
+
+                                    63 (31 – 90)
+
+                                  |
+
+                                       Race, n (%):
+
+                                  |
+
+                                    Caucasian
+
+                                  |
+
+                                    2315 (98.4)
+
+                                  |
+
+                                    2333 (98.4)
+
+                                  |
+
+                                    Hispanic
+
+                                  |
+
+                                    13 (0.6)
+
+                                  |
+
+                                    13 (0.5)
+
+                                  |
+
+                                    Asian
+
+                                  |
+
+                                    10 (0.4)
+
+                                  |
+
+                                    9 (0.4)
+
+                                  |
+
+                                    Black
+
+                                  |
+
+                                    7 (0.3)
+
+                                  |
+
+                                    10 (0.4)
+
+                                  |
+
+                                    Other/not reported
+
+                                  |
+
+                                    7 (0.3)
+
+                                  |
+
+                                    7 (0.3)
+
+                                  |
+
+                                       Nodal status, n (%):
+
+                                  |
+
+                                    Negative
+
+                                  |
+
+                                    1217 (51.7)
+
+                                  |
+
+                                    1228 (51.8)
+
+                                  |
+
+                                    Positive
+
+                                  |
+
+                                    1051 (44.7)
+
+                                  |
+
+                                    1044 (44)
+
+                                  |
+
+                                    1-3 Positive nodes
+
+                                  |
+
+                                    721 (30.7)
+
+                                  |
+
+                                    708 (29.8)
+
+                                  |
+
+                                    4-9 Positive nodes
+
+                                  |
+
+                                    239 (10.2)
+
+                                  |
+
+                                    244 (10.3)
+
+                                  |
+
+                                    >9 Positive nodes
+
+                                  |
+
+                                    88 (3.7)
+
+                                  |
+
+                                    86 (3.6)
+
+                                  |
+
+                                    Not reported
+
+                                  |
+
+                                    3 (0.1)
+
+                                  |
+
+                                    6 (0.3)
+
+                                  |
+
+                                    Unknown or missing
+
+                                  |
+
+                                    84 (3.6)
+
+                                  |
+
+                                    100 (4.2)
+
+                                  |
+
+                                       Histologic type, n (%):
+
+                                  |
+
+                                    Infiltrating ductal
+
+                                  |
+
+                                    1777 (75.6)
+
+                                  |
+
+                                    1830 (77.2)
+
+                                  |
+
+                                    Infiltrating lobular
+
+                                  |
+
+                                    341 (14.5)
+
+                                  |
+
+                                    321 (13.5)
+
+                                  |
+
+                                    Other
+
+                                  |
+
+                                    231 (9.8)
+
+                                  |
+
+                                    213 (9.0)
+
+                                  |
+
+                                    Unknown or missing
+
+                                  |
+
+                                    3 (0.1)
+
+                                  |
+
+                                    8 (0.3)
+
+                                  |
+
+                                       Receptor status*
+      , n (%):
+
+                                  |
+
+                                    ER and PgR Positive
+
+                                  |
+
+                                    1331 (56.6)
+
+                                  |
+
+                                    1319 (55.6)
+
+                                  |
+
+                                    ER Positive and PgR Negative/Unknown
+
+                                  |
+
+                                    677 (28.8)
+
+                                  |
+
+                                    692 (29.2)
+
+                                  |
+
+                                    ER Unknown and PgR Positive**/Unknown
+
+                                  |
+
+                                    288 (12.2)
+
+                                  |
+
+                                    291 (12.3)
+
+                                  |
+
+                                    ER Negative and PgR Positive
+
+                                  |
+
+                                    6 (0.3)
+
+                                  |
+
+                                    7 (0.3)
+
+                                  |
+
+                                    ER Negative and PgR Negative/Unknown (none positive)
+
+                                  |
+
+                                    48 (2)
+
+                                  |
+
+                                    58 (2.4)
+
+                                  |
+
+                                    Missing
+
+                                  |
+
+                                    2 (0.1)
+
+                                  |
+
+                                    5 (0.2)
+
+                                  |
+
+                                       Tumor Size, n (%):
+
+                                  |
+
+                                    ≤ 0.5 cm
+
+                                  |
+
+                                    58 (2.5)
+
+                                  |
+
+                                    46 (1.9)
+
+                                  |
+
+                                    > 0.5 - 1 cm
+
+                                  |
+
+                                    315 (13.4)
+
+                                  |
+
+                                    302 (12.7)
+
+                                  |
+
+                                    > 1 - 2 cm
+
+                                  |
+
+                                    1031 (43.8)
+
+                                  |
+
+                                    1033 (43.5)
+
+                                  |
+
+                                    > 2 - 5 cm
+
+                                  |
+
+                                    833 (35.4)
+
+                                  |
+
+                                    883 (37.2)
+
+                                  |
+
+                                    > 5 cm
+
+                                  |
+
+                                    62 (2.6)
+
+                                  |
+
+                                    59 (2.5)
+
+                                  |
+
+                                    Not reported
+
+                                  |
+
+                                    53 (2.3)
+
+                                  |
+
+                                    49 (2.1)
+
+                                  |
+
+                                       Tumor Grade, n (%):
+
+                                  |
+
+                                    G1
+
+                                  |
+
+                                    397 (16.9)
+
+                                  |
+
+                                    393 (16.6)
+
+                                  |
+
+                                    G2
+
+                                  |
+
+                                    977 (41.5)
+
+                                  |
+
+                                    1007 (42.5)
+
+                                  |
+
+                                    G3
+
+                                  |
+
+                                    454 (19.3)
+
+                                  |
+
+                                    428 (18)
+
+                                  |
+
+                                    G4
+
+                                  |
+
+                                    23 (1)
+
+                                  |
+
+                                    19 (0.8)
+
+                                  |
+
+                                    Unknown/Not Assessed/Not reported
+
+                                  |
+
+                                    501 (21.3)
+
+                                  |
+
+                                    525 (22.1)
+
+                                  |
+
+                              * Results for receptor status include the results of the post-randomization testing of specimens from subjects for whom receptor status was unknown at randomization.
+
+                              ** Only one subject in the exemestane group had unknown ER status and positive PgR status.
+
+                           Table 6. Prior Breast Cancer Therapy of Patients in the IES Study of Postmenopausal Women with Early Breast Cancer (ITT Population)
+
+                                    Parameter
+                                  |
+
+                                    Exemestane
+
+                                    (N = 2352)
+                                  |
+
+                                    Tamoxifen
+
+                                    (N = 2372)
+                                  |
+
+                                       Type of surgery, n (%):
+
+                                  |
+
+                                    Mastectomy
+
+                                  |
+
+                                    1232 (52.4)
+
+                                  |
+
+                                    1242 (52.4)
+
+                                  |
+
+                                    Breast-conserving
+
+                                  |
+
+                                    1116 (47.4)
+
+                                  |
+
+                                    1123 (47.3)
+
+                                  |
+
+                                    Unknown or missing
+
+                                  |
+
+                                    4 (0.2)
+
+                                  |
+
+                                    7 (0.3)
+
+                                  |
+
+                                       Radiotherapy to the breast, n (%):
+
+                                  |
+
+                                    Yes
+
+                                  |
+
+                                    1524 (64.8)
+
+                                  |
+
+                                    1523 (64.2)
+
+                                  |
+
+                                    No
+
+                                  |
+
+                                    824 (35.5)
+
+                                  |
+
+                                    843 (35.5)
+
+                                  |
+
+                                    Not reported
+
+                                  |
+
+                                    4 (0.2)
+
+                                  |
+
+                                    6 (0.3)
+
+                                  |
+
+                                       Prior therapy, n (%):
+
+                                  |
+
+                                    Chemotherapy
+
+                                  |
+
+                                    774 (32.9)
+
+                                  |
+
+                                    769 (32.4)
+
+                                  |
+
+                                    Hormone replacement therapy
+
+                                  |
+
+                                    567 (24.1)
+
+                                  |
+
+                                    561 (23.7)
+
+                                  |
+
+                                    Bisphosphonates
+
+                                  |
+
+                                    43 (1.8)
+
+                                  |
+
+                                    34 (1.4)
+
+                                  |
+
+                                       Duration of tamoxifen therapy at randomization (months):
+
+			Median (range)
+
+                                  |
+
+                                    28.5 (15.8 - 52.2)
+
+                                  |
+
+                                    28.4 (15.6 - 63)
+
+                                  |
+
+                                       Tamoxifen dose, n (%):
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    2270 (96.5)
+
+                                  |
+
+                                    2287 (96.4)
+
+                                  |
+
+                                    30 mg*
+
+                                  |
+
+                                    78 (3.3)
+
+                                  |
+
+                                    75 (3.2)
+
+                                  |
+
+                                    Not reported
+
+                                  |
+
+                                    4 (0.2)
+
+                                  |
+
+                                    10 (0.4)
+
+                                  |
+
+                                       *The 30 mg dose was used only in Denmark, where this dose was the standard of care.
+
+                                  |
+
+                        After a median duration of therapy of 27 months and with a median follow-up of 34.5 months, 520 events were reported, 213 in the exemestane group and 307 in the tamoxifen group (
+
+                              Table 7
+                           ).
+
+                           Table 7. Primary Endpoint Events (ITT Population)
+
+                                    Event
+                                  |
+
+                                    First Events N (%)
+                                  |
+
+                                    Exemestane
+                                    (N = 2352)
+                                  |
+
+                                    Tamoxifen
+                                    (N = 2372)
+                                  |
+
+                                    Loco-regional recurrence
+
+                                  |
+
+                                    34 (1.45)
+
+                                  |
+
+                                    45 (1.9)
+
+                                  |
+
+                                    Distant recurrence
+
+                                  |
+
+                                    126 (5.36)
+
+                                  |
+
+                                    183 (7.72)
+
+                                  |
+
+                                    Second primary – contralateral breast cancer
+
+                                  |
+
+                                    7 (0.3)
+
+                                  |
+
+                                    25 (1.05)
+
+                                  |
+
+                                    Death – breast cancer
+
+                                  |
+
+                                    1 (0.04)
+
+                                  |
+
+                                    6 (0.25)
+
+                                  |
+
+                                    Death – other reason
+
+                                  |
+
+                                    41 (1.74)
+
+                                  |
+
+                                    43 (1.81)
+
+                                  |
+
+                                    Death – missing/unknown
+
+                                  |
+
+                                    3 (0.13)
+
+                                  |
+
+                                    5 (0.21)
+
+                                  |
+
+                                    Ipsilateral breast cancer
+
+                                  |
+
+                                    1 (0.04)
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                       Total number of events
+
+                                  |
+
+                                       213 (9.06)
+
+                                  |
+
+                                       307 (12.94)
+
+                                  |
+
+                        Disease-free survival in the intent-to-treat population was statistically significantly improved [Hazard Ratio (HR) = 0.69, 95% CI: 0.58, 0.82, P = 0.00003, Table 8, Figure 1] in the exemestane arm compared to the tamoxifen arm. In the hormone receptor-positive subpopulation representing about 85% of the trial patients, disease-free survival was also statistically significantly improved (HR = 0.65, 95% CI: 0.53, 0.79, P = 0.00001) in the exemestane arm compared to the tamoxifen arm. Consistent results were observed in the subgroups of patients with node negative or positive disease, and patients who had or had not received prior chemotherapy.
+
+                        An overall survival update at 119 months median follow-up showed no significant difference between the two groups,
+
+with 467 deaths (19.9%) occurring in the exemestane group and 510 deaths (21.5%) in the tamoxifen group.
+
+                           Table 8. Efficacy Results from the IES Study in Postmenopausal Women with Early Breast Cancer
+
+                                    ITT Population
+                                  |
+
+                                    Hazard Ratio
+
+                                    (95% CI)
+                                  |
+
+                                    p-value
+
+                                    (log-rank test)
+                                  |
+
+                                    Disease-free survival
+
+                                    Time to contralateral breast cancer
+
+                                    Distant recurrence-free survival
+
+                                    Overall survival
+
+                                  |
+
+                                    0.69 (0.58-0.82)
+
+                                    0.32 (0.15-0.72)
+
+                                    0.74 (0.62-0.9)
+
+                                    0.91 (0.81-1.04)
+
+                                  |
+
+                                    0.00003
+
+                                    0.00340
+
+                                    0.00207
+
+                                    0.16*
+
+                                  |
+
+                                       ER and/or PgR positive
+
+                                  |
+
+                                    Disease-free survival
+
+                                    Time to contralateral breast cancer
+
+                                    Distant recurrence-free survival
+
+			Overall survival
+
+                                  |
+
+                                    0.65 (0.53-0.79)
+
+                                    0.22 (0.08-0.57)
+
+                                    0.73 (0.59-0.9)
+
+                                    0.89 (0.78-1.02)
+
+                                  |
+
+                                    0.00001
+
+                                    0.00069
+
+                                    0.00367
+
+                                    0.09065*
+
+                                  |
+
+                                       *Not adjusted for multiple testing.
+
+                                  |
+
+                           Figure 1. Disease-Free Survival in the IES Study of Postmenopausal Women with Early Breast Cancer (ITT Population)

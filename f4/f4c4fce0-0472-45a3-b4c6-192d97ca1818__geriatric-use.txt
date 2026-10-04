@@ -1,0 +1,7 @@
+DailyMed f4c4fce0-0472-45a3-b4c6-192d97ca1818 | CLINDAMYCIN HYDROCHLORIDE | Geriatric Use
+
+Clinical studies of clindamycin did not include sufficient numbers of patients age 65 and over to determine whether they respond differently from younger patients. However, other reported clinical experience indicates that antibacterial drug-associated colitis and diarrhea (due to
+
+  Clostridioides difficile) seen in association with most antibacterial drugs occur more frequently in the elderly (>60 years) and may be more severe. These patients should be carefully monitored for the development of diarrhea.
+
+                        Pharmacokinetic studies with clindamycin have shown no clinically important differences between young and elderly subjects with normal hepatic function and normal (age-adjusted) renal function after oral or intravenous administration.

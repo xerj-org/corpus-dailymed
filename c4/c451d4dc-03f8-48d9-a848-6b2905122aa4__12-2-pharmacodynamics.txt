@@ -1,0 +1,13 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 12.2 Pharmacodynamics
+
+Sugammadex Injection has been administered in doses ranging from 0.5 mg/kg to 16 mg/kg in dose response trials of rocuronium-induced blockade (0.6, 0.9, 1 and 1.2 mg/kg with and without maintenance doses) and vecuronium-induced blockade (0.1 mg/kg with or without maintenance doses) at different time points/depths of block. In these trials a clear dose-response relationship was observed.
+
+                        Sugammadex Injection may contain up to 7% of the mono OH-derivative of sugammadex. In preclinical pharmacology studies, the mono OH-derivative was demonstrated to have ~50% of the affinity as sugammadex for rocuronium and vecuronium and that product with up to 7% of the mono OH-derivative has nearly similar efficacy in reversing rocuronium- or vecuronium-induced blockade.
+
+                        Although sugammadex has greatest affinity for aminosteroid neuromuscular blocking agents such as rocuronium and vecuronium, plasma levels of endogenous or exogenous compounds with a similar steroidal structure, such as some hormones, hormonal contraceptives, and pheromones may also be reduced following administration of sugammadex
+
+  [see Drug Interactions (7.3)].
+
+                           Cardiac Electrophysiology
+
+                        At a dose 2 times the maximum recommended dose, sugammadex does not prolong the QTc interval to any clinically relevant extent.

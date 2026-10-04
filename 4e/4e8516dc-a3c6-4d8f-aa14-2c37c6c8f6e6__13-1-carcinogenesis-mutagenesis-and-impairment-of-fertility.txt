@@ -1,0 +1,15 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 13.1 Carcinogenesis, Mutagenesis and Impairment of Fertility
+
+Carcinogenesis
+
+                        In male and female Fischer 344 rats given oral isotretinoin at dosages of 8 or 32 mg/kg/day (1.3 or 5.3 times the recommended clinical isotretinoin dosage of 1 mg/kg/day, after normalization for total body surface area) for greater than 18 months, there was a dose-related increased incidence of pheochromocytoma relative to controls. The incidence of adrenal medullary hyperplasia was also increased at the higher dosage in both sexes. The relatively high level of spontaneous pheochromocytomas occurring in the male Fischer 344 rat makes it an equivocal model for study of this tumor; therefore, the relevance of this tumor to humans is uncertain.
+
+                           Mutagenesis
+
+                        The Ames test was conducted with isotretinoin in two laboratories. The results of the tests in one laboratory were negative, while in the second laboratory, a weakly positive response (less than 1.6 times background) was noted in S. typhimurium TA100 when the assay was conducted with metabolic activation. No dose response effect was seen, and all other strains were negative. Additionally, other tests designed to assess genotoxicity (Chinese hamster cell assay, mouse micronucleus test, S. cerevisiae D7 assay, in vitro clastogenesis assay with human-derived lymphocytes, and unscheduled DNA synthesis assay) were all negative.
+
+                           Impairment of Fertility
+
+                        In rats, no adverse effects on gonadal function, fertility, conception rate, gestation or parturition were observed at oral dosages of isotretinoin of 2, 8, or 32 mg/kg/day (0.3, 1.3, or 5.3 times the recommended clinical isotretinoin dosage of 1 mg/kg/day, after normalization for total body surface area).
+
+                        In dogs, testicular atrophy was noted after treatment with oral isotretinoin for approximately 30 weeks at dosages of 20 or 60 mg/kg/day (10 or 30 times the recommended clinical isotretinoin dosage of 1 mg/kg/day, after normalization for total body surface area). In general, there was microscopic evidence for appreciable depression of spermatogenesis, but some sperm were observed in all testes examined, and in no instance were completely atrophic tubules seen.

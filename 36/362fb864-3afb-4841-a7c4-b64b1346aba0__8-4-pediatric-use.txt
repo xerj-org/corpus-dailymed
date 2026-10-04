@@ -1,0 +1,66 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 8.4 Pediatric Use
+
+Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species. [see
+                           Warnings and Precautions (5.12) and Animal Toxicology and/or Pharmacology (13.2)].
+
+                           Pharmacokinetics following intravenous administration
+
+                        The pharmacokinetics of levofloxacin following a single intravenous dose were investigated in pediatric patients ranging in age from six months to 16 years. Pediatric patients cleared levofloxacin faster than adult patients resulting in lower plasma exposures than adults for a given mg/kg dose [see Clinical Pharmacology (12.3) and Clinical Studies (14.9)].
+
+                           Inhalational Anthrax (Post-Exposure)
+
+                        Levofloxacin is indicated in pediatric patients 6 months of age and older, for inhalational anthrax (post-exposure). The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate. The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied [see
+                           Indications and Usage (1.7), Dosage and Administration (2.2) and Clinical Studies (14.9)].
+
+                           Plague
+
+                        Levofloxacin is indicated in pediatric patients, 6 months of age and older, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague. Efficacy studies of levofloxacin could not be conducted in humans with pneumonic plague for ethical and feasibility reasons. Therefore, approval of this indication was based on an efficacy study conducted in animals. The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.10)].
+
+                        Safety and effectiveness in pediatric patients below the age of six months have not been established.
+
+                           Adverse Events
+
+                        In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral and intravenous levofloxacin. Children 6 months to 5 years of age received levofloxacin 10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
+
+                        A subset of children in the clinical trials (1340 levofloxacin-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the study drug. Children treated with levofloxacin had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 7.
+
+                           Table 7: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
+
+                                  Follow-up Period
+                                  |
+                                  Levofloxacin
+
+                                     N = 1340
+                                  |
+                                  Non-Fluoroquinolone*
+
+                                    N = 893
+                                  |
+                                  p-value†
+
+                                  |
+
+                                  60 days
+                                  |
+                                  28 (2.1%) |
+                                  8 (0.9%) |
+                                  p = 0.038 |
+
+                                  1 year‡
+
+                                  |
+                                  46 (3.4%) |
+                                  16 (1.8%) |
+                                  p = 0.025 |
+
+                        * Non-Fluoroquinolone: ceftriaxone, amoxicillin/clavulanate, clarithromycin
+
+                        † 2-sided Fisher’s Exact Test
+
+                        ‡ There were 1199 levofloxacin-treated and 804 non-fluoroquinolone-treated children who had a one-year evaluation visit. However, the incidence of musculoskeletal disorders was calculated using all reported events during the specified period for all children enrolled regardless of whether they completed the 1-year evaluation visit.
+
+                        Arthralgia was the most frequently occurring musculoskeletal disorder in both treatment groups. Most of the musculoskeletal disorders in both groups involved multiple weight-bearing joints. Disorders were moderate in 8/46 (17%) children and mild in 35/46 (76%) levofloxacin-treated children and most were treated with analgesics. The median time to resolution was 7 days for levofloxacin-treated children and 9 for non-fluoroquinolone-treated children (approximately 80% resolved within 2 months in both groups). No child had a severe or serious disorder and all musculoskeletal disorders resolved without sequelae.
+
+                        Vomiting and diarrhea were the most frequently reported adverse events, occurring in similar frequency in the levofloxacin-treated and non-fluoroquinolone-treated children.
+
+                        In addition to the events reported in pediatric patients in clinical trials, events reported in adults during clinical trials or post-marketing experience [see Adverse Reactions (6)] may also be expected to occur in pediatric patients.

@@ -1,0 +1,9 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 5.2 Retinal Toxicity
+
+Irreversible retinal damage was observed in some patients treated with hydroxychloroquine sulfate and it is related to cumulative dosage and treatment duration. In patients of Asian descent, retinal toxicity may first be noticed outside the macula.
+
+                        Risk factors for retinal damage include daily hydroxychloroquine sulfate dosages ≥5 mg/kg of actual body weight, durations of use greater than five years, renal impairment, use of concomitant drug products such as tamoxifen citrate, and concurrent macular disease.
+
+                        Within the first year of starting hydroxychloroquine sulfate tablets, a baseline ocular examination is recommended including best corrected distance visual acuity (BCVA), an automated threshold visual field (VF) of the central 10 degrees (with retesting if an abnormality is noted), and spectral domain ocular coherence tomography (SD-OCT).  For patients at higher risk of retinal damage, monitoring should include annual examinations which include BCVA, VF and SD-OCT. For patients without significant risk factors, annual retinal exams can usually be deferred until five years of treatment. In patients of Asian descent, it is recommended that visual field testing be performed in the central 24 degrees instead of the central 10 degrees.
+
+                        If ocular toxicity is suspected, discontinue hydroxychloroquine sulfate tablets and monitor the patient closely given that retinal changes and visual disturbances may progress even after cessation of therapy.

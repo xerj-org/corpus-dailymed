@@ -1,0 +1,25 @@
+DailyMed 1fe39679-fd58-4d2c-ba61-49d492a2b087 | ACETAMINOPHEN AND CODEINE PHOSPHATE | Pediatric Use
+
+The safety and effectiveness of acetaminophen and codeine phosphate tablets with Codeine in pediatric patients below the age of 18have not been established. 
+
+  Life-threatening respiratory depression and death have occurred in children who received codeine (see
+
+                              WARNINGS
+                           ). In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for CYP2D6 or high morphine concentrations). Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine.
+
+                        Because of the risk of life-threatening respiratory depression and death:
+
+  • Acetaminophen and codeine phosphate tablets are contraindicated for all children younger than 12 years of age (see
+
+                              CONTRAINDICATIONS
+                           ).
+
+  • Acetaminophen and codeine phosphate tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see
+
+                              CONTRAINDICATIONS
+                           ).
+
+  • Avoid the use of acetaminophen and codeine phosphate tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks. Risk factors include conditions associated with hypoventilation, such as post-operative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression (see
+
+                              WARNINGS
+                           ).

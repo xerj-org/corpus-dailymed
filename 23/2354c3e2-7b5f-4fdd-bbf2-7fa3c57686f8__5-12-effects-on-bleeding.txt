@@ -1,0 +1,3 @@
+DailyMed 2354c3e2-7b5f-4fdd-bbf2-7fa3c57686f8 | Tadalafil | 5.12 Effects on Bleeding
+
+Studies in vitro have demonstrated that tadalafil is a selective inhibitor of PDE5. PDE5 is found in platelets. When administered in combination with aspirin, tadalafil 20 mg did not prolong bleeding time, relative to aspirin alone. Tadalafil has not been administered to patients with bleeding disorders or significant active peptic ulceration. Although tadalafil has not been shown to increase bleeding times in healthy subjects, use in patients with bleeding disorders or significant active peptic ulceration should be based upon a careful risk-benefit assessment and caution.

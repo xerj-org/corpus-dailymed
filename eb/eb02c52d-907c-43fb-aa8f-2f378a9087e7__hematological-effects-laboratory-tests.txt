@@ -1,0 +1,9 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Hematological Effects/Laboratory Tests
+
+Complete blood cell counts should be checked periodically if patients are given prolonged therapy (see
+                              ADVERSE REACTIONS
+                           ).
+
+                        Chloroquine may cause hemolysis in glucose-6 phosphate dehydrogenase (G-6-PD) deficiency. Blood monitoring may be needed as hemolytic anemia may occur, in particular in association with other drugs that cause hemolysis (see
+                              ADVERSE REACTIONS
+                           ).

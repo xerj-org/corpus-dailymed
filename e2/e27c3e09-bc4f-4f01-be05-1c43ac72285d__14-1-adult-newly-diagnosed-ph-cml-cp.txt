@@ -1,0 +1,141 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 14.1 Adult Newly Diagnosed Ph+ CML-CP
+
+The ENESTnd (Evaluating Nilotinib Efficacy and Safety in clinical Trials-Newly Diagnosed patients) study (NCT00471497) was an open-label, multicenter, randomized trial conducted to determine the efficacy of nilotinib versus imatinib tablets in adult patients with cytogenetically confirmed newly diagnosed Ph+ CML-CP. Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide. Efficacy was based on a total of 846 patients: 283 patients in the imatinib 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group (an unapproved dosage regimen for this indication). 
+
+                         
+
+                        Median age was 46 years in the imatinib group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively. There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively). More than 60% of all patients were White, and 25% were Asian.
+
+                         
+
+                        The primary data analysis was performed when all 846 patients completed 12 months of treatment (or discontinued earlier). Subsequent analyses were done when patients completed 24, 36, 48, and 60 months of treatment (or discontinued earlier). The median time on treatment was approximately 61 months in all three treatment groups.
+
+                         
+
+                        The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication. MMR was defined as less than or equal to 0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a greater than or equal to 3 log reduction of BCR-ABL transcript from standardized baseline. Efficacy endpoints are summarized in Table 12.
+
+                         
+
+                        Two patients in the nilotinib arm progressed to either accelerated phase or blast crisis (both within the first 6 months of treatment) while 12 patients on the imatinib arm progressed to either accelerated phase or blast crisis (7 patients within first 6 months, 2 patients within 6 to 12 months, 2 patients within 12 to 18 months and 1 patient within 18 to 24 months).
+
+                         
+
+                           Table 12: Efficacy (MMR and CCyR) of Nilotinib Compared to imatinib in Adult Newly Diagnosed Ph+ CML-CP (ENESTnd)
+
+                                     
+
+                                  |
+
+                                    Nilotinib 300 mg twice daily
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Imatinib 400 mg once daily
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       N = 282
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       N = 283
+
+                                  |
+
+                                    MMR at 12 months (95% CI)
+
+                                  |
+
+                                    44% (38.4, 50.3)
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    22% (17.6, 27.6)
+
+                                  |
+
+                                    P-Valuea  
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    < 0.0001
+
+                                  |
+
+                                    CCyRb by 12 months (95% CI)
+
+                                  |
+
+                                    80% (75.0, 84.6)
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    65% (59.2, 70.6)
+
+                                  |
+
+                                    MMR at 24 months (95% CI)
+
+                                  |
+
+                                    62% (55.8, 67.4)
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    38% (31.8, 43.4)
+
+                                  |
+
+                                    CCyRb by 24 months (95% CI)
+
+                                  |
+
+                                    87% (82.4, 90.6)
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    77% (71.7, 81.8)
+
+                                  |
+
+                        Abbreviation: CI, confidence interval. 
+
+                           a CMH test stratified by Sokal risk group.
+
+                           b CCyR: 0% Ph+ metaphases. Cytogenetic responses were based on the percentage of Ph+ metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample.  
+
+                         
+
+                        By the 60 months, MMR was achieved by 77% of patients on nilotinib and 60% of patients on imatinib; MR4.5 was achieved by 53.5% of patients on nilotinib and 31.4% on imatinib. Median overall survival was not reached in either arm. At the time of the 60-month final analysis, the estimated survival rate was 93.7% for patients on nilotinib and 91.7% for patients on imatinib.

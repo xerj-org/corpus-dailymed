@@ -1,0 +1,11 @@
+DailyMed 4ddf5a4d-8e84-419d-8e3a-c91b85501885 | Meloxicam | 8.2 Lactation
+
+Risk Summary
+
+                        There are no human data available on whether meloxicam is present in human milk, or on the effects on breastfed infants, or on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for meloxicam oral suspension and any potential adverse effects on the breastfed infant from the meloxicam oral suspension or from the underlying maternal condition.
+
+                           Data
+
+                           Animal Data
+
+                        Meloxicam was present in the milk of lactating rats at concentrations higher than those in plasma.

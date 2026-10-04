@@ -1,0 +1,98 @@
+DailyMed 7c22a2d6-821c-4f83-aead-e756aed930e5 | Naproxen Sodium | 12.3 Pharmacokinetics
+
+Although naproxen itself is well absorbed, the sodium salt form is more rapidly absorbed, resulting in higher peak plasma levels for a given dose. Approximately 30% of the total naproxen sodium dose in Naproxen Sodium Controlled-Release Tablets is present in the dosage form as an immediate release component. The remaining naproxen sodium is coated as microparticles to provide sustained release properties. After oral administration, plasma levels of naproxen are detected within 30 minutes of dosing, with peak plasma levels occurring approximately 5 hours after dosing. The observed terminal elimination half-life of naproxen from both immediate release naproxen sodium and Naproxen Sodium Controlled-Release Tablets is approximately 15 hours. Steady state levels of naproxen are achieved in 3 days and the degree of naproxen accumulation in the blood is consistent with this.
+
+                           Plasma Naproxen Concentrations Mean of 24 Subjects (+/-2SD) (Steady State, Day 5)
+
+                           Pharmacokinetic Parameters at Steady State Day 5 (Mean of 24 Subjects)
+
+                                 Parameter
+
+(units) |
+                                 naproxen 500 mg
+
+Q12h/5 days (1000 mg) |
+                                 Naproxen Sodium Controlled-Release 2 x 500 mg tablets
+
+(1000 mg) Q24h/5 days |
+
+                                  |
+                                 Mean |
+                                 SD |
+                                 Range |
+                                 Mean |
+                                 SD |
+                                 Range |
+
+                                 AUC 0-24
+
+(mcgxh/mL) |
+                                 1446 |
+                                 168 |
+                                 1167 - 1858 |
+                                 1448 |
+                                 145 |
+                                 1173 - 1774 |
+
+                                 Cmax(mcg/mL) |
+                                 95 |
+                                 13 |
+                                 71 - 117 |
+                                 94 |
+                                 13 |
+                                 74 - 127 |
+
+                                 Cavg(mcg/mL) |
+                                 60 |
+                                 7 |
+                                 49 - 77 |
+                                 60 |
+                                 6 |
+                                 49 - 74 |
+
+                                 Cmin(mcg/mL) |
+                                 36 |
+                                 9 |
+                                 13 - 51 |
+                                 33 |
+                                 7 |
+                                 23 - 48 |
+
+                                 Tmax(hrs) |
+                                 3 |
+                                 1 |
+                                 1 - 4 |
+                                 5 |
+                                 2 |
+                                 2-10 |
+
+                           AbsorptionNaproxen itself is rapidly and completely absorbed from the GI tract with an in vivo bioavailability of 95%. Based on the pharmacokinetic profile, the absorption phase of Naproxen Sodium Controlled-Release Tablets occurs in the first 4 to 6 hours after administration. This coincides with disintegration of the tablet in the stomach, the transit of the sustained release microparticles through the small intestine and into the proximal large intestine. An in vivo imaging study has been performed in healthy volunteers that confirms rapid disintegration of the tablet matrix and dispersion of the microparticles.
+
+                        The absorption rate from the sustained release particulate component of Naproxen Sodium Controlled-Release Tablets is slower than that for conventional naproxen sodium tablets. It is this prolongation of drug absorption processes that maintains plasma levels and allows for once daily dosing.
+
+                           Food EffectsNo significant food effects were observed when twenty-four subjects were given a single dose of Naproxen Sodium Controlled-Release Tablets 500 mg either after an overnight fast or 30 minutes after a meal. In common with conventional naproxen and naproxen sodium formulations, food causes a slight decrease in the rate of naproxen absorption following Naproxen Sodium Controlled-Release Tablets administration.
+
+                           DistributionNaproxen has a volume of distribution of 0.16 L/kg. At therapeutic levels, naproxen is greater than 99% albumin-bound. At doses of naproxen greater than 500 mg/day, there is a less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses. However the concentration of unbound naproxen continues to increase proportionally to dose. Naproxen Sodium Controlled-Release Tablets exhibit similar dose proportional characteristics.
+
+                           Elimination
+                           MetabolismNaproxen is extensively metabolized to 6-0-desmethyl naproxen and both parent and metabolites do not induce metabolizing enzymes.
+
+                           ExcretionThe elimination half-life of Naproxen Sodium Controlled-Release Tablets and conventional naproxen is approximately 15 hours. Steady state conditions are attained after 2 to 3 doses of Naproxen Sodium Controlled-Release Tablets. Most of the drug is excreted in the urine, primarily as unchanged naproxen (less than 1%), 6-0-desmethyl naproxen (less than 1%) and their glucuronide or other conjugates (66 to 92%). A small amount (<5%) of the drug is excreted in the feces. The rate of excretion has been found to coincide closely with the rate of clearance from the plasma. In patients with renal failure, metabolites may accumulate.
+
+                           Specific Populations
+
+                           Pediatric:
+
+No pediatric studies have been performed with Naproxen Sodium Controlled-Release Tablets, thus safety of Naproxen Sodium Controlled-Release Tablets in pediatric populations has not been established.
+
+                           Hepatic Impairment:
+
+Chronic alcoholic liver disease and probably other diseases with decreased or abnormal plasma proteins (albumin) reduce the total plasma concentration of naproxen, but the plasma concentration of unbound naproxen is increased. Caution is advised when high doses are required and some adjustment of dosage may be required in these patients. It is prudent to use the lowest effective dose.
+
+                           Renal Impairment:
+
+Naproxen pharmacokinetics have not been determined in subjects with renal insufficiency. Given that naproxen is metabolized and conjugates are primarily excreted by the kidneys, the potential exists for naproxen metabolites to accumulate in the presence of renal insufficiency. Elimination of naproxen is decreased in patients with severe renal impairment. Naproxen-containing products are not recommended for use in patients with moderate to severe and severe renal impairment (creatinine clearance <30mL/min) [see Warnings and Precautions (5.6)].
+
+                           Drug Interaction Studies
+
+                           Aspirin:  When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered. The clinical significance of this interaction is not known. See Table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].

@@ -1,0 +1,5 @@
+DailyMed a7b8ea07-e926-f0a5-c20d-92f23ed350d0 | Hydrocodone Bitartrate | 5.14 Withdrawal
+
+Do not rapidly reduce or abruptly discontinue hydrocodone bitartrate extended-release capsules in a patient physically dependent on opioids. When discontinuing hydrocodone bitartrate extended-release capsules in a physically dependent patient, gradually taper the dosage. Rapid tapering of hydrocodone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
+
+                        Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydrocodone bitartrate extended-release capsules. In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].

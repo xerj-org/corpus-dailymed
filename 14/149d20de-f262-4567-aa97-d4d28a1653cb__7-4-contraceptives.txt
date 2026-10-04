@@ -1,0 +1,7 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 7.4 Contraceptives
+
+The possibility of decreased contraceptive efficacy and increased breakthrough bleeding may occur in patients taking contraceptive products with topiramate. Patients taking estrogen-containing or progestin-only contraceptives should be asked to report any change in their bleeding patterns. Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding
+
+  [see Clinical Pharmacology (
+
+   12.3)].

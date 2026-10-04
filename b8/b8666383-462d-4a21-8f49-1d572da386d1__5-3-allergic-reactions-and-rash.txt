@@ -1,0 +1,13 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 5.3 Allergic Reactions and Rash
+
+In U.S. fluoxetine clinical trials, 7% of 10,782 patients developed various types of rashes and/or urticaria. Among the cases of rash and/or urticaria reported in premarketing clinical trials, almost a third were withdrawn from treatment because of the rash and/or systemic signs or symptoms associated with the rash. Clinical findings reported in association with rash include fever, leukocytosis, arthralgias, edema, carpal tunnel syndrome, respiratory distress, lymphadenopathy, proteinuria, and mild transaminase elevation. Most patients improved promptly with discontinuation of fluoxetine and/or adjunctive treatment with antihistamines or steroids, and all patients experiencing these reactions were reported to recover completely.
+
+  In premarketing clinical trials, 2 patients are known to have developed a serious cutaneous systemic illness. In neither patient was there an unequivocal diagnosis, but one was considered to have a leukocytoclastic vasculitis, and the other, a severe desquamating syndrome that was considered variously to be a vasculitis or erythema multiforme. Other patients have had systemic syndromes suggestive of serum sickness.
+
+  Since the introduction of fluoxetine, systemic reactions, possibly related to vasculitis and including lupus-like syndrome, have developed in patients with rash. Although these reactions are rare, they may be serious, involving the lung, kidney, or liver. Death has been reported to occur in association with these systemic reactions.
+
+  Anaphylactoid reactions, including bronchospasm, angioedema, laryngospasm, and urticaria alone and in combination, have been reported.
+
+  Pulmonary reactions, including inflammatory processes of varying histopathology and/or fibrosis, have been reported rarely. These reactions have occurred with dyspnea as the only preceding symptom.
+
+  Whether these systemic reactions and rash have a common underlying cause or are due to different etiologies or pathogenic processes is not known. Furthermore, a specific underlying immunologic basis for these reactions has not been identified. Upon the appearance of rash or of other possibly allergic phenomena for which an alternative etiology cannot be identified, fluoxetine should be discontinued.

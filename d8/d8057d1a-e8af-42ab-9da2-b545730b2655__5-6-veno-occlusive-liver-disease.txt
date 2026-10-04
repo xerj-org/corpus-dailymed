@@ -1,0 +1,3 @@
+DailyMed d8057d1a-e8af-42ab-9da2-b545730b2655 | Cyclophosphamide | 5.6 Veno-occlusive Liver Disease
+
+Veno-occlusive liver disease (VOD) including fatal outcome has been reported in patients receiving cyclophosphamide ­containing regimens. A cytoreductive regimen in preparation for bone marrow transplantation that consists of cyclophosphamide in combination with whole-body irradiation, busulfan, or other agents has been identified as a major risk factor. VOD has also been reported to develop gradually in patients receiving long-term low-dose immunosuppressive doses of cyclophosphamide. Other risk factors predisposing to the development of VOD include preexisting disturbances of hepatic function, previous radiation therapy of the abdomen, and a low performance status.

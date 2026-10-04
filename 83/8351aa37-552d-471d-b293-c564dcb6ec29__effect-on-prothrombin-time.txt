@@ -1,0 +1,7 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Effect on Prothrombin Time
+
+Alterations in prothrombin times have occurred in patients treated with ceftriaxone. Monitor prothrombin time during ceftriaxone treatment in patients with impaired vitamin K synthesis or low vitamin K stores (e.g., chronic hepatic disease and malnutrition). Vitamin K administration (10 mg weekly) may be necessary if the prothrombin time is prolonged before or during therapy.
+
+                        Concomitant use of ceftriaxone with Vitamin K antagonists may increase the risk of bleeding. Coagulation parameters should be monitored frequently, and the dose of the anticoagulant adjusted accordingly, both during and after treatment with ceftriaxone (see
+                              ADVERSE REACTIONS
+                           ).

@@ -1,0 +1,206 @@
+DailyMed a50eb0b4-1bee-4781-8eba-75e324540d36 | Ticagrelor | 14.2 Coronary Artery Disease but No Prior Stroke or Myocardial Infarction
+
+THEMIS
+
+  The THEMIS study (NCT01991795) was a double-blind, parallel group, study in which 19,220 patients with CAD and Type 2 Diabetes Mellitus (T2DM) but no history of MI or stroke were randomized to twice daily ticagrelor or placebo, on a background of 75 to 150 mg of aspirin. The primary endpoint was the composite of first occurrence of CV death, MI, and stroke. CV death, MI, ischemic stroke, and all-cause death were assessed as secondary endpoints.
+
+                        Patients were eligible to participate if they were ≥50 years old with CAD, defined as a history of PCI or CABG, or angiographic evidence of ≥50% lumen stenosis of at least 1 coronary artery and T2DM treated for at least 6 months with glucose-lowering medication. Patients with previous intracerebral hemorrhage, gastrointestinal bleeding within the past 6 months, known bleeding diathesis, and coagulation disorder were excluded. Patients taking anticoagulants or ADP receptor antagonists were excluded from participating, and patients who developed an indication for those medications during the trial were discontinued from study drug.
+
+                        Patients were treated for a median of 33 months and up to 58 months.
+
+                        Patients were predominantly male (69%) with a mean age of 66 years. At baseline, 80% had a history of coronary artery revascularization; 58% had undergone PCI, 29% had undergone a CABG and 7% had undergone both. The proportion of patients studied in the US was 12%. Patients in THEMIS had established CAD and other risk factors that put them at higher cardiovascular risk.
+
+                        Ticagrelor was superior to placebo in reducing the incidence of CV death, MI, or stroke. The effect on the composite endpoint was driven by the individual components MI and stroke; see Table 9.
+
+                           Table 9 – Primary composite endpoint, primary endpoint components, and secondary endpoints (THEMIS)
+
+                                  |
+
+                                       Ticagrelor
+
+                                       N=9,619
+
+                                  |
+
+                                       Placebo
+
+                                       N=9,601
+
+                                  |
+
+                                       HR (95% CI)
+
+                                  |
+
+                                       p-value
+
+                                  |
+
+                                       Events / 1,000 patient years
+
+                                  |
+
+                                       Events / 1,000 patient years
+
+                                  |
+
+                                    Time to first CV death, MI, or stroke
+
+      Primary endpoint
+
+                                  |
+
+                                    24
+
+                                  |
+
+                                    27
+
+                                  |
+
+                                    0.90 (0.81, 0.99)
+
+                                  |
+
+                                    0.04
+
+                                  |
+
+                                    CV death
+
+      The event rate for the components CV death, MI and stroke are calculated from the actual number of first events for each component.
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    1.02 (0.88, 1.18)
+
+                                  |
+                                  |
+
+                                    Myocardial infarction
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    0.84 (0.71, 0.98)
+
+                                  |
+                                  |
+
+                                    Stroke
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    0.82 (0.67, 0.99)
+
+                                  |
+                                  |
+
+                                    Secondary endpoints
+
+                                  |
+
+                                    CV death
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    1.02 (0.88, 1.18)
+
+                                  |
+                                  |
+
+                                    Myocardial infarction
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    0.84 (0.71, 0.98)
+
+                                  |
+                                  |
+
+                                    Ischemic stroke
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    0.80 (0.64, 0.99)
+
+                                  |
+                                  |
+
+                                    All-cause death
+
+                                  |
+
+                                    18
+
+                                  |
+
+                                    19
+
+                                  |
+
+                                    0.98 (0.87, 1.10)
+
+                                  |
+                                  |
+
+                        CI = Confidence interval; CV = Cardiovascular; HR = Hazard ratio; MI = Myocardial infarction.
+
+                        The Kaplan-Meier curve (Figure 15) shows time to first occurrence of the primary composite endpoint of CV death, MI, or stroke.
+
+                           Figure 15 - Time to First Occurrence of CV death, MI or Stroke (THEMIS)
+
+                        T = Ticagrelor; P = Placebo; N = Number of patients.
+
+                        The treatment effect of ticagrelor appeared similar across patient subgroups, see Figure 16.
+
+                           Figure 16 –Subgroup analyses of ticagrelor (THEMIS)
+
+                        Note: The figure above presents effects in various subgroups all of which are baseline characteristics. The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.

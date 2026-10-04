@@ -1,0 +1,61 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 12.3 Pharmacokinetics
+
+For an equivalent dose, PREXXARTAN™ has 86% higher peak concentration (C
+  max) and 25% higher area under the plasma concentration over time curve (AUC) for valsartan compared to Diovan. AUC and Cmax of valsartan increase approximately linearly with increasing dose over the clinical dosing range. Valsartan does not accumulate appreciably in plasma following repeated administration.
+
+                           Absorption
+
+                        PREXXARTAN™ C
+  max is achieved 0.7 to 3.7 hours after dosing.
+
+                           Effect of Food
+
+                        High-fat, high-calorie meal decreased the AUC of PREXXARTAN™by about 8% and C
+  max by about 44%.
+
+                           Distribution:
+
+                        The steady state volume of distribution of valsartan after intravenous administration is small (17 L), indicating that valsartan does not distribute into tissues extensively. Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
+
+                           Elimination
+
+                        Following intravenous administration, plasma clearance of valsartan is about 2 L/h. Renal clearance of valsartan is 0.62 L/h (about 30% of total body clearance). Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
+
+                           Metabolism:
+
+                        The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan. In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan. Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations. CYP 450 mediated drug interaction between valsartan and co-administered drugs are unlikely because of the low extent of metabolism.
+
+                           Excretion
+
+                        Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose). The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
+
+                        Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
+
+The apparent clearance of valsartan following oral administration is approximately 4.5 L/h in heart failure patients. Age does not affect the apparent clearance in heart failure patients.
+
+                           Specific Populations:
+
+                           Geriatric Patients: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young
+  [see
+   Use in Specific Populations (8.5)].
+
+                           Pediatric Patients: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+
+                           Male and Female Patients: Pharmacokinetics of valsartan does not differ significantly between males and females.
+
+Patients with Renal Impairment: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment (down to creatinine clearance of 10 mL/min). Valsartan is not removed from the plasma by hemodialysis.
+  [see
+   Use in Specific Populations (8.6)].
+
+                           Patients with Hepatic Impairment: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight)
+   [see
+   Use in Specific Populations (8.7)].
+
+                           Drug Interaction Studies
+
+                        No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with nebivolol, amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin. The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
+
+                        Co-administration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
+
+                           Transporters: The results from an
+  in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2. Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.

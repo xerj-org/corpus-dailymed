@@ -1,0 +1,13 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        There is insufficient evidence regarding the carcinogenicity of chloroquine in experimental animals.
+
+                        Mutagenesis
+
+                        Chloroquine is reported in the literature to be a weak genotoxic agent which may elicit both gene mutations and chromosomal/DNA breaks. Mechanisms may involve DNA intercalation or induction of oxidative stress. The publications reported both positive and negative results in the in vitro reverse gene mutation assays using bacteria (Ames test) and in the in vivo studies using rodents (mouse bone marrow cell sister chromatid exchange, mouse bone marrow cell chromosome abnormality, and rat DNA strand breaks in multiple organs when animals were dosed by intraperitoneal route). Those chromosomal effects were not observed when chloroquine was administered in animals orally (i.e. the therapeutic route of administration). Altogether those cellular and rodent data show evidence of genotoxic potential but discrepancies have been noted between published data.
+
+                        Fertility
+
+                        A study in male rats after 30 days of oral treatment at 5 mg/day of chloroquine showed a decrease in testosterone levels, weight of testes, epididymis, seminal vesicles, and prostate. Untreated female rats had reduced number of fetuses after mating with males that received intraperitoneal injections of 10 mg/kg chloroquine for 14 days.

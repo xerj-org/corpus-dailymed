@@ -1,0 +1,11 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 8.2 Lactation
+
+Risk Summary
+
+                        There are no data on the presence of deuruxolitinib in human milk, the effects on the breast-fed infant, or the effects on milk production. Deuruxolitinib was present in the milk of lactating rats (see Data). When a drug is present in animal milk, it is likely that the drug will be present in human milk. Because of the potential for serious adverse reactions in nursing infants, advise women not to breastfeed during treatment with LEQSELVI and for one day after the last dose (approximately 5 to 6 elimination half-lives).
+
+                           Data
+
+                           Animal Data
+
+                        Following a single oral dose of 10 mg/kg administered to lactating rats on lactation day 14, deuruxolitinib concentrations were up to 20 times higher in milk than in plasma.

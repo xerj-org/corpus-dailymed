@@ -1,0 +1,5 @@
+DailyMed 64ef2286-0f56-4a8a-b07b-4a597f078ae0 | Oxistat | Pregnancy
+
+Teratogenic Effects
+
+                        Reproduction studies have been performed in rabbits, rats, and mice at oral doses up to 100, 150, and 200 mg/kg/day (57, 40, and 27 times the human dose based on mg/m2), respectively, and revealed no evidence of harm to the fetus due to oxiconazole nitrate. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

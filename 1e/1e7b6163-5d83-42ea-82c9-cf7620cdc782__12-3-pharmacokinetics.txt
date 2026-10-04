@@ -1,0 +1,56 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 12.3 Pharmacokinetics
+
+Tarlatamab-dlle pharmacokinetic data in patients with SCLC at the approved recommended dosage are presented as mean (CV%) unless otherwise specified. The exposure of tarlatamab-dlle increases in a dose proportional manner over the dosage range of 1 mg to 100 mg (10 times the highest approved recommended dosage) every 2 weeks. Tarlatamab-dlle steady state is achieved by Cycle 2 Day 15. Pharmacokinetic parameters are summarized for the recommended dosage of IMDELLTRA in Table 17.
+
+                           Table 17. Pharmacokinetic Parameters of Tarlatamab-dlle
+
+                                  |
+                                 Parameter |
+
+                                  |
+                                 Cavg
+
+(ng/mL) |
+                                 Cmax
+
+(ng/mL) |
+                                 Ctrough
+
+(ng/mL) |
+
+                                 First step-up dose 1 mg |
+                                 106 (26%) |
+                                 314 (35%) |
+                                 49 (35%) |
+
+                                 First treatment dose 10 mg |
+                                 1,100 (26%) |
+                                 3,190 (35%) |
+                                 517 (36%) |
+
+                                 Steady state 10 mg every 2 weeks |
+                                 1,040 (37%) |
+                                 3,640 (35%) |
+                                 472 (62%) |
+
+                           Distribution
+
+                        Tarlatamab-dlle steady state volume of distribution is 8.5 L (33%).
+
+                           Metabolism
+
+                        Tarlatamab-dlle is expected to be metabolized into small peptides by catabolic pathways.
+
+                           Elimination
+
+                        Tarlatamab-dlle terminal elimination half-life is 11 days (31%) with an estimated systemic clearance of 0.7 L/day (34%).
+
+                           Specific Populations
+
+                        No clinically significant differences in the pharmacokinetics of tarlatamab-dlle were observed based on age (20 to 86 years), body weight (35 to 149 kg), sex, race (68% White and 27% Asian), mild or moderate renal impairment (eGFR 30 to < 90 mL/min), or mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST > ULN).
+
+                        The effects of severe renal impairment (eGFR 15 to < 30 mL/min), end-stage renal disease (eGFR <15 mL/min), or moderate to severe hepatic impairment (total bilirubin > 1.5 × ULN and any AST) on the pharmacokinetics of tarlatamab-dlle are unknown.
+
+                           Effects of Tarlatamab-dlle on CYP450 Substrates
+
+                        Tarlatamab-dlle causes transient release of cytokines that may suppress CYP450 enzymes and may result in an increased exposure of concomitant CYP substrates during and up to 14 days after occurrence of cytokine release syndrome [see Clinical Pharmacology (12.2)].

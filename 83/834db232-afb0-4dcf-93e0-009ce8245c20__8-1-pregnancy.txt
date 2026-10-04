@@ -1,0 +1,19 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to UPLIZNA during pregnancy or shortly before conception. Healthcare providers are encouraged to advise their patients to register by contacting the UPLIZNA Pregnancy Registry by calling the coordinating center at 1 (303) 724-4644 or www.upliznapregnancyregistry.com.
+
+                           Risk Summary
+
+                        UPLIZNA is a humanized IgG1 monoclonal antibody and immunoglobulins are known to cross the placental barrier. There are no adequate data on the developmental risk associated with the use of UPLIZNA in pregnant women. However, transient peripheral B-cell depletion and lymphocytopenia have been reported in infants born to mothers exposed to other B-cell depleting antibodies during pregnancy. B-cell levels in infants following maternal exposure to UPLIZNA have not been studied in clinical trials. The potential duration of B-cell depletion in such infants, and the impact of B-cell depletion on vaccine safety and effectiveness, is unknown [see Warnings and Precautions (5.2)].
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Intravenous administration of inebilizumab-cdon (0, 3, or 30 mg/kg/week) to human CD19 transgenic (huCD19 Tg) male and female mice prior to and during mating and continuing in females through gestation day 15 resulted in no adverse effects on embryofetal development; however, there was a marked reduction in B-cells in fetal blood and liver at both doses tested. These results demonstrate that inebilizumab-cdon crosses the placenta and depletes B-cells in the fetus.
+
+                        Intravenous administration of inebilizumab-cdon (0, 3, or 30 mg/kg) to huCD19 Tg mice every three days throughout organogenesis and lactation resulted in depletion of B-cells and persistent reductions in immune function (even following repletion of B-cells and lasting into adulthood) in offspring at both doses tested. At the end of the lactation period, plasma inebilizumab-cdon levels in offspring were only slightly lower than those in maternal plasma. A no-effect level for immunotoxicity in the offspring was not identified.

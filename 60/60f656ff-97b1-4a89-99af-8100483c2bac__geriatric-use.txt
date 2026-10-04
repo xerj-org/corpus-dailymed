@@ -1,0 +1,5 @@
+DailyMed 60f656ff-97b1-4a89-99af-8100483c2bac | Acetazolamide | Geriatric Use
+
+Metabolic acidosis, which can be severe, may occur in the elderly with reduced renal function.
+
+                        Clinical studies of acetazolamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

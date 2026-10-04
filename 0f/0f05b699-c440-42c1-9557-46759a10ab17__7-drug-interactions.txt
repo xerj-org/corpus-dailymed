@@ -1,0 +1,3 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 7 DRUG INTERACTIONS
+
+There are no known drug-drug interactions. Although, fulvestrant is metabolized by CYP 3A4 in vitro, drug interactions studies with ketoconazole or rifampin did not alter fulvestrant pharmacokinetics. Dose adjustment is not needed in patients co-prescribed CYP 3A4 inhibitors or inducers [see Clinical Pharmacology (12.3)].

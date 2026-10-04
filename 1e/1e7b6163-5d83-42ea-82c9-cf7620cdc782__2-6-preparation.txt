@@ -1,0 +1,140 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 2.6 Preparation
+
+Material Compatibility Information
+
+                           IV bags composed of ethyl vinyl acetate (EVA), polyolefin, and polyvinyl chloride (PVC) have been shown to be compatible with IMDELLTRA at the specified administration conditions.
+
+                           IV line and catheter materials composed of polyolefin, PVC, and polyurethane have been shown to be compatible with IMDELLTRA at the specified administration conditions.
+
+                           The use of Closed System Transfer Device (CSTD) is not recommended due to potential wrong dose medication error risk. Amgen has not performed compatibility testing of vial adaptor CSTDs with IMDELLTRA.
+
+                           Step 1: Reconstitute IMDELLTRA with Sterile Water for Injection
+
+                           Table 8 provides the required amount of sterile water for injection required to reconstitute IMDELLTRA 1 mg and 10 mg vials.
+
+                              Do not use IV Solution Stabilizer (IVSS) to reconstitute IMDELLTRA.
+
+                        The IV Solution Stabilizer (IVSS) is used to coat the intravenous bag prior to addition of reconstituted IMDELLTRA to prevent adsorption of IMDELLTRA to IV bags and IV tubing.
+
+                           Table 8. Required Amount of Sterile Water for Injection to Reconstitute IMDELLTRAEach vial contains overfill to allow for withdrawal of 1.1 mL (1 mg vial) or 4.2 mL (10 mg vial) after reconstitution to ensure delivery at the stated concentration of labeled vial strength.
+
+                                 IMDELLTRA Vial Strength |
+                                 Amount of Sterile Water for Injection Needed to Reconstitute IMDELLTRA |
+                                 Resulting Concentration |
+
+                                 1 mg |
+                                 1.3 mL |
+                                 0.9 mg/mL |
+
+                                 10 mg |
+                                 4.4 mL |
+                                 2.4 mg/mL |
+
+                           Using a needle and syringe filled with the required amount of sterile water, inject the sterile water against the glass vial. Avoid injecting the water directly onto the powder to prevent foaming.
+
+                           Gently swirl the contents to mix. Do not shake.
+
+                           Inspect parenteral drug products for particulate matter and discoloration prior to administration. Inspect that the solution is clear to opalescent, colorless to slightly yellow. Do not use if the solution is cloudy or has particulates.
+
+                           Further dilute reconstituted IMDELLTRA.
+
+                           The reconstituted IMDELLTRA must be further diluted within 4 hours of reconstitution or discarded.
+
+                        Prepare the infusion bag: Steps 2 to 5
+
+                           Step 2 : Withdraw 0.9% Sodium Chloride for Injection
+
+                           Using a 250 mL prefilled bag of 0.9% Sodium Chloride for Injection, withdraw the amount of sodium chloride specified in Table 9 and discard.
+
+                           Table 9. Required Amount of 0.9% Sodium Chloride to Withdraw from 250 mL IV Bag
+
+                                 IMDELLTRA Vial Strength |
+                                 IMDELLTRA Dose |
+                                 Volume of 0.9% Sodium Chloride to Withdraw From 250 mL IV Bag |
+
+                                 1 mg |
+                                 1 mg |
+                                 14 mL |
+
+                                 10 mg |
+                                 10 mg |
+                                 17 mL |
+
+                           Step 3: Add IV Solution Stabilizer to the infusion bag
+
+                           Inject 13 mL of IV Solution Stabilizer (IVSS) into the 250 mL 0.9% Sodium Chloride infusion bag, see Table 10
+                              .
+
+                           Gently mix the contents of the infusion bag to avoid foaming. Do not shake.
+
+                           Table 10. Required Amount of IV Solution Stabilizer (IVSS) to Add to IV Bag
+
+                                 IMDELLTRA Vial Strength |
+                                 IMDELLTRA Dose |
+                                 Volume of IV Solution Stabilizer (IVSS) to Add to IV Bag |
+
+                                 1 mg |
+                                 1 mg |
+                                 13 mL |
+
+                                 10 mg |
+                                 10 mg |
+                                 13 mL |
+
+                           Step 4: Dilute the reconstituted IMDELLTRA into the infusion bag
+
+                           Transfer the required volume of reconstituted IMDELLTRA listed in Table 11 to the infusion bag (containing IV Solution Stabilizer).
+
+                        NOTE: The final concentrations for the different strength vials are NOT the same following reconstitution and further dilution.
+
+                           Table 11. Required Amount of Reconstituted IMDELLTRA to Add to 250 mL IV Bag
+
+                                 IMDELLTRA Vial Strength |
+                                 IMDELLTRA Dose |
+                                 Volume of Reconstituted IMDELLTRA to Add to 250 mL IV Bag |
+
+                                 1 mg |
+                                 1 mg |
+                                 1.1 mL |
+
+                                 10 mg |
+                                 10 mg |
+                                 4.2 mL |
+
+                           Gently mix the contents of the bag. Do not shake.
+
+                           Step 5: Remove air from IV bag
+
+                        Remove air from the prepared IV bag using an empty syringe to avoid foaming.
+
+                           Step 6: Prime IV tubing
+
+                           Prime intravenous tubing with either 0.9% Sodium Chloride for Injection or with the final prepared product.
+
+                           See Table 12 for maximum storage time of prepared IMDELLTRA infusion.
+
+                           Prepared IMDELLTRA Infusion Bag Storage Requirements
+
+                           Administer reconstituted and diluted IMDELLTRA immediately.
+
+                           Table 12 displays the maximum storage time for the prepared IMDELLTRA infusion bag.
+
+                           Maximum storage time includes total duration from the time of reconstitution of the vial of IMDELLTRA to the end of the infusion.
+
+                           Table 12. Maximum Storage Time for Prepared IMDELLTRA Infusion Bag
+
+                                  |
+                                 Room Temperature 20°C to 25°C (68°F to 77°F) |
+                                 Refrigerated 2°C to 8°C (36°F to 46°F) |
+
+                                 Prepared IMDELLTRA Infusion Bag |
+                                 8 hours |
+                                 7 days |
+
+                                       Discard the prepared IMDELLTRA infusion bag after maximum storage time (from time of reconstitution).
+
+                                       If refrigerated, allow the prepared IMDELLTRA infusion bag to come to room temperature prior to administration, and complete the infusion within 8 hours (including preparation and infusion time).
+
+                                       Do not re-refrigerate prepared infusion bag.
+
+                                  |

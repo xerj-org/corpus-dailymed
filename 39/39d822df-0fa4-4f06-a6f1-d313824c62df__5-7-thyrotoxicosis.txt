@@ -1,0 +1,3 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | 5.7 Thyrotoxicosis
+
+Beta-adrenergic blockade may mask certain clinical signs of hyperthyroidism, such as tachycardia. Abrupt withdrawal of beta-blockade may precipitate a thyroid storm.

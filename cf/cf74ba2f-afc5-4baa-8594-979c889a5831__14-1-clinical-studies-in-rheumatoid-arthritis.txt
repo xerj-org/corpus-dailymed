@@ -1,0 +1,600 @@
+DailyMed cf74ba2f-afc5-4baa-8594-979c889a5831 | XELJANZ; XELJANZXR | 14.1 Clinical Studies in Rheumatoid Arthritis
+
+The rheumatoid arthritis (RA) clinical development program with XELJANZ tablets (referred to as “XELJANZ” in this subsection of labeling) included six randomized controlled trials in adults with moderate to severe active RA.
+
+                           Trial Design
+
+                              •
+
+Study RA-I (NCT00814307) was a 6-month monotherapy trial in which 610 patients with moderate to severe active RA who had an inadequate response to a DMARD (nonbiologic or biologic) received XELJANZ 5 mg or 10 mg twice daily or placebo added to their background DMARD. At the Month 3 visit, all patients randomized to placebo treatment were switched in a blinded fashion to a second predetermined treatment of XELJANZ 5 mg or 10 mg twice daily. The primary endpoints at Month 3 were the proportion of patients who achieved an ACR20 response, changes in Health Assessment Questionnaire – Disability Index (HAQ-DI), and rates of Disease Activity Score DAS28-4(ESR) less than 2.6.
+
+                              •
+
+Study RA-II (NCT00856544) was a 12-month trial in which 792 patients with moderate to severe active RA who had an inadequate response to a nonbiologic DMARD received XELJANZ 5 mg or 10 mg twice daily or placebo added to background DMARD treatment (excluding potent immunosuppressive treatments such as azathioprine or cyclosporine). At the Month 3 visit, nonresponding patients were switched in a blinded fashion to a second predetermined treatment of XELJANZ 5 mg or 10 mg twice daily. At the end of Month 6, all patients treated with placebo were switched to their second predetermined XELJANZ treatment in a blinded fashion. The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, changes in HAQ-DI at Month 3, and rates of DAS28-4(ESR) less than 2.6 at Month 6.
+
+                              •
+
+Study RA-III (NCT00853385) was a 12-month trial in 717 patients with moderate to severe active RA who had an inadequate response to methotrexate (MTX). Patients received XELJANZ 5 mg or 10 mg orally twice daily, adalimumab 40 mg subcutaneously every other week, or placebo added to background MTX. Patients treated with placebo were switched as in Study RA-II. The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, HAQ-DI at Month 3, and DAS28-4(ESR) less than 2.6 at Month 6.
+
+                              •
+
+Study RA-IV (NCT00847613) was a 2-year trial with a planned analysis at 1 year in which 797 patients with moderate to severe active RA who had an inadequate response to MTX received XELJANZ 5 mg or 10 mg twice daily or placebo added to background MTX. Patients treated with placebo were switched as in Study RA-II. The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, mean change from baseline in van der Heijde-modified total Sharp Score (mTSS) at Month 6, HAQ-DI at Month 3, and DAS28-4(ESR) less than 2.6 at Month 6.
+
+                              •
+
+Study RA-V (NCT00960440) was a 6-month trial in which 399 patients with moderate to severe active RA who had an inadequate response to at least one approved TNF blocking biological product received XELJANZ 5 mg or 10 mg twice daily or placebo added to background MTX. At the Month 3 visit, all patients randomized to placebo treatment were switched in a blinded fashion to a second predetermined treatment of XELJANZ 5 or 10 mg twice daily. The primary endpoints at Month 3 were the proportion of patients who achieved an ACR20 response, HAQ-DI, and DAS28-4(ESR) less than 2.6.
+
+                              •
+
+Study RA-VI (NCT01039688) was a 2-year monotherapy trial with a planned analysis at 1 year in which 952 MTX-naïve patients with moderate to severe active RA received XELJANZ 5 or 10 mg twice daily or MTX dose-titrated over 8 weeks to 20 mg weekly. The primary endpoints were mean change from baseline in van der Heijde-modified Total Sharp Score (mTSS) at Month 6 and the proportion of patients who achieved an ACR70 response at Month 6.
+
+                        Although other dosages have been studied, the recommended dosage of XELJANZ is 5 mg twice daily. XELJANZ 10 mg twice daily is not recommended for the treatment of RA [see Dosage and Administration (2.3)].
+
+                           Clinical Response
+
+                        The percentages of XELJANZ-treated patients who achieved ACR20, ACR50, and ACR70 responses in Studies RA-I, IV, and V are shown in Table 10. Similar results were observed with Studies RA-II and III. In trials RA-I through V, patients treated with 5 mg twice daily XELJANZ had higher ACR20, ACR50, and ACR70 response rates versus patients treated with placebo, with or without background DMARD treatment, at Month 3 and Month 6. Higher ACR20 response rates were observed within 2 weeks compared to placebo. In the 12-month trials, ACR response rates in XELJANZ-treated patients were consistent at 6 and 12 months.
+
+                           Table 10: Proportion of Adults with Moderate to Severe Active RA with an ACR Response at Months 3 and 6 in Studies RA-I, IV, and V
+
+                                  |
+
+                                       Monotherapy in Nonbiologic or Biologic DMARD Inadequate Responders
+                                       Inadequate response to at least one DMARD (biologic or nonbiologic) due to lack of efficacy or toxicity.
+
+                                  |
+
+                                       MTX Inadequate Responders
+                                       Inadequate response to MTX defined as the presence of sufficient residual disease activity to meet the entry criteria.
+
+                                  |
+
+                                       TNF Blocker Inadequate Responders
+                                       Inadequate response to at least one TNF blocker due to lack of efficacy and/or intolerance.
+
+                                  |
+
+                                       Study RA-I
+
+                                  |
+
+                                       Study RA-IV
+
+                                  |
+
+                                       Study RA-V
+
+                                  |
+
+                                    NN is number of randomized and treated patients.
+
+                                  |
+
+                                    Placebo + background DMARD
+
+                                  |
+
+                                    XELJANZ
+
+                                    5 mg Twice Daily + background DMARD
+
+                                  |
+
+                                    Placebo + background MTX
+
+                                  |
+
+                                    XELJANZ
+
+                                    5 mg Twice Daily + background MTX
+
+                                  |
+
+                                    Placebo + background MTX
+
+                                  |
+
+                                    XELJANZ
+
+                                    5 mg Twice Daily + background MTX
+
+                                  |
+
+                                  |
+
+                                    122
+
+                                  |
+
+                                    243
+
+                                  |
+
+                                    160
+
+                                  |
+
+                                    321
+
+                                  |
+
+                                    132
+
+                                  |
+
+                                    133
+
+                                  |
+
+                                    ACR20
+
+                                    Month 3
+
+                                    Month 6
+
+                                  |
+
+                                    26%
+
+                                    NANA (not applicable), as data for placebo treatment is not available beyond 3 months in Studies RA-I and RA-V due to placebo advancement.
+
+                                  |
+
+                                    59%
+
+                                    69%
+
+                                  |
+
+                                    27%
+
+                                    25%
+
+                                  |
+
+                                    55%
+
+                                    50%
+
+                                  |
+
+                                    24%
+
+                                    NA
+
+                                  |
+
+                                    41%
+
+                                    51%
+
+                                  |
+
+                                    ACR50
+
+                                    Month 3
+
+                                    Month 6
+
+                                  |
+
+                                    12%
+
+                                    NA
+
+                                  |
+
+                                    31%
+
+                                    42%
+
+                                  |
+
+                                    8%
+
+                                    9%
+
+                                  |
+
+                                    29%
+
+                                    32%
+
+                                  |
+
+                                    8%
+
+                                    NA
+
+                                  |
+
+                                    26%
+
+                                    37%
+
+                                  |
+
+                                    ACR70
+
+                                    Month 3
+
+                                    Month 6
+
+                                  |
+
+                                    6%
+
+                                    NA
+
+                                  |
+
+                                    15%
+
+                                    22%
+
+                                  |
+
+                                    3%
+
+                                    1%
+
+                                  |
+
+                                    11%
+
+                                    14%
+
+                                  |
+
+                                    2%
+
+                                    NA
+
+                                  |
+
+                                    14%
+
+                                    16%
+
+                                  |
+
+                        In Study RA-IV, a greater proportion of patients treated with XELJANZ 5 mg twice daily plus MTX achieved a low level of disease activity as measured by a DAS28-4(ESR) less than 2.6 at 6 months compared to those treated with MTX alone (Table 11).
+
+                           Table 11: Proportion and Numbers of Adults with Moderate to Severe Active RA with DAS28-4(ESR) Less Than 2.6 with Number of Residual Active Joints at Month 6 in Study RA-IV
+
+                                  |
+
+                                       Study RA-IV
+
+                                  |
+
+                                       DAS28-4(ESR) Less Than 2.6
+
+                                  |
+
+                                       Placebo + MTX
+
+                                       160
+
+                                  |
+
+                                       XELJANZ 5 mg Twice Daily + MTX
+
+                                       321
+
+                                  |
+
+                                    Proportion of responders at Month 6 (n)
+
+                                  |
+
+                                    1% (2)
+
+                                  |
+
+                                    6% (19)
+
+                                  |
+
+                                    Of responders, proportion with 0 active joints (n)
+
+                                  |
+
+                                    50% (1)
+
+                                  |
+
+                                    42% (8)
+
+                                  |
+
+                                    Of responders, proportion with 1 active joint (n)
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    5% (1)
+
+                                  |
+
+                                    Of responders, proportion with 2 active joints (n)
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    32% (6)
+
+                                  |
+
+                                    Of responders, proportion with 3 or more active joints (n)
+
+                                  |
+
+                                    50% (1)
+
+                                  |
+
+                                    21% (4)
+
+                                  |
+
+                        The results of the components of the ACR response criteria for Study RA-IV are shown in Table 12. Similar results were observed for XELJANZ in Studies RA-I, II, III, V, and VI.
+
+                           Table 12: Components of ACR Response in Adults with Moderate to Severe Active RA at Baseline and Month 3 in Study RA-IV
+
+                                  |
+
+                                       Study RA-IV
+
+                                  |
+
+                                  |
+
+                                       Placebo + MTX
+
+                                       N=160
+
+                                  |
+
+                                       XELJANZ
+
+                                       5 mg
+
+                                       Twice Daily + MTX
+
+                                       N=321
+
+                                  |
+
+                                    Component (mean)Data shown is mean (Standard Deviation) at Month 3.
+
+                                  |
+
+                                    Baseline
+
+                                  |
+
+                                    Month 3
+
+                                  |
+
+                                    Baseline
+
+                                  |
+
+                                    Month 3
+
+                                  |
+
+                                    Number of tender joints
+
+                                    (0-68)
+
+                                  |
+
+                                    23
+
+                                    (13)
+
+                                  |
+
+                                    18
+
+                                    (14)
+
+                                  |
+
+                                    24
+
+                                    (14)
+
+                                  |
+
+                                    13
+
+                                    (14)
+
+                                  |
+
+                                    Number of swollen joints
+
+                                    (0-66)
+
+                                  |
+
+                                    14
+
+                                    (9)
+
+                                  |
+
+                                    10
+
+                                    (9)
+
+                                  |
+
+                                    14
+
+                                    (8)
+
+                                  |
+
+                                    6
+
+                                    (8)
+
+                                  |
+
+                                    PainVisual analog scale: 0 = best, 100 = worst.
+
+                                  |
+
+                                    55
+
+                                    (24)
+
+                                  |
+
+                                    47
+
+                                    (24)
+
+                                  |
+
+                                    58
+
+                                    (23)
+
+                                  |
+
+                                    34
+
+                                    (23)
+
+                                  |
+
+                                    Patient global assessment
+
+                                  |
+
+                                    54
+
+                                    (23)
+
+                                  |
+
+                                    47
+
+                                    (24)
+
+                                  |
+
+                                    58
+
+                                    (24)
+
+                                  |
+
+                                    35
+
+                                    (23)
+
+                                  |
+
+                                    Disability index
+
+                                    (HAQ-DI)Health Assessment Questionnaire Disability Index: 0 = best, 3 = worst; 20 questions; categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities.
+
+                                  |
+
+                                    1.32
+
+                                    (0.67)
+
+                                  |
+
+                                    1.19
+
+                                    (0.68)
+
+                                  |
+
+                                    1.41
+
+                                    (0.68)
+
+                                  |
+
+                                    0.99
+
+                                    (0.65)
+
+                                  |
+
+                                    Physician global assessment
+
+                                  |
+
+                                    56
+
+                                    (18)
+
+                                  |
+
+                                    43
+
+                                    (22)
+
+                                  |
+
+                                    59
+
+                                    (16)
+
+                                  |
+
+                                    30
+
+                                    (19)
+
+                                  |
+
+                                    CRP (mg/L)
+
+                                  |
+
+                                    13.7
+
+                                    (14.9)
+
+                                  |
+
+                                    14.6
+
+                                    (18.7)
+
+                                  |
+
+                                    15.3
+
+                                    (19.0)
+
+                                  |
+
+                                    7.1
+
+                                    (19.1)
+
+                                  |
+
+                        The percent of ACR20 responders by visit for Study RA-IV is shown in Figure 4. Similar responses were observed for XELJANZ in Studies RA-I, II, III, V, and VI.
+
+                           Figure 4: Percentage of ACR20 Responders by Visit Through Month 6 in Study RA-IV
+
+                                  |

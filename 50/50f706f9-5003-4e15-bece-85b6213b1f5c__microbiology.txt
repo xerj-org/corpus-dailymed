@@ -1,0 +1,27 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Microbiology
+
+Mechanism of Action
+
+Rifampin inhibits DNA-dependent RNA polymerase activity in susceptible
+  Mycobacterium tuberculosis organisms. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme.
+
+                              Resistance
+
+Organisms resistant to rifampin are likely to be resistant to other rifamycins.
+
+                           In the treatment of both tuberculosis and the meningococcal carrier state (see
+   INDICATIONS AND USAGE), the small number of resistant cells present within large populations of susceptible cells can rapidly become predominant. In addition, resistance to rifampin has been determined to occur as single-step mutations of the DNA-dependent RNA polymerase. Since resistance can emerge rapidly, appropriate susceptibility tests should be performed in the event of persistent positive cultures.
+
+                              Activity
+    in vitro and
+    in vivo
+
+Rifampin has bactericidal activity
+  in vitro against slow and intermittently growing
+  M tuberculosis organisms.
+
+                        Rifampin has been shown to be active against most isolates of the following microorganisms, both
+  in
+                           vitro and in clinical infections (see
+
+                              INDICATIONS AND USAGE).

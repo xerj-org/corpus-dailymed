@@ -1,0 +1,53 @@
+DailyMed 1bda03a2-6c7d-4c9e-b98a-e5e01bebb3b1 | Amoxicillin and Clavulanate Potassium | 2.4 Patients with Renal Impairment
+
+Patients with impaired renal function do not generally require a reduction in dose unless the impairment is severe. Renal impairment patients with a glomerular filtration rate (GFR) of less than 30 mL/min should
+
+  NOTreceive the 875 mg dose (based on the amoxicillin component) of  amoxicillin and clavulanate potassium tablet. See dosing regimens in patients with severe renal impairment provided in Table 4.
+
+                           Table 4. Dosing Regimens of
+                           Amoxicillin and Clavulanate Potassium Tablets in Patients with Severe Renal Impairment 
+
+                                    Patients with Renal Impairment
+
+   
+
+                                  |
+
+                                    Dosing Regimen
+
+   
+
+                                  |
+
+                                 GFR 10 mL/min to 30 mL/min
+
+   
+
+                                  |
+                                 500 mg or 250 mg every 12 hours, depending on the severity of the infection
+
+   
+
+                                  |
+
+                                 GFR less than 10 mL/min
+
+   
+
+                                  |
+                                 500 mg or 250 mg every 24 hours, depending on severity of the infection
+
+   
+
+                                  |
+
+                                 Hemodialysis
+
+   
+
+                                  |
+                                 500 mg or 250 mg every 24 hours, depending on severity of the infection
+
+  Administer an additional dose both during and at the end of dialysis
+
+                                  |

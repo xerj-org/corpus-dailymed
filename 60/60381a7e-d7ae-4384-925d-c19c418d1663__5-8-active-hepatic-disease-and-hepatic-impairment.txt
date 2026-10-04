@@ -1,0 +1,3 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 5.8 Active Hepatic Disease and Hepatic Impairment
+
+Treatment with Tocilizumab-anoh is not recommended in patients with active hepatic disease or hepatic impairment [see Adverse Reactions (6.1), Use in Specific Populations (8.6)].

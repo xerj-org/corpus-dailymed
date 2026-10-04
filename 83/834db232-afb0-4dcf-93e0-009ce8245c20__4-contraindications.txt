@@ -1,0 +1,9 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 4 CONTRAINDICATIONS
+
+UPLIZNA is contraindicated in patients with:
+
+                     A history of a life-threatening infusion reaction to UPLIZNA [see Warnings and Precautions (5.1)]
+
+                     Active hepatitis B infection [see Warnings and Precautions (5.2)]
+
+                     Active or untreated latent tuberculosis [see Warnings and Precautions (5.2)]

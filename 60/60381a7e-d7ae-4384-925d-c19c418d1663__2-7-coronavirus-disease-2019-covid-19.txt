@@ -1,0 +1,9 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 2.7 Coronavirus Disease 2019 (COVID-19)
+
+Administer Tocilizumab-anoh by intravenous infusion only.
+
+                        The recommended dosage of Tocilizumab-anoh for treatment of adult patients with COVID-19 is 8 mg per kg administered as a single 60-minute intravenous infusion. If clinical signs or symptoms worsen or do not improve after the first dose, one additional infusion of Tocilizumab-anoh may be administered at least 8 hours after the initial infusion.
+
+                           Doses exceeding 800 mg per infusion are not recommended in patients with COVID-19.
+
+                           Subcutaneous administration is not approved for COVID-19.

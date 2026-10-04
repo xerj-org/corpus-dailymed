@@ -1,0 +1,5 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | 1. Cardiovascular disorders
+
+Estrogen and estrogen/progestin therapy has been associated with an increased risk of cardiovascular events such as myocardial infarction and stroke, as well as venous thrombosis and pulmonary embolism (venous thromboembolism or VTE). Should any of these occur or be suspected estrogens should be discontinued immediately.
+
+                        Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (e.g., personal history or family history of VTE, obesity, and systemic lupus erythematosus) should be managed appropriately.

@@ -1,0 +1,27 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+                     Hepatotoxicity
+
+                  Inform patients that hepatotoxicity, including life-threatening cases, has been reported with maraviroc tablets; therefore, it is important to inform the healthcare professional if patients have underlying hepatitis B or C or elevations in liver-associated tests prior to treatment. Inform patients to stop maraviroc tablets and seek medical evaluation immediately if they develop signs or symptoms of hepatitis or allergic reaction following use of maraviroc tablets. Advise patients that laboratory tests for liver enzymes and bilirubin will be ordered prior to starting maraviroc tablets, at other times during treatment, and if they develop severe rash or signs and symptoms of hepatitis or an allergic reaction on treatment [see Dosage and Administration (2.1), Warnings and Precautions (5.1, 5.2)].
+
+                     Cardiovascular Events
+
+                  When administering maraviroc tablets in patients with cardiovascular comorbidities, a history of postural hypotension or receiving concomitant medication known to lower blood pressure, advise patients that they may be at increased risk for cardiovascular events. Advise patients to avoid driving or operating machinery if they experience dizziness while taking maraviroc tablets [see Warnings and Precautions (5.3)].
+
+                     Drug Interactions
+
+                  Advise patients to inform their healthcare provider of concomitant HIV medications as dosage of maraviroc tablets may be modified depending on other HIV medications taken with maraviroc tablets. Advise patients that coadministration of maraviroc tablets with St. John's wort is not recommended as it can lead to loss of virologic response and possible resistance to maraviroc tablets [see Dosage and Administration (2.2), Drug Interactions (7.1)].
+
+                     Missed Dosage
+
+                  Inform patients that it is important to take maraviroc tablets in combination with other antiretroviral medications on a regular dosing schedule with or without food. Advise patients to avoid missing doses as it can result in development of resistance. Instruct patients that if they miss a dose, to take it as soon as they remember. Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2.2)].
+
+                     Pregnancy
+
+                  Inform patients that there is insufficient data on the safety of maraviroc tablets in pregnancy. Inform patients that there is an antiretroviral pregnancy registry that monitors pregnancy outcomes in women exposed to maraviroc tablets during pregnancy [see Use in Specific Populations (8.1)].
+
+                     Lactation
+
+                  Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].

@@ -1,0 +1,11 @@
+DailyMed d8057d1a-e8af-42ab-9da2-b545730b2655 | Cyclophosphamide | 5.7 Embryo-Fetal Toxicity
+
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, cyclophosphamide capsules can cause fetal harm when administered to a pregnant woman
+
+  [see USE IN SPECIFIC POPULATIONS (8.1), CLINICAL PHARMACOLOGY (12.1) and NONCLINICAL TOXICOLOGY (13.1)]. Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn. Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys.
+
+                         Advise pregnant women and female patients of reproductive potential of the potential risk to the fetus
+
+  [see USE IN SPECIFIC POPULATIONS (8.1)]. Verify the pregnancy status of females of reproductive potential prior to initiation of cyclophosphamide capsules. Advise females of reproductive potential to use effective contraception during treatment with cyclophosphamide capsules and for up to 1 year after completion of therapy. Advise male patients with female partners of reproductive potential to use effective contraception during treatment with cyclophosphamide capsules and for 4 months after completion of therapy
+
+  [see USE IN SPECIFIC POPULATIONS (8.1, 8.3)].

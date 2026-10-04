@@ -1,0 +1,17 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 2.3 Recommended Dosage
+
+HR Positive, HER2 Negative Locally Advanced or Metastatic Breast Cancer
+
+                        The recommended dosage of TRUQAP, in combination with fulvestrant, is 400 mg orally twice daily (approximately 12 hours apart) with or without food, for 4 days followed by 3 days off. Continue TRUQAP until disease progression or unacceptable toxicity.
+
+                        For premenopausal and perimenopausal women, administer a luteinizing hormone releasing hormone (LHRH) agonist according to current clinical practice standards.
+
+                        For men, consider administering a LHRH agonist according to current clinical practice standards.
+
+                              PTEN-Peficient Metastatic Androgen Pathway Modulation-Naïve or -Sensitive (mAPMN/S) Prostate Cancer
+
+                           The recommended dosage of TRUQAP, in combination with abiraterone and prednisone, is 400 mg orally twice daily (approximately 12 hours apart) with or without food, for 4 days followed by 3 days off. Continue TRUQAP until disease progression or unacceptable toxicity.
+
+                           Patients with mAPMN/S prostate cancer should also receive a gonadotropin-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy.
+
+                        Refer to the Prescribing Information of the individual therapeutic agents used in combination with TRUQAP for dosing and administration information.

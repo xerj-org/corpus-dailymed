@@ -1,0 +1,3 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | 8.6 Hepatic Impairment
+
+No studies have been performed with metoprolol tartrate tablets in patients with hepatic impairment. Because metoprolol tartrate tablets are metabolized by the liver, metoprolol blood levels are likely to increase substantially with poor hepatic function. Therefore, initiate therapy at doses lower than those recommended for a given indication; and increase doses gradually in patients with impaired hepatic function.

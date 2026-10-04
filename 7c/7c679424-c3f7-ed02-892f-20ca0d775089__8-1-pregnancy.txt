@@ -1,0 +1,32 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 8.1 Pregnancy
+
+Risk Summary
+
+                        There are no data with Lumason use in pregnant
+women to inform any drug-associated risks. No adverse developmental
+outcomes were observed in animal reproduction studies with administration
+of sulfur hexafluoride lipid-type A microspheres in pregnant rats
+and rabbits during organogenesis at doses up to at least 10 and 20
+times, respectively, the maximum human dose of 4.8 mL based on body
+surface area (see Data
+                           ).
+
+                        In the U.S. general population,
+the estimated background risk of major birth defects and miscarriage
+in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Lumason was administered intravenously
+to rats at doses of 0.2, 1, and 5 mL/kg (approximately 0.4, 2, and
+10 times the recommended maximum human dose of 4.8 mL, respectively,
+based on body surface area); Lumason doses were administered daily
+for about 30 consecutive days, from two weeks before pairing until
+the end of organogenesis. Lumason was administered intravenously to
+rabbits at doses of 0.2, 1, and 5 mL/kg (approximately 0.8, 4, and
+20 times the recommended maximum human dose, respectively, based on
+body surface area); Lumason doses were administered daily from gestation
+day 6 to day 19 inclusive. No significant findings on the fetus were
+observed.

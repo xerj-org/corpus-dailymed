@@ -1,0 +1,5 @@
+DailyMed 5ca9a9b7-5efd-09bf-e063-6294a90a681d | COLESEVELAM HYDROCHLORIDE | 8.6 Renal Impairment
+
+Type 2 Diabetes Mellitus
+
+                        Of the 2,048 patients enrolled in the six diabetes studies, 807 (39%) had mild renal insufficiency (creatinine clearance [CrCl] 50 mL/min to < 80 mL/min), 61 (3%) had moderate renal insufficiency (CrCl 30 mL/min to < 50 mL/min), and none had severe renal insufficiency (CrCl < 30 mL/min), as estimated from baseline serum creatinine using the Modification of Diet in Renal Disease (MDRD) equation. No overall differences in safety or effectiveness were observed between patients with CrCl < 50 mL/min (n = 53) and those with a CrCl ≥ 50 mL/min (n = 1,075) in the add-on to metformin, sulfonylureas, and insulin diabetes studies. In the monotherapy study and add-on to pioglitazone study, only 3 and 5 patients, respectively, had moderate renal insufficiency.

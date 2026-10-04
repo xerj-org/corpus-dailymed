@@ -1,0 +1,3 @@
+DailyMed 2f94f711-14c4-48ec-c5a3-c5ec4b8e8729 | Lidocaine Hydrochloride and Epinephrine | 5.8 Risk of Toxicity in Patients with Hepatic Impairment
+
+Because amide local anesthetics such as lidocaine are metabolized by the liver, consider reduced dosing and increased monitoring for lidocaine systemic toxicity in patients with moderate to severe hepatic impairment who are treated with lidocaine hydrochloride, especially with repeat doses [see Use in Specific Populations (8.6)].

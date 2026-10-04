@@ -1,0 +1,278 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 14.4 Chronic Kidney Disease
+
+The Trial to Evaluate the Effect of Dapagliflozin on Renal Outcomes and Cardiovascular Mortality in Patients with Chronic Kidney Disease (DAPA-CKD, NCT03036150) was an international, multicenter, randomized, double-blind, placebo-controlled trial in adult patients with chronic kidney disease (CKD) (eGFR between 25 and 75 mL/min/1.73 m
+
+  2) and albuminuria [urine albumin creatinine ratio (UACR) between 200 and 5000 mg/g] who were receiving standard of care background therapy, including a maximally tolerated, labeled daily dosage of an
+
+                        angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB). The trial excluded patients with autosomal dominant or autosomal recessive polycystic kidney disease, lupus nephritis, or ANCA-associated vasculitis and patients requiring cytotoxic, immunosuppressive, or immunomodulatory therapies in the preceding 6 months.
+
+                        The primary objective was to determine whether dapagliflozin 10 mg reduces the incidence of the composite endpoint of ≥50% sustained decline in eGFR, progression to end-stage kidney disease (ESKD) (defined as sustained eGFR<15 mL/min/1.73 m
+
+  2, initiation of chronic dialysis treatment or renal transplant), CV or renal death.
+
+                        A total of 4304 patients were randomized equally to dapagliflozin 10 mg or placebo and were followed for a median of 28.5 months. The trial included patients with type 2 diabetes mellitus (n=2906) and patients without diabetes (n=1398). The mean age of the trial population was 62 years and 67% were male. The population was 53% White, 4% Black or African American, and 34% Asian; 25% were of Hispanic or Latino ethnicity. At baseline, mean eGFR was 43 mL/min/1.73 m
+
+  2, 44% of patients had an eGFR 30 mL/min/1.73m
+
+  2to less than
+
+                        45 mL/min/1.73m
+
+  2, and 15% of patients had an eGFR less than 30 mL/min/1.73m
+
+  2. Median UACR was 950 mg/g. The most common etiologies of CKD were diabetic nephropathy (58%), ischemic/hypertensive nephropathy (16%), and IgA nephropathy (6%). At baseline, 97% of patients were treated with ACEi or ARB. Approximately 44% were taking antiplatelet agents, and 65% were on a statin.
+
+                        Out of 2906 (68%) patients who had type 2 diabetes mellitus at randomization, 1455 patients received dapagliflozin 10 mg and 1451 received placebo. At baseline of the patients with type 2 diabetes mellitus, 43% were being treated with metformin HCl (631 patients on dapagliflozin 10 mg and 613 on placebo) and 55% were treated with insulin.
+
+                        The mean age of the type 2 diabetes mellitus trial population was 64 years, 67% were male, 53% White, 5% Black or African American and 32% Asian, 27% were of Hispanic or Latino ethnicity. In these patients, mean eGFR was 44 mL/min/1.73 m
+
+  2, 43% of patients had an eGFR 30 mL/min/1.73 m
+
+  2to below 45 mL/min/1.73 m
+
+  2, and 14% of patients had an eGFR below 30 mL/min/1.73 m
+
+  2. Median UACR was 1017 mg/g. The most common etiologies of CKD in this group were diabetic nephropathy (86%) and ischemic/hypertensive nephropathy (7%).
+
+                        Dapagliflozin 10 mg reduced the incidence of the primary composite endpoint of ≥50% sustained decline in eGFR, progression to ESKD, CV or renal death in overall population [HR 0.61 (95% CI 0.51,0.72); p<0.0001]. The dapagliflozin 10 mg and placebo event curves separate by Month 4 and continue to diverge over the trial period. The treatment effect reflected a reduction in ≥50% sustained decline in eGFR, progression to ESKD, and CV death. There were few renal deaths during the trial (Table 19 and Figure 6).
+
+                        The treatment benefit of dapagliflozin 10 mg was consistent in reducing the incidence of the primary composite endpoint in patients with type 2 diabetes mellitus [HR 0.64 (95% CI 0.52, 0.79)] and in patients with type 2 diabetes mellitus and metformin HCl as background therapy [HR 0.74 (95% CI 0.53, 1.03)].
+
+                        The treatment benefit of dapagliflozin 10 mg was consistent in reducing the incidence of the composite endpoint of CV death or hospitalization for heart failure and all-cause mortality in patients with type 2 diabetes mellitus [HR 0.70 (95% CI 0.53, 0.92) and HR 0.74 (95% CI 0.56, 0.98), respectively] and in patients with type 2 diabetes mellitus and metformin HCl as background therapy [HR 0.59 (95% CI 0.38, 0.91) and HR 0.71 (95% CI 0.46, 1.10)].
+
+                           Table 19: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints in DAPA-CKD Trial
+
+                            
+
+                                  
+
+                                  |
+
+                                    Patients with events (event rate)
+
+                                  |
+                                  
+
+                                  |
+
+                                    Efficacy Variable
+
+                                    (time to first occurrence)
+
+                                  |
+
+                                    Dapagliflozin
+
+                                    10 mg
+
+                                    N=2152
+
+                                  |
+
+                                    Placebo
+
+                                    N=2152
+
+                                  |
+
+                                    Hazard ratio
+
+                                    (95% CI)
+
+                                  |
+
+                                    p-value
+
+                                  |
+
+                                    Composite of ≥50% sustained
+
+                                    eGFR decline, ESKD, CV or
+
+                                    renal death
+
+                                  |
+                                 197 (4.6)
+
+                                  |
+                                 312 (7.5)
+
+                                  |
+                                 0.61
+
+  (0.51, 0.72)
+
+                                  |
+                                 <0.0001
+
+                                  |
+
+                                    Components of the primary composite endpoint
+
+                                  |
+
+                                 ≥50% Sustained eGFR Decline
+
+                                  |
+                                 112 (2.6)
+
+                                  |
+                                 201 (4.8)
+
+                                  |
+                                 0.53
+
+  (0.42, 0.67)
+
+                                  |
+                                  
+
+                                  |
+
+                                 ESKD*
+
+                                  |
+                                 109 (2.5)
+
+                                  |
+                                 161 (3.8)
+
+                                  |
+                                 0.64
+
+  (0.50, 0.82)
+
+                                  |
+                                  
+
+                                  |
+
+                                 CV Death
+
+                                  |
+                                 65 (1.4)
+
+                                  |
+                                 80 (1.7)
+
+                                  |
+                                 0.81
+
+  (0.58, 1.12)
+
+                                  |
+                                  
+
+                                  |
+
+                                 Renal Death
+
+                                  |
+                                 2 (<0.1)
+
+                                  |
+                                 6 (0.1)
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                    ≥50% sustained eGFR decline,
+
+                                    ESKD or renal death
+
+                                  |
+                                 142 (3.3)
+
+                                  |
+                                 243 (5.8)
+
+                                  |
+                                 0.56
+
+  (0.45, 0.68)
+
+                                  |
+                                 <0.0001
+
+                                  |
+
+                                    CV death or Hospitalization for
+
+                                    Heart Failure
+
+                                  |
+                                 100 (2.2)
+
+                                  |
+                                 138 (3.0)
+
+                                  |
+                                 0.71
+
+  (0.55, 0.92)
+
+                                  |
+                                 0.0089
+
+                                  |
+
+                                 Hospitalization for Heart Failure
+
+                                  |
+                                 37 (0.8)
+
+                                  |
+                                 71 (1.6)
+
+                                  |
+                                 0.51
+
+  (0.34, 0.76)
+
+                                  |
+                                  
+
+                                  |
+
+                                    All-Cause Mortality
+
+                                  |
+                                 101 (2.2)
+
+                                  |
+                                 146 (3.1)
+
+                                  |
+                                 0.69
+
+  (0.53, 0.88)
+
+                                  |
+                                 0.0035
+
+                                  |
+
+                        N=Number of patients, CI=Confidence interval, CV=Cardiovascular.
+
+                        * ESKD is defined as sustained eGFR<15 mL/min/1.73 m
+
+  2, initiation of chronic dialysis treatment, or transplant.
+
+                        NOTE: Time to first event was analyzed in a Cox proportional hazards model. Event rates are presented as the number of subjects with event per 100 patient years of follow-up.
+
+                        There were too few events of renal death to compute a reliable hazard ratio.
+
+                            
+
+                              Figure 6: Time to First Occurrence of the Primary Composite Endpoint, ≥50% Sustained Decline in eGFR, ESKD, CV or Renal Death (DAPA-CKD Trial) 
+
+                            
+
+                        DAPA-CKD enrolled a population with relatively advanced CKD at high risk of progression.
+
+                            Exploratory analyses of a randomized, double-blind, placebo-controlled trial conducted to determine the effect of dapagliflozin 10 mg on CV outcomes (the DECLARE trial) support the conclusion that dapagliflozin 10 mg is also likely to be effective in patients with less advanced CKD.

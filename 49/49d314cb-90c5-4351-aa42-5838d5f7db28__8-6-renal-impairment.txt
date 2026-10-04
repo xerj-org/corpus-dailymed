@@ -1,0 +1,20 @@
+DailyMed 49d314cb-90c5-4351-aa42-5838d5f7db28 | gabapentin | 8.6 Renal Impairment
+
+Dosage adjustment in adult patients with compromised renal function is necessary
+
+  [see Dosage and Administration (
+
+   2.3) and Clinical Pharmacology (
+
+   12.3)].
+                           Pediatric patients with renal insufficiency have not been studied.
+
+                        Dosage adjustment in patients undergoing hemodialysis is necessary
+
+  [see Dosage and Administration (
+
+   2.3) and Clinical Pharmacology (
+
+   12.3)]
+
+  .

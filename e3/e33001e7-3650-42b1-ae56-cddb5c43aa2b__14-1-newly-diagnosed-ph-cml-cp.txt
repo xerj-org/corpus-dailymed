@@ -1,0 +1,178 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 14.1 Newly Diagnosed Ph+ CML-CP
+
+The efficacy of SCEMBLIX in the treatment of patients with newly diagnosed Ph+ CML in chronic phase (Ph+ CML-CP) was evaluated in the multi-center, randomized, active-controlled, and open-label study ASC4FIRST (NCT04971226).
+
+                        In this study, a total of 405 patients were randomized in a 1:1 ratio to receive either SCEMBLIX or investigator selected tyrosine kinase inhibitors (IS-TKIs). Prior to randomization, the investigator selected the TKI (imatinib, nilotinib, dasatinib, or bosutinib) to be used in the event of randomization to the comparator arm, based on patient characteristics and comorbidities. Patients were stratified according to EUTOS long-term survival (ELTS) risk group (low, intermediate, high), and pre-randomization selection of TKI (imatinib or other TKIs stratum composed of nilotinib, dasatinib, and bosutinib). Patients received either SCEMBLIX or IS-TKIs, and continued treatment until unacceptable toxicity or treatment failure occurred.
+
+                        Patients were 37% female and 63% male with median age 51 years (range, 18 to 86 years). Of the 405 patients, 24% were 65 years or older, while 6% were 75 years or older. Patients were White (54%), Asian (44%), Black or African American (1%), and 1% unknown.
+
+                        Of the 405 patients, 200 received SCEMBLIX, while 201 received IS-TKIs. Of the 201 patients receiving IS-TKIs, 99 received imatinib, 49 received nilotinib, 42 received dasatinib, and 11 received bosutinib. Four patients did not receive any treatment.
+
+                        The median duration of treatment was 27 months (range, 0.2 to 36 months) for patients receiving SCEMBLIX, and 25 months (range, 0.3 to 35 months) for patients receiving IS-TKIs. With a minimum of 96 weeks of follow-up, 82% of patients on SCEMBLIX, and 60% of patients on IS-TKIs were still receiving treatment.
+
+                        The main efficacy outcome was major molecular response rate (MMR) at 48 weeks. Efficacy was established based on SCEMBLIX compared to IS-TKIs and SCEMBLIX compared to IS-TKIs within the imatinib stratum. The key secondary objective evaluated MMR at 96 weeks for SCEMBLIX compared both to IS-TKIs and to IS-TKIs within the imatinib stratum. Secondary objectives evaluated MMR at 48 and 96 weeks for SCEMBLIX compared to IS-TKIs within the other TKIs stratum. The main efficacy outcomes from ASC4FIRST are summarized in Table 10.
+
+                           Table 10: Efficacy Results in Patients with Newly Diagnosed Ph+ CML-CP (ASC4FIRST)
+
+                                 Abbreviations: MMR, major molecular response (BCR::ABL1
+                                    IS
+												 ≤ 0.1%); IS-TKIs, investigator selected tyrosine kinase inhibitors.
+
+                                    aIS-TKIs include imatinib (400 mg once daily) and other TKIs of nilotinib (300 mg twice daily), dasatinib (100 mg once daily) or bosutinib (400 mg once daily).
+
+                                    bEstimated using a common risk difference stratified by PRS-TKI and baseline ELTS risk groups.
+
+                                    cAdjusted p-value using a Cochran-Mantel-Haenszel 1-sided test stratified by PRS-TKI and baseline ELTS risk groups.
+
+                                    dAdjusted p-value using a Cochran-Mantel-Haenszel 1-sided test stratified by baseline ELTS risk groups.
+											 |
+
+                                    Response
+                                  |
+
+                                    SCEMBLIX
+
+80 mg once daily
+
+All patients
+
+(N = 201) |
+
+                                    IS-TKIsa
+
+All patients
+
+(N = 204) |
+
+                                    Difference
+
+(95% CI)b
+
+                                  |
+
+                                    p-value
+                                  |
+
+                                    MMR at 48 weeks
+
+MMR (%)
+
+(95% CI)
+											 |
+
+												68
+
+(61, 74)
+											 |
+
+												49
+
+(42, 56)
+											 |
+
+												19
+
+(10, 28)
+											 |
+                                 < 0.001c
+                                  |
+
+                                    MMR at 96 weeks
+
+MMR (%)
+
+(95% CI)
+											 |
+
+												74
+
+(68, 80)
+											 |
+
+												52
+
+(45, 59)
+											 |
+                                 22
+
+(14, 31)
+											 |
+                                 < 0.001c
+                                  |
+
+                                    Response
+                                  |
+
+                                    SCEMBLIX
+
+80 mg once daily
+
+Imatinib stratum
+
+(N = 101) |
+
+                                    IS-TKIsa
+
+Imatinib stratum
+
+(N = 102) |
+
+                                    Difference
+
+(95% CI)b
+
+                                  |
+
+                                    p-value
+                                  |
+
+                                    MMR at 48 weeks
+
+MMR (%)
+
+(95% CI)
+											 |
+
+												69
+
+(59, 78)
+											 |
+
+												40
+
+(31, 50)
+											 |
+
+												30
+
+(17, 42)
+											 |
+                                 < 0.001d
+                                  |
+
+                                    MMR at 96 weeks
+
+MMR (%)
+
+(95% CI)
+											 |
+
+												76
+
+(67, 84)
+											 |
+
+												47
+
+(37, 57)
+											 |
+                                 30
+
+(18, 42)
+											 |
+                                 < 0.001d
+                                  |
+
+                        MMR rates at 96 weeks in patients receiving SCEMBLIX and IS-TKIs within the other TKIs stratum were 72% (95% CI: 62%, 81%) and 57% (95% CI: 47%, 67%), respectively.
+
+                        Median time to MMR in patients receiving SCEMBLIX, IS-TKIs, and IS-TKIs within the imatinib stratum were: 24 weeks (95% CI: 24 to 25 weeks), 36 weeks (95% CI: 36 to 49 weeks), and 49 weeks (95% CI: 36 to 60 weeks), respectively.

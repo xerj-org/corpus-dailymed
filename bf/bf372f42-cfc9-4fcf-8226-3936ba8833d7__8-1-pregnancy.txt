@@ -1,0 +1,19 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series are insufficient to identify a risk of major birth defects, miscarriage or other maternal or fetal outcomes associated with brivaracetam use during pregnancy. In animal studies, brivaracetam produced evidence of developmental toxicity (increased embryo fetal mortality and decreased fetal body weights in rabbits; decreased growth, delayed sexual maturation, and long-term neurobehavioral changes in rat offspring) at maternal plasma exposures greater than clinical exposures [see Data].
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Oral administration of brivaracetam (0, 150, 300, or 600 mg/kg/day) to pregnant rats during the period of organogenesis did not produce any significant maternal or embryofetal toxicity. The highest dose tested was associated with maternal plasma exposures (AUC) approximately 30 times exposures in humans at the maximum recommended dose (MRD) of 200 mg/day.
+
+                        Oral administration of brivaracetam (0, 30, 60, 120, or 240 mg/kg/day) to pregnant rabbits during the period of organogenesis resulted in embryofetal mortality and decreased fetal body weights at the highest dose tested, which was also maternally toxic. The highest no-effect dose (120 mg/kg/day) was associated with maternal plasma exposures approximately 4 times human exposures at the MRD.
+
+                        When brivaracetam (0, 150, 300, or 600 mg/kg/day) was orally administered to rats throughout pregnancy and lactation, decreased growth, delayed sexual maturation (female), and long-term neurobehavioral changes were observed in the offspring at the highest dose. The highest no-effect dose (300 mg/kg/day) was associated with maternal plasma exposures approximately 7 times human exposures at the MRD.
+
+                        Brivaracetam was shown to readily cross the placenta in pregnant rats after a single oral (5 mg/kg) dose of 14C-brivaracetam. From 1 hour post dose, radioactivity levels in fetuses, amniotic fluid, and placenta were similar to those measured in maternal blood.

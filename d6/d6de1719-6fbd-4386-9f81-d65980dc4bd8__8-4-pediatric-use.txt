@@ -1,0 +1,5 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 8.4 Pediatric Use
+
+For the rivaroxaban 2.5 mg tablets, there are no safety, efficacy, pharmacokinetic and pharmacodynamic data to support the use in pediatric patients. Therefore, rivaroxaban 2.5 mg tablets are not recommended for use in pediatric patients.
+
+                        Although not all adverse reactions identified in the adult population have been observed in clinical trials of children and adolescent patients, the same warnings and precautions for adults should be considered for children and adolescents.

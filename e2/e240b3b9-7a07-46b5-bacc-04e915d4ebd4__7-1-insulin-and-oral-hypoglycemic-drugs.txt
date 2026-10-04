@@ -1,0 +1,3 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 7.1 Insulin and Oral Hypoglycemic Drugs
+
+Lanreotide, like somatostatin and other somatostatin analogs, inhibits the secretion of insulin and glucagon. Therefore, blood glucose levels should be monitored when lanreotide injection treatment is initiated or when the dose is altered, and antidiabetic treatment should be adjusted accordingly [see Warnings and Precautions (5.2)].

@@ -1,0 +1,7 @@
+DailyMed c4da6de7-9ab1-4fcf-88f3-fe785019e6e7 | Estradiol | 8.1 Pregnancy
+
+Risk Summary
+
+                        Estradiol Transdermal System is not indicated for use in pregnancy. There are no data with the use of estradiol transdermal system in pregnant women; however, epidemiologic studies and meta-analyses have not found an increased risk of genital or nongenital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to combined hormonal contraceptives (estrogen and progestins) before conception or during early pregnancy.
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.

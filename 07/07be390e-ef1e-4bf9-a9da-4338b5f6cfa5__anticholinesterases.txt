@@ -1,0 +1,5 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Anticholinesterases
+
+Concomitant use of anticholinesterase agents (e.g., ) and corticosteroids may produce severe weakness in patients with myasthenia gravis. If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy. If concomitant therapy must occur, it should take place under close supervision and the need for respiratory support should be anticipated.
+
+  neostigmine, pyridostigmine

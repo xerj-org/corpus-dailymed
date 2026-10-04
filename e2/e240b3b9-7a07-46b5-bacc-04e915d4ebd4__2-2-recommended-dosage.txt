@@ -1,0 +1,29 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 2.2 Recommended Dosage
+
+Acromegaly
+
+                        The recommended starting dosage of lanreotide injection is 90 mg given via the deep subcutaneous route, at 4-week intervals for 3 months.
+
+                        After 3 months, the dosage may be adjusted as follows:
+
+                           GH greater than 1 ng/mL to less than or equal to 2.5 ng/mL, IGF-1 normal, and clinical symptoms controlled: maintain lanreotide injection dosage at 90 mg every 4 weeks.
+
+                           GH greater than 2.5 ng/mL, IGF-1 elevated, and/or clinical symptoms uncontrolled: increase lanreotide injection dosage to 120 mg every 4 weeks.
+
+                           GH less than or equal to 1 ng/mL, IGF-1 normal, and clinical symptoms controlled: reduce lanreotide injection dosage to 60 mg every 4 weeks.
+
+                        Thereafter, the dosage should be adjusted according to the response of the patient as judged by a reduction in serum GH and/or IGF-1 levels; and/or changes in symptoms of acromegaly.
+
+                        Patients who are controlled on lanreotide injection 60 mg or 90 mg may be considered for an extended dosing interval of lanreotide injection 120 mg every 6 or 8 weeks. GH and IGF-1 levels should be obtained 6 weeks after this change in dosing regimen to evaluate persistence of patient response.
+
+                        Continued monitoring of patient response with dosage adjustments for biochemical and clinical symptom control, as necessary, is recommended.
+
+                           Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)
+
+                        The recommended dosage of lanreotide injection is 120 mg administered every 4 weeks by deep subcutaneous injection.
+
+                           Carcinoid Syndrome
+
+                        The recommended dosage of lanreotide injection is 120 mg administered every 4 weeks by deep subcutaneous injection.
+
+                        If patients are already being treated with lanreotide injection for GEP-NETs, do not administer an additional dose for the treatment of carcinoid syndrome.

@@ -1,0 +1,3 @@
+DailyMed 8fac192f-48ab-4def-9c3a-f1cd50b3e2b7 | POTASSIUM CHLORIDE | 12.3 Pharmacokinetics
+
+Based on published literature, the rate of absorption and urinary excretion of potassium from KCl oral solution were higher during the first few hours after dosing relative to modified release KCl products. The bioavailability of potassium, as measured by the cumulative urinary excretion of K+ over a 24 hour post dose period, is similar for KCl solution and modified release products.

@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 5.13 Blood Glucose Disturbances
+
+As with other fluoroquinolones, disturbances of blood glucose, including symptomatic hyper- and hypoglycemia, have been reported with levofloxacin, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (e.g., glyburide) or with insulin. In these patients, careful monitoring of blood glucose is recommended. If a hypoglycemic reaction occurs in a patient being treated with levofloxacin, levofloxacin should be discontinued and appropriate therapy should be initiated immediately [see Adverse Reactions (6.2); Drug Interactions (7.3); Patient Counseling Information (17)].

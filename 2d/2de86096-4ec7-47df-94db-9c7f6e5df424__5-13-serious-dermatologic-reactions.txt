@@ -1,0 +1,3 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 5.13 Serious Dermatologic Reactions
+
+Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN), Stevens Johnson syndrome (SJS), Acute Generalized Exanthematous Pustulosis (AGEP), and Erythema Multiforme (EM) have been reported with valproate treatment. Valproate should be discontinued at the first sign of a rash, unless the rash is clearly not drug related. If a rash occurs, the patient should be evaluated for signs and symptoms of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.12)]. If signs or symptoms suggest TEN/SJS/AGEP/EM, use of this drug should not be resumed and alternative therapy should be considered.

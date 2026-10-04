@@ -1,0 +1,9 @@
+DailyMed e087ce3b-8d7f-43a3-8d20-54513da7617d | Metformin Hydrochloride | 8.2 Lactation
+
+Risk Summary
+
+                        Limited published studies report that metformin is present in human milk [see Data]. However, there is insufficient information to determine the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production. Therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for metformin hydrochloride and any potential adverse effects on the breastfed child from metformin hydrochloride or from the underlying maternal condition.
+
+                           Data
+
+                        Published clinical lactation studies report that metformin is present in human milk which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1. However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.

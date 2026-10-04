@@ -1,0 +1,39 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of ganciclovir for injection or ganciclovir capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Blood and lymphatic disorders: hemolytic anemia, agranulocytosis, granulocytopenia
+
+                           Cardiac disorders: cardiac arrest, conduction disorder, torsade de pointes, ventricular tachycardia
+
+                           Congenital, familial and genetic disorders: congenital anomaly
+
+                           Endocrine disorders: inappropriate antidiuretic hormone secretion
+
+                           Eye disorders: cataracts, dry eyes
+
+                           Gastrointestinal disorders: intestinal ulcer
+
+                           Hepatobiliary disorders: cholelithiasis, cholestasis, hepatic failure, hepatitis
+
+                           Immune system disorders: anaphylactic reaction, allergic reaction, vasculitis
+
+                           Investigations: blood triglycerides increased
+
+                           Metabolism and nutrition disorders: acidosis, hypercalcemia, hyponatremia
+
+                           Musculoskeletal and connective tissue disorders: arthritis, rhabdomyolysis
+
+                           Nervous system disorders: dysesthesia, dysphasia, extrapyramidal disorder, facial paralysis, amnesia, anosmia, myelopathy, cerebrovascular accident, third cranial nerve paralysis, aphasia, encephalopathy, intracranial hypertension
+
+                           Psychiatric disorders: irritability, hallucinations
+
+                           Renal and urinary disorders: renal tubular disorder, hemolytic uremic syndrome
+
+                           Reproductive system and breast disorders: infertility, testicular hypotrophy
+
+                           Respiratory, thoracic and mediastinal disorders: bronchospasm, pulmonary fibrosis
+
+                           Skin and subcutaneous tissues disorders: exfoliative dermatitis, Stevens-Johnson syndrome
+
+                           Vascular disorders: peripheral ischemia

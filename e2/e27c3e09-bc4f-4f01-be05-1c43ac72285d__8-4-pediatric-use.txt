@@ -1,0 +1,11 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 8.4 Pediatric Use
+
+The frequency, type, and severity of adverse reactions observed were generally consistent with those observed in adults, with the exception of the laboratory abnormalities of hyperbilirubinemia (Grade 3/4: 16%) and transaminase elevation (AST Grade 3/4: 2.9%, ALT Grade 3/4: 10%), which were reported at a higher frequency in pediatric patients than in adults [see Adverse Reactions (6.1)]. For pediatric growth and development, growth retardation has been reported in pediatric patients with Ph+ CML-CP treated with nilotinib [see Warnings and Precautions (5.14 and 5.12), Adverse Reactions (6.1)].
+
+                        The safety and effectiveness of nilotinib in pediatric patients below the age of 1 year with newly diagnosed, or resistant or intolerant Ph+ CML in chronic phase and accelerated phase, have not been established.
+
+                         
+
+                           Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Tasigna
+                           ®
+                            (nilotinib) capsules. However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

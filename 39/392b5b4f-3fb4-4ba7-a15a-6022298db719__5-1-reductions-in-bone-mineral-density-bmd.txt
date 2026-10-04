@@ -1,0 +1,86 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 5.1 Reductions in Bone Mineral Density (BMD)
+
+Reductions in bone mineral density (BMD) over time are seen with exemestane use. Table 1 describes changes in BMD from baseline to 24 months in patients receiving exemestane compared to patients receiving tamoxifen (IES) or placebo (027). Concomitant use of bisphosphonates, vitamin D supplementation, and calcium was not allowed.
+
+                           Table 1. Percent Change in BMD from Baseline to 24 months, Exemestane vs. Control
+   1
+
+                                  |
+
+                                    IES
+                                  |
+
+                                    027
+                                  |
+
+                                       BMD
+
+                                  |
+
+                                       Exemestane
+
+                                       N=29
+
+                                  |
+
+                                       Tamoxifen
+                                       1
+
+                                       N=38
+
+                                  |
+
+                                       Exemestane
+
+                                       N=59
+
+                                  |
+
+                                       Placebo
+                                       1
+
+                                       N=65
+
+                                  |
+
+                                    Lumbar spine (%)
+
+                                  |
+
+                                    -3.1
+
+                                  |
+
+                                    -0.2
+
+                                  |
+
+                                    -3.5
+
+                                  |
+
+                                    -2.4
+
+                                  |
+
+                                    Femoral neck (%)
+
+                                  |
+
+                                    -4.2
+
+                                  |
+
+                                    -0.3
+
+                                  |
+
+                                    -4.6
+
+                                  |
+
+                                    -2.6
+
+                                  |
+
+                        During adjuvant treatment with exemestane, women with osteoporosis or at risk of osteoporosis should have their bone mineral density formally assessed by bone densitometry at the commencement of treatment. Monitor patients for bone mineral density loss and treat as appropriate.

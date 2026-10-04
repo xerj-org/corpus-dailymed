@@ -1,0 +1,3 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 1.4 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin tablets and other antibacterial drugs, azithromycin tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

@@ -1,0 +1,445 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The pooled safety population described in the WARNINGS AND PRECAUTIONS reflects exposure to intravenous IMDELLTRA, as a single agent, at the recommended dosage of IMDELLTRA 1 mg on Cycle 1 Day 1 followed by 10 mg on Days 8 and 15, and then every 2 weeks until disease progression or intolerable toxicity in 473 patients with small cell lung cancer enrolled in three clinical trials: DeLLphi-300, DeLLphi-301 and DeLLphi-304. Among 473 patients who received IMDELLTRA, 40% were exposed for 6 months or longer and 19% were exposed for greater than one year. The most common (≥ 20%) adverse reactions were CRS (57%), fatigue (48%), decreased appetite (38%), dysgeusia (34%), pyrexia (33%), constipation (31%), musculoskeletal pain (31%), and nausea (25%). The most common (≥ 5%) Grade 3 or 4 laboratory abnormalities were decreased lymphocytes (43%), decreased sodium (12%), decreased total neutrophils (9%), and increased uric acid (6%).
+
+                           Extensive Stage Small Cell Lung Cancer
+
+                        The safety of IMDELLTRA was evaluated in 252 patients in DeLLphi-304, a multicenter, randomized, open label trial in patients with extensive stage small cell lung cancer (ES- SCLC) with disease progression following treatment with platinum-based chemotherapy with or without an anti-PD-(L)1 antibody [see Clinical Studies (14.1)]. Patients received IMDELLTRA (n=252) or investigator's choice of topotecan [n=176], lurbinectedin [n=45] or amrubicin [n=23].
+
+                        Among patients who received IMDELLTRA, 41% were exposed for 6 months or longer and 18% were exposed for greater than one year.
+
+                        The demographic characteristics of patients who received IMDELLTRA were: median age 64 years (range: 20 to 86); 71% male; 60% White, 38 % Asian, 0.8% Black or African American; and 4.8% were of Hispanic or Latino ethnicity.
+
+                        Serious adverse reactions occurred in 52% of patients who received IMDELLTRA. Serious adverse reactions in >3% of patients included CRS (17%), pyrexia (6%), pneumonia (5%) and ICANS (3.6%). Fatal adverse reactions occurred in 8% of patients who received IMDELLTRA, including one fatal adverse reaction of ICANS (0.4%). Fatal adverse reactions occurring in more than one patient included pneumonia (1.6%), cardio-respiratory arrest (1.6%), and sepsis (0.8%).
+
+                        Permanent discontinuation of IMDELLTRA due to an adverse reaction occurred in 6% of patients. Adverse reactions which resulted in permanent discontinuation of IMDELLTRA in > 1% of patients included pneumonia (1.2%).
+
+                        Dosage interruptions of IMDELLTRA due to an adverse reaction occurred in 38% of patients. Adverse reactions which required dosage interruption in ≥ 2% of patients included neutropenia (5%), fatigue (4.4%), pneumonia (4%), decreased appetite (2.8%), COVID-19 (2%).
+
+                        Table 13 summarizes adverse reactions observed in DeLLphi-304.
+
+                           Table 13. Adverse Reactions (≥ 15%) in Patients with SCLC Who Received IMDELLTRA in DeLLphi-304
+
+                                 Adverse Reaction |
+                                 IMDELLTRAGraded using CTCAE Version 4.0 and Version 5.0.
+
+(N = 252) |
+                                 Standard of Care
+
+(N = 244) |
+
+                                  |
+                                 Any Grade
+
+(%) |
+                                 Grade 3 or 4
+
+(%) |
+                                 Any Grade
+
+(%) |
+                                 Grade 3 or 4
+
+(%) |
+
+                                    Immune system disorders
+                                  |
+
+                                   Cytokine release syndromeBased on American Society for Transplantation and Cellular Therapy (ASTCT) 2019.
+
+                                  |
+                                 56 |
+                                 1.2 |
+                                 1.2 |
+                                 0 |
+
+                                    General disorders and administration site conditions
+                                  |
+
+                                   FatigueIncludes fatigue and asthenia
+
+                                  |
+                                 39 |
+                                 6 |
+                                 43 |
+                                 10 |
+
+                                   PyrexiaIncludes body temperature increased, hyperthermia, pyrexia
+
+                                  |
+                                 29 |
+                                 1.2 |
+                                 11 |
+                                 1.2 |
+
+                                    Metabolism and nutrition disorders
+                                  |
+
+                                   Decreased appetite |
+                                 37 |
+                                 2 |
+                                 23 |
+                                 1.6 |
+
+                                    Gastrointestinal disorders
+                                  |
+
+                                   Constipation |
+                                 30 |
+                                 0.4 |
+                                 22 |
+                                 0 |
+
+                                   Nausea |
+                                 25 |
+                                 0.4 |
+                                 32 |
+                                 0 |
+
+                                    Nervous system disorders
+                                  |
+
+                                   DysgeusiaIncludes ageusia, dysgeusia, hypogeusia
+
+                                  |
+                                 28 |
+                                 0 |
+                                 2.5 |
+                                 0 |
+
+                                   HeadacheIncludes headache and tension headache
+
+                                  |
+                                 16 |
+                                 0 |
+                                 9 |
+                                 0 |
+
+                                    Musculoskeletal and connective tissue disorders
+                                  |
+
+                                   Musculoskeletal painIncludes arthralgia, back pain, bone pain, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity, spinal pain
+
+                                  |
+                                 27 |
+                                 1.6 |
+                                 21 |
+                                 2.5 |
+
+                                    Respiratory, thoracic and mediastinal disorders
+                                  |
+
+                                   CoughIncludes cough and productive cough
+
+                                  |
+                                 17 |
+                                 0 |
+                                 17 |
+                                 0 |
+
+                        Clinically relevant adverse reactions occurring in < 15% of patients who received IMDELLTRA were immune effector cell-associated neurotoxicity syndrome, neurotoxicity, tremor, seizure, ataxia, confusional state, delirium, dyspnea, encephalopathy and weight decreased.
+
+                        Table 14 summarizes laboratory abnormalities in DeLLphi-304.
+
+                           Table 14. Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with SCLC in DeLLphi-304
+
+                                 Laboratory Abnormality |
+                                 IMDELLTRAThe denominator used to calculate the rate varied for IMDELLTRA (Range: 229 to 250) and SOC (Range: 205 to 226) based on the number of patients with a baseline value and at least one post-treatment value.
+
+N=252 |
+                                 Standard of care
+
+N=244 |
+
+                                 All Grades
+
+(%) |
+                                 Grade 3 or 4
+
+(%) |
+                                 All Grades
+
+(%) |
+                                 Grade 3 or 4
+
+(%) |
+
+                                    Hematology
+                                  |
+
+                                 Lymphocytes decreased |
+                                 65 |
+                                 27 |
+                                 62 |
+                                 27 |
+
+                                 Hemoglobin decreased |
+                                 51 |
+                                 4.5 |
+                                 86 |
+                                 29 |
+
+                                 White blood cells decreased |
+                                 50 |
+                                 7 |
+                                 70 |
+                                 29 |
+
+                                 Platelets decreased |
+                                 25 |
+                                 0.4 |
+                                 55 |
+                                 20 |
+
+                                 Neutrophils decreasedAll Grade lab abnormalities occurring at a frequency less than 20% included decreased neutrophils.
+
+                                  |
+                                 15 |
+                                 10 |
+                                 44 |
+                                 36 |
+
+                                    Chemistry
+                                  |
+
+                                 Sodium decreased |
+                                 57 |
+                                 8 |
+                                 38 |
+                                 7 |
+
+                                 Potassium decreased |
+                                 41 |
+                                 4.8 |
+                                 34 |
+                                 4 |
+
+                                 Aspartate amino transferase increased |
+                                 40 |
+                                 2.8 |
+                                 29 |
+                                 0.4 |
+
+                                 Sodium increased |
+                                 35 |
+                                 0.4 |
+                                 27 |
+                                 0 |
+
+                                 Alanine aminotransferase increased |
+                                 32 |
+                                 2 |
+                                 25 |
+                                 0.9 |
+
+                                 Activated Partial Thromboplastin Time (sec) increased |
+                                 26 |
+                                 1.3 |
+                                 16 |
+                                 0.9 |
+
+                                 Creatinine increased |
+                                 23 |
+                                 0.8 |
+                                 19 |
+                                 0.4 |
+
+                                 Alkaline phosphate increased |
+                                 22 |
+                                 0.4 |
+                                 26 |
+                                 1.4 |
+
+                                 Magnesium decreased |
+                                 21 |
+                                 0.8 |
+                                 15 |
+                                 1.8 |
+
+                                 Potassium increased |
+                                 21 |
+                                 0.8 |
+                                 12 |
+                                 1.8 |
+
+                                 Creatine Phosphokinase increased |
+                                 21 |
+                                 1.7 |
+                                 11 |
+                                 0 |
+
+                           DeLLphi-300 and DeLLphi-301
+
+                        The safety of IMDELLTRA, as a single agent, at the recommended dosage was evaluated in patients with extensive stage small cell lung cancer enrolled in DeLLphi-300 and DeLLphi-301 [see Clinical Studies (14.1)]. Among 187 patients who received IMDELLTRA, 31% were exposed for 6 months or longer and 14% were exposed for greater than one year.
+
+                        The demographic characteristics of patients who received IMDELLTRA were: median age 66 years (range: 35 to 82); 65% male; 70% White, 26% Asian, 2.1% Black or African American; and 2.1% Hispanic or Latino.
+
+                        Serious adverse reactions occurred in 58% of patients who received IMDELLTRA. Serious adverse reactions in >3% of patients included cytokine release syndrome (24%), pneumonia (6%), pyrexia (3.7%) and hyponatremia (3.6%). Fatal adverse reactions occurred in 2.7% of patients who received IMDELLTRA including pneumonia 0.5%, aspiration (0.5%), pulmonary embolism (0.5%), respiratory acidosis (0.5%), and respiratory failure (0.5%).
+
+                        Permanent discontinuation of IMDELLTRA due to an adverse reaction occurred in 7% of patients. Adverse reactions which resulted in permanent discontinuation of IMDELLTRA in >1% of patients included cytokine release syndrome (1.6%) and tumor lysis syndrome (1.1%).
+
+                        Dosage interruptions of IMDELLTRA due to an adverse reaction occurred in 27% of patients. Adverse reactions which required dosage interruption in ≥ 2% of patients included fatigue (3.2%), cytokine release syndrome (2.7%) and respiratory tract infection (2.1%).
+
+                        Table 15 summarizes adverse reactions observed in DeLLphi-300 and DeLLphi-301.
+
+                           Table 15. Adverse Reactions (≥ 15%) in Patients with ES-SCLC Who Received IMDELLTRA in DeLLphi-300 and DeLLphi-301
+
+                                 Adverse Reaction |
+                                 IMDELLTRAGraded using CTCAE Version 4.0 and Version 5.0.
+
+ (N = 187) |
+
+                                 Any Grade
+
+(%) |
+                                 Grade 3 or 4
+
+(%) |
+
+                                    Immune system disorders
+                                  |
+
+                                 Cytokine release syndromeBased on American Society for Transplantation and Cellular Therapy (ASTCT) 2019.
+
+                                  |
+                                 55 |
+                                 1.6 |
+
+                                    General disorders and administration site conditions
+                                  |
+
+                                 FatigueIncludes fatigue and asthenia.
+
+                                  |
+                                 51 |
+                                 10 |
+
+                                 Pyrexia |
+                                 36 |
+                                 0 |
+
+                                    Nervous system disorders
+                                  |
+
+                                 Dysgeusia |
+                                 36 |
+                                 0 |
+
+                                    Metabolism and nutrition disorders
+                                  |
+
+                                 Decreased appetite |
+                                 34 |
+                                 2.7 |
+
+                                 Nausea |
+                                 22 |
+                                 1.6 |
+
+                                    Gastrointestinal disorders
+                                  |
+
+                                 Constipation |
+                                 30 |
+                                 0.5 |
+
+                                    Musculoskeletal and connective tissue disorders
+                                  |
+
+                                 Musculoskeletal painIncludes myalgia, arthralgia, back pain, pain in extremity, neck pain, musculoskeletal chest pain, non- cardiac chest pain and bone pain.
+
+                                  |
+                                 30 |
+                                 1.1 |
+
+                                    Respiratory, thoracic and mediastinal disorders
+                                  |
+
+                                 DyspneaIncludes dyspnea and exertional dyspnea.
+
+                                  |
+                                 17 |
+                                 2.1 |
+
+                                 Cough |
+                                 17 |
+                                 0 |
+
+                        Table 16 summarizes laboratory abnormalities in DeLLphi-300 and DeLLphi-301.
+
+                           Table 16. Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with ES - SCLC in DeLLphi-300 and DeLLphi-301
+
+                                  |
+                                 IMDELLTRAThe denominator used to calculate the rate varied from 41 to 187 based on the number of patients with a baseline value and at least one post-treatment value.
+
+                                  |
+
+                                   |
+                                 All Grades (%) |
+                                 Grade 3 or 4 (%) |
+
+                                 Laboratory Abnormality |
+                                   |
+                                   |
+
+                                    Hematology
+                                  |
+
+                                 Lymphocytes decreased |
+                                 84 |
+                                 57 |
+
+                                 Hemoglobin decreased |
+                                 58 |
+                                 5 |
+
+                                 White blood cells decreased |
+                                 44 |
+                                 3.8 |
+
+                                 Platelets decreased |
+                                 33 |
+                                 3.2 |
+
+                                 Neutrophils decreasedAll Grade lab abnormalities occurring at a frequency less than 20% included decreased neutrophils.
+
+                                  |
+                                 12 |
+                                 6 |
+
+                                    Chemistry
+                                  |
+
+                                 Sodium decreased |
+                                 68 |
+                                 16 |
+
+                                 Potassium decreased |
+                                 50 |
+                                 5 |
+
+                                 Aspartate amino transferase increased |
+                                 44 |
+                                 3.2 |
+
+                                 Alanine aminotransferase increased |
+                                 42 |
+                                 2.1 |
+
+                                 Magnesium decreased |
+                                 33 |
+                                 1.6 |
+
+                                 Creatinine increased |
+                                 29 |
+                                 0.5 |
+
+                                 Sodium increased |
+                                 26 |
+                                 0 |
+
+                                 Alkaline phosphate increased |
+                                 22 |
+                                 0 |

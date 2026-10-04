@@ -1,0 +1,3 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 5.9 Cyanocobalamin (Vitamin B-12) Deficiency
+
+Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than 3 years) may lead to malabsorption of cyanocobalamin (vitamin B-12) caused by hypo- or achlorhydria. Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature. This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed in patients treated with omeprazole and sodium bicarbonate.

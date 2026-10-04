@@ -1,0 +1,27 @@
+DailyMed b07b5ac4-253e-4c83-91c3-3fdc46e91a0f | AMOXICILLIN | 6 ADVERSE REACTIONS
+
+The following are discussed in more detail in other sections of the labeling:
+
+                     Anaphylactic reactions
+
+   [see
+
+    Warnings and Precautions (5.1)]
+
+                     Severe Cutaneous Adverse Reactions
+
+   [see
+
+    Warnings and Precautions (5.2)]
+
+                     Drug-Induced Enterocolitis Syndrome (DIES)
+
+   [see
+
+    Warnings and Precautions (5.3)]
+
+                        Clostridioides difficile-Associated Diarrhea (CDAD)
+
+   [see
+
+    Warnings and Precautions (5.4)]

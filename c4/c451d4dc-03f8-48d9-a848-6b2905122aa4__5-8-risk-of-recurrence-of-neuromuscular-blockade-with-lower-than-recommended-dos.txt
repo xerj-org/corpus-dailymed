@@ -1,0 +1,5 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.8 Risk of Recurrence of Neuromuscular Blockade with Lower Than Recommended Dosing
+
+The use of lower than recommended doses of Sugammadex Injection may lead to an increased risk of recurrence of neuromuscular blockade after initial reversal and is not recommended
+
+  [see Dosage and Administration (2.2), Adverse Reactions (6.1)].

@@ -1,0 +1,9 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 5.5 Thrombosis
+
+Thrombosis, including pulmonary embolism (PE), deep vein thrombosis (DVT) and cerebral venous sinus thrombosis (CVT) have been reported in clinical trials of deuruxolitinib [see Adverse Reactions (6.1)]. There was no clear relationship between platelet count elevations and thrombotic events.
+
+                        Thrombosis, including DVT, PE, and arterial thrombosis have been reported in subjects receiving JAK inhibitors used to treat inflammatory conditions. Many of these adverse reactions were serious and some resulted in death.
+
+                        In a large, randomized, postmarketing safety trial of another JAK inhibitor in subjects with RA 50 years of age and older with at least one cardiovascular risk factor, higher rates of overall thrombosis, DVT, and PE were observed compared to those treated with TNF blockers.
+
+                        Avoid LEQSELVI in patients who may be at increased risk of thrombosis. If symptoms of thrombosis occur, discontinue LEQSELVI and evaluate and treat patients appropriately.

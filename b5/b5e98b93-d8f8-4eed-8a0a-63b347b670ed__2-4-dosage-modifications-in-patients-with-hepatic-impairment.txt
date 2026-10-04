@@ -1,0 +1,3 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 2.4 Dosage Modifications in Patients with Hepatic Impairment
+
+Both the recommended starting dosage and therapeutic range in patients with mild hepatic impairment (Child Pugh scores 5 or 6) are half the recommended daily dosage [See Dosage and Administration (2.1, 2.2)]. The use of sertraline hydrochloride tablets in patients with moderate (Child Pugh scores 7 to 9) or severe hepatic impairment (Child Pugh scores 10 to 15) is not recommended [See Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].

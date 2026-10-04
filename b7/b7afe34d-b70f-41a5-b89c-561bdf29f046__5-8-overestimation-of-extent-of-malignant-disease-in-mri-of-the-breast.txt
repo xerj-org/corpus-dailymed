@@ -1,0 +1,3 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 5.8 Overestimation of Extent of Malignant Disease in MRI of the Breast
+
+GADAVIST MRI of the breast overestimated the histologically confirmed extent of malignancy in the diseased breast in up to 50% of the patients [see Clinical Studies (14.2)].

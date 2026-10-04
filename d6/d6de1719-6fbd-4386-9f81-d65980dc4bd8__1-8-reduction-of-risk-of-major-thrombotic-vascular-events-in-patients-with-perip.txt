@@ -1,0 +1,3 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 1.8 Reduction of Risk of Major Thrombotic Vascular Events in Patients with Peripheral Artery Disease (PAD), Including Patients after Lower Extremity Revascularization due to Symptomatic PAD
+
+Rivaroxaban tablets, in combination with aspirin, is indicated to reduce the risk of major thrombotic vascular events (myocardial infarction, ischemic stroke, acute limb ischemia, and major amputation of a vascular etiology) in adult patients with PAD, including patients who have recently undergone a lower extremity revascularization procedure due to symptomatic PAD.

@@ -1,0 +1,9 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Patients with Renal or Hepatic Impairment
+
+Ceftriaxone is excreted via both biliary and renal excretion (see
+                              CLINICAL PHARMACOLOGY
+                           ). Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of ceftriaxone are administered.
+
+                        Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the ceftriaxone dosage should not exceed 2 gm daily.
+
+                        Ceftriaxone is not removed by peritoneal- or hemodialysis. In patients undergoing dialysis no additional supplementary dosing is required following the dialysis. In patients with both severe renal and hepatic dysfunction, close clinical monitoring for safety and efficacy is advised.

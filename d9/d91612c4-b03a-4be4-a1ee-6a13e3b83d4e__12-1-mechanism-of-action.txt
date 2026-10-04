@@ -1,0 +1,3 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 12.1 Mechanism of Action
+
+The precise mechanism by which ganaxolone exerts its therapeutic effects in the treatment of seizures associated with CDD is unknown, but its anticonvulsant effects are thought to result from positive allosteric modulation of the gamma-aminobutyric acid type A (GABAA) receptor in the CNS.

@@ -1,0 +1,7 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 12.5 Pharmacogenomics
+
+Nilotinib can increase bilirubin levels. The (TA)7/(TA)7 genotype of UGT1A1 was associated with a statistically significant increase in the risk of hyperbilirubinemia relative to the (TA)6/(TA)6 and (TA)6/(TA)7 genotypes. However, the largest increases in bilirubin were observed in the (TA)7/(TA)7 genotype (UGT1A1*28) patients [see Warnings and Precautions (
+
+                              5.6
+
+                           )].

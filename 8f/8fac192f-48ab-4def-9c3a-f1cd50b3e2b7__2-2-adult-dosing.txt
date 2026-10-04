@@ -1,0 +1,11 @@
+DailyMed 8fac192f-48ab-4def-9c3a-f1cd50b3e2b7 | POTASSIUM CHLORIDE | 2.2 Adult Dosing
+
+Treatment of hypokalemia
+
+                        Daily dose range from 40 to 100 mEq. Give in 2 to 5 divided doses; limit doses to 40 mEq per dose. The total daily dose should not exceed 200 mEq in a 24 hour period.
+
+                           Maintenance or Prophylaxis
+
+                        Typical dose is 20 mEq per day. Individualize dose based upon serum potassium levels.
+
+                        Studies support the use of potassium replacement in digitalis toxicity. When alkalosis is present, normokalemia and hyperkalemia may obscure a total potassium deficit. The advisability of use of potassium replacement in the setting of hyperkalemia is uncertain.

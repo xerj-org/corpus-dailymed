@@ -1,0 +1,37 @@
+DailyMed cf32b795-bf42-4861-b273-06d27de3f21d | Gemfibrozil | CONTRAINDICATIONS
+
+Hepatic or severe renal dysfunction, including primary biliary cirrhosis.
+
+                     Preexisting gallbladder disease (see
+
+                           WARNINGS
+                        ).
+
+                     Hypersensitivity to gemfibrozil.
+
+                     Combination therapy of gemfibrozil with simvastatin (see 
+
+                              WARNINGS
+                            
+
+   and 
+
+    
+
+                           PRECAUTIONS
+                        ).
+
+                     Combination therapy of gemfibrozil with repaglinide (see
+
+                           PRECAUTIONS
+                        ).
+
+                     Combination therapy of gemfibrozil with dasabuvir (see
+
+                           PRECAUTIONS
+                        ).
+
+                     Combination therapy of gemfibrozil with selexipag (see
+
+                           PRECAUTIONS
+                        ).

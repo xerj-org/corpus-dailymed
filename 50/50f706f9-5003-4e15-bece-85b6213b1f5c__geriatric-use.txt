@@ -1,0 +1,6 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Geriatric Use
+
+Clinical studies of rifampin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Caution should therefore be observed in using rifampin in elderly patients. (See
+
+                              WARNINGS
+                           ).

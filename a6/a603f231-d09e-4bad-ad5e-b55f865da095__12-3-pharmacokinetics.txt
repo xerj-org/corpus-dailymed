@@ -1,0 +1,56 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 12.3 Pharmacokinetics
+
+Following oral administration of deuruxolitinib, Cmax and AUCs increased dose proportionally over a dose range from 8 mg to 48 mg (6 times the approved recommended dosage) in healthy subjects. Steady-state plasma concentrations were achieved within 1 to 2 days, with minimal accumulation, after twice daily administration.
+
+                           Absorption
+
+                        Deuruxolitinib bioavailability is 90%, with peak plasma concentrations reached within 1.5 hrs.
+
+                           Effect of Food
+
+                        No clinically significant differences in the pharmacokinetics of deuruxolitinib were observed following administration of a high fat, high calorie meal (approximately 50% fat and 800-1000 calories).
+
+                           Distribution
+
+                        The deuruxolitinib steady state volume of distribution is approximately 50L. Deuruxolitinib plasma protein binding is 91.5% and blood to plasma concentration ratio is approximately 1.3.
+
+                           Elimination
+
+                        The deuruxolitinib mean elimination half-life is approximately 4 hrs.
+
+                           Metabolism
+
+                        Deuruxolitinib is primarily metabolized by CYP2C9 (76%) and CYP3A4 (21%) and to a lesser extent by CYP1A2 (3%). The two most abundant human metabolites C-21714 and C-21717, each of which accounted for approximately 5% of total drug-related AUC and both are approximately 10-fold less pharmacologically active than deuruxolitinib.
+
+                           Excretion
+
+                        After a single dose of radiolabeled deuruxolitinib, there was no unchanged dose recovered in either urine or feces.
+
+                           Specific Populations
+
+                        No clinically significant differences in the pharmacokinetics of deuruxolitinib were observed based on race [White (75%), African American (17%) and Asian (6%)], ethnicity [Hispanic or Latino (12%)], age (18-65 years), body weight (40.4-173 kg), mild to moderate renal impairment (eGFR 30-89 mL/min, MDRD), or mild to moderate hepatic impairment (Child Pugh A or B).
+								The effect of severe renal impairment (eGFR < 30 mL/min, MDRD) or severe hepatic impairment (Child Pugh C) on deuruxolitinib pharmacokinetics is unknown.
+
+                           Drug Interaction Studies
+
+                           Clinical Studies and Model-Informed Approaches
+
+                           Effect of Other Drugs on LEQSELVI
+
+                           Strong CYP3A4 and Moderate or strong CYP2C9 Inducers: Deuruxolitinib AUC decreased by 78% and Cmax by 41% following concomitant use of multiple doses of 600 mg rifampin (strong CYP3A4 and moderate CYP2C9 inducer) with a single dose of 12 mg deuruxolitinib (1.5 times the approved 8 mg dose).
+
+                           Strong CYP2C9 Inhibitors: Based on modeling, deuruxolitinib AUC is predicted to be increased by 200% and Cmax by 25% following concomitant use of multiple dosages of a strong CYP2C9 inhibitor with a single dose of 12 mg deuruxolitinib (1.5 times the approved 8 mg dose).
+
+                           Moderate CYP2C9 Inhibitors: Deuruxolitinib AUC increased by 140% and Cmax by 21% following concomitant use of multiple dosages of 200 mg fluconazole (dual moderate CYP3A4 and CYP2C9 inhibitor) with a single dose of 12 mg deuruxolitinib (1.5 times the approved 8 mg dose).
+
+                           Other Drugs: No clinically significant differences in deuruxolitinib pharmacokinetics were observed when used concomitantly with itraconazole (strong CYP3A4 inhibitor) or are expected with efavirenz (moderate CYP3A4 inducer).
+
+                           Effect of LEQSELVI on Other Drugs:
+
+                        No clinically significant differences in the pharmacokinetics of the following drugs were observed when co-administered with deuruxolitinib: midazolam (a sensitive CYP3A4 substrate), oral contraceptives (ethinyl estradiol and levonorgestrel).
+
+                           In Vitro Studies
+
+                           Cytochrome P450 (CYP) Enzymes: Deuruxolitinib is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C19, CYP2D6, or CYP3A4. Deuruxolitinib is not an inducer of CYP1A2 or CYP2B6, CYP2C8 or CYP2C19.
+
+                           Transporter Systems: Deuruxolitinib is a substrate of BCRP and MDR1 but not a substrate of the uptake transporters OATP1B1 and OATP1B3. Deuruxolitinib is not an inhibitor of OATP1B1, OATP1B3 and OCT1 but is an inhibitor of BCRP, BSEP, OAT3 and MATE2-K.

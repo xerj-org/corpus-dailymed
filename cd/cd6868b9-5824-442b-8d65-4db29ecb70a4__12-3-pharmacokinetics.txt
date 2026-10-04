@@ -1,0 +1,380 @@
+DailyMed cd6868b9-5824-442b-8d65-4db29ecb70a4 | ZEGERID | 12.3 Pharmacokinetics
+
+Absorption
+
+                           Tables 9 and 10 show the systemic exposures and the time reach peak concentration (Tmax) of omeprazole in healthy subjects following administration of ZEGERID capsules and oral suspension, respectively, on an empty stomach one hour prior to a meal.
+
+                           Table 9: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once-Daily Doses of ZEGERID Capsules
+
+                                  |
+
+                                       20 mg ZEGERID capsules
+
+                                  |
+
+                                       40 mg ZEGERID capsules
+
+                                  |
+
+                                  |
+
+                                    Day 1
+
+                                  |
+
+                                    Day 7
+
+                                  |
+
+                                    % Change (Day 7/Day 1)
+
+                                  |
+
+                                    Day 1
+
+                                  |
+
+                                    Day 7
+
+                                  |
+
+                                    % Change (Day 7/Day 1)
+
+                                  |
+
+                                    Cmax (ng/mL)
+
+                                  |
+
+                                    498.1 (50.9)
+
+                                  |
+
+                                    679.8 (44.0)
+
+                                  |
+
+                                    36
+
+                                  |
+
+                                    1154 (53.0)
+
+                                  |
+
+                                    1526 (48.7)
+
+                                  |
+
+                                    32
+
+                                  |
+
+                                    Tmax (hr)
+
+                                    [min – max]
+
+                                  |
+
+                                    0.61
+
+                                    [0.25-1.5]
+
+                                  |
+
+                                    0.82
+
+                                    [0.25-1.5]
+
+                                  |
+
+                                    n.a.
+
+                                  |
+
+                                    0.56
+
+                                    [0.25-1.5]
+
+                                  |
+
+                                    0.97
+
+                                    [0.25-3.5]
+
+                                  |
+
+                                    n.a.
+
+                                  |
+
+                                    AUC0-inf
+                                       AUC0-24h was used on Day 7
+
+(ng•hr/mL)
+
+                                  |
+
+                                    509.7 (60.5)
+
+                                  |
+
+                                    1029 (67.9)
+
+                                  |
+
+                                    102
+
+                                  |
+
+                                    1882 (120)
+
+                                  |
+
+                                    3866 (83.3)
+
+                                  |
+
+                                    105
+
+                                  |
+
+                                    n.a.: not applicable
+
+                                  |
+
+                           Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once-Daily Doses of ZEGERID Oral Suspension
+
+                                  |
+
+                                       20 mg ZEGERID oral suspension
+
+                                  |
+
+                                       40 mg ZEGERID oral suspension
+
+                                  |
+
+                                  |
+
+                                    Day 1
+
+                                  |
+
+                                    Day 7
+
+                                  |
+
+                                    % Change
+
+                                    (Day 7/Day 1)
+
+                                  |
+
+                                    Day 1
+
+                                  |
+
+                                    Day 7
+
+                                  |
+
+                                    % Change (Day 7/Day 1)
+
+                                  |
+
+                                    Cmax (ng/mL)
+
+                                  |
+
+                                    671.9 (43.8)
+
+                                  |
+
+                                    902.2 (39.6)
+
+                                  |
+
+                                    34
+
+                                  |
+
+                                    1412 (43.7)
+
+                                  |
+
+                                    1954 (33.5)
+
+                                  |
+
+                                    38
+
+                                  |
+
+                                    Tmax (hr)
+
+                                    [min – max]
+
+                                  |
+
+                                    0.50
+
+                                    [0.17-1.5]
+
+                                  |
+
+                                    0.47
+
+                                    [0.17-1.0]
+
+                                  |
+
+                                    n.a.
+
+                                  |
+
+                                    0.44
+
+                                    [0.17-1.0]
+
+                                  |
+
+                                    0.58
+
+                                    [0.25-1.0]
+
+                                  |
+
+                                    n.a.
+
+                                  |
+
+                                    AUC0-inf
+                                       AUC0-24h was used on Day 7
+
+(ng•hr/mL)
+
+                                  |
+
+                                    825.4 (71.9)
+
+                                  |
+
+                                    1449 (61.7)
+
+                                  |
+
+                                    76
+
+                                  |
+
+                                    2228 (107)
+
+                                  |
+
+                                    4692 (60.5)
+
+                                  |
+
+                                    111
+
+                                  |
+
+                                    n.a.: not applicable
+
+                                  |
+
+                        Following single or repeated once-daily dosing, peak plasma concentrations (Cmax) of omeprazole from ZEGERID were approximately proportional from 20 to 40 mg doses. A greater than dose proportional increase in mean steady-state AUC (more than three-fold increase on Day 7) was observed when doubling the dose to 40 mg. The bioavailability of omeprazole from ZEGERID increases upon repeated administration. The percent changes in Cmax and AUC between steady-state (Day 7) and single dose (Day 1) indicate omeprazole is a time-dependent autoinhibitor of CYP2C19.
+
+                        When ZEGERID for oral suspension 40 mg was administered in a two-dose loading regimen, the omeprazole AUC(0-inf) (ng•hr/mL) was 1665 after Dose 1 and 3356 after Dose 2, while Tmax was approximately 30 minutes for both Dose 1 and Dose 2.
+
+                        When ZEGERID for oral suspension 40 mg or ZEGERID capsule 40 mg is administered one hour after a meal, the omeprazole AUC is reduced by approximately 27% and 22%, respectively, relative to administration one hour prior to a meal [see
+                            (2.3)].
+
+                           Distribution
+
+                        Omeprazole is bound to plasma proteins. Protein binding is approximately 95%.
+
+                           Elimination
+
+                           Metabolism
+
+                        Omeprazole is extensively metabolized by the cytochrome P450 (CYP) enzyme system. The major part of its metabolism is dependent on the polymorphically expressed CYP2C19 [see Clinical Pharmacology (12.5)], responsible for the formation of hydroxyomeprazole, the major metabolite in plasma. The remaining part is dependent on another specific isoform, CYP3A4, responsible for the formation of omeprazole sulphone.
+
+                        The mean plasma omeprazole half-life following administration of ZEGERID capsule or ZEGERID oral suspension in healthy subjects is approximately 1 hour (range 0.4 to 4.2 hours), and the total body clearance is 500 to 600 mL/min.
+
+                           Excretion
+
+                        Following single-dose oral administration of a buffered solution of omeprazole, the majority of the dose (about 77%) is eliminated in urine as at least six metabolites. Two metabolites have been identified as hydroxyomeprazole and the corresponding carboxylic acid. The remainder of the dose was recoverable in feces. This implies a significant biliary excretion of the metabolites of omeprazole. Three metabolites have been identified in plasma – the sulfide and sulfone derivatives of omeprazole, and hydroxyomeprazole. These metabolites have very little or no antisecretory activity.
+
+                           Specific Populations
+
+                           Geriatric Patients
+
+                        The elimination rate of omeprazole was somewhat decreased in the elderly, and bioavailability was increased. Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly subjects versus 58% in young subjects given the same dose. Nearly 70% of the dose was recovered in urine as metabolites of omeprazole, and no unchanged drug was detected. The plasma clearance of omeprazole was 250 mL/min (about half that of young subjects), and its plasma half-life averaged one hour, similar to that of young healthy subjects.
+
+                           Male and Female Patients
+
+                        There are no known differences in the absorption or excretion of omeprazole between males and females.
+
+                           Racial or Ethnic Groups
+
+                           [see Clinical Pharmacology (12.5)]
+
+                           Patients with Renal Impairment
+
+                        In patients with chronic renal impairment (creatinine clearance between 10 and 62 mL/min/1.73 m2), the disposition of omeprazole was very similar to that in healthy subjects, although there was a slight increase in bioavailability. Because urinary excretion is a primary route of excretion of omeprazole metabolites, their elimination slowed in proportion to the decreased creatinine clearance. This increase in bioavailability is not considered to be clinically meaningful.
+
+                           Patients with Hepatic Impairment
+
+                        In patients with chronic hepatic disease classified as Child-Pugh Class A (n=3), B (n=4) and C (n=1), the bioavailability of omeprazole increased to approximately 100% compared to healthy subjects, reflecting decreased first-pass effect, and the plasma half-life of the drug increased to nearly 3 hours compared to the in healthy subjects of 0.5 to 1 hour. Plasma clearance averaged 70 mL/min, compared to a value of 500 to 600 mL/min in healthy subjects [see Use in Specific Populations (8.6)].
+
+                           Drug Interactions Studies
+
+                           Effect of Omeprazole on Other Drugs
+
+                        Omeprazole is a time-dependent inhibitor of CYP2C19 and can increase the systemic exposure of co-administered drugs that are CYP2C19 substrates. In addition, administration of omeprazole increases intragastric pH and can alter the systemic exposure of certain drugs that exhibit pH-dependent solubility [see Drug Interactions (7)].
+
+                              Antiretrovirals
+
+                        For some antiretroviral drugs, such as rilpivirine, atazanavir and nelfinavir, decreased serum concentrations have been reported when given together with omeprazole [see Drug Interactions (7)].
+
+                           Rilpivirine: Following multiple doses of rilpivirine (150 mg, daily) and omeprazole (20 mg, daily), AUC was decreased by 40%, Cmax by 40%, and Cmin by 33% for rilpivirine.
+
+                           Nelfinavir: Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
+
+                           Atazanavir: Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
+
+                           Saquinavir: Following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
+
+                        AUC was increased by 82%, Cmax by 75%, and Cmin by 106%. The mechanism behind this interaction is not fully elucidated. Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with PRILOSEC.
+
+                              Clopidogrel
+
+                        In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as clopidogrel) for 5 days. The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when clopidogrel and omeprazole were administered together.
+
+                        Results from another crossover study in healthy subjects showed a similar pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and omeprazole 80 mg daily when coadministered for 30 days. Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
+
+                        In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole, but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.8) and Drug Interactions (7)].
+
+                              Mycophenolate Mofetil
+
+                        Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a crossover study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA [see Drug Interactions (7)].
+
+                              Cilostazol
+
+                        Omeprazole acts as an inhibitor of CYP2C19. Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in crossover study, increased Cmax and AUC of cilostazol by 18% and 26% respectively. The Cmax and AUC of one of the active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69%, respectively. Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and the above mentioned active metabolite [see Drug Interactions (7)].
+
+                              Diazepam
+
+                        Concomitant administration of omeprazole 20 mg once daily and diazepam 0.1 mg/kg given intravenously resulted in 27% decrease in clearance and 36% increase in diazepam half-life [see Drug Interactions (7)].
+
+                              Digoxin
+
+                        Concomitant administration of omeprazole 20 mg once daily and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects) [see Drug Interactions (7)].
+
+                           Effect of Other Drugs on Omeprazole
+
+                              Voriconazole
+
+                        Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure. When voriconazole (400 mg every 12 hours for one day, followed by 200 mg once daily for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, the steady-state Cmax and AUC0-24 of omeprazole significantly increased: an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4), respectively, as compared to when omeprazole was given without voriconazole [see Drug Interactions (7)].

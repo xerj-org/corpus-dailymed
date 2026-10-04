@@ -1,0 +1,5 @@
+DailyMed d45da80a-58c3-4461-adf6-a85531c09eb8 | Telmisartan | 5.2 Hypotension
+
+In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of therapy with telmisartan tablets. Either correct this condition prior to administration of telmisartan tablets, or start treatment under close medical supervision with a reduced dose.
+
+                        If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.

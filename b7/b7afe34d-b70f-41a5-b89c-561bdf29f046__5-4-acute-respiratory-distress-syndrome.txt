@@ -1,0 +1,3 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 5.4 Acute Respiratory Distress Syndrome
+
+Acute respiratory distress syndrome (ARDS) has been reported in patients administered GADAVIST and may be characterized by severe hypoxemia requiring oxygen support and mechanical ventilation. These manifestations may resemble an immediate hypersensitivity reaction with onset of respiratory distress within <30 minutes to 24 hours after GADAVIST administration. For patients demonstrating respiratory distress after GADAVIST administration, assess oxygen requirement and monitor for worsening respiratory function.

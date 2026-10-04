@@ -1,0 +1,5 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 5.9 Vaccinations
+
+Avoid use of live vaccines concurrently with Tocilizumab-anoh as clinical safety has not been established. No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving tocilizumab products.
+
+                        No data are available on the effectiveness of vaccination in patients receiving tocilizumab products. Because IL-6 inhibition may interfere with the normal immune response to new antigens, it is recommended that all patients, particularly pediatric or elderly patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating Tocilizumab-anoh therapy. The interval between live vaccinations and initiation of Tocilizumab-anoh therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.

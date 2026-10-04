@@ -1,0 +1,5 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Renal Impairment
+
+In a study of patients with end stage renal impairment, mean elimination half-life was prolonged in uremic patients due to increased volume of distribution and reduced clearance. Oxycodone should be used with caution in patients with renal impairment.
+
+                         Because oxycodone is known to be substantially excreted by the kidney, its clearance may decrease in patients with renal impairment. Initiate therapy with a lower than usual dosage of PERCOCET and titrate carefully. Regularly evaluate for adverse events such as respiratory depression, sedation, and hypotension [see CLINICAL PHARMACOLOGY].

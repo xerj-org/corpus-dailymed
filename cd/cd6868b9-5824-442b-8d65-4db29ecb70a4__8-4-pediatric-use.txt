@@ -1,0 +1,9 @@
+DailyMed cd6868b9-5824-442b-8d65-4db29ecb70a4 | ZEGERID | 8.4 Pediatric Use
+
+Safety and effectiveness of ZEGERID have not been established in pediatric patients.
+
+                           Juvenile Animal Data
+
+                        Esomeprazole, an enantiomer of omeprazole, was shown to decrease body weight, body weight gain, femur weight, femur length, and overall growth at oral doses about 34 to 68 times a daily human dose of 40 mg esomeprazole or 40 mg omeprazole based on body surface area in a juvenile rat toxicity study. The animal to human dose multiples are based on the assumption of equal systemic exposure to esomeprazole in humans following oral administration of either 40 mg esomeprazole or 40 mg omeprazole.
+
+                        A 28-day toxicity study with a 14-day recovery phase was conducted in juvenile rats with esomeprazole magnesium at doses of 70 to 280 mg/kg/day (about 17 to 68 times a daily oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis). An increase in the number of deaths at the high dose of 280 mg/kg/day was observed when juvenile rats were administered esomeprazole magnesium from postnatal day 7 through postnatal day 35. In addition, doses equal to or greater than 140 mg/kg/day (about 34 times a daily oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis), produced treatment-related decreases in body weight (approximately 14%) and body weight gain, decreases in femur weight and femur length, and affected overall growth. Comparable findings described above have also been observed in this study with another esomeprazole salt, esomeprazole strontium, at equimolar doses of esomeprazole.

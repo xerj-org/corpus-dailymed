@@ -1,0 +1,11 @@
+DailyMed 40bf2923-24b1-4af1-8d20-03cf06b455a5 | Carbamazepine | Hypersensitivity Reactions and HLA-A*3101 Allele
+
+Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine. These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see
+
+  DRESS/Multiorgan hypersensitivitybelow).
+
+                        HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu), and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans, and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
+
+                        The risks and benefits of carbamazepine therapy should be weighed before considering carbamazepine in patients known to be positive for HLA-A*3101.
+
+                        Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management. Many HLA-B*1502-positive and HLA-A*3101-positive patients treated with carbamazepine will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur infrequently in HLA-B*1502-negative and HLA-A*3101-negative patients of any ethnicity. The role of other possible factors in the development of, and morbidity from, SJS/TEN and other hypersensitivity reactions, such as antiepileptic drug (AED) dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring, have not been studied.

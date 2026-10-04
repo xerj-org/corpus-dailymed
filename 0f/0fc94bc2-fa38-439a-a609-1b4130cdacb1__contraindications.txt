@@ -1,0 +1,3 @@
+DailyMed 0fc94bc2-fa38-439a-a609-1b4130cdacb1 | Hydrochlorothiazide | CONTRAINDICATIONS
+
+Hydrochlorothiazide is contraindicated in patients with anuria. Hypersensitivity to this product or other sulfonamide derived drugs is also contraindicated.

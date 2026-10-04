@@ -1,0 +1,3 @@
+DailyMed 5b0b19b1-4c3c-4ecb-8153-8c58ba29e5ee | METOPROLOL TARTRATE | 5.8 Risk of Anaphylactic Reaction
+
+While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.

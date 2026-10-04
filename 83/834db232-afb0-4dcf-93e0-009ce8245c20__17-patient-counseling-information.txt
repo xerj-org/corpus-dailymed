@@ -1,0 +1,23 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide).
+
+                     Infusion Reactions
+
+                  Inform patients about the signs and symptoms of infusion reactions, including anaphylaxis, and advise them to contact their healthcare provider immediately if they observe signs or symptoms of infusion reactions [see Warnings and Precautions (5.1)].
+
+                     Infections
+
+                  Advise patients to contact their healthcare provider for any signs of infection during treatment or after the last dose. Signs include fever, chills, constant cough, or dysuria [see Warnings and Precautions (5.2)].
+
+                  Advise patients that UPLIZNA may cause reactivation of hepatitis B infection and that monitoring will be required if they are at risk [see Warnings and Precautions (5.2)].
+
+                  Advise patients that PML has happened with drugs that are similar to UPLIZNA and may happen with UPLIZNA. Inform the patient that PML is characterized by a progression of deficits and usually leads to death or severe disability over weeks or months. Instruct the patient of the importance of contacting their healthcare provider if they develop any symptoms suggestive of PML. Inform the patient that typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes [see Warnings and Precautions (5.2)].
+
+                     Vaccinations
+
+                  Advise patients to complete any required vaccinations at least 4 weeks prior to initiation of UPLIZNA. Administration of live-attenuated or live vaccines is not recommended during UPLIZNA treatment and until B-cell recovery [see Warnings and Precautions (5.2)].
+
+                     Pregnancy
+
+                  Instruct patients that if they are pregnant or plan to become pregnant while taking UPLIZNA, they should inform their healthcare provider [see Use in Specific Populations (8.1)]. Advise females of reproductive potential that they should use effective contraception during treatment and for 6 months after UPLIZNA therapy [see Use in Specific Populations (8.3)]. Advise patients to register with the UPLIZNA pregnancy exposure registry [see Use in Specific Populations (8.3)].

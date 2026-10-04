@@ -1,0 +1,9 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 11 DESCRIPTION
+
+Omeprazole and sodium bicarbonate is a combination of omeprazole, a proton-pump inhibitor, and sodium bicarbonate, an antacid. Omeprazole is a substituted benzimidazole, 5-methoxy-2-[[(4-methoxy-3,5dimethyl-2- pyridinyl)methyl]sulfinyl]-1H-benzimidazole, a racemic mixture of two enantiomers that inhibits gastric acid secretion. Its empirical formula is C17H19N3O3S, with a molecular weight of 345.42. The structural formula is:
+
+                  Omeprazole, USP is a white or almost white powder which melts with decomposition at about 155°C. Soluble in dichloromethane, practically insoluble in water. The stability of omeprazole is a function of pH; it is rapidly degraded in acid media but has acceptable stability under alkaline conditions.
+
+                  Omeprazole and sodium bicarbonate is supplied as immediate-release capsules. Each capsule contains either 40 mg or 20 mg of omeprazole and 1,100 mg of sodium bicarbonate with the following excipients: croscarmellose sodium and sodium stearyl fumarate. The capsules consist of gelatin and titanium dioxide. In addition the 20 mg/1,100 mg capsule shell contains sodium lauryl sulfate and the 40 mg/1,100 mg capsule shell contains FD&C Blue 1. The capsules are printed with edible ink containing black iron oxide, butyl alcohol, dehydrated alcohol, isopropyl alcohol, propylene glycol, potassium hydroxide, shellac and strong ammonia solution.
+
+                  Omeprazole and sodium bicarbonate capsules are immediate-release formulations that contain sodium bicarbonate which raises the gastric pH and thus protects omeprazole from acid degradation.

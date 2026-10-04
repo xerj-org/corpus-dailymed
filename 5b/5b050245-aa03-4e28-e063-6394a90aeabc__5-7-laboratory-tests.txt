@@ -1,0 +1,3 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 5.7 Laboratory Tests
+
+While Ertapenem for injection possesses toxicity similar to the beta-lactam group of antibiotics, periodic assessment of organ system function, including renal, hepatic, and hematopoietic, is advisable during prolonged therapy.

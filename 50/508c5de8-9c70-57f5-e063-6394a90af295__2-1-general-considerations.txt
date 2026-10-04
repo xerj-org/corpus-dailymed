@@ -1,0 +1,9 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 2.1 General Considerations
+
+PREXXARTAN™ is not therapeutically equivalent to the tablet formulation of Diovan. The peak concentration of valsartan with PREXXARTAN™ is higher than with Diovan
+  [see
+   Warnings and Precautions (5.2)
+                           ,
+
+                              Clinical Pharmacology (12.3)
+                           ]. Follow dosing instructions given here.

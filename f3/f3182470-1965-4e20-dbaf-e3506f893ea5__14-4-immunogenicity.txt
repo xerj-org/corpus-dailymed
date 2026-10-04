@@ -1,0 +1,9 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 14.4 Immunogenicity
+
+A relationship between antibody responses to rotavirus vaccination and protection against rotavirus gastroenteritis has not been established. Seroconversion was defined as the appearance of anti-rotavirus IgA antibodies (concentration ≥20 U/mL) post-vaccination in the serum of infants previously negative for rotavirus.
+
+                        In 2 safety and efficacy studies (Studies 5 and 8), one to two months after a 2-dose series, 86.5% of 787 recipients of ROTARIX reconstituted lyophilized formulation seroconverted compared with 6.7% of 420 placebo recipients, and 76.8% of 393 recipients of ROTARIX reconstituted lyophilized formulation seroconverted compared with 9.7% of 341 placebo recipients, respectively.
+
+                        In Study 9, immunogenicity of a 2-dose series of ROTARIX liquid formulation was evaluated. This study compared seroconversion rates and Geometric Mean Concentrations (GMCs) following administration of the ROTARIX liquid formulation (n = 984) or the ROTARIX reconstituted lyophilized formulation (n = 329). The primary analyses demonstrated non-inferiority of IgA seroconversion rates and GMCs at 1 to 2 months post-vaccination for the ROTARIX liquid formulation group compared to the ROTARIX reconstituted lyophilized formulation group (Lower Limit of the 95% CI for the difference in seroconversion rates ≥-10%; Lower Limit of the 95% CI for the GMC ratio ≥0.67).
+
+                        In Study 10, 3 months after a 2-dose series, the percentage of infants with anti-rotavirus IgA antibodies (concentration ≥20 U/mL) was comparable after administration of the ROTARIX liquid formulation (76.3% of 417) and the ROTARIX reconstituted lyophilized formulation (78.9% of 426).

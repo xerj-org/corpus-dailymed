@@ -1,0 +1,3 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 13.2 Animal Toxicology and/or Pharmacology
+
+In an oral neonatal and juvenile development study in rats, oral administration of everolimus from postnatal Day 7 to 70 produced dose-related delayed attainment of developmental landmarks, including delayed eye-opening, delayed reproductive development in males and females, and increased latency time during the learning and memory phases were observed at doses as low as 0.15 mg/kg/day. Exposures in the rat at these doses were equal to or less than those obtained in adult human transplant patients.

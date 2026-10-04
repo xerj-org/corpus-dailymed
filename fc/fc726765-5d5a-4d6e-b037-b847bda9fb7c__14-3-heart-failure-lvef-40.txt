@@ -1,0 +1,83 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 14.3 Heart Failure (LVEF ≥ 40%)
+
+FINEARTS-HF (NCT: 04435626) was a randomized, double-blind, placebo-controlled, multicenter study in adult patients with heart failure (New York Heart Association [NYHA] class II–IV) with documented left ventricular ejection fraction (LVEF) ≥ 40%. Patients were required to have an eGFR ≥25 mL/min/1.73m2 and serum potassium ≤5.0 mEq/L at screening and randomization and were receiving background heart failure medical treatment, including diuretics. The primary endpoint was the composite of cardiovascular (CV) death and total (first and recurrent) heart failure events comprised of hospitalization for heart failure and urgent heart failure visits.
+
+                        In FINEARTS-HF, 6001 patients were analyzed; 3003 were randomized to Kerendia and 2998 were randomized to placebo and were followed for a median of 2.7 years. The study included 3247 (54%) patients with a heart failure event in the past 3 months, including 1219 (20%) patients randomized during the hospitalization or within 7 days from the heart failure event. Patients with eGFR ≥ 25 to <60 mL/min/1.73m2 initiated Kerendia 10 mg and patients with eGFR ≥60 mL/min/1.73m2 initiated Kerendia 20 mg, and both groups were titrated up to a target dose of Kerendia 20 mg and 40 mg, respectively. At month 6, approximately 65% of the patients reached their target dose. The study population was 79% White, 17% Asian, and 1.5% Black. The mean age at enrollment was 72 years and 46% of patients were female. At baseline, the mean LVEF was 53%, with 64% of patients having an LVEF ≥ 50%, and 69% and 30% of patients were NYHA class II and III, respectively. Mean blood pressure was 129/75 mmHg and mean body mass index (BMI) was 30 kg/m2. The median NT-proBNP was 1041 pg/mL, the mean eGFR was 62 mL/min/1.73m2 with 48% of patients having an eGFR <60 mL/min/1.73m2. Atrial fibrillation was present on screening/baseline ECG for 38% of patients and 41% had diabetes mellitus. The majority of patients were on loop diuretics (87%), an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB) (79%), or an angiotensin receptor neprilysin inhibitor (ARNI) (9%), and 14% were on sodium-glucose cotransporter 2 (SGLT2) inhibitors.
+
+                        Kerendia reduced the risk of the primary composite endpoint compared to placebo (Relative Risk [RR] 0.84, 95% CI 0.74-0.95, p=0.007). See Table 6 and Figure 5 below. The Kerendia and placebo event curves separated early and continued to diverge over the study period, see Figure 5 below. Kerendia reduced the risk of the secondary endpoint of total heart failure events (hospitalization for HF or urgent HF visit) compared to placebo (RR 0.82, 95% CI 0.71-0.94, p=0.006). The treatment effect for the primary endpoint was consistent across all pre-specified subgroups, including sex, LVEF, NYHA class, eGFR, time since latest heart failure event, SGLT2 inhibitor therapy, and diabetes mellitus status.
+
+                           Table 6: Analysis of the Primary Endpoint (and its Individual Components) and Secondary Endpoint in Phase 3 Study FINEARTS-HF
+
+                                  |
+                                 FINEARTS-HF |
+
+                                  |
+                                 Kerendia
+
+ 10 or 20 or 40 mg OD
+
+ N=3003 |
+                                 Placebo
+
+ N=2998 |
+                                 Treatment Effect
+
+ Kerendia vs Placebo |
+
+                                 Primary Efficacy Outcome and Components: |
+                                 Value |
+                                 Event Rate
+
+ (100 pt–yr) |
+                                 Value |
+                                 Event Rate (100 pt–yr) |
+                                 Ratio or difference (95% CI) |
+                                 p-value |
+
+                                 E = total number of events; n = number of patients with an event; RR = rate ratio; HR = hazard ratio; HF = Heart Failure; CV = Cardiovascular. |
+
+                                 Primary composite of CV death and total HF events – E (n; %)  |
+                                 1083
+
+ (624; 20.8%) |
+                                 14.9 |
+                                 1283
+
+ (719; 24.0%) |
+                                 17.7 |
+                                 RR 0.84
+
+ (0.74, 0.95) |
+                                 0.007 |
+
+                                 Total HF events – E (n; %)Total HF events (hospitalization for HF or urgent HF visit) was a prespecified secondary endpoint.
+
+                                  |
+                                 842
+
+ (479; 16.0%) |
+                                 11.6 |
+                                 1024
+
+ (573; 19.1%) |
+                                 14.1 |
+                                 RR 0.82
+
+ (0.71, 0.94) |
+                                 0.006 |
+
+                                 CV death – n (%) |
+                                 242
+
+ (8.1%) |
+                                 3.3 |
+                                 260
+
+ (8.7%) |
+                                 3.6 |
+                                 HR 0.93
+
+ (0.78, 1.11) |
+                                 - |
+
+                        Figure 5: Mean cumulative functions for primary composite endpoint of CV death and total HF events in Phase 3 study FINEARTS-HF

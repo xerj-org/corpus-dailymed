@@ -1,0 +1,7 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 2.6 Management of Accidental Extra Dose(s)
+
+If the one-time starting dose is accidentally administered more than once (for example, if the one-time starting dose is administered for 2 consecutive weeks), skip the next week's dose.
+
+                           If the weekly dosage is administered more than once in the same week, skip the next week's dose.
+
+                           Monitor glucose levels more frequently and assess for repeated or severe hypoglycemia.

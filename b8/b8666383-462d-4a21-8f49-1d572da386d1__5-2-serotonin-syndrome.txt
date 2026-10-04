@@ -1,0 +1,25 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 5.2 Serotonin Syndrome
+
+Selective serotonin reuptake inhibitors (SSRIs), including fluoxetine, can precipitate serotonin syndrome, a potentially life-threatening condition. The risk is increased with concomitant use ofother serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, meperidine, methadone, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs
+
+   [see
+
+                                 Contraindications (4),
+
+    Drug Interactions (7.1)]
+
+   . Serotonin syndrome can also occur when these drugs are used alone.
+
+                           Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labilebloodpressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+                           The concomitant use of fluoxetine with MAOIs is contraindicated. In addition, do not initiate fluoxetine in a patient being treated with MAOIs such as linezolid or intravenous methylene blue. No reports involved the administration of methylene blue byother routes (such as oral tablets or local tissue injection). If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking fluoxetine, discontinue fluoxetine before initiating treatment with the MAOI
+
+   [see 
+
+    Contraindications (4)and
+
+    Drug Interactions (7.1)]
+
+   .
+
+                           Monitor all patients taking fluoxetine for the emergence of serotonin syndrome. Discontinue treatment with fluoxetine and any concomitant serotonergic agents immediately ifthe above symptoms occur, and initiate supportive symptomatic treatment. If concomitant use of fluoxetine with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.

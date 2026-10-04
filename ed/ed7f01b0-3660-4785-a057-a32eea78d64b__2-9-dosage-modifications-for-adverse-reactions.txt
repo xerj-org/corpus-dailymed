@@ -1,0 +1,183 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 2.9 Dosage Modifications for Adverse Reactions
+
+Table 2 summarizes recommendations for dosage modifications of everolimus tablets for oral suspension for the management of adverse reactions.
+
+                           Table 2: Recommended Dosage Modifications for Everolimus Tablets for Oral Suspension for Adverse Reactions
+
+                            
+
+                                    Adverse Reaction
+
+                                  |
+
+                                    Severity
+
+                                  |
+
+                                    Dosage Modification
+
+                                  |
+
+                                 Non-infectious pneumonitis [see Warnings and Precautions (5.1)]
+
+                                  |
+                                 Grade 2
+
+                                  |
+                                 Withhold until improvement to Grade 0 or 1. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength.
+
+ 
+
+Permanently discontinue if toxicity does not resolve or improve to Grade 1 within 4 weeks.
+
+                                  |
+
+                                 Grade 3
+
+                                  |
+                                 Withhold until improvement to Grade 0 or 1. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength.
+
+ 
+
+If toxicity recurs at Grade 3, permanently discontinue.
+
+                                  |
+
+                                 Grade 4
+
+                                  |
+                                 Permanently discontinue.
+
+                                  |
+
+                                 Stomatitis [see Warnings and Precautions (5.5)]
+
+                                  |
+                                 Grade 2
+
+                                  |
+                                 Withhold until improvement to Grade 0 or 1. Resume at same dose.
+
+ 
+
+If recurs at Grade 2, withhold until improvement to Grade 0 or 1. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength.
+
+                                  |
+
+                                 Grade 3
+
+                                  |
+                                 Withhold until improvement to Grade 0 or 1. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength.
+
+                                  |
+
+                                 Grade 4
+
+                                  |
+                                 Permanently discontinue.
+
+                                  |
+
+                                 Metabolic events (e.g., hyperglycemia, dyslipidemia) [see Warnings and Precautions (5.9)]
+
+                                  |
+                                 Grade 3
+
+                                  |
+                                 Withhold until improvement to Grade 0, 1, or 2. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength.
+
+                                  |
+
+                                 Grade 4
+
+                                  |
+                                 Permanently discontinue.
+
+                                  |
+
+                                 Other non-hematologic toxicities
+
+                                  |
+                                 Grade 2
+
+                                  |
+                                 If toxicity becomes intolerable, withhold until improvement to Grade 0 or 1. Resume at same dose.
+
+ 
+
+If toxicity recurs at Grade 2, withhold until improvement to Grade 0 or 1. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength.
+
+                                  |
+
+                                 Grade 3
+
+                                  |
+                                 Withhold until improvement to Grade 0 or 1. Consider resuming at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength.
+
+ 
+
+If recurs at Grade 3, permanently discontinue.
+
+                                  |
+
+                                 Grade 4
+
+                                  |
+                                 Permanently discontinue.
+
+                                  |
+
+                                 Thrombocytopenia [see Warnings and Precautions (5.10)]
+
+                                  |
+                                 Grade 2
+
+                                  |
+                                 Withhold until improvement to Grade 0 or 1. Resume at same dose.
+
+                                  |
+
+                                 Grade 3
+
+                                    OR
+
+Grade 4
+
+                                  |
+                                 Withhold until improvement to Grade 0 or 1. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength.
+
+                                  |
+
+                                 Neutropenia [see Warnings and Precautions (5.10)]
+
+                                  |
+                                 Grade 3
+
+                                  |
+                                 Withhold until improvement to Grade 0, 1, or 2. Resume at same dose.
+
+                                  |
+
+                                 Grade 4
+
+                                  |
+                                 Withhold until improvement to Grade 0, 1, or 2. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength
+
+                                  |
+
+                                 Febrile neutropenia [see Warnings and Precautions (5.10)]
+
+                                  |
+                                 Grade 3
+
+                                  |
+                                 Withhold until improvement to Grade 0, 1, or 2, and no fever. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength.
+
+                                  |
+
+                                 Grade 4
+
+                                  |
+                                 Permanently discontinue.
+
+                                  |

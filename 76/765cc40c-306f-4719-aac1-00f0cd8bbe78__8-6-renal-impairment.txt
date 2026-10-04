@@ -1,0 +1,3 @@
+DailyMed 765cc40c-306f-4719-aac1-00f0cd8bbe78 | Dicyclomine hydrochloride | 8.6 Renal Impairment
+
+Effects of renal impairment on PK, safety and efficacy of dicyclomine hydrochloride have not been studied. Dicyclomine hydrochloride drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Dicyclomine hydrochloride should be administered with caution in patients with renal impairment.

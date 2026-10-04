@@ -1,0 +1,3 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 1.6 Aggressive Systemic Mastocytosis (ASM)
+
+Adult patients with aggressive systemic mastocytosis without the D816V c-Kit mutation or with c-Kit mutational status unknown.

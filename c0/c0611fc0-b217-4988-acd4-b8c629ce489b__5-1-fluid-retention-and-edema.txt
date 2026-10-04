@@ -1,0 +1,15 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 5.1 Fluid Retention and Edema
+
+Imatinib mesylate is often associated with edema and occasionally serious fluid retention
+
+  [see Adverse Reactions (
+
+   6.1)].
+
+  Weigh and monitor patients regularly for signs and symptoms of fluid retention. Investigate unexpected rapid weight gain carefully and provide appropriate treatment. The probability of edema was increased with higher imatinib mesylate dose and age greater than 65 years in the CML studies. Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking imatinib mesylate, and in 2% to 6% of other adult CML patients taking imatinib mesylate. In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking imatinib mesylate, and in 2% to 6% of other adult CML patients taking imatinib mesylate. Severe fluid retention was reported in 9% to 13.1% of patients taking imatinib mesylate for GIST
+
+  [see Adverse Reactions (
+
+   6.1)]
+
+  . In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing imatinib mesylate and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving imatinib mesylate and in 3.9% of patients receiving nilotinib 300 mg twice daily. Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the imatinib mesylate arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg twice daily arm.

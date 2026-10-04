@@ -1,0 +1,59 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 14.5 Acute Bacterial Otitis Media in Pediatric Patients Treated with AUGMENTIN for Oral Suspension
+
+One randomized, controlled US/Canadian clinical trial evaluated two dosing regimens for AUGMENTIN for Oral Suspension in pediatric patients (aged 2 months to 12 years) with acute otitis media. Patients received either 45 mg/6.4 mg/kg/day divided every 12 hours or 40 mg/10 mg/kg/day divided every 8 hours for 10 days. A total of 575 patients were enrolled, with ≥84% evaluable in each group.
+
+                        Clinical cure rates obtained in the evaluable patients at the end of therapy and follow-up visits are presented in Table 16.
+
+                           Table 16: Clinical Cure Rates at End of Therapy and Follow-Up Visits
+
+                                  |
+
+                                    AUGMENTIN
+
+                                    45 mg/kg/day, divided
+
+                                    every 12 hours
+
+                                  |
+
+                                    AUGMENTIN
+
+                                    40 mg/kg/day, divided
+
+                                    every 8 hours
+
+                                  |
+
+                                 Clinical Cure at End of Therapy Visit
+
+     a
+
+                                  |
+                                 87%
+
+  (n=265)
+
+                                  |
+                                 82%
+
+  (n=260)
+
+                                  |
+
+                                 Clinical Cure at Follow-Up Visit
+
+                                  |
+                                 67%
+
+  (n= 249)
+
+                                  |
+                                 69%
+
+  (n=243)
+
+                                  |
+
+                           aClinical cure at end of therapy visit was defined as 2 to 4 days after the completion of therapy.
+
+                           bClinical cure at follow-up visit was defined as 22 to 28 days post‑completion of therapy.

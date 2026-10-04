@@ -1,0 +1,16 @@
+DailyMed d57720ab-9f83-4da9-a57f-0d55e00a605c | ATORVASTATIN CALCIUM | 7.2 Drug Interactions that may Decrease Exposure to Atorvastatin Calcium
+
+Table 3 presents drug interactions that may decrease exposure to atorvastatin calcium and instructions for preventing or managing them.  
+
+                           Table 3: Drug Interactions that may Decrease Exposure to Atorvastatin Calcium
+
+                                    Rifampin
+                                  |
+
+                                    Clinical Impact:
+                                  |
+                                 Concomitant administration of atorvastatin calcium with rifampin, an inducer of cytochrome P450 3A4 and inhibitor of OATP1B1, can lead to variable reductions in plasma concentrations of atorvastatin. Due to the dual interaction mechanism of rifampin, delayed administration of atorvastatin calcium after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. |
+
+                                    Intervention:
+                                  |
+                                 Administer atorvastatin calcium and rifampin simultaneously. |

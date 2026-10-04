@@ -1,0 +1,5 @@
+DailyMed 2685d8da-010e-40d7-914f-80546634888d | levocarnitine | Pregnancy
+
+Reproductive studies have been performed in rats and rabbits at doses up to 3.8 times the human dose on the basis of surface area and have revealed no evidence of impaired fertility or harm to the fetus due to levocarnitine. There are, however, no adequate and well controlled studies in pregnant women.
+
+                        Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

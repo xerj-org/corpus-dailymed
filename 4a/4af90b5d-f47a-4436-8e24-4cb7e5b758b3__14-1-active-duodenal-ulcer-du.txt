@@ -1,0 +1,63 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 14.1 Active Duodenal Ulcer (DU)
+
+In a U.S. multicenter, double-blind trial in adult outpatients with endoscopically confirmed duodenal ulcer (DU), orally administered famotidine was compared to placebo. As shown in Table 6, 70% of patients treated with famotidine 40 mg at bedtime were healed by Week 4. Most patients’ DU healed within 4 weeks.
+
+                        Patients not healed by Week 4 were continued in the trial. By Week 8, 83% of patients treated with famotidine had healed DU, compared to 45% of patients treated with placebo. The incidence of DU healing with famotidine was greater than with placebo at each time point based on proportion of endoscopically confirmed healed DUs. Trials have not assessed the safety of famotidine in uncomplicated active DU for periods of more than 8 weeks.
+
+                           Table 6: Patients with Endoscopically Confirmed Healed Duodenal Ulcers
+
+                                    a p<0.001 vs. placebo |
+
+                                  |
+
+                                       Famotidine
+
+                                     40 mg at bedtime
+
+                                     (N=89)
+
+                                  |
+
+                                       Famotidine
+
+                                     20 mg twice daily
+
+                                    (N=84)
+
+                                  |
+
+                                       Placebo
+
+                                    at bedtime
+
+                                    (N=97)
+
+                                  |
+
+                                 Week 2
+
+                                  |
+                                 32%a
+
+                                  |
+                                 38%a
+
+                                  |
+                                 17%
+
+                                  |
+
+                                 Week 4
+
+                                  |
+                                 70%a
+
+                                  |
+                                 67%a
+
+                                  |
+                                 31%
+
+                                  |
+
+                        In this study, time to relief of daytime and nocturnal pain was shorter for patients receiving famotidine than for patients receiving placebo; patients receiving famotidine also took less antacid than patients receiving placebo.

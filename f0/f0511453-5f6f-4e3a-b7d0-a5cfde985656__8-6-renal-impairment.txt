@@ -1,0 +1,7 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 8.6 Renal Impairment
+
+Pharmacokinetic studies conducted with UTEBZI in adults with renal impairment have shown that tebipenem plasma concentrations increased with decreasing renal function [see Clinical Pharmacology (12.3)]. Dosage adjustment for UTEBZI is recommended in patients with renal impairment (eGFR 15 mL/min to less than 60 mL/min) [see Dosage and Administration (2.2)]. Tebipenem is removed by hemodialysis.
+
+                        There are insufficient data available to determine dosing in hemodialysis patients [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
+
+                        Use in adult patients with eGFR >150 mL/min is not recommended because it is predicted to decrease tebipenem exposure [see Clinical Pharmacology (12.3)], which may reduce UTEBZI efficacy. If use of UTEBZI is necessary, monitor clinical response closely and counsel patients to promptly report lack of improvement or worsening of their condition.

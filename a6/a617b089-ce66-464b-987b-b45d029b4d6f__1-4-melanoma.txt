@@ -1,0 +1,3 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 1.4 Melanoma
+
+TECENTRIQ HYBREZA, in combination with cobimetinib and vemurafenib, is indicated for the treatment of adult patients with BRAF V600 mutation-positive unresectable or metastatic melanoma as determined by an FDA-approved test [see Dosage and Administration (2.1)].

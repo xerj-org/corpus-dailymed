@@ -1,0 +1,3 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 7.6 Digitalis and Calcium Antagonists
+
+The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.

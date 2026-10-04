@@ -1,0 +1,15 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        In a 104‑week carcinogenicity study in rats at dose levels of 2, 20, 60, or 80 mg/kg/day by oral gavage, the incidence of uterine stromal polyps was significantly increased in females at 80 mg/kg/day at systemic exposure 20 times the human exposure at 40 mg/day based on AUC. Increased incidence of polyps was not seen at lower doses.
+
+                        In a 107‑week carcinogenicity study in mice given 10, 60, or 200 mg/kg/day by oral gavage, an increased incidence of hepatocellular adenoma/carcinoma was observed at 200 mg/kg/day at systemic exposures 20 times the human exposure at 40 mg/day based on AUC. An increased incidence of hepatocellular tumors was not seen at lower doses.
+
+                        Mutagenesis
+
+                         Rosuvastatin was not mutagenic or clastogenic with or without metabolic activation in the Ames test with Salmonella typhimurium and Escherichia coli, the mouse lymphoma assay, and the chromosomal aberration assay in Chinese hamster lung cells. Rosuvastatin was negative in the in vivo mouse micronucleus test.
+
+                        Impairment of Fertility
+
+                         In rat fertility studies with oral gavage doses of 5, 15, 50 mg/kg/day, males were treated for 9 weeks prior to and throughout mating and females were treated 2 weeks prior to mating and throughout mating until gestation day 7. No adverse effect on fertility was observed at 50 mg/kg/day (systemic exposures up to 10 times the human exposure at 40 mg/day based on AUC). In testicles of dogs treated with rosuvastatin at 30 mg/kg/day for one month, spermatidic giant cells were seen. Spermatidic giant cells were observed in monkeys after 6‑month treatment at 30 mg/kg/day in addition to vacuolation of seminiferous tubular epithelium. Exposures in the dog were 20 times and in the monkey 10 times the human exposure at 40 mg/day based on body surface area. Similar findings have been seen with other drugs in this class.

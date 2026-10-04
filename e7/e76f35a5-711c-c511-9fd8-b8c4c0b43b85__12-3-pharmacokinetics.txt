@@ -1,0 +1,81 @@
+DailyMed e76f35a5-711c-c511-9fd8-b8c4c0b43b85 | Deflazacort Oral Suspension | 12.3 Pharmacokinetics
+
+Absorption
+
+                        After oral administration in the fasted state, the median Tmax with deflazacort suspension is about 1 hour (range 0.25 to 2 hours).
+
+                           Food Effect: Co-administration of deflazacort tablets with a high-fat meal reduced Cmax by about 30% and delayed Tmax by one hour, relative to administration under fasting conditions, but there was no effect on the overall systemic absorption as measured by AUC. The bioavailability of deflazacort tablets was similar to that of the oral suspension. The administration of deflazacort with food or crushed in applesauce did not affect the absorption and bioavailability of deflazacort.
+
+                           Distribution
+
+                        The protein binding of the active metabolite of deflazacort is about 40%.
+
+                           Elimination
+
+                           Metabolism
+
+                        Deflazacort is rapidly converted to the active metabolite 21-desDFZ by esterases after oral administration. 21-desDFZ is further metabolized by CYP3A4 to several other inactive metabolites, including 6β-hydroxy-21-desacetyl deflazacort.
+
+                           Excretion
+
+                        Urinary excretion is the predominant route of deflazacort elimination (about 68% of the dose), and the elimination is almost completed by 24 hours post dose. 21-desDFZ accounts for 18% of the eliminated drug in the urine.
+
+                           Specific Populations
+
+                           Pediatric Patients
+
+                        The Cmax values (Geometric mean, %CV) of 21-desDFZ in children (ages 4-11, N=16) and adolescents (ages 12-16, N=8) was 206 ng/mL (95.6%) and 381 ng/mL (37.7%), respectively, on Day 1 after administration of 0.9 mg/kg deflazacort. The AUCinf (Geometric mean, %CV) of 21-desDFZ in children (ages 4-11, N=16) and adolescents (ages 12-16, N=8) was 400 ng•h/mL (87.5%) and 655 ng•h/mL (58.1%) on Day 1 after administration of 0.9 mg/kg deflazacort.
+
+                           Male and Female Patients
+
+                        There are no differences in the pharmacokinetics of 21-desDFZ between males and females.
+
+                           Racial or Ethnic Groups
+
+                        There are no differences in the pharmacokinetics of 21-desDFZ between Caucasians and
+
+ non-Caucasians.
+
+                           Patients with Renal Impairment
+
+                        In a study (N=16) comparing subjects with end stage renal disease (creatinine clearance less than 15 mL/min) with healthy matched controls, 21-desDFZ exposure was similar between the groups.
+
+                           Patients with Hepatic Impairment
+
+                        In a study (N=16) comparing subjects with moderate hepatic impairment (Child-Pugh Class B) with healthy matched controls, 21-desDFZ exposure was similar between the groups. There is no experience in patients with severe hepatic impairment.
+
+                           Drug Interaction Studies
+
+                           In Vivo Assessment of Drug Interactions
+
+                        Compared to administration of deflazacort alone, administration of deflazacort following multiple doses of a strong CYP3A4 and Pgp inhibitor (clarithromycin) resulted in markedly higher Cmax, AUClast, and AUCinf values of 21-desDFZ. Geometric mean exposure (Cmax, AUClast, and AUCinf) of 21-desDFZ ranged from 2.3-fold to 3.4-fold higher following administration of clarithromycin [see Dosage and Administration (
+
+                              2.5
+
+                           )].
+
+                        Compared to administration of deflazacort alone, administration of deflazacort following multiple doses of a strong CYP3A4 inducer (rifampicin) resulted in markedly lower Cmax, AUClast, and AUCinf values of 21-desDFZ. Geometric mean exposures (Cmax, AUClast, and AUCinf) of 21-desDFZ were approximately 95% lower following administration of rifampin [see Drug Interactions (
+
+                              7.1
+
+                           )].
+
+                        6β-Hydroxy-21-desacetyl deflazacort, a secondary and inactive metabolite, is not expected to cause any clinically meaningful interactions with the CYP enzymes or transporters.
+
+                           In Vitro Assessment of Drug Interactions
+
+                           Drug-Metabolizing Enzyme Inhibition
+
+                        21-desDFZ at clinically relevant concentrations did not inhibit CYP1A2, 2C9, 2C19, 3A4, UGT1A1, UGT1A4, UGT1A6, UGT1A9, or UGT2B7 and exhibited weak and not likely clinically meaningful inhibition for 2B6, 2C8, 2D6, and 3A4, UGT1A3 and UGT2B15.
+
+                        6β-Hydroxy-21-desacetyl deflazacort at clinically relevant concentrations did not significantly inhibit CYP2C19, 3A4 1A2, 2B6, 2C8, 2C9, or 2D6.
+
+                           Drug-Metabolizing Enzyme Induction
+
+                        21-desDFZ and 6β-hydroxy-21-desacetyl deflazacort at clinically relevant concentrations did not significantly induce CYP1A2, 2B6, or 3A4.
+
+                           Transporters
+
+                        Both deflazacort and 21-desDFZ are substrates of Pgp. 21-desDFZ is not a substrate for BCRP. Neither deflazacort nor 21-desDFZ inhibited Pgp or BCRP in vitro. 21-desDFZ was not a substrate for SLC transporters OATP1B1 or OATP1B3, and did not inhibit SLC transporters OATP1B1, OATP1B3, OAT1, OAT3, or OCT2.
+
+                        6β-Hydroxy-21-desacetyl deflazacort at clinically relevant concentrations did not significantly inhibit BCRP, OAT1, OAT3, Pgp, OATP1B1, OATP1B3 MATE1, MATE2-K, OCT1, OCT2, or BSEP transporters.

@@ -1,0 +1,3 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Metformin
+
+In a single-dose interaction study in NIDDM subjects, decreases in glyburide AUC and Cmax were observed, but were highly variable. The single-dose nature of this study and the lack of correlation between glyburide blood levels and pharmacodynamic effects, makes the clinical significance of this interaction uncertain. Coadministration of glyburide and metformin did not result in any changes in either metformin pharmacokinetics or pharmacodynamics.

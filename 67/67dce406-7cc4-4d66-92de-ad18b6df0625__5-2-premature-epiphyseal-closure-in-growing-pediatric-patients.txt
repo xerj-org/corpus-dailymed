@@ -1,0 +1,7 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 5.2 Premature Epiphyseal Closure in Growing Pediatric Patients
+
+SOHONOS can cause irreversible premature epiphyseal closure and potential adverse effects on growth. In clinical studies, premature epiphyseal closure occurred with SOHONOS treatment in growing pediatric patients with FOP [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
+
+                        Monitoring of linear growth is recommended in growing pediatric patients [see Use in Specific Populations (8.4)]. Prior to starting treatment with SOHONOS, all growing pediatric patients should undergo baseline assessment of skeletal maturity via hand/wrist and knee x-rays, standard growth curves and pubertal staging. Continued monitoring is recommended every 6 to 12 months until patients reach skeletal maturity or final adult height.
+
+                        If a patient exhibits signs of premature epiphyseal closure or adverse effects on growth based on clinical or radiologic evaluations, further evaluation may be required, including an assessment of the benefits and risks of continued treatment, or temporary or permanent discontinuation of SOHONOS until the patient achieves epiphyseal closure and skeletal maturity.

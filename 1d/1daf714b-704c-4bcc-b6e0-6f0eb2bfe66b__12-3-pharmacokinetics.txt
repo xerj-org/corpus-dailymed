@@ -1,0 +1,11 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 12.3 Pharmacokinetics
+
+Distribution
+
+                        Following bolus intravenous injection, fluorouracil distributes throughout the body including the intestinal mucosa, bone marrow, liver, cerebrospinal fluid and brain tissue.
+
+                           Elimination
+
+                        Following bolus intravenous injection, 5 to 20% of the parent drug is excreted unchanged in the urine in six hours. The remaining percentage of the administered dose is metabolized, primarily in the liver. The metabolites of fluorouracil (e.g., urea and α-fluoro-ßalanine) are excreted in the urine over 3 to 4 hours.
+
+                        Following bolus intravenous injection of fluorouracil, as a single agent, the elimination half-life increased with dose from 8 to 20 minutes.

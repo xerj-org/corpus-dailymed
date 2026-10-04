@@ -1,0 +1,204 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 14.4 Acute Bacterial Sinusitis in Adult and Pediatric Patients Weighing ≥40 kg Treated with AUGMENTIN XR Extended-Release Tablets
+
+Adults with a diagnosis of acute bacterial sinusitis (ABS) were evaluated in 3 clinical studies. In one study, 363 patients were randomized to receive either AUGMENTIN XR Extended-Release Tablets 2,000 mg/125 mg orally every 12 hours or levofloxacin 500 mg orally daily for 10 days in a double‑blind, multicenter, prospective trial. These patients were clinically and radiologically evaluated at the test of cure (day 17 to 28) visit. The combined clinical and radiological responses were 84% for AUGMENTIN XR Extended-Release Tablets and 84% for levofloxacin at the test of cure visit in clinically evaluable patients (95% CI for the treatment difference equals ‑9.4, 8.3). The clinical response rates at the test of cure were 87% and 89%, respectively.
+
+                        The other 2 trials were non‑comparative, multicenter studies designed to assess the bacteriological and clinical efficacy of AUGMENTIN XR Extended-Release Tablets (2,000 mg/125 mg orally every 12 hours for 10 days) in the treatment of 2,288 patients with ABS. Evaluation timepoints were the same as in the prior study. Patients underwent maxillary sinus puncture for culture prior to receiving study medication. Patients with acute bacterial sinusitis due to
+
+  S. pneumoniaewith reduced susceptibility to penicillin were accrued through enrollment in these 2 open‑label non‑comparative clinical trials. Clinical success rates for key pathogens in these studies are shown in Table 15.
+
+                           Table 15: Clinical Success Rates in Patients with Acute Bacterial Sinusitis
+
+                                    Penicillin MICs of
+
+      S. pneumoniaeIsolates
+
+                                  |
+
+                                    Intent-To-Treat
+
+                                  |
+
+                                    Clinically Evaluable
+
+                                  |
+
+                                    n/N
+
+      a
+
+                                  |
+
+                                    %
+
+                                  |
+
+                                    95% CI
+
+      b
+
+                                  |
+
+                                    n/N
+
+      a
+
+                                  |
+
+                                    %
+
+                                  |
+
+                                    95% CI
+
+      b
+
+                                  |
+
+                                 All
+
+     S. pneumoniae
+
+                                  |
+                                 344/370
+
+                                  |
+                                 93
+
+                                  |
+                                 -
+
+                                  |
+                                 318/326
+
+                                  |
+                                 98
+
+                                  |
+                                 -
+
+                                  |
+
+                                 MIC greater than or equal to2.0 mcg/mL
+
+     c
+
+                                  |
+                                 35/36
+
+                                  |
+                                 97
+
+                                  |
+                                 85.5, 99.9
+
+                                  |
+                                 30/31
+
+                                  |
+                                 96
+
+                                  |
+                                 83.3, 99.9
+
+                                  |
+
+                                 MIC equal to 2.0 mcg/mL
+
+                                  |
+                                 23/24
+
+                                  |
+                                 96
+
+                                  |
+                                 78.9, 99.9
+
+                                  |
+                                 19/20
+
+                                  |
+                                 95
+
+                                  |
+                                 75.1, 99.9
+
+                                  |
+
+                                 MIC greater than or equal to4.0 mcg/mL
+
+     d
+
+                                  |
+                                 12/12
+
+                                  |
+                                 100
+
+                                  |
+                                 73.5, 100
+
+                                  |
+                                 11/11
+
+                                  |
+                                 100
+
+                                  |
+                                 71.5, 100
+
+                                  |
+
+                                    H. influenzae
+
+                                  |
+                                 265/305
+
+                                  |
+                                 87
+
+                                  |
+                                 -
+
+                                  |
+                                 242/259
+
+                                  |
+                                 93
+
+                                  |
+                                 -
+
+                                  |
+
+                                    M. catarrhalis
+
+                                  |
+                                 94/105
+
+                                  |
+                                 90
+
+                                  |
+                                 -
+
+                                  |
+                                 86/90
+
+                                  |
+                                 96
+
+                                  |
+                                 -
+
+                                  |
+
+                           an/N equals patients with pathogen eradicated or presumed eradicated/total number of patients.
+
+                           bConfidence limits calculated using exact probabilities.
+
+                           c
+                           S. pneumoniaestrains with penicillin MICs of greater than or equal to 2 mcg/mL are considered resistant to penicillin.
+
+                           dIncludes one patient each with
+
+  S. pneumoniaepenicillin MICs of 8 and 16 mcg/mL.

@@ -1,0 +1,5 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 8.4 Pediatric Use
+
+The safety and effectiveness of UTEBZI in pediatric patients younger than 18 years of age have not been established.
+
+                        Clinically significant hypocarnitinemia has been reported in pediatric patients treated with other formulations of tebipenem pivoxil outside the U.S., particularly in patients less than 1 year of age including those without risk factors for carnitine deficiency. In cases of pediatric hypocarnitinemia, hypoglycemia, altered mental status, seizures, encephalopathy, and sudden death have occurred. UTEBZI is contraindicated in patients with primary or secondary carnitine deficiency [see Contraindications (4), Warnings and Precautions (5.4)].

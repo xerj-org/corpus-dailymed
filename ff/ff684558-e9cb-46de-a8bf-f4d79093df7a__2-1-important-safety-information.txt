@@ -1,0 +1,13 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 2.1 Important Safety Information
+
+BEQALZI can cause tumor lysis syndrome (TLS), especially during the ramp-up phase or during restart after a dosage interruption [see Warnings and Precautions (5.1)].
+
+                           Initiate BEQALZI with a dose ramp-up. For dose interruption lasting greater than 7 days, adjust the restart BEQALZI dose as instructed [see Dosage and Administration (2.3) and (2.4)].
+
+                           Assess patient risk for TLS and whether hospitalization for monitoring is warranted.
+
+                           Initiate prophylactic hydration and anti-hyperuricemics before the first dose of BEQALZI and continue as appropriate.
+
+                           Correct pre-existing electrolyte abnormalities before the first dose.
+
+                           Monitor blood chemistries closely [see Warnings and Precautions (5.1)].

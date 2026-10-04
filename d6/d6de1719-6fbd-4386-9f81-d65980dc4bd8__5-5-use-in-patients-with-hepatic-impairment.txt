@@ -1,0 +1,7 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 5.5 Use in Patients with Hepatic Impairment
+
+No clinical data are available for adult patients with severe hepatic impairment.
+
+                        Avoid use of rivaroxaban in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy since drug exposure and bleeding risk may be increased [see Use in Specific Populations (8.7)].
+
+                        No clinical data are available in pediatric patients with hepatic impairment.

@@ -1,0 +1,5 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.2 Marked Bradycardia
+
+Cases of marked bradycardia, some of which have resulted in cardiac arrest, have been observed within minutes after the administration of Sugammadex Injection
+
+  [see Adverse Reactions (6.2)]. Patients should be closely monitored for hemodynamic changes during and after reversal of neuromuscular blockade. Treatment with anticholinergic agents, such as atropine, should be administered if clinically significant bradycardia is observed.

@@ -1,0 +1,9 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 7.2 CNS Acting Drugs
+
+Caution is advised if the concomitant administration of fluoxetine and such drugs is required. In evaluating individual cases, consideration should be given to using lower initial doses of the concomitantly administered drugs, using conservative titration schedules, and monitoring of clinical status
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  .

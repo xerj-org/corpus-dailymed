@@ -1,0 +1,5 @@
+DailyMed 01bdc479-1f1f-af94-837c-12e7e861321a | Prednisone delayed release | 5.4 Use in Patients with Gastrointestinal Disorders
+
+There is an increased risk of gastrointestinal perforation in patients with certain GI disorders. Signs of GI perforation, such as peritoneal irritation may be masked in patients receiving corticosteroids.
+
+                        Corticosteroids should be used with caution if there is a probability of impending perforation, abscess, or other pyogenic infections; diverticulitis; fresh intestinal anastomoses; and active or latent peptic ulcer.

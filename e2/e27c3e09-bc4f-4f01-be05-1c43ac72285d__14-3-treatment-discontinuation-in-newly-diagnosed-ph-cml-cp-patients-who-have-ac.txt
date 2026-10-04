@@ -1,0 +1,145 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 14.3 Treatment Discontinuation in Newly Diagnosed Ph+ CML-CP Patients Who Have Achieved a Sustained Molecular Response (MR4.5)
+
+The ENEST freedom (Evaluating Nilotinib Efficacy and Safety in clinical Trials-freedom) study (NCT01784068) is an open-label, multicenter, single-arm study, where 215 adult patients with Ph+ CML-CP treated with nilotinib in first-line for ≥ 2 years who achieved MR4.5 as measured with the MolecularMD MRDx® BCR-ABL Test were enrolled to continue nilotinib treatment for an additional 52 weeks (nilotinib consolidation phase).
+
+                         
+
+                        Of the 215 patients, 190 patients (88.4%) entered the “Treatment-Free Remission” (TFR) phase after achieving a sustained molecular response (MR4.5) during the consolidation phase, defined by the following criteria: 
+
+                         
+
+                           The 4 last quarterly assessments (taken every 12 weeks) were at least MR4 (BCR-ABL/ABL ≤ 0.01% IS), and maintained for 1 year
+
+                           The last assessment being MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS) 
+
+                           No more than two assessments falling between MR4 and MR4.5 (0.0032% IS < BCR-ABL/ABL ≤ 0.01% IS).
+
+                         
+
+                        The median age of patients who entered the TFR phase was 55 years, 49.5% were females, and 21.1% of the patients were ≥ 65 years of age. BCR-ABL levels were monitored every 4 weeks during the first 48 weeks of the TFR phase. Monitoring frequency was intensified to every 2 weeks upon the loss of MR4.0. Biweekly monitoring ended at one of the following time points:
+
+                         
+
+                           Loss of MMR requiring patient to reinitiate nilotinib treatment
+
+                           When the BCR-ABL levels returned to a range between MR4.0 and MR4.5
+
+                           When the BCR-ABL levels remained lower than MMR for 4 consecutive measurements (8 weeks from initial loss of MR4.0). 
+
+                         
+
+                        Any patient with loss of MMR during the TFR phase reinitiated nilotinib treatment at 300 mg twice daily or at a reduced dose level of 400 mg once daily if required from the perspective of tolerance, within 5 weeks after the collection date of the blood sample demonstrating loss of MMR. Patients who required reinitiation of nilotinib treatment were monitored for BCR-ABL levels every 4 weeks for the first 24 weeks and then every 12 weeks thereafter in patients who regained MMR.
+
+                         
+
+                        Efficacy was based on the 96-week analysis data cut-off date, by which time, 91 patients (47.9%) discontinued from the TFR phase due to loss of MMR, and 1 (0.5%), 1 (0.5%), 1 (0.5%) and 3 patients (1.6%) due to death from unknown cause, physician decision, lost to follow-up and subject decision, respectively. Among the 91 patients who discontinued the TFR phase due to loss of MMR, 88 patients restarted nilotinib treatment and 3 patients permanently discontinued from the study.
+
+                         
+
+                        By the 96-week data cut-off, of the 88 patients who restarted treatment due to loss of MMR in the TFR phase, 87 patients (98.9%) patients regained MMR (one patient discontinued study permanently due to subject decision after 7.1 weeks of retreatment without regaining MMR) and 81 patients (92.0%) regained MR4.5 by the time of the cut-off date. The cumulative rate of MMR and MR4.5 regained at 24 weeks since treatment reinitiation was 97.7% (86/88 patients) and 86.4% (76/88 patients), respectively.
+
+                         
+
+                           Table 14: Efficacy Results for ENEST freedom
+
+                                    Patients who entered the treatment free remission (TFR) phase (full analysis set, N = 190)
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Patients in TFR phase1 at the specified time point 
+
+                                  |
+
+                                    Loss of MMR2 by the specified time point
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    %
+
+                                  |
+
+                                    95% CI
+
+                                  |
+
+                                    %
+
+                                  |
+
+                                    24 weeks
+
+                                  |
+
+                                    62.1
+
+                                  |
+
+                                    (54.8, 69.0)
+
+                                  |
+
+                                    35.8
+
+                                  |
+
+                                    48 weeks
+
+                                  |
+
+                                    51.6
+
+                                  |
+
+                                    (44.2, 58.9)
+
+                                  |
+
+                                    45.8
+
+                                  |
+
+                                    96 weeks
+
+                                  |
+
+                                    48.9
+
+                                  |
+
+                                    (41.6, 56.3)
+
+                                  |
+
+                                    47.9
+
+                                  |
+
+                        Abbreviation: CI, confidence interval.
+
+                           1Patients in MMR at the specified time point in the TFR phase. 
+
+                           2Based on the time to event (loss of MMR) data during the TFR phase.
+
+                         
+
+                        Among the 190 patients in the TFR phase, 98 patients had a treatment-free survival (TFS) event (defined as discontinuation from TFR phase due to any reason, loss of MMR, death due to any cause, progression to AP/BC up to the end of TFR phase, or reinitiation of treatment due to any cause in the study) by the 96-week cut-off date.
+
+                         
+
+                           Figure 1: Kaplan-Meier Estimate of Treatment-Free Survival After Start of TFR (Full Analysis Set ENEST freedom)
+
+                         
+
+                           For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.
+
+                           By the time of the 96-week data cut-off date, one single patient lost MMR at Week 120, at the time when only 8 patients were considered at risk. This explains the artificial drop at the end of the curve.

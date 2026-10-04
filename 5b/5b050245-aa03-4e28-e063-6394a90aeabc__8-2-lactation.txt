@@ -1,0 +1,13 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 8.2 Lactation
+
+Risk Summary
+
+                        Ertapenem is present in human milk (see
+
+  Data). There are no data on the effects on the breastfed infant or the effects on milk production. The developmental and health benefits of breastfeeding should be
+
+  considered along with the mother’s clinical need for Ertapenem for injection and any potential adverse effects on the breastfed infant from Ertapenem for injection or from the underlying maternal condition.
+
+                           Data
+
+                        The concentration of ertapenem in breast milk from 5 lactating women with pelvic infections (5 to 14 days postpartum) measured at random time points daily for 5 consecutive days following the last 1 g dose of intravenous therapy (3 to 10 days of therapy) showed low levels. The concentration of ertapenem in breast milk within 24 hours of the last dose of therapy in all 5 women ranged from (<0.13 (lower limit of quantitation) to 0.38 mcg/ml), although peak concentrations were not assessed. By day 5 after discontinuation of therapy, the level of ertapenem was undetectable in the breast milk of 4 women and below the lower limit of quantitation (<0.13 mcg/mL) in 1 woman. The concentration of ertapenem in transitional milk observed in this study may not reflect the concentration of ertapenem in mature milk.

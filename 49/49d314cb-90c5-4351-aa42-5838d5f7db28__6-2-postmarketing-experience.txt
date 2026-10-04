@@ -1,0 +1,39 @@
+DailyMed 49d314cb-90c5-4351-aa42-5838d5f7db28 | gabapentin | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postmarketing use of gabapentin. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Hepatobiliary Disorders:jaundice
+
+                           Investigations:elevated creatine kinase, elevated liver function tests
+
+                           Metabolism and Nutrition Disorders:hyponatremia
+
+                           Musculoskeletal and Connective Tissue Disorder:rhabdomyolysis
+
+                           Nervous System Disorders:movement disorder
+
+                           Psychiatric Disorders:agitation
+
+                           Reproductive System and Breast Disorders:breast enlargement, changes in libido, ejaculation disorders and anorgasmia
+
+                           Skin and Subcutaneous Tissue Disorders:angioedema
+
+  [see Warnings and Precautions (
+
+   5.2)]
+
+  , bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome.
+
+                        There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking gabapentin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment
+
+  [see Warnings and Precautions (
+
+   5.8)]
+
+  .
+
+                        There are postmarketing reports of withdrawal symptoms after discontinuation of gabapentin. Reported adverse reactions include, but are not limited to, seizures, depression, suicidal ideation and behavior, agitation, confusion, disorientation, psychotic symptoms, anxiety, insomnia, nausea, pain, sweating, tremor, headache, dizziness, and malaise
+
+  [see Warnings and Precautions (
+
+   5.6)].

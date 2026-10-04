@@ -1,0 +1,19 @@
+DailyMed 82f1445c-b2c6-445a-82cf-ba8825fac776 | NovolinN | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from published studies over decades have not established an association with human insulin use during pregnancy and major birth defects, miscarriage or adverse maternal or fetal outcomes (see Data). There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations). Animal reproduction studies were not performed.
+
+                        The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with a HbA1c >10.  The estimated background risk of miscarriage for the indicated population is unknown.  In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+                           Clinical Considerations
+
+                           Disease-associated maternal and/or embryo/fetal risk
+
+                        Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.  Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia-related morbidity.
+
+                           Data
+
+                           Human Data
+
+                        While available studies cannot definitively establish the absence of risk, published data from retrospective studies, open-label, randomized, parallel studies and meta-analyses have not established an association with human insulin use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes. All available studies have methodological limitations including lack of blinding, unclear methods of randomization, and small sample size.

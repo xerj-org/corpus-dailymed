@@ -1,0 +1,11 @@
+DailyMed 4e0cff98-ad0e-494d-8316-b7cdfad6a876 | Bupivacaine Hydrochloride | 7.1 Local Anesthetics
+
+The toxic effects of local anesthetics are additive. If co administration of other local anesthetics with bupivacaine hydrochloride cannot be avoided, monitor patients for neurologic and cardiovascular effects related to local anesthetic systemic toxicity [
+
+  see Dosage and Administration (
+
+   2.1), Warnings and Precautions (
+
+   5.2)
+
+  ].

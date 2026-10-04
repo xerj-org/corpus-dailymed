@@ -1,0 +1,39 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 5.16 Monitoring of BCR-ABL Transcript Levels
+
+Monitoring of BCR-ABL Transcript Levels in Patients Who Discontinued Nilotinib Capsules
+
+                         
+
+                        Monitor BCR-ABL transcript levels in patients eligible for treatment discontinuation using an FDA authorized test validated to measure molecular response levels with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS). In patients who discontinue Nilotinib Capsules therapy, assess BCR-ABL transcript levels monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter during treatment discontinuation [see Clinical Studies (
+
+                              14.3
+
+                           ,
+
+                              14.4
+
+                           ), Dosage and Administration (
+
+                              2.2
+
+                           )].  
+
+                         
+
+                        Newly diagnosed patients must reinitiate Nilotinib Capsules therapy within 4 weeks of a loss of major molecular response [(MMR), corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1% IS]. 
+
+                         
+
+                        Patients resistant or intolerant to prior treatment which included imatinib must reinitiate Nilotinib Capsules therapy within 4 weeks of a loss of MMR or confirmed loss of MR4.0 (two consecutive measures separated by at least 4 weeks showing loss of MR4.0, corresponding to = BCR-ABL/ABL ≤ 0.01% IS). 
+
+                         
+
+                        For patients who fail to achieve MMR after three months of treatment reinitiation, BCR-ABL kinase domain mutation testing should be performed.
+
+                         
+
+                           Monitoring of BCR-ABL Transcript Levels in Patients Who Have Reinitiated Therapy After Loss of Molecular Response
+
+                         
+
+                        Monitor CBC and BCR-ABL transcripts in patients who reinitiate treatment with Nilotinib Capsules due to loss of molecular response quantitation every 4 weeks until a major molecular response is re-established, then every 12 weeks.

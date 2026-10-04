@@ -1,0 +1,9 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | DOSAGE AND ADMINISTRATION
+
+Ceftriaxone may be administered intravenously or intramuscularly.
+
+                  Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration because a precipitate can form. Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line. Ceftriaxone must not be administered simultaneously with calcium‑containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y-site. However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (see
+                        WARNINGS
+                     ).
+
+                  There have been no reports of an interaction between ceftriaxone and oral calcium-containing products or interaction between intramuscular ceftriaxone and calcium-containing products (IV or oral).

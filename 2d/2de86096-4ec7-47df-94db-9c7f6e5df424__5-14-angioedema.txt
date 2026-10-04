@@ -1,0 +1,5 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 5.14 Angioedema
+
+Angioedema has been reported in patients treated with valproate in the postmarketing setting.
+
+                        Valproate should be discontinued immediately if symptoms of angioedema, such as facial, perioral, or upper airway swelling occur. Valproate should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].

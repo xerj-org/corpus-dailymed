@@ -1,0 +1,3 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 12.1 Mechanism of Action
+
+Ziconotide binds to N-type calcium channels located on the primary nociceptive (A-δ and C) afferent nerves in the superficial layers (Rexed laminae I and II) of the dorsal horn in the spinal cord. Although the mechanism of action of ziconotide has not been established in humans, results in animals suggest that its binding blocks N-type calcium channels, which leads to a blockade of excitatory neurotransmitter release from the primary afferent nerve terminals and antinociception.

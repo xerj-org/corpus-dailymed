@@ -1,0 +1,9 @@
+DailyMed 87b87b57-021a-4cb2-9edd-6efa732c208f | Carbamazepine | Pediatric Use
+
+Substantial evidence of carbamazepine’s effectiveness for use in the management of children with epilepsy (see
+  INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several
+  in vitrosystems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
+
+                        Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e. 4 to 12 mcg/mL) is the same in children and adults.
+
+                        The evidence assembled was primarily obtained from short-term use of carbamazepine. The safety of carbamazepine in children has been systematically studied up to 6 months. No longer-term data from clinical trials is available.

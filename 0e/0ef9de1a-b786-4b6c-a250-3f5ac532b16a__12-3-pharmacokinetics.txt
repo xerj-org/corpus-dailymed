@@ -1,0 +1,429 @@
+DailyMed 0ef9de1a-b786-4b6c-a250-3f5ac532b16a | METFORMIN HYDROCHLORIDE | 12.3 Pharmacokinetics
+
+Absorption
+
+                        Following a single oral dose of 1,000 mg (2x500 mg tablets) metformin hydrochloride extended-release tablets after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7 to 8 hours. In both single- and multiple-dose studies in healthy subjects, once daily 1,000 mg (2x500 mg tablets) dosing provides equivalent systemic exposure, as measured by area under the curve (AUC), and up to 35% higher Cmax, of metformin relative to the immediate-release given as 500 mg twice daily. At usual clinical doses and dosing schedules of metformin, steady state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 mcg/mL.
+
+                        In a two-way, single-dose, crossover study in healthy volunteers, the 1,000 mg tablet was found to be similar to two 500 mg tablets under fed conditions based on equivalent Cmax and AUCs for the two formulations.
+
+                        Single oral doses of metformin hydrochloride extended-release tablets from 500 mg to 2,500 mg resulted in less than proportional increase in both AUC and Cmax.
+
+                           Effect of food: Low-fat and high-fat meals increased the systemic exposure (as measured by AUC) from metformin hydrochloride extended-release tablets by about 38% and 73%, respectively, relative to fasting. Both meals prolonged metformin Tmax by approximately 3 hours but Cmax was not affected.
+
+                              Distribution
+
+                        The apparent volume of distribution (V/F) of metformin following single oral doses of 850 mg metformin HCl averaged 654±358 L. Metformin is negligibly bound to plasma proteins. Metformin partitions into erythrocytes, most likely as a function of time.
+
+                              Metabolism
+
+                        Intravenous, single-dose studies in healthy subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans), nor biliary excretion.
+
+                              Excretion
+
+                        Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination. Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours. In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
+
+                           Special Populations
+
+                              Renal Impairment
+
+                        Following a single-dose administration of metformin hydrochloride extended-release tablets 500 mg in subjects with mild and moderate renal impairment, the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively. Metformin peak and systemic exposure was 27% and 61% greater, respectively in subjects with mild renal impairment and 74% and 2.36‑fold greater in subjects with moderate renal impairment as compared to healthy subjects [see Dosage and Administration (2.2), Contraindications (4), and Warnings and Precautions (5.1)].
+
+                              Hepatic Impairment
+
+                        No pharmacokinetic studies of metformin hydrochloride extended-release tablets have been conducted in subjects with hepatic impairment [see Warnings and Precautions (5.1) and Use in Specific Populations (8.7)].
+
+                              Geriatrics
+
+                        Limited data from controlled pharmacokinetic studies of metformin HCl in healthy elderly subjects suggest that total plasma clearance of metformin is decreased by 35%, the half-life is prolonged by 64% and Cmax is increased by 76%, compared to healthy young subjects. From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
+
+                              Gender
+
+                        In the pharmacokinetic studies in healthy volunteers, there were no important differences between male and female subjects with respect to metformin AUC and t1/2. However, Cmax for metformin was 40% higher in female subjects as compared to males. In controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of metformin HCl tablets was comparable in males and females. The gender differences for Cmax are unlikely to be clinically important.
+
+                              Race
+
+                        A trend towards 10% higher metformin Cmax and AUC values for metformin are obtained in Asian subjects when compared to Caucasian, Hispanic and Black subjects. The differences between the Asian and Caucasian groups are unlikely to be clinically important. In controlled clinical studies of metformin HCl in patients with type 2 diabetes, the antihyperglycemic effect was comparable in whites (n=249), blacks (n=51) and Hispanics (n=24).
+
+                              Pediatrics
+
+                        There are no available pharmacokinetic data with metformin hydrochloride extended-release tablets in pediatric patients.
+
+                              Drug Interactions
+
+                        Specific pharmacokinetic drug interaction studies with metformin hydrochloride extended-release tablets
+
+                        have not been performed except for one with glyburide. However, such studies have been performed on
+
+                        metformin HCl tablets.
+
+                           Table 3: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+
+                                       Coadministered Drug
+
+                                  |
+
+                                       Dose of Coadministered Drug1
+
+                                  |
+
+                                       Dose of
+
+                                       Metformin
+
+                                       HCl1
+
+                                  |
+
+                                       Geometric Mean Ratio (ratio
+
+                                       with/without coadministered
+
+                                       drug)
+
+                                       No Effect=1.00
+
+                                  |
+
+                                       AUC2
+
+                                  |
+
+                                       Cmax
+
+                                  |
+
+                                    No dosing adjustments required for the following:
+
+                                  |
+
+                                    Glyburide
+
+                                  |
+
+                                    5 mg
+
+                                  |
+
+                                    500 mg4
+
+                                  |
+
+                                    0.983
+
+                                  |
+
+                                    0.993
+
+                                  |
+
+                                    Furosemide
+
+                                  |
+
+                                    40 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    1.093
+
+                                  |
+
+                                    1.223
+
+                                  |
+
+                                    Nifedipine
+
+                                  |
+
+                                    10 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    1.16
+
+                                  |
+
+                                    1.21
+
+                                  |
+
+                                    Propranolol
+
+                                  |
+
+                                    40 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    0.90
+
+                                  |
+
+                                    0.94
+
+                                  |
+
+                                    Ibuprofen
+
+                                  |
+
+                                    400 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    1.053
+
+                                  |
+
+                                    1.073
+
+                                  |
+
+                                       Cationic drugs that are eliminated by renal tubular secretion may increase the accumulation of
+                                       metformin:
+                                       [see Warnings and Precautions (5.1) and Drug Interactions (7)].
+
+                                  |
+
+                                    Cimetidine
+
+                                  |
+
+                                    400 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    1.40
+
+                                  |
+
+                                    1.61
+
+                                  |
+
+                                       Carbonic anhydrase inhibitors may cause metabolic acidosis:
+
+                                       [see Warnings and Precautions (5.1) and Drug Interactions (7)].
+
+                                  |
+
+                                    Topiramate
+
+                                  |
+
+                                    100 mg5
+
+                                  |
+
+                                    500 mg5
+
+                                  |
+
+                                    1.255
+
+                                  |
+
+                                    1.17
+
+                                  |
+
+                           1 All metformin HCl and coadministered drugs were given as single doses
+
+                           2 AUC = AUC0 to inf
+
+                           3 Ratio of arithmetic means
+
+                           4 Metformin hydrochloride extended-release tablets 500 mg
+
+                           5 At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0 to 12h
+
+                           Table 4: Effect of Metformin on Coadministered Drug Systemic Exposure
+
+                                       Coadministered Drug
+
+                                  |
+
+                                       Dose of Coadministered Drug1
+
+                                  |
+
+                                       Dose of
+
+                                       Metformin
+
+                                       HCl1
+
+                                  |
+
+                                       Geometric Mean Ratio (ratio
+
+                                       with/without coadministered
+
+                                       drug)
+
+                                       No Effect=1.00
+
+                                  |
+
+                                       AUC2
+
+                                  |
+
+                                       Cmax
+
+                                  |
+
+                                    No dosing adjustments required for the following:
+
+                                  |
+
+                                    Glyburide
+
+                                  |
+
+                                    5 mg
+
+                                  |
+
+                                    500 mg4
+
+                                  |
+
+                                    0.783
+
+                                  |
+
+                                    0.633
+
+                                  |
+
+                                    Furosemide
+
+                                  |
+
+                                    40 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    0.873
+
+                                  |
+
+                                    0.693
+
+                                  |
+
+                                    Nifedipine
+
+                                  |
+
+                                    10 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    1.104
+
+                                  |
+
+                                    1.08
+
+                                  |
+
+                                    Propranolol
+
+                                  |
+
+                                    40 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    1.014
+
+                                  |
+
+                                    0.94
+
+                                  |
+
+                                    Ibuprofen
+
+                                  |
+
+                                    400 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    0.975
+
+                                  |
+
+                                    1.015
+
+                                  |
+
+                                    Cimetidine
+
+                                  |
+
+                                    400 mg
+
+                                  |
+
+                                    850 mg
+
+                                  |
+
+                                    0.954
+
+                                  |
+
+                                    1.01
+
+                                  |
+
+                           1 All metformin HCl and coadministered drugs were given as single doses
+
+                           2 AUC = AUC0 to inf unless otherwise noted
+
+                           3 Ratio of arithmetic means, p-value of difference <0.05
+
+                           4 AUC0 to 24hr reported
+
+                           5 Ratio of arithmetic means

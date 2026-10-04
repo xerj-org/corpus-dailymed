@@ -1,0 +1,7 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 12.1 Mechanism of Action
+
+Celecoxib has analgesic, anti-inflammatory, and antipyretic properties.
+
+                        The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2.
+
+                        Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro. Celecoxib concentrations reached during therapy have produced in vivo effects. Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models. Prostaglandins are mediators of inflammation. Since celecoxib is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.

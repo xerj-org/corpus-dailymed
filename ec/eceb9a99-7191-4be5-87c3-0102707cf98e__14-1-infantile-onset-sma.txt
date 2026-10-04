@@ -1,0 +1,41 @@
+DailyMed eceb9a99-7191-4be5-87c3-0102707cf98e | EVRYSDI | 14.1 Infantile-Onset SMA
+
+Study 1 was an open-label, 2-part study to investigate the efficacy, safety, pharmacokinetics, and pharmacodynamics of EVRYSDI for oral solution in patients with Type 1 SMA (symptom onset between 28 days and 3 months of age). All patients had genetic confirmation of homozygous deletion or compound heterozygosity predictive of loss of function of the SMN1 gene, and two SMN2 gene copies.
+
+                        Part 1 of Study 1 was designed as a dose-finding study. Part 2 of Study 1 assessed the safety and efficacy of EVRYSDI at 0.20 mg/kg, the recommended dose determined in Part 1 [see Dosage and Administration (2.4)]. Patients from Part 1 did not take part in Part 2.
+
+                        A total of 62 patients with symptomatic Type 1 SMA were enrolled in FIREFISH Part 1 (n = 21) and Part 2 (n = 41), of which 58 patients received the recommended dosage [see Dosage and Administration (2.1)]. The median age of onset of clinical signs and symptoms was 1.5 months (range: 0.9 to 3.0 months). The median age at enrollment was 5.6 months (range: 2.2 to 6.9 months), and the median time between onset of symptoms and the first dose was 3.7 months (range 1.0 to 6.0 months). Of these patients, 60% were female, 57% were Caucasian, and 29% were Asian. The demographics and baseline disease characteristics were comparable between Part 1 and Part 2 of the study.
+
+                        Effectiveness was established based on the ability to sit without support for at least 5 seconds (as measured by Item 22 of the Bayley Scales of Infant and Toddler Development – Third Edition (BSID-III) gross motor scale) and on the basis of survival without permanent ventilation. Permanent ventilation was defined as requiring a tracheostomy or more than 21 consecutive days of either non-invasive ventilation (≥ 16 hours per day) or intubation, in the absence of an acute reversible event.
+
+                        The primary endpoint was the proportion of patients with the ability to sit without support for at least 5 seconds (BSID-III gross motor scale, Item 22) after 12 months of treatment in Part 2; 29% of patients (n = 12/41) achieved this milestone.
+
+                        Other efficacy endpoints of EVRYSDI-treated patients in Study 1 (pooled Part 1 and Part 2) are shown in Table 3.
+
+                           Table 3	Key Efficacy Results at Month 12 and Month 24 (Study 1, Parts 1 and Part 2)
+
+                                 Efficacy Endpoints |
+                                 Proportion of Patients Parts 1 & 2 at Month 12 |
+                                 Proportion of Patients Parts 1 & 2 at Month 24 |
+
+                                 Motor Function and Development Milestones |
+                                 N = 58 Results were pooled from all patients who received the recommended dose of risdiplam (all patients in Part 2 and those in the high-dose cohort of Part 1; n = 58).
+
+                                  |
+
+                                 BSID-III, Item 22: sitting without support for at least 5 seconds |
+                                 32.8% |
+                                 60.3% |
+
+                                 Survival and Event-Free Survival |
+                                 N = 62 Results were pooled from all patients who received any dose of risdiplam in Part 1 and Part 2 (n = 62).
+
+                                  |
+
+                                 Alive without Permanent Ventilation |
+                                 87.1% |
+                                 83.8% |
+
+                        At Month 24, 40% (23/58) of patients who received the recommended dose achieved sitting without support for 30 seconds (BSID-III, Item 26). In addition at Month 24, patients continued to achieve additional motor milestones; 28% (16/58) of patients achieved a standing measure (16% [9/58] supporting weight and 12% [7/58] standing with support), as measured by Section 2 of the Hammersmith Infant Neurological Examination (HINE-2) which assesses motor milestones.
+
+                        The proportion of patients alive without permanent ventilation (event-free survival) was 84% for all patients at Month 24 (Table 3). Out of 62 patients, 6 infants died (4 within the first 3 months following study enrollment) and one additional patient withdrew from treatment and died 3.5 months later. Four patients required permanent ventilation by Month 24. These results indicate a clinically meaningful deviation from the natural history of untreated infantile-onset SMA. As described in the natural history of untreated infantile-onset SMA, patients would not be expected to attain the ability to sit independently, and no more than 25% of these patients would be expected to survive without permanent ventilation beyond 14 months of age.

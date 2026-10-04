@@ -1,0 +1,5 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 12.1 Mechanism of Action
+
+The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity. Lamotrigine also displayed inhibitory properties in the kindling model in rats both during kindling development and in the fully kindled state. The relevance of these models to human epilepsy, however, is not known.
+
+                        One proposed mechanism of action of lamotrigine, the relevance of which remains to be established in humans, involves an effect on sodium channels. In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).

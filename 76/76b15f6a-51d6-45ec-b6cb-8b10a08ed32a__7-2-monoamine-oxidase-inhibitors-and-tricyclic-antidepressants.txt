@@ -1,0 +1,9 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 7.2 Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
+
+The administration of Bupivacaine Hydrochloride and Epinephrine Injection to patients receiving monoamine oxidase inhibitors, or tricyclic antidepressants may produce severe, prolonged hypertension. Concurrent use of these agents should generally be avoided. In situations when concurrent therapy is necessary, careful monitoring of the patient's hemodynamic status is essential
+
+  [see
+
+   Warnings and Precautions (5.6)]
+
+  .

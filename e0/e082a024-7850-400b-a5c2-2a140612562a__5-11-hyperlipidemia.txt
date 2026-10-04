@@ -1,0 +1,13 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 5.11 Hyperlipidemia
+
+Increased serum cholesterol and triglycerides, requiring the need for anti-lipid therapy, have been reported to occur following initiation of Zortress and the risk of hyperlipidemia is increased with higher everolimus whole blood trough concentrations [
+                           see
+                           Adverse
+                           R
+                           eactions (6.2)
+                           ]
+                           . Use of anti-lipid therapy may not normalize lipid levels in patients receiving Zortress. 
+
+                        Any patient who is administered Zortress should be monitored for hyperlipidemia. If detected, interventions, such as diet, exercise, and lipid-lowering agents should be initiated as outlined by the National Cholesterol Education Program guidelines. The risk/benefit should be considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen containing Zortress. Similarly, the risk/benefit of continued Zortress therapy should be reevaluated in patients with severe refractory hyperlipidemia. Zortress has not been studied in patients with baseline cholesterol levels greater than 350 mg/dL.
+
+                        Due to an interaction with cyclosporine, clinical trials of Zortress and cyclosporine in kidney transplant patients strongly discouraged patients from receiving the HMG-CoA reductase inhibitors simvastatin and lovastatin. During Zortress therapy with cyclosporine, patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse effects, as described in the respective labeling for these agents [see Drug Interactions (7.2)].

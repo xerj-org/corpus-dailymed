@@ -1,0 +1,7 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 5.3 Spinal/Epidural Anesthesia or Puncture
+
+When neuraxial anesthesia (spinal/epidural anesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis.
+
+                        The risk of these events may be increased by the postoperative use of indwelling epidural catheters or the concomitant use of medicinal products affecting hemostasis. Indwelling epidural or intrathecal catheters should not be removed earlier than 24 hours after the last administration of ELIQUIS. The next dose of ELIQUIS should not be administered earlier than 5 hours after the removal of the catheter. The risk may also be increased by traumatic or repeated epidural or spinal puncture. If traumatic puncture occurs, delay the administration of ELIQUIS for 48 hours.
+
+                        Monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, or bowel or bladder dysfunction). If neurological compromise is noted, urgent diagnosis and treatment is necessary. Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.

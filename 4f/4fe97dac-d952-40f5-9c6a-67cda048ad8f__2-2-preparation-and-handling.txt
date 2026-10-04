@@ -1,0 +1,59 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 2.2 Preparation and Handling
+
+Visually inspect GAMUNEX-C FlexBag for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not use if turbid or if particulate matter is present 
+
+                           Do not freeze. Do not use solutions that have been frozen. 
+
+                           Prior to use, allow the solution to reach ambient room temperature. 
+
+                           If the container or overwrap show any signs of damage or tampering, do not use the product and notify Grifols Therapeutics LLC immediately [1-800-520-2807]. 
+
+                           The GAMUNEX-C FlexBag is for single use only. GAMUNEX-C FlexBag contains no preservative. Use any bag that has been entered promptly. Discard partially used bags. Do not store after entry into bag. 
+
+                           Infuse GAMUNEX-C FlexBag using a separate line by itself, without mixing with other intravenous fluids or medications the subject might be receiving. The GAMUNEX-C FlexBag infusion line can be flushed with 5% dextrose in water (D5/W) or 0.9% sodium chloride for injection.
+
+                           If dilution is required, GAMUNEX-C may be diluted with 5% dextrose in water (D5/W). Do not dilute with saline.
+
+                           Avoid simultaneous administration of GAMUNEX-C FlexBag and Heparin through a single lumen delivery device due to incompatibility of GAMUNEX-C FlexBag with heparin. Flush Heparin Lock (Hep-Lock) through which GAMUNEX-C FlexBag was administered with 5% dextrose in water (D5/W) or 0.9% sodium chloride for injection, and do not flush with Heparin. See table below.
+
+                                  |
+                                 Additional Solutions |
+                                 Dilution |
+                                 Line Flush |
+                                 Delivery Device Flush |
+
+                                  |
+                                 5% Dextrose in water |
+                                 Yes |
+                                 Yes |
+                                 Yes |
+
+                                  |
+                                 0.9% Sodium Chloride |
+                                 No |
+                                 Yes |
+                                 Yes |
+
+                                  |
+                                 Heparin |
+                                 No |
+                                 No |
+                                 No |
+
+                           Do not mix with immune globulin intravenous (IGIV) products from other manufacturers.
+
+                           Do not use after expiration date. 
+
+                           Some moisture or condensation may be observed in the protective overwrap. This is normal and does not affect the quality or safety of the solution. 
+
+                           Prior to administration, check the bag for any leaks by squeezing it firmly. If leaks are found, discard the bag as sterility may be compromised.
+
+                        CAUTION: Do not use bags in series connections. Such use could result in air embolism due to residual air being drawn from the primary bag before the administration of the fluid from the secondary bag is complete.
+
+                           After checking that protective overwrap is not damaged, remove it by tearing the slots at either end (refer to Figure 1).
+
+                           Suspend the inner bag from the eyelet support (refer to Figure 2). 
+
+                           Holding the protective safety shield at the infusion port of the inner bag with one hand, use the free hand to exert light force to turn the twist-off opening about 90 degrees until it leaves the port (refer to Figure 3). 
+
+                           Attach either a non-vented or vented administration set (refer to Figure 4). Adjust the infusion rate to the individual circumstances and the indication. Refer to the complete directions of administration set used.

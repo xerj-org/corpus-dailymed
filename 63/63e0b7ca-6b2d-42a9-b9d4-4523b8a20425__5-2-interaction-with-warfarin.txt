@@ -1,0 +1,7 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 5.2 Interaction with Warfarin
+
+Steady state interactions of rabeprazole and warfarin have not been adequately evaluated in patients. There have been reports of increased INR and prothrombin time in patients receiving a proton pump inhibitor and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. Patients treated with rabeprazole sodium delayed-release tablets and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time
+
+  [see
+
+   Drug Interactions (7)].

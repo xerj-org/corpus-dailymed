@@ -1,0 +1,3 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 2.5 Ankylosing Spondylitis
+
+For AS, the dosage of celecoxib is 200 mg daily in single (once per day) or divided (twice per day) doses. If no effect is observed after 6 weeks, a trial of 400 mg daily may be worthwhile. If no effect is observed after 6 weeks on 400 mg daily, a response is not likely and consideration should be given to alternate treatment options.

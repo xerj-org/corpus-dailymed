@@ -1,0 +1,3 @@
+DailyMed 76ca6bea-5f63-4e76-b161-1dbcbad18421 | Allopurinol | 2.1 Recommended Testing Prior to Treatment Initiation
+
+Prior to initiating treatment with allopurinol tablets in patients with gout, assess the following baseline tests: serum uric acid level, complete blood count, chemistry panel, liver function tests (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin), kidney function tests (serum creatinine and eGFR).

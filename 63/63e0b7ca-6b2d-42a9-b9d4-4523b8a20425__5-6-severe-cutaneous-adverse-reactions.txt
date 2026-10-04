@@ -1,0 +1,9 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 5.6 Severe Cutaneous Adverse Reactions
+
+Severe cutaneous adverse reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in association with the use of PPIs
+
+  [see Adverse Reactions (
+
+   6.2)]
+
+  . Discontinue rabeprazole sodium delayed-release tablets at first signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation.

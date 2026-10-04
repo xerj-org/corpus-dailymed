@@ -1,0 +1,3 @@
+DailyMed f8b01c77-620d-4734-a771-b8524b65bcca | KETAMINE HYDROCHLORIDE | 12.1 Mechanism of Action
+
+Ketamine hydrochloride, a racemic mixture of ketamine, is a non-selective, non-competitive antagonist of the N-methyl-D-aspartate (NMDA) receptor, an ionotropic glutamate receptor. The major circulating metabolite of ketamine (norketamine) demonstrated activity at the same receptor with less affinity. Norketamine is about 1/3 as active as ketamine in reducing halothane requirements (MAC) of the rat.

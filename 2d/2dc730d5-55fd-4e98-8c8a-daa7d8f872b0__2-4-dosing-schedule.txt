@@ -1,0 +1,60 @@
+DailyMed 2dc730d5-55fd-4e98-8c8a-daa7d8f872b0 | Menveo | 2.4 Dosing Schedule
+
+The dosing schedule is as follows:
+
+                           Primary Vaccination
+
+                           Table 1. Dosing Schedule for MENVEO Primary Vaccination
+
+                                    MENVEO Two-Vial Presentation
+                                  |
+
+                                    Infants Aged 2 Months
+
+                                  |
+
+                                    4-dose series at 2, 4, 6, and 12 months of age
+
+                                  |
+
+                                    Children Aged 7 through 23 Months
+
+                                  |
+
+                                    2-dose series with the second dose administered in the second year of life and at least 3 months after the first dose
+
+                                  |
+
+                                    Children Aged 2 through 10 Years
+
+                                  |
+
+                                    A single dose
+
+                                    For children aged 2 through 5 years at continued high risk of meningococcal disease, a second dose may be administered 2 months after the first dose.
+
+                                  |
+
+                                    Adolescents and Adults Aged 11 through 55 Years
+
+                                  |
+
+                                    A single dose
+
+                                  |
+
+                                       MENVEO One-Vial Presentation
+
+                                  |
+
+                                    Adolescents and Adults Aged 10 through 55 Years
+
+                                  |
+
+                                    A single dose
+
+                                  |
+
+                           Booster Vaccination
+
+                           Adolescents and Adults Aged 15 through 55 Years: A single booster dose of MENVEO using either the two-vial presentation or the one-vial presentation may be administered to individuals who are at continued risk for meningococcal disease if at least 4 years have elapsed since a prior dose of a meningococcal (serogroups A, C, Y, W-135) conjugate vaccine.

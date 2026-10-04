@@ -1,0 +1,9 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 12.2 Pharmacodynamics
+
+Exposure-Response Relationships
+
+                        The exposure-response relationship and time course of pharmacodynamic response for the effectiveness of capivasertib have not been fully characterized. An exposure-response relationship was observed where increased capivasertib exposure was associated with increased incidence of diarrhea (CTCAE Grade 2 to 4), rash (CTCAE Grade 2 to 4) and hyperglycemia (CTCAE Grades 3 or 4) at doses of 80 to 800 mg (0.2 to 2 times the approved recommended dosage).
+
+                           Cardiac Electrophysiology
+
+                        At the recommended TRUQAP dose, a mean increase in the QTc interval > 20 ms was not observed.

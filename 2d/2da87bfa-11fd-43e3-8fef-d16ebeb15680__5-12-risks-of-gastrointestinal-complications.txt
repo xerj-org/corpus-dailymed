@@ -1,0 +1,7 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 5.12 Risks of Gastrointestinal Complications
+
+Morphine sulfate extended-release capsules are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
+
+                        The morphine in morphine sulfate extended-release capsules may cause spasm of the sphincter of Oddi. Opioids may cause increases in the serum amylase. Regularly evaluate patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+                        Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids. The risk of OIED may increase as the dose and/or duration of opioids increases. Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].

@@ -1,0 +1,9 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 5.3 Gastrointestinal Disorders
+
+Administer tolterodine tartrate extended-release capsules with caution in patients with gastrointestinal obstructive disorders because of the risk of gastric retention.
+
+                        Tolterodine tartrate extended-release capsules, like other antimuscarinic drugs, may decrease gastrointestinal motility and should be used with caution in patients with conditions associated with decreased gastrointestinal motility (e.g., intestinal atony)
+  [see
+
+                                 CONTRAINDICATIONS (4)
+                              ].

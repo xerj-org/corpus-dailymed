@@ -1,0 +1,17 @@
+DailyMed 761dc0f8-2f65-4615-ab49-a4bcffd40ce9 | Tadalafil | 2.7 Concomitant Medications
+
+Nitrates
+
+ Concomitant use of nitrates in any form is contraindicated [see Contraindications (4.1)].
+
+                           Alpha-Blockers
+
+                           ED — When tadalafil tablets are coadministered with an alpha-blocker in patients being treated for ED, patients should be stable on alpha-blocker therapy prior to initiating treatment, and tadalafil tablets should be initiated at the lowest recommended dose [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
+
+                           BPH — Tadalafil tablets are not recommended for use in combination with alpha-blockers for the treatment of BPH [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
+
+                           CYP3A4 Inhibitors
+
+                           Tadalafil tablets for Use as Needed — For patients taking concomitant potent inhibitors of CYP3A4, such as ketoconazole or ritonavir, the maximum recommended dose of tadalafil tablets is 10 mg, not to exceed once every 72 hours [see Warnings and Precautions (5.10) and Drug Interactions (7.2)].
+
+                           Tadalafil tablets for Once Daily Use — For patients taking concomitant potent inhibitors of CYP3A4, such as ketoconazole or ritonavir, the maximum recommended dose is 2.5 mg [see Warnings and Precautions (5.10) and Drug Interactions (7.2)].

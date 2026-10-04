@@ -1,0 +1,4 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 5.5 Intracranial Hypertension (Pseudotumor Cerebri)
+
+Isotretinoin use has been associated with cases of intracranial hypertension (pseudotumor cerebri), some of which involved concomitant use of tetracyclines. Avoid concomitant use of isotretinoin with tetracyclines [see Drug Interactions (7.2)]
+                           . Early signs and symptoms of intracranial hypertension include papilledema, headache, nausea and vomiting, and visual disturbances. Screen patients with these symptoms for papilledema and, if present, immediately discontinue isotretinoin and refer the patient to a neurologist for further diagnosis and care [see Adverse Reactions (6)].

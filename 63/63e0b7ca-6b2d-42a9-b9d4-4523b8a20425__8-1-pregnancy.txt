@@ -1,0 +1,27 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 8.1 Pregnancy
+
+Risk Summary
+
+                        There are no available human data on rabeprazole sodium delayed-release tablets use in pregnant women to inform the drug associated risk. The background risk of major birth defects and miscarriage for the indicated populations are unknown. However, the background risk in the U.S. general population of major birth defects is 2 to 4% and of miscarriage is 15 to 20% of clinically recognized pregnancies. No evidence of adverse developmental effects were seen in animal reproduction studies with rabeprazole administered during organogenesis at 13 and 8 times the human area under the plasma concentration-time curve (AUC) at the recommended dose for GERD, in rats and rabbits, respectively
+
+  [see Data].
+
+                        Changes in bone morphology were observed in offspring of rats treated with oral doses of a different PPI through most of pregnancy and lactation. When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age
+
+  [see Data].
+
+                            
+
+                           Data 
+
+                           Animal Data 
+
+                        Embryo-fetal developmental studies have been performed in rats during organogenesis at intravenous doses of rabeprazole up to 50 mg/kg/day (plasma AUC of 11.8 µg•hr/mL, about 13 times the human exposure at the recommended oral dose for GERD) and rabbits at intravenous doses up to 30 mg/kg/day (plasma AUC of 7.3 µg •hr/mL, about 8 times the human exposure at the recommended oral dose for GERD) and have revealed no evidence of harm to the fetus due to rabeprazole.
+
+                        Administration of rabeprazole to rats in late gestation and during lactation at an oral dose of 400 mg/kg/day (about 195-times the human oral dose based on mg/m
+
+  2) resulted in decreases in body weight gain of the pups.
+
+                          A pre-and postnatal developmental toxicity study in rats with additional endpoints to evaluate bone development was performed with a different PPI at about 3.4 to 57 times an oral human dose on a body surface area basis. Decreased femur length, width and thickness of cortical bone, decreased thickness of the tibial growth plate, and minimal to mild bone marrow hypocellularity were noted at doses of this PPI equal to or greater than 3.4 times an oral human dose on a body surface area basis. Physeal dysplasia in the femur was also observed in offspring after in utero and lactational exposure to the PPI at doses equal to or greater than 33.6 times an oral human dose on a body surface area basis. Effects on maternal bone were observed in pregnant and lactating rats in a pre-and postnatal toxicity study when the PPI was administered at oral doses of 3.4 to 57 times an oral human dose on a body surface area basis. When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses equal to or greater than 33.6 times an oral human dose on a body surface area basis.
+
+                        A follow-up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with a different PPI at oral doses of 280 mg/kg/day (about 68 times an oral human dose on a body surface area basis) where drug administration was from either gestational day 7 or gestational day 16 until parturition. When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age.

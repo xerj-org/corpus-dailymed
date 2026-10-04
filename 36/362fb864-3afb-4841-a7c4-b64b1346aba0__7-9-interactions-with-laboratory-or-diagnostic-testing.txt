@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 7.9 Interactions with Laboratory or Diagnostic Testing
+
+Some fluoroquinolones, including levofloxacin, may produce false-positive urine screening results for opiates using commercially available immunoassay kits. Confirmation of positive opiate screens by more specific methods may be necessary.

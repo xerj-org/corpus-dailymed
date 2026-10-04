@@ -1,0 +1,47 @@
+DailyMed 5c2ccdcf-4f47-df06-e063-6294a90a42eb | Clonazepam | Other Adverse Events Observed During the Premarketing Evaluation of Clonazepam in Panic Disorder
+
+Following is a list of modified CIGY terms that reflect treatment-emergent adverse events reported by patients treated with clonazepam at multiple doses during clinical trials. All reported events are included except those already listed in
+
+  Table 3or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and events reported only once and which did not have a substantial probability of being acutely life-threatening. It is important to emphasize that, although the events occurred during treatment with clonazepam, they were not necessarily caused by it.
+
+                              Events are further categorized by body system and listed in order of decreasing frequency. These adverse events were reported infrequently, which is defined as occurring in 1/100 to 1/1000 patients.
+
+                                 Body as a Whole:weight increase, accident, weight decrease, wound, edema, fever, shivering, abrasions, ankle edema, edema foot, edema periorbital, injury, malaise, pain, cellulitis, inflammation localized
+
+                                 Cardiovascular Disorders:chest pain, hypotension postural
+
+                                 Central and Peripheral Nervous System Disorders:migraine, paresthesia, drunkenness, feeling of enuresis, paresis, tremor, burning skin, falling, head fullness, hoarseness, hyperactivity, hypoesthesia, tongue thick, twitching
+
+                                 Gastrointestinal System Disorders:abdominal discomfort, gastrointestinal inflammation, stomach upset, toothache, flatulence, pyrosis, saliva increased, tooth disorder, bowel movements frequent, pain pelvic, dyspepsia, hemorrhoids
+
+                                 Hearing and Vestibular Disorders:vertigo, otitis, earache, motion sickness
+
+                                 Heart Rate and Rhythm Disorders:palpitation
+
+                                 Metabolic and Nutritional Disorders:thirst, gout
+
+                                 Musculoskeletal System Disorders:back pain, fracture traumatic, sprains and strains, pain leg, pain nape, cramps muscle, cramps leg, pain ankle, pain shoulder, tendinitis, arthralgia, hypertonia, lumbago, pain feet, pain jaw, pain knee, swelling knee
+
+                                 Platelet, Bleeding and Clotting Disorders:bleeding dermal
+
+                                 Psychiatric Disorders:insomnia, organic disinhibition, anxiety, depersonalization, dreaming excessive, libido loss, appetite increased, libido increased, reactions decreased, aggression, apathy, disturbance in attention, excitement, anger, hunger abnormal, illusion, nightmares, sleep disorder, suicide ideation, yawning
+
+                                 Reproductive Disorders, Female:breast pain, menstrual irregularity
+
+                                 Reproductive Disorders, Male:ejaculation decreased
+
+                                 Resistance Mechanism Disorders:infection mycotic, infection viral, infection streptococcal, herpes simplex infection, infectious mononucleosis, moniliasis
+
+                                 Respiratory System Disorders:sneezing excessive, asthmatic attack, dyspnea, nosebleed, pneumonia, pleurisy
+
+                                 Skin and Appendages Disorders:acne flare, alopecia, xeroderma, dermatitis contact, flushing, pruritus, pustular reaction, skin burns, skin disorder
+
+                                 Special Senses Other, Disorders:taste loss
+
+                                 Urinary System Disorders:dysuria, cystitis, polyuria, urinary incontinence, bladder dysfunction, urinary retention, urinary tract bleeding, urine discoloration
+
+                                 Vascular (Extracardiac) Disorders:thrombophlebitis leg
+
+                                 Vision Disorders:eye irritation, visual disturbance, diplopia, eye twitching, styes, visual field defect, xerophthalmia
+
+                                 To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 of FDA-1088 or http://www.fda.gov/medwatch.

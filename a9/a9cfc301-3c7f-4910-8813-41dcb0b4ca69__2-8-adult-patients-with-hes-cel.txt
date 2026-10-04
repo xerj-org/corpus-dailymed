@@ -1,0 +1,3 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 2.8 Adult Patients with HES/CEL
+
+The recommended dose of imatinib mesylate tablets is 400 mg/day for adult patients with HES/CEL. For HES/CEL patients with demonstrated FIP1L1-PDGFRα fusion kinase, a starting dose of 100 mg/day is recommended. Dose increase from 100 mg to 400 mg for these patients may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.

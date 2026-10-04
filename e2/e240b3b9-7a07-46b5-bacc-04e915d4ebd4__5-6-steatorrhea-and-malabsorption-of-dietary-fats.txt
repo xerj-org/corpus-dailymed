@@ -1,0 +1,3 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 5.6 Steatorrhea and Malabsorption of Dietary Fats
+
+New onset steatorrhea, stool discoloration and loose stools have been reported in patients receiving somatostatin analogs, including lanreotide injection. Somatostatin analogs reversibly inhibit secretion of pancreatic enzymes and bile acids, which may result in malabsorption of dietary fats and subsequent symptoms of steatorrhea, loose stools, abdominal bloating, and weight loss. If new occurrence or worsening of these symptoms are reported in patients receiving lanreotide injection, evaluate patients for potential pancreatic exocrine insufficiency and manage accordingly.

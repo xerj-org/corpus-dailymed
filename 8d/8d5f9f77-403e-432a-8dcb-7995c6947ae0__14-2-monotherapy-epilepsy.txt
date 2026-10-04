@@ -1,0 +1,19 @@
+DailyMed 8d5f9f77-403e-432a-8dcb-7995c6947ae0 | Topiramate | 14.2 Monotherapy Epilepsy
+
+Patients with Partial-Onset or Primary Generalized Tonic-Clonic Seizures
+
+                           Adults and Pediatric Patients 10 Years of Age and Older
+
+                        The effectiveness of topiramate as initial monotherapy in adults and pediatric patients 10 years of age and older with partial-onset or primary generalized tonic-clonic seizures was established in a multicenter, randomized, double-blind, dose-controlled, parallel-group trial (Study 1).
+
+                        Study 1 was conducted in 487 patients diagnosed with epilepsy (6 to 83 years of age) who had 1 or 2 well-documented seizures during the 3-month retrospective baseline phase who then entered the study and received topiramate 25 mg/day for 7 days in an open-label fashion. Forty-nine percent of subjects had no prior AED treatment and 17% had a diagnosis of epilepsy for greater than 24 months. Any AED therapy used for temporary or emergency purposes was discontinued prior to randomization. In the double-blind phase, 470 patients were randomized to titrate up to 50 mg/day or 400 mg/day of topiramate. If the target dose could not be achieved, patients were maintained on the maximum tolerated dose. Fifty-eight percent of patients achieved the maximal dose of 400 mg/day for >2 weeks, and patients who did not tolerate 150 mg/day were discontinued.
+
+                        The primary efficacy assessment was a between-group comparison of time to first seizure during the double-blind phase.
+
+                        Comparison of the Kaplan-Meier survival curves of time to first seizure favored the topiramate 400 mg/day group over the topiramate 50 mg/day group (Figure 1). The treatment effects with respect to time to first seizure were consistent across various patient subgroups defined by age, sex, geographic region, baseline body weight, baseline seizure type, time since diagnosis, and baseline AED use.
+
+                           Figure 1: Kaplan-Meier Estimates of Cumulative Rates for Time to First Seizure in Study 1
+
+                           Pediatric Patients 2 to 9 Years of Age
+
+                        The conclusion that topiramate is effective as initial monotherapy in pediatric patients 2 to 9 years of age with partial-onset or primary generalized tonic-clonic seizures was based on a pharmacometrics bridging approach using data from the controlled epilepsy trials conducted with immediate-release topiramate described in labeling. This approach consisted of first showing a similar exposure-response relationship between pediatric patients down to 2 years of age and adults when immediate-release topiramate was given as adjunctive therapy. Similarity of exposure-response was also demonstrated in pediatric patients 6 to less than 16 years of age and adults when topiramate was given as initial monotherapy. Specific dosing in pediatric patients 2 to 9 years of age was derived from simulations utilizing plasma exposure ranges observed in pediatric and adult patients treated with immediate-release topiramate initial monotherapy [see Dosage and Administration (2.1)].

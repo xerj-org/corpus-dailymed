@@ -1,0 +1,3 @@
+DailyMed c4da6de7-9ab1-4fcf-88f3-fe785019e6e7 | Estradiol | 12.2 Pharmacodynamics
+
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to estradiol transdermal system nor her risk for adverse outcomes. Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.

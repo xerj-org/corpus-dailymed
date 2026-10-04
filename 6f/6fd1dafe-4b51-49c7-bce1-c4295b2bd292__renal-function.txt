@@ -1,0 +1,7 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | Renal Function
+
+When nicardipine was given to mild-to-moderate hypertensive patients with moderate degrees of renal impairment, significant reduction in glomerular filtration rate (GFR) and effective renal plasma flow (RPF) were observed. No significant differences in liver blood flow were observed in these patients. A significantly lower systemic clearance and higher area under the curve (AUC) were observed.
+
+                              When nicardipine capsules (20 or 30 mg TID) were given to hypertensive patients with impaired renal function, mean plasma concentrations, AUC, and Cmax were approximately two-fold higher than in healthy controls. There was a transient increase in electrolyte excretion, including sodium [see Warnings and Precautions (5.6)].
+
+                              Acute bolus administration of nicardipine hydrochloride injection (2.5 mg) in healthy volunteers decreased mean arterial pressure and renal vascular resistance; glomerular filtration rate (GFR), renal plasma flow (RPF), and the filtration fraction were unchanged. In healthy patients undergoing abdominal surgery, nicardipine hydrochloride injection (10 mg over 20 minutes) increased GFR with no change in RPF when compared with placebo. In hypertensive type II diabetic patients with nephropathy, nicardipine capsules (20 mg TID) did not change RPF and GFR, but reduced renal vascular resistance.

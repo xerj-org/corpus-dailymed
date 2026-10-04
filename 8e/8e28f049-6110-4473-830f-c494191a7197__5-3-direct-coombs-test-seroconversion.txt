@@ -1,0 +1,3 @@
+DailyMed 8e28f049-6110-4473-830f-c494191a7197 | Cephalexin | 5.3 Direct Coombs’ Test Seroconversion
+
+Positive direct Coombs’ tests have been reported during treatment with the cephalosporin antibacterial drugs including cephalexin. Acute intravascular hemolysis induced by cephalexin therapy has been reported. If anemia develops during or after cephalexin therapy, perform a diagnostic work-up for drug-induced hemolytic anemia, discontinue cephalexin and institute appropriate therapy.

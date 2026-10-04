@@ -1,0 +1,5 @@
+DailyMed fe9735db-c57e-44a8-bffb-b87a84c2a6f3 | REXTOVY | 12.1 Mechanism of Action
+
+Naloxone hydrochloride is an opioid antagonist that antagonizes opioid effects by competing for the same receptor sites.
+
+                        Naloxone hydrochloride reverses the effects of opioids, including respiratory depression, sedation, and hypotension. It can also reverse the psychotomimetic and dysphoric effects of agonist-antagonists such as pentazocine.

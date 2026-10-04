@@ -1,0 +1,5 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 1.1 Acromegaly
+
+Lanreotide injection is indicated for the long-term treatment of acromegalic patients who have had an inadequate response to surgery and/or radiotherapy, or for whom surgery and/or radiotherapy is not an option.
+
+                        The goal of treatment in acromegaly is to reduce growth hormone (GH) and insulin growth factor-1 (IGF-1) levels to normal.

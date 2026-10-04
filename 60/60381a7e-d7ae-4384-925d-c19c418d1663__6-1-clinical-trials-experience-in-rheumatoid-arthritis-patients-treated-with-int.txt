@@ -1,0 +1,11 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 6.1 Clinical Trials Experience in Rheumatoid Arthritis Patients Treated with Intravenous Tocilizumab (Tocilizumab-IV)
+
+The tocilizumab-IV data in rheumatoid arthritis (RA) includes 5 double-blind, controlled, multicenter studies. In these studies, patients received doses of tocilizumab-IV 8 mg per kg monotherapy (288 patients), tocilizumab- IV 8 mg per kg in combination with DMARDs (including methotrexate) (1582 patients), or tocilizumab-IV 4 mg per kg in combination with methotrexate (774 patients).
+
+                        The all exposure population includes all patients in registration studies who received at least one dose of tocilizumab-IV. Of the 4009 patients in this population, 3577 received treatment for at least 6 months, 3309 for at least one year; 2954 received treatment for at least 2 years and 2189 for 3 years.
+
+                        All patients in these studies had moderately to severely active rheumatoid arthritis. The study population had a mean age of 52 years, 82% were female and 74% were Caucasian.
+
+                        The most common serious adverse reactions were serious infections [see Warnings and Precautions (5.1)]. The most commonly reported adverse reactions in controlled studies up to 24 weeks (occurring in at least 5% of patients treated with tocilizumab-IV monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
+
+                        The proportion of patients who discontinued treatment due to any adverse reactions during the double-blind, placebo-controlled studies was 5% for patients taking tocilizumab-IV and 3% for placebo-treated patients. The most common adverse reactions that required discontinuation of tocilizumab-IV were increased hepatic transaminase values (per protocol requirement) and serious infections.

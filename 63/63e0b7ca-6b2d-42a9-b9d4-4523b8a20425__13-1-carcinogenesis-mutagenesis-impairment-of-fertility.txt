@@ -1,0 +1,19 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In an 88/104-week carcinogenicity study in CD-1 mice, rabeprazole at oral doses up to 100 mg/kg/day did not produce any increased tumor occurrence. The highest tested dose produced a systemic exposure to rabeprazole (AUC) of 1.40 μg•hr/mL which is 1.6 times the human exposure (plasma AUC
+
+  0-∞= 0.88 μg•hr/mL) at the recommended dose for GERD (20 mg/day). In a 28-week carcinogenicity study in p53
+
+  +/-transgenic mice, rabeprazole at oral doses of 20, 60, and 200 mg/kg/day did not cause an increase in the incidence rates of tumors but produced gastric mucosal hyperplasia at all doses. The systemic exposure to rabeprazole at 200 mg/kg/day is about 17 to 24 times the human exposure at the recommended dose for GERD. In a 104-week carcinogenicity study in Sprague-Dawley rats, males were treated with oral doses of 5, 15, 30 and 60 mg/kg/day and females with 5, 15, 30, 60, and 120 mg/kg/day. Rabeprazole produced gastric enterochromaffin-like (ECL) cell hyperplasia in male and female rats and ECL cell carcinoid tumors in female rats at all doses including the lowest tested dose. The lowest dose (5 mg/kg/day) produced a systemic exposure to rabeprazole (AUC) of about 0.1 μg•hr/mL which is about 0.1 times the human exposure at the recommended dose for GERD. In male rats, no treatment related tumors were observed at doses up to 60 mg/kg/day producing a rabeprazole plasma exposure (AUC) of about 0.2 μg•hr/mL (0.2 times the human exposure at the recommended dose for GERD).
+
+                        Rabeprazole was positive in the Ames test, the Chinese hamster ovary cell (CHO/HGPRT) forward gene mutation test, and the mouse lymphoma cell (L5178Y/TK+/–) forward gene mutation test. Its demethylated-metabolite was also positive in the Ames test. Rabeprazole was negative in the
+
+  in vitroChinese hamster lung cell chromosome aberration test, the
+
+  in vivomouse micronucleus test, and the
+
+  in vivoand
+
+  ex vivorat hepatocyte unscheduled DNA synthesis (UDS) tests.
+
+                        Rabeprazole at intravenous doses up to 30 mg/kg/day (plasma AUC of 8.8 μg•hr/mL, about 10 times the human exposure at the recommended dose for GERD) was found to have no effect on fertility and reproductive performance of male and female rats.

@@ -1,0 +1,5 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 12.3 Pharmacokinetics
+
+When comparing atezolizumab exposure following subcutaneous TECENTRIQ HYBREZA to that of intravenous atezolizumab in Study IMscin001 [see Clinical Studies (14.1)], the geometric mean ratio (GMR) (90% CI) for Cycle 1 Ctrough was 1.05 (0.88, 1.24) and AUC0-21days was 0.87 (0.83, 0.92); the steady state Ctrough was 1.15 (1.05, 1.26) and AUC was 1.01 (0.94, 1.08).
+
+                        Steady-state was achieved 6 to 9 weeks. The systemic accumulation ratio following administration of the approved recommended dosage of TECENTRIQ HYBREZA was 2.2.

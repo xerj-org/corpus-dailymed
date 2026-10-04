@@ -1,0 +1,5 @@
+DailyMed e4ea0c09-cdd1-4708-962c-6ba28b989df3 | Metronidazole | Teratogenic Effects
+
+Metronidazole crosses the placental barrier and enters the fetal circulation rapidly. Reproduction studies have been performed in rats at doses up to five times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to metronidazole. Metronidazole administered intraperitoneally to pregnant mice at approximately the human dose caused fetotoxicity; administered orally to pregnant mice, no fetotoxicity was observed. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, and because metronidazole is a carcinogen in rodents, this drug should be used during pregnancy only if clearly needed (see
+                                    CONTRAINDICATIONS
+                                 ).

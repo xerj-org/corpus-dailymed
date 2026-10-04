@@ -1,0 +1,7 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Influence on Diagnostic Tests
+
+In patients treated with ceftriaxone the Coombs’ test may become positive. Ceftriaxone, like other antibacterial drugs, may result in positive test results for galactosemia.
+
+                        Nonenzymatic methods for the glucose determination in urine may give false-positive results. For this reason, urine-glucose determination during therapy with ceftriaxone should be done enzymatically.
+
+                        The presence of ceftriaxone may falsely lower estimated blood glucose values obtained with some blood glucose monitoring systems. Please refer to instructions for use for each system. Alternative testing methods should be used if necessary.

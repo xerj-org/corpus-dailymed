@@ -1,0 +1,7 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 5.4 Rhabdomyolysis
+
+Rhabdomyolysis has been reported in patients treated with ZEPZELCA.
+
+                        Monitor creatine phosphokinase (CPK) prior to initiating ZEPZELCA and periodically during treatment as clinically indicated. Withhold or reduce the dose based on severity [see Dosage and Administration (2.2)].
+
+                           In the IMforte study [see Adverse Reactions (6.1)], among 235 patients who had a creatine phosphokinase laboratory evaluation, increased creatine phosphokinase occurred in 9% who received ZEPZELCA in combination with atezolizumab.

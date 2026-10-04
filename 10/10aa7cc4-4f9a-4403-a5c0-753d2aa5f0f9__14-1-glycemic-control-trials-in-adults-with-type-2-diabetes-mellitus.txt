@@ -1,0 +1,1018 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 14.1 Glycemic Control Trials in Adults with Type 2 Diabetes Mellitus
+
+The effectiveness of dapagliflozin and metformin extended-release tablets has been established in clinical trials of the co-administration of oral dapagliflozin and metformin HCl extended-release tablets in treatment-naive adult patients inadequately controlled on diet and exercise alone. The co-administration of dapagliflozin and metformin HCl immediate-release or extended-release tablets has been studied in adult patients with type 2 diabetes mellitus inadequately controlled on metformin HCl and compared with a sulfonylurea (glipizide) in combination with metformin HCl. Treatment with dapagliflozin plus metformin HCl at all doses produced statistically significant improvements in HbA1c and fasting plasma glucose (FPG) compared to placebo in combination with metformin HCl (initial or add-on therapy). HbA1c reductions were seen across subgroups including gender, age, race, duration of disease, and baseline body mass index (BMI).
+
+                           Dapagliflozin Initial Combination Therapy with Metformin HCl Extended-Release
+
+                            
+
+                        A total of 1236 treatment-naive adult patients with inadequately controlled type 2 diabetes mellitus (HbA1c ≥7.5% and ≤12%) participated in 2 active-controlled trials of 24-week duration to evaluate initial therapy with dapagliflozin 5 mg (NCT00643851) or 10 mg (NCT00859898) in combination with metformin extended-release formulation.
+
+                        In one trial, 638 patients randomized to 1 of 3 treatment arms following a 1-week lead-in period received: dapagliflozin 10 mg plus metformin HCl extended-release (up to 2,000 mg/day), dapagliflozin 10 mg plus placebo, or metformin HCl extended-release (up to 2,000 mg/day) plus placebo. Metformin HCl extended-release dosage was up-titrated weekly in 500 mg increments, as tolerated, with a median dosage achieved of 2,000 mg.
+
+                        The combination treatment of dapagliflozin 10 mg plus metformin HCl extended-release provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin HCl extended-release alone (see Table 11 and Figure 2). Dapagliflozin 10 mg as monotherapy also provided statistically significant improvements in FPG and statistically significant reduction in body weight compared with metformin HCl alone and was non-inferior to metformin HCl extended-release monotherapy in lowering HbA1c.
+
+                           Table 11: Results at Week 24 (LOCF
+
+   *) in an Active-Controlled Trial of Dapagliflozin Initial Combination Therapy with Metformin HCl Extended-Release in Adults with Type 2 Diabetes Mellitus
+
+                            
+
+                                    Efficacy Parameter
+
+                                  |
+
+                                    Dapagliflozin 10 mg + Metformin HCl extended-release N=211
+
+      †
+
+                                  |
+
+                                    Dapagliflozin 10 mg N=219
+
+      †
+
+                                  |
+
+                                    Metformin HCl extended-release N=208
+
+      †
+
+                                  |
+
+                                    HbA1c (%)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 9.1
+
+                                  |
+                                 9.0
+
+                                  |
+                                 9.0
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −2.0
+
+                                  |
+                                 −1.5
+
+                                  |
+                                 −1.4
+
+                                  |
+
+                                 Difference from dapagliflozin (adjusted mean
+
+     ‡) (95% CI)
+
+                                  |
+                                 −0.5
+
+     §
+
+  (−0.7, −0.3)
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Difference from metformin HCl extended-release (adjusted mean
+
+     ‡)
+
+  (95% CI)
+
+                                  |
+                                 −0.5
+
+     §
+
+   
+
+  (−0.8, −0.3)
+
+                                  |
+                                 0.0
+
+     ¶
+
+   
+
+  (−0.2, 0.2)
+
+                                  |
+                                  
+
+                                  |
+
+                                 Percent of patients achieving HbA1c <7% adjusted for baseline
+
+                                  |
+                                 46.6%
+
+                                  |
+                                 31.7%
+
+                                  |
+                                 35.2%
+
+                                  |
+
+                                    FPG (mg/dL)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 189.6
+
+                                  |
+                                 197.5
+
+                                  |
+                                 189.9
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −60.4
+
+                                  |
+                                 −46.4
+
+                                  |
+                                 −34.8
+
+                                  |
+
+                                 Difference from dapagliflozin (adjusted mean
+
+     ‡) (95% CI)
+
+                                  |
+                                 −13.9
+
+     §
+
+  (−20.9, −7.0)
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Difference from metformin HCl extended-release (adjusted mean
+
+     ‡)
+
+  (95% CI)
+
+                                  |
+                                 −25.5
+
+     §
+
+   
+
+  (−32.6, −18.5)
+
+                                  |
+                                 −11.6
+
+     #
+
+   
+
+  (−18.6, −4.6)
+
+                                  |
+                                  
+
+                                  |
+
+                                    Body Weight (kg)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 88.6
+
+                                  |
+                                 88.5
+
+                                  |
+                                 87.2
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −3.3
+
+                                  |
+                                 −2.7
+
+                                  |
+                                 −1.4
+
+                                  |
+
+                                 Difference from metformin HCl extended-release (adjusted mean
+
+     ‡)
+
+  (95% CI)
+
+                                  |
+                                 −2.0
+
+     §
+
+   
+
+  (−2.6, −1.3)
+
+                                  |
+                                 −1.4
+
+     §
+
+   
+
+  (−2.0, −0.7)
+
+                                  |
+                                  
+
+                                  |
+
+                        * LOCF: last observation (prior to rescue for rescued patients) carried forward.
+
+                        † All randomized patients who took at least one dose of double-blind trial medication during the short-term double-blind period.
+
+  ‡ Least squares mean adjusted for baseline value.
+
+  § p-value <0.0001.
+
+  ¶ Non-inferior versus metformin HCl extended-release.
+
+  # p-value <0.05.
+
+                           Figure 2: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Active-Controlled Trial of Dapagliflozin Initial Combination Therapy with Metformin HCl Extended-Release in Adults with Type 2 Diabetes Mellitus
+
+                        In the second trial (NCT00643851), 603 patients were randomized to 1 of 3 treatment arms following a 1-week lead-in period: dapagliflozin 5 mg plus metformin HCl extended-release (up to 2,000 mg/day), dapagliflozin 5 mg plus placebo, or metformin HCl extended-release (up to 2,000 mg/day) plus placebo. Metformin HCl extended-release dosage was up-titrated weekly in 500 mg increments, as tolerated, with a median dosage achieved of 2,000 mg.
+
+  The combination treatment of dapagliflozin 5 mg plus metformin HCl extended-release provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin HCl extended-release alone (see Table 12).
+
+                           Table 12: Results at Week 24 (LOCF
+
+   *) in an Active-Controlled Trial of Dapagliflozin Initial Combination Therapy with Metformin HCl Extended-Release in Adults with Type 2 Diabetes Mellitus
+
+   
+
+                                    Efficacy Parameter
+
+                                  |
+
+                                    Dapagliflozin 5 mg + Metformin HCl extended-release N=194
+
+      †
+
+                                  |
+
+                                    Dapagliflozin 5 mg N=203
+
+      †
+
+                                  |
+
+                                    Metformin HCl extended-release N=201
+
+      †
+
+                                  |
+
+                                    HbA1c (%)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 9.2
+
+                                  |
+                                 9.1
+
+                                  |
+                                 9.1
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −2.1
+
+                                  |
+                                 −1.2
+
+                                  |
+                                 −1.4
+
+                                  |
+
+                                 Difference from dapagliflozin (adjusted mean
+
+     ‡) (95% CI)
+
+                                  |
+                                 −0.9
+
+     §
+
+  (−1.1, −0.6)
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Difference from metformin HCl extended-release (adjusted mean
+
+     ‡)
+
+  (95% CI)
+
+                                  |
+                                 −0.7
+
+     §
+
+   
+
+  (−0.9, −0.5)
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Percent of patients achieving HbA1c <7% adjusted for baseline
+
+                                  |
+                                 52.4%
+
+     ¶
+
+                                  |
+                                 22.5%
+
+                                  |
+                                 34.6%
+
+                                  |
+
+                                    FPG (mg/dL)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 193.4
+
+                                  |
+                                 190.8
+
+                                  |
+                                 196.7
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −61.0
+
+                                  |
+                                 −42.0
+
+                                  |
+                                 −33.6
+
+                                  |
+
+                                 Difference from dapagliflozin (adjusted mean
+
+     ‡) (95% CI)
+
+                                  |
+                                 −19.1
+
+     §(−26.7, −11.4)
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Difference from metformin HCl extended-release (adjusted mean
+
+     ‡) (95% CI)
+
+                                  |
+                                 −27.5
+
+     §(−35.1, −19.8)
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                    Body Weight (kg)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 84.2
+
+                                  |
+                                 86.2
+
+                                  |
+                                 85.8
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −2.7
+
+                                  |
+                                 −2.6
+
+                                  |
+                                 −1.3
+
+                                  |
+
+                                 Difference from metformin HCl extended-release (adjusted mean
+
+     ‡) (95% CI)
+
+                                  |
+                                 −1.4
+
+     §
+
+  (−2.0, −0.7)
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                        * LOCF: last observation (prior to rescue for rescued patients) carried forward.
+
+  † All randomized patients who took at least one dose of double-blind trial medication during the short-term double-blind period.
+
+  ‡ Least squares mean adjusted for baseline value.
+
+  § p-value <0.0001.
+
+  ¶ p-value <0.05. 
+
+                           Dapagliflozin Add-On to Metformin HCl Immediate-Release
+
+  A total of 546 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c ≥7% and ≤10%) participated in a 24-week, placebo-controlled trial to evaluate dapagliflozin in combination with metformin HCl (NCT00528879). Patients on metformin HCl at a dosage of at least 1,500 mg/day were randomized after completing a 2-week, single-blind, placebo lead-in period. Following the lead-in period, eligible patients were randomized to dapagliflozin 5 mg, dapagliflozin 10 mg, or placebo in addition to their current dosage of metformin HCl.
+
+  As add-on treatment to metformin HCl, dapagliflozin 10 mg provided statistically significant improvements in HbA1c and FPG, and statistically significant reduction in body weight compared with placebo at Week 24 (see Table 13 and Figure 3). Statistically significant (p<0.05 for both dosages) mean changes from baseline in systolic blood pressure relative to placebo plus metformin were −4.5 mmHg and −5.3 mmHg with dapagliflozin 5 mg and 10 mg plus metformin HCl, respectively.
+
+                            
+
+                           Table 13: Results of a 24-Week (LOCF
+
+   *) Placebo-Controlled Trial of Dapagliflozin in Add-On Combination with Metformin HCl Immediate-Release in Adults with Type 2 Diabetes Mellitus
+
+   
+
+                                    Efficacy Parameter
+
+                                  |
+
+                                    Dapagliflozin 10 mg + Metformin HCl immediate-release N=135
+
+      †
+
+                                  |
+
+                                    Dapagliflozin 5 mg + Metformin HCl immediate-release N=137
+
+      †
+
+                                  |
+
+                                    Placebo + Metformin HCl immediate-release N=137
+
+      †
+
+                                  |
+
+                                    HbA1c (%)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 7.9
+
+                                  |
+                                 8.2
+
+                                  |
+                                 8.1
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −0.8
+
+                                  |
+                                 −0.7
+
+                                  |
+                                 −0.3
+
+                                  |
+
+                                 Difference from placebo (adjusted mean
+
+     ‡)
+
+  (95% CI)
+
+                                  |
+                                 −0.5
+
+     §
+
+  (−0.7, −0.3)
+
+                                  |
+                                 −0.4
+
+     §
+
+  (−0.6, −0.2)
+
+                                  |
+                                  
+
+                                  |
+
+                                 Percent of patients achieving HbA1c <7% adjusted for baseline
+
+                                  |
+                                 40.6%
+
+     ¶
+
+                                  |
+                                 37.5%
+
+     ¶
+
+                                  |
+                                 25.9%
+
+                                  |
+
+                                    FPG (mg/dL)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 156.0
+
+                                  |
+                                 169.2
+
+                                  |
+                                 165.6
+
+                                  |
+
+                                 Change from baseline at Week 24 (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −23.5
+
+                                  |
+                                 −21.5
+
+                                  |
+                                 −6.0
+
+                                  |
+
+                                 Difference from placebo (adjusted mean
+
+     ‡)
+
+  (95% CI)
+
+                                  |
+                                 −17.5
+
+     §
+
+  (−25.0, −10.0)
+
+                                  |
+                                 −15.5
+
+     §
+
+  (−22.9, −8.1)
+
+                                  |
+                                  
+
+                                  |
+
+                                 Change from baseline at Week 1
+
+  (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −16.5
+
+     §
+
+  (N=115)
+
+                                  |
+                                 −12.0
+
+     §
+
+  (N=121)
+
+                                  |
+                                 1.2
+
+  (N=126)
+
+                                  |
+
+                                    Body Weight (kg)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 86.3
+
+                                  |
+                                 84.7
+
+                                  |
+                                 87.7
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −2.9
+
+                                  |
+                                 −3.0
+
+                                  |
+                                 −0.9
+
+                                  |
+
+                                 Difference from placebo (adjusted mean
+
+     ‡)
+
+  (95% CI)
+
+                                  |
+                                 −2.0
+
+     §
+
+  (−2.6, −1.3)
+
+                                  |
+                                 −2.2
+
+     §
+
+  (−2.8, −1.5)
+
+                                  |
+                                  
+
+                                  |
+
+                        * LOCF: last observation (prior to rescue for rescued patients) carried forward.
+
+  † All randomized patients who took at least one dose of double-blind trial medication during the short-term double-blind period.
+
+  ‡ Least squares mean adjusted for baseline value.
+
+  § p-value <0.0001 versus placebo + metformin HCl.
+
+  ¶ p-value <0.05 versus placebo + metformin HCl.
+
+                           Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Placebo-Controlled Trial of Dapagliflozin in Combination with Metformin HCl Immediate-Release in Adults with Type 2 Diabetes Mellitus 
+
+                           Active Glipizide-Controlled Trial of Dapagliflozin as Add-On to Metformin HCl Immediate-Release in Adults with Type 2 Diabetes Mellitus
+
+  A total of 816 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c >6.5% and ≤10%) were randomized in a 52-week, glipizide-controlled, non-inferiority trial to evaluate dapagliflozin as add-on therapy to metformin HCl (NCT00660907). Patients on metformin HCl at a dosage of at least 1,500 mg/day were randomized following a 2-week placebo lead-in period to glipizide or dapagliflozin (5 mg or 2.5 mg, respectively) and were up-titrated over 18 weeks to optimal glycemic effect (FPG <110 mg/dL, <6.1 mmol/L) or to the highest dose level (up to glipizide 20 mg and dapagliflozin 10 mg) as tolerated by patients. Thereafter, dosages were kept constant, except for down-titration to prevent hypoglycemia.
+
+  At the end of the titration period, 87% of patients treated with dapagliflozin had been titrated to the maximum trial dosage (10 mg) versus 73% treated with glipizide (20 mg). Dapagliflozin treatment led to a similar mean reduction in HbA1c from baseline at Week 52 (LOCF), compared with glipizide, thus demonstrating non-inferiority (see Table 14). Dapagliflozin treatment led to a statistically significant mean reduction in body weight from baseline at Week 52 (LOCF) compared with a mean increase in body weight in the glipizide group.
+
+  Statistically significant (p<0.0001) mean change from baseline in systolic blood pressure relative to glipizide plus metformin was -5.0 mmHg with dapagliflozin plus metformin.
+
+                           Table 14: Results at Week 52 (LOCF
+
+   *) in an Active-Controlled Trial Comparing Dapagliflozin to Glipizide as Add-On to Metformin in Adults with Type 2 Diabetes Mellitus
+
+   
+
+                                    Efficacy Parameter
+
+                                  |
+
+                                    Dapagliflozin + Metformin HCl immediate-release N=400
+                                    † 
+
+                                  |
+
+                                    Glipizide + Metformin HCl immediate-release N=401
+                                    † 
+
+                                  |
+
+                                    HbA1c (%)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 7.7
+
+                                  |
+                                 7.7
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −0.5
+
+                                  |
+                                 −0.5
+
+                                  |
+
+                                 Difference from glipizide + metformin HCl immediate-release (adjusted mean
+
+     ‡)
+
+  (95% CI)
+
+                                  |
+                                 0.0
+
+     §
+
+   
+
+  (−0.1, 0.1)
+
+                                  |
+                                  
+
+                                  |
+
+                                    Body Weight (kg)
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 88.4
+
+                                  |
+                                 87.6
+
+                                  |
+
+                                 Change from baseline (adjusted mean
+
+     ‡)
+
+                                  |
+                                 −3.2
+
+                                  |
+                                 1.4
+
+                                  |
+
+                                 Difference from glipizide + metformin HCl immediate-release (adjusted mean
+
+     ‡)
+
+  (95% CI)
+
+                                  |
+                                 −4.7
+
+     ¶
+
+   
+
+  (−5.1, −4.2)
+
+                                  |
+                                  
+
+                                  |
+
+                           *LOCF: last observation carried forward.
+
+  † Randomized and treated patients with baseline and at least 1 post-baseline efficacy measurement.
+
+  ‡ Least squares mean adjusted for baseline value.
+
+  § Noninferior to glipizide + metformin HCl.
+
+  ¶ p-value <0.0001.
+
+                           Use in Adults with Type 2 Diabetes Mellitus and Moderate Renal Impairment
+
+  Dapagliflozin was assessed in two placebo-controlled trials of adult patients with type 2 diabetes mellitus and moderate renal impairment.
+
+  Patients with type 2 diabetes mellitus and an eGFR between 45 to less than 60 mL/min/1.73 m
+
+  2inadequately controlled on current diabetes therapy participated in a 24-week, double-blind, placebo-controlled clinical trial (NCT02413398). Patients were randomized to either dapagliflozin 10 mg or placebo, administered orally once daily. At Week 24, dapagliflozin provided statistically significant reductions in HbA1c compared with placebo (Table 15).
+
+                           Table 15: Results at Week 24 of Placebo-Controlled Trial for Dapagliflozin in Adults with Type 2 Diabetes Mellitus and Renal Impairment (eGFR 45 to less than 60 mL/min/1.73 m
+
+   2)
+
+   
+
+                                  
+
+                                  |
+
+                                    Dapagliflozin 10 mg
+
+                                  |
+
+                                    Placebo
+
+                                  |
+
+                                    Number of patients:
+
+                                  |
+
+                                    N=160
+
+                                  |
+
+                                    N=161
+
+                                  |
+
+                                    HbA1c (%)
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Baseline (mean)
+
+                                  |
+                                 8.3
+
+                                  |
+                                 8.0
+
+                                  |
+
+                                 Change from baseline (adjusted mean*)
+
+                                  |
+                                 -0.4
+
+                                  |
+                                 -0.1
+
+                                  |
+
+                                 Difference from placebo (adjusted mean*)
+
+  (95% CI)
+
+                                  |
+                                 -0.3
+
+     †
+
+  (-0.5, - 0.1)
+
+                                  |
+                                  
+
+                                  |
+
+                        * Least squares mean adjusted for baseline value; at Week 24, HbA1c was missing for 5.6% and 6.8% of individuals treated with dapagliflozin and placebo, respectively. Retrieved dropouts, i.e., observed HbA1c at Week 24 from subjects who discontinued treatment, were used to impute missing values in HbA1c.
+
+  † p-value =0.008 versus placebo.

@@ -1,0 +1,29 @@
+DailyMed abb8ad7e-7998-4485-a09f-a2892190f4ad | ARIPIPRAZOLE | 8.4 Pediatric Use
+
+Safety and effectiveness in pediatric patients with agitation associated with schizophrenia or bipolar mania have not been established.
+
+                        The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight [see Clinical Pharmacology (12.3)].
+
+                           Schizophrenia
+
+                        Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)]. Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+
+                           Bipolar I Disorder
+
+                        Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see Dosage and Administration (2.2), Adverse Reaction (6.1), and Clinical Studies (14.2)]. Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+
+                        The efficacy of adjunctive aripiprazole with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated. However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+
+                           Irritability Associated with Autistic Disorder
+
+                        Safety and effectiveness in pediatric patients demonstrating irritability associated with autistic disorder were established in two 8-week, placebo-controlled clinical trials in 212 pediatric patients aged 6 to 17 years [see Indications and Usage (1), Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies (14.4)]. A maintenance trial was conducted in pediatric patients (6 to 17 years of age) with irritability associated with autistic disorder. The first phase of this trial was an open-label, flexibly dosed (aripiprazole 2 to 15 mg/day) phase in which patients were stabilized (defined as > 25% improvement on the ABC-I subscale, and a CGI-I rating of “much improved” or “very much improved”) on aripiprazole for 12 consecutive weeks. Overall, 85 patients were stabilized and entered the second, 16-week, double-blind phase where they were randomized to either continue aripiprazole treatment or switch to placebo. In this trial, the efficacy of aripiprazole for the maintenance treatment of irritability associated with autistic disorder was not established.
+
+                           Tourette’s Disorder
+
+                        Safety and effectiveness of aripiprazole in pediatric patients with Tourette’s Disorder were established in one 8-week (aged 7 to 17 years) and one 10-week trial (aged 6 to 18 years) in 194 pediatric patients [see Dosage and Administration (2.5), Adverse Reactions (6.1), and Clinical Studies (14.5)]. Maintenance efficacy in pediatric patients has not been systematically evaluated.
+
+                           Juvenile Animal Studies
+
+                        Aripiprazole in juvenile rats caused mortality, CNS clinical signs, impaired memory and learning, and delayed sexual maturation when administered at oral doses of 10, 20, 40 mg/kg/day from weaning (21 days old) through maturity (80 days old). At 40 mg/kg/day, mortality, decreased activity, splayed hind limbs, hunched posture, ataxia, tremors and other CNS signs were observed in both genders. In addition, delayed sexual maturation was observed in males. At all doses and in a dose-dependent manner, impaired memory and learning, increased motor activity, and histopathology changes in the pituitary (atrophy), adrenals (adrenocortical hypertrophy), mammary glands (hyperplasia and increased secretion), and female reproductive organs (vaginal mucification, endometrial atrophy, decrease in ovarian corpora lutea) were observed. The changes in female reproductive organs were considered secondary to the increase in prolactin serum levels. A No Observed Adverse Effect Level (NOAEL) could not be determined and, at the lowest tested dose of 10 mg/kg/day, there is no safety margin relative to the systemic exposures (AUC0-24) for aripiprazole or its major active metabolite in adolescents at the maximum recommended pediatric dose of 15 mg/day. All drug-related effects were reversible after a 2-month recovery period, and most of the drug effects in juvenile rats were also observed in adult rats from previously conducted studies.
+
+                        Aripiprazole in juvenile dogs (2 months old) caused CNS clinical signs of tremors, hypoactivity, ataxia, recumbency and limited use of hind limbs when administered orally for 6 months at 3, 10, 30 mg/kg/day. Mean body weight and weight gain were decreased up to 18% in females in all drug groups relative to control values. A NOAEL could not be determined and, at the lowest tested dose of 3 mg/kg/day, there is no safety margin relative to the systemic exposures (AUC0-24) for aripiprazole or its major active metabolite in adolescents at the maximum recommended pediatric dose of 15 mg/day. All drug-related effects were reversible after a 2-month recovery period.

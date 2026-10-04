@@ -1,0 +1,3 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 5.8 Interaction with Clopidogrel
+
+Avoid concomitant use of omeprazole and sodium bicarbonate with clopidogrel. Clopidogrel is a prodrug. Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite. The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as omeprazole, that interfere with CYP2C19 activity. Concomitant use of clopidogrel with 80 mg omeprazole reduces the pharmacological activity of clopidogrel, even when administered 12 hours apart. When using omeprazole and sodium bicarbonate, consider alternative antiplatelet therapy [see Drug Interactions (7) and Clinical Pharmacology (12.3)].

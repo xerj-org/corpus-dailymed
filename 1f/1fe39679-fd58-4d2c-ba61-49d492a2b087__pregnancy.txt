@@ -1,0 +1,18 @@
+DailyMed 1fe39679-fd58-4d2c-ba61-49d492a2b087 | ACETAMINOPHEN AND CODEINE PHOSPHATE | Pregnancy
+
+Teratogenic Effects
+
+                           Codeine
+
+  A study in rats and rabbits reported no teratogenic effect of codeine administered during the period of organogenesis in doses ranging from 5 to 120 mg/kg. In the rat, doses at the 120 mg/kg level, in the toxic range for the adult animal, were associated with an increase in embryo resorption at the time of implantation. In another study a single 100 mg/kg subcutaneous dose of codeine administered to pregnant mice reportedly resulted in delayed ossification in the offspring. 
+
+                        Nonteratogenic Effects
+
+                           Fetal/Neonatal Adverse Reactions
+
+                        Use of opioid analgesics for an extended period of time during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth. 
+
+                        Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight. The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn. Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly (see
+
+                              WARNINGS
+                           ).

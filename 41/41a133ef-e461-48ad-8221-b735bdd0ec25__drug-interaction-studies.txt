@@ -1,0 +1,22 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Drug Interaction Studies
+
+In
+
+  i
+                                 n vitroapixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed. Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes. Apixaban is not a significant inhibitor of P-gp.
+
+                              The effects of coadministered drugs on the pharmacokinetics of apixaban are summarized in Figure 2
+
+  [see also
+
+   Warnings and Precautions (5.2)and
+
+   Drug Interactions (7)]
+
+  .
+
+                                 Figure 2:      Effect of Coadministered Drugs on the Pharmacokinetics of Apixaban
+
+                              In dedicated studies conducted in healthy subjects, famotidine, atenolol, prasugrel, and enoxaparin did not meaningfully alter the pharmacokinetics of apixaban.
+
+                              In studies conducted in healthy subjects, apixaban did not meaningfully alter the pharmacokinetics of digoxin, naproxen, atenolol, prasugrel, or acetylsalicylic acid.

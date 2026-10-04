@@ -1,0 +1,31 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 8.1 Pregnancy
+
+Risk Summary
+
+Available data from cases reported in published literature and postmarketing surveillance with clopidogrel use in pregnant women have not identified any drug-associated risks for major birth defects or miscarriage
+  [see Data]. There are risks to the pregnant woman and fetus associated with myocardial infarction and stroke
+  [see Clinical Considerations]. No evidence of fetotoxicity was observed when clopidogrel was administered to pregnant rats and rabbits during organogenesis at doses corresponding to 65 and 78 times the recommended daily human dose
+  [see Data].
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown. All pregnancies have a background risk of birth defects, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Disease-associated maternal and/or embryo/fetal risk
+
+Myocardial infarction and stroke are medical emergencies. Therapy for the pregnant woman should not be withheld because of potential concerns regarding the effects of clopidogrel on the fetus.
+
+                           Labor or delivery
+
+Clopidogrel use during labor or delivery will increase the risk of maternal bleeding and hemorrhage. Avoid neuraxial blockade during clopidogrel use because of the risk of spinal hematoma. When possible, discontinue clopidogrel 5 to 7 days prior to labor, delivery, or neuraxial blockade.
+
+                           Data
+
+                           Human data
+
+The available data from published case reports over two decades of postmarketing use have not identified an association with clopidogrel use in pregnancy and major birth defects, miscarriage, or adverse fetal outcomes.
+
+                           Animal data
+
+Embryo-fetal developmental toxicology studies were performed in pregnant rats and rabbits with doses up to 500 and 300 mg/kg/day, respectively, administered during organogenesis. These doses, corresponding to 65 and 78 times the recommended daily human dose, respectively, on a mg/m
+  2 basis, revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.

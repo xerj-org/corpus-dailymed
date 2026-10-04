@@ -1,0 +1,10 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 8.7 Hepatic Impairment
+
+Liver impairment can significantly alter the disposition of tolterodine immediate release. In a study of tolterodine immediate release conducted in cirrhotic patients (Child-Pugh Class A and B), the elimination half-life of tolterodine immediate release was longer in cirrhotic patients (mean, 7.8 hours) than in healthy, young, and elderly volunteers (mean, 2 to 4 hours). The clearance of orally administered tolterodine immediate release was substantially lower in cirrhotic patients (1.0 ± 1.7 L/h/kg) than in the healthy volunteers (5.7 ± 3.8 L/h/kg). The recommended dose for patients with mild to moderate hepatic impairment (Child-Pugh Class A or B) is tolterodine tartrate extended-release capsules 2 mg once daily. Tolterodine tartrate extended-release capsules are not recommended for use in patients with severe hepatic impairment (Child-Pugh Class C)
+  [see
+
+                                 DOSAGE AND ADMINISTRATION (2.2)
+                               and
+
+                                 WARNINGS AND PRECAUTIONS (5.4)
+                              ].

@@ -1,0 +1,5 @@
+DailyMed 7c22a2d6-821c-4f83-aead-e756aed930e5 | Naproxen Sodium | 5.4 Hypertension
+
+NSAIDs, including Naproxen Sodium Controlled-Release Tablets, can lead to new onset or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events. Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
+
+                        Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.

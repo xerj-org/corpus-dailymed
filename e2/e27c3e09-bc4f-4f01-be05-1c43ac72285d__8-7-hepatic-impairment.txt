@@ -1,0 +1,11 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 8.7 Hepatic Impairment
+
+Reduce the Nilotinib Capsules dosage in patients with hepatic impairment and monitor the QT interval closely [see Dosage and Administration (
+
+                              2.7
+
+                           ), Clinical Pharmacology (
+
+                              12.3
+
+                           )].

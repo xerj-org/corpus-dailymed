@@ -1,0 +1,7 @@
+DailyMed 362034e9-2830-19a5-e063-6394a90a8dfb | ANASTROZOLE | 5.2 Bone Effects
+
+Results from the ATAC trial bone substudy at 12 and 24 months demonstrated that patients receiving anastrozole tablets had a mean decrease in both lumbar spine and total hip bone mineral density (BMD) compared to baseline. Patients receiving tamoxifen had a mean increase in both lumbar spine and total hip BMD compared to baseline. Consider bone mineral density monitoring in patients treated with anastrozole tablets
+
+  [see
+
+   Adverse Reactions (6.1)].

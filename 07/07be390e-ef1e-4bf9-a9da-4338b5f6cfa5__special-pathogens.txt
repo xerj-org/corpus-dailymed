@@ -1,0 +1,11 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Special Pathogens
+
+Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by .
+
+  Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, Toxoplasma
+
+                              It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or any patient with unexplained diarrhea.
+
+                              Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation. In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
+
+                              Corticosteroids should not be used in cerebral malaria.

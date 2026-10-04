@@ -1,0 +1,10 @@
+DailyMed 30e515c3-a18f-499a-87c4-be8d64cfdbc6 | Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate | 2.6 Dosage in Patients with Renal Impairment
+
+In adult patients with severe renal impairment (GFR between 15 to < 30 mL/min/1.73 m
+  2), the recommended starting dose of dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate extended-release capsules is 12.5 mg daily with a maximum recommended dose of 25 mg daily. Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate extended-release capsules is not recommended for use in patients with end stage renal disease (ESRD < 15 mL/min/1.73 m
+  2). In pediatric patients (13 to 17 years) with severe renal impairment, the maximum dose is 12.5 mg, if tolerated
+  [
+
+                              see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)
+
+                           ].

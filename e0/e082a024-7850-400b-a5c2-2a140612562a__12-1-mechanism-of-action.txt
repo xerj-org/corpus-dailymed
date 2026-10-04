@@ -1,0 +1,7 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 12.1 Mechanism of Action
+
+Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes.
+
+                        In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian target of rapamycin (mTOR), a key regulatory kinase. In the presence of everolimus phosphorylation of p70 S6 ribosomal protein kinase (p70S6K), a substrate of mTOR, is inhibited. Consequently, phosphorylation of the ribosomal S6 protein and subsequent protein synthesis and cell proliferation are inhibited. The everolimus: FKBP-12 complex has no effect on calcineurin activity.
+
+                        In rats and nonhuman primate models, everolimus effectively reduces kidney allograft rejection resulting in prolonged graft survival.

@@ -1,0 +1,11 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 5.4 Cardiac and Arterial Vascular Occlusive Events
+
+Cardiovascular events, including arterial vascular occlusive events, were reported in a randomized, clinical trial in newly diagnosed CML patients and observed in the postmarketing reports of patients receiving nilotinib therapy [see Adverse Reactions (
+
+                              6.1
+
+                           )]. With a median time on therapy of 60 months in the clinical trial, cardiovascular events, including arterial vascular occlusive events, occurred in 9% and 15% of patients in the nilotinib 300 and 400 mg twice daily arms, respectively, and in 3.2% in the imatinib arm. These included cases of cardiovascular events, including ischemic heart disease-related cardiac events (5% and 9% in the nilotinib 300 mg and 400 mg twice daily arms, respectively, and 2.5% in the imatinib arm), peripheral arterial occlusive disease (3.6% and 2.9% in the nilotinib 300 mg and 400 mg twice daily arms, respectively, and 0% in the imatinib arm), and ischemic cerebrovascular events (1.4% and 3.2% in the nilotinib 300 mg and 400 mg twice daily arms, respectively, and 0.7% in the imatinib arm). If acute signs or symptoms of cardiovascular events occur, advise patients to seek immediate medical attention. The cardiovascular status of patients should be evaluated and cardiovascular risk factors should be monitored and actively managed during Nilotinib Capsules therapy according to standard guidelines [see Dosage and Administration (
+
+                              2.4
+
+                           )].

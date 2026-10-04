@@ -1,0 +1,5 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 2.1 Evaluation and Testing for DPD Deficiency Before Initiating FAVLYXA
+
+Prior to initiating FAVLYXA, test patients for genetic variants of the DPYD gene unless immediate treatment is necessary. An FDA-authorized test for the detection of the DPYD gene to identify patients at risk of serious adverse reactions with FAVLYXA is not currently available. Currently available tests used to identify DPYD variants may vary in accuracy and design (e.g., which DPYD variant(s) they identify).
+
+                        Avoid use of FAVLYXA in patients known to have certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency. No FAVLYXA dose has been proven safe for patients with complete DPD deficiency. For patients with partial DPD deficiency, individualize the dosage and modify based on tolerability and intent of treatment [see Warnings and Precautions (5.1)].

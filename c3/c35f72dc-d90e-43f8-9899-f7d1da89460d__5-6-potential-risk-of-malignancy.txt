@@ -1,0 +1,7 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 5.6 Potential Risk of Malignancy
+
+While no increase in malignancy has been observed with maraviroc tablets, due to this drug's mechanism of action, it could affect immune surveillance and lead to an increased risk of malignancy.
+
+                        The exposure-adjusted rate for malignancies per 100 patient-years of exposure in adult treatment-experienced trials was 4.6 for maraviroc tablets compared with 9.3 on placebo. In treatment-naive adult subjects, the rates were 1.0 and 2.4 per 100 patient-years of exposure for maraviroc tablets and efavirenz, respectively.
+
+                        Long-term follow-up is needed to more fully assess this risk.

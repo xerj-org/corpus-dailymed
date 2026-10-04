@@ -1,0 +1,5 @@
+DailyMed 8e28f049-6110-4473-830f-c494191a7197 | Cephalexin | 5.6 Development of Drug-Resistant Bacteria
+
+Prescribing cephalexin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
+                        Prolonged use of cephalexin may result in the overgrowth of nonsusceptible organisms. Careful observation of the patient is essential. If superinfection occurs during therapy, appropriate measures should be taken.

@@ -1,0 +1,18 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 2.1 General Dosing Instructions
+
+ONSWIK is available as a single-patient-use prefilled pen (KwikPen) in 2 concentrations (U-500 and U-1,000).
+                                 The U-500 KwikPen delivers doses in 5-unit increments and can deliver up to 400 units in a single injection.
+
+                                 The U-1,000 KwikPen delivers doses in 10-unit increments and can deliver up to 800 units in a single injection.
+
+                           Administer ONSWIK by subcutaneous injection once weekly on the same day each week. If necessary, the scheduled injection day may be changed, provided at least 4 days have elapsed since the last dose. Once the injection day is changed, continue administering ONSWIK on the new chosen day.
+
+                           Do not repeat administration of the one-time starting dose [see Dosage and Administration (2.6), Warnings and Precautions (5.1)].
+
+                           Individualize and adjust the dosage of ONSWIK based on metabolic needs, glucose monitoring results and glycemic control goal. If glycemic control does not improve despite adherence to diet, medication adherence, and escalating dosages of ONSWIK, consider switching to another insulin product [see Immunogenicity (12.6)].
+
+                           The potency of insulin analogs, including ONSWIK, is expressed in units. One (1) unit of ONSWIK corresponds to 1 international unit of human insulin.
+
+                           Consider the long half-life of ONSWIK when adjusting the dosage. When the dosage is adjusted, initial changes in fasting blood glucose (FBG) are expected within 1 to 2 weeks, with the full treatment effect of the dosage adjustment occurring in approximately 4 weeks [see Clinical Pharmacology (12.2, 12.3)].
+
+                           Dosage adjustment is not recommended during acute illness nor when patients make short-term changes in their physical activity level or usual diet. In these situations, consider other applicable adjustments, e.g., glucose intake or changes to other glucose lowering medication [see Clinical Pharmacology (12.2, 12.3)].

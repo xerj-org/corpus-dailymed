@@ -1,0 +1,23 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 7.2 CYP3A4 I nducers
+
+Co-administration of UBRELVY with rifampin, a strong CYP3A4 inducer, resulted in a significant reduction in ubrogepant exposure 
+
+  [
+                           s
+                           ee
+                           Clinical Pharmacology
+
+                           (
+
+                              12.3
+
+                           )
+                           ]. In patients taking strong CYP3A4 inducers (e.g., phenytoin, barbiturates, rifampin, St. John’s Wort), loss of ubrogepant efficacy is expected, and concomitant use should be avoided.
+
+                        Co-administration of UBRELVY with moderate or weak CYP3A4 inducers was not evaluated in a clinical study. Dose adjustment is recommended with concomitant use of UBRELVY and moderate or weak CYP3A4 inducers
+
+  [see Dosage and Administration (
+
+                              2.2
+
+                           )].

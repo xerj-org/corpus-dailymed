@@ -1,0 +1,3 @@
+DailyMed a4f4ebdd-d4b0-49f4-9a3d-c2acfadc0161 | Combogesic | 5.4 Hypertension
+
+NSAIDs, including the ibuprofen in COMBOGESIC, can lead to onset of new hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events. Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs. Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.

@@ -1,0 +1,3 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 5.12 Serious Skin Reactions
+
+Serious skin reactions (Stevens-Johnson Syndrome [SJS] and Toxic Epidermal Necrolysis [TEN]) have been reported in patients receiving topiramate. Topiramate should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related. If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered. Inform patients about the signs of serious skin reactions.

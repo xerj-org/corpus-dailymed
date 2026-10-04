@@ -1,0 +1,5 @@
+DailyMed 01dcea95-b391-79da-bbfe-412f39022e9a | Prucalopride | 12.1 Mechanism of Action
+
+Prucalopride, a selective serotonin type 4 (5-HT4) receptor agonist, is a gastrointestinal (GI) prokinetic agent that stimulates colonic peristalsis (high-amplitude propagating contractions [HAPCs]), which increases bowel motility.
+
+                         Prucalopride was devoid of effects mediated via 5-HT2A, 5-HT2B, 5-HT3, motilin or CCK-A receptors in vitro at concentrations exceeding 5-HT4 receptor affinity by 150-fold or greater. In isolated GI tissues from various animal species, prucalopride facilitated acetylcholine release to enhance the amplitude of contractions and stimulate peristalsis. In rats and dogs, prucalopride stimulated gastrointestinal motility with contractions starting from the proximal colon to the anal sphincter.

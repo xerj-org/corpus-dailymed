@@ -1,0 +1,3 @@
+DailyMed ce15ad07-3286-478f-9f30-1db6a45ed402 | Pravastatin Sodium | 12.1 Mechanism of Action
+
+Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol.

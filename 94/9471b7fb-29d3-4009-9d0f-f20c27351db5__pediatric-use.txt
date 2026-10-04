@@ -1,0 +1,13 @@
+DailyMed 9471b7fb-29d3-4009-9d0f-f20c27351db5 | Carbamazepine | Pediatric Use
+
+Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see
+
+  INDICATIONS AND USAGEfor specific seizure types) is derived from clinical investigations performed in adults and from studies in several
+
+  in vitrosystems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children. Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e., 4 to 12 mcg/mL) is the same in children and adults.
+
+                        The evidence assembled was primarily obtained from short-term use of carbamazepine. The safety of carbamazepine in children has been systematically studied up to 6 months. No longer-term data from clinical trials is available.
+
+                        Carbamazepine oral suspension contains propylene glycol as an inactive ingredient.
+
+  Patients less than 5 years of age are at the highest risk for propylene glycol toxicity due to incomplete alcohol dehydrogenase maturity. Particularly, neonates (including full-term babies and pre-term babies less than 44 post-menstrual weeks of age). The total daily intake of propylene glycol from all sources, including concomitant drugs, should be considered in managing the risk of propylene glycol toxicity (see WARNINGS Propylene Glycol Toxicity).

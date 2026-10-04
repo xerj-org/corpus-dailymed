@@ -1,0 +1,3 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 2.10 Adult Patients With Metastatic and/or Unresectable GIST
+
+The recommended dose of imatinib mesylate tablets are 400 mg/day for adult patients with unresectable and/or metastatic, malignant GIST. A dose increase up to 800 mg daily (given as 400 mg twice daily) may be considered, as clinically indicated, in patients showing clear signs or symptoms of disease progression at a lower dose and in the absence of severe adverse drug reactions.

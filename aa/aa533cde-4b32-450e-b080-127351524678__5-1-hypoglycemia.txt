@@ -1,0 +1,7 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 5.1 Hypoglycemia
+
+All sulfonylureas, including glimepiride, can cause severe hypoglycemia [see Adverse Reactions (6.1)]. The patient's ability to concentrate and react may be impaired as a result of hypoglycemia. These impairments may present a risk in situations where these abilities are especially important, such as driving or operating other machinery. Severe hypoglycemia can lead to unconsciousness or convulsions and may result in temporary or permanent impairment of brain function or death.
+
+Patients must be educated to recognize and manage hypoglycemia. Use caution when initiating and increasing glimepiride doses in patients who may be predisposed to hypoglycemia (e.g., the elderly, patients with renal impairment, patients on other anti-diabetic medications). Debilitated or malnourished patients, and those with adrenal, pituitary, or hepatic impairment are particularly susceptible to the hypoglycemic action of glucose-lowering medications. Hypoglycemia is also more likely to occur when caloric intake is deficient, after severe or prolonged exercise, or when alcohol is ingested.
+
+Early warning symptoms of hypoglycemia may be different or less pronounced in patients with autonomic neuropathy, the elderly, and in patients who are taking beta-adrenergic blocking medications or other sympatholytic agents. These situations may result in severe hypoglycemia before the patient is aware of the hypoglycemia.

@@ -1,0 +1,9 @@
+DailyMed 4e0cff98-ad0e-494d-8316-b7cdfad6a876 | Bupivacaine Hydrochloride | 5.10 Risk of Toxicity in Patients with Hepatic Impairment
+
+Because amide local anesthetics such as bupivacaine are metabolized by the liver, consider reduced dosing and increased monitoring for bupivacaine systemic toxicity in patients with moderate to severe hepatic impairment who are treated with bupivacaine hydrochloride, especially with repeat doses [
+
+  see Use in Specific Populations (
+
+   8.6)
+
+  ].

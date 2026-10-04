@@ -1,0 +1,3 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 5.5 Risk of Seizures
+
+When propofol injectable emulsion is administered to an epileptic patient, there is a risk of seizure during the recovery phase.

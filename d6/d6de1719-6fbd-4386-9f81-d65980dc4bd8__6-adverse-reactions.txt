@@ -1,0 +1,9 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are also discussed in other sections of the labeling:
+
+                     Increased Risk of Stroke After Discontinuation in Another Indication [see Boxed Warning and Warnings and Precautions (5.1)]
+
+                     Bleeding Risk [see Warnings and Precautions (5.2, 5.4, 5.5, 5.6, 5.7)]
+
+                     Spinal/Epidural Hematoma [see Boxed Warning and Warnings and Precautions (5.3)]

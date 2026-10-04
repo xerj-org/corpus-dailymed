@@ -1,0 +1,9 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 8.6 Hepatic Impairment
+
+Amide-type local anesthetics, such as bupivacaine, are metabolized by the liver. Patients with severe hepatic impairment, because of their inability to metabolize local anesthetics normally, are at a greater risk of developing toxic plasma concentrations, and potentially local anesthetic systemic toxicity. Therefore, consider reduced dosing and increased monitoring for local anesthetic systemic toxicity in patients with moderate to severe hepatic impairment treated with Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection, especially with repeat doses
+
+  [see
+
+   Warnings and Precautions (5.10)]
+
+  .

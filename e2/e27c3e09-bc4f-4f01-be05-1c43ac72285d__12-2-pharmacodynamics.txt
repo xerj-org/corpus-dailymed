@@ -1,0 +1,27 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 12.2 Pharmacodynamics
+
+A relationship between nilotinib exposure and a greater likelihood of response and safety events, including a higher occurrence of total bilirubin elevations, was observed in clinical studies. 
+
+                         
+
+                        Nilotinib time course of pharmacodynamic response is unknown.
+
+                         
+
+                           Cardiac Electrophysiology
+
+                         
+
+                        Nilotinib is associated with concentration-dependent QT prolongation. At a dose of Nilotinib Capsules 400 mg twice daily given without food in healthy subjects, the maximum mean placebo-adjusted QTcF changes were 10.4 msec (90% CI: 2.85, 18.0). After a single dose of Nilotinib Capsules 800 mg (two times the maximum approved recommended dosage) given with a high fat meal to healthy subjects, the maximum mean placebo-adjusted QTcF changes were 18.0 msec (90% CI: 9.65, 25.8). Peak plasma concentrations in the QT study were 26% lower than or comparable with those observed in patients enrolled in the single-arm study [see
+
+                              Boxed Warning
+
+                           , Warnings and Precautions (
+
+                              5.2
+
+                           ), Adverse Reactions (
+
+                              6.1
+
+                           )].

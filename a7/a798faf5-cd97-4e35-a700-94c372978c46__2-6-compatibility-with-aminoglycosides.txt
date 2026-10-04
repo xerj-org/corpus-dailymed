@@ -1,0 +1,107 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 2.6 Compatibility With Aminoglycosides
+
+Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam for injection and aminoglycosides are recommended for separate administration. Piperacillin and tazobactam for injection and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated [see Drug Interactions (7.1)].
+
+                        In circumstances where co-administration via Y-site is necessary, piperacillin and tazobactam for injection are compatible for simultaneous co-administration via Y-site infusion only with the following aminoglycosides under the following conditions:
+
+                           Table 5: Compatibility with Aminoglycosides
+
+                                    a Diluent volumes apply only to single vials.
+
+                                    b The concentration ranges in Table 5 are based on administration of the aminoglycoside in divided doses (10 - 15 mg/kg/day in two daily doses for amikacin and 3 - 5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with piperacillin and tazobactam for injection has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions.  |
+
+                                       Aminoglycoside
+
+                                  |
+
+                                       Piperacillin and
+
+                                       Tazobactam for Injection
+
+                                       Dose
+
+                                       (grams)
+
+                                  |
+
+                                       Piperacillin and Tazobactam for Injection Diluent
+
+                                       Volume a
+
+                                       (mL)
+
+                                  |
+
+                                       Aminoglycoside Concentration
+
+                                       Rangeb
+
+                                       (mg/mL)
+
+                                  |
+
+                                       Acceptable Diluents
+
+                                  |
+
+                                    Amikacin
+
+                                  |
+
+                                    2.25
+
+3.375
+
+4.5
+
+                                  |
+
+                                    50
+
+100
+
+150
+
+                                  |
+
+                                    1.75 - 7.5
+
+                                  |
+
+                                    0.9% sodium chloride or 5% dextrose
+
+                                  |
+
+                                    Gentamicin
+
+                                  |
+
+                                    2.25
+
+3.375
+
+4.5
+
+                                  |
+
+                                    50
+
+100
+
+150
+
+                                  |
+
+                                    0.7 - 3.32
+
+                                  |
+
+                                    0.9% sodium chloride or 5% dextrose
+
+                                  |
+
+                        Only the concentration and diluents for amikacin or gentamicin with the dosages of piperacillin and tazobactam for injection listed above have been established as compatible for co-administration via Y-site infusion. Simultaneous co-administration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by piperacillin and tazobactam for injection.
+
+                        Piperacillin and tazobactam for injection is not compatible with tobramycin for simultaneous co-administration via Y-site infusion. Compatibility of piperacillin and tazobactam for injection with other aminoglycosides has not been established.
+
+                        Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

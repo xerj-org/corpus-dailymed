@@ -1,0 +1,7 @@
+DailyMed 085e0809-6b7f-447e-976e-8276c29daad6 | Terbinafine | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In a 28-month oral carcinogenicity study in rats, an increase in the incidence of liver tumors was observed in males at the highest dose tested, 69 mg/kg/day (2 times the MRHD based on AUC comparisons of the parent terbinafine); however, even though dose-limiting toxicity was not achieved at the highest tested dose, higher doses were not tested.
+
+                        The results of a variety of in vitro (mutations in E. coli and S. typhimurium, DNA repair in rat hepatocytes, mutagenicity in Chinese hamster fibroblasts, chromosome aberration, and sister chromatid exchanges in Chinese hamster lung cells), and in vivo (chromosome aberration in Chinese hamsters, micronucleus test in mice) genotoxicity tests gave no evidence of a mutagenic or clastogenic potential.
+
+                        Oral reproduction studies in rats at doses up to 300 mg/kg/day (12 times the MRHD based on BSA comparisons) did not reveal any specific effects on fertility or other reproductive parameters. Intravaginal application of terbinafine hydrochloride at 150 mg/day in pregnant rabbits did not increase the incidence of abortions or premature deliveries nor affect fetal parameters.

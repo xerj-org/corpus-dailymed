@@ -1,0 +1,27 @@
+DailyMed da78d290-c71f-44bc-8db4-58fe4195e2f8 | Allopurinol | 8.1 Pregnancy
+
+Risk Summary 
+
+                        Based on findings in animals, allopurinol may cause fetal harm when administered to a pregnant woman. Adverse developmental outcomes have been described in exposed animals
+
+  (see Data).Allopurinol and its metabolite oxypurinol have been shown to cross the placenta following administration of maternal allopurinol.
+
+                        Available limited published data on allopurinol use in pregnant women do not demonstrate a clear pattern or increase in frequency of adverse developmental outcomes. Among approximately 50 pregnancies described in published literature, 2 infants with major congenital malformations have been reported with following maternal allopurinol exposure. Advise pregnant women of the potential risk to a fetus.
+
+                        All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. The background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Human Data
+
+                        Experience with allopurinol during human pregnancy has been limited partly because women of reproductive age rarely require treatment with allopurinol. A case report published in 2011 described the outcome of a full-term pregnancy in a 35-year-old woman who had recurrent kidney stones since age 18 who took allopurinol throughout the pregnancy. The child had multiple complex birth defects and died at 8 days of life. A second report in 2013 provided data on 31 prospectively ascertained pregnancies involving mothers exposed to allopurinol for varying durations during the first trimester. The overall rate of major fetal malformations and spontaneous abortions was reported to be within the normal expected range; however, one child had severe malformations similar to those described in the cited earlier case report.
+
+                           Animal Data
+
+                        There was no evidence of fetotoxicity or teratogenicity in rats or rabbits treated during the period of organogenesis with oral allopurinol at doses up to 200 mg/kg/day and up to 100 mg/kg/day, respectively (about 2.4 times the human dose on a mg/m
+
+  2 basis). However, there is a published report in pregnant mice that single intraperitoneal doses of 50 mg/kg or 100 mg/kg (about 0.3 or 0.6 times the human dose on a mg/m
+
+  2 basis) of allopurinol on gestation days 10 or 13 produced significant increases in fetal deaths and teratogenic effects (cleft palate, harelip, and digital defects). It is uncertain whether these findings represented a fetal effect or an effect secondary to maternal toxicity.

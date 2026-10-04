@@ -1,0 +1,9 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 7.5 Hydrochlorothiazide (HCTZ)
+
+Topiramate C
+
+  maxand AUC increased when HCTZ was added to topiramate. The clinical significance of this change is unknown. The addition of HCTZ to topiramate may require a decrease in the topiramate dose
+
+  [see Clinical Pharmacology (
+
+   12.3)].

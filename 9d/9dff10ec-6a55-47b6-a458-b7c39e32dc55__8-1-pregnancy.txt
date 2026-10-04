@@ -1,0 +1,13 @@
+DailyMed 9dff10ec-6a55-47b6-a458-b7c39e32dc55 | Temozolomide | 8.1 Pregnancy
+
+Risk Summar
+
+                        Based on findings from animal studies and its mechanism of action [see Clinical Pharmacology (12.1)], Temozolomide can cause fetal harm when administered to a pregnant woman. Available postmarketing reports describe cases of spontaneous abortions and congenital malformations, including polymalformations with central nervous system, facial, cardiac, skeletal, and genitourinary system anomalies with exposure to Temozolomide during pregnancy. These cases report similar adverse developmental outcomes to those observed in animal studies. Administration of Temozolomide to rats and rabbits during the period of organogenesis caused numerous external, internal, and skeletal malformations at doses less than the maximum human dose based on body surface area (see Data). Advise pregnant women of the potential risk to a fetus.
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Five consecutive days of oral administration of temozolomide at doses of 75 and 150 mg/m2 (0.38 and 0.75 times the human dose of 200 mg/m2) in rats and rabbits, respectively, during the period of organogenesis (Gestation Days 8-12) caused numerous malformations of the external and internal organs and skeleton in both species. In rabbits, temozolomide at the 150 mg/m2 dose (0.75 times the human dose of 200 mg/m2) caused embryolethality as indicated by increased resorptions.

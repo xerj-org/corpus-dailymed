@@ -1,0 +1,11 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 8.7 Hepatic Impairment
+
+Monitor hepatic function as appropriate during therapy with amoxicillin and clavulanate potassium
+
+  [see
+
+   Contraindications (4.2),
+
+   Warnings and Precautions (5.4)]
+
+  .

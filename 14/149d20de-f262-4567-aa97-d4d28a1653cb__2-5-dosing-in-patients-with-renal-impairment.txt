@@ -1,0 +1,15 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 2.5 Dosing in Patients with Renal Impairment
+
+In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m
+
+  2), one-half of the usual adult dose of topiramate is recommended
+
+  [see Use in Specific Populations (
+
+   8.5,
+
+   8.6), Clinical Pharmacology (
+
+   12.3)]
+
+  .

@@ -1,0 +1,5 @@
+DailyMed 52e209ac-7156-4496-ba5a-42ee59d45deb | Albuterol sulfate | 8.5 Geriatric Use
+
+Clinical studies of albuterol sulfate inhalation aerosol did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients. Other reported clinical experience has not identified differences in responses between elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see WARNINGS AND PRECAUTIONS (5.4, 5.7)].
+
+                        All beta2-adrenergic agonists, including albuterol, are known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

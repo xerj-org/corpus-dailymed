@@ -1,0 +1,15 @@
+DailyMed f8b01c77-620d-4734-a771-b8524b65bcca | KETAMINE HYDROCHLORIDE | 12.3 Pharmacokinetics
+
+Distribution
+
+ Following intravenous administration, the ketamine concentration has an initial slope (alpha phase) lasting about 45 minutes with a half-life of 10 to 15 minutes. This first phase corresponds clinically to the anesthetic effect of the drug.
+
+ Elimination
+
+ Metabolism
+
+ Ketamine is metabolized via N-dealkylation to the active metabolite norketamine primarily by CYP2B6 and CYP3A4 and to a lesser extent by other CYP enzymes. Norketamine undergoes hydroxylation of the cyclohexone ring to form hydroxynorketamine compounds via CYP-dependent pathways, which are conjugated with glucuronic acid and subsequently undergo dehydration of the hydroxylated metabolites to form the cyclohexene derivative dehydroxynorketamine.
+
+ Excretion
+
+ Following intravenous administration, the ketamine concentration decreases due to a combination of redistribution from the CNS to slower equilibrating peripheral tissues and hepatic biotransformation to norketamine. The redistribution half-life of ketamine from the CNS to slower equilibrating peripheral tissues (beta phase) is 2.5 hours.

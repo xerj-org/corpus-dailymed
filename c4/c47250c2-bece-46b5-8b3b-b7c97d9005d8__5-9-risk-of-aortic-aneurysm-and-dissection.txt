@@ -1,0 +1,3 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidermiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in eldery patients. The cause for the increased risk has not been identified. In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reverse ciprofloxacin for use only when there are no alternative antibacterial treatments available.

@@ -1,0 +1,9 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 8.5 Geriatric Use
+
+Of the total number of patients in clinical studies of sertraline hydrochloride in patients with MDD, OCD, PD, PTSD, SAD and PMDD, 797 (17%) were ≥ 65 years old, while 197 (4%) were ≥ 75 years old.
+
+                        No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be conservative, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+                        In 354 geriatric subjects treated with sertraline hydrochloride in MDD placebo-controlled trials, the overall profile of adverse reactions was generally similar to that shown in Table 3 [See Adverse Reactions (6.1)], except for tinnitus, arthralgia with an incidence of at least 2% and at a rate greater than placebo in geriatric patients.
+
+                        SNRIs and SSRIs, including sertraline hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [See Warnings and Precautions (5.8)].

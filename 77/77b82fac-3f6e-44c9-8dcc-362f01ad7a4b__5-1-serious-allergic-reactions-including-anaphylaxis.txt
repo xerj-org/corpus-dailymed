@@ -1,0 +1,9 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 5.1 Serious Allergic Reactions, including Anaphylaxis
+
+Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving beta-lactam antibacterials. These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens. Before initiating therapy with amoxicillin and clavulanate potassium, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, or other allergens. Amoxicillin and clavulanate potassium is contraindicated in patients with a history of serious hypersensitivity reactions to amoxicillin, clavulanate, or to other beta-lactam antibacterial drugs
+
+  [see
+
+   Contraindications (4.1)]
+
+  . If an allergic reaction occurs, discontinue amoxicillin and clavulanate potassium and institute appropriate therapy.

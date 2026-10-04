@@ -1,0 +1,24 @@
+DailyMed 5f8b3313-0286-499f-9235-02cdc0eb063b | Bupropion Hydrochloride SR | 4 CONTRAINDICATIONS
+
+Bupropion hydrochloride extended-release tablets (SR) are contraindicated in patients with a seizure disorder.
+
+                     Bupropion hydrochloride extended-release tablets (SR) are contraindicated in patients with a current or prior diagnosis of bulimia or anorexia nervosa as a higher incidence of seizures was observed in such patients treated with the immediate-release formulation of bupropion
+   [see Warnings and Precautions (
+    5.3)].
+
+                     Bupropion hydrochloride extended-release tablets (SR) are contraindicated in patients undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs
+   [see Warnings and Precautions (
+    5.3), Drug Interactions (
+    7.3)]
+   .
+
+                     The use of MAOIs (intended to treat psychiatric disorders) concomitantly with bupropion hydrochloride extended-release tablets (SR) or within 14 days of discontinuing treatment with bupropion hydrochloride extended-release tablets (SR) is contraindicated. There is an increased risk of hypertensive reactions when bupropion hydrochloride extended-release tablets (SR) are used concomitantly with MAOIs. The use of bupropion hydrochloride extended-release tablets (SR) within 14 days of discontinuing treatment with an MAOI is also contraindicated. Starting bupropion hydrochloride extended-release tablets (SR) in a patient treated with reversible MAOIs such as linezolid or intravenous methylene blue is contraindicated
+   [see Dosage and Administration (
+    2.4,
+    2.5), Warnings and Precautions (
+    5.4), Drug Interactions (
+    7.6)].
+
+                     Bupropion hydrochloride extended-release tablets (SR) are contraindicated in patients with known hypersensitivity to bupropion or other ingredients of bupropion hydrochloride extended-release tablets (SR). Anaphylactoid/anaphylactic reactions and Stevens-Johnson syndrome have been reported
+   [see Warnings and Precautions (
+    5.8)].

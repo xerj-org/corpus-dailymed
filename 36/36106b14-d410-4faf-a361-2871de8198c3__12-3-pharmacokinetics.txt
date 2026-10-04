@@ -1,0 +1,156 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 12.3 Pharmacokinetics
+
+Absorption
+
+                        Following oral administration of UBRELVY, ubrogepant is absorbed with peak plasma concentrations at approximately 1.5 hours. Ubrogepant displays dose-proportional pharmacokinetics within the recommended dose range
+
+  [see Dosage and Administration (
+
+                              2.1
+
+                           )]
+                           .
+
+                           Effect of Food
+
+                        When UBRELVY was administered with a high-fat meal, the time to maximum ubrogepant plasma concentration was delayed by 2 hours and resulted in a 22% reduction in C
+
+  maxwith no change in AUC. UBRELVY was administered without regard to food in clinical efficacy studies 
+
+  [see Dosage and Administration (
+
+                              2.1
+
+                           )]. 
+
+                           Distribution
+
+                        Plasma protein binding of ubrogepant is 87% in vitro. The mean apparent central volume of distribution of ubrogepant (V/F) after single dose oral administration is approximately 350 L.
+
+                           Elimination
+
+                           Metabolism
+
+                        Ubrogepant is eliminated mainly through metabolism, primarily by CYP3A4. The parent compound (ubrogepant), and 2 glucuronide conjugate metabolites were the most prevalent circulating components in human plasma. The glucuronide metabolites are not expected to contribute to the pharmacological activity of ubrogepant since they were reported as about 6000-fold less potent in the CGRP receptor binding assay.
+
+                           Excretion
+
+                        The elimination half-life of ubrogepant is approximately 5-7 hours. The mean apparent oral clearance (CL/F) of ubrogepant is approximately 87 L/hr. Ubrogepant is excreted mostly via the biliary/fecal route, while the renal route is a minor route of elimination. Following single oral dose administration of [
+
+  14C]-ubrogepant to healthy male subjects, 42% and 6% of the dose was recovered as unchanged ubrogepant in feces and urine, respectively.
+
+                           Specific
+                           Populations
+
+                           Patients with Renal Impairment
+
+                        Population pharmacokinetic analysis based on pooled data from clinical studies was used to evaluate the effect of renal impairment characterized based on estimated creatinine clearance (CLcr) using the Cockcroft-Gault (C-G) equation. Renal impairment did not reveal a significant difference in the pharmacokinetics of ubrogepant in patients with mild or moderate renal impairment (CLcr 30-89 mL/min) relative to those with normal renal function (CLcr >90 mL/min). Patients with severe renal impairment or ESRD (eGFR <30 mL/min) have not been studied. Dose adjustment in patients with severe renal impairment (CLcr 15-29 mL/min) is recommended based on ADME information and a conservative assumption that severe renal impairment is unlikely to cause more than a two-fold increase in exposure of ubrogepant 
+
+  [see
+                           Dosage and Administration
+                           (
+
+                              2.2
+
+                           )]. No dosing recommendations can be made for patients with ESRD (CLcr<15 mL/min).
+
+                           Patients with Hepatic Impairment
+
+                        In patients with pre-existing mild (Child-Pugh Class A), moderate (Child-Pugh Class B), or severe hepatic impairment (Child-Pugh Class C), ubrogepant exposure was increased by 7%, 50%, and 115%, respectively. Patients with severe hepatic impairment require dose adjustments
+
+  [see
+                           Dosage and Administration
+                           (
+
+                              2.2
+
+                           )].
+
+                           Other Specific Populations
+
+                        Based on a population pharmacokinetic analysis, age, sex, race, and body weight did not have a significant effect on the pharmacokinetics (C
+
+  maxand AUC) of ubrogepant. Therefore, no dose adjustments are warranted based on these factors.
+
+                           Drug Interactions
+
+                           In Vitro Studies
+
+                        Enzymes
+
+                        Ubrogepant is not an inhibitor of CYP1A2, 2B6, or 3A4. Ubrogepant is a weak inhibitor of CYP2C8, 2C9, 2D6, 2C19, MAO-A, and UGT1A1. The in vitro inhibition potential is not expected to be clinically significant. Ubrogepant is not an inducer of CYP1A2, 2B6, or 3A4 at clinically relevant concentrations.
+
+                        Transporters
+
+                        Ubrogepant is a substrate of BCRP and P-gp transporters in-vitro; therefore, use of inhibitors of BCRP and/or P-gp may increase the exposure of ubrogepant. Dose adjustment for concomitant use of UBRELVY with inhibitors of BCRP and/or P-gp is recommended based on ADME and clinical interaction studies with CYP3A4/P-gp inhibitors that show the highest predicted potential increase in exposure of ubrogepant is not expected to be more than two-fold
+
+  [see Dosage and Administration (
+
+                              2.2
+
+                           ) and Drug Interactions (
+
+                              7.3
+                           )
+
+  ].
+
+                        Ubrogepant is a weak substrate of OATP1B1, OATP1B3, and OAT1, but not a substrate of OAT3. It is not an inhibitor of P-gp, BCRP, BSEP, MRP3, MRP4, OAT1, OAT3, or NTCP transporters, but is a weak inhibitor of OATP1B1, OATP1B3, and OCT2 transporters. Dose adjustments are needed only for P-gp, or BCRP inhibitors. No clinical drug interactions are expected for UBRELVY with other transporters.
+
+                           In V
+                           iv
+                           o Studies
+
+                        CYP3A4 Inhibitors 
+
+  [see
+                           Dosage and Administration (
+
+                              2.2
+
+                           ),
+                           Contraindications (
+
+                              4
+
+                           ),
+                           and
+                           Dr
+                           ug Interactions (
+
+                              7.1
+                           )
+
+  ]:
+
+                        Co-administration of UBRELVY with ketoconazole, a strong CYP3A4 inhibitor, resulted in a 9.7-fold and 5.3-fold increase in AUC
+
+  infand C
+
+  maxof ubrogepant, respectively
+
+  .
+                           Co-administration of UBRELVY with verapamil, a moderate CYP3A4 inhibitor, resulted in about 3.5-fold and 2.8-fold increase in AUC
+
+  infand C
+
+  maxof ubrogepant, respectively. No dedicated drug interaction study was conducted to assess concomitant use with weak CYP3A4 inhibitors. The conservative prediction of the maximal potential increase in ubrogepant exposure with weak CYP3A4 inhibitors is not expected to be more than 2-fold.
+
+                        CYP3A4 Inducers 
+
+  [see Dosage and Administration (
+
+                              2.2
+
+                           ) and Drug Interactions (
+
+                              7.2
+                           )
+
+  ]:
+
+                        Co-administration of UBRELVY with rifampin, a strong CYP3A4 inducer, resulted in an 80% reduction in ubrogepant exposure. No dedicated drug interaction studies were conducted to assess concomitant use with weak or moderate CYP3A4 inducers. Dose adjustment for concomitant use of UBRELVY with weak or moderate CYP3A4 inducers is recommended based on a conservative prediction of 50% reduction in exposure of ubrogepant.
+
+                        Other Drug-Drug Interaction Evaluations:
+
+                        No significant pharmacokinetic interactions were observed for either ubrogepant or co-administered drugs when UBRELVY was administered with oral contraceptives (containing norgestimate and ethinyl estradiol), acetaminophen, naproxen, sumatriptan, esomeprazole, erenumab, galcanezumab, or atogepant.

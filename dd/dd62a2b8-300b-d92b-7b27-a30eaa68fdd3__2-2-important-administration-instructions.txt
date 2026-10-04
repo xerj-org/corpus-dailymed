@@ -1,0 +1,11 @@
+DailyMed dd62a2b8-300b-d92b-7b27-a30eaa68fdd3 | Tofacitinib | 2.2 Important Administration Instructions
+
+Tofacitinib extended-release tablets are not substitutable with XELJANZ (tablets and oral solution). Switching between XELJANZ and tofacitinib extended-release tablets should be made by the healthcare provider.
+
+                           Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.9) and Adverse Reactions (6.1)].
+
+                           Interrupt use of tofacitinib extended-release tablets if a patient develops a serious infection until the infection is controlled [see Warnings and Precautions (5.1)].
+
+                           Take tofacitinib extended-release tablets with or without food [see Clinical Pharmacology (12.3)].
+
+                           Swallow tofacitinib extended-release tablets whole and intact. Do not crush, split, or chew the extended-release tablets [see Clinical Pharmacology (12.3)].

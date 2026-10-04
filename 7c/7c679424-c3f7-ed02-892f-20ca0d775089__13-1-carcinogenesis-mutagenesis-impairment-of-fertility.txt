@@ -1,0 +1,12 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No long-term animal studies were
+performed to evaluate the carcinogenic potential of Lumason.  No evidence
+of genotoxicity was found in the following studies conducted with
+Lumason: 1) a bacterial mutagenesis (Ames) assay, 2) an in vitro human
+lymphocyte chromosome aberration assay, and 3) an in vivo mouse micronucleus
+assay.
+
+                        No impairment
+of fertility was observed in rats receiving Lumason at doses up to
+8 times the human dose based on body surface area.

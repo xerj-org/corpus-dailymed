@@ -1,0 +1,3 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 12.1 Mechanism of Action
+
+Gedatolisib is a kinase inhibitor of class I PI3K isoforms (α, β, δ, γ) and mTOR complexes mTORC1 and mTORC2, resulting in downstream inhibition of multiple effectors, including AKT. In estrogen receptor (ER)-positive breast cancer cell lines and xenograft models harboring wild-type or mutant PIK3CA, gedatolisib induced apoptosis and anti-proliferative effects in vitro and reduced tumor cell growth in vivo. In a human ER-positive breast cancer xenograft model harboring a PIK3CA mutation, the combination of gedatolisib with palbociclib and fulvestrant increased tumor growth inhibition compared to each treatment alone or the doublet combinations.

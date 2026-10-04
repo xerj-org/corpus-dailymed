@@ -1,0 +1,3 @@
+DailyMed 7d6447e3-22c9-48d9-87c0-d0b576d7ea9e | Cyclophosphamide | 12.2 Pharmacodynamics
+
+Cyclophosphamide is biotransformed principally in the liver to active alkylating metabolites by a mixed function microsomal oxidase system. These metabolites interfere with the growth of susceptible rapidly proliferating malignant cells.

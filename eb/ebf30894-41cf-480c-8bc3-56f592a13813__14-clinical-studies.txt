@@ -1,0 +1,3 @@
+DailyMed ebf30894-41cf-480c-8bc3-56f592a13813 | Herceptin Hylecta | 14 CLINICAL STUDIES
+
+The comparability between HERCEPTIN HYLECTA administered subcutaneously and intravenous trastuzumab was established in the HannaH study. The HannaH study was conducted in patients with HER2 overexpressing breast cancer in the neoadjuvant and adjuvant settings with co-primary endpoints of pathological complete response (pCR) and the PK endpoint of Ctrough at cycle 7 [see Clinical Pharmacology (12.3)].

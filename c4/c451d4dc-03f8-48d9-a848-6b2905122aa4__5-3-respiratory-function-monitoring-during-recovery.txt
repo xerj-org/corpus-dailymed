@@ -1,0 +1,5 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.3 Respiratory Function Monitoring During Recovery
+
+Ventilatory support is mandatory for patients until adequate spontaneous respiration is restored and the ability to maintain a patent airway is assured. Even if recovery from neuromuscular blockade is complete, other drugs used in the peri- and post-operative period could depress respiratory function and therefore ventilatory support might still be required.
+
+                        Should neuromuscular blockade persist after Sugammadex Injection administration or recur following extubation, take appropriate steps to provide adequate ventilation.

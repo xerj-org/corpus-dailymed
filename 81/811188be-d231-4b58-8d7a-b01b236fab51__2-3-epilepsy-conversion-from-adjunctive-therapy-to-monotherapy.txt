@@ -1,0 +1,78 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 2.3 Epilepsy—Conversion from Adjunctive Therapy to Monotherapy
+
+The goal of the transition regimen is to attempt to maintain seizure control while mitigating the risk of serious rash associated with the rapid titration of lamotrigine.
+
+                        The recommended maintenance dose of lamotrigine as monotherapy is 500 mg/day given in 2 divided doses.
+
+                        To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations for lamotrigine should not be exceeded
+
+  [see
+
+   Boxed Warning]
+
+  .
+
+                           Conversion from Adjunctive Therapy with Carbamazepine, Phenytoin, Phenobarbital, or Primidone to Monotherapy with Lamotrigine
+
+                        After achieving a dose of 500 mg/day of lamotrigine using the guidelines in Table 1, the concomitant enzyme-inducing AED should be withdrawn by 20% decrements each week over a 4-week period. The regimen for the withdrawal of the concomitant AED is based on experience gained in the controlled monotherapy clinical trial.
+
+                           Conversion from Adjunctive Therapy with Valproate to Monotherapy with
+                           Lamotrigine
+
+                        The conversion regimen involves the 4 steps outlined in Table 4.
+
+                           Table 4. Conversion from Adjunctive Therapy with Valproate to Monotherapy with Lamotrigine in Patients Aged 16 Years and Older with Epilepsy
+
+                                  |
+
+                                    Lamotrigine
+
+                                  |
+
+                                    Valproate
+
+                                  |
+
+                                 Step 1
+
+                                  |
+                                 Achieve a dose of 200 mg/day according to guidelines in Table 1.
+
+                                  |
+                                 Maintain established stable dose.
+
+                                  |
+
+                                 Step 2
+
+                                  |
+                                 Maintain at 200 mg/day.
+
+                                  |
+                                 Decrease dose by decrements no greater than 500 mg/day/week to 500 mg/day and then maintain for 1 week.
+
+                                  |
+
+                                 Step 3
+
+                                  |
+                                 Increase to 300 mg/day and maintain for 1 week.
+
+                                  |
+                                 Simultaneously decrease to 250 mg/day and maintain for 1 week.
+
+                                  |
+
+                                 Step 4
+
+                                  |
+                                 Increase by 100 mg/day every week to achieve maintenance dose of 500 mg/day.
+
+                                  |
+                                 Discontinue.
+
+                                  |
+
+                           Conversion from Adjunctive Therapy with Antiepileptic Drugs other than Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate to Monotherapy with Lamotrigine
+
+                        No specific dosing guidelines can be provided for conversion to monotherapy with lamotrigine with AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or valproate.

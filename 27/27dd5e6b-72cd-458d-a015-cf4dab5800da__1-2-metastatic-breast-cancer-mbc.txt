@@ -1,0 +1,5 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 1.2 Metastatic Breast Cancer (MBC)
+
+PHESGO is indicated for use in combination with docetaxel for the treatment of adult patients with HER2-positive metastatic breast cancer who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease [see Dosage and Administration (2.2) and Clinical Studies (14.1)].
+
+                        Select patients for therapy based on an FDA-authorized companion diagnostic test [see Dosage and Administration (2.1)].

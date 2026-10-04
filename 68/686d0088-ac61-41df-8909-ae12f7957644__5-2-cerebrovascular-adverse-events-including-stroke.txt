@@ -1,0 +1,3 @@
+DailyMed 686d0088-ac61-41df-8909-ae12f7957644 | ARIPIPRAZOLE | 5.2 Cerebrovascular Adverse Events, Including Stroke
+
+In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in aripiprazole-treated patients (mean age: 84 years; range: 78 to 88 years). In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole. Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].

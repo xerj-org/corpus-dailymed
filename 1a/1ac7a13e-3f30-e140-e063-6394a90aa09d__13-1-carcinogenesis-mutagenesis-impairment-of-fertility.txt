@@ -1,0 +1,7 @@
+DailyMed 1ac7a13e-3f30-e140-e063-6394a90aa09d | Valacyclovir | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+The data presented below include references to the steady-state acyclovir AUC observed in humans treated with 1-gram of valacyclovir tablets given orally 3 times a day to treat herpes zoster. Plasma drug concentrations in animal studies are expressed as multiples of human exposure to acyclovir
+
+  [see
+
+   Clinical Pharmacology (12.3)].

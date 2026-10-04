@@ -1,0 +1,7 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 5.1 Hepatotoxicity
+
+Hepatotoxicity with allergic features including life-threatening events has been reported in clinical trials and postmarketing. Severe rash or evidence of systemic allergic reaction including drug-related rash with fever, eosinophilia, elevated IgE, or other systemic symptoms have been reported in conjunction with hepatotoxicity [see Warnings and Precautions (5.2)]. These events occurred approximately 1 month after starting treatment. Among reported cases of hepatitis, some were observed in the absence of allergic features or with no pre-existing hepatic disease.
+
+                        Appropriate laboratory testing including ALT, AST, and bilirubin should be conducted prior to initiating therapy with maraviroc tablets and at other time points during treatment as clinically indicated. Hepatic laboratory parameters should be obtained in any patient who develops rash, or signs or symptoms of hepatitis, or allergic reaction. Discontinuation of maraviroc tablets should be considered in any patient with signs or symptoms of hepatitis, or with increased liver transaminases combined with rash or other systemic symptoms.
+
+                        When administering maraviroc tablets to patients with pre-existing liver dysfunction or who are coinfected with hepatitis B and/or C virus, additional monitoring may be warranted. The safety and efficacy of maraviroc tablets have not been specifically studied in patients with significant underlying liver disorders.

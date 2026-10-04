@@ -1,0 +1,74 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions,
+adverse reaction rates observed in the clinical trials of a drug cannot
+be directly compared to rates in the clinical trials of another drug
+and may not reflect the rates observed in practice.
+
+                           Adults
+
+                        In completed clinical trials, a total of 6984
+adult subjects (128 healthy volunteers and 6856 patients) received
+Lumason at cumulative doses ranging from 0.2 to 161 mL (mean 9.8 mL).
+Lumason was administered mainly as single or multiple injections;
+however, some subjects received infusion dosing. The majority (75%)
+of subjects received Lumason at cumulative doses of 10 mL or less.
+There were 64% men and 36% women, with an average age of 59 years
+(range 17 to 99 years).  A total of 79% subjects were White; 4% were
+Black; 16% were Asian; <1% were Hispanic; and <1% were in other
+racial groups or race was not reported.
+
+                        In the clinical trials, serious adverse reactions
+were observed in 2 subjects; one who experienced a hypersensitivity-type
+rash and presyncope and another who experienced anaphylactic shock
+shortly following Lumason administration.
+
+                        The most commonly reported adverse reactions
+among patients (occurring among at least 0.2% of patients) are listed
+below (Table 1). Most adverse reactions were mild to moderate in intensity
+and resolved spontaneously.
+
+                                 *occurring in at least 0.2% of patients |
+
+                                    Table 1.  Adverse Reactions in Adult Patients*
+
+n = 6856
+                                  |
+
+                                 Number (%) of Patients with
+Adverse Reactions |
+                                 340 (5%) |
+
+                                 Headache |
+                                 65 (1%) |
+
+                                 Nausea |
+                                 37 (0.5%) |
+
+                                 Dysgeusia |
+                                 29 (0.4%) |
+
+                                 Injection site pain |
+                                 23 (0.3%) |
+
+                                 Feeling Hot |
+                                 18 (0.3%) |
+
+                                 Chest discomfort |
+                                 17 (0.2%) |
+
+                                 Chest pain |
+                                 12 (0.2%) |
+
+                                 Dizziness |
+                                 11 (0.2%) |
+
+                                 Injection Site Warmth |
+                                 11 (0.2%) |
+
+                           Pediatric Patients:
+
+                        In completed clinical
+trials for echocardiography, a total of 12 pediatric patients received
+Lumason at a dose of 0.03 mL/kg. No adverse reactions were identified
+in pediatric patients [see Clinical Studies (14.1)].

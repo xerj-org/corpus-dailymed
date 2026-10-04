@@ -1,0 +1,49 @@
+DailyMed 07a701e2-39b7-4bb1-a7c7-d9baed4ab18a | Guanfacine Extended-Release | 2.7 Dosage Adjustment with Concomitant Use of Strong and Moderate CYP3A4 Inhibitors or Inducers
+
+Dosage adjustments for guanfacine extended-release tablets are recommended with concomitant use of strong and moderate CYP3A4 inhibitors (e.g., ketoconazole), or CYP3A4 inducers (e.g., carbamazepine) ( Table 2 ) [see
+                           Drug Interactions (
+
+                              7
+
+                           )
+                           ] .
+
+                            Table 2: Guanfacine Extended-Release Tablets Dosage Adjustments for Patients Taking Concomitant CYP3A4 Inhibitors or Inducers
+
+                                  |
+
+                                    Clinical Scenarios
+                                  |
+
+                                  |
+
+                                    Starting guanfacine extended-release tablets while currently on a CYP3A4 modulator
+                                  |
+
+                                    Continuing guanfacine extended-release tablets while adding a CYP3A4 modulator
+                                  |
+
+                                    Continuing guanfacine extended-release tablets while stopping a CYP3A4 modulator
+                                  |
+
+                                     CYP3A4
+
+ Strong and moderate Inhibitors
+                                  |
+
+                                    Decrease guanfacine extended-release tablets dosage to half the recommended level. (see Table 1 ) |
+
+                                    Decrease guanfacine extended-release tablets dosage to half the recommended level. (see Table 1 ) |
+
+                                    Increase guanfacine extended-release tablets dosage to recommended level. (see Table 1 ) |
+
+                                     CYP3A4
+
+ Strong and moderate Inducers
+                                  |
+
+                                    Consider increasing guanfacine extended-release tablets dosage up to double the recommended level. (see Table 1 ) |
+
+                                    Consider increasing guanfacine extended-release tablets dosage up to double the recommended level over 1 to 2 weeks. (see Table 1 ) |
+
+                                    Decrease guanfacine extended-release tablets dosage to recommended level over 1 to 2 weeks. (see Table 1 ) |

@@ -1,0 +1,9 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 12.1 Mechanism of Action
+
+Dapagliflozin
+
+                        Sodium-glucose cotransporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen. Dapagliflozin is an inhibitor of SGLT2. By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose, and thereby promotes urinary glucose excretion. Dapagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule. This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity, and decreased intraglomerular pressure which is believed to be mediated by increased tubuloglomerular feedback.
+
+                           Metformin HCl
+
+                        Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization. With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.

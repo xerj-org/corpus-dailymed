@@ -1,0 +1,5 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 5.7 Transfusion-related Acute Lung Injury (TRALI)
+
+Noncardiogenic pulmonary edema may occur in patients following treatment with IGIV products, including GAMUNEX-C FlexBag. TRALI is characterized by severe respiratory distress, pulmonary edema, hypoxemia, normal left ventricular function, and fever. Symptoms typically occur within 1 to 6 hours after treatment.
+
+                        Monitor patients for pulmonary adverse reactions. [see Patient Counseling Information (17)]  If TRALI is suspected, perform appropriate tests for the presence of anti-neutrophil and anti-HLA antibodies in both the product and patient serum. TRALI may be managed using oxygen therapy with adequate ventilatory support.

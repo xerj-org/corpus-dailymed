@@ -1,0 +1,9 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Clarithromycin
+
+Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmacokinetic data suggest that no dose adjustment is necessary with concomitant administration with ELIQUIS
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  .

@@ -1,0 +1,9 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 1.15 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of levofloxacin and other antibacterial drugs, levofloxacin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
+
+                           Culture and susceptibility testing
+
+                        Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing the infection and to determine their susceptibility to levofloxacin [see Microbiology (12.4)]. Therapy with levofloxacin may be initiated before results of these tests are known; once results become available, appropriate therapy should be selected.
+
+                        As with other drugs in this class, some isolates of Pseudomonas aeruginosa may develop resistance fairly rapidly during treatment with levofloxacin. Culture and susceptibility testing performed periodically during therapy will provide information about the continued susceptibility of the pathogens to the antimicrobial agent and also the possible emergence of bacterial resistance.

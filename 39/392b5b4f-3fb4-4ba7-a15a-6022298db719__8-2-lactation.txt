@@ -1,0 +1,11 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 8.2 Lactation
+
+Risk Summary
+
+There is no information on the presence of exemestane in human milk, or on its effects on the breastfed infant or milk production. Exemestane is present in rat milk at concentrations similar to maternal plasma
+  [see Data]. Because of the potential for serious adverse reactions in breast-fed infants from exemestane, advise a woman not to breastfeed during treatment with exemestane and for 1 month after the final dose.
+
+                           Data
+
+Radioactivity related to exemestane appeared in rat milk within 15 minutes of oral administration of radiolabeled exemestane. Concentrations of exemestane and its metabolites were approximately equivalent in the milk and plasma of rats for 24 hours after a single oral dose of 1 mg/kg
+  14C-exemestane.

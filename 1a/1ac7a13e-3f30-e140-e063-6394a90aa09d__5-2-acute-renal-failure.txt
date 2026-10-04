@@ -1,0 +1,31 @@
+DailyMed 1ac7a13e-3f30-e140-e063-6394a90aa09d | Valacyclovir | 5.2 Acute Renal Failure
+
+Cases of acute renal failure have been reported in:
+
+                           Elderly patients with or without reduced renal function. Caution should be exercised when administering valacyclovir tablets to geriatric patients, and dosage reduction is recommended for those with impaired renal function
+
+   [see
+
+    Dosage and Administration (2.4),
+
+    Use in Specific Populations (8.5)].
+
+                           Patients with underlying renal disease who received higher-than-recommended doses of valacyclovir tablets for their level of renal function. Dosage reduction is recommended when administering valacyclovir tablets to patients with renal impairment
+
+   [see
+
+    Dosage and Administration (2.4),
+
+    Use in Specific Populations (8.6)].
+
+                           Patients receiving other nephrotoxic drugs. Caution should be exercised when administering valacyclovir tablets to patients receiving potentially nephrotoxic drugs.
+
+                           Patients without adequate hydration. Precipitation of acyclovir in renal tubules may occur when the solubility (2.5 mg/mL) is exceeded in the intratubular fluid. Adequate hydration should be maintained for all patients.
+
+                        In the event of acute renal failure and anuria, the patient may benefit from hemodialysis until renal function is restored
+
+  [see
+
+   Dosage and Administration (2.4),
+
+   Adverse Reactions (6.3)].

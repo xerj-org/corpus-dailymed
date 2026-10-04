@@ -1,0 +1,7 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 12.1 Mechanism of Action
+
+Rituximab is a monoclonal antibody that targets the CD20 antigen expressed on the surface of pre-B and mature B-lymphocytes. Upon binding to CD20, rituximab mediates B-cell lysis. Possible mechanisms of cell lysis include complement dependent cytotoxicity (CDC) and antibody dependent cell mediated cytotoxicity (ADCC). Hyaluronan is a polysaccharide found in the extracellular matrix of the subcutaneous tissue. It is depolymerized by the naturally occurring enzyme hyaluronidase. Unlike the stable structural components of the interstitial matrix, hyaluronan has a half-life of approximately 0.5 days. Hyaluronidase human increases permeability of the subcutaneous tissue by temporarily depolymerizing hyaluronan. In the doses administered, hyaluronidase human in RITUXAN HYCELA acts locally.
+
+                        The effects of hyaluronidase human are reversible and permeability of the subcutaneous tissue is restored within 24 to 48 hours.
+
+                        Hyaluronidase human has been shown to increase the absorption rate of a rituximab product into the systemic circulation when given in the subcutis of Göttingen Minipigs.

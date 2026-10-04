@@ -1,0 +1,15 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Long-term animal studies have not been conducted to characterize the carcinogenic potential of piroxicam.
+
+                           Mutagenesis
+
+                        Piroxicam was not mutagenic in an Ames bacterial reverse mutation assay, or in a dominant lethal mutation assay in mice, and was not clastogenic in an in vivo chromosome aberration assay in mice.
+
+                           Impairment of Fertility
+
+                        Reproductive studies in which rats were administered piroxicam at doses of 2, 5, or 10 mg/kg/day (up to 5 times the MRHD of 20 mg based on mg/m
+
+  2body surface area [BSA]) revealed no impairment of male or female fertility.

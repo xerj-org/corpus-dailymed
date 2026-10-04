@@ -1,0 +1,78 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | WARNINGS
+
+Tardive Dyskinesia (see
+                        BOXED WARNING)
+
+                  Metoclopramide, including metoclopramide injection, can cause tardive dyskinesia (TD), a syndrome of potentially irreversible and disfiguring involuntary movements of the face or tongue, and sometimes of the trunk and/or extremities. Metoclopramide, including metoclopramide injection, may also suppress, or partially suppress, the signs of TD, and may delay the diagnosis of TD because it may mask the underlying disease process. The effect of the symptomatic suppression upon the long-term course of TD is unknown. TD may remit, partially or completely, if treatment with metoclopramide injection is discontinued. In patients treated with metoclopramide, including metoclopramide injection, the risk of developing TD and the likelihood that TD will become irreversible increases with duration of treatment and total cumulative dosage. Additionally, the risk of developing TD is increased in elderly patients, especially in elderly women, and in patients with diabetes mellitus.
+
+                     Prevention, Mitigation, and Monitoring for TD
+
+                        •
+
+Metoclopramide injection, contraindicated in patients with history of TD
+
+                        •
+
+Avoid use of metoclopramide injection in patients receiving concomitant antipsychotics due to the potential additive effects of TD.
+
+                        •
+
+Reduce the dosage of metoclopramide injection in the elderly (see
+                           DOSAGE AND ADMINISTRATION, Renal and Hepatic Impairment
+                        ).
+
+                        •
+
+Immediately discontinue metoclopramide injection immediately in patients who develop signs and symptoms of TD.
+
+                        •
+
+In patients with diabetic gastroparesis, avoid a total duration of treatment with metoclopramide products, including metoclopramide injection, for longer than 12 weeks. If longer-term use is unavoidable, routinely monitor for signs and symptoms of TD.
+
+                        •
+
+If patients have continued TD symptoms, consider TD treatment.
+
+                     Other Extrapyramidal Symptoms
+
+                  In addition to TD, metoclopramide may cause other extrapyramidal symptoms (EPS), parkinsonian symptoms, and motor restlessness. Advise patients to seek immediate medical attention if such symptoms occur and to discontinue metoclopramide injection.
+
+                        •
+
+Extrapyramidal symptoms (EPS), such as acute dystonic reactions, occurred in patients treated with metoclopramide dosages of 30 mg to 40 mg daily. Such reactions occurred more frequently in adults less than 30 years of age and at the higher dosages used in prophylaxis of vomiting due to cancer chemotherapy. EPS occurred more frequently in pediatric patients compared to adults (metoclopramide injection is only approved in pediatric patients for small bowel intubation). Symptoms can occur in the first 24 to 48 hours after starting metoclopramide. Symptoms included involuntary movements of limbs and facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, or dystonic reactions resembling tetanus. Rarely, dystonic reactions were present as stridor and dyspnea, possibly due to laryngospasm. Diphenhydramine hydrochloride or benztropine mesylate may be used to treat these adverse reactions. Avoid metoclopramide injection in patients receiving other drugs that can cause EPS (e.g., antipsychotics).
+
+                        •
+
+Parkinsonian symptoms (bradykinesia, tremor, cogwheel rigidity, mask-like facies), have occurred after starting metoclopramide, more commonly within the first 6 months, but also after longer periods. Symptoms generally have subsided within 2 to 3 months after discontinuation of metoclopramide. Avoid metoclopramide injection in patients with Parkinson’s disease and other patients being treated with antiparkinsonian drugs due to potential exacerbation of symptoms. If treatment is unavoidable, use metoclopramide injection for the shortest duration of treatment and periodically reassess the need for continued treatment. Routinely monitor for signs and symptoms of Parkinson’s disease.
+
+                        •
+
+Motor restlessness (akathisia) has developed and consisted of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, and foot tapping. If symptoms resolve, consider restarting at a lower dosage.
+
+                     Neuroleptic Malignant Syndrome
+
+                  Metoclopramide may cause a potentially fatal symptom complex called neuroleptic malignant syndrome (NMS). NMS has been reported in association with metoclopramide overdosage and concomitant treatment with another drug associated with NMS. Avoid metoclopramide injection in patients receiving other drugs associated with NMS, including typical and atypical antipsychotics.
+
+                  Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and manifestations of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac arrhythmias). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. Patients with such symptoms should be evaluated immediately.
+
+                  In the diagnostic evaluation, consider the presence of other serious medical conditions (e.g., pneumonia, systemic infection) and untreated or inadequately treated extrapyramidal signs and symptoms. Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, malignant hyperthermia, drug fever, serotonin syndrome, and primary central nervous system pathology.
+
+                  Management of NMS includes:
+
+                        o
+
+Immediate discontinuation of metoclopramide injection and other drugs not essential to concurrent therapy (see
+                           PRECAUTIONS – Drug Interactions
+                        ).
+
+                        o
+
+Intensive symptomatic treatment and medical monitoring.
+
+                        o
+
+Treatment of any concomitant serious medical problems for which specific treatments are available.
+
+Depression
+
+                  Depression has occurred in patients with and without prior history of depression. Symptoms have ranged from mild to severe and have included suicidal ideation and suicide. Metoclopramide should be given to patients with a prior history of depression only if the expected benefits outweigh the potential risks.

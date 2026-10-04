@@ -1,0 +1,17 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 8.4 Pediatric Use
+
+Epilepsy
+
+                        Lamotrigine is indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
+
+                        Safety and efficacy of lamotrigine used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months). Lamotrigine was associated with an increased risk for infectious adverse reactions (Lamotrigine 37%, placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, placebo 5%). Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection. Respiratory adverse reactions included nasal congestion, cough, and apnea.
+
+                           Bipolar Disorder
+
+                        Safety and efficacy of lamotrigine for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR. In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking lamotrigine (n = 87) and were twice as common compared with patients taking placebo (n = 86) were influenza (Lamotrigine 8%, placebo 2%), oropharyngeal pain (Lamotrigine 8%, placebo 2%), vomiting (Lamotrigine 6%, placebo 2%), contact dermatitis (Lamotrigine 5%, placebo 2%), upper abdominal pain (Lamotrigine 5%, placebo 1%), and suicidal ideation (Lamotrigine 5%, placebo 0%).
+
+                           Juvenile Animal Data
+
+                        In a juvenile animal study in which lamotrigine (oral doses of 0, 5, 15, or 30 mg/kg) was administered to young rats from postnatal day 7 to 62, decreased viability and growth were seen at the highest dose tested and long-term neurobehavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses. The no-effect dose for adverse developmental effects in juvenile animals is less than the human dose of 400 mg/day on a mg/m
+
+  2basis.

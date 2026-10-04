@@ -1,0 +1,29 @@
+DailyMed 10272dc1-657d-4798-a34a-b6341b92e560 | propofol | 12.3 Pharmacokinetics
+
+The pharmacokinetics of propofol are well described by a three- compartment linear model with compartments representing the plasma, rapidly equilibrating tissues, and slowly equilibrating tissues.
+
+                        Following an intravenous bolus dose, there is rapid equilibration between the plasma and the brain, accounting for the rapid onset of anesthesia. Plasma levels initially decline rapidly as a result of both distribution and metabolic clearance. Distribution accounts for about half of this decline following a bolus of propofol. However, distribution is not constant over time, but decreases as body tissues equilibrate with plasma and become saturated. The rate at which equilibration occurs is a function of the rate and duration of the infusion. When equilibration occurs there is no longer a net transfer of propofol between tissues and plasma.
+
+                        Discontinuation of the recommended doses of propofol injectable emulsion after the maintenance of anesthesia for approximately one hour, or for sedation in the ICU for one day, results in a prompt decrease in blood propofol concentrations and rapid awakening. Longer infusions (10 days of ICU sedation) result in accumulation of significant tissue stores of propofol, such that the reduction in circulating propofol is slowed and the time to awakening is increased.
+
+                        By daily titration of propofol injectable emulsion dosage to achieve only the minimum effective therapeutic concentration, rapid awakening within 10 to 15 minutes can occur even after long-term administration. If, however, higher than necessary infusion levels have been maintained for a long time, propofol redistribution from fat and muscle to the plasma can be significant and slow recovery.
+
+                        The figure below illustrates the fall of plasma propofol levels following infusions of various durations to provide ICU sedation.
+
+                        The large contribution of distribution (about 50%) to the fall of propofol plasma levels following brief infusions means that after very long infusions a reduction in the infusion rate is appropriate by as much as half the initial infusion rate in order to maintain a constant plasma level. Therefore, failure to reduce the infusion rate in patients receiving propofol injectable emulsion for extended periods may result in excessively high blood concentrations of the drug. Thus, titration to clinical response and daily evaluation of sedation levels are important during use of propofol injectable emulsion infusion for ICU sedation.
+
+                           Adults
+
+                        Propofol clearance ranges from 23 mL/kg/min to 50 mL/kg/min (1.6 L/min to 3.4 L/min in 70 kg adults). It is chiefly eliminated by hepatic conjugation to inactive metabolites which are excreted by the kidney. A glucuronide conjugate accounts for about 50% of the administered dose. Propofol has a steady-state volume of distribution (10-day infusion) approaching 60 L/kg in healthy adults. A difference in pharmacokinetics due to gender has not been observed. The terminal half-life of propofol after a 10-day infusion is 1 day to 3 days.
+
+                           Geriatrics
+
+                        With increasing patient age, the dose of propofol needed to achieve a defined anesthetic end point (dose-requirement) decreases. This does not appear to be an age-related change in pharmacodynamics or brain sensitivity, as measured by EEG burst suppression. With increasing patient age, pharmacokinetic changes are such that, for a given intravenous bolus dose, higher peak plasma concentrations occur, which can explain the decreased dose requirement. These higher peak plasma concentrations in the elderly can predispose patients to cardiorespiratory effects including hypotension, apnea, airway obstruction, and/or arterial oxygen desaturation. The higher plasma levels reflect an age-related decrease in volume of distribution and intercompartmental clearance. Lower doses are therefore recommended for initiation and maintenance of sedation and anesthesia in elderly patients [see Dosage and Administration (2)].
+
+                           Pediatrics
+
+                        The pharmacokinetics of propofol were studied in children between 3 years and 12 years of age who received propofol injectable emulsion for periods of approximately 1 to 2 hours. The observed distribution and clearance of propofol in these children were similar to adults.
+
+                           Organ Failure
+
+                        The pharmacokinetics of propofol do not appear to be different in people with chronic hepatic cirrhosis or chronic renal impairment compared to adults with normal hepatic and renal function. The effects of acute hepatic or renal failure on the pharmacokinetics of propofol have not been studied [See Specific Populations (8.6) and (8.7)].

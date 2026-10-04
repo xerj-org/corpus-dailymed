@@ -1,0 +1,19 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 4 CONTRAINDICATIONS
+
+UBRELVY is contraindicated:
+
+                     With concomitant use of strong CYP3A4 inhibitors
+
+   [see Drug Interactions (
+
+                           7.1
+
+                        )]
+
+                     In patients with a history of serious hypersensitivity to ubrogepant or any component of UBRELVY. Reactions have included anaphylaxis, dyspnea, and facial or throat edema
+
+   [see Warnings and Precautions (
+
+                           5.1
+
+                        )]

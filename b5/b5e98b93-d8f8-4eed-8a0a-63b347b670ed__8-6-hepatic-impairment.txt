@@ -1,0 +1,3 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 8.6 Hepatic Impairment
+
+The recommended dosage in patients with mild hepatic impairment (Child-Pugh score 5 or 6) is half the recommended dosage due to increased exposure in this patient population. The use of sertraline hydrochloride in patients with moderate (Child-Pugh score 7 to 10) or severe hepatic impairment (Child-Pugh score 10 to 15) is not recommended, because sertraline hydrochloride is extensively metabolized, and the effects of sertraline hydrochloride in patients with moderate and severe hepatic impairment have not been studied [See Dosage and Administration (2.4), Clinical Pharmacology (12.3)].

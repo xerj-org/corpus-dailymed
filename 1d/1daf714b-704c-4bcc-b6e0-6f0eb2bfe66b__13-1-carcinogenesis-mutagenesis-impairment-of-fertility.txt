@@ -1,0 +1,5 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenicity studies have not been performed with fluorouracil. Fluorouracil was mutagenic in vitro in the bacterial reverse mutation (Ames) assay and induced chromosomal aberrations in hamster fibroblasts in vitro and in mouse bone marrow in the in vivo mouse micronucleus assay.
+
+                        Administration of fluorouracil intraperitoneally to male rats at dose levels equal to or greater than 1.7-fold the human dose of 12 mg/kg induced chromosomal aberrations in spermatogonia and inhibition of spermatogonia differentiation resulting in transient infertility. In female rats, intraperitoneal administration of fluorouracil during the pre-ovulatory phases of oogenesis at dose levels equal to or greater than 0.33 times a human dose of 12 mg/kg resulted in decreased incidence of fertile matings, increased pre-implantation loss, and fetotoxicity.

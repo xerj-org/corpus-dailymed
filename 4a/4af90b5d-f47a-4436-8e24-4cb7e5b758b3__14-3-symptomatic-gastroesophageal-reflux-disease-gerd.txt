@@ -1,0 +1,50 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 14.3 Symptomatic Gastroesophageal Reflux Disease (GERD)
+
+Orally administered famotidine was compared to placebo in a U.S. trial that enrolled patients with symptoms of GERD and without endoscopic evidence of esophageal erosion or ulceration. As shown in Table 8, patients treated with famotidine 20 mg twice daily had greater improvement in symptomatic GERD than patients treated with 40 mg at bedtime or placebo.
+
+                           Table 8: Patients with Improvement of Symptomatic GERD (N=376)
+
+                                    a p≤0.01 vs. placebo
+
+                                  |
+
+                                  
+
+                                  |
+
+                                       Famotidine
+
+             20 mg twice daily
+
+             (N=154)
+
+                                  |
+
+                                       Famotidine
+
+             40 mg at bedtime
+
+             (N=149)
+
+                                  |
+
+                                       Placebo
+
+             at bedtime
+
+             (N=73)
+
+                                  |
+
+                                 Week 6
+
+                                  |
+                                 82%a
+
+                                  |
+                                 69%
+
+                                  |
+                                 62%
+
+                                  |

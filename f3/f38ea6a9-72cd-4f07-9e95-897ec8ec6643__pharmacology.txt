@@ -1,0 +1,3 @@
+DailyMed f38ea6a9-72cd-4f07-9e95-897ec8ec6643 | Florfinasone Otic | PHARMACOLOGY:
+
+Florfinasone™ Otic is a fixed combination of three active substances: florfenicol (antibacterial), terbinafine (antifungal), and mometasone furoate (steroidal anti-inflammatory). Florfenicol is a bacteriostatic antibiotic which acts by inhibiting protein synthesis. Terbinafine is an antifungal which selectively inhibits the early synthesis of ergosterol. Mometasone furoate is a glucocorticosteroid with anti-inflammatory activity.

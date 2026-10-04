@@ -1,0 +1,128 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 14.2 Adult Patients With Resistant or Intolerant Ph+ CML-CP and CML-AP
+
+Study CAMN107A2101 (referred to as Study A2101) (NCT00109707) was a single-arm, open-label, multicentre study conducted to evaluate the efficacy and safety of nilotinib (400 mg twice daily) in patients with imatinib-resistant or - intolerant CML with separate cohorts for chronic and accelerated phase disease. The definition of imatinib resistance included failure to achieve a complete hematologic response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or hematologic response. Imatinib intolerance was defined as discontinuation of treatment due to toxicity and lack of a major cytogenetic response at time of study entry. At the time of data cutoff, 321 patients with CML-CP and 137 patients with CML-AP with a minimum follow-up of 24 months were enrolled. In this study, about 50% of CML-CP and CML-AP patients were males, over 90% (CML-CP) and 80% (CML-AP) were White, and approximately 30% were age 65 years or older.
+
+                         
+
+                        Overall, 73% of patients were imatinib resistant while 27% were imatinib intolerant. The median time of prior imatinib treatment was approximately 32 (CML-CP) and 28 (CML-AP) months. Prior therapy included hydroxyurea in 85% of patients, interferon in 56% and stem cell or bone marrow transplant in 8%. The median highest prior imatinib dose was 600 mg per day for patients with CML-CP and CML-AP, and the highest prior imatinib dose was greater than or equal to 600 mg/day in 74% of all patients with 40% of patients receiving imatinib doses greater than or equal to 800 mg/day.
+
+                         
+
+                        Median duration of nilotinib treatment was 18.4 months in patients with CML-CP and 8.7 months in patients with CML-AP.
+
+                         
+
+                        The efficacy endpoint in CML-CP was unconfirmed major cytogenetic response (MCyR) which included complete and partial cytogenetic responses.
+
+                         
+
+                        The efficacy endpoint in CML-AP was confirmed hematologic response (HR), defined as either a complete hematologic response (CHR) or no evidence of leukemia (NEL). The rates of response for CML-CP and CMLAP patients are reported in Table 13.
+
+                         
+
+                        Median durations of response had not been reached at the time of data analysis.
+
+                         
+
+                           Table 13: Efficacy of Nilotinib in Adult Resistant or Intolerant Ph+ CML-CP and CML-AP (Study A2101)
+
+                                    Cytogenetic response rate (unconfirmed) (%)a
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       Chronic phase (n = 321)
+
+                                  |
+
+                                    Major (95% CI)
+
+                                  |
+
+                                    51% (46%–57%)
+
+                                  |
+
+                                    Complete (95% CI)
+
+                                  |
+
+                                    37% (32%–42%)
+
+                                  |
+
+                                    Partial (95% CI)
+
+                                  |
+
+                                    15% (11%–19%)
+
+                                  |
+
+                                     
+
+                                  |
+
+                                       Accelerated phase (n = 137)
+
+                                  |
+
+                                       Hematologic response rate (confirmed) (95% CI)
+                                       b
+
+                                  |
+
+                                    39% (31%–48%)
+
+                                  |
+
+                                    Complete hematologic response rate (95% CI)
+
+                                  |
+
+                                    30% (22%–38%)
+
+                                  |
+
+                                    No evidence of leukemia (95% CI)
+
+                                  |
+
+                                    9% (5%–16%)
+
+                                  |
+
+                           a Cytogenetic response criteria: Complete (0% Ph+ metaphases) or partial (1% to 35%). Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample. 
+
+                           b Hematologic response = CHR + NEL (all responses confirmed after 4 weeks). 
+
+                        CHR (CML-CP): WBC less than 10 x 109/L, platelets less than 450,000/mm3, no blasts or promyelocytes in peripheral blood, less than 5% myelocytes + metamyelocytes in bone marrow, less than 20% basophils in peripheral blood, and no extramedullary involvement. CHR (CML-AP): neutrophils greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no myeloblasts in peripheral blood, myeloblasts less than 5% in bone marrow, and no extramedullary involvement.
+
+                        NEL: same criteria as for CHR but neutrophils greater than or equal to 1.0 x 109/L and platelets greater than or equal to 20 x 109/L without transfusions or bleeding. 
+
+                         
+
+                           Adult Patients With Chronic Phase
+
+                         
+
+                        The MCyR rate in 321 CML-CP patients was 51%. The median time to MCyR among responders was 2.8 months (range, 1 to 28 months). The median duration of MCyR cannot be estimated. The median duration of exposure on this single arm-trial was 18.4 months. Among the CML-CP patients who achieved MCyR, 62% of them had MCyR lasting more than 18 months. The CCyR rate was 37%.
+
+                         
+
+                           Adult Patients With Accelerated Phase
+
+                         
+
+                        The overall confirmed hematologic response rate in 137 patients with CML-AP was 39%. The median time to first hematologic response among responders was 1 month (range, 1 to 14 months). Among the CML-AP patients who achieved HR, 44% of them had a response lasting for more than 18 months.
+
+                         
+
+                        After imatinib failure, 24 different BCR-ABL mutations were noted in 42% of chronic phase and 54% of accelerated phase CML patients who were evaluated for mutations.

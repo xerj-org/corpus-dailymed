@@ -1,0 +1,7 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 7.2 Insulin or Other Antidiabetic Drugs
+
+Hydroxychloroquine sulfate tablets may enhance the effects of insulin and antidiabetic drugs, and consequently increase the hypoglycemic risk. Therefore, a decrease in dosage of insulin and other antidiabetic drugs may be necessary
+
+  [see
+
+   Warnings and Precautions (5.10)].

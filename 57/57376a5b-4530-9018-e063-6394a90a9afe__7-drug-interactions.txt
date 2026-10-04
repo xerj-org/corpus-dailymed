@@ -1,0 +1,7 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 7 DRUG INTERACTIONS
+
+Formal PK drug-drug interaction studies have not been performed with PRIALT. As ziconotide is a peptide, it is expected to be completely degraded by endopeptidases and exopeptidases (Phase I hydrolytic enzymes) widely located throughout the body, and not by other Phase I biotransformation processes (including the cytochrome P450 system) or by Phase II conjugation reactions. Thus, intrathecal administration, low plasma ziconotide concentrations, and metabolism by ubiquitous peptidases make metabolic interactions of other drugs with ziconotide unlikely. Further, as ziconotide is not highly bound in plasma (approximately 50%) and has low plasma exposure following intrathecal administration, clinically relevant plasma protein displacement reactions involving ziconotide and co-administered medications are unlikely.
+
+                  Over 90% of patients treated with intrathecal PRIALT used systemic opiates and in the slow titration study, 98% of patients received opioids.
+
+                  The combination of PRIALT with intrathecal opiates has not been studied in placebo-controlled clinical trials and is not recommended.

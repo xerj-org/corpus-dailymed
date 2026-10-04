@@ -1,0 +1,5 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | 12.1 Mechanism of Action
+
+The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown.
+
+                        A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam. Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis. Although the molecular significance of levetiracetam binding to synaptic vesicle protein SV2A is not understood, levetiracetam and related analogs showed a rank order of affinity for SV2A which correlated with the potency of their antiseizure activity in audiogenic seizure-prone mice. These findings suggest that the interaction of levetiracetam with the SV2A protein may contribute to the antiepileptic mechanism of action of the drug.

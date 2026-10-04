@@ -1,0 +1,9 @@
+DailyMed 1bda03a2-6c7d-4c9e-b98a-e5e01bebb3b1 | Amoxicillin and Clavulanate Potassium | 8.6 Renal Impairment
+
+Amoxicillin is primarily eliminated by the kidney and dosage adjustment is usually required in patients with severe renal impairment (GFR less than 30 mL/min). See Patients with Renal Impairment  
+
+  [see 
+
+                              Dosage and Administration (2.4)]
+
+  for specific recommendations in patients with renal impairment.

@@ -1,0 +1,17 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 8.2 Lactation
+
+Risk Summary
+
+                        Lamotrigine is present in milk from lactating women taking lamotrigine
+
+  (see Data). Neonates and young infants are at risk for high serum levels because maternal serum and milk levels can rise to high levels postpartum if lamotrigine dosage has been increased during pregnancy but is not reduced after delivery to the pre-pregnancy dosage. Glucuronidation is required for drug clearance. Glucuronidation capacity is immature in the infant and this may also contribute to the level of lamotrigine exposure. Events including rash, apnea, drowsiness, poor sucking, and poor weight gain (requiring hospitalization in some cases) have been reported in infants who have been human milk-fed by mothers using lamotrigine; whether or not these events were caused by lamotrigine is unknown. No data are available on the effects of the drug on milk production.
+
+                        The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for lamotrigine and any potential adverse effects on the breastfed infant from lamotrigine or from the underlying maternal condition.
+
+                           Clinical Considerations
+
+                        Human milk-fed infants should be closely monitored for adverse events resulting from lamotrigine. Measurement of infant serum levels should be performed to rule out toxicity if concerns arise. Human milk-feeding should be discontinued in infants with lamotrigine toxicity.
+
+                           Data
+
+                        Data from multiple small studies indicate that lamotrigine plasma levels in nursing infants have been reported to be as high as 50% of maternal plasma concentrations.

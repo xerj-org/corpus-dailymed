@@ -1,0 +1,5 @@
+DailyMed db007ac0-020e-4962-8903-7497ab96a74e | Imipramine Hydrochloride | CONTRAINDICATIONS
+
+The concomitant use of monoamine oxidase inhibiting compounds is contraindicated. Hyperpyretic crises or severe convulsive seizures may occur in patients receiving such combinations. The potentiation of adverse effects can be serious, or even fatal. When it is desired to substitute imipramine hydrochloride tablets, in patients receiving a monoamine oxidase inhibitor, as long an interval should elapse as the clinical situation will allow, with a minimum of 14 days. Initial dosage should be low and increases should be gradual and cautiously prescribed.
+
+                  The drug is contraindicated during the acute recovery period after a myocardial infarction. Patients with a known hypersensitivity to this compound should not be given the drug. The possibility of cross-sensitivity to other dibenzazepine compounds should be kept in mind.

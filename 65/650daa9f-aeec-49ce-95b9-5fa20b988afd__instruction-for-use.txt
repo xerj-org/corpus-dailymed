@@ -1,0 +1,1036 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | INSTRUCTION FOR USE
+
+User Manual
+
+                     Manufacturer: Biofrontera Discovery GmbH
+
+                     Distributor: Biofrontera Inc.
+
+                     Foreword
+
+                  Thank you for choosing the BF-RhodoLED® LED lamp for your photodynamic therapy. BF-RhodoLED® has been developed in accordance with applicable technical standards to provide high energy efficiency as well as constant light emission at the desired wavelength.
+
+Your lamp must be installed and maintained by a qualified Biofrontera technician and used only in accordance with the instructions in this manual. You may request the latest printed version covering this model from Biofrontera at any time.
+
+Our drug Ameluz® and medical device BF-RhodoLED® have been approved in combination for photodynamic therapy; the only approved use of our lamp is in combination with Ameluz® gel. This user manual provides important BF-RhodoLED® product details, cautions and warnings, and operating instructions. For Ameluz®, please use its US prescribing information (USPI). The Ameluz® prescribing information includes information on how to use the gel along with contraindications, warnings and precautions, and dosage and administration.
+
+                  The product labels/ markings shown in this manual are examples. They may differ slightly from those on the lamp.
+
+This manual is valid for BF-RhodoLED® lamps manufactured by Biofrontera Pharma GmbH or Biofrontera Discovery GmbH.
+
+                     Thorough reading and use of both this user manual and the Ameluz® USPI is required prior to treatment.
+
+                     Our combination Ameluz®/BF-RhodoLED® for photodynamic therapy is only to be used by physicians or healthcare professionals.
+
+                  For further questions about Ameluz®, BF-RhodoLED®, or the combination therapy, please contact your sales representative or Biofrontera (Ameluz-US@biofrontera.com). See contact information below or visit us at http://www.biofrontera.us.com/
+
+                                 Sales representative:
+
+                              Name:
+
+                              Tel.:
+
+                              E-mail:
+
+                            |
+
+                                 Biofrontera Inc.
+
+                                 660 Main Street
+
+                                 1st Floor
+
+                                 Woburn, MA 01801
+
+                                 USA
+
+                                 Phone: (844) 426-3589
+
+                            |
+
+                     Warranty and Disclaimers
+
+Please see the terms and conditions of your contract for this information.
+
+                     Manufacturer
+
+Biofrontera Discovery GmbH, Hemmelrather Weg 201, 51377 Leverkusen, Germany
+
+                  "AMELUZ, RHODOLED and BF-RhodoLED are registered trademarks of Biofrontera Inc.
+
+©2026 Biofrontera Inc. All rights reserved.”
+
+                     1 Intended Use
+
+                  BF-RhodoLED® is a red light emitting LED lamp which is used exclusively in combination with Ameluz® gel for the treatment of:
+
+                     lesion-directed and field-directed treatment of actinic keratoses (AKs) of mild-to-moderate severity on the face and scalp.
+
+                     superficial basal cell carcinoma (sBCC).
+
+                     2 BF-RhodoLED® - General Description
+
+                  BF-RhodoLED® is comprised of three main components, the lamp head, the easily adjustable scissor arm, and the mobile frame with castors for smooth transport. In addition, the lamp has a convenient touchscreen monitor, storage shelf, aids for positioning the lamp head and a variable speed patient fan that can be regulated throughout the treatment.
+
+                     3 Warnings and Precautions
+
+                            |
+                           The BF-RhodoLED® has been developed for use in photodynamic therapy in combination with Ameluz® gel (excitation wavelength approx. 635 nm). Any other use or combination of use is prohibited. |
+
+                            |
+                           During PDT side-effects such as application site erythema, pain, irritation, edema, pruritus, exfoliation, scab, induration and vesicles may occur. For further information please see Ameluz® USPI section 6. |
+
+                            |
+                           The user manual must be read carefully prior to using the BF-RhodoLED®. |
+
+                            |
+                           The BF-RhodoLED® may only be used by healthcare professionals who have received adequate training in its use. |
+
+                            |
+                           To avoid eye irritation, glare, or injury, protective eye equipment must be used by patient, healthcare providers and any person present during the illumination period. |
+
+                            |
+                           Neither the BF-RhodoLED® nor the power supply unit should be exposed to excessive mechanical stress or serviced by unauthorized personnel. Assembly and servicing may only be carried out by Biofrontera qualified professionals. |
+
+                            |
+
+                                 Risk of trapping fingers! The mobility of the adjustable scissor arm may be obstructed by objects placed in or near slots
+                                 !
+
+                              Depending on positioning, the scissor arm slots below each connecting portion of the scissor arm and to the right of the support rail can cause fingers or objects to become trapped. When transporting or adjusting the lamp please ensure that fingers or other objects are NOT placed in or near the slots (see Figure 1).
+
+                            |
+
+                            |
+
+                              Beware of Tipping!
+
+If the castors are in locked position, the lamp will tip over if exposed to lateral force. Leaning against the device or using it for support is not permitted.
+
+Do not place the lamp on uneven or unstable surfaces.
+
+Do not place heavy objects on the storage shelf (maximum load up to 8 kg) or use for sitting, leaning or pushing, as this can lead to the device tipping over. |
+
+                            |
+                           In order to avoid the risk of electrical shock, the device may only be connected to a power supply with a grounded connection. |
+
+                            |
+                           Neither the BF-RhodoLED® nor its touchscreen monitor may come into contact with water as this may lead to severe damage or electrical shock (exception: cleaning with a damp cloth). |
+
+                            |
+
+                              The plexiglass plate on the lamp head may NOT be touched during or directly after treatment as, in the event of faulty operation, the maximum temperature can reach approx. 73 °C (163.4 °F).
+
+                            |
+
+                            |
+
+                              Do not position the lamp so that it is difficult to unplug the power plug of the medical device. The lamp can only be disconnected from the supply grid by pulling the power plug.
+
+                            |
+
+                            |
+                           The BF-RhodoLED® should be operated and housed indoors in areas with temperatures between 0°C and 40°C (32°F and 104°F), and relative humidity of 10 % to 90 %. |
+
+                            |
+                           Medical electronic devices require special precautionary measures with regard to the electro-magnetic compatibility (EMC); to avoid electro-magnetic disturbances, please do not place the device close to other electrical devices. |
+
+                            |
+                           There is a risk of tripping over the power cord or the lamp base. When transporting or when device is not in use, unplug and keep the power cord wound around the star knobs. |
+
+                            |
+                           Ensure that the touchscreen monitor is always returned to the fixture intended for this purpose, located on the storage shelf. Storing the touchscreen monitor by hanging it can lead to damage to the spiral cord and the plug fitting. |
+
+                            |
+                           The touchscreen monitor should not be exposed to strong external pressure or sharp objects. |
+
+                            |
+                           A person trained in operation of the BF-RhodoLED® must always be present during treatment. |
+
+                            |
+
+The device must be protected against unauthorized use. |
+
+                           Both the maintenance and the assembly of the BF-RhodoLED® and its components (including the opening of individual components) may only be carried out by authorized personnel. In the event of servicing or assembly being carried out by any other party, Biofrontera assumes no responsibility or liability regarding the safety or use of the device. |
+
+                     Figure 1
+                     : The scissor arm in parked position. Arrows indicate potential points where fingers can get trapped. (The appearance of devices from batches 001 to 003 slightly differs. Appearance and location of the labels remain unaltered).
+
+                     4 BF-RhodoLED® Technical Description
+
+                     4.1 Light Emitting Diodes (LEDs)
+
+                  The light-field of the BF-RhodoLED® consists of a total of 128 LEDs and lenses (arranged in a rectangle), which emit a uniform, bundled, visible red light with a typical peak wavelength of approximately 635 nm. The half-band width of the lamp is 20 nm.
+
+                     Figure 2: Typical emission spectrum of the LEDs of the BF-RhodoLED®. Insert: Fluorescence excitation spectrum of PPIX in cells 0, 3 and 6 mm below the tissue surface (Moan et al., 1996)
+
+                  The BF-RhodoLED® LEDs are calibrated so that the skin being treated receives a light dosage of approximately 37 J/cm2 under the following conditions:
+
+                     Illumination time of 10 minutes
+
+                     Treatment distance of 5-8 cm (Optimum 6 cm)
+
+                  The illumination area of the LED lamp is 8 x 18 cm. As the intensity decreases towards the edge of this area, the effective treatment area is reduced to 6 x 16 cm.
+
+                     4.2 Lamp Components
+
+                  The BF-RhodoLED® LED lamp consists of the following components (Figure 3):
+
+                     Lamp head with holding bracket
+
+                     Scissor arm
+
+                     Storage shelf with control unit (touchscreen monitor)
+
+                     Mobile frame and lamp base (include support rail, castors and power supply)
+
+                     Figure 3: BF-RhodoLED® main components. (The appearance of devices from batches 001 to 003 slightly differs.)
+
+                  The swivel range to the left and right of the vertical rail is +/- 24°. The lamp head can be adjusted horizontally and vertically and tilted sideways. The scissor arm with internal gas springs allows seamless adjustment of the lamp head to any position.
+
+                     5 Eye Protection
+
+                  In order to avoid eye irritation, glare or injury, protective eye equipment must be used by patient, healthcare providers and any person present during the illumination period. Do not stare into the light source! The operator and other persons present must wear protective glasses with a visible light transmission (VLT) of approximately 10%. The patient must wear eye protection such as disposable eye protection pads or eye caps with an optical density for visible light of 6 or higher. Both options are effective and comfortable for use during treatment.
+
+                        Note:
+                      Eyewear is not part of the medical device. Please carefully read any accompanying usage information before using any eye protection.
+
+                            |
+                           In order to avoid eye irritation, glare or injury, protective eye equipment must be used by patient, healthcare providers and any person present during the illumination period. |
+
+                     6 BF-RhodoLED® PDT Summarized Step-by-Step Instructions
+
+                  These instructions should be used in conjunction with detailed operating instructions below (chapter 7). The section titles and numbers listed next to the instruction refer to the detailed instructions and/or descriptions that correspond with each step.
+
+                        Note:
+                      Every user of the BF-RhodoLED® has to be trained in operating the device. The initial training is provided by Biofrontera during set-up of the BF-RhodoLED®. Recurrent training is not mandatory but can be provided by Biofrontera employees. Before treating a patient with Ameluz, please ensure that BF-RhodoLED® is in good working order.
+
+                           STEP 1) |
+                           Plug in lamp. |
+
+                           STEP 2) |
+                           Turn on the lamp and wait for home screen to appear (see chapter 7.3) |
+
+                           STEP 3) |
+                           Check the proper functioning of the BF-RhodoLED®. |
+
+                           STEP 4) |
+                           Treat the affected skin area: Application, incubation and removal of the topical medication following the USPI of Ameluz®. |
+
+                           STEP 5) |
+                           Position patient comfortably and place protective eyewear on patient (see chapter 5). |
+
+                           STEP 6) |
+                           Position the lamp and adjust the lamp head over the skin area to be treated (distance 5-8 cm) (see chapter 7.5.1). |
+
+                           STEP 7) |
+                           Put on protective eyewear and make sure anyone remaining in the treatment room also wears protective eyewear (see chapter 5). |
+
+                           STEP 8) |
+                           Start treatment by pressing "Treatment" on the home screen, press "Start" on the treatment screen, and press "Start" once again in the profile screen. The illumination period of 10 minutes begins (see chapter 7.5.3).
+
+Remind the patient to remain still throughout the illumination period.
+
+If sound tone during treatment is activated, explain the beep sequence to the patient.
+
+If the patient needs a break, press "Break" on the profile standard screen. To resume treatment, press "Start" on the profile standard screen (see chapter 7.5.3).
+
+To abort the illumination, press "Stop" on the profile standard screen.
+
+Adjust fan speed as needed by patient by pressing plus or minus 1% or 10% on the profile standard screen.
+
+Stay with the patient at all times during the illumination period. |
+
+                           STEP 9) |
+                           At the end of the illumination period, remove patient's protective eyewear and follow further instructions in the Ameluz® USPI. |
+
+                     7 Detailed Operating Instructions
+
+                        Note:
+                      Every user of the BF-RhodoLED® has to be trained in operating the device. The initial training is provided by Biofrontera during set-up of the BF-RhodoLED®. Recurrent training is not mandatory but can be provided by Biofrontera employees. The device must be protected against unauthorized use.
+
+                            |
+                           In order to avoid eye irritation, glare or injury, protective eye equipment must be used by patient, healthcare providers and any person present during the illumination period. |
+
+                     7.1 Transport of the lamp
+
+                  The transportation of the lamp shall be done when the scissor arm is completely folded. During transportation one hand shall hold on to the support rail or storage shelf while the other hand holds the scissor arm (Figure 4).
+
+                     Figure 4: Transport of the lamp. (The appearance of devices from batches 001 to 003 slightly differs.)
+
+                     7.2 Movement area of the scissor arm and the lamp head
+
+                  The scissor arm has a swivel range of +/- 24 degrees to the left and right. The swivel range is limited by a pin at the connection between scissor arm/ support rail and scissor arm/ lamp head (Figure 5).
+
+The lamp head can be adjusted horizontally and vertically and tilted sideways, as it has a swivel range of +/- 90 degrees in all three dimensions.
+
+                     Figure 5: Limiting pins of the scissor arm and the lamp head. (The appearance of devices from batches 001 to 003 slightly differs. Appearance and location of the labels remain unaltered.)
+
+                     7.3 Turning the Lamp On or Off
+
+                        Note: Before turning on the lamp, the power cord must be plugged in. After connecting, the lamp can be turned on and used following the instructions below.
+
+                  The on-off switch is located on the left side of the touchscreen monitor, close to its spiral cord. With the lamp plugged in, press the button to start the device.
+
+                        Important:
+                      This push button can also be used to turn the lamp off. Switching off the lamp can also be done by pressing the switch off  button on the touchscreen (see chapter 7.4.2 "Home Screen").
+
+                     Figure 6
+                     : Touchscreen monitor
+
+                        Note
+                        :
+                      The blue LED of the push button indicates that the device is in stand-by mode.
+
+                     7.4 Touchscreen Monitor and Menu
+
+                  When using the touchscreen, please firmly press the center of the buttons shown on the screen to ensure it is read correctly by the software. Do not press too quickly, the input may not be read by the software. The touchscreen can be used while wearing commercially available examination gloves.
+
+                     7.4.1 Start Screen
+
+                  The Biofrontera corporate logo and software version are displayed during the LED lamp operating system start-up (Figure 7). The operating system takes approximately 30 seconds to load.
+
+                     Figure 7
+                     : Start screen
+
+                     7.4.2 Home Screen
+
+                  The home screen appears after the operating system has loaded. From the home screen you can select "Treatment", "Settings" or "Service" (Figure 8). In the "Treatment" menu only one treatment profile "profile standard" is available. The illumination time and light intensity of this program are fixed (see 7.5.3 for further information). The "Settings" menu allows adjustment of language, time, date, audio signals and power saving settings (see 7.6 for further information). The "Service" menu may only be accessed by authorized personnel. You can turn the LED lamp off by pressing the  button.
+
+                     Figure 8
+                     : Home screen
+
+                     7.5 Conducting a Treatment
+
+                  Prior to treating a patient with Ameluz please ensure that BF-RhodoLED® is in good working order. Before starting a treatment, make sure the lamp is set-up in accordance with the operating instructions described in the following sections.
+
+                     7.5.1 Distance Indicator
+
+                  Position the lamp head over the skin area to be treated at a distance of 5-8 cm. Use the adjustable distance indicator and graduated scale bar to help measure and aid in achieving the correct distance (Figure 9).
+
+                     Figure 9
+                     : Positioning of the lamp head to the treated skin area
+
+                     7.5.2 Adjustment Light
+
+                  To further aid positioning, use the adjustment light. On the touchscreen, press the following buttons in sequence (starting in the home screen): "Treatment" (Figure 8), "Adjust" (Figure 10) and "Start Adjustment" (Figure 11). The adjustment light shows what the field of illumination will be during treatment but at a lower intensity (6x16 cm, approx. 2.4 x 6.3 inches). When finished, press "Stop adjustment" and then "Back" (Figure 11) to return to the treatment menu (Figure 10).
+
+                     Figure 10
+                     : Treatment menu
+
+                     Figure 11
+                     : Start and Stop adjustment
+
+                     7.5.3 Treatment Menu
+
+                  Press treatment to enter the treatment menu (Figure 8). The standard illumination profile is depicted in a graph in the treatment menu. The x- and y-axis specify the treatment duration and light intensity respectively (Figure 12).
+
+                     Figure 12
+                     : Treatment menu
+
+                  In the treatment menu (Figure 12), press the "Start" button to access the profile standard screen.
+
+                     7.5.4 Profile Standard Menu
+
+                  In the profile screen menu, press "Start" to begin treatment (Figure 13). You can interrupt the treatment at any time by pressing the "Break" button. Press the "Start" button to resume the treatment. Abort the current treatment by pressing the "Stop" button.
+
+If you press "Stop" prior to the end of the total treatment time, 10 minutes, the clock will reset and any interim treatment time will be not be saved.
+
+                  After pressing "Stop" or upon completion of the full 10 minute treatment the software will automatically return you to the treatment menu.
+
+                  The remaining treatment time is displayed to the right of the graph and the red vertical line within the graph indicates the time that has elapsed.
+
+                     Figure 13
+                     : Profile standard
+
+                     7.5.5 Audio Signals during Treatment
+
+                  During treatment the patient will hear audio signals, 1 beep indicating 25 %, 2 beeps indicating 50 % and 3 beeps indicating 75 % of the PDT is completed, and upon treatment completion the lamp will stop the illumination and 4 beeps will be heard (see also chapter 7.6.2).
+
+                     7.5.6 Patient fan
+
+                  You can control the speed of the patient fan both before and during treatment with the plus and minus buttons, in increments of 1 % or 10 %. The patient fan continues to run when the treatment is paused ("Break"). The fan can be stopped by pressing "Stop," but be aware the treatment will also be aborted and any elapsed treatment time will not be saved.
+
+                     7.6 Settings Menu
+
+                  The settings menu is invoked (Figure 14) by pressing the "Settings" button in the home screen view (see Figure 12).
+
+                     Figure 14: Settings menu
+
+                  You can configure the following parameters in this menu:
+
+                     Language
+
+                     Signals
+
+                     Energy service (Power management)
+
+                  Switch back to the home screen menu via the "Back" button.
+
+                     7.6.1 Language Settings
+
+                  Select a language by tapping on the desired language. Use the arrow keys to scroll through the list. Confirm the selected language with the "OK" button (Figure 15). Switch back to the settings menu without saving changes by pressing the "Back" button instead of "OK".
+
+                     Figure 15: Language setting
+
+                     7.6.2 Sound Settings
+
+                  Activate and deactivate the audio signals for typing, warnings and sounds during the treatment. To do this, select the desired fields. A check mark means the sound is on.
+
+Confirm with the "OK" button (Figure 16) to save your settings or close the menu via the "Back" button to discard the setting.
+
+If "Turn off sound" is activated, all signal tones are switched off.
+
+                     Important Note: Warning sounds will be emitted if an error occurs during operation of the lamp.
+
+                     Figure 16
+                     : Sound setting
+
+                     7.6.3 Energy Service (Power Management)
+
+                  Providing the standby function is not manually deactivated via the check box "Never turn off lamp automatically" located near the bottom of the screen, the lamp will turn off after 10 minutes of non-use (Figure 17). You can change this time span in the menu "Energy service" via the plus and minus buttons. The settings are confirmed with the "OK" button and rejected with the "Back" button. In both cases you will return to the settings menu.
+
+                     Figure 17: Energy management
+
+If the configured time expires, a request appears for 10 seconds asking if you wish to prevent shut down. The LED lamp turns off automatically afterwards.
+
+                     7.7 Service Menu
+
+                  Authorization is required to access the service menu. Only authorized personnel can access the service menu.
+
+                     8 Error Messages
+
+                  The BF-RhodoLED® has an integrated monitoring function. In the event of a malfunction, an error message will appear in the message display. Possible error messages are set out in the table below.
+
+                              Error message
+                            |
+
+                              Possible causes
+                            |
+
+                              Measures
+                            |
+
+                           Lamp overheated! |
+
+                                 The temperature of the surrounding environment is too high.
+
+                                 The ventilators or ventilator slots are blocked.
+
+                                 The air inlets or outlets are adversely affected.
+
+                            |
+                           Wait until the standard temperature has been reached.
+
+Check the ventilator and test the air inlets and outlets. Remove any visible foreign objects which may be present.
+
+In case of continuing impairment of cooling please contact your local sales representative or Biofrontera. |
+
+                           Lamp error!
+
+Please inform your supplier. |
+
+                                 Some of the LEDs have failed.
+
+                            |
+                           Further treatments may be carried out. However, please contact your local sales representative or Biofrontera immediately. |
+
+                           Communication error! |
+
+                                 Cable break in the touchscreen monitor spiral cord.
+
+                                 Poor contact between the touchscreen monitor connection plug and the conduit box.
+
+                            |
+                           Confirm the communication error. Treatments can be continued in the treatment menu by pressing the "Start" button.
+
+Please contact your local sales representative or Biofrontera. |
+
+                           Lamp not calibrated! |
+
+                                 The lamp is not calibrated.
+
+                                 Improper calibration.
+
+                            |
+                           The lamp has to be calibrated. Please contact your local sales representative or Biofrontera immediately. |
+
+                           Fehler-Nr.: 0084 Please inform your supplier. |
+
+                                 A temperature sensor has failed.
+
+                            |
+                           The lamp head has to be repaired. Please contact your local sales representative or Biofrontera. |
+
+                           Firmware of light head is faulty or missing!
+
+Please inform your supplier. |
+
+                                 An Update of the firmware has to be performed.
+
+                            |
+                           An update of the firmware has to be performed. Please contact your local sales representative or Biofrontera. |
+
+                  If your LED lamp no longer functions properly for some unknown reason, proceed as follows:
+
+                     Unplug the power supply for half a minute and then plug back into the outlet (This action prompts a software reboot).
+
+                     Turn the lamp back on using the touchscreen monitor and verify functionality.
+
+                  Should the problem persist, please contact your sales representative or Biofrontera. The lamp may not be used until the problem has been rectified.
+
+                  For all other malfunctions and difficulties with operation please contact your sales representative or Biofrontera. You will find the contact details on page 2.
+
+                     9 Servicing
+
+                     Servicing may only be performed by Biofrontera-authorized personnel. If servicing is done by third parties, BF-RhodoLED® warranty is void and Biofrontera cannot be held responsible for potential malfunctions or damages of the device. It is recommended to have the lamp serviced after two years.
+
+During service, the gas springs (gas pressure springs and gas traction springs) in the scissor arm as well as the general safety condition of the BF-RhodoLED® are checked.
+
+Contact your sales representative or Biofrontera to schedule all service appointments.
+
+                     10 Maintenance and Cleaning
+
+                  The device may under no circumstances be cleaned with aggressive cleaning agents or solvents (e.g. acetone or highly concentrated ethanol), as these promote wear and tear of the surface (paint coating), safety signs and graduated scale bar as well as the logo. Please avoid allowing any penetration of liquids into the lamp; BF-RhodoLED® is not waterproof and the electronics inside may be damaged.
+
+                  Always unplug the lamp prior to cleaning and please observe the following cleaning practices:
+
+                              Daily:
+                            |
+                           Wipe the plexiglass screen located on the bottom of the lamp head with a damp soft cloth (e. g. a microfiber cloth). |
+
+                              Weekly:
+                            |
+
+                              Wipe the entire lamp. Do not use a very wet or dripping cleaning cloth. The unit is not waterproof, and damage could occur. Weekly cleaning can be carried out using a damp cloth. If disinfection of the device is desired, a mild disinfecting agent can be used. Most commercially available products, which are suitable for plastics, should be compatible with BF-RhodoLED®. A known exception is the agent "Incidin PlusTM" (active ingredient: Glucoprotamine) which can cause corrosion of the lamp head surfaces.
+
+Before using a disinfection agent, always refer to its manual to check for compatibility with plastic surfaces, especially with Plexiglas.
+
+Note: If you notice any deterioration of a surface of BF-RhodoLED after using a disinfectant, please stop further use and contact Biofrontera.
+
+                            |
+
+                              Please observe the following checks:
+                            |
+
+                              Monthly:
+                            |
+                           Check lamp for obvious visible damage such as damaged cables, worn off labeling, cracks on the lamp housing, etc. Do not use a damaged device for treatment and please inform your supplier. |
+
+                     11 Disposal Instructions
+
+                  Follow all local and governmental disposal laws and regulations when disposing of the BF-RhodoLED®.
+
+                     12 Technical Data
+
+                     12.1 Electrical connectors
+
+                     Power supply unit:
+
+                     Primary wide-range input 100-240 VAC
+
+                     Secondary safety extra-low voltage output 48 VDC
+
+                     Secondary standby voltage output 5 VDC
+
+                     Mother board for voltage management and control:
+
+                     Supply voltage input 48 VDC
+
+                     Standby voltage input 5 VDC plus Standby contact
+
+                     RS485 interface
+
+                     Output supply voltage HMI board 24 VDC
+
+                     4 x ports LED board 8-pin (2 x LED circuits, temperature (3-pin))
+
+                     4 x connector ventilator (2-pin)
+
+                     LED board:
+
+                     2 x ports mother board 8-pin (2 x LED circuits, temperature (3-pin))
+
+                     Human Machine Interface (HMI) for operation:
+
+                     Supply voltage input 24 VDC
+
+                     RS485 interface
+
+                     12.2 Specification
+
+                           Type |
+
+                              BF-RhodoLED®
+
+                              Medical device class III; Device of protection class 1
+
+                            |
+
+                           Certification |
+                           UL certified |
+
+                           Manual is valid for Software Version No. |
+
+                              1.6_US_CAN or lower
+
+                              (for your current software version, see start screen 7.4.1)
+
+                            |
+
+                           Service life of the lamp |
+                           Approx. 4 years |
+
+                           Shelf life |
+                           1.5 years |
+
+                           Number of LEDs |
+                           128 |
+
+                           Typical peak wavelength |
+                           635 nm ± 5 nm |
+
+                           Light dose (6 cm distance, 10 min) |
+                           Approx. 37 J/ cm2
+                            |
+
+                           Typical irradiance |
+                           61 mW/cm2 +/- 15 % |
+
+                           Max irradiance |
+                           77 mW/cm2 +/- 15 % (at 5 cm treatment distance) |
+
+                           Illuminated area |
+                           An area of 8x18 (approx. 3.1 x 7.1 inches) cm is illuminated. The effective treatment area is 6x16 cm (approx. 2.4 x 6.3 inches). |
+
+                           Max. deviation of the intensity over the treatment area |
+                           Approx. 15 % |
+
+                           Transport and storage conditions |
+
+                              Temperature: -30°C to +60°C (-22°F to +140°F)
+
+                              Atmospheric pressure: 500 hPa - 1060 hPa
+
+Relative humidity: 10% - 90%, non-condensing
+
+                            |
+
+                           Operating conditions |
+
+                              Temperature: 0°C to +40°C (32°F to +104°F)
+
+                              Atmospheric pressure: 700 hPa - 1060 hPa
+
+Operational altitude: ≤ 2000 m above NN
+
+Relative humidity: 10% - 90%, non-condensing
+
+This PDT lamp is suitable for continuous operation.
+
+                            |
+
+                           Operating voltage |
+                           120-240 VAC, 50/60 Hz |
+
+                           Output voltage |
+                           48 VDC |
+
+                           Power consumption |
+
+                              In calibrated normal operation: approx. 140 VA
+
+                              In standby mode: approx. 85 VA
+
+                            |
+
+                           Over-voltage category |
+                           II |
+
+                           Degree of contamination |
+                           2 |
+
+                           Material group (CTI) |
+                           IIIb |
+
+                           Protection class |
+                           IP20 |
+
+                           Size of the lamp |
+                           95 x 62 x 168 cm (37 x 24 x 66 inches)
+
+Devices of batch 001 to 003: 127 x 56 x 168 cm (50 x 22 x 66 inches) |
+
+                           Total lamp weight |
+                           Approx. 52 kg (115 lbs)
+
+Devices of batch 001 to 003: approx. 48 kg (106 lbs) |
+
+                  For further information please directly contact Biofrontera.
+
+                     13 Labeling and Symbols
+
+                     13.1 Labeling on the Lamp
+
+                  The product sticker is located on the reverse side of the lamp base (see Figure 18). It contains manufacturer and product specifications (classification, serial and order number and the power supply used) as well as IP (Ingress) protection. It also includes a Unique Device Identifier (UDI) DataMatrix containing device identification (01), serial number (21), and manufacturing date (11).
+
+                     Figure 18: Product labels — the serial number, manufacturing date, and UDI DataMatrix are variable.
+
+                  Labels with safety instructions, special disposal instructions and further instructions are represented in the following figures.
+
+                     Figure 19: Instructions and notes on the lamp head
+
+                     Figure 20: Instructions on the storage shelf. (The appearance of devices from batches 001 to 003 slightly differs. Appearance and location of the labels remain unaltered.)
+
+                     Figure 21: Instructions on the scissors arm. (The appearance of devices from batches 001 to 003 slightly differs. Appearance and location of the labels remain unaltered.)
+
+                  Instructions for existing ground connector connections (see Figure 22) are located:
+
+                     Next to the grounding screws, which are located within and next to the power supply cover box beneath the mobile castor, respectively
+
+                     On the power supply cover box (see Figure 23)
+
+                     Figure 22: Instructions for ground connector connection
+
+                     Figure 23: BF-RhodoLED®. (The appearance of devices from batches 001 to 003 slightly differs. Appearance and location of the labels remain unaltered.)
+
+                  Instructions on the existing potential compensator conductor is located on the carrier bar beneath the potential compensator conductor (see Figure 24).
+
+                     Figure 24: Potential compensator conductor. (The appearance of devices from batches 001 to 003 slightly differs. Appearance and location of the labels remain unaltered.)
+
+                  All depicted symbols are summarized in a table in section 13.2 "Explanation of symbols".
+
+                     13.2 Description of Symbols
+
+                              Symbol
+                            |
+
+                              Description
+                            |
+
+                            |
+                           Eye protection is required. |
+
+                           IP20 |
+                           IP (Ingress Protection):
+
+Protection class of the housing against contact, foreign bodies and water
+
+2 = against ingress of solid foreign bodies ≥ 12.5 mm Ø and larger
+
+0 = Not protected against water |
+
+                            |
+                           Technical and electric devices must not be disposed of with household waste. Please pay attention to the applicable disposal instructions found in the user manual. |
+
+                            |
+                           Symbol for existing ground connector connections |
+
+                            |
+                           Follow the instructions for use! |
+
+                            |
+
+                              General warning signs:
+
+                                 Assembly and servicing may ONLY be performed by Biofrontera!
+
+                                 Only transport lamp in the park position!
+
+                                 The mobility of the extension and scissors arm may be obstructed by objects!
+
+                                 Caution: heavy, do NOT lift alone.
+
+                                 NEVER place this unit on an unstable, uneven surface!
+
+                            |
+
+                            |
+                           Warning sign - risk of trapping fingers! |
+
+                            |
+                           Symbol for existing potential compensation conductor
+
+                                 Function/Application:
+
+The purpose of a potential compensation conductor is to connect all conducting, metallic parts of a system to each other by the protective earthing in order to achieve the same electrical potential for the connected parts. Protection against contact voltage is thus guaranteed. Releasing the potential compensation conductor is forbidden. It should be firmly fitted to the support splint.
+
+Please observe the requirements for ME-systems set out in EN 60601-1 when using the potential compensation cable (chapter 16). |
+
+                            |
+                           Please do not stand on or push. There is a risk that the device may fall over due to the force applied. |
+
+                            |
+                           Please do not sit on the equipment. There is a risk that the device may fall over due to the force applied. |
+
+                     13.3 Labeling on the Packaging
+
+                     Attention: Protect from moisture and keep dry!
+
+                     Attention: Do not throw the package, damage possible!
+
+                     Attention: Please transport and store at -30°C/ -22°F to +60°C/ 140°F, a relative humidity of 10 % to 90 % and at an atmospheric pressure of 500 hPa (50 kPa) - 1060 hPa (106 kPa).
+
+                     This side up!
+
+                     Caution, one end of the package is heavy
+
+                     Contains a lithium metal battery (optionally, not required starting from batch 007)
+
+                     14 Electromagnetic compatibility (EMC)
+
+                  BF-RhodoLED® meets the EMC requirements of the international standard EN60601-1-2:2015 Chapter 7 and 8. Other electrical devices can have an impact on the device. Using accessories that have not been approved can have a negative impact on the device and change the electromagnetic compatibility.
+
+BF-RhodoLED® should not be used directly alongside or between other electrical devices.
+
+                           Guidelines and manufacturer's declaration - electromagnetic emissions |
+
+                              BF-RhodoLED® is intended for operation in the electromagnetic environment detailed below.
+
+                              The customer or operator of the device should ensure that it is operated in this environment.
+
+                            |
+
+                              Emission readings
+                            |
+
+                               Conformity
+                            |
+
+                               Electromagnetic environment - guidelines
+                            |
+
+                           HF emissions CISPR   11 |
+                           Group 1 |
+
+                              BF-RhodoLED® only uses HF energy for its internal functionality.
+
+                              For this reason, its HF emission is very low and it is not likely that neighbouring electronic  devices would   be   disturbed.
+
+                            |
+
+                              HF emissions in accordance with  CISPR 11
+
+                              Harmonics in accordance with IEC  61000-3-2
+
+                              Voltage fluctuations/flickers in  accordance with IEC 61000 3-3
+
+                            |
+
+                              Class B
+
+                              Class A
+
+                              In  compliance
+
+                            |
+                           BF-RhodoLED® is intended for operation in non-residential facilities and similar environments that are connected directly to a public low-voltage supply network that also supplies residential  buildings. |
+
+                           Guidelines and manufacturer's declaration - electromagnetic immunity |
+
+                              BF-RhodoLED® is intended for operation in the electromagnetic environment detailed below.
+
+                              The customer or operator of the device should ensure that it is operated in this environment.
+
+                            |
+
+                              Immunity tests
+                            |
+
+                               IEC 60601 test levels
+                            |
+
+                               Compliance level
+                            |
+
+                              Electromagnetic environment - guidelines 
+                            |
+
+                           Static discharge in accordance  with IEC 61000-4-2 |
+                           ±8 kV contact discharge ±2 kV,  ±4 kV, ±8 kV and ±15 kV air  discharge |
+                           ±8 kV contact discharge ±2 kV,  ±4 kV, ±8 kV and ±15 kV air  discharge |
+                           Floors should be made of wood or concrete or finished with ceramic tiles. If the floor is finished with synthetic material, the relative air humidity must be at least 30 %. |
+
+                           Fast, transient electrical  disturbances/bursts in  accordance with IEC 61000-4-4 |
+                           ±2 kV for mains lines ±1 kV for input and output lines |
+                           ±2 kV for mains lines |
+                           The quality of the supply voltage should correspond to that of a typical commercial or hospital environment. |
+
+                           Surges in accordance with IEC  61000-4-5 |
+                           ±1 kV voltage outer conductor - outer conductor ±2 kV outer conductor - earth |
+                           ±1 kV voltage outer conductor - outer conductor ±2 kV outer conductor - earth |
+                           The quality of the supply voltage should correspond to that of a typical commercial or hospital environment. |
+
+                           Voltage drops, brief  interruptions and fluctuations in  the supply voltage in accordance  with IEC 61000-4-11 |
+                           0 % UT for 0.5 cycles at phase angles of 0°, 45°, 90°, 135°, 180°, 225°, 270° and 315° (applicable only to me equipment connected to single-phase a.c. mains)
+
+0 % UT for 1 cycle
+
+70 % UT for 25/30 cycles
+
+0 % UT for 250/300 cycles |
+                           0 % UT for 0.5 cycles at phase angles of 0°, 45°, 90°, 135°, 180°, 225°, 270° and 315° (applicable only to me equipment connected to single-phase a.c. mains)
+
+0 % UT for 1 cycle
+
+70 % UT for 25/30 cycles
+
+0 % UT for 250/300 cycles |
+                           The quality of the supply voltage should correspond to that of a typical commercial or hospital environment.
+
+If the operator of the device needs functionality to be maintained despite interruptions in the energy supply, it is advisable to run the device on an uninterruptable power supply or a battery. |
+
+                           Power frequency (50/60 Hz) magnetic field in accordance with IEC 61000-4-8 |
+                           3 A/m |
+                           3 A/m |
+
+                              Mains frequency magnetic fields should correspond to the values typically found in the commercial and hospital
+
+                              environment.
+
+                            |
+
+                              Comment: UT is the mains AC voltage prior to application of the test level
+
+                            |
+
+                           Guidelines and manufacturer's declaration - electromagnetic immunity |
+
+                           BF-RhodoLED® is intended for operation in the electromagnetic environment detailed below. The customer or operator of the device should ensure that it is operated in this environment. |
+
+                              Immunity tests
+                            |
+
+                              IEC 60601 test levels
+                            |
+
+                              Compliance level
+                            |
+
+                              Electromagnetic environment - guidelines 
+                            |
+
+                              Conducted HF disturbances in accordance with IEC 61000-4-6
+
+                              Radiated HF disturbances in accordance with IEC 61000-4-3
+
+                            |
+
+                              3 V
+
+150 kHz to 80 MHz
+
+                              6 V
+
+ISM bands 0.15 - 80 MHz
+
+80 % AM with 1 kHz
+
+                              3 V/m 80 MHz to 2.7 GHz
+
+80 % AM with 1 kHz
+
+                            |
+
+                              3 V
+
+                              6 V
+
+                              3 V/m
+
+                            |
+
+                              Portable and mobile communication devices should not be used in closer proximity to the unit or its cables than the recommended safety distance of 300 mm.
+
+                              Interference may occur in the vicinity of equipment marked with the following symbol.
+
+                            |
+
+                           Comment 1: These guidelines may not be applicable in all cases. The propagation of electromagnetic values is influenced by absorptions and reflections of buildings, objects, and people. |
+
+                              Recommended safety distances between portable and mobile HF telecommunication devices and the BF-RhodoLED®
+
+                            |
+
+                              The BF-RhodoLED® is intended for use in the electromagnetic environment in which the HF disturbances are controlled.
+
+The customer or operator of the device can help to avoid electromagnetic interference by maintaining the minimum safe distance between portable and mobile high-frequency telecommunication devices (transmitters) and the device. Portable RF communications equipment (radios, including their accessories such as antenna cables and external antennas) should not be used at a distance less than 30 cm (or 12 inches) from the manufacturer's specified parts and leads of the BF-RhodoLED®. Failure to do so may result in a reduction in the performance of the device.
+
+                              BF-RhodoLED® should not be used directly alongside or between other electrical equipment.
+
+                            |
+
+                           Guidelines and manufacturer's declaration - proximity fields from RF wireless communication equipment |
+
+                              BF-RhodoLED® is intended for operation in the electromagnetic environment detailed below.
+
+                              The customer or operator of the device should ensure that it is operated in this environment.
+
+                            |
+
+                              Service   
+                            |
+
+                              Frequency range/ discrete frequencies MHz
+                            |
+
+                              Compliance level
+
+                              [V/m] 
+                            |
+
+                           TETRA 400 |
+                           390 |
+                           27 |
+
+                           GMRS 460, FRS 460 |
+                           430 |
+                           28 |
+
+                           LTE Band 13, 17 |
+                           734
+
+746
+
+788 |
+                           9 |
+
+                           GSM 800/900, TETRA 800,
+
+iDEN 820, CDMA,
+
+LTE Band 5 |
+                           821
+
+862
+
+948 |
+                           28 |
+
+                           GSM 1800, CDMA 1900,
+
+GSM 1900,DECT,
+
+LTE Band 1,3,4, 25 |
+                           1730
+
+1825
+
+1970 |
+                           28 |
+
+                           Bluetooth, WLAN, 802.11 b/g/n, RFID 2450, LTE Band 7 |
+                           2452 |
+                           28 |
+
+                           WLAN 802.11
+
+a/n |
+                           5240
+
+5500
+
+5700 |
+                           9 |
+
+                     Version 2.0

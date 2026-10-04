@@ -1,0 +1,9 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Information for Patients
+
+Advise patients that neurological adverse reactions could occur with Ceftriaxone for Injection use. Instruct patients or their caregivers to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including somnolence, lethargy, and confusion), seizures, myoclonus, and nonconvulsive status epilepticus, for immediate treatment, or discontinuation of Ceftriaxone for Injection (see WARNINGS AND PRECAUTIONS).
+
+                            Patients should be counseled that antibacterial drugs including ceftriaxone should only be used to treat bacterial infections. They do not treat viral infections (e.g., common cold).
+
+                           When ceftriaxone is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ceftriaxone or other antibacterial drugs in the future.
+
+                           Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued. Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic. If this occurs, patients should contact their physician as soon as possible.

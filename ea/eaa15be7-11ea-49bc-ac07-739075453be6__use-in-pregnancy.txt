@@ -1,0 +1,3 @@
+DailyMed eaa15be7-11ea-49bc-ac07-739075453be6 | lidocaine | Use in Pregnancy
+
+Teratogenic Effects. Pregnancy Category B. Reproduction studies have been performed in rats at doses up to 6.6 times the human dose and have revealed no evidence of harm to the fetus caused by lidocaine. There are, however, no adequate and well-controlled studies in pregnant women. Animal reproduction studies are not always predictive of human response. General consideration should be given to this fact before administering lidocaine to women of childbearing potential, especially during early pregnancy when maximum organogenesis takes place.

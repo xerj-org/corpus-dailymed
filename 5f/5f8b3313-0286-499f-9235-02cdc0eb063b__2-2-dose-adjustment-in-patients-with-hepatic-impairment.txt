@@ -1,0 +1,6 @@
+DailyMed 5f8b3313-0286-499f-9235-02cdc0eb063b | Bupropion Hydrochloride SR | 2.2 Dose Adjustment in Patients with Hepatic Impairment
+
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of bupropion hydrochloride extended-release tablets (SR) is 100 mg/day or 150 mg every other day. In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing
+  [see Use in Specific Populations (
+   8.7), Clinical Pharmacology (
+   12.3)].

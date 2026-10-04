@@ -1,0 +1,31 @@
+DailyMed e9f4b344-b092-4eec-b49d-d8cfe8ebc05d | pentobarbital sodium | WARNINGS
+
+Habit forming: Barbiturates may be habit forming. Tolerance, psychological and physical dependence may occur with continued use. (See "
+                           DRUG ABUSE AND DEPENDENCE
+                        " and "
+                           Pharmacokinetics
+                        " sections.) Patients who have psychological dependence on barbiturates may increase the dosage or decrease the dosage interval without consulting a physician and may subsequently develop a physical dependence on barbiturates. To minimize the possibility of overdosage or the development of dependence, the prescribing and dispensing of sedative-hypnotic barbiturates should be limited to the amount required for the interval until the next appointment. Abrupt cessation after prolonged use in the dependent person may result in withdrawal symptoms, including delirium, convulsions, and possibly death. Barbiturates should be withdrawn gradually from any patient known to be taking excessive dosage over long periods of time. (See "
+                           DRUG ABUSE AND DEPENDENCE
+                        " section.)
+
+                         IV administration: Too rapid administration may cause respiratory depression, apnea, laryngospasm, or vasodilation with fall in blood pressure.
+
+                         Acute or chronic pain: Caution should be exercised when barbiturates are administered to patients with acute or chronic pain, because paradoxical excitement could be induced or important symptoms could be masked. However, the use of barbiturates as sedatives in the postoperative surgical period and as adjuncts to cancer chemotherapy is well established.
+
+                            Use in pregnancy: Barbiturates can cause fetal damage when administered to a pregnant woman. Retrospective, case-controlled studies have suggested a connection between the maternal consumption of barbiturates and a higher than expected incidence of fetal abnormalities. Following oral or parenteral administration, barbiturates readily cross the placental barrier and are distributed throughout fetal tissues with highest concentrations found in the placenta, fetal liver, and brain. Fetal blood levels approach maternal blood levels following parenteral administration. Withdrawal symptoms occur in infants born to mothers who receive barbiturates throughout the last trimester of pregnancy. (See "
+                              DRUG ABUSE AND DEPENDENCE
+                           " section.) If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+
+                         Synergistic effects: The concomitant use of alcohol or other CNS depressants may produce additive CNS depressant effects.
+
+                           Pediatric neurotoxicity: Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours. The clinical significance of these findings is not clear. However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see "
+                              PRECAUTIONS-Pregnancy
+                            and
+                              Pediatric Use
+                           " and "
+                              ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY
+                           ").
+
+                        Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects. These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
+
+                        Anesthetic and sedation drugs are a necessary part of the care of children and pregnant women needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other. Decisions regarding the timing of any elective procedures requiring anesthesia should take into consideration the benefits of the procedure weighed against the potential risks.

@@ -1,0 +1,5 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 8.5 Geriatric Use
+
+Omeprazole was administered to over 2,000 elderly individuals (≥ 65 years of age) in clinical trials in the U.S. and Europe. There were no differences in safety and effectiveness between the elderly and younger subjects. Other reported clinical experience has not identified differences in response between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
+
+                        Pharmacokinetic studies with buffered omeprazole have shown the elimination rate was somewhat decreased in the elderly and bioavailability was increased. The plasma clearance of omeprazole was 250 mL/min (about half that of young subjects). The plasma half-life averaged one hour, about twice that in nonelderly, healthy subjects taking omeprazole and sodium bicarbonate. However, no dosage adjustment is necessary in the elderly [see Clinical Pharmacology (12.3)].

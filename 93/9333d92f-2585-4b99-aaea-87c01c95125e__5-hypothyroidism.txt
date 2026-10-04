@@ -1,0 +1,3 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | 5. Hypothyroidism
+
+Estrogen administration leads to increased thyroid-binding globulin (TBG) levels. Patients with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range. Patients dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy. These patients should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.

@@ -1,0 +1,7 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 12.1 Mechanism of Action
+
+Capivasertib is an inhibitor of all 3 isoforms of serine/threonine kinase AKT (AKT1, AKT2 and AKT3) and inhibits phosphorylation of downstream AKT substrates. AKT activation in tumors is a result of activation of upstream signaling pathways, mutations in AKT1, loss of phosphatase and tensin homolog (PTEN) function and mutations in the catalytic subunit alpha of phosphatidylinositol 3-kinase (PIK3CA).
+
+                           In vitro, capivasertib reduced growth of breast cancer cell lines including those with relevant PIK3CA or AKT1 mutations or PTEN alteration. In vivo, capivasertib alone and in combination with fulvestrant inhibited tumor growth of mouse xenograft models including estrogen receptor positive breast cancer models with alterations in PIK3CA, AKT1, and PTEN.
+
+                           In vitro, capivasertib reduced growth of AR-positive PTEN deficient prostate cancer cell lines. In vivo, capivasertib inhibited tumor growth in mouse xenograft models bearing PTEN-deficient prostate cancer cells and demonstrated increased antitumor activity when used in combination with abiraterone.

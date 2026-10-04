@@ -1,0 +1,9 @@
+DailyMed 798fee33-51ad-45d0-82f3-09289304139f | OLMESARTAN MEDOXOMIL AND HYDROCHLOROTHIAZIDE | 4 CONTRAINDICATIONS
+
+Olmesartan medoxomil and hydrochlorothiazide tablets are contraindicated:
+
+                     In patients with hypersensitivity to any component of olmesartan medoxomil and hydrochlorothiazide tablets [see Adverse Reactions (6.1, 6.2)]
+
+                     In patients with anuria [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)]
+
+                     For co-administration with aliskiren in patients with diabetes [see Drug Interactions (7.4)].

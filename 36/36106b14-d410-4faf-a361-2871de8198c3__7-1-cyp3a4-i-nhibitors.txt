@@ -1,0 +1,51 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 7.1 CYP3A4 I nhibitors
+
+Co-administration of UBRELVY with ketoconazole, a strong CYP3A4 inhibitor, resulted in a significant increase in exposure of ubrogepant 
+
+  [see
+                           Clinical Pharmacology
+
+                           (
+
+                              12.3
+
+                           )
+                           ]. UBRELVY should not be used with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin) 
+
+  [see
+                           Contraindication
+                           s
+
+                           (
+
+                              4
+
+                           )].  
+
+                        Co-administration of UBRELVY with verapamil, a moderate CYP3A4 inhibitor, resulted in an increase in ubrogepant exposure
+
+                           [see
+                           Clinical Pharmacology
+
+                           (
+
+                              12.3
+
+                           )
+                           ]. Dose adjustment is recommended with concomitant use of UBRELVY and moderate CYP3A4 inhibitors (e.g., cyclosporine, ciprofloxacin, fluconazole, fluvoxamine, grapefruit juice)
+
+  [see
+                           Dosage and Administration
+                           (
+
+                              2.2
+
+                           )].
+
+                        No dedicated drug interaction study was conducted with ubrogepant and weak CYP3A4 inhibitors. Dose adjustment is recommended with concomitant use of UBRELVY with weak CYP3A4 inhibitors
+
+  [see Dosage and Administration (
+
+                              2.2
+
+                           )].

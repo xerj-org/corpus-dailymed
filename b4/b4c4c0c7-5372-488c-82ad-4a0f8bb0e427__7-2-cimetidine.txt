@@ -1,0 +1,3 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 7.2 Cimetidine
+
+Doxepin exposure is doubled with concomitant administration of cimetidine, a nonspecific inhibitor of CYP isozymes. A maximum dose of 3 mg is recommended in adults and elderly when cimetidine is co-administered with doxepin [see Clinical Pharmacology (12.3)]

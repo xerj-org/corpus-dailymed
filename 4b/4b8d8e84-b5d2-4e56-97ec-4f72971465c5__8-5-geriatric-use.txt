@@ -1,0 +1,3 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 8.5 Geriatric Use
+
+Clinical trials of QNASL Nasal Aerosol did not include sufficient numbers of subjects aged 65 years and older to determine whether they responded differently than younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, administration to elderly patients should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

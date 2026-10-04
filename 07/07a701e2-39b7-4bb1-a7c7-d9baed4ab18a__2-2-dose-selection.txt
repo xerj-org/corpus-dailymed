@@ -1,0 +1,35 @@
+DailyMed 07a701e2-39b7-4bb1-a7c7-d9baed4ab18a | Guanfacine Extended-Release | 2.2 Dose Selection
+
+Take guanfacine extended-release tablets orally once daily, either in the morning or evening, at approximately the same time each day. Begin at a dose of 1 mg/day, and adjust in increments of no more than 1 mg/week.
+
+                        In monotherapy clinical trials, there was dose- and exposure-related clinical improvement as well as risks for several clinically significant adverse reactions (hypotension, bradycardia, sedative events). To balance the exposure-related potential benefits and risks, the recommended target dose range depending on clinical response and tolerability for guanfacine extended-release tablets is 0.05 to 0.12 mg/kg/day (total daily dose between 1 to 7 mg)  (See Table 1 ).
+
+                            Table 1: Recommended Target Dose Range for Therapy with Guanfacine Extended-Release Tablets
+
+                                 Doses above 4 mg/day have not been evaluated in children (ages 6 to 12 years) and doses above 7 mg/day have not been evaluated in adolescents (ages 13 to 17 years) |
+
+                                    Weight
+                                  |
+
+                                    Target dose range (0.05 to 0.12 mg/kg/day)
+                                  |
+
+                                 25 to 33.9 kg |
+                                 2 to 3 mg/day |
+
+                                 34 to 41.4 kg |
+                                 2 to 4 mg/day |
+
+                                 41.5 to 49.4 kg |
+                                 3 to 5 mg/day |
+
+                                 49.5 to 58.4 kg |
+                                 3 to 6 mg/day |
+
+                                 58.5 to 91 kg |
+                                 4 to 7 mg/day |
+
+                                 >91 kg |
+                                 5 to 7 mg/day |
+
+                        In the adjunctive trial which evaluated guanfacine extended-release tablets treatment with psychostimulants, the majority of patients reached optimal doses in the 0.05 to 0.12 mg/kg/day range. Doses above 4 mg/day have not been studied in adjunctive trials.

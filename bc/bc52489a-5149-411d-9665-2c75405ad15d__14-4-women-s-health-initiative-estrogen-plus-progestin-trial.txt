@@ -1,0 +1,189 @@
+DailyMed bc52489a-5149-411d-9665-2c75405ad15d | Bijuva | 14.4 Women's Health Initiative Estrogen Plus Progestin Trial
+
+The WHI estrogen plus progestin trial enrolled predominantly healthy postmenopausal women to assess the risks and benefits of daily oral CE (0.625 mg) in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases. The primary endpoint was the incidence of CHD (defined as nonfatal MI, silent MI and CHD death), with invasive breast cancer as the primary adverse outcome. A "global index" included the earliest occurrence of CHD, invasive breast cancer, stroke, PE, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. This trial did not evaluate the effects of CE plus MPA on menopausal symptoms.
+
+                        The WHI estrogen plus progestin trial was stopped early. After an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer crossed the predefined stopping threshold. The global index was supportive of a finding of overall harm.  The absolute excess risk of events included in the global index was 19 per 10,000 women-years.
+
+                        Results of the trial, which enrolled 16,608 women (average 63 years of age, range 50 to 79; 83.9% White, 6.8% Black, 5.4% Hispanic, 3.9% Other) are presented in Table 6. These results reflect centrally adjudicated data after an average follow-up of 5.6 years.6,7
+
+                           Table 6:	Relative Risk and Risk Difference Observed in the WHI Estrogen Plus Progestin Trial at an Average of 5.6 Years Adapted from 2013 WHI substudy (CE/MPA n=8,506, placebo n=8,102). WHI publications can be viewed at www.nhlbi.nih.gov/whi.
+
+                              ,
+                              Results are based on centrally adjudicated data
+
+                                 Event |
+                                 Relative Ratio (95% CI) In the WHI studies, hazard ratios were estimated using Cox proportional hazards models comparing treatment to placebo; however, they are described here as relative risks. Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.
+
+                                  |
+                                 Risk Difference (CEMPA vs placebo/10,000 WYs) |
+
+                                 CHD events |
+                                 1.18 (0.95-1.45) |
+                                 6 (41 vs 35) |
+
+                                    Non-fatal MI
+                                  |
+
+                                    1.24 (0.98-1.56)
+                                  |
+
+                                    6 (35 vs 29)
+                                  |
+
+                                    CHD death
+                                  |
+
+                                    1.05 (0.76-1.45)
+                                  |
+
+                                    1 (16 vs 15)
+                                  |
+
+                                 All Strokes |
+                                 1.37 (1.07-1.76) |
+                                 9 (33 vs 24) |
+
+                                 Deep vein thrombosisNot included in "global index."
+
+                                  |
+                                 1.87 (1.37-2.54) |
+                                 12 (25 vs 14) |
+
+                                 Pulmonary embolism |
+                                 1.98 (1.36-2.87) |
+                                 9 (18 vs 9) |
+
+                                 Invasive breast cancerIncludes metastatic and non-metastatic breast cancer with the exception of in situ cancer.
+
+                                  |
+                                 1.24 (1.01-1.53) |
+                                 9 (43 vs 35) |
+
+                                 Colorectal cancer |
+                                 0.62 (0.43-0.89) |
+                                 -6 (10 vs 17) |
+
+                                 Endometrial cancer
+                                  |
+                                 0.83 (0.49-1.40) |
+                                 -1 (6 vs 7) |
+
+                                 Hip fracture |
+                                 0.67 (0.47-0.95) |
+                                 -6 (11 vs 17) |
+
+                                 Vertebral fracture
+                                  |
+                                 0.68 (0.48-0.96) |
+                                 -6 (12 vs 17) |
+
+                                 Total factures
+                                  |
+                                 0.76 (0.69-0.83) |
+                                 -51 (161 vs 212) |
+
+                                 Overall mortality
+                                    ,
+                                    All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.
+
+                                  |
+                                 0.97 (0.81-1.16) |
+                                 -1 (52 vs 53) |
+
+                                 Global IndexA subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, PE, colorectal cancer, hip fracture, or death due to other causes.
+
+                                  |
+                                 1.12 (1.02-1.24) |
+                                 20 (189 vs 168) |
+
+                        Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile. The results of the WHI estrogen plus progestin trial in women 50-59 years of age (N=2,837 for CE/MPA; N=2,683 for placebo) are shown in Table 7.
+
+                           Table 7:	Relative Risk and Risk Difference Observed Among Women 50-59 Years of Age in the WHI Estrogen Plus Progestin Trial at an Average of 5.8 YearsAdapted from 2013 WHI trial (CE/MPA n=2,837; placebo=2,683). WHI publications can be viewed at www.nhlbi.nih.gov/whi.
+
+                              ,
+                              Results are based on centrally adjudicated data.
+
+                                 Event |
+                                 Relative Ratio (95% CI) In the WHI studies, hazard ratios were estimated using Cox proportional hazards models comparing treatment to placebo; however, they are described here as relative risks. Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.
+
+                                  |
+                                 Risk Difference (CEMPA vs placebo/10,000 WYs) |
+
+                                 CHD events |
+                                 1.34 (0.82-2.19) |
+                                 5 (23 vs 17) |
+
+                                    Non-fatal MI
+                                  |
+
+                                    1.32 (0.77-2.25)
+                                  |
+
+                                    4 (19 vs 15)
+                                  |
+
+                                    CHD death
+                                  |
+
+                                    0.77 (0.33-1.79)
+                                  |
+
+                                    -2 (6 vs 8)
+                                  |
+
+                                 All Strokes |
+                                 1.51 (0.81-2.82) |
+                                 5 (15 vs 10) |
+
+                                 Deep vein thrombosisNot included in "global index."
+
+                                  |
+                                 3.01 (1.36-6.66) |
+                                 10 (15 vs 5) |
+
+                                 Pulmonary embolism |
+                                 2.05 (0.89-4.71) |
+                                 6 (11 vs 5) |
+
+                                 Invasive breast cancerIncludes metastatic and non-metastatic breast cancer with the exception of in situ cancer.
+
+                                  |
+                                 1.21 (0.81-1.80) |
+                                 6 (33 vs 27) |
+
+                                 Colorectal cancer |
+                                 0.79 (0.29-2.18) |
+                                 -1 (4 vs 5) |
+
+                                 Endometrial cancer
+                                  |
+                                 1.07 (0.33-3.53) |
+                                 0 (4 vs 3) |
+
+                                 Hip fracture |
+                                 0.17 (0.22-1.45) |
+                                 -3 (1 vs 3) |
+
+                                 Vertebral fracture
+                                  |
+                                 0.38 (0.15-0.97) |
+                                 -6 (4 vs 10) |
+
+                                 Total factures
+                                  |
+                                 0.82 (0.68-1.00) |
+                                 -25 (120 vs 145) |
+
+                                 Overall mortality
+                                    ,
+                                    All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.
+
+                                  |
+                                 0.67 (0.43-1.04) |
+                                 -10 (21 vs 31) |
+
+                                 Global IndexA subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, PE, colorectal cancer, hip fracture, or death due to other causes.
+
+                                  |
+                                 1.12 (0.89-1.40) |
+                                 12 (103 vs 91) |

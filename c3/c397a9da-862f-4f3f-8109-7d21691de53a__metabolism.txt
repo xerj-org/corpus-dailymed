@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Metabolism
+
+Diazepam is N-demethylated by CYP3A4 and 2C19 to the active metabolite N-desmethyldiazepam, and is hydroxylated by CYP3A4 to the active metabolite temazepam. N-desmethyldiazepam and temazepam are both further metabolized to oxazepam. Temazepam and oxazepam are largely eliminated by glucuronidation.

@@ -1,0 +1,35 @@
+DailyMed 57c515c8-f4af-b876-e063-6394a90af0cc | IMPAVIDO | 14 CLINICAL STUDIES
+
+14.1 Treatment of Visceral Leishmaniasis
+
+One randomized, open-label, active-controlled study was conducted to evaluate the efficacy of IMPAVIDO in the treatment of visceral leishmaniasis in Bihar, India, an area where
+  L. donovani is known epidemiologically to be the prevalent infecting species. Patients 12 years of age and older with clinical signs and symptoms compatible with visceral leishmaniasis (fever, splenomegaly, and cytopenia) confirmed by the presence of
+  Leishmania amastigotes in aspirates of spleen or bone marrow were randomized to receive oral IMPAVIDO or intravenous amphotericin B deoxycholate in a 3:1 ratio. Patients weighing greater than or equal to 25 kg received an IMPAVIDO 50 mg capsule with meals twice a day. Patients weighing less than 25 kg received an IMPAVIDO 50 mg capsule with meals once a day in the morning. Weight ranged between 15 and 67 kg (mean weight 38.6 kg) and BMI ranged between 8.2 and 24 (mean 16.1). No patient weighed more than 70kg. Amphotericin B was administered intravenously over 6 continuous hours at 1 mg/kg every other day for 15 doses. Patients were hospitalized for the duration of therapy.
+
+Exclusion criteria included platelet count <50 × 109/L, white cell count <1 × 109/L, hemoglobin <6 g/100 mL, AST or ALT ≥3 times upper limit of the normal range, bilirubin ≥2 times upper limit of the normal range, serum creatinine or BUN >1.5 times upper limit of the normal range, prothrombin time >5 seconds above control, and any non-compensated or uncontrolled condition including human immunodeficiency virus (HIV) infection. Women of reproductive potential were required to use effective contraception for the duration of therapy and for 2 months post therapy.
+
+Final cure was defined as initial cure at end of therapy plus absence of signs and symptoms of visceral leishmaniasis at 6 months follow up. Initial cure at the end of therapy was evaluated by repeat spleen or bone marrow aspiration. Patients with initial parasitologic cure were followed for 6 months; patients without absence of clinical signs and symptoms of visceral leishmaniasis were to be evaluated with repeat spleen or bone marrow aspiration to determine final cure.
+
+                  Two hundred and ninety nine (299) patients received IMPAVIDO and 99 patients received amphotericin B. Approximately, 70% of patients in each arm had previously failed treatment with pentavalent antimony. Initial cure was achieved in 98% of patients in each treatment arm. At 6 months after therapy, 88 (29.5%) IMPAVIDO recipients and 12 (12.1%) amphotericin B recipients continued to have signs and symptoms suggestive of visceral leishmaniasis. These signs or symptoms were attributed to alternative diagnosis in 73 patients. The remaining 27 patients, all in the IMPAVIDO arm, underwent evaluation with splenic or bone marrow aspiration, and 9 (3.0%) were positive for
+  Leishmania amastigotes, indicating relapse. The final cure rates for IMPAVIDO and amphotericin B were 94% and 97%, respectively.
+
+                     14.2 Treatment of Cutaneous Leishmaniasis
+
+A placebo controlled study was performed in Colombia where
+   L. panamensis and
+  L. braziliensis are epidemiologically known to be the prevalent infecting
+  Leishmania species, and in Guatemala where
+  L. braziliensis is epidemiologically known to be the prevalent infecting species. The study included male and female patients older than 12 years of age who had newly diagnosed or relapsing cutaneous leishmaniasis without mucosal involvement, parasitologically confirmed, presenting with at least one skin ulcer with minimum area of 50 mm2. Exclusion criteria were AST or ALT ≥2 times upper limit of normal range, bilirubin ≥1.5 times upper limit of normal range, and serum creatinine or BUN >1.5 times upper limit of normal range. Women of reproductive potential were required to use effective contraception for the duration of therapy and for 2 months post therapy.
+
+Patients were randomized to receive IMPAVIDO or placebo in a 2:1 allocation. Patients who weighed less 45 kg received IMPAVIDO 50 mg capsule twice a day, and patients who weighed greater or equal to 45 kg received IMPAVIDO 50 mg capsule three times a day. No patient weighed more than 84 kg. Definite cure was defined as apparent (complete epithelialization of all lesions) or partial cure (incomplete epithelialization, no enlargement by > 50% in lesions, no appearance of new lesions, and negative parasitology if done) at 2 weeks after end of therapy and complete epithelialization of all ulcers at 6 months after end of therapy. The definite cure rate for IMPAVIDO was statistically significantly higher than the cure rate for placebo.
+
+                  An additional study of IMPAVIDO was conducted in Bahia and Manaus, two regions in Brazil where respectively
+  L. braziliensis and
+  L. guyanensis are epidemiologically the prevalent infecting pathogens. Adolescent/adult patients aged 12-65 years received IMPAVIDO orally for 28 days. IMPAVIDO target dose was 2.5 mg/kg/day: patients weighing 15-29 kg received 50 mg once daily, patients weighing 30-45 kg received 50 twice mg daily and patients weighing greater than 46 kg received 50 mg three times daily. The efficacy criteria were initial cure (complete re-epithelialization of the ulcer at 2 months after the end of therapy) followed by definite cure (complete re-epithelialization at 6 months after the end of therapy). Definite cure rate in patients aged 12 years and older was 27/40 (67.5%) for Manaus, Brazil and 34/40 (85%) for Bahia, Brazil.
+
+                     14.3 Treatment of Mucosal Leishmaniasis
+
+A single arm study was conducted to evaluate the efficacy of IMPAVIDO capsules for the treatment of mucosal leishmaniasis. The study was conducted in Bolivia where
+  L. braziliensis is epidemiologically the prevalent species.
+
+Seventy-nine (79) patients greater than or equal to 18 years of age with a cutaneous leishmaniasis scar plus parasites observed or cultured from lesion material or a positive skin test, and no clinically significant concomitant disease received miltefosine at a target dose of 2.5 mg/kg/day for 28 days. By 12 months after the end of therapy, 49 of the patients (62%) had complete resolution of edema, erythema, infiltration and erosion from the involved mucosal sites.

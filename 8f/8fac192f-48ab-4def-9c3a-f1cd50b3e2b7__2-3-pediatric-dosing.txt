@@ -1,0 +1,9 @@
+DailyMed 8fac192f-48ab-4def-9c3a-f1cd50b3e2b7 | POTASSIUM CHLORIDE | 2.3 Pediatric Dosing
+
+Treatment of hypokalemia
+
+                        Pediatric patients aged birth to 16 years old: The initial dose is 2 to 4 mEq/kg/day in divided doses; do not exceed as a single dose 1 mEq/kg or 40 mEq, whichever is lower; maximum daily doses should not exceed 100 mEq. If deficits are severe or ongoing losses are great, consider intravenous therapy.
+
+                           Maintenance or Prophylaxis
+
+                        Pediatric patients aged birth to 16 years old: Typical dose is 1 mEq/kg/day. Do not exceed 3 mEq/kg/day.

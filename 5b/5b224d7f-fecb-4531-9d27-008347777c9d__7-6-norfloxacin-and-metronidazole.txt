@@ -1,0 +1,3 @@
+DailyMed 5b224d7f-fecb-4531-9d27-008347777c9d | MYCOPHENOLIC ACID | 7.6 Norfloxacin and Metronidazole
+
+MPA plasma concentrations may be decreased when MMF is administrated with norfloxacin and metronidazole. Therefore, mycophenolic acid delayed-release tablets are not recommended to be given with the combination of norfloxacin and metronidazole. Although there will be no effect on MPA plasma concentrations when mycophenolic acid delayed-release tablets are concomitantly administered with norfloxacin or metronidazole when given separately [see Clinical Pharmacology (12.3)].

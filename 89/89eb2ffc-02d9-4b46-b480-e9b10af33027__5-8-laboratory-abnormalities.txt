@@ -1,0 +1,43 @@
+DailyMed 89eb2ffc-02d9-4b46-b480-e9b10af33027 | TOFACITINIB CITRATE | 5.8 Laboratory Abnormalities
+
+Laboratory abnormalities may occur with tofacitinib tablets.
+
+                           Lymphocyte Abnormalities
+
+                        Treatment with tofacitinib tablets was associated with initial lymphocytosis at one month of tofacitinib tablets treatment followed by a gradual decrease in mean absolute lymphocyte counts below the baseline of approximately 10% during 12 months of therapy. Lymphocyte counts less than 500 cells/mm3 in these patients were associated with an increased incidence of treated and serious infections.
+
+                           Monitor lymphocyte counts at      baseline and every 3 months thereafter.
+
+                           Avoid initiation of      tofacitinib tablets treatment in patients with a low lymphocyte count      (i.e., less than 500 cells/mm3). In patients who develop a      confirmed absolute lymphocyte count less than 500 cells/mm3,      treatment with tofacitinib tablets is not      recommended.
+
+                           Neutropenia
+
+                        Treatment with tofacitinib tablets was associated with an increased incidence of neutropenia (less than 2000 cells/mm3) compared to treatment with placebo.
+
+                           Monitor neutrophil counts at      baseline and after 4-8 weeks of treatment and every 3 months thereafter.
+
+                           Avoid initiation of      tofacitinib tablets treatment in patients with a low neutrophil count      (i.e., ANC less than 1000 cells/mm3). For patients who develop      a persistent ANC of 500 to 1000 cells/mm3, interrupt dosing until ANC is greater than or equal to 1000 cells/mm3.      In patients who develop an ANC less than 500 cells/mm3,      treatment with tofacitinib tablets is not recommended.
+
+                           Anemia
+
+                           Monitor hemoglobin at      baseline and after 4-8 weeks of treatment and every 3 months thereafter.
+
+                           Avoid initiation of      tofacitinib tablets treatment in patients with a low hemoglobin level      (i.e., less than 9 g/dL). Interrupt treatment with tofacitinib tablets in patients who develop hemoglobin      levels less than 8 g/dL or whose hemoglobin level drops greater than 2      g/dL on treatment until hemoglobin values have normalized.
+
+                           Liver Enzyme Elevations
+
+                        Treatment with tofacitinib tablets was associated with an increased incidence of liver enzyme elevation compared to treatment with placebo. Most of these abnormalities occurred in studies with background DMARD therapy (primarily methotrexate).
+
+                           Routine monitoring of liver      tests and prompt investigation of the causes of liver enzyme elevations is      recommended to identify potential cases of drug-induced liver injury.
+
+                           If drug-induced liver injury      is suspected, interrupt the administration of tofacitinib tablets until      this diagnosis has been excluded.
+
+                           Lipid Elevations
+
+                        Treatment with tofacitinib tablets was associated with dose-dependent increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and
+
+                        high-density lipoprotein (HDL) cholesterol. Maximum changes in these lipid parameters were generally observed within 6 weeks. There were no clinically relevant changes in LDL/HDL cholesterol ratios. The effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined.
+
+                           Perform assessment of lipid      parameters approximately 4-8 weeks following initiation of tofacitinib tablets therapy.
+
+                           Manage patients according to      clinical guidelines [e.g., National Cholesterol Educational Program      (NCEP)] for the management of hyperlipidemia.

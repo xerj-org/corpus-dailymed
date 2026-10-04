@@ -1,0 +1,117 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 14.4 Healing of Duodenal Ulcers in Adults
+
+In a U.S., randomized, double-blind, multicenter study assessing the effectiveness of 20 mg and 40 mg of rabeprazole sodium delayed-release tablets once daily versus placebo for healing endoscopically defined duodenal ulcers, 100 patients were treated for up to four weeks. Rabeprazole sodium delayed-release tablets was significantly superior to placebo in producing healing of duodenal ulcers. The percentages of patients with endoscopic healing are presented below: 
+
+                           Table 11: Healing of Duodenal Ulcers Percentage of Patients Healed 
+
+                                 Week
+
+                                  |
+                                 Rabeprazole sodium delayed-release tablets
+
+                                  |
+                                 Placebo
+
+  N=33
+
+                                  |
+
+                                 20 mg once daily
+
+  N=34
+
+                                  |
+                                 40 mg once daily
+
+  N=33
+
+                                  |
+
+                                 2
+
+                                  |
+                                 44%
+
+                                  |
+                                 42%
+
+                                  |
+                                 21%
+
+                                  |
+
+                                 4
+
+                                  |
+                                 79%*
+
+                                  |
+                                 91%*
+
+                                  |
+                                 39%
+
+                                  |
+
+                             * p≤0.001 versus placebo 
+
+                        At Weeks 2 and 4, significantly more patients in the rabeprazole sodium delayed-release tablets 20 and 40 mg groups reported complete resolution of ulcer pain frequency (p≤0.018), daytime pain severity (p≤0.023), and nighttime pain severity (p≤0.035) compared with placebo patients. The only exception was the 40 mg group versus placebo at Week 2 for duodenal ulcer pain frequency (p=0.094). Significant differences in resolution of daytime and nighttime pain were noted in both rabeprazole sodium delayed-release tablets groups relative to placebo by the end of the first week of the study. Significant reductions in daily antacid use were also noted in both rabeprazole sodium delayed-release tablets groups compared to placebo at Weeks 2 and 4 (p<0.001).
+
+                        An international randomized, double-blind, active-controlled trial was conducted in 205 patients comparing 20 mg rabeprazole sodium delayed-release tablets once daily with
+
+  20 mg omeprazole once daily. The study was designed to provide at least 80% power to exclude a difference of at least 10% between rabeprazole sodium delayed-release tablets and omeprazole, assuming four-week healing response rates of 93% for both groups. In patients with endoscopically defined duodenal ulcers treated for up to four weeks, rabeprazole sodium delayed-release tablets was comparable to omeprazole in producing healing of duodenal ulcers. The percentages of patients with endoscopic healing at two and four weeks are presented below:
+
+                           Table 12: Healing of Duodenal Ulcers Percentage of Patients Healed 
+
+                                 Week
+
+                                  |
+                                 Rabeprazole sodium delayed-release tablets 20 mg once daily
+
+  N=102
+
+                                  |
+                                 Omeprazole
+
+  20 mg once daily
+
+  N=103
+
+                                  |
+                                 95% Confidence Interval for the Treatment Difference
+
+  (Rabeprazole sodium delayed-release tablets - Omeprazole)
+
+                                  |
+
+                                 2
+
+                                  |
+                                 69%
+
+                                  |
+                                 61%
+
+                                  |
+                                 (–6%, 22%)
+
+                                  |
+
+                                 4
+
+                                  |
+                                 98%
+
+                                  |
+                                 93%
+
+                                  |
+                                 (–3%, 15%)
+
+                                  |
+
+                        Rabeprazole sodium delayed-release tablets and omeprazole were comparable in providing complete resolution of symptoms.
+
+                            
+
+                        The recommended dosage of rabeprazole sodium delayed-release tablets is 20 mg once daily for 4 weeks.

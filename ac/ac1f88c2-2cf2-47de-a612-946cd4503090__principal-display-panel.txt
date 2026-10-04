@@ -1,0 +1,65 @@
+DailyMed ac1f88c2-2cf2-47de-a612-946cd4503090 | Lorazepam | PRINCIPAL DISPLAY PANEL
+
+DRUG: Lorazepam
+
+                  GENERIC: Lorazepam
+
+                  DOSAGE: TABLET
+
+                  ADMINSTRATION: ORAL
+
+                  NDC: 70518-3806-0
+
+                  NDC: 70518-3806-1
+
+                  NDC: 70518-3806-2
+
+                  NDC: 70518-3806-3
+
+                  NDC: 70518-3806-4
+
+                  NDC: 70518-3806-5
+
+                  NDC: 70518-3806-6
+
+                  NDC: 70518-3806-7
+
+                  COLOR: white
+
+                  SHAPE: ROUND
+
+                  SCORE: No score
+
+                  SIZE: 6 mm
+
+                  IMPRINT: TV;0;5;5R
+
+                  PACKAGING: 30 in 1 BLISTER PACK
+
+                  OUTER PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  OUTER PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  PACKAGING: 100 in 1 BOTTLE PLASTIC
+
+                  OUTER PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  ACTIVE INGREDIENT(S):
+
+                     LORAZEPAM 0.5mg in 1
+
+                  INACTIVE INGREDIENT(S):
+
+                     LACTOSE MONOHYDRATE
+
+                     MAGNESIUM STEARATE
+
+                     CELLULOSE, MICROCRYSTALLINE
+
+                     POLACRILIN POTASSIUM

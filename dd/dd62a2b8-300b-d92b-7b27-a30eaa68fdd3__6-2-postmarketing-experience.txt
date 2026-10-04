@@ -1,0 +1,11 @@
+DailyMed dd62a2b8-300b-d92b-7b27-a30eaa68fdd3 | Tofacitinib | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of tofacitinib extended-release tablets. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Immune system disorders: Drug hypersensitivity (events such as angioedema and urticaria have been observed)
+
+                           Infections and infestations: Progressive multifocal leukoencephalopathy
+
+                           Metabolism and nutrition disorders: Hypoglycemia
+
+                           Skin and subcutaneous tissue disorders: Acne

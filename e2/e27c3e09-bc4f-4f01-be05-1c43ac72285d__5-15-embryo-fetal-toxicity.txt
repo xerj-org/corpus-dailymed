@@ -1,0 +1,19 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 5.15 Embryo-Fetal Toxicity
+
+Based on findings from animal studies and its mechanism of action, Nilotinib Capsules can cause fetal harm when administered to a pregnant woman. In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes, including embryo-fetal lethality/fetal effects (small renal papilla, fetal edema, and skeletal variations) in rats and increased resorptions of fetuses and fetal skeletal variations in rabbits at maternal area under the curve (AUCs) approximately 2 and 0.5 times, respectively, the AUC in patients receiving the recommended dose. 
+
+                         
+
+                        Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment and for 14 days after the last dose [see Use in Specific Populations (
+
+                              8.1
+
+                           ,
+
+                              8.3
+
+                           ), Clinical Pharmacology (
+
+                              12.1
+
+                           )].

@@ -1,0 +1,11 @@
+DailyMed c8d012c4-f411-4484-a618-7597599ea621 | Azithromycin monohydrate | 5.1 Hypersensitivity
+
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Acute Generalized Exanthematous Pustulosis (AGEP), Stevens-Johnson Syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy. 
+
+  [see
+
+   Contraindications (4.1)]
+
+                           Fatalities have been reported. Cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)  have also been reported. Despite initially successful symptomatic treatment of the allergic symptoms, when symptomatic therapy was discontinued, the allergic symptoms recurred soon thereafter in some patients without further azithromycin exposure. These patients required prolonged periods of observation and symptomatic treatment. The relationship of these episodes to the long tissue half-life of azithromycin and subsequent prolonged exposure to antigen is unknown at present.
+
+                        If an allergic reaction occurs, the drug should be discontinued and appropriate therapy should be instituted. Physicians should be aware that the allergic symptoms may reappear after symptomatic therapy has been discontinued.

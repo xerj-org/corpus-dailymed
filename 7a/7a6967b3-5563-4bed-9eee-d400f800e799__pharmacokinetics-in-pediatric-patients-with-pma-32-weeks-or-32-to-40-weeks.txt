@@ -1,0 +1,67 @@
+DailyMed 7a6967b3-5563-4bed-9eee-d400f800e799 | Clindamycin | Pharmacokinetics in Pediatric Patients with PMA ≤32 weeks, or >32 to ≤40 weeks
+
+Systemic clearance (CL) in premature infants increases with increases in body weight (kg) and post-menstrual age (PMA). The dosing regimens for pediatric patients ≤32 weeks PMA (5 mg/kg) and >32 to ≤40 weeks PMA (7 mg/kg), both administered intravenously every 8 hours, achieve exposures comparable to therapeutic exposures in adults (weighing 70 kg) administered clindamycin 600 mg every 8 hours (Table 1).
+
+                                 Table 1: Predicted Drug Exposure (Mean ± SD) of Clindamycin in Adults and in Pediatric Patients with PMA ≤32 weeks, or >32 to ≤40 weeks
+
+                                          Age
+                                        |
+
+                                          Adult (70 kg)
+                                        |
+
+                                          PMA ≤32 weeks
+                                        |
+
+                                          PMA>32 - ≤40 weeks
+                                        |
+
+                                          Dose (every 8 hours)
+                                        |
+                                       600 mg
+ |
+                                       5 mg/kg
+ |
+                                       7 mg/kg
+ |
+
+                                          AUC
+
+                                             ss,0-8 hour
+
+                                          (mcg•h/mL)
+                                        |
+                                       50.5 (30.95)
+ |
+                                       52.5 (17)
+ |
+                                       55.9 (23.55)
+ |
+
+                                          C
+
+                                             max,ss
+
+                                          (mcg/mL)
+                                        |
+                                       12 (3.49)
+ |
+                                       9 (2.02)
+ |
+                                       10.5 (2.79)
+ |
+
+                                          C
+
+                                             min,ss
+
+                                          (mcg/mL)
+                                        |
+                                       3.1 (3.34)
+ |
+                                       4.6 (2)
+ |
+                                       4.4 (2.77)
+ |
+
+                              PMA: post-menstrual age; AUCss,0-8 hour: area under the concentration-time curve during a dosing interval at steady state; Cmax,ss: maximum drug concentration at steady state; Cmin,ss: minimum or trough drug concentration at steady state.

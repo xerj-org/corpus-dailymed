@@ -1,0 +1,284 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                           Chronic Graft-Versus-Host Disease
+
+                        The safety of NIKTIMVO was evaluated in 79 adult and pediatric patients with cGVHD treated with NIKTIMVO 0.3 mg/kg intravenously every 2 weeks in the AGAVE‑201 trial [see Clinical Studies (
+
+                              14
+
+                           )]. The median duration of treatment was 10.3 months (range: 0.5 to 28.6 months), and 73.4% were treated for more than 6 months.
+
+                        Serious adverse reactions occurred in 44% of patients who received NIKTIMVO. Serious adverse reactions in more than 2 patients included infection (pathogen unspecified), viral infection, and respiratory failure. Permanent discontinuation of NIKTIMVO due to an adverse reaction occurred in 10% of patients and dose reduction due to adverse reaction occurred in 8% of patients. Dose interruptions due to an adverse reaction occurred in 44% of patients. The adverse reactions leading to dose interruption in more than 2 patients were viral infection, infection (pathogen unspecified), bacterial infection, musculoskeletal pain, and pyrexia.
+
+                        The most common (≥ 15%) adverse reactions, including laboratory abnormalities, were increased AST, infection (pathogen unspecified), increased ALT, decreased phosphate, decreased hemoglobin, viral infection, increased gamma glutamyl transferase (GGT), musculoskeletal pain, increased lipase, fatigue, increased amylase, increased calcium, increased CPK, increased ALP, nausea, headache, diarrhea, cough, bacterial infection, pyrexia, and dyspnea.
+
+                        Table 2 summarizes the nonlaboratory adverse reactions in AGAVE-201.
+
+                           Table 2: Adverse Reactions in ≥ 10% of Patients With cGVHD Who Received NIKTIMVO in AGAVE-201
+
+                                 Graded according to NCI CTCAE v5.0. |
+
+                                    Adverse Reaction
+
+                                  |
+
+                                    NIKTIMVO
+
+            0.3 mg/kg intravenously every 2 weeks
+
+            (N = 79) 
+                                  |
+
+                                    All Grades (%) 
+                                  |
+
+                                    Grades 3-4 (%) 
+                                  |
+
+                                    Infections and infestations
+
+                                  |
+
+                                 Infection (pathogen unspecified)Includes abscess jaw, atypical pneumonia, bacteremia, bronchitis, conjunctivitis, cystitis, device-related infection, enterocolitis infectious, gastroenteritis, gastrointestinal infection, groin abscess, hordeolum, liver abscess, nasopharyngitis, otitis media, otitis media acute, pneumonia, respiratory tract infection, rhinitis, sepsis, sinusitis, tooth infection, upper respiratory tract infection, urinary tract infection, and wound infection.
+
+                                  |
+                                 57 |
+                                 14 |
+
+                                 Viral infectionIncludes adenoviral upper respiratory infection, BK virus infection, COVID-19, coronavirus infection, enterovirus infection, gastroenteritis astroviral, gastroenteritis viral, herpes simplex, herpes zoster, influenza, metapneumovirus bronchiolitis, metapneumovirus infection, norovirus infection, oral viral infection, parainfluenza viral bronchitis, parainfluenza virus infection, respiratory syncytial virus infection, rhinovirus infection, viral infection, and viral upper respiratory tract infection.
+
+                                  |
+                                 43 |
+                                 15 |
+
+                                 Bacterial infectionIncludes bacterial diarrhea, bacterial vaginosis, campylobacter gastroenteritis, campylobacter infection, cellulitis, clostridium difficile colitis, clostridium difficile infection, enterococcal infection, erysipelas, hemophilus infection, lower respiratory tract infection bacterial, pseudomonal skin infection, staphylococcal bacteremia, staphylococcal infection, stenotrophomonas infection, streptococcal infection, and urinary tract infection enterococcal.
+
+                                  |
+                                 15 |
+                                 8 |
+
+                                    Musculoskeletal and connective tissue disorders
+
+                                  |
+
+                                 Musculoskeletal painIncludes arthralgia, back pain, flank pain, musculoskeletal pain, myalgia, pain in extremity.
+
+                                  |
+                                 35 |
+                                 3 |
+
+                                    General disorders and administration site conditions
+
+                                  |
+
+                                 FatigueIncludes asthenia, fatigue, and malaise.
+
+                                  |
+                                 32 |
+                                 4 |
+
+                                 Pyrexia
+
+                                  |
+                                 15 |
+                                 1 |
+
+                                 EdemaIncludes localized edema and peripheral edema.
+
+                                  |
+                                 13 |
+                                 1 |
+
+                                    Gastrointestinal disorders
+                                  |
+
+                                 NauseaIncludes nausea and vomiting.
+
+                                  |
+                                 23 |
+                                 3 |
+
+                                 DiarrheaIncludes colitis and diarrhea.
+
+  |
+                                 18 |
+                                 5 |
+
+                                    Nervous system disorders
+
+                                  |
+
+                                 HeadacheIncludes headache and migraine.
+
+                                  |
+                                 20 |
+                                 1 |
+
+                                 DizzinessIncludes dizziness and dizziness postural.
+
+                                  |
+                                 11 |
+                                 0 |
+
+                                    Respiratory, thoracic and mediastinal disorders
+                                  |
+
+                                 CoughIncludes cough and productive cough.
+
+                                  |
+                                 18 |
+                                 0 |
+
+                                 DyspneaIncludes dyspnea and dyspnea exertional.
+
+  |
+                                 15 |
+                                 3 |
+
+                                    Immune system disorders
+
+                                  |
+
+                                 Drug hypersensitivityIncludes bronchospasm, flushing, hot flush, hypersensitivity, infusion-related hypersensitivity reaction, infusion-related reaction, and urticaria.
+
+                                  |
+                                 13 |
+                                 3 |
+
+                                    Metabolism and nutrition disorders
+
+                                  |
+
+                                 Decreased appetite
+
+                                  |
+                                 11 |
+                                 4 |
+
+                                    Vascular disorders
+
+                                  |
+
+                                 HemorrhageIncludes contusion, epistaxis, hematochezia, hematoma, and vaginal hemorrhage.
+
+  |
+                                 11 |
+                                 1 |
+
+                                    Skin and subcutaneous tissue disorders
+
+                                  |
+
+                                 RashIncludes dermatitis bullous, dermatitis exfoliative generalized, rash, and rash maculo-papular.
+
+                                  |
+                                 10 |
+                                 0 |
+
+                        Clinically relevant adverse reactions in < 10% of patients who received NIKTIMVO included:
+
+                              Eye disorders: periorbital edema
+
+                              Skin and subcutaneous skin disorders: pruritus
+
+                              Vascular disorders: hypertension
+
+                        Table 3 summarizes the laboratory abnormalities in AGAVE-201.
+
+                           Table 3: Selected Laboratory Abnormalities in Patients with cGVHD Who Received NIKTIMVO in AGAVE-201
+
+                                 NA = not applicable. |
+
+                                    Laboratory Abnormality
+                                  |
+
+                                    NIKTIMVO
+
+            0.3 mg/kg intravenously every 2 weeks
+
+            (N=79)
+                                  |
+
+                                    All GradesThe denominator used to calculate the rate varied from 78 to 79 based on the number of patients with at least 1 post-treatment value.
+
+            (%)
+
+                                  |
+
+                                    Grade 3 or 4
+
+            (%)
+                                  |
+
+                                    Hematology
+                                  |
+
+                                 Decreased hemoglobin 
+
+                                  |
+                                 48 |
+                                 4 |
+
+                                    Chemistry
+                                  |
+
+                                 Increased aspartate aminotransferase
+
+                                  |
+                                 61 |
+                                 5 |
+
+                                 Increased alanine aminotransferase
+
+                                  |
+                                 51 |
+                                 3 |
+
+                                 Decreased phosphate
+
+                                  |
+                                 51 |
+                                 NA |
+
+                                 Increased gamma glutamyl transferase
+
+                                  |
+                                 39 |
+                                 4 |
+
+                                 Increased lipase
+
+                                  |
+                                 34 |
+                                 3 |
+
+                                 Increased amylase
+
+                                  |
+                                 32 |
+                                 0 |
+
+                                 Increased calcium
+
+                                  |
+                                 31 |
+                                 1 |
+
+                                 Increased alkaline phosphatase
+
+                                  |
+                                 28 |
+                                 0 |
+
+                                 Increased creatine phosphokinase
+
+                                  |
+                                 25 |
+                                 0 |
+
+                            
+                           Immunogenicity: Anti-Drug Antibody–Associated Adverse Reactions
+
+                            In 276 patients with cGVHD who received NIKTIMVO in clinical trials, among the patients who developed anti-drug antibodies (ADAs), hypersensitivity reactions occurred in 26% (13/50) of patients with neutralizing antibodies (NAb) and in 4% (2/45) of those without NAb [see Clinical Pharmacology (12.6)].

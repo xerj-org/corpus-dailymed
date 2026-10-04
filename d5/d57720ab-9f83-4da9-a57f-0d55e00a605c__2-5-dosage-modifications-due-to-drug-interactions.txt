@@ -1,0 +1,27 @@
+DailyMed d57720ab-9f83-4da9-a57f-0d55e00a605c | ATORVASTATIN CALCIUM | 2.5 Dosage Modifications Due to Drug Interactions
+
+Concomitant use of atorvastatin with the following drugs requires dosage modification of atorvastatin
+
+  [see Warnings and Precautions (
+
+   5.1) and Drug Interactions (
+
+   7.1)]
+
+  .
+
+                           Anti-Viral Medications
+
+                           In patients taking saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir or letermovir, do not exceed atorvastatin calcium 20 mg once daily.
+
+                           In patients taking nelfinavir, do not exceed atorvastatin calcium 40 mg once daily.
+
+                           Select Azole Antifungals or Macrolide Antibiotics
+
+                           In patients taking clarithromycin or itraconazole, do not exceed atorvastatin calcium 20 mg once daily.
+
+                        For additional recommendations regarding concomitant use of atorvastatin calcium with other anti-viral medications, azole antifungals or macrolide antibiotics,
+
+  see Drug Interactions (
+
+   7.1).

@@ -1,0 +1,3 @@
+DailyMed 3a79b2ab-4131-4978-99a0-0119df57d5fe | Lisdexamfetamine Dimesylate | 8.5 Geriatric Use
+
+Clinical studies of lisdexamfetamine dimesylate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience and pharmacokinetic data [see Clinical Pharmacology (12.3)] have not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

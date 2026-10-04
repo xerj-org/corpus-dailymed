@@ -1,0 +1,5 @@
+DailyMed af47bf67-1f07-4650-8064-24c38afc4656 | ZUNVEYL | 12.1 Mechanism of Action
+
+Although the etiology of cognitive impairment in Alzheimer's disease (AD) is not fully understood, it has been reported that acetylcholine-producing neurons degenerate in the brains of patients with Alzheimer's disease. The degree of this cholinergic loss has been correlated with degree of cognitive impairment and density of amyloid plaques (a neuropathological hallmark of Alzheimer's disease).
+
+                        ZUNVEYL is a prodrug of galantamine. Galantamine, a tertiary alkaloid, is a competitive and reversible inhibitor of acetylcholinesterase. While the precise mechanism of galantamine's action is unknown, it is postulated to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase. If this mechanism is correct, galantamine's effect may lessen as the disease process advances and fewer cholinergic neurons remain functionally intact. There is no evidence that galantamine alters the course of the underlying dementing process.

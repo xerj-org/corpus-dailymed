@@ -1,0 +1,14 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 8.1 Pregnancy
+
+Risk Summary
+
+There are no available data with tolterodine tartrate extended-release capsules use in pregnant women to inform drug-associated risks. In animal reproduction studies, oral administration of tolterodine and its 5-HMT metabolite to pregnant mice during organogenesis did not produce adverse developmental outcomes at doses approximately 9 to 12 times the clinical exposure at a dose of 20 mg/kg/day; however, higher doses produced adverse developmental outcomes
+  (see Data).
+
+                        In the U.S. general population, the estimated background rate of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+No anomalies or malformations were observed after oral administration of tolterodine to pregnant mice during organogenesis at approximately 9 to 12 times the clinical exposure to the pharmacologically active components of tolterodine tartrate extended-release capsules (based on the AUC of tolterodine and its 5-HMT metabolite at a dose of 20 mg/kg/day). At 14 to 18 times the clinical exposure (doses of 30 to 40 mg/kg/day) in mice, tolterodine was embryo-lethal, caused reduced fetal weight, and increased the incidence of fetal abnormalities (cleft palate, digital abnormalities, intra-abdominal hemorrhage, and various skeletal abnormalities, primarily reduced ossification). Pregnant rabbits administered tolterodine subcutaneously at about 0.3 to 2.5 times the clinical exposure (dose of 0.8 mg/kg/day) did not show any embryotoxicity or teratogenicity.

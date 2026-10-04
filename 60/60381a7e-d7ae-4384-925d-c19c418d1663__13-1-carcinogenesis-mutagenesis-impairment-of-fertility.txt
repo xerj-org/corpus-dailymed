@@ -1,0 +1,5 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No long-term animal studies have been performed to establish the carcinogenicity potential of tocilizumab products. Literature indicates that the IL-6 pathway can mediate anti-tumor responses by promoting increased immune cell surveillance of the tumor microenvironment. However, available published evidence also supports that IL-6 signaling through the IL-6 receptor may be involved in pathways that lead to tumorigenesis. The malignancy risk in humans from an antibody that disrupts signaling through the IL-6 receptor, such as tocilizumab, is presently unknown.
+
+                        Fertility and reproductive performance were unaffected in male and female mice that received a murine analogue of tocilizumab administered by the intravenous route at a dose of 50 mg/kg every three days.

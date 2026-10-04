@@ -1,0 +1,5 @@
+DailyMed f6d762ea-fff0-43e8-b67d-bef19e883dd8 | Temozolomide | 8.6 Renal Impairment
+
+No dosage adjustment is recommended for patients with creatinine clearance (CLcr) of 36 to 130 mL/min/m2
+
+  [see Clinical Pharmacology (12.3)].The recommended dose of Temozolomide has not been established for patients with severe renal impairment (CLcr < 36 mL/min/m2) or for patients with end-stage renal disease on dialysis.

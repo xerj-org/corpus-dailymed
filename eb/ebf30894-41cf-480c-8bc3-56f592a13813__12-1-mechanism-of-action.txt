@@ -1,0 +1,11 @@
+DailyMed ebf30894-41cf-480c-8bc3-56f592a13813 | Herceptin Hylecta | 12.1 Mechanism of Action
+
+The HER2 (or c-erbB2) proto-oncogene encodes a transmembrane receptor protein of 185 kDa, which is structurally related to the epidermal growth factor receptor. Trastuzumab has been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumor cells that overexpress HER2.
+
+                        Trastuzumab is a mediator of antibody-dependent cellular cytotoxicity (ADCC). In vitro, trastuzumab-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
+
+                        Hyaluronan is a polysaccharide found in the extracellular matrix of the subcutaneous tissue. It is depolymerized by the naturally occurring enzyme hyaluronidase. Unlike the stable structural components of the interstitial matrix, hyaluronan has a half-life of approximately 0.5 days. Hyaluronidase increases permeability of the subcutaneous tissue by depolymerizing hyaluronan. In the doses administered, hyaluronidase in HERCEPTIN HYLECTA acts transiently and locally.
+
+                        The effects of hyaluronidase are reversible and permeability of the subcutaneous tissue is restored within 24 to 48 hours.
+
+                        Hyaluronidase has been shown to increase the absorption rate of a trastuzumab product into the systemic circulation when given in the subcutis of Göttingen Minipigs.

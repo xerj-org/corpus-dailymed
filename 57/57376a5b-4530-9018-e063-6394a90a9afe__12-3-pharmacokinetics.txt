@@ -1,0 +1,51 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 12.3 Pharmacokinetics
+
+The cerebrospinal fluid (CSF) pharmacokinetics (PK) of ziconotide have been studied after one-hour intrathecal infusions of 1 to 10 mcg of PRIALT to patients with chronic pain. The plasma PK following intravenous infusion (0.3 to 10 mcg/kg/day) have also been studied. Both intrathecal and intravenous data are shown below (
+
+  Table 2).
+
+                           Table 2. PRIALT PK Parameters (Mean ± SD)
+
+                                    Route
+                                  |
+
+                                    Fluid
+                                  |
+
+                                    N
+                                  |
+
+                                    CL
+
+                                    (mL/min)
+                                  |
+
+                                    Vd
+
+                                    (mL)
+                                  |
+
+                                    T
+
+                                       1/2elim
+
+                                    (hr)
+                                  |
+
+                                 Intrathecal |
+                                 CSF |
+                                 23 |
+                                 0.38 ± 0.56 |
+                                 155 ± 263 |
+                                 4.6 ± 0.9 |
+
+                                 Intravenous |
+                                 Plasma |
+                                 21 |
+                                 270 ± 44 |
+                                 30,460 ± 6366 |
+                                 1.3 ± 0.3 |
+
+                        Following one-hour intrathecal administration of 1 to 10 mcg of PRIALT, both total exposure (AUC; range: 83.6 to 608 ng•h/mL) and peak exposure (C
+
+  max; range: 16.4 to 132 ng/mL) values in the CSF were variable and dose-dependent, but appeared approximately dose-proportional. During 5 or 6 days of continuous intrathecal infusions of PRIALT at infusion rates ranging from 0.1 to 7.0 mcg/hr in patients with chronic pain, plasma ziconotide levels could not be quantified in 56% of patients using an assay with a lower limit of detection of approximately 0.04 ng/mL. Predictably, patients requiring higher intrathecal infusion dose rates were more likely to have quantifiable ziconotide levels in plasma. Plasma ziconotide levels, when detectable, remain constant after many months of intrathecal PRIALT infusion in patients followed for up to 9 months.

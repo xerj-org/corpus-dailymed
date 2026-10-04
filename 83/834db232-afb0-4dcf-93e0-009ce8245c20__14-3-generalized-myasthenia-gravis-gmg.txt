@@ -1,0 +1,121 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 14.3 Generalized Myasthenia Gravis (gMG)
+
+The efficacy of UPLIZNA for the treatment of gMG in adult patients who are anti-acetylcholine receptor (AChR) or anti-muscle specific tyrosine kinase (MuSK) antibody positive was established in Study 3 (NCT04524273), a randomized, double-blind, multicenter, placebo-controlled trial. The randomized, controlled treatment period was 52 weeks for the anti-AChR antibody positive population and 26 weeks for the anti-MuSK antibody positive population. The primary analysis was conducted after week 26 in both populations. UPLIZNA was administered according to the recommended dosage regimen [see
+                              Dosage and Administration (2.4)].
+
+                        Patients met the following eligibility criteria:
+
+                           Presence of autoantibodies against AChR or MuSK
+
+                           Myasthenia Gravis Foundation of America (MGFA) Clinical Classification Class II to IV
+
+                           Myasthenia Gravis-Activities of Daily Living (MG-ADL) score between 6 and 10 with > 50% of this score attributed to non-ocular items or an MG-ADL score ≥ 11
+
+                           Quantitative Myasthenia Gravis (QMG) score of ≥ 11
+
+                           On a stable dose of a corticosteroid or a specified non-steroidal immunosuppressive therapy, or a combination of both prior to randomization.
+
+                        In Study 3, a total of 238 patients with gMG were randomized in a 1:1 ratio to receive UPLIZNA or placebo. The majority of patients, 80% (n = 190) were anti-AChR antibody positive and 20% (n = 48) were anti-MuSK antibody positive.
+
+                        In the overall study population, 61% of the patients were female. Fifty-three percent of patients were White, 42% were Asian, and 2% were Black or African American. The mean age was 47.5 years (range 18 to 82 years). Mean MG-ADL score at baseline was 9.1 and mean QMG score at baseline was 17.0. At baseline, approximately 79% of patients received acetylcholinesterase inhibitors, 64% of patients received corticosteroids only, 7% of patients received non-steroidal immunosuppressive therapy only, and 29% of patients received corticosteroids and 1 non-steroidal immunosuppressive therapy.
+
+                        The efficacy of UPLIZNA was measured using MG-ADL scale, which assesses the impact of gMG on daily functions of 8 signs or symptoms that are typically affected in gMG. Each item is assessed on a 4-point scale, where a score of 0 represents normal function and a score of 3 represents loss of ability to perform that function. The total MG-ADL score ranges from 0 to 24, with higher scores indicating more impairment.
+
+                        The primary efficacy endpoint was the change from baseline in the MG-ADL score at week 26, in the overall population. A statistically significant difference favoring UPLIZNA was observed in the mean change from baseline in MG-ADL total score (−4.2 points in the UPLIZNA-treated group compared to −2.2 points for placebo, difference of −1.9, 95% CI: −2.9, −1.0; p-value < 0.0001).
+
+                        The secondary endpoint was the change from baseline in the QMG score at week 26 in the overall population. The QMG score is a 13-item categorical grading system that assesses muscle weakness. Each item is assessed on a 4-point scale where a score of 0 represents no weakness and a score of 3 represents severe weakness. A total possible score ranges from 0 to 39, where higher scores indicate more severe impairment.
+
+                        A statistically significant difference favoring UPLIZNA was observed in the mean change from baseline in QMG total score in the overall population (-4.8 points in the UPLIZNA-treated group compared to -2.3 for placebo, difference -2.5, 95% CI: -3.8, -1.2; p-value = 0.0002).
+
+                        Secondary endpoints also included change in MG-ADL and QMG scores in the anti-AChR antibody positive and anti-MuSK antibody positive populations.
+
+                        The results of the primary and secondary endpoints are presented in Table 8, Figure 3, and Figure 4.
+
+                           Table 8. Change from Baseline in MG-ADL and QMG Total Score at Week 26 in Adult gMG Patients who are Anti-AChR Antibody Positive or Anti-MuSK Antibody Positive (Study 3)
+
+                                  |
+                                 Overall Population (Primary) |
+                                 Anti-AChR-Ab+ Population |
+                                 Anti-MuSK-Ab+ Population |
+
+                                  |
+                                 UPLIZNA
+
+ N = 119 |
+                                 Placebo
+
+ N = 117 |
+                                 UPLIZNA
+
+ N = 95 |
+                                 Placebo
+
+ N = 93 |
+                                 UPLIZNA
+
+ N = 24 |
+                                 Placebo
+
+ N = 24 |
+
+                                   Ab+ = antibody positive; CI = confidence interval; LS = least square; NS = not significant |
+
+                                    MG-ADL Score
+                                  |
+
+                                   LS Mean |
+                                 -4.2 |
+                                 -2.2 |
+                                 -4.2 |
+                                 -2.4 |
+                                 -3.9 |
+                                 -1.7 |
+
+                                   Difference |
+                                 -1.9 |
+                                 -1.8 |
+                                 -2.2 |
+
+                                   95% CI |
+                                 (-2.9, -1.0) |
+                                 (-2.9, -0.7) |
+                                 (-4.2, -0.2) |
+
+                                   p-value |
+                                 <0.0001 |
+                                 0.0015 |
+                                 0.0297 |
+
+                                    QMG Score
+                                  |
+
+                                   LS Mean |
+                                 -4.8 |
+                                 -2.3 |
+                                 -4.4 |
+                                 -2.0 |
+                                 -5.2 |
+                                 -3.0 |
+
+                                   Difference |
+                                 -2.5 |
+                                 -2.5 |
+                                 -2.3 |
+
+                                   95% CI |
+                                 (-3.8, -1.2) |
+                                 (-3.9, -1.0) |
+                                 (-5.3, 0.7) |
+
+                                   p-value |
+                                 0.0002 |
+                                 0.0011 |
+                                 NS |
+
+                           Figure 3. Mean Change from Baseline in MG-ADL Score at Week 26 for Overall Population
+
+                                  |
+
+                           Figure 4. Mean Change from Baseline in QMG Score at Week 26 for Overall Population
+
+                                  |

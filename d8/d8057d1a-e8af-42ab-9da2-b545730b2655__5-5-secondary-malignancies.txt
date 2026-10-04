@@ -1,0 +1,7 @@
+DailyMed d8057d1a-e8af-42ab-9da2-b545730b2655 | Cyclophosphamide | 5.5 Secondary Malignancies
+
+Cyclophosphamide is genotoxic
+
+  [see NONCLINICAL TOXICOLOGY (13.1)]. Secondary malignancies (urinary tract cancer, myelodysplasia, acute leukemias, lymphomas, thyroid cancer, and sarcomas) have been reported in patients treated with cyclophosphamide-containing regimens
+
+  .The risk of bladder cancer may be reduced by prevention of hemorrhagic cystitis.

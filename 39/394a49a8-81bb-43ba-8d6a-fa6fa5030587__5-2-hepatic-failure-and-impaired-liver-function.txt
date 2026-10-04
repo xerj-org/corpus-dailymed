@@ -1,0 +1,5 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 5.2 Hepatic Failure and Impaired Liver Function
+
+Rarely, ACE inhibitors, including ramipril, have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and sometimes death. The mechanism of this syndrome is not understood. Discontinue ramipril if patient develops jaundice or marked elevations of hepatic enzymes.
+
+  As ramipril is primarily metabolized by hepatic esterases to its active moiety, ramiprilat, patients with impaired liver function could develop markedly elevated plasma levels of ramipril. No formal pharmacokinetic studies have been carried out in hypertensive patients with impaired liver function.

@@ -1,0 +1,17 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 7 DRUG INTERACTIONS
+
+Drugs That Induce CYP 3A4
+
+  Co-medications that induce CYP 3A4 (e.g., rifampicin, phenytoin, carbamazepine, phenobarbital, or St. John’s wort) may
+
+  significantly decrease exposure to exemestane. Dose modification is recommended for patients who are also receiving a
+
+  strong CYP 3A4 inducer 
+
+  [see Dosage and Administration (
+
+   2.2) and Clinical Pharmacology (
+
+   12.3)]
+
+  .

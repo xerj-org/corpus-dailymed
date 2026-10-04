@@ -1,0 +1,19 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 8.4 Pediatric Use
+
+[see
+
+                              Clinical Pharmacology (12.3)
+
+                           ,
+
+                              Indications and Usage (1.2)
+
+                           ,and
+
+                              Dosage and Administration (2.2)
+
+                           ]
+
+  Safety and effectiveness in the treatment of pediatric patients with acute otitis media, acute bacterial sinusitis and community-acquired pneumonia under 6 months of age have not been established. Use of azithromycin for the treatment of acute bacterial sinusitis and community-acquired pneumonia in pediatric patients (6 months of age or greater) is supported by adequate and well-controlled trials in adults.
+
+                           Pharyngitis/Tonsillitis:Safety and effectiveness in the treatment of pediatric patients with pharyngitis/tonsillitis under 2 years of age have not been established.

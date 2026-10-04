@@ -1,0 +1,9 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 12.2 Pharmacodynamics
+
+Valsartan inhibits the pressor effect of angiotensin II infusions. An oral dose of 80 mg inhibits the pressor effect by about 80% at peak with approximately 30% inhibition persisting for 24 hours. No information on the effect of larger doses is available.
+
+                        Removal of the negative feedback of angiotensin II causes a 2- to 3-fold rise in plasma renin and consequent rise in angiotensin II plasma concentration in hypertensive patients. Minimal decreases in plasma aldosterone were observed after administration of valsartan; very little effect on serum potassium was observed.
+
+                        In multiple-dose studies in hypertensive patients with stable renal insufficiency and patients with renovascular hypertension, valsartan had no clinically significant effects on glomerular filtration rate, filtration fraction, creatinine clearance, or renal plasma flow.
+
+                        In multiple-dose studies in hypertensive patients, valsartan had no notable effects on total cholesterol, fasting triglycerides, fasting serum glucose, or uric acid.

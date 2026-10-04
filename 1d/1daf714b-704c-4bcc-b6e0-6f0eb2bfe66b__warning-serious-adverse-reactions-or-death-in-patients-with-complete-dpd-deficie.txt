@@ -1,0 +1,9 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | WARNING: SERIOUS ADVERSE REACTIONS OR DEATH IN PATIENTS WITH COMPLETE DPD DEFICIENCY
+
+Increased risk of serious adverse reactions or death in patients with complete DPD deficiency.
+
+                        Test patients for genetic variants of DPYD prior to initiating FAVLYXA unless immediate treatment is necessary. Avoid use of FAVLYXA in patients with certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency [see
+
+                              Warnings and Precautions (5.1)
+
+                           ].

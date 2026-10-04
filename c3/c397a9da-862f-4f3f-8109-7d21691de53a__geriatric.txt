@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Geriatric
+
+Elimination half-life increases by approximately 1 hour for each year of age beginning with a half-life of 20 hours at 20 years of age. This appears to be due to an increase in volume of distribution with age and a decrease in clearance. Consequently, the elderly may have lower peak concentrations, and on multiple dosing higher trough concentrations. It will also take longer to reach steady-state. Conflicting information has been published on changes of plasma protein binding in the elderly. Reported changes in free drug may be due to significant decreases in plasma proteins due to causes other than simply aging.

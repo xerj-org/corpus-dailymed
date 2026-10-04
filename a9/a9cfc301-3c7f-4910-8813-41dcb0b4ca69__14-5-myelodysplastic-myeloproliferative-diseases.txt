@@ -1,0 +1,109 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 14.5 Myelodysplastic/Myeloproliferative Diseases
+
+An open-label, multicenter, Phase 2 clinical trial was conducted testing imatinib mesylate in diverse populations of patients suffering from life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases. This study included 7 patients with MDS/MPD. These patients were treated with imatinib mesylate 400 mg daily. The ages of the enrolled patients ranged from 20 to 86 years. A further 24 patients with MDS/MPD aged 2 to 79 years were reported in 12 published case reports and a clinical study. These patients also received imatinib mesylate at a dose of 400 mg daily with the exception of three patients who received lower doses. Of the total population of 31 patients treated for MDS/MPD, 14 (45%) achieved a complete hematological response and 12 (39%) a major cytogenetic response (including 10 with a CCyR). Sixteen patients had a translocation, involving chromosome 5q33 or 4q12, resulting in a PDGFR gene re-arrangement. All of these patients responded hematologically (13 completely). Cytogenetic response was evaluated in 12 out of 14 patients, all of whom responded (10 patients completely). Only 1 (7%) out of the 14 patients without a translocation associated with PDGFR gene re-arrangement achieved a complete hematological response and none achieved a major cytogenetic response. A further patient with a PDGFR gene re-arrangement in molecular relapse after bone marrow transplant responded molecularly. Median duration of therapy was 12.9 months (0.8 to 26.7) in the 7 patients treated within the Phase 2 study and ranged between 1 week and more than 18 months in responding patients in the published literature. Results are provided in Table 22. Response durations of Phase 2 study patients ranged from 141+ days to 457+ days.
+
+                           Table 22: Response in MDS/MPD
+
+                                  |
+
+                                       Number of patients
+
+ N
+
+                                  |
+
+                                       Complete Hematologic Response
+
+                                       N (%)
+
+                                  |
+
+                                       Major Cytogenetic Response
+
+                                       N (%)
+
+                                  |
+
+                                       Overall Population
+
+                                  |
+
+                                    31
+
+                                  |
+
+                                    14 (45)
+
+                                  |
+
+                                    12 (39)
+
+                                  |
+
+                                    Chromosome 5 Translocation
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    11 (79)
+
+                                  |
+
+                                    11 (79)
+
+                                  |
+
+                                    Chromosome 4 Translocation
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    2 (100)
+
+                                  |
+
+                                    1 (50)
+
+                                  |
+
+                                    Others/no Translocation
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    1 (7)
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Molecular Relapse
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    NE
+
+                                  |
+
+                                    NE
+
+                                  |
+
+                                    Abbreviations: NE, not evaluable; MDS/MPD, myelodysplastic/myeloproliferative disease.
+
+                                  |

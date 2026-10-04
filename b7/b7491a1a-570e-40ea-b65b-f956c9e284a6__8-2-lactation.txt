@@ -1,0 +1,10 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 8.2 Lactation
+
+Risk Summary
+
+Limited data from case reports in published literature indicate that rosuvastatin is present in human milk. There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production. Statins, including rosuvastatin, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
+
+                        Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with rosuvastatin
+  [see
+   Use in Specific Populations (8.1) and
+   Clinical Pharmacology (12.1)].

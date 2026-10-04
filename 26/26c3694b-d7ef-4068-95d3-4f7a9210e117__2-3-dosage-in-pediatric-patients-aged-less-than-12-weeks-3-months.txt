@@ -1,0 +1,9 @@
+DailyMed 26c3694b-d7ef-4068-95d3-4f7a9210e117 | Amoxicillin | 2.3 Dosage in Pediatric Patients Aged Less than 12 Weeks (3 months)
+
+It is recommended that there be at least 10 days’ treatment for any infection caused by
+
+   Streptococcus pyogenesto prevent the occurrence of acute rheumatic fever.
+
+                           Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended upper dose of amoxicillin is 30 mg/kg/day divided every 12 hours. There are currently no dosing recommendations for pediatric patients with impaired renal function.
+
+                           Treatment should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.

@@ -1,0 +1,3 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 5.4 Fetal Risk
+
+Based on animal data, UPLIZNA can cause fetal harm due to B-cell lymphopenia and reduce antibody response in offspring exposed to UPLIZNA even after B-cell repletion. Transient peripheral B-cell depletion and lymphocytopenia have been reported in infants born to mothers exposed to other B-cell depleting antibodies during pregnancy. Advise females of reproductive potential to use effective contraception while receiving UPLIZNA and for at least 6 months after the last dose [see Use in Specific Populations (8.1)].

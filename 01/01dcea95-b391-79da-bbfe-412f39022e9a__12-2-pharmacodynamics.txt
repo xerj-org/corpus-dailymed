@@ -1,0 +1,13 @@
+DailyMed 01dcea95-b391-79da-bbfe-412f39022e9a | Prucalopride | 12.2 Pharmacodynamics
+
+High Amplitude Propagating Contractions
+
+                        Following a single 2-mg dose of prucalopride in patients with CIC, prucalopride increased the number of high amplitude propagating contractions (HAPCs) during the first 12 hours as compared with an osmotic laxative treatment. In addition, prucalopride 4 mg once daily (2 times the maximum human recommended dose of 2 mg) for 7 days increased the amplitude of HAPCs in healthy subjects without affecting colonic phasic activity as compared with placebo.  
+
+                            Colonic Transit Time
+
+                         An integrated analysis of 3 randomized, placebo-controlled, dose-finding studies in 280 patients with CIC showed that after once daily treatment with 2 mg of prucalopride, the mean colonic transit time was reduced by 12 hours from a baseline of 65 hours for prucalopride 2 mg, compared to an increase of 0.5 hours from a baseline of 66 hours in the placebo group.  
+
+                           Cardiac Electrophysiology
+
+                        At a dose 5 times the maximum approved recommended dose, prucalopride tablets does not prolong the QT interval to any clinically relevant extent.

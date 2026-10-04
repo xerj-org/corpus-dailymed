@@ -1,0 +1,11 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 8.4 Pediatric Use
+
+Lactated Ringer’s Injection is contraindicated in neonates (28 days of age or younger) who are receiving ceftriaxone due to reported deaths that occurred when neonates received ceftriaxone and intravenous calcium-containing solutions concomitantly [see
+                                 Warnings 
+
+                                 and Precautions (5.1)
+                              ].
+
+                        The safety and effectiveness of Lactated Ringer’s Injection for use as a source of water and electrolytes or as an alkalinizing agent have been established in pediatric patients of all ages, including neonates.
+
+                        Closely monitor plasma electrolyte concentrations in young pediatric patients with immature kidney function who may have decreased ability to maintain fluid and electrolyte balance [see Warnings and Precautions (5.4, 5.5, 5.8, 5.9)]. Administration of a lactate-containing intravenous solution, including Lactated Ringer’s Injection to pediatric patients should account for liver and kidney maturation (the kidney function affects the biotransformation and renal excretion of lactate) [see Warnings and Precautions (5.9)].

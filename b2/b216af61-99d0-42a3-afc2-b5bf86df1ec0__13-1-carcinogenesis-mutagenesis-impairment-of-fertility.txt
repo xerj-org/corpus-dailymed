@@ -1,0 +1,11 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+OCREVUS ZUNOVO contains ocrelizumab and hyaluronidase.
+
+                        No carcinogenicity studies have been performed to assess the carcinogenic potential of ocrelizumab.
+
+                        No studies have been performed to assess the mutagenic potential of ocrelizumab. As an antibody, ocrelizumab is not expected to interact directly with DNA.
+
+                        No effects on reproductive organs were observed in male monkeys administered ocrelizumab by intravenous injection (three loading doses of 15 or 75 mg/kg, followed by weekly doses of 20 or 100 mg/kg) for 8 weeks. There were also no effects on estrus cycle in female monkeys administered ocrelizumab over three menstrual cycles using the same dosing regimen. The doses tested in monkey are 2 and 10 times the recommended human dose of 600 mg intravenous ocrelizumab, on a mg/kg basis.
+
+                        Hyaluronidases are found in most tissues of the body. Long-term animal studies have not been performed to assess the carcinogenic or mutagenic potential of hyaluronidase. In addition, when subcutaneous hyaluronidase (recombinant human) was administered to cynomolgus monkeys for 39 weeks at dose levels up to 220,000 U/kg, which is > 570 times higher than the human dose, no evidence of toxicity to the male or female reproductive system was found through periodic monitoring of in-life parameters, e.g., semen analyses, hormone levels, menstrual cycles, and also from gross pathology, histopathology and organ weight data.

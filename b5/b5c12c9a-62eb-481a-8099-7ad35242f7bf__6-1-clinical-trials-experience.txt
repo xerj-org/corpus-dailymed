@@ -1,0 +1,351 @@
+DailyMed b5c12c9a-62eb-481a-8099-7ad35242f7bf | Bupropion Hydrochloride | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+                           Adverse Reactions Leading to Discontinuation of Treatment
+
+  Adverse reactions were sufficiently troublesome to cause discontinuation of treatment with bupropion hydrochloride tablets in approximately 10% of the 2,400 subjects and healthy volunteers who participated in clinical trials during the product’s initial development. The more common events causing discontinuation include neuropsychiatric disturbances (3%), primarily agitation and abnormalities in mental status; gastrointestinal disturbances (2.1%), primarily nausea and vomiting; neurological disturbances (1.7%), primarily seizures, headaches, and sleep disturbances; and dermatologic problems (1.4%), primarily rashes. It is important to note, however, that many of these events occurred at doses that exceed the recommended daily dose.
+
+                           Commonly Observed Adverse Reactions
+
+  Adverse reactions commonly encountered in subjects treated with bupropion hydrochloride tablets are agitation, dry mouth, insomnia, headache/migraine, nausea/vomiting, constipation, tremor, dizziness, excessive sweating, blurred vision, tachycardia, confusion, rash, hostility, cardiac arrhythmia, and auditory disturbance.
+
+                        Table 2 summarizes the adverse reactions that occurred in placebo-controlled trials at an incidence of at least 1% of subjects receiving bupropion hydrochloride tablets and more frequently in these subjects than in the placebo group.
+
+                           Table 2. Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency than Placebo in Controlled Clinical Trials
+
+                                    Adverse Reaction
+                                  |
+
+                                    Bupropion Hydrochloride
+
+  Tablets
+
+                                    (n = 323)
+
+                                    %
+                                  |
+
+                                    Placebo
+
+  (n = 185)
+
+  %
+
+                                  |
+
+                                 Cardiovascular
+
+  Cardiac arrhythmias
+
+  Dizziness
+
+  Hypertension
+
+  Hypotension
+
+  Palpitations
+
+  Syncope
+
+  Tachycardia
+     |
+
+  5.3
+
+  22.3
+
+  4.3
+
+  2.5
+
+  3.7
+
+  1.2
+
+  10.8
+     |
+
+  4.3
+
+  16.2
+
+  1.6
+
+  2.2
+
+  2.2
+
+  0.5
+
+  8.6
+     |
+
+                                 Dermatologic
+
+  Pruritus
+
+  Rash
+     |
+
+  2.2
+
+  8
+     |
+
+  0
+
+  6.5
+     |
+
+                                 Gastrointestinal
+
+  Appetite increase
+
+  Constipation
+
+  Dyspepsia
+
+  Nausea/vomiting
+     |
+
+  3.7
+
+  26
+
+  3.1
+
+  22.9
+     |
+
+  2.2
+
+  17.3
+
+  2.2
+
+  18.9
+     |
+
+                                 Genitourinary
+
+  Impotence
+
+  Mentrual complaints
+
+  Urinary frequency
+     |
+
+  3.4
+
+  4.7
+
+  2.5
+     |
+
+  3.1
+
+  1.1
+
+  2.2
+     |
+
+                                 Musculoskeletal
+
+  Arthritis
+     |
+
+  3.1
+     |
+
+  2.7
+     |
+
+                                 Neurological
+
+  Akathisia
+
+  Cutaneous temperature disturbance
+
+  Dry mouth
+
+  Excessive sweating
+
+  Headache/migraine
+
+  Impaired sleep quality
+
+  Insomnia
+
+  Sedation
+
+  Sensory disturbance
+
+  Tremor
+     |
+
+  1.5
+
+  1.9
+
+  27.6
+
+  22.3
+
+  25.7
+
+  4
+
+  18.6
+
+  19.8
+
+  4
+
+  21.1
+     |
+
+  1.1
+
+  1.6
+
+  18.4
+
+  14.6
+
+  22.2
+
+  1.6
+
+  15.7
+
+  19.5
+
+  3.2
+
+  7.6
+     |
+
+                                 Neuropsychiatric
+
+  Agitation
+
+  Anxiety
+
+  Confusion
+
+  Decreased libido
+
+  Delusions
+
+  Euphoria
+
+  Hostility
+     |
+
+  31.9
+
+  3.1
+
+  8.4
+
+  3.1
+
+  1.2
+
+  1.2
+
+  5.6
+     |
+
+  22.2
+
+  1.1
+
+  4.9
+
+  1.6
+
+  1.1
+
+  0.5
+
+  3.8
+     |
+
+                                 Nonspecific
+
+  Fever/chills
+     |
+
+  1.2
+     |
+
+  0.5
+     |
+
+                                 Special senses
+
+  Auditory disturbance
+
+  Blurred vision
+
+  Gustatory disturbance
+     |
+
+  5.3
+
+  14.6
+
+  3.1
+     |
+
+  3.2
+
+  10.3
+
+  1.1
+     |
+
+                           Other Adverse Reactions Observed during the Clinical Development of Bupropion Hydrochloride Tablets
+
+  The conditions and duration of exposure to bupropion hydrochloride tablets varied greatly, and a substantial proportion of the experience was gained in open and uncontrolled clinical settings. During this experience, numerous adverse events were reported; however, without appropriate controls, it is impossible to determine with certainty which events were or were not caused by bupropion hydrochloride tablets.
+
+                        The following enumeration is organized by organ system and describes events in terms of their relative frequency of reporting in the database. The following definitions of frequency are used: Frequent adverse reactions are defined as those occurring in at least 1/100 subjects. Infrequent adverse reactions are those occurring in 1/100 to 1/1,000 subjects, while rare events are those occurring in less than 1/1,000 subjects.
+
+                           Cardiovascular:Frequent was edema; infrequent were chest pain, electrocardiogram (ECG) abnormalities (premature beats and nonspecific ST-T changes), and shortness of breath/dyspnea; rare were flushing, and myocardial infarction.
+
+                            Dermatologic:Infrequent was alopecia.
+
+                            Endocrine:Infrequent was gynecomastia; rare was glycosuria.
+
+   
+
+                            Gastrointestinal:Infrequent were dysphagia, thirst disturbance, and liver damage/jaundice; rare was intestinal perforation.
+
+   
+
+                           Genitourinary:Frequent was nocturia; infrequent were vaginal irritation, testicular swelling, urinary tract infection, painful erection, and retarded ejaculation; rare were enuresis, and urinary incontinence. 
+
+                           Neurological:Frequent were ataxia/incoordination, seizure, myoclonus, dyskinesia, and dystonia; infrequent were mydriasis, vertigo, and dysarthria; rare were electroencephalogram (EEG) abnormality, and impaired attention.
+
+   
+
+                           Neuropsychiatric:Frequent were mania/hypomania, increased libido, hallucinations, decrease in sexual function, and depression; infrequent were memory impairment, depersonalization, psychosis, dysphoria, mood instability, paranoia, and formal thought disorder; rare was suicidal ideation.
+
+   
+
+                           Oral Complaints: Frequent was stomatitis; infrequent were toothache, bruxism, gum irritation, and oral edema. 
+
+                           Respiratory:Infrequent were bronchitis and shortness of breath/dyspnea; rare was pulmonary embolism.
+
+   
+
+                           Special Senses:Infrequent was visual disturbance; rare was diplopia. 
+
+                            Nonspecific:Frequent were flu-like symptoms; infrequent was nonspecific pain; rare was overdose.
+
+                           Altered Appetite and W
+                           eight
+
+                           A weight loss of greater than 5 lbs. occurred in 28% of subjects receiving bupropion hydrochloride tablets. This incidence is approximately double that seen in comparable subjects treated with tricyclics or placebo. Furthermore, while 35% of subjects receiving tricyclic antidepressants gained weight, only 9.4% of subjects treated with bupropion hydrochloride tablets did. Consequently, if weight loss is a major presenting sign of a patient’s depressive illness, the anorectic and/or weight-reducing potential of bupropion hydrochloride tablets should be considered.

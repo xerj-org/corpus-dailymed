@@ -1,0 +1,3 @@
+DailyMed 36bca22f-49ea-42ce-926b-035c42eb6038 | Fosfomycin Tromethamine | CARCINOGENESIS & MUTAGENESIS & IMPAIRMENT OF FERTILITY
+
+Long term carcinogenicity studies in rodents have not been conducted because fosfomycin tromethamine is intended for single dose treatment in humans. Fosfomycin tromethamine was not mutagenic or genotoxic in the in vitro Ames' bacterial reversion test, in cultured human lymphocytes, in Chinese hamster V79 cells, and the in vivo mouse micronucleus assay. Fosfomycin tromethamine did not affect fertility or reproductive performance in male and female rats.

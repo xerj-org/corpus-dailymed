@@ -1,0 +1,5 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Laboratory Tests
+
+Although oxycodone may cross-react with some drug urine tests, no available studies were found which determined the duration of detectability of oxycodone in urine drug screens. However, based on pharmacokinetic data, the approximate duration of detectability for a single dose of oxycodone is roughly estimated to be one to two days following drug exposure.
+
+                        Urine testing for opiates may be performed to determine illicit drug use and for medical reasons such as evaluation of patients with altered states of consciousness or monitoring efficacy of drug rehabilitation efforts. The preliminary identification of opiates in urine involves the use of an immunoassay screening and thin-layer chromatography (TLC). Gas chromatography/mass spectrometry (GC/MS) may be utilized as a third-stage identification step in the medical investigational sequence for opiate testing after immunoassay and TLC. The identities of 6-keto opiates (e.g., oxycodone) can further be differentiated by the analysis of their methoximetrimethylsilyl (MO-TMS) derivative.

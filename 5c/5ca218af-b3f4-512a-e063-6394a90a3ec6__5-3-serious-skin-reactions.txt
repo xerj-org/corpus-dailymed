@@ -1,0 +1,13 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 5.3 Serious Skin Reactions
+
+Serious adverse reactions have been reported with the use of hydroxychloroquine sulfate tablets including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS syndrome), acute generalized exanthematous pustulosis (AGEP). Monitor for serious skin reactions, especially in patients receiving a drug that may also induce dermatitis. Advise patients to seek medical attention promptly if they experience signs and symptoms of serious skin reactions such as blisters on the skin, eyes, lips or in the mouth, itching or burning, with or without fever
+
+  [see Warnings and Precautions (
+
+   5.4,
+
+   5.5),
+
+   Adverse Reactions (6)].
+
+  Discontinue hydroxychloroquine sulfate tablets if these severe reactions occur.

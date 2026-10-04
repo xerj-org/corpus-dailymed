@@ -1,0 +1,19 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Long-term animal studies to evaluate the carcinogenic potential of sugammadex have not been conducted.
+
+                           Mutagenesis
+
+                        Sugammadex and its mono OH-derivative tested negatively in
+
+  in vitrobacterial reverse mutation assays (Ames test),
+
+  in vitrochromosomal aberration assays in human peripheral blood lymphocytes, and
+
+  in vivomicronucleus assays in mice and rats.
+
+                           Impairment of Fertility
+
+                        A fertility and early embryonic development study in Sprague-Dawley rats in which male rats were treated daily for 29 days prior to mating and through the mating period and female rats were treated daily for 14 days prior to mating to Day 5 post-coitum via intravenous administration of sugammadex at 20, 100, and 500 mg/kg (0.2, 1, and 6 times the MRHD of 16 mg/kg, respectively, based on AUC comparison) did not show adverse effects on fertility.

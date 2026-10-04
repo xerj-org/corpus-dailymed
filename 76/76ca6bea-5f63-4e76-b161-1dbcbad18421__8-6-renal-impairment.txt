@@ -1,0 +1,9 @@
+DailyMed 76ca6bea-5f63-4e76-b161-1dbcbad18421 | Allopurinol | 8.6 Renal Impairment
+
+Allopurinol and its primary active metabolite, oxipurinol, are eliminated by the kidneys; therefore, changes in renal function have a profound effect on exposure. In patients with decreased renal function or who have concurrent illnesses which can affect renal function, perform periodic laboratory parameters of renal function and reassess the patient's dosage of allopurinol
+
+  [see
+
+   Dosage and Administration (2.6),
+
+   Warnings and Precautions (5.3)].

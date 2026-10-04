@@ -1,0 +1,3 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Race
+
+Formal pharmacokinetic studies of the effects of race have not been conducted. Cross study comparisons involving Caucasians (N=12) and Asians (N=12), however, show that pharmacokinetics of levetiracetam were comparable between the two races. Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.

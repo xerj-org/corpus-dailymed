@@ -1,0 +1,3 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 2.7 Switching Patients to or From a Monoamine Oxidase Inhibitor
+
+At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) and initiation of PAXIL. In addition, at least 14 days must elapse after stopping PAXIL before starting an MAOI antidepressant [see Contraindications (4), Warnings and Precautions (5.2)].

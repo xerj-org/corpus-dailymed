@@ -1,0 +1,9 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 8.5 Geriatric Use
+
+In multiple-dose clinical trials of oral azithromycin, 9% of patients were at least 65 years of age (458/4949) and 3% of patients (144/4949) were at least 75 years of age. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+  Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
+
+  [see
+
+   Warnings and Precautions (5.4)]

@@ -1,0 +1,5 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Geriatric Use
+
+In elderly patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of ataxia or oversedation (2 mg to 2.5 mg once or twice daily, initially to be increased gradually as needed and tolerated).
+
+                        Extensive accumulation of diazepam and its major metabolite, desmethyldiazepam, has been noted following chronic administration of diazepam in healthy elderly male subjects. Metabolites of this drug are known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

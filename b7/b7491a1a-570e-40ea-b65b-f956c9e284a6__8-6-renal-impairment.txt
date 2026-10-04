@@ -1,0 +1,15 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 8.6 Renal Impairment
+
+Rosuvastatin exposure is not influenced by mild to moderate renal impairment (CL
+  cr ≥ 30 mL/min/1.73 m
+  2). Exposure to rosuvastatin is increased to a clinically significant extent in patients with severe renal impairment (CL
+  cr<30 mL/min/1.73 m
+  2) who are not receiving hemodialysis
+  [see
+   Clinical Pharmacology (12.3)]
+  .
+
+                        Renal impairment is a risk factor for myopathy and rhabdomyolysis. Monitor all patients with renal impairment for development of myopathy. In patients with severe renal impairment not on hemodialysis, the recommended starting dosage is 5 mg daily and should not exceed 10 mg daily
+  [see
+   Dosage and Administration (2.5) and
+   Warnings and Precautions (5.1)].

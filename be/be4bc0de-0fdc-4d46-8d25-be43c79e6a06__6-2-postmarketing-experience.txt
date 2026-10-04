@@ -1,0 +1,5 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of VERZENIO. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Respiratory disorders: Interstitial lung disease (ILD)/pneumonitis [see Warnings and Precautions (5.3)].

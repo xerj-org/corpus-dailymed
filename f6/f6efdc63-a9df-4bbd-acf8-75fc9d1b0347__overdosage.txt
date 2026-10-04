@@ -1,0 +1,11 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | OVERDOSAGE
+
+Manifestations of metoclopramide overdosage included drowsiness, disorientation, extrapyramidal reactions, other adverse reactions associated with metoclopramide use (including, e.g., methemoglobinemia), and sometimes death. Neuroleptic malignant syndrome (NMS) has been reported in association with metoclopramide overdose and concomitant treatment with another drug associated with NMS (see
+                        WARNINGS
+                     ).
+
+                  There are no specific antidotes for metoclopramide injection overdosage. If over-exposure occurs, call your Poison Control Center at 1-800-222-1222 for current information on the management of poisoning or overdosage.
+
+                  Methemoglobinemia can be reversed by the intravenous administration of methylene blue. However, methylene blue may cause hemolytic anemia in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency, which may be fatal.
+
+                  Hemodialysis and continuous ambulatory peritoneal dialysis do not remove significant amounts of metoclopramide.

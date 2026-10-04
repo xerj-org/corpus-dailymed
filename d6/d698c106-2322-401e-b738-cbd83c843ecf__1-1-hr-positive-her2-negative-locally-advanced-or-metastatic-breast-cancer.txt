@@ -1,0 +1,3 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 1.1 HR-Positive, HER2-Negative Locally Advanced or Metastatic Breast Cancer
+
+TRUQAP, in combination with fulvestrant, is indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN-alteration as detected by an FDA-authorized test following progression on at least one endocrine-based regimen in the metastatic setting or recurrence on or within 12 months of completing adjuvant therapy.

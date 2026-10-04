@@ -1,0 +1,3 @@
+DailyMed ed789dc1-0b39-4efc-990d-7b6b43a8b3ba | Irbesartan | 8.5 Geriatric Use
+
+Of 4925 subjects receiving irbesartan tablets in controlled clinical studies of hypertension, 911 (18.5%) were 65 years and over, while 150 (3.0%) were 75 years and over. No overall differences in effectiveness or safety were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out. [See Clinical Pharmacology (12.3) and Clinical Studies (14.1).]

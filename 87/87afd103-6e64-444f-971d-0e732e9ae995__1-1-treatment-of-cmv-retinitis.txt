@@ -1,0 +1,3 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 1.1 Treatment of CMV Retinitis
+
+Ganciclovir is indicated for the treatment of cytomegalovirus (CMV) retinitis in immunocompromised adult patients, including patients with acquired immunodeficiency syndrome (AIDS) [see Clinical Studies (14.1)].

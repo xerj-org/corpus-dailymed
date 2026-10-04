@@ -1,0 +1,5 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 1.13 Acute Bacterial Exacerbation of Chronic Bronchitis
+
+Levofloxacin is indicated for the treatment of acute bacterial exacerbation of chronic bronchitis (ABECB) due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, or Moraxella catarrhalis.
+
+                        Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have no alternative treatment options.

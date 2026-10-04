@@ -1,0 +1,14 @@
+DailyMed a17c90f9-3d5d-4503-ba2c-754b45decbf8 | Perphenazine | Treatment
+
+Treatment is symptomatic and supportive. Induction of emesis is not recommended because of the possibility of a seizure, CNS depression, or dystonic reaction of the head or neck and subsequent aspiration. Gastric lavage (after intubation, if the patient is unconscious) and administration of activated charcoal together with a laxative should be considered. There is no specific antidote.
+
+                        Standard measures (oxygen, intravenous fluids, corticosteroids) should be used to manage circulatory shock or metabolic acidosis. An open airway and adequate fluid intake should be maintained. Body temperature should be regulated. Hypothermia is expected, but severe hyperthermia may occur and must be treated vigorously (see
+
+                              CONTRAINDICATIONS
+                           ).
+
+                        An electrocardiogram should be taken and close monitoring of cardiac function instituted if there is any sign of abnormality. Close monitoring of cardiac function is advisable for not less than five days. Vasopressors such as norepinephrine may be used to treat hypotension, but epinephrine should NOT be used.
+
+                        Hemodialysis and peritoneal dialysis are of no value because of low plasma concentrations of the drug.
+
+                        Since overdosage is often deliberate, patients may attempt suicide by other means during the recovery phase.

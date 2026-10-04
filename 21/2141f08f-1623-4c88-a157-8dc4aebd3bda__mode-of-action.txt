@@ -1,0 +1,5 @@
+DailyMed 2141f08f-1623-4c88-a157-8dc4aebd3bda | Pentoxifylline | Mode of Action
+
+Pentoxifylline and its metabolites improve the flow properties of blood by decreasing its viscosity. In patients with chronic peripheral arterial disease, this increases blood flow to the affected microcirculation and enhances tissue oxygenation. The precise mode of action of pentoxifylline and the sequence of events leading to clinical improvement are still to be defined. Pentoxifylline administration has been shown to produce dose-related hemorrheologic effects, lowering blood viscosity, and improving erythrocyte flexibility. Leukocyte properties of hemorrheologic importance have been modified in animal and
+
+  in vitrohuman studies. Pentoxifylline has been shown to increase leukocyte deformability and to inhibit neutrophil adhesion and activation. Tissue oxygen levels have been shown to be significantly increased by therapeutic doses of pentoxifylline in patients with peripheral arterial disease.

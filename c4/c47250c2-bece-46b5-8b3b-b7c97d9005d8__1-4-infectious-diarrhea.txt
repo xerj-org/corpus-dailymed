@@ -1,0 +1,6 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 1.4 Infectious Diarrhea
+
+Ciprofloxacin tablets are indicated in adult patients for treatment of infectious diarrhea caused by Escherichia coli (enterotoxigenic isolates), Campylobacter jejuni, Shigella boydiiAlthough treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients.
+
+, Shigella dysenteriae, Shigella flexneri or Shigella sonnei
+                            when antibacterial therapy is indicated.

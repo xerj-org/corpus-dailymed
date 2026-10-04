@@ -1,0 +1,5 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 14.3 OCREVUS ZUNOVO in Patients With RMS or PPMS
+
+Study 4 was a multicenter, randomized, open-label, parallel arm trial conducted to evaluate the comparative bioavailability, pharmacokinetics, pharmacodynamics, safety, and immunogenicity of OCREVUS ZUNOVO compared with intravenous ocrelizumab in patients with either RMS or PPMS (NCT05232825).
+
+                        Study 4 enrolled 236 patients (213 with RMS, 23 with PPMS), 18-65 years of age with an EDSS between 0 to 6.5 at screening. The demographics were similar and baseline characteristics were balanced across the two treatment groups. The mean age was 40 years in both groups. In the OCREVUS ZUNOVO group, 35% of patients were male and the mean/median duration since MS diagnosis was 5.7/3.1 years, compared to 41% male and 4.8/2.4 years in the ocrelizumab IV group.

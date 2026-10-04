@@ -1,0 +1,5 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Hepatic Impairment
+
+In a pharmacokinetic study of oxycodone in patients with end-stage liver disease, oxycodone plasma clearance decreased and the elimination half-life increased.
+
+                        Because oxycodone is extensively metabolized in the liver, its clearance may decrease in patients with hepatic impairment. Initiate therapy in these patients with a lower than usual dosage of PERCOCET and titrate carefully. Regularly evaluate for adverse events such as respiratory depression, sedation, and hypotension [see CLINICAL PHARMACOLOGY].

@@ -1,0 +1,5 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 5.12 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
+
+Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence
+
+  [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)].

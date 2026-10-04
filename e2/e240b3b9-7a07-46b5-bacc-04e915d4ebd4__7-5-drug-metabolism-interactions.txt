@@ -1,0 +1,3 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 7.5 Drug Metabolism Interactions
+
+The limited published data available indicate that somatostatin analogs may decrease the metabolic clearance of compounds known to be metabolized by cytochrome P450 enzymes, which may be due to the suppression of growth hormone. Since it cannot be excluded that lanreotide injection may have this effect, avoid other drugs mainly metabolized by CYP3A4 and which have a low therapeutic index (e.g., quinidine, terfenadine). Drugs metabolized by the liver may be metabolized more slowly during lanreotide injection treatment and dose reductions of the concomitantly administered medications should be considered [see Clinical Pharmacology (12.3)].

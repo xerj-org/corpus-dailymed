@@ -1,0 +1,7 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | Chemical Stability of Infusion Solutions
+
+Chemical stability studies were performed by HPLC on Cytarabine Injection in infusion solutions. These studies showed that when Cytarabine Injection was added to Water for Injection, 5% Dextrose in Water or Sodium Chloride Injection, 94 to 96 percent of the cytarabine was present after 192 hours storage at room temperature.
+
+                        Parenteral drugs should be inspected visually for particulate matter and discoloration, prior to administration, whenever solution and container permit.
+
+                        If a precipitate has formed as a result of exposure to low temperatures, redissolve by warming up to 55°C for no longer than 30 minutes, under dry heat conditions, and shake until the precipitate has dissolved.

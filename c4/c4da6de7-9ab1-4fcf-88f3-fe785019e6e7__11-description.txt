@@ -1,0 +1,25 @@
+DailyMed c4da6de7-9ab1-4fcf-88f3-fe785019e6e7 | Estradiol | 11 DESCRIPTION
+
+Estradiol transdermal system contains estradiol in a multipolymeric adhesive. The system is designed to release estradiol continuously upon application to intact skin.
+
+                  Five dosage strengths of estradiol transdermal system are available to provide nominal in vivo delivery rates of 0.025, 0.0375, 0.05, 0.075, or 0.1 mg of estradiol per day via the skin. Each corresponding system has an active surface area of 2.5, 3.75, 5.0, 7.5, or 10.0 cm2 and contains 0.39, 0.585, 0.78, 1.17, or 1.56 mg of estradiol USP, respectively. The composition of the systems per unit area is identical.
+
+                  Estradiol USP is a white, crystalline powder, chemically described as estra-1,3,5 (10)-triene-3,17β-diol.
+
+                  The structural formula is:
+
+                  The molecular formula of estradiol is C18H2402. The molecular weight is 272.39 g/mol.
+
+                  Estradiol transdermal system is comprised of 3 layers. Proceeding from the visible surface toward the surface attached to the skin, these layers are (1) a translucent polyolefin film (2) an adhesive formulation containing estradiol, acrylic adhesive, silicone adhesive, oleyl alcohol, NF, povidone, USP and dipropylene glycol, and (3) a polyester release liner which is attached to the adhesive surface and must be removed before the system can be used.
+
+                            |
+
+                              ----- (1) Backing
+
+                              ----- (2) Adhesive Containing Estradiol
+
+                              ----- (3) Protective Liner
+
+                            |
+
+                  The active component of the system is estradiol.  The remaining components of the system are pharmacologically inactive.

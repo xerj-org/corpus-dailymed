@@ -1,0 +1,53 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 2.2 Recommended Dosage
+
+FAVLYXA is recommended for administration either as an intravenous bolus or as an intravenous infusion. Dosage recommendations are in Table 1.
+
+                           Table 1: Recommended dosage of FAVLYXA 
+
+                                    Indication
+                                  |
+
+                                     Recommended Dosage
+                                  |
+
+                                     Duration of Treatment
+                                  |
+
+                                    Adenocarcinoma of the Colon and Rectum
+                                  |
+
+                                    In combination with leucovorin or as a component of a multidrug chemotherapy regimen that includes leucovorin
+                                  |
+                                 400 mg/m2 for one dose, followed by 2,400 mg/m2 to 3,000 mg/m2 over 46 hours on day 1 of each 2-week cycle |
+                                 Until disease progression or unacceptable toxicity. |
+
+                                    In combination with leucovorin alone (bolus regimen)
+                                  |
+                                 500 mg/m2 on days 1, 8, 15, 22, 29 and 36 of each 8-week cycle |
+                                 Until disease progression or unacceptable toxicity. |
+
+                                    Adenocarcinoma of the Breast
+                                  |
+
+                                    In combination with cyclophosphamide-based multidrug regimen (bolus regimen)
+                                  |
+                                  500 mg/m2 or 600 mg/m2 on days 1 and 8 of each 28-day cycle |
+                                 Until disease progression or unacceptable toxicity or 6 cycles |
+
+                                    Gastric Adenocarcinoma
+                                  |
+                                  |
+                                  |
+
+                                    In combination with a platinum-containing multidrug regimen
+                                  |
+                                 200 mg/m2 to 1,000 mg/m2 over 24 hours |
+                                 Frequency in each cycle and length of each cycle depend on dose of FAVLYXA and specific regimen |
+
+                                    Pancreatic Adenocarcinoma
+                                  |
+
+                                    In combination with leucovorin or as a component of a multidrug chemotherapy regimen that includes leucovorin
+                                  |
+                                 400 mg/m2 on day 1, followed by 2,400 mg/m2 over 46 hours every 2 weeks |
+                                 Until disease progression or unacceptable toxicity. |

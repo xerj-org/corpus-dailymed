@@ -1,0 +1,3 @@
+DailyMed c49a7f23-2af0-4607-9f21-114970f8630d | OLMESARTAN MEDOXOMIL | 7.1 Agents Increasing Serum Potassium
+
+Concomitant use of olmesartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium. If co-medication is considered necessary, monitoring of serum potassium is advisable.

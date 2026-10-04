@@ -1,0 +1,5 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 5.3 Peripheral Neuropathy
+
+Fluoroquinolones, including levofloxacin, have been associated with an increased risk of peripheral neuropathy. Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin. Symptoms may occur soon after initiation of levofloxacin and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
+
+                        Discontinue levofloxacin immediately if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation.  Avoid fluoroquinolones, including levofloxacin, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6), Patient Counseling Information (17)].

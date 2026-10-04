@@ -1,0 +1,73 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 7.5 Drugs Associated with Methemoglobinemia
+
+Patients who are administered Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics
+
+  [see
+
+   Warnings and Precautions (5.3)]
+
+  .
+
+                           Examples of Drugs Associated with Methemoglobinemia:
+
+                                    Class
+                                  |
+
+                                    Examples
+                                  |
+
+                                    Nitrates/Nitrites
+
+                                  |
+
+                                    nitric oxide, nitroglycerin, nitroprusside, nitrous oxide
+
+                                  |
+
+                                    Local anesthetics
+
+                                  |
+
+                                    articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine
+
+                                  |
+
+                                    Antineoplastic agents
+
+                                  |
+
+                                    cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase
+
+                                  |
+
+                                    Antibiotics
+
+                                  |
+
+                                    dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides
+
+                                  |
+
+                                    Antimalarials
+
+                                  |
+
+                                    chloroquine, primaquine
+
+                                  |
+
+                                    Anticonvulsants
+
+                                  |
+
+                                    phenobarbital, phenytoin, sodium valproate
+
+                                  |
+
+                                    Other drugs
+
+                                  |
+
+                                    acetaminophen, metoclopramide, quinine, sulfasalazine
+
+                                  |

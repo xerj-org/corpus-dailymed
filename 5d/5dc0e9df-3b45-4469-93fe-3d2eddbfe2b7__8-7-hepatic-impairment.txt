@@ -1,0 +1,9 @@
+DailyMed 5dc0e9df-3b45-4469-93fe-3d2eddbfe2b7 | Dapagliflozin | 8.7 Hepatic Impairment
+
+No dose adjustment is recommended for patients with mild, moderate, or severe hepatic impairment. However, the benefit-risk for the use of dapagliflozin in patients with severe hepatic impairment should be individually assessed since the safety and efficacy of dapagliflozin have not been specifically studied in this population
+
+  [see Clinical Pharmacology (
+
+   12.3)]
+
+  .

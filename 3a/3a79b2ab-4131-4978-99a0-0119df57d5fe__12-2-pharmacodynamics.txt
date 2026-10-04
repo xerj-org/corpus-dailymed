@@ -1,0 +1,3 @@
+DailyMed 3a79b2ab-4131-4978-99a0-0119df57d5fe | Lisdexamfetamine Dimesylate | 12.2 Pharmacodynamics
+
+Amphetamines block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space. The parent drug, lisdexamfetamine, does not bind to the sites responsible for the reuptake of norepinephrine and dopamine in vitro.

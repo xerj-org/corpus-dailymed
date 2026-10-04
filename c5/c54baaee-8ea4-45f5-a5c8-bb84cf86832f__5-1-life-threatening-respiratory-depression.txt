@@ -1,0 +1,31 @@
+DailyMed c54baaee-8ea4-45f5-a5c8-bb84cf86832f | Methadone Hydrochloride | 5.1 Life-Threatening Respiratory Depression
+
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of methadone, even when used as recommended. Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death. Respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a “sighing” pattern of breathing (deep breaths separated by abnormally long pauses). Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids. Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents, depending on the patient’s clinical status [see Overdosage (10)].
+
+                        While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of methadone hydrochloride tablets for oral suspension, the risk is greatest during the initiation of therapy or following a dose increase. The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period. Monitor patients closely for respiratory depression, when initiating therapy with methadone hydrochloride tablets for oral suspension and following dose increases.
+
+                        Instruct patients against use by individuals other than the patient for whom methadone was prescribed and to keep methadone out of the reach of children, as such inappropriate use may result in fatal respiratory depression [see Patient Counseling Information (17)].
+
+                        To reduce the risk of respiratory depression, proper dosing and titration of methadone are essential [see Dosage and Administration (2.5)]. Overestimating the methadone dosage when initiating treatment can result in fatal overdose with the first dose.
+
+                        To further reduce the risk of respiratory depression, consider the following:
+
+                           Patients tolerant to other opioids may be incompletely tolerant to methadone. Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists. Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists. Follow induction directions closely to avoid inadvertent overdose [see Dosage and Administration (2.5)].
+
+                           Proper dosing and titration are essential and methadone should be overseen only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
+
+                        Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
+                        Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia. Opioid use increases the risk of CSA in a dose-dependent fashion. In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2)].
+
+                              Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
+
+                           Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent. Because patients being treated with methadone may be at risk for opioid overdose during initiation or titration, or in the case of relapse to illicit use, strongly consider recommending or prescribing an opioid overdose reversal agent for the emergency treatment of an opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets for oral suspension. Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+
+                           Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
+
+                           There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics. Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+                           Advise patients and caregivers that an opioid overdose reversal agent, such as naloxone or nalmefene, may also be administered for a known or suspected overdose with methadone hydrochloride tablets for oral suspension itself [see Overdosage (10)].
+
+                           Educate patients and caregivers on how to recognize respiratory depression, and how to use an opioid overdose reversal agent for the emergency treatment of opioid overdose. Emphasize the importance of calling 911 or getting emergency medical help, even if an opioid overdose reversal agent is administered.

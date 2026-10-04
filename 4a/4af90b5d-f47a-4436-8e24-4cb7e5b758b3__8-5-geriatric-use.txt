@@ -1,0 +1,7 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 8.5 Geriatric Use
+
+Of the 1442 famotidine-treated patients in clinical studies, approximately 10% were 65 and older. In these studies, no overall differences in safety or effectiveness were observed between elderly and younger patients. In postmarketing experience, CNS adverse reactions have been reported in elderly patients with and without renal impairment receiving famotidine [see Warnings and Precautions (5.1)].
+
+                        Famotidine is known to be substantially excreted by the kidney, and the risk of adverse reactions to famotidine for oral suspension may be greater in elderly patients, particularly those with impaired renal function [see Use in Specific Populations (8.6)].
+
+                        In general, use the lowest effective dose of famotidine for oral suspension for an elderly patient and monitor renal function [see Dosage and Administration (2.2)].

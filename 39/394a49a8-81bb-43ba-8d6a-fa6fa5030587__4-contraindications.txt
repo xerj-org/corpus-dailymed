@@ -1,0 +1,15 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 4 CONTRAINDICATIONS
+
+Ramipril capsules are contraindicated in patients who are hypersensitive to this product or any other ACE inhibitor (e.g., a patient who has experienced angioedema during therapy with any other ACE inhibitor).
+
+  Ramipril capsules are contraindicated in combination with a neprilysin inhibitor (e.g., sacubitril). Do not administer ramipril capsules within 36 hours of switching to or from sacubitril/valsartan, a neprilysin inhibitor
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .
+
+  Do not co-administer ramipril capsules with aliskiren:
+
+  • in patients with diabetes

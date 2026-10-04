@@ -1,0 +1,11 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.9 Pulmonary Patients
+
+One trial of 77 patients who were diagnosed with or have a history of pulmonary complications investigated the time to recovery from neuromuscular blockade induced by rocuronium (0.6 mg/kg) following administration of 2 mg/kg or 4 mg/kg Sugammadex Injection given at the first signs of recovery (reappearance of T
+
+  2). The trial showed that for these patients the median time to recovery of the T
+
+  4/T
+
+  1ratio to 0.9 was 2.1 minutes after a dose of 2 mg/kg Sugammadex Injection and 1.9 minutes after a dose of 4 mg/kg Sugammadex Injection. This is similar to the median values observed in the other trials; therefore, no dosage adjustment is necessary.
+
+  [See Dosage and Administration (2.2), Adverse Reactions (6.1).]

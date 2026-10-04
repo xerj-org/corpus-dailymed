@@ -1,0 +1,3 @@
+DailyMed ab73a6d8-2e33-4fdc-a896-6c68ab772da6 | Bisoprolol Fumarate and Hydrochlorothiazide | CONTRAINDICATIONS
+
+Bisoprolol fumarate and hydrochlorothiazide tablets are contraindicated in patients in cardiogenic shock, overt cardiac failure (see WARNINGS), second or third degree AV block, marked sinus bradycardia, anuria, and hypersensitivity to either component of this product or to other sulfonamide-derived drugs.

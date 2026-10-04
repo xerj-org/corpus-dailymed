@@ -1,0 +1,3 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 12.2 Pharmacodynamics
+
+Single doses of ramipril of 2.5 mg to 20 mg produce approximately 60% to 80% inhibition of ACE activity 4 hours after dosing with approximately 40% to 60% inhibition after 24 hours. Multiple oral doses of ramipril of 2 mg or more cause plasma ACE activity to fall by more than 90% 4 hours after dosing, with over 80% inhibition of ACE activity remaining 24 hours after dosing. The more prolonged effect of even small multiple doses presumably reflects saturation of ACE binding sites by ramiprilat and relatively slow release from those sites.

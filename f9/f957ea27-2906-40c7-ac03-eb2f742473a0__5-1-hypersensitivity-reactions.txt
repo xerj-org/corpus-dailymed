@@ -1,0 +1,5 @@
+DailyMed f957ea27-2906-40c7-ac03-eb2f742473a0 | Cephalexin | 5.1 Hypersensitivity Reactions
+
+Allergic reactions in the form of rash, urticaria, angioedema, anaphylaxis, erythema multiforme, Stevens-Johnson syndrome, or toxic epidermal necrolysis have been reported with the use of cephalexin. Before therapy with cephalexin is instituted, inquire whether the patient has a history of hypersensitivity reactions to cephalexin, cephalosporins, penicillins, or other drugs. Cross-hypersensitivity among beta-lactam antibacterial drugs may occur in up to 10% of patients with a history of penicillin allergy.
+
+                        If an allergic reaction to cephalexin occurs, discontinue the drug and institute appropriate treatment.

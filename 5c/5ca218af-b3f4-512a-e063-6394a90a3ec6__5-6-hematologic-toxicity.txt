@@ -1,0 +1,3 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 5.6 Hematologic Toxicity
+
+Hydroxychloroquine sulfate tablets may cause myelosuppression including aplastic anemia, agranulocytosis, leukopenia, or thrombocytopenia. Monitor blood cell counts periodically in patients on prolonged hydroxychloroquine sulfate tablets therapy. If the patient develops myelosuppression which cannot be attributable to the disease, discontinue the drug.

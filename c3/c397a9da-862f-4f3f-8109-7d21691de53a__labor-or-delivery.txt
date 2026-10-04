@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Labor or Delivery
+
+Special care must be taken when diazepam tablets are used during labor and delivery, as high single doses may produce irregularities in the fetal heart rate and hypotonia, poor sucking, hypothermia, and moderate respiratory depression in the neonates. With newborn infants it must be remembered that the enzyme system involved in the breakdown of the drug is not yet fully developed (especially in premature infants).

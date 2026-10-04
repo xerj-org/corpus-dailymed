@@ -1,0 +1,3 @@
+DailyMed 5bc172e4-e8a2-441a-be52-279a7f890196 | Inluriyo | 8.6 Hepatic Impairment
+
+Reduce the dose of INLURIYO in patients with moderate (Child-Pugh B) or severe (Child-Pugh C) hepatic impairment. No dosage modification is recommended for patients with mild hepatic impairment (Child-Pugh A) [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

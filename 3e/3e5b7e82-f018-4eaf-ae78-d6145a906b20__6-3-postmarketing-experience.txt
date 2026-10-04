@@ -1,0 +1,19 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of rituximab-containing products. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Hematologic: prolonged pancytopenia, marrow hypoplasia, Grade 3–4 prolonged or late-onset neutropenia, hyperviscosity syndrome in Waldenstrom's macroglobulinemia, prolonged hypogammaglobulinemia
+
+                           Cardiac: fatal cardiac failure
+
+                           Immune/Autoimmune Events: uveitis, optic neuritis, systemic vasculitis, pleuritis, lupus-like syndrome, serum sickness, polyarticular arthritis, and vasculitis with rash.
+
+                           Infection: viral infections, including progressive multifocal leukoencephalopathy (PML), increase in fatal infections in HIV-associated lymphoma, and a reported increased incidence of Grade 3 and 4 infections
+
+                           Neoplasia: disease progression of Kaposi's sarcoma.
+
+                           Skin: severe mucocutaneous reactions, pyoderma gangrenosum (including genital presentation).
+
+                           Gastrointestinal: bowel obstruction and perforation.
+
+                           Pulmonary: fatal bronchiolitis obliterans and fatal interstitial lung disease.

@@ -1,0 +1,11 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 6.2 Clinical Trials Experience with Omeprazole in Combination Therapy for H. pylori Eradication
+
+In clinical trials using either dual therapy with omeprazole and clarithromycin, or triple therapy with omeprazole, clarithromycin, and amoxicillin, no adverse reactions unique to these drug combinations were observed. Adverse reactions observed were limited to those previously reported with omeprazole, clarithromycin, or amoxicillin alone.
+
+                           Dual Therapy (omeprazole/clarithromycin)
+
+                        Adverse reactions observed in controlled clinical trials using combination therapy with omeprazole and clarithromycin (n = 346) that differed from those previously described for omeprazole alone were taste perversion (15%), tongue discoloration (2%), rhinitis (2%), pharyngitis (1%) and flu-syndrome (1%). (For more information on clarithromycin, refer to the clarithromycin prescribing information, Adverse Reactions section.)
+
+                           Triple Therapy (omeprazole/clarithromycin/amoxicillin)
+
+                        The most frequent adverse reactions observed in clinical trials using combination therapy with omeprazole, clarithromycin, and amoxicillin (n = 274) were diarrhea (14%), taste perversion (10%), and headache (7%). None of these occurred at a higher frequency than that reported by patients taking antimicrobial agents alone. (For more information on clarithromycin or amoxicillin, refer to the respective prescribing information, Adverse Reactions sections.)

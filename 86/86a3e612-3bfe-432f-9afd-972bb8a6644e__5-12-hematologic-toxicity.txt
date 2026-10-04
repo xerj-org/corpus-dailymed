@@ -1,0 +1,9 @@
+DailyMed 86a3e612-3bfe-432f-9afd-972bb8a6644e | Naproxen | 5.12 Hematologic Toxicity
+
+Anemia has occurred in NSAID-treated patients. This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis. If a patient treated with naproxen tablets or naproxen sodium tablets has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
+
+                        NSAIDs, including naproxen tablets and naproxen sodium tablets, may increase the risk of bleeding events. Co-morbid conditions such as coagulation disorders or concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk. Monitor these patients for signs of bleeding
+
+  [see
+
+   Drug Interactions (7)].

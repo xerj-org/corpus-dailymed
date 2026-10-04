@@ -1,0 +1,16 @@
+DailyMed 01dcea95-b391-79da-bbfe-412f39022e9a | Prucalopride | 8.1 Pregnancy
+
+Risk Summary
+
+                         Available data from case reports with prucalopride use in pregnant women are insufficient to identify any drug-associated risks of miscarriage, major birth defects, or adverse maternal or fetal outcomes. In animal reproduction studies, no adverse developmental effects were observed with prucalopride administration during the period of organogenesis to pregnant rats and rabbits at doses up to approximately 390 times and 780 times, respectively, the recommended human dose of 2 mg/day (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Animal
+                            Data
+
+                        In oral embryofetal development studies in rats and rabbits, prucalopride was administered to pregnant animals at doses of 5, 20, and 80 mg/kg/day throughout the period of organogenesis. No adverse embryofetal developmental effects were observed in either rats or rabbits up to the highest oral dose of 80 mg/kg/day (about 390 times and 780 times the recommended human dose of 2 mg/day, respectively, based on body surface area).  
+
+                         In an oral pre- and post-natal development study in rats, prucalopride was administered at doses of 5, 20, and 80 mg/kg/day. At the 80-mg/kg dose (about 390 times the recommended human dose of 2 mg/day, based on body surface area), a slight decrease in overall survival rate of pups after 7 days was observed, which could be due to maternal toxicity observed at this dose.

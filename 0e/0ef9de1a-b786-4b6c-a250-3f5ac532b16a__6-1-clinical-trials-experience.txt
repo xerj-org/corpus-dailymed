@@ -1,0 +1,73 @@
+DailyMed 0ef9de1a-b786-4b6c-a250-3f5ac532b16a | METFORMIN HYDROCHLORIDE | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        In clinical trials conducted in the U.S., over 1,000 patients with type 2 diabetes mellitus have been treated with metformin hydrochloride extended-release tablets 1,500 to 2,000 mg/day in active-controlled and placebo-controlled studies with the 500 mg dosage form. In the add-on to sulfonylurea study, patients receiving background glyburide therapy were randomized to receive add-on treatment of either one of three different regimens of metformin hydrochloride extended-release tablets or placebo. In total, 431 patients received metformin hydrochloride extended-release tablets and glyburide and 144 patients received placebo and glyburide. Adverse reactions reported in greater than 5% of patients treated with metformin hydrochloride extended-release tablets that were more common in the combined metformin hydrochloride extended-release tablets and glyburide group than in the placebo and glyburide group are shown in Table 1. In 0.7% of patients treated with metformin hydrochloride extended-release tablets and glyburide, diarrhea was responsible for discontinuation of study medication compared to no patients in the placebo and glyburide group.
+
+                               
+
+                              Table 1: Adverse Reactions Reported by >5%* of Patients for the Combined Metformin Hydrochloride Extended-Release Tablets Groups Versus Placebo Group
+
+                                       Adverse Reaction
+
+                                  |
+
+                                           
+
+                                          Metformin Hydrochloride Extended-Release Tablets + Glyburide
+
+                                       (n = 431)
+
+                                  |
+
+                                       Placebo + Glyburide
+
+                                       (n=144)
+
+                                  |
+
+                                    Hypoglycemia
+
+                                  |
+
+                                    14%
+
+                                  |
+
+                                    5%
+
+                                  |
+
+                                    Diarrhea
+
+                                  |
+
+                                    13%
+
+                                  |
+
+                                    6%
+
+                                  |
+
+                                    Nausea
+
+                                  |
+
+                                    7%
+
+                                  |
+
+                                    4%
+
+                                  |
+
+                               
+
+                              * Adverse reactions that were more common in the metformin hydrochloride extended-release tablets -treated than in the placebo-treated patients.
+
+                           Laboratory Tests
+
+                           Vitamin B12 Concentrations
+
+                        In clinical trials of 29-week duration with metformin HCl tablets, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.

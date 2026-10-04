@@ -1,0 +1,3 @@
+DailyMed f4f06c00-9024-4e04-a882-0da2b24d8ff7 | Atenolol | Hypoglycemia
+
+Inform patients or caregivers that there is a risk of hypoglycemia when atenolol tablets are given to patients who are fasting or who are vomiting. Monitor for symptoms of hypoglycemia.

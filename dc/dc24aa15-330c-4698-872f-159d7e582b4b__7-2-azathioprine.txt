@@ -1,0 +1,3 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 7.2 Azathioprine
+
+Given that azathioprine and MMF inhibit purine metabolism, it is recommended that mycophenolic acid delayed release not be administered concomitantly with azathioprine or MMF.

@@ -1,0 +1,5 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 5.1 Cholelithiasis and Complications of Cholelithiasis
+
+Lanreotide injection may reduce gallbladder motility and lead to gallstone formation; therefore, patients may need to be monitored periodically [see Adverse Reactions (6.1), 
+
+                              Clinical Pharmacology (12.2)]. There have been post-marketing reports of cholelithiasis (gallstones) resulting in complications, including cholecystitis, cholangitis, and pancreatitis, and requiring cholecystectomy in patients taking lanreotide injection. If complications of cholelithiasis are suspected, discontinue lanreotide injection and treat appropriately.

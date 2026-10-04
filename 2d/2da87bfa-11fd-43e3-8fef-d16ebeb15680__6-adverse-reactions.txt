@@ -1,0 +1,23 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 6 ADVERSE REACTIONS
+
+The following serious adverse reactions are described, or described in greater detail, in other sections:
+
+                     Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+
+                     Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+
+                     Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.3)]
+
+                     Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+
+                     Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.6)]
+
+                     Adrenal Insufficiency [see Warnings and Precautions (5.9)]
+
+                     Severe Hypotension [see Warnings and Precautions (5.10)]
+
+                     Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.12)]
+
+                     Seizures [see Warnings and Precautions (5.13)]
+
+                     Withdrawal [see Warnings and Precautions (5.14)]

@@ -1,0 +1,3 @@
+DailyMed 60f656ff-97b1-4a89-99af-8100483c2bac | Acetazolamide | Laboratory Tests
+
+To monitor for hematologic reactions common to all sulfonamides, it is recommended that a baseline CBC and platelet count be obtained on patients prior to initiating acetazolamide therapy and at regular intervals during therapy. If significant changes occur, early discontinuance and institution of appropriate therapy are important. Periodic monitoring of serum electrolytes is recommended.

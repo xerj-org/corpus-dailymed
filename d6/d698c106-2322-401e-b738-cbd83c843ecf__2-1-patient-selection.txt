@@ -1,0 +1,8 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 2.1 Patient Selection
+
+Select patients for the treatment of HR-positive, HER2-negative advanced or metastatic breast cancer with TRUQAP, based on the presence of one or more of the following genetic alterations in tumor tissue: PIK3CA/AKT1/PTEN [see Clinical Studies (14)].
+
+                           Select patients for the treatment of metastatic androgen pathway modulation-naïve or -sensitive (mAPMN/S) prostate cancer with TRUQAP based on PTEN deficiency in tumor tissue
+                           [see Clinical Studies (14)].
+
+                        Information on FDA-authorized tests for patient selection for the detection of PIK3CA, AKT1, and PTEN alterations or PTEN deficiency are available at: http://www.fda.gov/CompanionDiagnostics.

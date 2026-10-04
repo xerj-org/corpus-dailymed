@@ -1,0 +1,54 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 2.4 Dosage in Pediatric Patients With Appendicitis/Peritonitis or Nosocomial Pneumonia
+
+The recommended dosage for pediatric patients with appendicitis and/or peritonitis or nosocomial pneumonia aged 2 months of age and older, weighing up to 40 kg, and with normal renal function, is described in Table 2
+                           [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+
+                           Table 2: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pediatric Patients 2 Months of Age and Older, Weighing Up to 40 kg, and With Normal Renal Function#
+
+                                    # Administer piperacillin and tazobactam for injection by intravenous infusion over 30 minutes  |
+
+                                       Age
+
+                                  |
+
+                                       Appendicitis and/or Peritonitis
+
+                                  |
+
+                                       Nosocomial Pneumonia
+
+                                  |
+
+                                    2 months to 9 months
+
+                                  |
+
+                                    90 mg/kg (80 mg piperacillin and 10 mg tazobactam) every 8 (eight) hours
+
+                                  |
+
+                                    90 mg/kg
+
+(80 mg piperacillin and 10 mg tazobactam) every 6 (six) hours
+
+                                  |
+
+                                    Older than 9 months of age
+
+                                  |
+
+                                    112.5 mg/kg
+
+(100 mg piperacillin and 12.5 mg tazobactam) every 8 (eight) hours
+
+                                  |
+
+                                    112.5 mg/kg
+
+(100 mg piperacillin and 12.5 mg tazobactam) every 6 (six) hours
+
+                                  |
+
+                        Pediatric patients weighing over 40 kg and with normal renal function should receive the adult dose [see Dosage and Administration (2.1, 2.2)].
+
+                        Dosage of piperacillin and tazobactam for injection in pediatric patients with renal impairment has not been determined.

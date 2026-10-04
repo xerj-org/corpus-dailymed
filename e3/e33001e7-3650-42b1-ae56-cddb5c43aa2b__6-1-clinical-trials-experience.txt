@@ -1,0 +1,1507 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The pooled safety population described in the WARNINGS AND PRECAUTIONS reflect exposure to SCEMBLIX at 10 mg to 200 mg orally twice daily (between 0.25 to 5 times the recommended dosage for the 80 mg daily dosage and between 0.05 times and up to the recommended dosage for the 200 mg twice daily dosage) in 556 patients enrolled in one of three clinical trials, including patients with Ph+ CML in CP receiving SCEMBLIX as monotherapy: study CABL001J12301 (ASC4FIRST), study CABL001A2301 (ASCEMBL) and study CABL001X2101 [see Clinical Studies (14)]. Among the 556 patients receiving SCEMBLIX, the median duration of exposure to SCEMBLIX was 123 weeks (range, 0.1 to 439 weeks), with 79% of patients exposed for at least 48 weeks and 71% of patients exposed for at least 96 weeks, respectively.
+
+                        The most common (≥ 20%) adverse reactions in patients who received SCEMBLIX were musculoskeletal pain, rash, fatigue, upper respiratory tract infection, headache, abdominal pain, arthralgia, and diarrhea.
+
+                           Adverse Reactions in Patients with Newly Diagnosed Ph+ CML-CP
+
+                        The ASC4FIRST clinical trial randomized 405 patients with newly diagnosed Ph+ CML-CP to receive SCEMBLIX 80 mg once daily or investigator selected tyrosine kinase inhibitors (IS-TKIs). IS-TKIs included imatinib (400 mg once daily), nilotinib (300 mg twice daily), dasatinib (100 mg once daily), or bosutinib (400 mg once daily) [see Clinical Studies (14.1)]. The safety population (received at least 1 dose of SCEMBLIX) included 200 patients with newly diagnosed Ph+ CML-CP. Among patients who received SCEMBLIX, 84% were exposed for 96 weeks or longer [see Clinical Studies (14.1)].
+
+                        Serious adverse reactions occurred in 15% of patients who received SCEMBLIX. Serious adverse reactions in ≥ 1% included pancreatitis (1%), musculoskeletal pain (1%), and peripheral neuropathy (1%).
+
+                        Permanent discontinuation due to an adverse reaction occurred in 5% of patients receiving SCEMBLIX. Adverse reactions which resulted in permanent discontinuation of SCEMBLIX in ≥ 1% of patients included pancreatic enzymes increased (1.5%), cardiovascular toxicity (1%), and thrombocytopenia (1%).
+
+                        Dosage interruptions of SCEMBLIX due to an adverse reaction occurred in 33% of patients. Adverse reactions which required dosage interruption in > 5% of patients included thrombocytopenia (13%) and neutropenia (10%).
+
+                        Dose reductions of SCEMBLIX due to an adverse reaction occurred in 6% of patients. Adverse reactions which required dose reductions in > 1% of patients included thrombocytopenia (2.5%) and neutropenia (1.5%).
+
+                        The most common (≥ 20%) adverse reactions in patients who received SCEMBLIX were musculoskeletal pain and rash.
+
+                        The most common select laboratory abnormalities that worsened from baseline in ≥ 20% of patients who received SCEMBLIX were lymphocyte count decreased, leukocyte count decreased, platelet count decreased, neutrophil count decreased, calcium corrected decreased, lipase increased, cholesterol increased, uric acid increased, alanine aminotransferase (ALT) increased, alkaline phosphatase (ALP) increased, hemoglobin decreased, and triglycerides increased.
+
+                        Table 3 summarizes the adverse reactions in ASC4FIRST.
+
+                           Table 3: Adverse Reactions (≥ 10%) in Patients with Newly Diagnosed Ph+ CML in CP, Who Received SCEMBLIX in ASC4FIRST
+
+                                 Abbreviations: Ph+ CML in CP, Philadelphia chromosome-positive chronic myeloid leukemia (Ph+ CML) in chronic phase (CP); IS-TKIs, investigator selected tyrosine kinase inhibitors.
+
+                                    aMusculoskeletal pain includes: musculoskeletal pain, myalgia, pain in extremity, back pain, non-cardiac chest pain, bone pain, neck pain, musculoskeletal stiffness, musculoskeletal discomfort, musculoskeletal chest pain, arthritis, and spinal pain.
+
+                                    bRash includes: rash, rash maculo-papular, rash pustular, rash macular, dermatitis exfoliative, drug eruption, dermatitis acneiform, eczema, rash pruritic and rash vesicular.
+
+                                    cFatigue includes: fatigue and asthenia.
+
+                                    dDiarrhea includes: diarrhea, colitis and enteritis.
+
+                                    eAbdominal pain includes: abdominal pain, abdominal pain upper, abdominal discomfort, abdominal pain lower and gastrointestinal pain.
+
+                                    fUpper respiratory tract infection includes: upper respiratory tract infection, nasopharyngitis, pharyngitis, rhinitis and respiratory tract infection.
+
+                                    gDyslipidemia includes: dyslipidemia, hypertriglyceridemia, blood cholesterol increased, hypercholesterolemia, hyperlipidemia and blood triglycerides increased.
+
+                                    hHeadache contains: headache and migraine.
+
+                                    iHypertension contains: blood pressure increased, blood pressure systolic increased, diastolic hypertension, and hypertension.
+											 |
+
+                                  |
+
+                                    SCEMBLIX
+
+N = 200
+                                  |
+
+                                    IS-TKIs
+
+N = 201
+                                  |
+
+                                    Adverse Reaction
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3 or 4
+
+%
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3 or 4
+
+%
+                                  |
+
+                                    Musculoskeletal and connective tissue disorders
+                                  |
+
+                                    
+												Musculoskeletal paina
+                                  |
+
+												29
+											 |
+
+												1.5
+											 |
+
+												34
+											 |
+
+												0.5
+											 |
+
+                                    
+												Arthralgia
+											 |
+
+												13
+											 |
+
+												2
+											 |
+
+												10
+											 |
+
+												0.5
+											 |
+
+                                    Skin and subcutaneous tissue disorders
+                                  |
+
+                                    
+												Rashb
+                                  |
+
+												20
+											 |
+
+												0
+											 |
+
+												27
+											 |
+
+												2
+											 |
+
+                                    General disorders and administration site conditions
+                                  |
+
+                                    
+												Fatiguec
+                                  |
+
+												19
+											 |
+
+												1
+											 |
+
+												22
+											 |
+
+												1
+											 |
+
+                                    Gastrointestinal disorders
+                                  |
+
+                                    
+												Diarrhead
+                                  |
+
+												18										 |
+
+												0
+											 |
+
+												28
+											 |
+
+												1.5
+											 |
+
+                                    
+												Abdominal paine
+                                  |
+
+												17							 |
+
+												0.5
+											 |
+
+												12
+											 |
+
+												0.5
+											 |
+
+                                    
+												Constipation
+											 |
+
+												10						 |
+
+												0
+											 |
+
+												9
+											 |
+
+												0.5
+											 |
+
+                                    Infections and infestations
+                                  |
+
+                                    
+												Upper respiratory tract infectionf
+                                  |
+
+												18
+											 |
+
+												0
+											 |
+
+												20
+											 |
+
+												0.5
+											 |
+
+                                    Metabolism and nutrition disorders
+                                  |
+
+                                    
+												Dyslipidemiag
+                                  |
+
+												19 |
+
+												1
+											 |
+
+												11
+											 |
+
+												0.5
+											 |
+
+                                    Nervous system disorders
+                                  |
+
+                                    
+												Headacheh
+                                  |
+
+												17
+											 |
+
+												0.5
+											 |
+
+												17
+											 |
+
+												0
+											 |
+
+                                    Vascular disorders
+                                  |
+
+                                    
+												Hypertensioni
+                                  |
+
+												11
+											 |
+
+												6
+											 |
+
+												6
+											 |
+
+												4
+											 |
+
+                        Clinically relevant adverse reactions in < 10% of patients treated with SCEMBLIX in ASC4FIRST included: nausea,  cough, pruritus, dry eye, pyrexia, vomiting, dizziness, edema, lower respiratory tract infection, decreased appetite, hypothyroidism, urticaria, arrhythmia, influenza, neuropathy peripheral, hemorrhage, urinary tract infection, pneumonia, dyspnea, pancreatitis, vision blurred, febrile neutropenia, and palpitations.
+
+                        Table 4 summarizes the laboratory abnormalities in ASC4FIRST.
+
+                           Table 4: Select Laboratory Abnormalities (≥ 20%) That Worsened From Baseline in Patients with Newly Diagnosed Ph+ CML in CP, Who Received SCEMBLIX in ASC4FIRST
+
+                                    aThe denominator used to calculate the rate for SCEMBLIX and IS TKIs varied from 198 to 200 and 201, respectively, based on the number of patients with a baseline value and at least one post-treatment value.
+
+                                    bWorst post-baseline laboratory abnormalities based on normal ranges.
+
+CTCAE version 5.0
+											 |
+
+                                  |
+
+                                    SCEMBLIXa
+
+                                  |
+
+                                    IS-TKIsa
+
+                                  |
+
+                                    Laboratory Abnormality
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3 or 4
+
+%
+
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3 or 4
+
+%
+                                  |
+
+                                    Hematologic parameters
+                                  |
+
+											Lymphocyte count decreased
+											 |
+
+												72
+											 |
+
+												3.5
+											 |
+
+												84
+											 |
+
+												11
+											 |
+
+											Leukocyte count decreased
+											 |
+
+												55
+											 |
+
+												5
+											 |
+
+												68
+											 |
+
+												13
+											 |
+
+												Platelet count decreased
+											 |
+
+												48
+											 |
+
+												13
+											 |
+
+												56
+											 |
+
+												11
+											 |
+
+											Neutrophil count decreased
+											 |
+
+												47
+											 |
+
+												12
+											 |
+
+												63
+											 |
+
+												21
+											 |
+
+											Hemoglobin decreased
+											 |
+
+												25
+											 |
+
+												3
+											 |
+
+												51
+											 |
+
+												5
+											 |
+
+                                    Biochemical parameters
+                                  |
+
+                                 Calcium corrected decreased |
+
+												46
+											 |
+
+												0.5
+											 |
+
+												76
+											 |
+
+												2
+											 |
+
+											Lipase increased
+											 |
+
+												39
+											 |
+
+												12
+											 |
+
+												50
+											 |
+
+												12
+											 |
+
+											Cholesterol increased
+											 |
+
+												40
+											 |
+
+												0
+											 |
+
+												34
+											 |
+
+												0
+											 |
+
+												Uric acid increasedb
+                                  |
+
+												37
+											 |
+
+												-
+											 |
+
+												22
+											 |
+
+												-
+											 |
+
+												Alanine aminotransferase (ALT) increased
+											 |
+
+												33
+											 |
+
+												2.5
+											 |
+
+												45
+											 |
+
+												6
+											 |
+
+											Alkaline phosphatase (ALP) increased
+											 |
+
+												26
+											 |
+
+												0.5
+											 |
+
+												36
+											 |
+
+												0
+											 |
+
+												Triglycerides increased
+											 |
+
+												25
+											 |
+
+												1
+											 |
+
+												20
+											 |
+
+												1.5
+											 |
+
+                           Adverse Reactions in Patients with Ph+ CML-CP, Previously Treated with Two or More TKIs
+
+                        The clinical trial randomized and treated 232 patients with Ph+ CML-CP, previously treated with two or more TKIs to receive SCEMBLIX 40 mg twice daily or bosutinib 500 mg once daily (ASCEMBL) [see Clinical Studies (14.2)]. The safety population (received at least 1 dose of SCEMBLIX) included 156 patients with Ph+ CML-CP, previously treated with two or more TKIs. Among patients who received SCEMBLIX, 83% were exposed for 24 weeks or longer and 56% were exposed for 96 weeks or longer.
+
+                        Serious adverse reactions occurred in 18% of patients who received SCEMBLIX. Serious adverse reactions in ≥ 1% included cardiac failure congestive (1.9%), pyrexia (1.9%), urinary tract infection (1.9%), headache (1.3%), and thrombocytopenia (1.3%). Two patients (1.3%) had a fatal adverse reaction, one each for mesenteric artery thrombosis and ischemic stroke.
+
+                        Permanent discontinuation of SCEMBLIX due to an adverse reaction occurred in 8% of patients. Adverse reactions which resulted in permanent discontinuation of SCEMBLIX in > 2% of patients included thrombocytopenia (3.2%) and neutropenia (2.6%).
+
+                        Dosage interruptions of SCEMBLIX due to an adverse reaction occurred in 41% of patients. Adverse reactions which required dosage interruption in > 5% of patients included thrombocytopenia (19%) and neutropenia (18%).
+
+                        Dose reductions of SCEMBLIX due to an adverse reaction occurred in 6% of patients. Adverse reactions which required dose reductions in > 1% of patients included thrombocytopenia (4.5%) and neutropenia (1.3%).
+
+                        The most common (≥ 20%) adverse reactions in patients who received SCEMBLIX were upper respiratory tract infections, musculoskeletal pain, headache, and fatigue.
+
+                        The most common select laboratory abnormalities that worsened from baseline in ≥ 20% of patients who received SCEMBLIX were platelet count decreased, triglycerides increased, neutrophil count decreased, hemoglobin decreased, creatine kinase increased, alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased, uric acid increased, and lymphocyte count decreased.
+
+                        Table 5 summarizes the adverse reactions in ASCEMBL.
+
+                           Table 5: Adverse Reactions (≥ 10%) in Patients with Ph+ CML in CP, Previously Treated with Two or More TKIs Who Received SCEMBLIX in ASCEMBL
+
+                                 Abbreviations: Ph+ CML in CP, Philadelphia chromosome-positive chronic myeloid leukemia (Ph+ CML) in chronic phase (CP); TKIs, tyrosine kinase inhibitors.
+
+                                    aUpper respiratory tract infection includes: nasopharyngitis, upper respiratory tract infection, rhinitis, pharyngitis, respiratory tract infection, and pharyngotonsillitis.
+
+                                    bMusculoskeletal pain includes: pain in extremity, back pain, myalgia, non-cardiac chest pain, neck pain, bone pain, spinal pain, arthritis, musculoskeletal pain, and musculoskeletal chest pain.
+
+                                    cHeadache includes: headache and post-traumatic headache.
+
+                                    dFatigue includes: fatigue and asthenia.
+
+                                    eRash includes: rash, rash maculopapular, dermatitis acneiform, rash pustular, eczema, dermatitis, skin exfoliation, dermatitis exfoliative generalized, rash morbilliform, drug eruption, erythema multiforme, and rash erythematous.
+
+                                    fHypertension includes: hypertension and hypertensive crisis.
+
+                                    gDiarrhea includes: diarrhea and colitis.
+
+                                    hAbdominal pain includes: abdominal pain, abdominal pain upper, abdominal discomfort, abdominal pain lower, abdominal tenderness, and epigastric discomfort.
+
+                                  |
+
+                                  |
+
+                                    SCEMBLIX
+
+N = 156
+                                  |
+
+                                    Bosutinib
+
+N = 76
+                                  |
+
+                                    Adverse Reaction
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3 or 4
+
+%
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3 or 4
+
+%
+                                  |
+
+                                    Infections and infestations
+                                  |
+
+                                    
+												Upper respiratory tract infectiona
+                                  |
+
+												26
+											 |
+
+												0.6
+											 |
+
+												12
+											 |
+
+												1.3
+											 |
+
+                                    Musculoskeletal and connective tissue disorders
+                                  |
+
+                                    
+												Musculoskeletal painb
+                                  |
+
+												24
+											 |
+
+												2.6
+											 |
+
+												17
+											 |
+
+												1.3
+											 |
+
+                                    
+												Arthralgia
+											 |
+
+												13
+											 |
+
+												0.6
+											 |
+
+												3.9
+											 |
+
+												0
+											 |
+
+                                    Nervous system disorders
+                                  |
+
+                                    
+												Headachec
+                                  |
+
+												21
+											 |
+
+												1.9
+											 |
+
+												16
+											 |
+
+												0
+											 |
+
+                                    General disorders and administration-site conditions
+                                  |
+
+                                    
+												Fatigued
+                                  |
+
+												20
+											 |
+
+												0.6
+											 |
+
+												11
+											 |
+
+												1.3
+											 |
+
+                                    Skin and subcutaneous tissue disorders
+                                  |
+
+                                    
+												Rashe
+                                  |
+
+												18
+											 |
+
+												0.6
+											 |
+
+												30
+											 |
+
+												8
+											 |
+
+                                    Vascular disorders
+                                  |
+
+                                    
+												Hypertensionf
+                                  |
+
+												14								 |
+
+												7
+											 |
+
+												5
+											 |
+
+												3.9
+											 |
+
+                                    Gastrointestinal disorders
+                                  |
+
+                                    
+												Diarrheag
+                                  |
+
+												13											 |
+
+												0
+											 |
+
+												72
+											 |
+
+												11
+											 |
+
+                                    
+												Nausea
+											 |
+
+												12										 |
+
+												0.6
+											 |
+
+												46
+											 |
+
+												0
+											 |
+
+                                    
+												Abdominal painh
+                                  |
+
+												14									 |
+
+												0
+											 |
+
+												24
+											 |
+
+												2.6
+											 |
+
+                        Clinically relevant adverse reactions in < 10% of patients treated with SCEMBLIX in ASCEMBL included: cough, dyspnea, pleural effusion, dizziness, neuropathy peripheral, edema, pyrexia, vomiting, constipation, dyslipidemia, decreased appetite, pruritus, urticaria, lower respiratory tract infection, influenza, urinary tract infection, pneumonia, hemorrhage, arrhythmia (including electrocardiogram QT prolonged), palpitations, cardiac failure congestive, vision blurred, dry eye, hypothyroidism, and febrile neutropenia.
+
+                        Table 6 summarizes the laboratory abnormalities in ASCEMBL.
+
+                           Table 6: Select Laboratory Abnormalities (≥ 10%) That Worsened From Baseline in Patients with Ph+ CML in CP, Previously Treated with Two or More TKIs Who Received SCEMBLIX in ASCEMBL
+
+                                    aThe denominator used to calculate the rate for SCEMBLIX and bosutinib varied from 152 to 156 and 75 to 76, respectively, based on the number of patients with a baseline value and at least one post-treatment value.
+
+CTCAE version 4.03.
+											 |
+
+                                  |
+
+                                    SCEMBLIXa
+
+                                  |
+
+                                    Bosutiniba
+
+                                  |
+
+                                    Laboratory Abnormality
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3 or 4
+
+%
+
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3 or 4
+
+%
+                                  |
+
+                                    Hematologic parameters
+                                  |
+
+												Platelet count decreased
+											 |
+
+												46
+											 |
+
+												24
+											 |
+
+												36
+											 |
+
+												12
+											 |
+
+											Neutrophil count decreased
+											 |
+
+												43
+											 |
+
+												22
+											 |
+
+												33
+											 |
+
+												15
+											 |
+
+											Hemoglobin decreased
+											 |
+
+												37
+											 |
+
+												2
+											 |
+
+												54
+											 |
+
+												5
+											 |
+
+											Lymphocyte count decreased
+											 |
+
+												20
+											 |
+
+												3.3
+											 |
+
+												34
+											 |
+
+												2.6
+											 |
+
+                                    Biochemical parameters
+                                  |
+
+												Triglycerides increased
+											 |
+
+												44
+											 |
+
+												5
+											 |
+
+												30
+											 |
+
+												2.6
+											 |
+
+												Creatine kinase increased
+											 |
+
+												30
+											 |
+
+												2.6
+											 |
+
+												24
+											 |
+
+												5
+											 |
+
+												Alanine aminotransferase (ALT) increased
+											 |
+
+												26
+											 |
+
+												0.6
+											 |
+
+												50
+											 |
+
+												16
+											 |
+
+												Aspartate aminotransferase (AST) increased
+											 |
+
+												21
+											 |
+
+												1.9
+											 |
+
+												46
+											 |
+
+												7
+											 |
+
+												Uric acid increased
+											 |
+
+												21
+											 |
+
+												6
+											 |
+
+												18
+											 |
+
+												2.6
+											 |
+
+											Phosphate decreased
+											 |
+
+												18
+											 |
+
+												6
+											 |
+
+												20
+											 |
+
+												7
+											 |
+
+											Corrected calcium decreased
+											 |
+
+												16
+											 |
+
+												0.6
+											 |
+
+												22
+											 |
+
+												0
+											 |
+
+											Lipase increased
+											 |
+
+												15
+											 |
+
+												4.5
+											 |
+
+												18
+											 |
+
+												7
+											 |
+
+											Creatinine increased
+											 |
+
+												15
+											 |
+
+												0
+											 |
+
+												26
+											 |
+
+												0
+											 |
+
+											Amylase increased
+											 |
+
+												13
+											 |
+
+												1.3
+											 |
+
+												13
+											 |
+
+												0
+											 |
+
+											Alkaline phosphatase (ALP) increased
+											 |
+
+												13
+											 |
+
+												0
+											 |
+
+												12
+											 |
+
+												0
+											 |
+
+											Bilirubin increased
+											 |
+
+												12
+											 |
+
+												0
+											 |
+
+												3.9
+											 |
+
+												0
+											 |
+
+											Cholesterol increased
+											 |
+
+												12
+											 |
+
+												0
+											 |
+
+												8
+											 |
+
+												0
+											 |
+
+											Potassium decreased
+											 |
+
+												11
+											 |
+
+												0
+											 |
+
+												9
+											 |
+
+												0
+											 |
+
+                           Adverse Reactions in Patients with Ph+ CML-CP with the T315I Mutation
+
+                        The single-arm clinical trial enrolled patients with Ph+ CML-CP with the T315I mutation [see Clinical Studies (14.3)]. The safety population (received at least 1 dose of SCEMBLIX) included 48 patients with Ph+ CML-CP with the T315I mutation who received 200 mg of SCEMBLIX twice daily. Among these patients, 83% were exposed for 24 weeks or longer, and 75% were exposed for 48 weeks or longer.
+
+                        Serious adverse reactions occurred in 23% of patients who received SCEMBLIX. Serious adverse reactions in > 1% included abdominal pain (4.2%), vomiting (4.2%), pneumonia (4.2%), musculoskeletal pain (2.1%), headache (2.1%), hemorrhage (2.1%), constipation (2.1%), arrhythmia (2.1%), and pleural effusion (2.1%).
+
+                        Permanent discontinuation of SCEMBLIX due to an adverse reaction occurred in 10% of patients. Adverse reactions which resulted in permanent discontinuation of SCEMBLIX in > 2% of patients included pancreatic enzymes increased (2.1%).
+
+                        Dosage interruptions of SCEMBLIX due to an adverse reaction occurred in 31% of patients. Adverse reactions which required dosage interruption in > 5% of patients included pancreatic enzymes increased (17%) and thrombocytopenia (8%).
+
+                        Dose reductions of SCEMBLIX due to an adverse reaction occurred in 23% of patients. Adverse reactions which required dose reductions in > 1% of patients included pancreatic enzymes increased (10%), abdominal pain (4.2%), anemia (2.1%), blood bilirubin increased (2.1%), dizziness (2.1%), fatigue (2.1%), hepatic enzymes increased (2.1%), musculoskeletal pain (2.1%), nausea (2.1%), neutropenia (2.1%), pruritus (2.1%), and thrombocytopenia (2.1%).
+
+                        The most common (≥ 20%) adverse reactions in patients who received SCEMBLIX were musculoskeletal pain, fatigue, nausea, rash, and diarrhea.
+
+                        The most common select laboratory abnormalities that worsened from baseline in ≥ 20% of patients who received SCEMBLIX were alanine aminotransferase (ALT) increased, lipase increased, triglycerides increased, hemoglobin decreased, neutrophil count decreased, lymphocyte count decreased, phosphate decreased, aspartate aminotransferase (AST) increased, amylase increased, platelet count decreased, and bilirubin increased.
+
+                        Table 7 summarizes adverse reactions in study X2101.
+
+                           Table 7: Adverse Reactions (≥ 10%) in Patients with Ph+ CML in CP with the T315I Mutation Who Received SCEMBLIX in X2101
+
+                                    aMusculoskeletal  pain includes: pain in extremity, back pain, myalgia, musculoskeletal pain, non-cardiac chest pain, bone pain, arthritis, and musculoskeletal chest pain.
+
+                                    bFatigue includes: fatigue and asthenia.
+
+                                    cAbdominal pain includes: abdominal pain and hepatic pain.
+
+                                    dRash includes: rash, rash maculopapular, dermatitis acneiform, eczema, rash papular, skin exfoliation, and dyshidrotic eczema.
+
+                                    eHeadache includes: headache and migraine.
+
+                                    fCough includes: cough and productive cough.
+
+                                    gHemorrhage includes: epistaxis, ear hemorrhage, mouth hemorrhage, post procedural hemorrhage, skin hemorrhage, and vaginal hemorrhage.
+
+                                    hHypertension includes: hypertension and hypertensive crisis.
+
+                                    iUpper respiratory tract infection includes: upper respiratory tract infection, nasopharyngitis, rhinitis, and pharyngitis.
+											 |
+
+                                  |
+
+                                    SCEMBLIX
+
+200 mg twice daily
+
+N = 48
+                                  |
+
+                                    Adverse Reaction
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3 or 4
+
+%
+                                  |
+
+                                    Musculoskeletal and connective tissue disorders
+                                  |
+
+                                    
+												Musculoskeletal paina
+                                  |
+
+												42
+											 |
+
+												4.2
+											 |
+
+                                    
+												Arthralgia
+											 |
+
+												17
+											 |
+
+												0
+											 |
+
+                                    General disorders and administration-site conditions
+                                  |
+
+                                    
+												Fatigueb
+                                  |
+
+												31
+											 |
+
+												2.1
+											 |
+
+                                    
+												Edema
+											 |
+
+												10
+											 |
+
+												4.2
+											 |
+
+                                    Gastrointestinal disorders
+                                  |
+
+                                    
+												Nausea
+											 |
+
+												27
+											 |
+
+												0
+											 |
+
+                                    
+												Diarrhea
+											 |
+
+												21
+											 |
+
+												2.1
+											 |
+
+                                    Vomiting |
+
+												19
+											 |
+
+												6
+											 |
+
+                                    Abdominal painc
+                                  |
+
+												17
+											 |
+
+												8
+											 |
+
+                                    Skin and subcutaneous tissue disorders
+                                  |
+
+                                    
+												Rashd
+                                  |
+
+												27
+											 |
+
+												0
+											 |
+
+                                    
+												Pruritus
+											 |
+
+												13
+											 |
+
+												0
+											 |
+
+                                    Nervous system disorders
+                                  |
+
+                                    
+												Headachee
+                                  |
+
+												19
+											 |
+
+												2.1
+											 |
+
+                                    Respiratory, thoracic, and mediastinal disorders
+                                  |
+
+                                    
+												Coughf
+                                  |
+
+												15
+											 |
+
+												0
+											 |
+
+                                    Vascular disorders
+                                  |
+
+                                    
+												Hemorrhageg
+                                  |
+
+												15
+											 |
+
+												2.1
+											 |
+
+                                    
+												Hypertensionh
+                                  |
+
+												13
+											 |
+
+												8
+											 |
+
+                                    Infections and infestations
+                                  |
+
+                                    
+												Upper respiratory tract infectioni
+                                  |
+
+												13
+											 |
+
+												0
+											 |
+
+                        Clinically relevant adverse reactions in < 10% of patients treated with SCEMBLIX in X2101 included: constipation, pancreatitis, pyrexia, dizziness, neuropathy peripheral, pneumonia, lower respiratory tract infection, dyspnea, pleural effusion, dry eye, vision blurred, arrhythmia, palpitations, cardiac failure congestive, decreased appetite, dyslipidemia, hypersensitivity, and urticaria.
+
+                        Table 8 summarizes laboratory abnormalities in X2101.
+
+                           Table 8: Select Laboratory Abnormalities (≥ 10%) That Worsened From Baseline in Patients with Ph+ CML in CP with the T315I Mutation in X2101
+
+                                    aThe denominator used to calculate the rate was 48 based on the number of patients with a baseline value and at least one post-treatment value.
+
+CTCAE version 4.03.
+											 |
+
+                                  |
+
+                                    SCEMBLIXa
+
+200 mg twice daily
+                                  |
+
+                                    Laboratory Abnormality
+                                  |
+
+                                    All Grades
+
+%
+                                  |
+
+                                    Grade 3-4
+
+%
+
+                                  |
+
+                                    Hematologic parameters
+                                  |
+
+												Hemoglobin decreased
+											 |
+
+												44
+											 |
+
+												4.2
+											 |
+
+												Neutrophil count decreased
+											 |
+
+												44
+											 |
+
+												15
+											 |
+
+												Lymphocyte count decreased
+											 |
+
+												42
+											 |
+
+												4.2
+											 |
+
+												Platelet count decreased
+											 |
+
+												25
+											 |
+
+												15
+											 |
+
+                                    Biochemical parameters
+                                  |
+
+												Alanine aminotransferase (ALT) increased
+											 |
+
+												48
+											 |
+
+												6
+											 |
+
+												Potassium increased
+											 |
+
+												48
+											 |
+
+												2.1
+											 |
+
+												Triglycerides increased
+											 |
+
+												46
+											 |
+
+												2.1
+											 |
+
+												Lipase increased
+											 |
+
+												46
+											 |
+
+												21
+											 |
+
+												Phosphate decreased
+											 |
+
+												40
+											 |
+
+												6
+											 |
+
+												Uric acid increased
+											 |
+
+												40
+											 |
+
+												4.2
+											 |
+
+												Aspartate aminotransferase (AST) increased
+											 |
+
+												35
+											 |
+
+												2.1
+											 |
+
+												Calcium corrected decreased
+											 |
+
+												33
+											 |
+
+												0
+											 |
+
+												Creatinine increased
+											 |
+
+												31
+											 |
+
+												0
+											 |
+
+												Amylase increased
+											 |
+
+												29
+											 |
+
+												10
+											 |
+
+												Bilirubin increased
+											 |
+
+												23
+											 |
+
+												0
+											 |
+
+												Cholesterol increased
+											 |
+
+												15
+											 |
+
+												0
+											 |
+
+												Alkaline phosphatase (ALP) increased
+											 |
+
+												13
+											 |
+
+												0
+											 |

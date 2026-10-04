@@ -1,0 +1,118 @@
+DailyMed dc42ab17-cd30-4d1a-e053-2995a90a86ea | ACETAMINOPHEN | HIGHLIGHTS OF PRESCRIBING INFORMATION
+
+These highlights do not include all the information needed to use ACETAMINOPHEN INJECTION safely and effectively. See full prescribing information for ACETAMINOPHEN INJECTION.
+
+ACETAMINOPHEN injection, for intravenous use
+
+Initial U.S. Approval: 1951
+
+                     See Warnings and Precautions (5.1)
+
+                  INDICATIONS AND USAGE
+
+                  Acetaminophen Injection is indicated for the
+
+                  Management of mild to moderate pain in adult and pediatric patients 2 years and older
+  (1)
+
+Management of moderate to severe pain with adjunctive opioid analgesics in adult and pediatric patients 2 years and older
+  (1)
+
+Reduction of fever in adult and pediatric patients
+  (1)
+
+                  DOSAGE AND ADMINISTRATION
+
+                  Acetaminophen Injection may be given as a single or repeated dose.
+  (2.1)
+
+Acetaminophen Injection should be administered only as a 15-minute intravenous infusion.
+  (2.4)
+
+                  Adults and Adolescents Weighing 50 kg and Over:
+
+                  1,000 mg every 6 hours or 650 mg every 4 hours to a maximum of 4,000 mg per day. Minimum dosing interval of 4 hours.
+  (2.2)
+
+                  Adults and Adolescents Weighing Under 50 kg:
+
+                  15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours to a maximum of 75 mg/kg per day. Minimum dosing interval of 4 hours.
+  (2.2)
+
+                  Children:
+
+                  Children 2 to 12 years of age: 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours to a maximum of 75 mg/kg per day. Minimum dosing interval of 4 hours. (
+  2.3)
+
+                  Neonates and Infants:
+
+                  Neonates including premature neonates born at ≥ 32 weeks gestational age to 28 days chronological age, 12.5 mg/kg every 6 hours to a maximum of 50 mg/kg per day. Minimum dosing interval of 6 hours.
+  (2.4)
+
+Infants (29 days to 2 years of age): 15 mg/kg every 6 hours to a maximum of 60 mg/kg per day. Minimum dosing interval of 6 hours.
+  (2.4)
+
+                  DOSAGE FORMS AND STRENGTHS
+
+                  Injection for intravenous infusion.
+
+Each 100 mL glass vial contains 1,000 mg acetaminophen (10 mg/mL).
+  (3)
+
+                  CONTRAINDICATIONS
+
+                  Acetaminophen is contraindicated:
+
+                  In patients with known hypersensitivity to acetaminophen or to any of the excipients in the IV formulation.
+  (4)
+
+In patients with severe hepatic impairment or severe active liver disease.
+  (4)
+
+                  WARNINGS AND PRECAUTIONS
+
+                  Administration of acetaminophen in doses higher than recommended (by all routes of administration and from all acetaminophen-containing products including combination products) may result in hepatic injury, including the risk of liver failure and death.
+  (5.1)
+
+Use caution when administering acetaminophen in patients with the following conditions: hepatic impairment or active hepatic disease, in cases of alcoholism, chronic malnutrition, severe hypovolemia, or severe renal impairment (creatinine clearance ≤ 30 mL/min).
+  (5.1)
+
+Discontinue acetaminophen injection immediately at the first appearance of skin rash and if symptoms associated with allergy or hypersensitivity occur. Do not use in patients with acetaminophen allergy.
+  (5.2, 5.4)
+
+Take care when prescribing, preparing, and administering acetaminophen injection to avoid dosing errors which could result in accidental overdose and death.
+  (5.3)
+
+                  ADVERSE REACTIONS
+
+                  The most common adverse reactions in patients treated with acetaminophen were nausea, vomiting, headache, and insomnia in adult patients; nausea, vomiting, constipation, and pruritus in pediatric patients.
+  (6.1)
+
+                  To report SUSPECTED ADVERSE REACTIONS, contact AuroMedics Pharma LLC at 1-866-850-2876 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+                  DRUG INTERACTIONS
+
+                  Substances that induce or regulate hepatic cytochrome enzyme CYP2E1 may alter the metabolism of acetaminophen and increase its hepatotoxic potential.
+  (7.1)
+
+Chronic oral acetaminophen use at a dose of 4,000 mg/day has been shown to cause an increase in international normalized ratio (INR) in some patients who have been stabilized on sodium warfarin as an anticoagulant.
+  (7.2)
+
+                  USE IN SPECIFIC POPULATIONS
+
+                  Pediatric Use: The effectiveness of acetaminophen for the treatment of acute pain in pediatric patients younger than 2 years of age has not been established. The safety and effectiveness of acetaminophen in pediatric patients is supported by evidence from adequate and well controlled studies in adults with additional safety and pharmacokinetic data for this age group.
+  (8.4)
+
+Geriatric Use: No overall differences in safety or effectiveness were observed between geriatric and younger subjects.
+  (8.5)
+
+Hepatic Impairment: Acetaminophen is contraindicated in patients with severe hepatic impairment or severe active liver disease and should be used with caution in patients with hepatic impairment or active liver disease. (
+  4,
+  5.1,
+  8.6)
+
+Renal Impairment: In cases of severe renal impairment, longer dosing intervals and a reduced total daily dose of acetaminophen may be warranted. (
+  5.1,
+  8.7)
+
+                  Revised: 12/2021

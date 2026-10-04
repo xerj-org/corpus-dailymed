@@ -1,0 +1,3 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 7.2 Probenecid
+
+Probenecid administered concomitantly with piperacillin and tazobactam for injection prolongs the half-life of piperacillin by 21% and that of tazobactam by 71% because probenecid inhibits tubular renal secretion of both piperacillin and tazobactam. Probenecid should not be co-administered with piperacillin and tazobactam for injection unless the benefit outweighs the risk.

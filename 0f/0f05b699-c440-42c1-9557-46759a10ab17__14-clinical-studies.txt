@@ -1,0 +1,3 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 14 CLINICAL STUDIES
+
+The efficacy of fulvestrant 500 mg versus fulvestrant 250 mg was compared in CONFIRM. The efficacy of fulvestrant 250 mg was compared to 1 mg anastrozole in Studies 0020 and 0021. The efficacy of fulvestrant 500 mg was compared to 1 mg anastrozole in FALCON. The efficacy of fulvestrant 500 mg in combination with palbociclib 125 mg was compared to fulvestrant 500 mg plus placebo in PALOMA-3. The efficacy of fulvestrant 500 mg in combination with abemaciclib 150 mg was compared to fulvestrant 500 mg plus placebo in MONARCH 2. The efficacy of fulvestrant 500 mg in combination with ribociclib 600 mg was compared to fulvestrant 500 mg plus placebo in MONALEESA-3.

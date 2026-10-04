@@ -1,0 +1,55 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 6.3 Other Reactions Observed During the Pre-marketing Evaluation of Doxepin Tablets
+
+Doxepin was administered to 1017 subjects in clinical trials in the United States. Treatment-emergent adverse reactions recorded by clinical investigators were standardized using a modified MedDRA dictionary of preferred terms. The following is a list of MedDRA terms that reflect treatment-emergent adverse reactions reported by subjects treated with doxepin.
+
+                        Adverse reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions: Frequent adverse reactions are those that occurred on one or more occasions in at least 1/100 subjects; Infrequent adverse reactions are those that occurred in fewer than 1/100 subjects and more than 1/1000 subjects. Rare adverse reactions are those that occurred in fewer than 1/1000 subjects. Adverse reactions that are listed in Table 1 are not included in the following listing of frequent, infrequent, and rare AEs.
+
+                           Blood and Lymphatic System Disorders: Infrequent: anemia; Rare: thrombocythemia.
+
+                           Cardiac Disorders: Rare: atrioventricular block, palpitations, tachycardia, ventricular extrasystoles.
+
+                           Ear and Labyrinth Disorders: Rare: ear pain, hypoacusis, motion sickness, tinnitus, tympanic membrane perforation.
+
+                           Eye Disorders: Infrequent: eye redness, vision blurred; Rare: blepharospasm, diplopia, eye pain, lacrimation decreased.
+
+                           Gastrointestinal Disorders: Infrequent: abdominal pain, dry mouth, gastroesophageal reflux disease, vomiting; Rare: dyspepsia, constipation, gingival recession, haematochezia, lip blister.
+
+                           General Disorders and Administration Site Conditions: Infrequent: asthenia, chest pain, fatigue; Rare: chills, gait abnormal, edema peripheral.
+
+                           Hepatobiliary Disorders: Rare: hyperbilirubinemia.
+
+                           Immune System Disorders: Rare: hypersensitivity.
+
+                           Infections and Infestations: Infrequent: bronchitis, fungal infection, laryngitis, sinusitis, tooth infection, urinary tract infection, viral infection; Rare: cellulitis staphylococcal, eye infection, folliculitis, gastroenteritis viral, herpes zoster, infective tenosynovitis, influenza, lower respiratory tract infection, onychomycosis, pharyngitis, pneumonia.
+
+                           Injury, Poisoning and Procedural Complications: Infrequent: back injury, fall, joint sprain; Rare: bone fracture, skin laceration.
+
+                           Investigations: Infrequent: blood glucose increased; Rare: alanine aminotransferase increased, blood pressure decreased, blood pressure increased, electrocardiogram ST-T segment abnormal, electrocardiogram QRS complex abnormal, heart rate decreased, neutrophil count decreased, QRS axis abnormal, transaminases increased.
+
+                           Metabolism and Nutrition Disorders: Infrequent: anorexia, decreased appetite, hyperkalemia, hypermagnesemia, increased appetite; Rare: hypokalemia.
+
+                           Musculoskeletal and Connective Tissue Disorders: Infrequent: arthralgia, back pain, myalgia, neck pain, pain in extremity; Rare: joint range of motion decreased, muscle cramp, sensation of heaviness.
+
+                           Neoplasms Benign, Malignant and Unspecified (Including Cysts and Polyps): Rare: lung adenocarcinoma stage I, malignant melanoma.
+
+                           Nervous System Disorders: Frequent: dizziness; Infrequent: dysgeusia, lethargy, parasthesia, syncope; Rare: ageusia, ataxia, cerebrovascular accident, disturbance in attention, migraine, sleep paralysis, syncope vasovagal, tremor.
+
+                           Psychiatric Disorders: Infrequent: abnormal dreams, adjustment disorder, anxiety, depression; Rare: confusional state, elevated mood, insomnia, libido decreased, nightmare.
+
+                           Reproductive System and Breast Disorders: Rare: breast cyst, dysmenorrhea.
+
+                           Renal and Urinary Disorders: Rare: dysuria, enuresis, hemoglobinuria, nocturia.
+
+                           Respiratory, Thoracic and Mediastinal Disorders: Infrequent: nasal congestion, pharyngolaryngeal pain, sinus congestion, wheezing; Rare: cough, crackles lung, nasopharyngeal disorder, rhinorrhea, dyspnea.
+
+                           Skin and Subcutaneous Tissue Disorders: Infrequent: skin irritation; Rare: cold sweat, dermatitis, erythema, hyperhidrosis, pruritis, rash, rosacea.
+
+                           Surgical and Medical Procedures: Rare: arthrodesis.
+
+                           Vascular Disorders: Infrequent: pallor; Rare: blood pressure inadequately controlled, hematoma, hot flush.
+
+                        In addition, the reactions below have been reported for other tricyclics and may be idiosyncratic (not related to dose).
+
+                           Allergic: photosensitization, skin rash.
+
+                           Hematologic: agranulocytosis, eosinophilia, leukopenia, purpura, thrombocytopenia.

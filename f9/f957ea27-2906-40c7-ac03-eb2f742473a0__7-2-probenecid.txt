@@ -1,0 +1,3 @@
+DailyMed f957ea27-2906-40c7-ac03-eb2f742473a0 | Cephalexin | 7.2 Probenecid
+
+The renal excretion of cephalexin is inhibited by probenecid. Co-administration of probenecid with cephalexin is not recommended.

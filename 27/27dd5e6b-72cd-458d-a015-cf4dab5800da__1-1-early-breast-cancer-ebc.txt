@@ -1,0 +1,9 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 1.1 Early Breast Cancer (EBC)
+
+PHESGO is indicated for use in combination with chemotherapy for
+
+                           the neoadjuvant treatment of adult patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer (either greater than 2 cm in diameter or node positive) as part of a complete treatment regimen for early breast cancer [see Dosage and Administration (2.2) and Clinical Studies (14.2)].
+
+                           the adjuvant treatment of adult patients with HER2-positive early breast cancer at high risk of recurrence [see Dosage and Administration (2.2) and Clinical Studies (14.2)].
+
+                        Select patients for therapy based on an FDA-authorized companion diagnostic test [see Dosage and Administration (2.1)].

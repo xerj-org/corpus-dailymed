@@ -1,0 +1,27 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 7.2 Effect of SCEMBLIX on Other Drugs
+
+Certain CYP3A4 Substrates
+
+                        Asciminib is a CYP3A4 inhibitor. Concomitant use of SCEMBLIX increases the Cmax and AUC of CYP3A4 substrates, which may increase the risk of adverse reactions of these substrates [see Clinical Pharmacology (12.3)].
+
+                        Closely monitor for adverse reactions in patients treated with SCEMBLIX at 80 mg total daily dose with concomitant use of certain CYP3A4 substrates, where minimal concentration changes may lead to serious adverse reactions. Avoid coadministration of SCEMBLIX at 200 mg twice daily with certain CYP3A4 substrates, where minimal concentration changes may lead to serious adverse reactions.
+
+                           CYP2C9 Substrates
+
+                        Asciminib is a CYP2C9 inhibitor. Concomitant use of SCEMBLIX increases the Cmax and AUC of CYP2C9 substrates, which may increase the risk of adverse reactions of these substrates [see Clinical Pharmacology (12.3)].
+
+                        Avoid coadministration of SCEMBLIX at 80 mg total daily dose with certain CYP2C9 substrates, where minimal concentration changes may lead to serious adverse reactions.  If coadministration is unavoidable, reduce the CYP2C9 substrate dosage as recommended in its prescribing information.
+
+                        Avoid coadministration of SCEMBLIX at 200 mg twice daily with sensitive CYP2C9 substrates and certain CYP2C9 substrates, where minimal concentration changes may lead to serious adverse reactions. If coadministration is unavoidable, consider alternative therapy with a non-CYP2C9 substrate.
+
+                           Certain P-gp Substrates
+
+                        Asciminib is a P-gp inhibitor. Concomitant use of SCEMBLIX increases the plasma concentrations of P-gp substrates, which may increase the risk of adverse reactions of these substrates [see Clinical Pharmacology (12.3)].
+
+                        Closely monitor for adverse reactions in patients treated with SCEMBLIX at all recommended doses with concomitant use of P-gp substrates, where minimal concentration changes may lead to serious toxicities. Adjust the dosage of these P-gp substrates, as recommended in their Prescribing Information, when used concomitantly with SCEMBLIX at all recommended doses.
+
+                           Substrates of BCRP
+
+                        Asciminib is a BCRP inhibitor. Concomitant use of SCEMBLIX may increase the plasma concentration of BCRP substrates [see Clinical Pharmacology (12.3)], which may increase the risk of adverse reactions associated with these substrates.
+
+                        Closely monitor for adverse reactions in patients treated with SCEMBLIX at all recommended doses with concomitant use of rosuvastatin or other BCRP substrates. Reduce the dosage of the BCRP substrates as recommended in their Prescribing Information when used concomitantly with SCEMBLIX at all recommended doses.

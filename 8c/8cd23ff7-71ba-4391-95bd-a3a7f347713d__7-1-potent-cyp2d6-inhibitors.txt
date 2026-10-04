@@ -1,0 +1,13 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 7.1 Potent CYP2D6 Inhibitors
+
+Fluoxetine, a potent inhibitor of CYP2D6 activity, significantly inhibited the metabolism of tolterodine immediate release in CYP2D6 extensive metabolizers, resulting in a 4.8-fold increase in tolterodine AUC. There was a 52% decrease in C
+  max and a 20% decrease in AUC of 5-hydroxymethyl tolterodine (5-HMT), the pharmacologically active metabolite of tolterodine
+  [see
+
+                                 CLINICAL PHARMACOLOGY (12.1)
+                              ].
+   The sums of unbound serum concentrations of tolterodine and 5-HMT are only 25% higher during the interaction. No dose adjustment is required when tolterodine and fluoxetine are co-administered
+  [see
+
+                                 CLINICAL PHARMACOLOGY (12.3)
+                              ].

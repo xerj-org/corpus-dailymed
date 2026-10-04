@@ -1,0 +1,9 @@
+DailyMed ebf30894-41cf-480c-8bc3-56f592a13813 | Herceptin Hylecta | 5.1 Cardiomyopathy
+
+HERCEPTIN HYLECTA can cause left ventricular cardiac dysfunction, arrhythmias, hypertension, disabling cardiac failure, cardiomyopathy, and cardiac death [see Boxed Warning: Cardiomyopathy]. HERCEPTIN HYLECTA can also cause asymptomatic decline in LVEF.
+
+                        There is a 4–6 fold increase in the incidence of symptomatic myocardial dysfunction among patients receiving trastuzumab as a single agent or in combination therapy compared with those not receiving trastuzumab. The highest absolute incidence occurs when trastuzumab is administered with an anthracycline. The incidence of symptomatic myocardial dysfunction for intravenous trastuzumab and HERCEPTIN HYLECTA was similar in clinical trials [see Adverse Reactions (6)].
+
+                        Withhold HERCEPTIN HYLECTA for ≥16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.4)]. The safety of continuation or resumption of HERCEPTIN HYLECTA in patients with HERCEPTIN HYLECTA induced left ventricular cardiac dysfunction has not been studied.
+
+                        Patients who receive anthracycline after stopping HERCEPTIN HYLECTA may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.3)].

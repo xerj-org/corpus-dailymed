@@ -1,0 +1,3 @@
+DailyMed 180985f0-3fbd-4868-a826-b84101618a03 | Tizanidine | 12.1 Mechanism of Action
+
+Tizanidine is a central alpha-2-adrenergic receptor agonist and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons. The effects of tizanidine are greatest on polysynaptic pathways. The overall effect of these actions is thought to reduce facilitation of spinal motor neurons.

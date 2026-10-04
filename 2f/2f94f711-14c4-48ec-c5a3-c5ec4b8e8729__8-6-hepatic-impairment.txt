@@ -1,0 +1,3 @@
+DailyMed 2f94f711-14c4-48ec-c5a3-c5ec4b8e8729 | Lidocaine Hydrochloride and Epinephrine | 8.6 Hepatic Impairment
+
+Amide-type local anesthetics such as lidocaine are metabolized by the liver. Patients with severe hepatic impairment, because of their inability to metabolize local anesthetics normally, are at greater risk of developing toxic plasma concentrations and potentially local anesthetic systemic toxicity. Therefore, consider reduced dosing and increased monitoring for local anesthetic systemic toxicity in patients with hepatic impairment treated with Lidocaine Hydrochloride and Epinephrine Injection, especially with repeat doses [see Warnings and Precautions (5.8)].

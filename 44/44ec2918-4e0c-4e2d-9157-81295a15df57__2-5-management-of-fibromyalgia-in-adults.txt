@@ -1,0 +1,9 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 2.5 Management of Fibromyalgia in Adults
+
+The recommended dose of pregabalin capsules for fibromyalgia is 300 to 450 mg/day. Begin dosing at 75 mg two times a day (150 mg/day). The dose may be increased to 150 mg two times a day (300 mg/day) within 1 week based on efficacy and tolerability. Patients who do not experience sufficient benefit with 300 mg/day may be further increased to 225 mg two times a day  (450 mg/day). Although pregabalin capsule was also studied at 600 mg/day, there is no evidence that this dose confers additional benefit and this dose was less well tolerated. In view of the dose-dependent adverse reactions, treatment with doses above 450 mg/day is not recommended
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  .

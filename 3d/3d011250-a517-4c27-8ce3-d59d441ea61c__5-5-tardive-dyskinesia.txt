@@ -1,0 +1,11 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 5.5 Tardive Dyskinesia
+
+Tardive dyskinesia (TD) may develop in patients treated with antipsychotic drugs, including haloperidol decanoate [see
+
+  Adverse Reactions(
+
+  6.1)]. TD can develop after a relatively brief treatment period at low dosages and may also occur after discontinuation of treatment. If antipsychotic treatment is discontinued, TD may partially or completely remit. Antipsychotic treatment, however, may suppress or partially suppress the signs and symptoms of TD and may mask the underlying process. The effect that symptomatic suppression has upon the long-term course of TD is unknown.
+
+                        The TD risk in patients treated with antipsychotic drugs appears to be highest among the elderly, especially elderly women, but it is not possible to predict, which patients are likely to develop TD. The TD risk and the likelihood that TD will become irreversible increase with the duration of antipsychotic drug treatment and the cumulative dosage.
+
+                        In patients who require chronic antipsychotic treatment, use the lowest dosage and the shortest duration of treatment that produces a satisfactory clinical response. Periodically reassess the need for continued treatment. If signs and symptoms of TD appear in haloperidol decanoate -treated patients, consider drug discontinuation. However, some patients may require haloperidol decanoate treatment despite the presence of TD.

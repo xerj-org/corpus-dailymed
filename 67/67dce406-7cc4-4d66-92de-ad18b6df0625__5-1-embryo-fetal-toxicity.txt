@@ -1,0 +1,7 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 5.1 Embryo-Fetal Toxicity
+
+SOHONOS can cause fetal harm and is contraindicated during pregnancy. SOHONOS is a member of the retinoid class of drugs which is associated with birth defects in humans. In animal reproduction studies, palovarotene administered orally to pregnant rats during organogenesis was teratogenic and caused fetal malformations typical of retinoids including cleft palate, misshapen skull bones, and shortening of the long bones at clinically relevant exposures.
+
+                        For females of reproductive potential, verify that the patient is not pregnant prior to initiating treatment, periodically during the course of therapy and one month after treatment discontinuation. Advise females of reproductive potential to use an effective method of contraception at least one month prior to treatment, during treatment with SOHONOS and for 1 month after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.3)]. If a pregnancy occurs during SOHONOS treatment, discontinue treatment immediately and refer the patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
+
+                        Patients should be informed not to donate blood during SOHONOS therapy and for 1 week following discontinuation because the blood might be given to a pregnant patient whose fetus must not be exposed to palovarotene.

@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Centrally Acting Agents
+
+If diazepam tablets are to be combined with other centrally acting agents, careful consideration should be given to the pharmacology of the agents employed particularly with compounds that may potentiate or be potentiated by the action of diazepam tablets, such as phenothiazines, antipsychotics, anxiolytics/sedatives, hypnotics, anticonvulsants, narcotic analgesics, anesthetics, sedative antihistamines, narcotics, barbiturates, MAO inhibitors and other antidepressants.

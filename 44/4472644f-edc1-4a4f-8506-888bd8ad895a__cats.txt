@@ -1,0 +1,5 @@
+DailyMed 4472644f-edc1-4a4f-8506-888bd8ad895a | Vetsulin | Cats
+
+The initial recommended dose in cats is 1 to 2 International Units per injection. The injections should be given twice daily at approximately 12 hour intervals. For cats fed twice daily, the injections should be given concurrently with, or right after each meal. For cats fed ad libitum, no change in feeding schedule is needed.
+
+                        The veterinarian should re-evaluate the cat at appropriate intervals and adjust the dose based on clinical signs, urinalysis results, and glucose curve values until adequate glycemic control has been attained. Further adjustments in dosage may be necessary with changes in the cat's diet, body weight, or concomitant medication, or if the cat develops concurrent infection, inflammation, neoplasia, or an additional endocrine or other medical disorder.

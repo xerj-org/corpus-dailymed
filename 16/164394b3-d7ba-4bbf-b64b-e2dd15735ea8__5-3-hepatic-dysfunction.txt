@@ -1,0 +1,7 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 5.3 Hepatic Dysfunction
+
+Increases in serum transaminases have been reported with use of atorvastatin [see Adverse Reactions (6.1)]. In most cases, these changes appeared soon after initiation, were transient, were not accompanied by symptoms, and resolved or improved on continued therapy or after a brief interruption in therapy. Persistent increases to more than three times the ULN in serum transaminases have occurred in approximately 0.7% of patients receiving atorvastatin in clinical trials. There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including atorvastatin.
+
+                        Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury [see Use in Specific Populations (8.7)].
+
+                        Consider liver enzyme testing before atorvastatin initiation and when clinically indicated thereafter. Atorvastatin is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4)]. If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs, promptly discontinue atorvastatin.

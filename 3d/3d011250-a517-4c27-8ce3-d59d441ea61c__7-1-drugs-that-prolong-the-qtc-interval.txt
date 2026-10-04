@@ -1,0 +1,17 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 7.1 Drugs that Prolong the QTc Interval
+
+Avoid concomitant use of haloperidol decanoate with other drugs with a known potential to prolong the QTc interval. If concomitant use cannot be avoided [
+
+  see Warnings and Precautions(
+
+  5.2)]:
+
+                        • Obtain ECGs when initiating and during concomitant use as clinically indicated.
+
+                        • Obtain serum electrolytes (including potassium, calcium, phosphorus and magnesium) when initiating and during concomitant use as clinically indicated.
+
+                        QTc interval prolongation has been observed with haloperidol decanoate treatment. Concomitant use of haloperidol decanoate with other products that prolong the QTc interval may result in a greater increase in the QTc interval and adverse reactions associated with QTc interval prolongation, including torsade de pointes, other serious arrythmias and sudden death [
+
+  see Warnings and Precautions(
+
+  5.2)].

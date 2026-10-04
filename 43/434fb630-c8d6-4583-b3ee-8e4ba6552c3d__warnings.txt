@@ -1,0 +1,11 @@
+DailyMed 434fb630-c8d6-4583-b3ee-8e4ba6552c3d | CLAFORAN | WARNINGS
+
+BEFORE THERAPY WITH CLAFORAN IS INSTITUTED, CAREFUL INQUIRY SHOULD BE MADE TO DETERMINE WHETHER THE PATIENT HAS HAD PREVIOUS HYPERSENSITIVITY REACTIONS TO CEFOTAXIME SODIUM, CEPHALOSPORINS, PENICILLINS, OR OTHER DRUGS. THIS PRODUCT SHOULD BE GIVEN WITH CAUTION TO PATIENTS WITH TYPE I HYPERSENSITIVITY REACTIONS TO PENICILLIN. ANTIBIOTICS SHOULD BE ADMINISTERED WITH CAUTION TO ANY PATIENT WHO HAS DEMONSTRATED SOME FORM OF ALLERGY, PARTICULARLY TO DRUGS. IF AN ALLERGIC REACTION TO CLAFORAN OCCURS, DISCONTINUE TREATMENT WITH THE DRUG. SERIOUS HYPERSENSITIVITY REACTIONS MAY REQUIRE EPINEPHRINE AND OTHER EMERGENCY MEASURES.
+
+                  During post-marketing surveillance, a potentially life-threatening arrhythmia was reported in each of six patients who received a rapid (less than 60 seconds) bolus injection of cefotaxime through a central venous catheter. Therefore, cefotaxime should only be administered as instructed in the DOSAGE AND ADMINISTRATION section.
+
+                     Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLAFORAN, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
+                     C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+                  If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.

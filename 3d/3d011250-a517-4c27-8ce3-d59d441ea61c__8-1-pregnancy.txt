@@ -1,0 +1,25 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from published epidemiologic studies of pregnant patients exposed to haloperidol have not established a drug-associated risk of major birth defects or miscarriage. Case reports of limb malformations in neonates have been reported in haloperidol-treated mothers; however, causal relationships were not established in these cases. There are risks to the pregnant patient from untreated schizophrenia, including increased risk of relapse, hospitalization and suicide (see Clinical Considerations).
+
+                        Haloperidol decanoate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+                        Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and decreased feeding) following delivery (see Clinical Considerations).
+
+                        The estimated background risk of major birth defects and miscarriage in patients with schizophrenia is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                        Clinical Considerations
+
+                        Disease-associated Maternal and/or Embryo/Fetal Risk: There is risk to the pregnant patient from untreated schizophrenia, including increased risk of schizophrenia relapse, hospitalization and suicide. Schizophrenia is associated with increased adverse perinatal outcomes, including preterm birth. It is not known if this is a direct result of the illness or other comorbid factors.
+
+                        Fetal/Neonatal Adverse Reactions: Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and decreased feeding have been reported in neonates who were exposed to antipsychotic drugs during the third trimester of pregnancy. Transient neonatal dyskinesia has also been reported. Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization. Monitor neonates for extrapyramidal, withdrawal and dyskinesia symptoms and manage symptoms appropriately.
+
+                        Data
+
+                           Animal Data
+
+                        Rats or rabbits administered oral haloperidol at doses of 0.5 to 7.5 mg/kg (approximately
+
+                        0.2 to 7 times the maximum recommended human oral dose (MRHD) of 20 mg/day based on mg/m2 body surface area) showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality. No fetal abnormalities were observed at these doses in rats or rabbits. Cleft palate has been observed in mice administered oral haloperidol at a dose of 0.5 mg/kg, which is approximately 0.1 times the oral MRHD based on mg/m2 body surface area.

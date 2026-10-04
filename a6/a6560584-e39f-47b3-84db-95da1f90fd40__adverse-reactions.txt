@@ -1,0 +1,200 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | ADVERSE REACTIONS
+
+To report SUSPECTED ADVERSE REACTIONS, contact Westminster Pharmaceuticals, LLC at 1-844-221-7294 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+                  In controlled studies in the United States and overseas, approximately 3000 patients were treated with felodipine as either the extended-release or the immediate-release formulation.
+
+                  The most common clinical adverse events reported with Felodipine administered as monotherapy at the recommended dosage range of 2.5 mg to 10 mg once a day were peripheral edema and headache. Peripheral edema was generally mild, but it was age and dose related and resulted in discontinuation of therapy in about 3% of the enrolled patients. Discontinuation of therapy due to any clinical adverse event occurred in about 6% of the patients receiving Felodipine, principally for peripheral edema, headache, or flushing.
+
+                  Adverse events that occurred with an incidence of 1.5% or greater at any of the recommended doses of 2.5 mg to 10 mg once a day (Felodipine, N = 861; Placebo, N = 334), without regard to causality, are compared to placebo and are listed by dose in the table below. These events are reported from controlled clinical trials with patients who were randomized to a fixed dose of Felodipine or titrated from an initial dose of 2.5 mg or 5 mg once a day. A dose of 20 mg once a day has been evaluated in some clinical studies. Although the antihypertensive effect of Felodipineis increased at 20 mg once a day, there is a disproportionate increase in adverse events, especially those associated with vasodilatory effects (see DOSAGE AND ADMINISTRATION).
+
+                     Percent of Patients with Adverse Events in Controlled TrialsPatients in titration studies may have been exposed to more than one dose level of Felodipine.
+
+ of Felodipine(N=861) as Monotherapy without Regard to Causality (Incidence of discontinuations shown in parentheses)
+
+                           Body System Adverse Events |
+                           Placebo
+
+N=334 |
+                           2.5mg
+
+N=255 |
+                           5mg
+
+N=581 |
+                           10mg
+
+N=408 |
+
+                              Body as a Whole
+                            |
+
+                           Peripheral Edema |
+                           3.3 (0.0) |
+                           2.0 (0.0) |
+                           8.8 (2.2) |
+                           17.4 (2.5) |
+
+                           Asthenia |
+                           3.3 (0.0) |
+                           3.9 (0.0) |
+                           3.3 (0.0) |
+                           2.2 (0.0) |
+
+                           Warm Sensation |
+                           0.0 (0.0) |
+                           0.0 (0.0) |
+                           0.9 (0.2) |
+                           1.5 (0.0) |
+
+                             |
+                             |
+                             |
+                             |
+                             |
+
+                              Cardiovascular
+                            |
+
+                           Palpitation |
+                           2.4 (0.0) |
+                           0.4 (0.0) |
+                           1.4 (0.3) |
+                           2.5 (0.5) |
+
+                             |
+                             |
+                             |
+                             |
+                             |
+
+                              Digestive
+                            |
+
+                           Nausea |
+                           1.5 (0.9) |
+                           1.2 (0.0) |
+                           1.7 (0.3) |
+                           1.0 (0.7) |
+
+                           Dyspepsia |
+                           1.2 (0.0) |
+                           3.9 (0.0) |
+                           0.7 (0.0) |
+                           0.5 (0.0) |
+
+                           Constipation |
+                           0.9 (0.0) |
+                           1.2 (0.0) |
+                           0.3 (0.0) |
+                           1.5 (0.2) |
+
+                             |
+                             |
+                             |
+                             |
+                             |
+
+                              Nervous
+                            |
+
+                           Headache |
+                           10.2 (0.9) |
+                           10.6 (0.4) |
+                           11.0 (1.7) |
+                           14.7 (2.0) |
+
+                           Dizziness |
+                           2.7 (0.3) |
+                           2.7 (0.0) |
+                           3.6 (0.5) |
+                           3.7 (0.5) |
+
+                           Paresthesia |
+                           1.5 (0.3) |
+                           1.6 (0.0) |
+                           1.2 (0.0) |
+                           1.2 (0.2) |
+
+                             |
+                             |
+                             |
+                             |
+                             |
+
+                              Respiratory
+                            |
+
+                           Upper Respiratory Infection |
+                            |
+                            |
+                            |
+                            |
+
+                           Cough |
+                           0.3 (0.0) |
+                           0.8 (0.0) |
+                           1.2 (0.0) |
+                           1.7 (0.0) |
+
+                           Rhinorrhea |
+                           0.0 (0.0) |
+                           1.6 (0.0) |
+                           0.2 (0.0) |
+                           0.2 (0.0) |
+
+                           Sneezing |
+                           0.0 (0.0) |
+                           1.6 (0.0) |
+                           0.0 (0.0) |
+                           0.0 (0.0) |
+
+                             |
+                             |
+                             |
+                             |
+                             |
+
+                              Skin
+                            |
+
+                           Rash |
+                           0.9 (0.0) |
+                           2.0 (0.0) |
+                           0.2 (0.0) |
+                           0.2 (0.0) |
+
+                           Flushing |
+                           0.9 (0.3) |
+                           3.9 (0.0) |
+                           5.3 (0.7) |
+                           6.9 (1.2) |
+
+                  Adverse events that occurred in 0.5 up to 1.5% of patients who received Felodipine in all controlled clinical trials at the recommended dosage range of 2.5 mg to 10 mg once a day, and serious adverse events that occurred at a lower rate, or events reported during marketing experience (those lower rate events are in italics) are listed below. These events are listed in order of decreasing severity within each category, and the relationship of these events to administration of Felodipine is uncertain:
+
+                     Body as a Whole: Chest pain, facial edema, flu-like illness;
+
+                     Cardiovascular:
+                      Myocardial infarction, hypotension, syncope, angina pectoris, arrhythmia, tachycardia, premature beats;
+
+                     Digestive: Abdominal pain, diarrhea, vomiting, dry mouth, flatulence, acid regurgitation;
+
+                     Endocrine: Gynecomastia;
+
+                     Hematologic:
+                      Anemia;
+
+                     Metabolic: ALT (SGPT) increased;
+
+                     Musculoskeletal: Arthralgia, back pain, leg pain, foot pain, muscle cramps, myalgia, arm pain, knee pain, hip pain;
+
+                     Nervous/Psychiatric: Insomnia, depression, anxiety disorders, irritability, nervousness, somnolence, decreased libido;
+
+                     Respiratory: Dyspnea, pharyngitis, bronchitis, influenza, sinusitis, epistaxis, respiratory infection;
+
+                     Skin:
+                      Angioedema, contusion, erythema, urticaria, leukocytoclastic vasculitis;
+
+                     Special Senses: Visual disturbances;
+
+                     Urogenital: Impotence, urinary frequency, urinary urgency, dysuria, polyuria.

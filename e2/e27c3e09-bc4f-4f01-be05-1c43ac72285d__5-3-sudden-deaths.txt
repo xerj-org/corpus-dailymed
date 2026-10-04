@@ -1,0 +1,3 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 5.3 Sudden Deaths
+
+Sudden deaths have been reported in 0.3% of patients with CML treated with nilotinib in clinical studies of 5661 patients. The relative early occurrence of some of these deaths relative to the initiation of nilotinib suggests the possibility that ventricular repolarization abnormalities may have contributed to their occurrence.

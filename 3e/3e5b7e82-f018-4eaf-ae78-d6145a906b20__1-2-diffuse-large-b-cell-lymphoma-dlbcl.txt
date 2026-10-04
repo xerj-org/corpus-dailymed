@@ -1,0 +1,3 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 1.2 Diffuse Large B-Cell Lymphoma (DLBCL)
+
+RITUXAN HYCELA is indicated for the treatment of adult patients with previously untreated diffuse large B-cell lymphoma in combination with cyclophosphamide, doxorubicin, vincristine, prednisone (CHOP) or other anthracycline-based chemotherapy regimens.

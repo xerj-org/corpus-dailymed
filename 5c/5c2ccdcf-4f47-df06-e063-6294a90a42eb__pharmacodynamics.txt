@@ -1,0 +1,3 @@
+DailyMed 5c2ccdcf-4f47-df06-e063-6294a90a42eb | Clonazepam | Pharmacodynamics:
+
+The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system.

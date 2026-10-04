@@ -1,0 +1,9 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 6.2 Postmarketing Experience
+
+In addition to adverse reactions reported from clinical trials for QNASL Nasal Aerosol, the following adverse events have been reported during postmarketing use of QNASL Nasal Aerosol or other intranasal and inhaled formulations of beclomethasone dipropionate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to beclomethasone dipropionate or a combination of these factors.
+
+                           QNASL Nasal Aerosol: sneezing, burning sensation
+
+                           Intranasal beclomethasone dipropionate: Nasal septal perforation, blurred vision, glaucoma, cataracts, central serous chorioretinopathy (CSC), loss of taste and smell, and hypersensitivity reactions including anaphylaxis, angioedema, rash, and urticaria have been reported following intranasal administration of beclomethasone dipropionate.
+
+                           Inhaled beclomethasone dipropionate: Hypersensitivity reactions, including anaphylaxis, angioedema, rash, urticaria, and bronchospasm have been reported following the oral inhalation of beclomethasone dipropionate.

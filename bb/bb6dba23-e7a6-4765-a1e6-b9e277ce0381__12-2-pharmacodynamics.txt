@@ -1,0 +1,5 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 12.2 Pharmacodynamics
+
+CSF-1 and Interleukin (IL)-34
+
+Axatilimab-csfr caused a dose-dependent increase from 0.15 mg/kg to 6 mg/kg (0.5 to 20 times the approved recommended dosage) in CSF-1 and interleukin (IL)-34 concentrations and a dose-dependent reduction in the levels of nonclassical monocytes in peripheral blood.

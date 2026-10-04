@@ -1,0 +1,4 @@
+DailyMed 268d12e8-1cfc-4086-b613-8fd94f2d7c4e | olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide | 5.5 Patients with Hepatic Impairment
+
+Amlodipine.
+                           Since amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with severely impaired hepatic function, titrate slowly when administering to patients with severe hepatic impairment.

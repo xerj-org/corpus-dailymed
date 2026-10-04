@@ -1,0 +1,3 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | Distribution
+
+The mean (± SD) volume of distribution at steady state and elimination phase for MPA is 54 (± 25) L and 112 (± 48) L, respectively. MPA is highly protein bound to albumin, >98%. The protein binding of MPAG is 82%. The free MPA concentration may increase under conditions of decreased protein binding (uremia, hepatic failure, and hypoalbuminemia).

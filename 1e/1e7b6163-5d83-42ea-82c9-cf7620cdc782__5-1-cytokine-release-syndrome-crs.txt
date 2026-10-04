@@ -1,0 +1,13 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 5.1 Cytokine Release Syndrome (CRS)
+
+IMDELLTRA can cause cytokine release syndrome (CRS) including life-threatening or fatal reactions.
+
+                        In the pooled safety population [see Adverse Reactions (6.1)], CRS occurred in 57% (268/473) of patients who received IMDELLTRA, including 39% Grade 1, 15% Grade 2, 1.7% Grade 3 and 0.2% Grade 4. Recurrent CRS occurred in 24% of IMDELLTRA-treated patients including 20% Grade 1 and 3.4% Grade 2; one patient experienced recurrent Grade 3.
+
+                           Among the 268 patients who experienced CRS, 73% had CRS after the first dose, 60% had CRS after the second dose, and 15% had CRS following the third or later dose. Following the Cycle 1 Day 1, Day 8, Day 15 infusions, 24%, 8%, and 1% of patients experienced Grade ≥ 2 CRS, respectively. From Cycle 2 onwards, 1.5% of patients experienced Grade ≥ 2 CRS. Of the patients who experienced CRS, 31% received steroids and 10% required tocilizumab. The median time to onset of all grade CRS from most recent dose of IMDELLTRA was 16 hours (range: start of infusion to 15 days). The median time to onset of Grade ≥ 2 CRS from most recent dose of IMDELLTRA was 15 hours (range: start of infusion to 15 days).
+
+                        Clinical signs and symptoms of CRS included pyrexia, hypotension, fatigue, tachycardia, headache, hypoxia, nausea and vomiting. Potentially life-threatening complications of CRS may include cardiac dysfunction, acute respiratory distress syndrome, neurologic toxicity, renal and/or hepatic failure, and disseminated intravascular coagulation (DIC).
+
+                           Administer IMDELLTRA following the recommended step-up dosing and administer concomitant medications before and after Cycle 1 Day 1 and Cycle 1 Day 8 IMDELLTRA infusions as described in Table 3 to reduce the risk of CRS [see Dosage and Administration (2.3)]. Administer IMDELLTRA in an appropriate healthcare facility equipped to monitor and manage CRS. Ensure patients are well hydrated prior to administration of IMDELLTRA.
+
+                           Closely monitor patients for signs and symptoms of CRS during and after treatment with IMDELLTRA. At the first sign of CRS during treatment, immediately discontinue IMDELLTRA infusion. If CRS occurs during or after treatment, evaluate the patient for hospitalization and manage based on severity [see Dosage and Administration (2.5)]. Withhold or permanently discontinue IMDELLTRA based on severity [see Dosage and Administration (2.5)]. Counsel patients and caregivers to seek immediate medical attention should signs or symptoms of CRS occur after discharge.

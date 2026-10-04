@@ -1,0 +1,3 @@
+DailyMed 0d2710f2-ee47-4114-ab5c-8dca74cdcb8d | Dexmedetomidine; Dexmedetomidine in Dextrose | 2.3 Dosage Adjustment
+
+Due to possible pharmacodynamic interactions, a reduction in dosage of dexmedetomidine or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered [see Drug Interactions (7.1)]. Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.9), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].

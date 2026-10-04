@@ -1,0 +1,3 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Heart Failure
+
+Although acute hemodynamic studies in a small number of patients with NYHA Class II or III heart failure treated with felodipine have not demonstrated negative inotropic effects, safety in patients with heart failure has not been established. Caution, therefore, should be exercised when using Felodipine in patients with heart failure or compromised ventricular function, particularly in combination with a beta blocker.

@@ -1,0 +1,253 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 12.4 Microbiology
+
+Omeprazole and clarithromycin dual therapy and omeprazole, clarithromycin and amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections [see Indications and Usage (), Clinical Studies ()].
+
+                           Helicobacter pylori
+
+                        Susceptibility testing of H. pylori isolates was performed for amoxicillin and clarithromycin using agar dilution methodology1, and minimum inhibitory concentrations (MICs) were determined.
+
+                        Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
+
+                           Pretreatment Resistance
+
+                        Clarithromycin pretreatment resistance rates were 3.5% (4/113) in the omeprazole/clarithromycin dual therapy studies (4 and 5) and 9.3% (41/439) in omeprazole/clarithromycin/amoxicillin triple therapy studies (1, 2 and 3).
+
+                        Amoxicillin pretreatment susceptible isolates (≤ 0.25 mcg/mL) were found in 99.3% (436/439) of the patients in the omeprazole/clarithromycin/amoxicillin triple therapy studies (1, 2, and 3). Amoxicillin pretreatment minimum inhibitory concentrations (MICs) > 0.25 mcg/mL occurred in 0.7% (3/439) of the patients, all of whom were in the clarithromycin and amoxicillin study arm. One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of > 256 mcg/mL by Etest®.
+
+                           Table 8: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
+
+                                    Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
+                                          1
+
+                                  |
+
+                                    Clarithromycin Pretreatment Results
+
+                                  |
+
+                                    Clarithromycin Post-treatment Results
+
+                                  |
+
+                                       H. pylori negative – eradicated
+
+                                  |
+
+                                       H. pylori positive – not eradicated
+
+Post-treatment susceptibility results
+
+                                  |
+
+                                    S
+                                          2
+
+                                  |
+
+                                    I
+                                          2
+
+                                  |
+
+                                    R
+                                          2
+
+                                  |
+
+                                    No MIC
+
+                                  |
+
+                                    Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5)
+
+                                  |
+
+                                    Susceptible
+                                          2
+
+                                  |
+
+                                    108
+
+                                  |
+
+                                    72
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    26
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    Intermediate
+                                          2
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Resistant
+                                          2
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2)
+
+                                  |
+
+                                    Susceptible
+                                          2
+
+                                  |
+
+                                    171
+
+                                  |
+
+                                    153
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    Intermediate
+                                          2
+
+                                  |
+                                  |
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Resistant
+                                          2
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    3
+
+                                  |
+
+                           1 Includes only patients with pretreatment clarithromycin susceptibility test results.
+
+                           2 Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL.
+
+                        Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates. Therefore, clarithromycin susceptibility testing should be done, if possible. Patients with clarithromycin resistant H. pylori should not be treated with any of the following: omeprazole/clarithromycin dual therapy, omeprazole/clarithromycin/amoxicillin triple therapy, or other regimens which include clarithromycin as the sole antimicrobial agent.
+
+                           Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes
+
+                        In the triple therapy clinical trials, 84.9% (157/185) of the patients in the omeprazole/clarithromycin/amoxicillin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori and 15.1% (28/185) failed therapy. Of the 28 patients who failed triple therapy, 11 had no post-treatment susceptibility test results and 17 had post-treatment H. pylori isolates with amoxicillin susceptible MICs. Eleven of the patients who failed triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
+
+                           Susceptibility Test for Helicobacter pylori
+
+                        For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
+
+                           Effects on Gastrointestinal Microbial Ecology
+
+                        Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract. Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly also Clostridium difficile.

@@ -1,0 +1,47 @@
+DailyMed 6ce645c0-a550-4ae9-8dbd-3853ee8b7d26 | Imvexxy | 14.1 Effects on Moderate to Severe Dyspareunia in Postmenopausal Women
+
+The effectiveness and safety of IMVEXXY on moderate to severe dyspareunia, a symptom of vulvar and vaginal atrophy due to menopause were examined in one placebo-controlled clinical trial.
+
+                        This 12-week, randomized, double-blind, placebo-controlled, parallel-group trial enrolled 574 generally healthy postmenopausal women between 40 to 75 years of age (mean 59 years of age) who at baseline assessment had ≤ 5% superficial cells on a vaginal smear, a vaginal pH > 5.0, and also identified, at baseline, moderate to severe dyspareunia as the most bothersome symptom to her. Greater than 90% of women also reported moderate to severe vaginal dryness at baseline. Treatment groups included 4 mcg IMVEXXY (N = 191), 10 mcg IMVEXXY (N = 191), and placebo (N = 192). All women were assessed for improvement in the mean change from Baseline to Week 12 for the co-primary efficacy variables of: most bothersome moderate to severe symptom of dyspareunia, percentage of vaginal superficial and percentage of vaginal parabasal cells on a vaginal smear, and vaginal pH.
+
+                        IMVEXXY 4 mcg and 10 mcg inserts were statistically superior to placebo in reducing the severity of moderate to severe dyspareunia at Week 12 (see Table 3). A statistically significant increase in the percentage of superficial cells and a corresponding statistically significant decrease in the percentage of parabasal cells on a vaginal smear was also demonstrated for IMVEXXY 4 and 10 mcg inserts (p < 0.0001). The mean reduction in vaginal pH between Baseline and Week 12 was also statistically significant for IMVEXXY 4 and 10 mcg inserts (p < 0.0001).
+
+                           Table 3: Efficacy of Dyspareunia Associated with Postmenopausal Vulvar and Vaginal Atrophy (Least Square Mean Change from Baseline to Week 12 in Severity of Woman's Self-Identified Most Bothersome Moderate to Severe Symptom of Vulvar and Vaginal Atrophy)
+
+                                 Most Bothersome Moderate to Severe Symptom at Baseline |
+                                 IMVEXXY
+
+4 mcg
+
+(N = 151) |
+                                 IMVEXXY
+
+10 mcg
+
+(N = 154) |
+                                 Placebo
+
+(N = 163) |
+
+                                 The modified intent-to-treat population (MITT) included only women in the ITT population who at baseline met the inclusion criteria of ≤ 5% superficial cells on a vaginal smear, a vaginal pH > 5.0, and who identified moderate or severe dyspareunia as her most bothersome vaginal symptom. Definitions: SD – standard deviation; SE – standard error; LS – least square |
+
+                                    Dyspareunia
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Baseline Mean (SD) |
+                                 2.7 (0.48) |
+                                 2.6 (0.48) |
+                                 2.7 (0.46) |
+
+                                 LS Mean Change from Baseline (SE) |
+                                 -1.52 (0.071) |
+                                 -1.69 (0.071) |
+                                 -1.28 (0.070) |
+
+                                 p-value vs. placebo |
+                                 0.0149 |
+                                 <0.0001 |
+                                 ----- |

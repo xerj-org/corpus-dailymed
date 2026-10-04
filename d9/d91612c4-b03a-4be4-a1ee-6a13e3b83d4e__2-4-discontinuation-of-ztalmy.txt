@@ -1,0 +1,3 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 2.4 Discontinuation of ZTALMY
+
+Decrease the dose of ZTALMY gradually when discontinuing treatment. As with all antiepileptic drugs, abrupt discontinuation should be avoided, when possible, to minimize the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.3)].

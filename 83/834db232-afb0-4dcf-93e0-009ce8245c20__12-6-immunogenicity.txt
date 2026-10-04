@@ -1,0 +1,9 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of UPLIZNA.
+
+                        In Study 1, treatment-emergent antibodies (those that appeared or significantly increased from baseline after administration of UPLIZNA), were detected in 5.6% patients receiving UPLIZNA. Although these data do not demonstrate an impact of anti-inebilizumab-cdon antibody development on the efficacy or safety of UPLIZNA in these patients, the available data are too limited to make definitive conclusions.
+
+                        In Study 2, the incidence of treatment-emergent anti-inebilizumab-cdon antibodies was 8.8% (6/68) of patients receiving UPLIZNA during the 52-week randomized-controlled period. Neutralizing antibodies were not directly assessed. There was no identified clinically significant effect of anti-inebilizumab-cdon antibodies on pharmacokinetics, pharmacodynamics, safety or effectiveness of UPLIZNA.
+
+                        In Study 3, treatment-emergent anti-inebilizumab-cdon antibodies were detected in 0.8% (1/119) of patients receiving UPLIZNA during the randomized-controlled period. Neutralizing antibodies were not directly assessed. The available data are too limited to make definitive conclusions regarding the impact of anti-inebilizumab-cdon antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of UPLIZNA.

@@ -1,0 +1,95 @@
+DailyMed e5516161-2fbc-4cec-a780-77a471fa73d4 | OstiCoxib EQ | Adverse Reactions:
+
+The safety and effectiveness of firocoxib tablets was established in a relative bioavailability study comparing firocoxib tablets and firocoxib oral paste. Therefore, additional field studies were not performed to support the effectiveness of firocoxib tablets.
+
+                  In controlled field studies, 127 horses (ages 3 to 37 years) were evaluated for safety when given firocoxib oral paste at a dose of 0.045 mg/lb (0.1 mg/kg) orally once daily for up to 14 days. The following adverse reactions were observed. Horses may have experienced more than one of the observed adverse reactions during the study.
+
+                     Table 1: Adverse Reactions Seen in U.S. Field Studies with firocoxib oral paste:
+
+                              Adverse Reactions
+
+                            |
+
+                                       Firocoxib
+
+                                         n=127                   
+
+                            |
+
+                                      Active Control
+
+                                            n=125                  
+
+                            |
+
+                           Abdominal pain
+
+                            |
+                                         0
+
+                            |
+                                            1
+
+                            |
+
+                           Diarrhea
+
+                            |
+                                         2
+
+                            |
+                                            0
+
+                            |
+
+                           Excitation               
+
+                            |
+                                         1  
+
+                            |
+                                            0
+
+                            |
+
+                           Lethargy
+
+                            |
+                                         0
+
+                            |
+                                            1
+
+                            |
+
+                           Loose stool
+
+                            |
+                                         1
+
+                            |
+                                            0
+
+                            |
+
+                           Polydipsia
+
+                            |
+                                         0
+
+                            |
+                                            1
+
+                            |
+
+                           Urticaria
+
+                            |
+                                         0
+
+                            |
+                                            1
+
+                            |
+
+                  In these field trials, firocoxib oral paste was safely used concomitantly with other therapies, including vaccines, anthelmintics, and antibiotics. The safety data sheet (SDS) contains more detailed occupational safety information.

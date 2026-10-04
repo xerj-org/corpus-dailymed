@@ -1,0 +1,15 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 5.2 Neurologic Toxicity Including ICANS
+
+IMDELLTRA can cause life-threatening or fatal neurologic toxicity including ICANS.
+
+                           In the pooled safety population [see Adverse Reactions (6.1)], neurologic toxicity occurred in 65% of patients who received IMDELLTRA, with Grade 3 or higher events in 7% of patients including fatal events in 0.2%. The most frequent neurologic toxicities were dysgeusia (34%), headache (17%), peripheral neuropathy (9%), dizziness (9%), and insomnia (8%).
+
+                           The incidence of signs and symptoms consistent with ICANS was 10% in IMDELLTRA- treated patients, including events with the preferred terms: ICANS (4.7%), muscular weakness (3.2%), cognitive disorder (0.6%), aphasia (0.6%), depressed level of consciousness (0.4%), seizures (0.4%), encephalopathy (0.4%), and leukoencephalopathy (0.2%). There was one fatal reaction of ICANS [see Adverse Reactions (6.1)]. Recurrent ICANS occurred in 1.5% of patients. Of the patients who experienced ICANS, most experienced the event following Cycle 1 Day 1 (2.5%) and Cycle 1 Day 8 (3.6%). Following Day 1, Day 8, and Day 15 infusions, 1.3%, 1.3% and 0.4% of patients experienced Grade ≥ 2 ICANS, respectively. ICANS can occur several weeks following administration of IMDELLTRA. The median time to onset of ICANS from the first dose of IMDELLTRA was 16 days (range: 1 to 862 days). The median time to resolution of ICANS was 4 days (range: 1 to 40 days).
+
+                        The onset of ICANS can be concurrent with CRS, following resolution of CRS, or in the absence of CRS. Clinical signs and symptoms of ICANS may include but are not limited to confusional state, depressed level of consciousness, disorientation, somnolence, lethargy, and bradyphrenia.
+
+                        Patients receiving IMDELLTRA are at risk of neurologic adverse reactions and ICANS resulting in depressed level of consciousness. Advise patients to refrain from driving and engaging in hazardous occupations or activities, such as operating heavy or potentially dangerous machinery, until neurologic symptoms resolve.
+
+                        Closely monitor patients for signs and symptoms of neurologic toxicity and ICANS during treatment with IMDELLTRA. At the first sign of ICANS, immediately discontinue the infusion, evaluate the patient and provide supportive therapy based on severity.
+
+                        Withhold IMDELLTRA or permanently discontinue based on severity [see Dosage and Administration (2.5)].

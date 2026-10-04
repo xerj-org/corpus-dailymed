@@ -1,0 +1,3 @@
+DailyMed 8faf357b-99a1-440b-8eac-8545cb19a69c | Mycophenolate Mofetil | 17.3 Increased Risk of Serious Infections
+
+Inform patients that they are at increased risk of developing a variety of infections due to immunosuppression. Instruct them to contact their physician if they develop any of the signs and symptoms of infection explained in the Medication Guide [see Warnings and Precautions (5.3)].

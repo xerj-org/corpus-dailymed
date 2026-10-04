@@ -1,0 +1,25 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 15 REFERENCES
+
+1.
+
+Murphy TV, Gargiullo PM, Massoudi MS, et al. Intussusception among infants given an oral rotavirus vaccine. N Engl J Med. 2001;344:564–572.
+
+                        2.
+
+Carlin JB, Macartney KK, Lee KJ, et al. Intussusception Risk and Disease Prevention Associated with Rotavirus Vaccines in Australia’s National Immunization Program. CID. 2013;57(10):1427-1434.
+
+                        3.
+
+Patel MM, López-Collada VR, Bulhões MM, et al. Intussusception Risk and Health Benefits of Rotavirus Vaccination in Mexico and Brazil. N Engl J Med. 2011;364:2283-2292.
+
+                        4.
+
+Farrington CP, Whitaker HJ, Hocine MN, et al. Case series analysis for censored, perturbed, or curtailed post-event exposures. Biostatistics. 2009;10(1):3–16.
+
+                        5.
+
+Tate JE, Simonsen L, Viboud C, et al. Trends in intussusception hospitalizations among US infants, 1993–2004: implications for monitoring the safety of the new rotavirus vaccination program. Pediatrics. 2008;121:e1125-e1132.
+
+                        6.
+
+Ruuska T, Vesikari T. Rotavirus disease in Finnish children: use of numerical scores for severity of diarrheal episodes. Scand J Infect Dis. 1990;22:259-267.

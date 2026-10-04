@@ -1,0 +1,37 @@
+DailyMed 5c2ac7cb-3a38-2174-e063-6394a90a95cc | Tramadol Hydrochloride | 5.7 Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
+
+The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors on levels of tramadol and M1 from tramadol hydrochloride tablets are complex. Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with tramadol hydrochloride tablets requires careful consideration of the effects on the parent drug, tramadol which is a weak serotonin and norepinephrine reuptake inhibitor and μ-opioid agonist, and the active metabolite, M1, which is more potent than tramadol in μ-opioid receptor binding
+
+  [see
+
+   Drug Interactions (7)]
+
+  .
+
+                           Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
+
+                        The concomitant use of tramadol hydrochloride tablets with all cytochrome P450 2D6 inhibitors (e.g., amiodarone, quinidine) may result in an increase in tramadol plasma levels and a decrease in the levels of the active metabolite, M1. A decrease in M1 exposure in patients who have developed physical dependence to tramadol, may result in signs and symptoms of opioid withdrawal and reduced efficacy. The effect of increased tramadol levels may be an increased risk for serious adverse events including seizures and serotonin syndrome.
+
+                        Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in tramadol plasma levels and an increase in active metabolite M1 levels, which could increase or prolong adverse reactions related to opioid toxicity and may cause potentially fatal respiratory depression.
+
+                        Evaluate patients receiving tramadol hydrochloride tablets and any CYP2D6 inhibitor at frequent intervals for the risk of serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity, and opioid withdrawal when tramadol hydrochloride tablets are used in conjunction with inhibitors of CYP2D6
+
+  [see
+
+   Drug Interactions (7)]
+
+  .
+
+                           Cytochrome P450 3A4 Interaction
+
+                        The concomitant use of tramadol hydrochloride tablets with cytochrome P450 3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir) or discontinuation of a cytochrome P450 3A4 inducer such as rifampin, carbamazepine, and phenytoin, may result in an increase in tramadol plasma concentrations, which could increase or prolong adverse reactions, increase the risk for serious adverse events including seizures and serotonin syndrome, and may cause potentially fatal respiratory depression.
+
+                        The concomitant use of tramadol hydrochloride tablets with all cytochrome P450 3A4 inducers or discontinuation of a cytochrome P450 3A4 inhibitor may result in lower tramadol levels. This may be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of opioid withdrawal.
+
+                        Evaluate patients receiving tramadol hydrochloride tablets and any CYP3A4 inhibitor or inducer at frequent intervals for the risk for serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity and opioid withdrawal when tramadol hydrochloride tablets are used in conjunction with inhibitors and inducers of CYP3A4
+
+  [see
+
+   Drug Interactions (7)]
+
+  .

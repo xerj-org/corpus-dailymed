@@ -1,0 +1,9 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 12.2 Pharmacodynamics
+
+Interactions with Alcohol
+
+                        In a pharmacokinetic and pharmacodynamic interaction study in healthy subjects, co-administration of brivaracetam tablets (single dose 200 mg [2 times greater than the highest recommended single dose]) and ethanol (continuous intravenous infusion to achieve a blood alcohol concentration of 60 mg/100 mL during 5 hours) increased the effects of alcohol on psychomotor function, attention, and memory. Co-administration of brivaracetam tablets and ethanol caused a larger decrease from baseline in saccadic peak velocity, smooth pursuit, adaptive tracking performance, and Visual Analog Scale (VAS) alertness, and a larger increase from baseline in body sway and in saccadic reaction time compared with brivaracetam tablets alone or ethanol alone. The immediate word recall scores were generally lower for brivaracetam tablets when co-administered with ethanol.
+
+                           Cardiac Electrophysiology
+
+                        At a dose 4 times the maximum recommended dose, brivaracetam tablets did not prolong the QT interval to a clinically relevant extent.

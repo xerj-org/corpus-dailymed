@@ -1,0 +1,49 @@
+DailyMed 35c0a6d8-ff85-4d9b-9ad3-ae20808119dd | Nitrofurantoin (monohydrate/macrocrystals) | Development of Resistance
+
+Development of resistance to nitrofurantoin has not been a significant problem since its introduction in 1953. Cross-resistance with antibiotics and sulfonamides has not been observed, and transferable resistance is, at most, a very rare phenomenon.
+
+                        Nitrofurantoin has been shown to be active against most strains of the following bacteria both in-vitro and in clinical infections (see
+                              INDICATIONS AND USAGE
+                           ):
+
+                           Aerobic and facultative Gram-positive microorganisms:
+
+                           Staphylococcus saprophyticus
+
+                           Aerobic and facultative Gram-negative microorganisms:
+
+                           Escherichia coli
+
+                        At least 90 percent of the following microorganisms exhibit an in-vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for nitrofurantoin. However, the efficacy of nitrofurantoin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled trials.
+
+                           Aerobic and facultative Gram-positive microorganisms:
+
+                        Coagulase-negative staphylococci (including Staphylococcus epidermidis)
+
+                           Enterococcus faecalis
+
+                           Staphylococcus aureus
+
+                           Streptococcus agalactiae
+
+                        Group D streptococci
+
+                        Viridans group streptococci
+
+                           Aerobic and facultative Gram-negative microorganisms:
+
+                           Citrobacter amalonaticus
+
+                           Citrobacter diversus
+
+                           Citrobacter freundii
+
+                           Klebsiella oxytoca
+
+                           Klebsiella ozaenae
+
+                        Nitrofurantoin is not active against most strains of Proteus species or Serratia species. It has no activity against Pseudomonas species.
+
+                           Susceptibility Testing:
+
+                        For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

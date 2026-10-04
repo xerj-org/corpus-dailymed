@@ -1,0 +1,5 @@
+DailyMed 9b3ab9ea-caee-4186-9068-43ca527c098d | Amoxicillin | 7.5 Other Antibacterials
+
+Chloramphenicol, macrolides, sulfonamides, and tetracyclines may interfere with the bactericidal effects of penicillin. This has been demonstrated
+
+  in vitro; however, the clinical significance of this interaction is not well documented.

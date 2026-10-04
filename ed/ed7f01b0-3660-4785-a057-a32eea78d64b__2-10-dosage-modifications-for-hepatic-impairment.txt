@@ -1,0 +1,27 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 2.10 Dosage Modifications for Hepatic Impairment
+
+The recommended dosages of everolimus tablets for oral suspension for patients with hepatic impairment are described in Table 3 [see Use in Specific Populations (8.6)]:
+
+                           Table 3: Recommended Dosage Modifications for Patients With Hepatic Impairment
+
+                                    Indication Dose
+
+                                  |
+
+                                    Modification for Everolimus Tablets for Oral Suspension
+
+                                  |
+
+                                 TSC-Associated SEGA and TSC- Associated Partial-Onset Seizures
+
+                                  |
+
+                                       Severe hepatic impairment (Child-Pugh class C) – 2.5 mg/m2 orally once daily.
+
+                                       Adjust dose based on everolimus trough concentrations as recommended [see Dosage and Administration (2.8)].
+
+                                  |
+
+                                 Abbreviations: SEGA, Subependymal Giant Cell Astrocytoma; TSC, Tuberous Sclerosis Complex.
+
+                                  |

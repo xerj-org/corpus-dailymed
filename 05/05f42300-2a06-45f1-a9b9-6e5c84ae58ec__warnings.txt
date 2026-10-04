@@ -1,0 +1,5 @@
+DailyMed 05f42300-2a06-45f1-a9b9-6e5c84ae58ec | ACYCLOVIR | WARNINGS
+
+Acyclovir tablets are intended for oral ingestion only. Renal failure, in some cases resulting in death, has been observed with acyclovir therapy (see
+  ADVERSE REACTIONS: Observed During Clinical Practice and
+  OVERDOSAGE). Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), which has resulted in death, has occurred in immunocompromised patients receiving acyclovir therapy.

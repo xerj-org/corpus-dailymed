@@ -1,0 +1,43 @@
+DailyMed ab73a6d8-2e33-4fdc-a896-6c68ab772da6 | Bisoprolol Fumarate and Hydrochlorothiazide | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                           Bisoprolol Fumarate and Hydrochlorothiazide Tablets
+
+                        Long-term studies have not been conducted with the bisoprolol fumarate/hydrochlorothiazide combination.
+
+                           Bisoprolol Fumarate
+
+                        Long-term studies were conducted with oral bisoprolol fumarate administered in the feed of mice (20 and 24 months) and rats (26 months). No evidence of carcinogenic potential was seen in mice dosed up to 250 mg/kg/day or rats dosed up to 125 mg/kg/day. On a body weight basis, these doses are 625 and 312 times, respectively, the maximum recommended human dose (MRHD) of 20 mg, or 0.4 mg/kg/day, based on 50 kg individuals; on a body surface area basis, these doses are 59 times (mice) and 64 times (rats) the MRHD.
+
+                           Hydrochlorothiazide
+
+                        Two-year feeding studies in mice and rats, conducted under the auspices of the National Toxicology Program (NTP), treated mice and rats with doses of hydrochlorothiazide up to 600 and 100 mg/kg/day, respectively. On a body weight basis, these doses are 2400 times (in mice) and 400 times (in rats) the MRHD of hydrochlorothiazide (12.5 mg/day) in bisoprolol fumarate and hydrochlorothiazide tablets. On a body surface area basis, these doses are 226 times (in mice) and 82 times (in rats) the MRHD. These studies uncovered no evidence of carcinogenic potential of hydrochlorothiazide in rats or female mice, but there was equivocal evidence of hepatocarcinogenicity in male mice.
+
+                           Mutagenesis
+
+                           Bisoprolol Fumarate and Hydrochlorothiazide Tablets
+
+                        The mutagenic potential of the bisoprolol fumarate/hydrochlorothiazide combination was evaluated in the microbial mutagenicity (Ames) test, the point mutation and chromosomal aberration assays in Chinese hamster V79 cells, and the micronucleus test in mice. There was no evidence of mutagenic potential in these in vitro and in vivo assays.
+
+                           Bisoprolol Fumarate
+
+                        The mutagenic potential of bisoprolol fumarate was evaluated in the microbial mutagenicity (Ames) test, the point mutation and chromosome aberration assays in Chinese hamster V79 cells, the unscheduled DNA synthesis test, the micronucleus test in mice, and the cytogenetics assay in rats. There was no evidence of mutagenic potential in these in vitro and in vivo assays.
+
+                           Hydrochlorothiazide
+
+                        Hydrochlorothiazide was not genotoxic in in vitro assays using strains TA 98, TA 100, TA 1535, TA 1537 and TA 1538 of Salmonella typhimurium (the Ames test); in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations; or in in vivo assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene. Positive test results were obtained in the in vitro CHO Sister Chromatid Exchange (clastogenicity) test and in the mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide of 43 to 1300 μg/mL. Positive test results were also obtained in the Aspergillus nidulans non-disjunction assay, using an unspecified concentration of hydrochlorothiazide.
+
+                           Impairment of Fertility
+
+                           Bisoprolol Fumarate and Hydrochlorothiazide Tablets
+
+                        Reproduction studies in rats did not show any impairment of fertility with the bisoprolol fumarate/hydrochlorothiazide combination doses containing up to 30 mg/kg/day of bisoprolol fumarate in combination with 75 mg/kg/day of hydrochlorothiazide. On a body weight basis, these doses are 75 and 300 times, respectively, the MRHD of bisoprolol fumarate and hydrochlorothiazide. On a body surface area basis, these study doses are 15 and 62 times, respectively, MRHD.
+
+                           Bisoprolol Fumarate
+
+                        Reproduction studies in rats did not show any impairment of fertility at doses up to 150 mg/kg/day of bisoprolol fumarate, or 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
+
+                           Hydrochlorothiazide
+
+                        Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg/day, respectively, prior to mating and throughout gestation. Corresponding multiples of maximum recommended human doses are 400 (mice) and 16 (rats) on the basis of body weight and 38 (mice) and 3.3 (rats) on the basis of body surface area.

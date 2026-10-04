@@ -1,0 +1,7 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 7.2 Effect of Strong or Moderate Cytochrome P450 Inducers on ZTALMY
+
+Coadministration of ZTALMY with CYP450 inducers, such as strong or moderate CYP3A4 inducers, will decrease ganaxolone exposure, which can lower the efficacy of ZTALMY [see Clinical Pharmacology (12.3)].
+
+                        It is recommended to avoid concomitant use of strong or moderate CYP3A4 inducers with ZTALMY. When concomitant use of strong or moderate CYP3A4 inducers is unavoidable, consider an increase in the dosage of ZTALMY; however, do not exceed the maximum daily dosage of ZTALMY [see Dosage and Administration (2.1)].
+
+                        In patients on a stable ZTALMY dosage who are initiating or increasing the dosages of enzyme-inducing antiepileptic drugs (e.g., carbamazepine, phenytoin, phenobarbital, and primidone), the ZTALMY dosage may need to be increased; however, do not exceed the maximum daily dosage of ZTALMY [see Dosage and Administration (2.1)].

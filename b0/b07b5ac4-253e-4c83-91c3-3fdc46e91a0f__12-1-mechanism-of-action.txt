@@ -1,0 +1,9 @@
+DailyMed b07b5ac4-253e-4c83-91c3-3fdc46e91a0f | AMOXICILLIN | 12.1 Mechanism of Action
+
+Amoxicillin is an antibacterial drug
+
+  [see
+
+   Microbiology (12.4)]
+
+  .

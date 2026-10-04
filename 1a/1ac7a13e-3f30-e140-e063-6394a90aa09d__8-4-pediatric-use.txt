@@ -1,0 +1,61 @@
+DailyMed 1ac7a13e-3f30-e140-e063-6394a90aa09d | Valacyclovir | 8.4 Pediatric Use
+
+Valacyclovir tablets are indicated for treatment of cold sores in pediatric patients aged greater than or equal to 12 years and for treatment of chickenpox in pediatric patients aged 2 to less than 18 years
+
+  [see
+
+   Indications and Usage (1.2),
+
+   Dosage and Administration (2.2)].
+
+                        The use of valacyclovir tablets for treatment of cold sores is based on 2 double-blind, placebo-controlled clinical trials in healthy adults and adolescents (aged greater than or equal to 12 years) with a history of recurrent cold sores
+
+  [see
+
+   Clinical Studies (14.1)].
+
+                        The use of valacyclovir tablets for treatment of chickenpox in pediatric patients aged 2 to less than 18 years is based on single-dose pharmacokinetic and multiple-dose safety data from an open-label trial with valacyclovir and supported by efficacy and safety data from 3 randomized, double-blind, placebo-controlled trials evaluating oral acyclovir in pediatric subjects with chickenpox
+
+  [see
+
+   Dosage and Administration (2.2),
+
+   Adverse Reactions (6.2),
+
+   Clinical Pharmacology (12.3),
+
+   Clinical Studies (14.4)].
+
+                        The efficacy and safety of valacyclovir have not been established in pediatric patients:
+
+                           aged less than 12 years with cold sores
+
+                           aged less than 18 years with genital herpes
+
+                           aged less than 18 years with herpes zoster
+
+                           aged less than 2 years with chickenpox
+
+                           for suppressive therapy following neonatal HSV infection.
+
+                        The pharmacokinetic profile and safety of valacyclovir oral suspension in children aged less than 12 years were studied in 3 open label trials. No efficacy evaluations were conducted in any of the 3 trials.
+
+                        Trial 1 was a single dose pharmacokinetic, multiple dose safety trial in 27 pediatric subjects aged 1 to less than 12 years with clinically suspected varicella-zoster virus (VZV) infection
+
+  [see
+
+   Dosage and Administration (2.2),
+
+   Adverse Reactions (6.2),
+
+   Clinical Pharmacology (12.3),
+
+   Clinical Studies (14.4)].
+
+                        Trial 2 was a single-dose pharmacokinetic and safety trial in pediatric subjects aged 1 month to less than 6 years who had an active herpes virus infection or who were at risk for herpes virus infection. Fifty-seven subjects were enrolled and received a single dose of 25 mg/kg valacyclovir oral suspension. In infants and children aged 3 months to less than 6 years, this dose provided comparable systemic acyclovir exposures to that from a 1-gram dose of valacyclovir in adults (historical data). In infants aged 1 month to less than 3 months, mean acyclovir exposures resulting from a 25-mg/kg dose were higher (C
+
+  max: ↑30%, AUC: ↑60%) than acyclovir exposures following a 1-gram dose of valacyclovir in adults. Acyclovir is not approved for suppressive therapy in infants and children following neonatal HSV infections; therefore valacyclovir is not recommended for this indication because efficacy cannot be extrapolated from acyclovir.
+
+                        Trial 3 was a single-dose pharmacokinetic, multiple-dose safety trial in 28 pediatric subjects aged 1 to less than 12 years with clinically suspected HSV infection. None of the subjects enrolled in this trial had genital herpes. Each subject was dosed with valacyclovir oral suspension, 10 mg/kg twice daily for 3 to 5 days. Acyclovir systemic exposures in pediatric subjects following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of recurrent genital herpes. The mean projected daily acyclovir systemic exposures in pediatric subjects across all age groups (1 to less than 12 years) were lower (C
+
+  max: ↓20%, AUC: ↓33%) compared with the acyclovir systemic exposures in adults receiving valacyclovir 500 mg twice daily, but were higher (daily AUC: ↑16%) than systemic exposures in adults receiving acyclovir 200 mg 5 times daily. Insufficient data are available to support valacyclovir for the treatment of recurrent genital herpes in this age-group because clinical information on recurrent genital herpes in young children is limited; therefore, extrapolating efficacy data from adults to this population is not possible. Moreover, valacyclovir has not been studied in children aged 1 to less than 12 years with recurrent genital herpes.

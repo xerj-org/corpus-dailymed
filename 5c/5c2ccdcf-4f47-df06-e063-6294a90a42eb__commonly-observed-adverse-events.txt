@@ -1,0 +1,69 @@
+DailyMed 5c2ccdcf-4f47-df06-e063-6294a90a42eb | Clonazepam | Commonly Observed Adverse Events:
+
+Table 4: Incidence of Most Commonly Observed Adverse Events* in Acute Therapy in Pool of 6- to 9-Week Trials
+
+                                             Adverse Event
+
+                                        |
+
+                                             Clonazepam
+
+  (N=574)
+
+                                        |
+
+                                             Placebo
+
+  (N=294)
+
+                                        |
+
+                                          Somnolence
+
+                                        |
+
+                                          37%
+
+                                        |
+
+                                          10%
+
+                                        |
+
+                                          Depression
+
+                                        |
+
+                                          7%
+
+                                        |
+
+                                          1%
+
+                                        |
+
+                                          Coordination Abnormal
+
+                                        |
+
+                                          6%
+
+                                        |
+
+                                          0%
+
+                                        |
+
+                                          Ataxia
+
+                                        |
+
+                                          5%
+
+                                        |
+
+                                          0%
+
+                                        |
+
+                                 * Treatment-emergent events for which the incidence in the clonazepam patients was ≥5% and at least twice that in the placebo patients.

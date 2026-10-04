@@ -1,0 +1,20 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 8.7 Renal Impairment
+
+The renal route of elimination plays a minor role in the clearance of ubrogepant 
+
+  [see Clinical Pharmacology (
+
+                              12.3
+
+                           )]
+                           . No dose adjustment is recommended for patients with mild or moderate renal impairment. Dose adjustment is recommended for patients with severe renal impairment (CLcr 15-29 mL/min) 
+
+  [see Dosage and Administration (
+
+                              2.2
+
+                           ) and Clinical Pharmacology (
+
+                              12.3
+
+                           )]. Avoid use of UBRELVY in patients with end-stage renal disease (ESRD) (CLcr <15 mL/min).

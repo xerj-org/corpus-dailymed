@@ -1,0 +1,3 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 4 CONTRAINDICATIONS
+
+Dapagliflozin is contraindicated in patients with a history of a serious hypersensitivity reaction to dapagliflozin or any of the excipients in dapagliflozin. Serious hypersensitivity reactions, including anaphylaxis and angioedema have been reported with dapagliflozin [see Adverse Reactions (6.1)].

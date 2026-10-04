@@ -1,0 +1,27 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 10.3 Recommended Management
+
+As management of overdose is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment. In addition, the possibility of a multiple drug ingestion should be considered.
+
+                        If an overdose is suspected, an ECG should be obtained and cardiac monitoring should be initiated immediately. The patient's airway should be protected, an intravenous line should be established, and gastric decontamination should be initiated. A minimum of six hours of observation with cardiac monitoring and observation for signs of CNS or respiratory depression, hypotension, cardiac dysrhythmias and/or conduction blocks, and seizures is strongly advised. If signs of toxicity occur at any time during this period, extended monitoring is recommended. There are case reports of patients succumbing to fatal dysrhythmias late after overdose; these patients had clinical evidence of significant poisoning prior to death and most received inadequate gastrointestinal decontamination. Monitoring of plasma drug levels should not guide management of the patient.
+
+                           Gastrointestinal Decontamination
+
+                        All patients suspected of overdose should receive gastrointestinal decontamination. This should include large volume gastric lavage followed by administration of activated charcoal. If consciousness is impaired, the airway should be secured prior to lavage. Emesis is contraindicated.
+
+                           Cardiovascular
+
+                        A maximal limb-lead QRS duration of ≥0.10 seconds may be the best indication of the severity of an overdose. Serum alkalinization, using intravenous sodium bicarbonate should be used to maintain the serum pH in the range of 7.45 to 7.55 for patients with dysrhythmias and/or QRS widening. If the pH response is inadequate, hyperventilation may also be used. Concomitant use of hyperventilation and sodium bicarbonate should be done with extreme caution, with frequent pH monitoring. A pH >7.60 or a pCO2 <20 mm Hg is undesirable. Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine or phenytoin. Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
+
+                        In rare instances, hemoperfusion may be beneficial in acute refractory cardiovascular instability in patients with acute toxicity. However, hemodialysis, peritoneal dialysis, exchange transfusions, and forced diuresis generally have been reported as ineffective in treatment of tricyclic compound poisoning.
+
+                           Central Nervous System
+
+                        In patients with central nervous system depression, early intubation is advised because of the potential for abrupt deterioration. Seizures should be controlled with benzodiazepines, or, if these are ineffective, other anticonvulsants (e.g., phenobarbital or phenytoin). Physostigmine is not recommended except to treat life-threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
+
+                           Psychiatric Follow-up
+
+                        Since overdose often is deliberate, patients may attempt suicide by other means during the recovery phase. Psychiatric referral may be appropriate.
+
+                           Pediatric Management
+
+                        The principles of management of child and adult overdoses are similar. It is strongly recommended that the physician contact the local poison control center for specific pediatric treatment.

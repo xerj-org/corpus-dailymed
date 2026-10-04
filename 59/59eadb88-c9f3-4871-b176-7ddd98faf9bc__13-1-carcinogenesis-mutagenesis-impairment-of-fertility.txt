@@ -1,0 +1,7 @@
+DailyMed 59eadb88-c9f3-4871-b176-7ddd98faf9bc | Bijuva | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
+
+                        Progesterone has not been tested for carcinogenicity in animals by the oral route of administration. When implanted into female mice, progesterone produced mammary carcinomas, ovarian granulosa cell tumors, and endometrial stromal sarcomas. In dogs, long-term intramuscular injections produced nodular hyperplasia and benign and malignant mammary tumors. Subcutaneous or intramuscular injections of progesterone decreased the latency period and increased the incidence of mammary tumors in rats previously treated with a chemical carcinogen.
+
+                        Progesterone did not show evidence of genotoxicity in in vitro studies for point mutations or for chromosomal damage. In vivo studies for chromosome damage have yielded positive results in mice at oral doses of 1000 mg/kg and 2000 mg/kg. Exogenously administered progesterone has been shown to inhibit ovulation in a number of species and it is expected that high doses given for an extended duration would impair fertility until the cessation of treatment.

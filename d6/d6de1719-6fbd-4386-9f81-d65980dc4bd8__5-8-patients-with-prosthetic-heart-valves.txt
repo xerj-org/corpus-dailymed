@@ -1,0 +1,3 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 5.8 Patients with Prosthetic Heart Valves
+
+On the basis of the GALILEO study, use of rivaroxaban tablets are not recommended in patients who have had transcatheter aortic valve replacement (TAVR) because patients randomized to rivaroxaban experienced higher rates of death and bleeding compared to those randomized to an anti-platelet regimen. The safety and efficacy of rivaroxaban have not been studied in patients with other prosthetic heart valves or other valve procedures. Use of rivaroxaban tablets are not recommended in patients with prosthetic heart valves.

@@ -1,0 +1,3 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Grapefruit juice
+
+Co-administration of felodipine with grapefruit juice resulted in more than 2-fold increase in the AUC and Cmax, but no prolongation in the half-life of felodipine.

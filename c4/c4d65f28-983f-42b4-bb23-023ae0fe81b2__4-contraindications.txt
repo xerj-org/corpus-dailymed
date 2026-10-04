@@ -1,0 +1,45 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 4 CONTRAINDICATIONS
+
+XADAGO is contraindicated in patients with:
+
+                     Concomitant use of other drugs in the monoamine oxidase inhibitor (MAOI) class or other drugs that are potent inhibitors of monoamine oxidase, including linezolid. The combination may result in increased blood pressure, including hypertensive crisis
+
+   [see
+
+    Warnings and Precautions (5.1) and
+
+    Drug Interactions (7.1)]
+
+   .
+
+                     Concomitant use of opioid drugs (e.g., meperidine and its derivatives, methadone, propoxyphene, or tramadol); serotonin-norepinephrine reuptake inhibitors (SNRIs), tricyclic, tetracyclic, or triazolopyridine antidepressants; cyclobenzaprine; methylphenidate, amphetamine, and their derivatives; or St John's wort. Concomitant use could result in life-threatening serotonin syndrome
+
+   [see
+
+    Warnings and Precautions (5.2) and
+
+    Drug Interactions (7.2,
+
+    7.3,
+
+    7.5)]
+
+   .
+
+                     Concomitant use of dextromethorphan. The combination of MAOIs and dextromethorphan has been reported to cause episodes of psychosis or abnormal behavior
+
+   [see
+
+    Drug Interactions (7.4)]
+
+   .
+
+                     A history of a hypersensitivity to safinamide.  Reactions have included swelling of the tongue and oral mucosa, and dyspnea.
+
+                     Severe hepatic impairment (Child-Pugh C: 10-15)
+
+   [see
+
+    Use in Specific Populations (8.6)]
+
+   .

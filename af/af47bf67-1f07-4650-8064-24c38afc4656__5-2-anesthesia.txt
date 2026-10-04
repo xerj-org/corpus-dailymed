@@ -1,0 +1,3 @@
+DailyMed af47bf67-1f07-4650-8064-24c38afc4656 | ZUNVEYL | 5.2 Anesthesia
+
+ZUNVEYL, as a cholinesterase inhibitor, is likely to increase the neuromuscular blocking effects of succinylcholine-type and similar neuromuscular blocking agents during anesthesia.

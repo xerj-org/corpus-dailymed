@@ -1,0 +1,3 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 1.2 PTEN-Deficient Metastatic Androgen Pathway Modulation-Naïve or -Sensitive Prostate Cancer
+
+TRUQAP, in combination with abiraterone and prednisone, is indicated for the treatment of adult patients with metastatic androgen pathway modulation-naïve or -sensitive (mAPMN/S) prostate cancer that is PTEN-deficient as detected by an FDA-authorized test.

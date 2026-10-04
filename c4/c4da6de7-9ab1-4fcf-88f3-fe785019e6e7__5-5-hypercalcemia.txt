@@ -1,0 +1,3 @@
+DailyMed c4da6de7-9ab1-4fcf-88f3-fe785019e6e7 | Estradiol | 5.5 Hypercalcemia
+
+Estrogen administration may lead to severe hypercalcemia in women with breast cancer and bone metastases. Discontinue estrogens, including estradiol transdermal system, if hypercalcemia occurs, and take appropriate measures to reduce the serum calcium level.

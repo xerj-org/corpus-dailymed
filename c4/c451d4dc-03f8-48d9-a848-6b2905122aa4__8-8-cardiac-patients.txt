@@ -1,0 +1,11 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.8 Cardiac Patients
+
+One trial of 76 patients who were diagnosed with or have a history of cardiac disease (e.g., patients with ischemic heart disease, chronic heart failure, or arrhythmia) of primarily NYHA (New York Heart Association) Class II investigated time to recovery from neuromuscular blockade induced by rocuronium 0.6 mg/kg following administration of 2 mg/kg or 4 mg/kg Sugammadex Injection given at the reappearance of T
+
+  2. The trial showed that the median time to recovery of the T
+
+  4/T
+
+  1ratio to 0.9 was 1.7 minutes and 1.3 minutes, respectively, in the 2 mg/kg and 4 mg/kg Sugammadex Injection dose groups. This is similar to the median values observed in the other trials; therefore, no dosage adjustment is necessary
+
+  [see Dosage and Administration (2.2)].

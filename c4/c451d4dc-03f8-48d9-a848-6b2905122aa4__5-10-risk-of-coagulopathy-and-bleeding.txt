@@ -1,0 +1,11 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.10 Risk of Coagulopathy and Bleeding
+
+Sugammadex Injection doses up to 16 mg/kg were associated with increases in the coagulation parameters activated partial thromboplastin time (aPTT) and prothrombin time/international normalized ratio [PT(INR)] of up to 25% for up to 1 hour in healthy volunteers.
+
+                        In patients undergoing major orthopedic surgery of the lower extremity who were concomitantly treated with heparin or low molecular weight heparin for thromboprophylaxis, increases in aPTT and PT(INR) of 5.5% and 3.0%, respectively, were observed in the hour following Sugammadex Injection 4 mg/kg administration. This clinical trial did not demonstrate an increased blood loss or anemia incidence with Sugammadex Injection compared with usual treatment. The rate of adjudicated bleeding events within 24 hours was 2.9% for sugammadex and 4.1% for usual care. The rate of post-operative anemia was 21% for sugammadex and 22% for usual care. The mean 24-hour drainage volume was 0.46 L for sugammadex and 0.48 L for usual care. The need for any post-operative transfusion was 37% for sugammadex and 39% for usual care.
+
+                           In vitroexperiments demonstrated additional aPTT and PT(INR) prolongations for sugammadex in combination with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban, and dabigatran up to ~25% and ~50% at C
+
+  maxlevels of sugammadex corresponding to 4 mg/kg and 16 mg/kg doses, respectively.
+
+                        Since bleeding risk has been studied systematically with only heparin and low molecular weight heparin thromboprophylaxis and 4 mg/kg doses of sugammadex coagulation parameters should be carefully monitored in patients with known coagulopathies, being treated with therapeutic anticoagulation, receiving thromboprophylaxis drugs other than heparin and low molecular weight heparin, or receiving thromboprophylaxis drugs and who then receive a dose of 16 mg/kg sugammadex.

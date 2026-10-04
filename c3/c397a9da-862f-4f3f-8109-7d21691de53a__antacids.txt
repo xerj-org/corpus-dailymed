@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Antacids
+
+Diazepam peak concentrations are 30% lower when antacids are administered concurrently. However, there is no effect on the extent of absorption. The lower peak concentrations appear due to a slower rate of absorption, with the time required to achieve peak concentrations on average 20-25 minutes greater in the presence of antacids. However, this difference was not statistically significant.

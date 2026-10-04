@@ -1,0 +1,29 @@
+DailyMed 085e0809-6b7f-447e-976e-8276c29daad6 | Terbinafine | 6.2 Postmarketing Experience
+
+The following adverse events have been identified during post-approval use of terbinafine tablets. Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                            Blood and lymphatic system disorders: Pancytopenia, agranulocytosis, severe neutropenia, thrombocytopenia, anemia, thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura and hemolytic uremic syndrome [see , ] 
+
+ Immune system disorders: Serious hypersensitivity reactions e.g., angioedema and allergic reactions (including anaphylaxis), precipitation and exacerbation of cutaneous and systemic lupus erythematosus [see ], serum sickness-like reaction
+
+Psychiatric disorders: Anxiety and depressive symptoms independent of taste disturbance have been reported with use of terbinafine tablets. In some cases, depressive symptoms have been reported to subside with discontinuance of therapy and to recur with reinstitution of therapy [see ].
+
+Nervous system disorders: Cases of taste disturbance, including taste loss, have been reported with the use of terbinafine tablets. It can be severe enough to result in decreased food intake, weight loss, anxiety, and depressive symptoms. Cases of smell disturbance, including smell loss, have been reported with the use of terbinafine tablets [see , ]. Cases of paresthesia and hypoesthesia have been reported with the use of terbinafine tablets.
+
+Eye disorders: Visual field defects, reduced visual acuity
+
+ Ear and labyrinth disorders: Hearing impairment, vertigo, tinnitus
+
+ Vascular disorders: Vasculitis
+
+ Gastrointestinal disorders: Pancreatitis, vomiting
+
+ Hepatobiliary disorders: Cases of liver failure some leading to liver transplant or death [see ], idiosyncratic and symptomatic hepatic injury. Cases of hepatitis, cholestasis, and increased hepatic enzymes [see ] have been seen with the use of terbinafine tablets.
+
+ Skin and subcutaneous tissue disorders: Serious skin reactions [e.g., Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, bullous dermatitis, and drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome] [see ], acute generalized exanthematous pustulosis, psoriasiform eruptions or exacerbation of psoriasis, photosensitivity reactions, hair loss
+
+                            Musculoskeletal and connective tissue disorders: Rhabdomyolysis, arthralgia, myalgia
+
+                            General disorders and administration site conditions: Malaise, fatigue, influenza-like illness, pyrexia
+
+                            Investigations: Altered prothrombin time (prolongation and reduction) in patients concomitantly treated with warfarin and increased blood creatine phosphokinase have been reported

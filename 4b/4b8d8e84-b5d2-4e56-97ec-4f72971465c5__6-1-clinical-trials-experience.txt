@@ -1,0 +1,138 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                              Adults and Adolescents 12 Years of Age and Older:
+
+                        The safety data described below for adults and adolescents 12 years of age and older with seasonal or perennial allergic rhinitis are based on 4 placebo-controlled clinical trials of 2 to 6 weeks duration evaluating doses of beclomethasone nasal aerosol from 80 to 320 mcg once daily. These short-term trials included a total of 1394 patients with either seasonal or perennial allergic rhinitis. Of these, 575 (378 female and 197 male) received at least one dose of QNASL Nasal Aerosol, 320 mcg once daily and 578 (360 female and 218 male) received placebo. Patient ages ranged from 12 to 82 years and the racial distribution of patients was 81% white, 16% black, and 4% other.
+
+                           Short-Term (2–6 Weeks) Trials: Less than 2% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol similar to or lower than the rate among patients who received placebo.  Table 1 displays the common adverse reactions (≥ 1% and greater than placebo-treated patients).
+
+                                 Table 1. Adverse Events With ⊃; 1% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Adult and Adolescent Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 6 Weeks Duration (Safety Population) |
+
+                                  |
+                                 Adult and Adolescent Patients 12 Years of Age and Older |
+
+                                  |
+                                 QNASL Nasal Aerosol320 mcg(N=575)n (%) |
+                                 Placebo(N=578)n (%) |
+
+                                    Nasal Discomfort
+
+                                  |
+
+                                    30 (5.2)
+
+                                  |
+
+                                    28 (4.8)
+
+                                  |
+
+                                    Epistaxis
+
+                                  |
+
+                                    11 (1.9)
+
+                                  |
+
+                                    7 (1.2)
+
+                                  |
+
+                                    Headache
+
+                                  |
+
+                                    13 (2.3)
+
+                                  |
+
+                                    9 (1.6)
+
+                                  |
+
+                        Nasal ulcerations occurred in 2 patients treated with placebo and in 1 patient treated with QNASL Nasal Aerosol. There were no differences in the incidence of adverse reactions based on gender or race. Clinical trials did not have sufficient numbers of patients aged 65 years and older to determine whether they respond differently than younger patients.
+
+                           Long-Term 52-Week Safety Trial: In a 52-week placebo-controlled long-term safety trial in patients with PAR, 415 patients (128 males and 287 females, aged 12 to 74 years) were treated with QNASL Nasal Aerosol at a dose of 320 mcg once daily and 111 patients (44 males and 67 females, aged 12 to 67 years) were treated with placebo. Of the 415 patients treated with QNASL Nasal Aerosol, 219 patients were treated for 52 weeks and 196 patients were treated for 30 weeks. While most adverse events were similar in type and rate between the treatment groups, epistaxis occurred more frequently in patients who received QNASL Nasal Aerosol (45 out of 415, 11%) than in patients who received placebo (2 out of 111, 2%). Epistaxis also tended to be more severe in patients treated with QNASL Nasal Aerosol. In 45 reports of epistaxis in patients who received QNASL Nasal Aerosol, 27, 13, and 5 cases were of mild, moderate, and severe intensity, respectively, while the reports of epistaxis in patients who received placebo were of mild (1) and moderate (1) intensity. Seventeen patients treated with QNASL Nasal Aerosol experienced adverse reactions that led to withdrawal from the trial compared to 3 patients treated with placebo. There were 4 nasal erosions and 1 nasal septum ulceration which occurred in patients who received QNASL Nasal Aerosol, and no erosions or ulcerations noted in patients who received placebo. No patient experienced a nasal septum perforation during the trial.
+
+                              Pediatric Patients Aged 4 to 11 Years:
+
+                        The safety data described below for pediatric patients 4 to 11 years of age with seasonal or perennial allergic rhinitis are based on 3 placebo-controlled clinical trials.  These trials were 2 to 12 weeks in duration, evaluated doses of beclomethasone nasal aerosol 80 mcg to 160 mcg once daily and included a total of 1360 patients with either seasonal or perennial allergic rhinitis. Of these, 668 (312 female and 356 male) received at least one dose of QNASL Nasal Aerosol, 80 mcg once daily, 241 (116 female and 125 male) received QNASL Nasal Aerosol 160 mcg once daily, and 451 (203 female and 248 male) received placebo. The racial distribution of patients was 73% white, 20% black, and 6% other.  Based on the results from the dose ranging trial, 80 mcg once daily was chosen as the dose in pediatric patients.
+
+                        Less than 1.5% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol 80 mcg once daily similar to or lower than the rate among patients who received placebo.  Table 2 displays the common adverse reactions (≥ 2% and greater than placebo-treated patients). Additionally, epistaxis was reported at a rate of 4% for both QNASL Nasal Aerosol 80 mcg once daily and placebo-treated patients.
+
+                                       Table 2.  Adverse Events With ≥ 2% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Pediatric Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 12 weeks Duration (Safety Population)
+
+                                  |
+
+                                  |
+
+                                       Pediatric Patients 4 to 11 Years of Age
+
+                                  |
+
+                                  |
+
+                                       QNASL Nasal Aerosol 80 mcg (N=668)
+
+                                       n (%)
+
+                                  |
+
+                                       Placebo
+
+                                       (N=451)
+
+                                       n (%)
+
+                                  |
+
+                                    Headache
+
+                                  |
+
+                                    23 (3.4)
+
+                                  |
+
+                                    15 (3.3)
+
+                                  |
+
+                                    Pyrexia
+
+                                  |
+
+                                    19 (2.8)
+
+                                  |
+
+                                    7 (1.6)
+
+                                  |
+
+                                    Upper respiratory tract infection
+
+                                  |
+
+                                    17 (2.5)
+
+                                  |
+
+                                    8 (1.8)
+
+                                  |
+
+                                    Nasopharyngitis
+
+                                  |
+
+                                    15 (2.2)
+
+                                  |
+
+                                    6 (1.3)
+
+                                  |

@@ -1,0 +1,9 @@
+DailyMed dc42ab17-cd30-4d1a-e053-2995a90a86ea | ACETAMINOPHEN | 7 DRUG INTERACTIONS
+
+7.1 Effects of Other Substances on Acetaminophen
+
+                  Substances that induce or regulate hepatic cytochrome enzyme CYP2E1 may alter the metabolism of acetaminophen and increase its hepatotoxic potential. The clinical consequences of these effects have not been established. Effects of ethanol are complex, because excessive alcohol usage can induce hepatic cytochromes, but ethanol also acts as a competitive inhibitor of the metabolism of acetaminophen.
+
+                  7.2 Anticoagulants
+
+                  Chronic oral acetaminophen use at a dose of 4,000 mg/day has been shown to cause an increase in international normalized ratio (INR) in some patients who have been stabilized on sodium warfarin as an anticoagulant. As no studies have been performed evaluating the short-term use of acetaminophen in patients on oral anticoagulants, more frequent assessment of INR may be appropriate in such circumstances.

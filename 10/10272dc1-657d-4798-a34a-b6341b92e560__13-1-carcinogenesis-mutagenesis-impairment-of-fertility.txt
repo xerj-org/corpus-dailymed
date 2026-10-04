@@ -1,0 +1,13 @@
+DailyMed 10272dc1-657d-4798-a34a-b6341b92e560 | propofol | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Long-term studies in animals have not been performed to evaluate the carcinogenic potential of propofol.
+
+                           Mutagenesis
+
+                        Propofol was not mutagenic in the in vitro bacterial reverse mutation assay (Ames test) using Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 and TA1538. Propofol was not mutagenic in either the gene mutation/gene conversion test using Saccharomyces cerevisiae, or in vitro cytogenetic studies in Chinese hamsters. In the in vivo mouse micronucleus assay with Chinese Hamsters propofol administration did not produce chromosome aberrations.
+
+                           Impairment of Fertility
+
+                        Female Wistar rats were administered either 0, 10, or 15 mg/kg/day propofol intravenously from 2 weeks before pregnancy to day 7 of gestation did not show impaired fertility (0.65 and 1 times the human induction dose of 2.5 mg/kg based on body surface area). Male fertility in rats was not affected in a dominant lethal study at intravenous doses up to 15 mg/kg/day for 5 days.

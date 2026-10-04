@@ -1,0 +1,3 @@
+DailyMed 01bdc479-1f1f-af94-837c-12e7e861321a | Prednisone delayed release | 12.3 Pharmacokinetics
+
+The pharmacokinetic profile of prednisone delayed-release tablets has an approximately 4-hour lag time from that of immediate-release prednisone formulations. While the pharmacokinetic profile of prednisone delayed-release tablets when given with food differs in terms of lag time from IR prednisone, its absorption, distribution, and elimination processes are comparable.

@@ -1,0 +1,3 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Studies in animals have not been performed with rocuronium bromide to evaluate carcinogenic potential or impairment of fertility. Mutagenicity studies (Ames test, analysis of chromosomal aberrations in mammalian cells, and micronucleus test) conducted with rocuronium bromide did not suggest mutagenic potential.

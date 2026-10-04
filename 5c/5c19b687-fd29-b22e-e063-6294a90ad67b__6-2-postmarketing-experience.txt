@@ -1,0 +1,31 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of imiquimod. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Application Site Disorders:tingling at the application site
+
+                           Body as a Whole:angioedema
+
+                           Cardiovascular: capillary leak syndrome, cardiac failure, cardiomyopathy, pulmonary edema, arrhythmias (tachycardia, supraventricular tachycardia, atrial fibrillation, palpitations), chest pain, ischemia, myocardial infarction, syncope
+
+                           Endocrine: thyroiditis
+
+                           Gastrointestinal System Disorders:abdominal pain
+
+                           Hematological: decreases in red cell, white cell and platelet counts (including idiopathic thrombocytopenic purpura), lymphoma
+
+                           Hepatic: abnormal liver function
+
+                           Infections and Infestations:herpes simplex
+
+                           Musculoskeletal System Disorders:arthralgia
+
+                           Neuropsychiatric: agitation, cerebrovascular accident, convulsions (including febrile convulsions), depression, insomnia, multiple sclerosis aggravation, paresis, suicide
+
+                           Respiratory: dyspnea
+
+                           Urinary System Disorders:proteinuria, urinary retention, dysuria
+
+                           Skin and Appendages: exfoliative dermatitis, er ythema multiforme, hyperpigmentation, hypertrophic scar, hypopigmentation
+
+                           Vascular: Henoch-Schönlein purpura syndrome

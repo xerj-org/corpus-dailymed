@@ -1,0 +1,133 @@
+DailyMed 765cc40c-306f-4719-aac1-00f0cd8bbe78 | Dicyclomine hydrochloride | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+  The data described below reflect exposure in controlled clinical trials involving over 100 patients treated for functional bowel/irritable bowel syndrome with dicyclomine hydrochloride at initial doses of 160 mg daily (40 mg four times a day)
+
+  In these trials most of the side effects were typically anticholinergic in nature and were reported by 61% of the patients. Table 1 presents adverse reactions (
+
+  MedDRA 13.0preferred terms) by decreasing order of frequency in a side-by-side comparison with placebo.
+
+                           Table 1: Adverse reactions experienced in controlled clinical trials with decreasing order of frequency
+
+                                  
+
+     MedDRA Preferred Term
+
+    
+
+   
+
+     |
+                                  
+
+     Dicyclomine Hydrochloride (40 mg four times a day)
+                                    %
+
+    
+
+   
+
+     |
+                                  
+
+     Placebo %
+
+    
+
+   
+
+     |
+
+                                  Dry Mouth
+
+   
+     |
+                                  33
+
+   
+     |
+                                  5
+
+   
+     |
+
+                                  Dizziness
+
+   
+     |
+                                  40
+
+   
+     |
+                                  5
+
+   
+     |
+
+                                  Vision blurred
+
+   
+     |
+                                  27
+
+   
+     |
+                                  2
+
+   
+     |
+
+                                  Nausea
+
+   
+     |
+                                  14
+
+   
+     |
+                                  6
+
+   
+     |
+
+                                  Somnolence
+
+   
+     |
+                                  9
+
+   
+     |
+                                  1
+
+   
+     |
+
+                                  Asthenia
+
+   
+     |
+                                  7
+
+   
+     |
+                                  1
+
+   
+     |
+
+                                  Nervousness
+
+   
+     |
+                                  6
+
+   
+     |
+                                  2
+
+   
+     |
+
+                        Nine percent (9%) of patients were discontinued from dicyclomine hydrochloride because of one or more of these side effects (compared with 2% in the placebo group). In 41% of the patients with side effects, side effects disappeared or were tolerated at the 160 mg daily dose without reduction. A dose reduction from 160 mg daily to an average daily dose of 90 mg was required in 46% of the patients with side effects who then continued to experience a favorable clinical response; their side effects either disappeared or were tolerated.

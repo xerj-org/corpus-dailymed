@@ -1,0 +1,11 @@
+DailyMed 55d6aee1-01ca-4791-8404-386664b4ab07 | Olmesartan Medoxomil and Hydrochlorothiazide | 7.3 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+Olmesartan medoxomil
+
+  In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including olmesartan medoxomil) may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
+
+                        The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil, may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+                           Hydrochlorothiazide
+
+  In some patients the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effects of thiazide diuretics. Therefore, monitor blood pressure closely.

@@ -1,0 +1,11 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 2.4 Bipolar Disorder
+
+The goal of maintenance treatment with lamotrigine is to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy
+
+  [see
+
+   Indications and Usage (1.2)]
+
+  .
+
+                        Patients taking lamotrigine for more than 16 weeks should be periodically reassessed to determine the need for maintenance treatment.

@@ -1,0 +1,9 @@
+DailyMed c05ee6a5-c98b-45f4-83fd-40781639d653 | DigiFab | 11 DESCRIPTION
+
+DIGIFAB [Digoxin Immune Fab (Ovine)] is a sterile, lyophilized preparation of digoxin-immune ovine Fab (monovalent) immunoglobulin fragments. These fragments are obtained from the blood of healthy sheep immunized with a digoxin derivative, digoxin-dicarboxymethoxylamine (DDMA), a digoxin analogue which contains the functionally essential cyclopentaperhydrophenanthrene: lactone ring moiety coupled to keyhole limpet hemocyanin (KLH).
+
+                  The final product is prepared by isolating the immunoglobulin fraction of the ovine serum, digesting it with papain and isolating the digoxin-specific Fab fragments by affinity chromatography. These antibody fragments have a molecular weight of approximately 46,000 Da.
+
+                  Each vial of DIGIFAB, which will bind approximately 0.5 mg digoxin, contains 40 mg of digoxin immune Fab, 75 mg (approx) of mannitol USP, and 2 mg (approx) sodium acetate USP as a buffering agent.
+
+                  The product contains no preservatives and is intended for intravenous administration after reconstitution with 4 mL of Sterile Water for Injection USP.

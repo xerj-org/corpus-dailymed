@@ -1,0 +1,32 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of azithromycin. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+  Adverse reactions reported with azithromycin during the postmarketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
+
+                           Allergic:Arthralgia, edema, urticaria, and angioedema.
+
+                           Cardiovascular:Arrhythmias including ventricular tachycardia and hypotension. There have been reports of QT prolongation, torsades de pointes, and cardiovascular death.
+
+  Gastrointestinal:
+  Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
+
+                           General:Asthenia, paresthesia, fatigue, malaise, and anaphylaxis.
+
+                           Genitourinary:Interstitial nephritis and acute renal failure and vaginitis.
+
+                           Hematopoietic:Thrombocytopenia.
+
+                           Liver/Biliary:Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure.
+
+  [see
+
+   Warnings and Precautions (5.2)]
+
+                           Nervous System:Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation, and syncope.
+
+                           Psychiatric:Aggressive reaction and anxiety.
+
+                           Skin/Appendages:Pruritus serious skin reactions including erythema multiforme, AGEP, Stevens-Johnson Syndrome, toxic epidermal necrolysis, and DRESS.
+
+                           Special Senses:Hearing disturbances including hearing loss, deafness and/or tinnitus, and reports of taste/smell perversion and/or loss.

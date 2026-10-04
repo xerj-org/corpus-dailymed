@@ -1,0 +1,7 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 8.6 Hepatic Impairment
+
+Avoid use of Kerendia in patients with severe hepatic impairment (Child Pugh C).
+
+                        No dosage adjustment is recommended in patients with mild or moderate hepatic impairment (Child Pugh A or B).
+
+                        Consider additional serum potassium monitoring in patients with moderate hepatic impairment (Child Pugh B) [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].

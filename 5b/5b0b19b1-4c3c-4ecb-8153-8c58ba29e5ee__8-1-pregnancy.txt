@@ -1,0 +1,33 @@
+DailyMed 5b0b19b1-4c3c-4ecb-8153-8c58ba29e5ee | METOPROLOL TARTRATE | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from published observational studies have not demonstrated an association of adverse developmental outcomes with maternal use of metoprolol during pregnancy (see Data). Untreated hypertension and myocardial infarction during pregnancy can lead to adverse outcomes for the mother and the fetus (see Clinical Considerations). In animal reproduction studies, metoprolol has been shown to increase post-implantation loss and decrease neonatal survival in rats at oral dosages of 500 mg/kg/day, approximately 11 times the daily dose of 450 mg in a 60­kg patient on a mg/m2 basis.
+
+                        All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Clinical consideration
+
+                            
+
+                           Disease-associated maternal and/or embryo/fetal risk
+
+                        Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage). Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death. Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+                           Fetal/Neonatal adverse reactions
+
+                        Metoprolol crosses the placenta. Neonates born to mothers who are receiving metoprolol during pregnancy, may be at risk for hypotension, hypoglycemia, bradycardia, and respiratory depression. Observe neonates and manage accordingly.
+
+                           Data
+
+                            
+
+                           Human Data
+
+                        Data from published observational studies did not demonstrate an association of major congenital malformations and use of metoprolol in pregnancy. The published literature has reported inconsistent findings of intrauterine growth retardation, preterm birth and perinatal mortality with maternal use of metoprolol during pregnancy; however, these studies have methodological limitations hindering interpretation. Methodological limitations include retrospective design, concomitant use of other medications, and other unadjusted confounders that may account for the study findings including the underlying disease in the mother. These observational studies cannot definitely establish or exclude any drug-associated risk during pregnancy.
+
+                           Animal Data
+
+                        Metoprolol has been shown to increase post-implantation loss and decrease neonatal survival in rats at oral dosages of 500 mg/kg/day, i.e., 11 times, on a mg/m2 basis, the daily dose of 450 mg in a 60-kg patient.
+
+                        No fetal abnormalities were observed when pregnant rats received metoprolol orally up to a dose of 200 mg/kg/day, i.e., 4 times, the daily dose of 400mg in a 60-kg patient.

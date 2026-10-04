@@ -1,0 +1,11 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 7.3 Vancomycin
+
+Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin and tazobactam and vancomycin as compared to vancomycin alone [see Warnings and Precautions (
+
+                              5.7
+
+                           )].
+
+                        Monitor kidney function in patients concomitantly administered with piperacillin and tazobactam and vancomycin.
+
+                        No pharmacokinetic interactions have been noted between piperacillin and tazobactam and vancomycin.

@@ -1,0 +1,9 @@
+DailyMed 63df5af3-b8ac-4e76-9830-2dbb340af922 | Tivicay PD; Tivicay | 12.2 Pharmacodynamics
+
+Effects on Electrocardiogram
+
+                        In a randomized, placebo-controlled, cross-over trial, 42 healthy participants received single-dose oral administrations of placebo, dolutegravir 250-mg suspension (exposures approximately 3–fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence. After baseline and placebo adjustment, the maximum mean QTc change based on Fridericia correction method (QTcF) for dolutegravir was 2.4 msec (1-sided 95% upper CI: 4.9 msec). TIVICAY did not prolong the QTc interval over 24 hours postdose.
+
+                           Effects on Renal Function
+
+                        The effect of dolutegravir on renal function was evaluated in an open-label, randomized, 3‑arm, parallel, placebo-controlled trial in healthy participants (n = 37) who received dolutegravir 50 mg once daily (n = 12), dolutegravir 50 mg twice daily (n = 13), or placebo once daily (n = 12) for 14 days. A decrease in creatinine clearance, as determined by 24-hour urine collection, was observed with both doses of dolutegravir after 14 days of treatment in participants who received 50 mg once daily (9% decrease) and 50 mg twice daily (13% decrease). Neither dose of dolutegravir had a significant effect on the actual glomerular filtration rate (determined by the clearance of probe drug, iohexol) or effective renal plasma flow (determined by the clearance of probe drug, para-amino hippurate) compared with the placebo.

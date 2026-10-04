@@ -1,0 +1,5 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | CLINICAL PHARMACOLOGY
+
+Cimetidine competitively inhibits the action of histamine at the histamine H2 receptors of the parietal cells and thus is a histamine H2-receptor antagonist.
+
+                  Cimetidine is not an anticholinergic agent. Studies have shown that cimetidine inhibits both daytime and nocturnal basal gastric acid secretion. Cimetidine also inhibits gastric acid secretion stimulated by food, histamine, pentagastrin, caffeine and insulin.

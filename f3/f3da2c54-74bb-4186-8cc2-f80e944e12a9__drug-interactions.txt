@@ -1,0 +1,70 @@
+DailyMed f3da2c54-74bb-4186-8cc2-f80e944e12a9 | Lidocaine and prilocaine | Drug Interactions
+
+Lidocaine and prilocaine cream should be used with caution in patients receiving Class I antiarrhythmic drugs (such as tocainide and mexiletine) since the toxic effects are additive and potentially synergistic.
+
+                        Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
+
+                             Examples of Drugs Associated with Methemoglobinemia:
+
+                                     Class
+
+                                  |
+
+                                     Examples
+
+                                  |
+
+                                  Nitrates/Nitrites
+
+                                  |
+                                  nitric oxide, nitroglycerin, nitroprusside, nitrous oxide
+
+                                  |
+
+                                  Local anesthetics
+
+                                  |
+                                  articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine
+
+                                  |
+
+                                  Antineoplastic agents
+
+                                  |
+                                  cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase
+
+                                  |
+
+                                  Antibiotics
+
+                                  |
+                                  dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides
+
+                                  |
+
+                                  Antimalarials
+
+                                  |
+                                  chloroquine, primaquine
+
+                                  |
+
+                                  Anticonvulsants
+
+                                  |
+                                  Phenobarbital, phenytoin, sodium valproate
+
+                                  |
+
+                                  Other drugs
+
+                                  |
+                                  acetaminophen, metoclopramide, quinine, sulfasalazine
+
+                                  |
+
+                        Specific interaction studies with lidocaine/prilocaine and class III anti-arrhythmic drugs (e.g., amiodarone, bretylium, sotalol, dofetilide) have not been performed, but caution is advised (see
+                              WARNINGS
+                           ).
+
+                        Should lidocaine and prilocaine cream be used concomitantly with other products containing lidocaine and/or prilocaine, cumulative doses from all formulations must be considered.

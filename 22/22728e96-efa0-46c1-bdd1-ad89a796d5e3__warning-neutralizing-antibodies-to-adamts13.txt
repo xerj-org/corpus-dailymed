@@ -1,0 +1,5 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | WARNING: NEUTRALIZING ANTIBODIES TO ADAMTS13
+
+Neutralizing antibodies to ADAMTS13 with serious outcomes, including death, have been reported in patients treated with ADZYNMA. Neutralizing antibodies may result in decreased or lack of response to recombinant or plasma-derived ADAMTS13 [see Warnings and Precautions (5.1), Adverse Reactions (6.2)].
+
+                           Monitor all patients closely for ADAMTS13 activity and development of ADAMTS13 neutralizing antibodies [see Warnings and Precautions (5.1)].

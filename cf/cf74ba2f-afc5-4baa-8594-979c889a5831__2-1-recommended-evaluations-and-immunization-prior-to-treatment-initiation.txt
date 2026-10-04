@@ -1,0 +1,23 @@
+DailyMed cf74ba2f-afc5-4baa-8594-979c889a5831 | XELJANZ; XELJANZXR | 2.1 Recommended Evaluations and Immunization Prior to Treatment Initiation
+
+Prior to initiating XELJANZ (tablets and oral solution) or XELJANZ XR (extended-release tablets), consider performing the following:
+
+                              •
+
+Active and latent tuberculosis (TB) infection evaluation: If the patient has latent TB, treat for TB prior to XELJANZ/XELJANZ XR treatment [see Warnings and Precautions (5.1)].
+
+                              •
+
+Viral hepatitis screening in accordance with clinical guidelines [see Warnings and Precautions (5.1)].
+
+                              •
+
+A complete blood count: Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.9)].
+
+                              •
+
+Baseline hepatic function evaluation: XELJANZ/XELJANZ XR is not recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+                              •
+
+Update immunizations according to current immunization guidelines. The interval between live vaccinations and initiation of XELJANZ/XELJANZ XR should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.10)].

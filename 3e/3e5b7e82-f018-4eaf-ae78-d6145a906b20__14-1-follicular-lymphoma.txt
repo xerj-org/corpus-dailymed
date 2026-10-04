@@ -1,0 +1,114 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 14.1 Follicular Lymphoma
+
+The SABRINA study [NCT01200758] was a randomized, two-stage, open-label, multicenter study that enrolled a total of 410 patients with previously untreated, CD20-positive follicular lymphoma of Grade 1, 2 or 3a requiring therapy. The study design is identical in stage 1 and 2. Patients were randomized (1:1) to receive either a rituximab product by intravenous infusion 375 mg/m2 for 8 cycles or 1 cycle of a rituximab product by intravenous infusion 375 mg/m2 followed by 7 cycles of RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human) both every 3 weeks in combination with a total of 6–8 cycles of CHOP or 8 cycles of CVP chemotherapy. Patients underwent interim staging after 4 cycles. Patients who received R-CHOP and achieved a CR, CRu, PR or SD at the interim assessment could receive either 4 more cycles of R-CHOP or 2 cycles of R-CHOP followed by 2 cycles of monotherapy with rituximab product or RITUXAN HYCELA depending on randomization arm (i.e., a total of 8 cycles of rituximab product or RITUXAN HYCELA). Patients with at least a PR after combination treatment with chemotherapy continued with single agent maintenance treatment administered every 8 weeks for 24 months with rituximab product or RITUXAN HYCELA as per their randomization (i.e., total of 12 cycles of maintenance treatment).
+
+                        Randomization was stratified by: underlying chemotherapy backbone (CHOP vs CVP), Follicular Lymphoma International Prognostic Index (FLIPI) (low-risk vs. intermediate-risk vs. high-risk), and region (Europe and North America vs. South and Central America vs Asia).
+
+                        The main outcome measure for Stage 1 was the estimated ratio of observed rituximab serum Ctrough SC/Ctrough IV at Cycle 7 of combination treatment with chemotherapy every 3 weeks. The main outcome measure for Stage 2 was the investigator-assessed ORR consisting of CR, CRu, and PR at the completion of combination treatment with chemotherapy. Additional outcome measures were CRR (CR and CRu) at the end of completion of combination treatment with chemotherapy, ORR and CRR at the end of completion of maintenance treatment, and time-to-event endpoints (progression-free survival (PFS), and overall survival (OS)).
+
+                        Of all randomized patients, the median age was 57 years (range: 28 to 86), 53% were female, and 86% were White. The median BSA was 1.83 m2. 45% had high risk or 34% had intermediate risk FLIPI score, and 54% had Ann Arbor Stage IV disease. Ninety percent of patients completed all 8 cycles of combination treatment with chemotherapy, and 70% of patients completed 20 cycles of both combination and maintenance treatment. Median treatment duration was 27.1 months in both groups. The median number of cycles received was 20 in both groups.
+
+                        The pharmacokinetic results for the primary endpoint in Stage 1, rituximab Ctrough at Cycle 7 (i.e., 21 days after Cycle 7 rituximab administration), demonstrated that RITUXAN HYCELA 1,400 mg/23,400 Units was non-inferior compared with rituximab at 375 mg/m2 in patients receiving combination treatment with chemotherapy [see Clinical Pharmacology (12.3)]. The efficacy results are presented in Table 6.
+
+                           Table 6:	Efficacy in Patients with Previously Untreated Follicular Lymphoma (SABRINA Study)
+
+                                  |
+                                 RITUXAN HYCELA
+
+ N=205 |
+                                 Rituximab
+
+ N=205 |
+
+                                    Overall Response Rate at End of combination treatment with chemotherapyStage 2 main outcome measure was ORR at the end of combination treatment with chemotherapy; however pooled results which were preplanned are presented in this Table.
+
+Response rates based on investigator assessment.
+
+Response rates at end of maintenance based on patients who received at least one cycle of maintenance treatment (n).
+
+                                       ,
+                                       Investigator-assessed ORR (comprising CR, CRu and PR).
+
+                                  |
+                                  |
+                                  |
+
+                                 Number of responders (CR/CRu, PR) |
+                                 173 |
+                                 174 |
+
+                                 Overall response (CR/CRu, PR) rate (%, [95% CI]) |
+                                 84% [79;89] |
+                                 85% [79;90] |
+
+                                   Difference in overall response ratesDifference in response rates (RITUXAN HYCELA minus rituximab).
+
+ [95% CI] |
+                                 -0.5% [-7.7;6.8] |
+
+                                 Number of complete responders (CR/CRu) |
+                                 66 |
+                                 65 |
+
+                                 Complete response (CR/CRu) rate (%, [95% CI]) |
+                                 32% [26;39] |
+                                 32% [25;39] |
+
+                                   Difference in complete response rates [95% CI] |
+                                 0.0% [-9.3;9.3] |
+
+                                    Overall Response Rate at End of Maintenance
+                                  |
+                                  |
+                                  |
+
+                                 Number of patients treated in maintenance (n) |
+                                 172 |
+                                 178 |
+
+                                 Number of responders (CR/CRu, PR) |
+                                 134 |
+                                 139 |
+
+                                 Overall response (CR/CRu, PR) rate (%, [95% CI]) |
+                                 78% [71;84] |
+                                 78% [71;84] |
+
+                                   Difference in overall response rates [95% CI] |
+                                 -0.2 [-9.2;8.8] |
+
+                                 Number of complete responders (CR/CRu) |
+                                 87 |
+                                 103 |
+
+                                 Complete response (CR/CRu) rate (%, [95% CI]) |
+                                 51% [43;58] |
+                                 58% [50;65] |
+
+                                   Difference in complete response rates [95% CI]  |
+                                 -7.3 [-18.0;3.5] |
+
+                                    Progression-free survivalAt time of final analysis (median follow-up 4.8 years).
+
+                                  |
+                                  |
+                                  |
+
+                                 Number of patients with event |
+                                 65 (32%) |
+                                 71 (35%) |
+
+                                 Hazard Ratio [95% CI] (unstratified Cox model) |
+                                 0.90 [0.64;1.26] |
+
+                                    Overall survival
+                                  |
+                                  |
+                                  |
+
+                                 Number of patients with event |
+                                 18 (8.8%) |
+                                 26 (12.7%) |
+
+                                 Hazard Ratio [95% CI] (unstratified Cox model) |
+                                 0.70 [0.38;1.27] |

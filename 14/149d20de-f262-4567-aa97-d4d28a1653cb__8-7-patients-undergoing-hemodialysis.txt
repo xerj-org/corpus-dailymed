@@ -1,0 +1,9 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 8.7 Patients Undergoing Hemodialysis
+
+Topiramate is cleared by hemodialysis at a rate that is 4 to 6 times greater than in a normal individual. A dosage adjustment may be required
+
+  [see Dosage and Administration (
+
+   2.6), Clinical Pharmacology (
+
+   12.3)].

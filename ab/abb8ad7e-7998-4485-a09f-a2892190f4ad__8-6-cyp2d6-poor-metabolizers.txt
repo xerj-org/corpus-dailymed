@@ -1,0 +1,5 @@
+DailyMed abb8ad7e-7998-4485-a09f-a2892190f4ad | ARIPIPRAZOLE | 8.6 CYP2D6 Poor Metabolizers
+
+Dosage adjustment is recommended in known CYP2D6 poor metabolizers due to high aripiprazole concentrations. Approximately 8% of Caucasians and 3 to 8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see Dosage and Administration (
+                           2.6
+                           ) and Clinical Pharmacology (12.3)].

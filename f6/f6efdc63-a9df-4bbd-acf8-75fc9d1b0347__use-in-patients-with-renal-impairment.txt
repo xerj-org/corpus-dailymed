@@ -1,0 +1,13 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | Use in Patients with Renal Impairment
+
+The clearance of metoclopramide is decreased, and the systemic exposure is increased in patients with moderate to severe renal impairment compared to patients with normal renal function, which may increase the risk of adverse reactions.
+
+                        There is no dosage adjustment for patients with mild renal impairment (creatinine clearance greater than 60 mL/minute).
+
+                        For patients with moderate or severe renal impairment (creatinine clearance less than or equal to 60 mL/minute), who are receiving more than a single dose of metoclopramide injection, reduce the metoclopramide injection dosage to one-half the dosage recommended for patients with normal renal function.
+
+                        For patients with End-Stage Renal Disease (ESRD) including those treated with hemodialysis or continuous ambulatory peritoneal dialysis, who are receiving more than a single dose of metoclopramide injection, reduce the metoclopramide injection dosage to one-fourth the dosage recommended for patients with normal renal function.
+
+                        See
+                              OVERDOSAGE
+                            section for information regarding dialysis.

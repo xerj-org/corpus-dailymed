@@ -1,0 +1,31 @@
+DailyMed 761dc0f8-2f65-4615-ab49-a4bcffd40ce9 | Tadalafil | 5.1 Cardiovascular
+
+Physicians should consider the cardiovascular status of their patients, since there is a degree of cardiac risk associated with sexual activity. Therefore, treatments for erectile dysfunction, including tadalafil, should not be used in men for whom sexual activity is inadvisable as a result of their underlying cardiovascular status. Patients who experience symptoms upon initiation of sexual activity should be advised to refrain from further sexual activity and seek immediate medical attention.
+
+ Physicians should discuss with patients the appropriate action in the event that they experience anginal chest pain requiring nitroglycerin following intake of tadalafil. In such a patient, who has taken tadalafil, where nitrate administration is deemed medically necessary for a life-threatening situation, at least 48 hours should have elapsed after the last dose of tadalafil tablets before nitrate administration is considered. In such circumstances, nitrates should still only be administered under close medical supervision with appropriate hemodynamic monitoring. Therefore, patients who experience anginal chest pain after taking tadalafil tablets should seek immediate medical attention. [see Contraindications (4.1) and Patient Counseling Information (17.1)].
+
+ Patients with left ventricular outflow obstruction, (e.g., aortic stenosis and idiopathic hypertrophic subaortic stenosis) can be sensitive to the action of vasodilators, including PDE5 inhibitors.
+
+ The following groups of patients with cardiovascular disease were not included in clinical safety and efficacy trials for tadalafil, and therefore until further information is available, tadalafil is not recommended for the following groups of patients:
+
+                              •
+
+myocardial infarction within the last 90 days
+
+                              •
+
+unstable angina or angina occurring during sexual intercourse
+
+                              •
+
+New York Heart Association Class 2 or greater heart failure in the last 6 months
+
+                              •
+
+uncontrolled arrhythmias, hypotension (less than 90/50 mm Hg), or uncontrolled hypertension
+
+                              •
+
+stroke within the last 6 months.
+
+                         As with other PDE5 inhibitors, tadalafil has mild systemic vasodilatory properties that may result in transient decreases in blood pressure. In a clinical pharmacology study, tadalafil 20 mg resulted in a mean maximal decrease in supine blood pressure, relative to placebo, of 1.6/0.8 mm Hg in healthy subjects [see Clinical Pharmacology (12.2)]. While this effect should not be of consequence in most patients, prior to prescribing tadalafil tablets, physicians should carefully consider whether their patients with underlying cardiovascular disease could be affected adversely by such vasodilatory effects. Patients with severely impaired autonomic control of blood pressure may be particularly sensitive to the actions of vasodilators, including PDE5 inhibitors.

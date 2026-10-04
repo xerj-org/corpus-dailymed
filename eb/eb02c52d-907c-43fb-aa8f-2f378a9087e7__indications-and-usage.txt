@@ -1,0 +1,23 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | INDICATIONS AND USAGE
+
+Chloroquine phosphate tablets are indicated for the:
+
+                     Treatment of uncomplicated malaria due to susceptible strains of P. falciparum, P.malariae, P. ovale, and P.vivax.
+
+                     Prophylaxis of malaria in geographic areas where resistance to chloroquine is not present.
+
+                     Treatment of extraintestinal amebiasis.
+
+                  Chloroquine phosphate tablets do not prevent relapses in patients with vivax or ovale malaria because it is not effective against exoerythrocytic forms of the parasites.
+
+                  Limitations of Use in Malaria:
+
+                     Do not use chloroquine phosphate tablets for the treatment of complicated malaria (high-grade parasitemia and/or complications e.g., cerebral malaria or acute renal failure).
+
+                     Do not use chloroquine phosphate tablets for malaria prophylaxis in areas where chloroquine resistance occurs, Resistance to chloroquine phosphate tablets are widespread in P. falciparum, and is reported in P.vivax (see
+                           WARNINGS
+                        ).
+
+                     Concomitant therapy with an 8-aminoquinoline drug is necessary for treatment of the hypnozoite liver stage forms of P.vivax and P.ovale (see
+                           DOSAGE AND ADMINISTRATION
+                        ).

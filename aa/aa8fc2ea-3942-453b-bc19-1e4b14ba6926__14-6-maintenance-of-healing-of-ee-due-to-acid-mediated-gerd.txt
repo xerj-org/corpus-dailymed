@@ -1,0 +1,104 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 14.6 Maintenance of Healing of EE due to Acid-Mediated GERD
+
+In a U.S. double-blind, randomized, multicenter, placebo controlled study, two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis. Results to determine maintenance of healing of EE are shown below.
+
+                           Life Table Analysis
+
+                                  |
+
+                                    Omeprazole
+
+20 mg once daily
+
+(n = 138)
+
+                                  |
+
+                                    Omeprazole
+
+20 mg 3 days per week
+
+(n = 137)
+
+                                  |
+
+                                    Placebo
+
+(n = 131)
+
+                                  |
+
+                                    Percent in endoscopic remission at 6 months
+
+                                  |
+
+                                    70
+                                          1
+
+                                  |
+
+                                    34
+
+                                  |
+
+                                    11
+
+                                  |
+
+                           1 (p < 0.01) omeprazole 20 mg once daily versus omeprazole 20 mg 3 consecutive days per week or placebo.
+
+                        In an international multicenter double-blind study, omeprazole 20 mg daily and 10 mg daily were compared with ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis. The table below provides the results of this study for maintenance of healing of EE.
+
+                           Life Table Analysis
+
+                                  |
+
+                                    Omeprazole
+
+20 mg once daily
+
+(n = 131)
+
+                                  |
+
+                                    Omeprazole
+
+10 mg once daily
+
+(n = 133)
+
+                                  |
+
+                                    Ranitidine
+
+150 mg
+
+twice daily
+
+(n = 128)
+
+                                  |
+
+                                    Percent in endoscopic remission at 12 months
+
+                                  |
+
+                                    77
+                                          1
+
+                                  |
+
+                                    58
+                                          2
+
+                                  |
+
+                                    46
+
+                                  |
+
+                           1 (p = 0.01) omeprazole 20 mg once daily versus omeprazole 10 mg once daily or Ranitidine.
+
+                           2 (p = 0.03) omeprazole 10 mg once daily versus Ranitidine.
+
+                        In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing 20 mg daily of omeprazole was effective, while 10 mg did not demonstrate effectiveness.

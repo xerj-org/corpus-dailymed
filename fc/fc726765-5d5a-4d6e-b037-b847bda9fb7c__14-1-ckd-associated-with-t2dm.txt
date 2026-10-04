@@ -1,0 +1,191 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 14.1 CKD associated with T2DM
+
+FIDELIO-DKD (NCT: 02540993) and FIGARO-DKD (NCT: 02545049) studies were randomized, double-blind, placebo-controlled, multicenter studies in adults with CKD associated with T2DM. In FIDELIO-DKD, patients were required to either have an UACR of 30 to < 300 mg/g, eGFR 25 to < 60 mL/min/1.73m2 and diabetic retinopathy, or an UACR of ≥ 300 mg/g and an eGFR 25 to < 75 mL/min/1.73m2 to qualify for enrollment. In FIGARO-DKD, patients needed to have an UACR of 30 mg/g to < 300 mg/g and an eGFR 25 to 90 mL/min/1.73m2, or an UACR of ≥ 300 mg/g and an eGFR ≥ 60 mL/min/1.73m2.
+
+                        Both trials excluded patients with known significant non-diabetic kidney disease. All patients were to have a serum potassium ≤ 4.8 mEq/L at screening and be receiving standard of care background therapy, including a maximum tolerated labeled dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB). Patients with a clinical diagnosis of chronic heart failure with reduced ejection fraction and persistent symptoms (New York Heart Association class II to IV) were excluded. The starting dose of Kerendia was based on screening eGFR (10 mg once daily in patients with an eGFR of 25 to < 60 mL/min/1.73m2 and 20 mg once daily in patients with an eGFR ≥ 60 mL/min/1.73m2). The dose of Kerendia could be titrated during the study, with a target dose of 20 mg daily.
+
+                        The primary objective of the FIDELIO-DKD study was to determine whether Kerendia reduced the incidence of a sustained decline in eGFR of ≥ 40%, kidney failure (defined as chronic dialysis, kidney transplantation, or a sustained decrease in eGFR to < 15 mL/min/1.73m2), or renal death. The secondary outcome was a composite of time to first occurrence of CV death, non-fatal MI, non-fatal stroke or hospitalization for heart failure. The primary objective of the FIGARO-DKD study was to determine whether Kerendia reduced the time to first occurrence of CV death, non-fatal MI, non-fatal stroke or hospitalization for heart failure. The secondary outcome was a composite of time to kidney failure, a sustained decline in eGFR 40% or more compared to baseline over at least 4 weeks, or renal death.
+
+                        In FIDELIO-DKD, a total of 5674 patients were randomized to receive Kerendia (N=2833) or placebo (N=2841) and were followed for a median of 2.6 years. The mean age of the study population was 66 years, and 70% of patients were male. This global trial population was 63% White, 25% Asian, and 5% Black. At baseline, the mean eGFR was 44 mL/min/1.73m2, with 55% of patients having an eGFR < 45 mL/min/1.73m2. Median UACR was 852 mg/g, mean glycated hemoglobin A1c (HbA1c) was 7.7%, and the mean blood pressure was 138/76 mmHg. Approximately 46% of patients had a history of atherosclerotic cardiovascular disease and 8% had a history of heart failure. At baseline, 99.8% of patients were treated with an ACEi or ARB. Approximately 97% were on an antidiabetic agent (insulin [64.1%], biguanides [44%], glucagon-like peptide-1 [GLP-1] receptor agonists [7%], sodium-glucose cotransporter 2 [SGLT2] inhibitors [5%]), 74% were on a statin, and 57% were on an antiplatelet agent.
+
+                        In FIGARO-DKD, a total of 7352 patients were randomized to receive Kerendia (N=3686) or placebo (N=3666) and were followed for 3.4 years. As compared to FIDELIO-DKD, baseline eGFR was higher in FIGARO-DKD (mean eGFR 68, with 62% of patients having an eGFR ≥ 60 mL/min/1.73m2) and median UACR was lower (308 mg/g). Otherwise, baseline patient characteristics and background therapies were similar in the two trials.
+
+                        In FIDELIO-DKD, Kerendia reduced the incidence of the primary composite endpoint of a sustained decline in eGFR ≥ 40%, kidney failure, or renal death (HR 0.82, 95% CI 0.73-0.93, p=0.001) as shown in Table 5 and Figure 1. The treatment effect reflected a reduction in a sustained decline in eGFR ≥ 40% and progression to kidney failure. There were few renal deaths during the trial. Kerendia also reduced the incidence of the secondary composite endpoint of cardiovascular (CV) death, non-fatal myocardial infarction (MI), non-fatal stroke or hospitalization for heart failure (HR 0.86, 95% CI 0.75-0.99, p=0.034) as shown in Table 5 and Figure 3. The treatment effect reflected a reduction in CV death, non-fatal MI, and hospitalization for heart failure. The treatment effect on the primary and secondary composite endpoints was generally consistent across subgroups.
+
+                        In FIGARO-DKD, Kerendia reduced the incidence of the primary composite endpoint of CV death, non-fatal MI, non-fatal stroke or hospitalization for heart failure (HR 0.87, 95% CI 0.76-0.98, p=0.026) as shown in Table 5 and Figure 4. The treatment effect was mainly driven by an effect on hospitalization for heart failure, though CV death also contributed to the treatment effect. The treatment effect on the primary composite endpoint was generally consistent across subgroups, including patients with and without pre-existing cardiovascular disease. The findings for the renal composite endpoint are shown in Table 5 and Figure 2.
+
+                           Table 5: Analysis of the Primary and Secondary Time-to-Event Endpoints (and their Individual Components) in Phase 3 Studies FIDELIO-DKD and FIGARO-DKD
+
+                                  |
+                                 FIDELIO-DKD |
+                                 FIGARO-DKD |
+
+                                  |
+                                 Kerendia
+
+ N=2833 |
+                                 Placebo
+
+ N=2841 |
+                                 Treatment Effect
+
+ Kerendia / Placebo |
+                                 Kerendia
+
+ N=3686 |
+                                 Placebo
+
+ N=3666 |
+                                 Treatment Effect
+
+ Kerendia / Placebo |
+
+                                 Time-to-event Endpoints: |
+                                 Event Rate (100 pt-yr) |
+                                 Event Rate (100 pt-yr) |
+                                 Hazard Ratio
+
+  (95% CI) |
+                                 p-value |
+                                 Event Rate (100 pt-yr) |
+                                 Event Rate (100 pt-yr) |
+                                 Hazard Ratio
+
+  (95% CI) |
+                                 p-value |
+
+                                 p-value: two-sided p-value from stratified logrank test
+
+ CI = confidence interval, CV = cardiovascular, eGFR = estimated glomerular filtration rate, MI = myocardial infarction, N = number of subjects, n = number of subjects with event, pt-yr = patient year.
+
+ NOTE: Time to first event was analyzed in a Cox proportional hazards model. For patients with multiple events, only the first event contributed to the composite endpoint. Sums of the numbers of first events for the single components do not add up to the numbers of events in the composite endpoint.  |
+
+                                 Composite of kidney failure, sustained eGFR decline ≥ 40% or renal death |
+                                 7.6 |
+                                 9.1 |
+                                 0.82
+
+ [0.73; 0.93] |
+                                 0.001 |
+                                 3.2 |
+                                 3.6 |
+                                 0.87
+
+ [0.76; 1.01] |
+                                 - |
+
+                                 Kidney failure |
+                                 3.0 |
+                                 3.4 |
+                                 0.87
+
+ [0.72; 1.05] |
+                                 - |
+                                 0.4 |
+                                 0.5 |
+                                 0.72
+
+ [0.49; 1.05] |
+                                 - |
+
+                                 Sustained eGFR decline ≥ 40% |
+                                 7.2 |
+                                 8.7 |
+                                 0.81
+
+ [0.72; 0.92] |
+                                 - |
+                                 3.1 |
+                                 3.5 |
+                                 0.87
+
+ [0.75; >1.00] |
+                                 - |
+
+                                 Renal death |
+                                 - |
+                                 - |
+                                 - |
+                                 - |
+                                 - |
+                                 - |
+                                 - |
+                                 - |
+
+                                 Composite of CV death, non-fatal MI, non-fatal stroke or hospitalization for heart failure |
+                                 5.1  |
+                                 5.9 |
+                                 0.86
+
+ [0.75; 0.99] |
+                                 0.034 |
+                                 3.9 |
+                                 4.5 |
+                                 0.87
+
+ [0.76; 0.98] |
+                                 0.026 |
+
+                                 CV death |
+                                 1.7 |
+                                 2.0 |
+                                 0.86
+
+ [0.68; 1.08] |
+                                 - |
+                                 1.6 |
+                                 1.8 |
+                                 0.90
+
+ [0.73; 1.08] |
+                                 - |
+
+                                 Non-fatal MI |
+                                 0.9 |
+                                 1.2 |
+                                 0.80
+
+ [0.58; 1.09] |
+                                 - |
+                                 0.9 |
+                                 0.8 |
+                                 0.99
+
+ [0.76; 1.32] |
+                                 - |
+
+                                 Non-fatal stroke |
+                                 1.2 |
+                                 1.2 |
+                                 1.03
+
+ [0.76; 1.38] |
+                                 - |
+                                 0.9 |
+                                 0.9 |
+                                 0.97
+
+ [0.74; 1.26] |
+                                 - |
+
+                                 Hospitalization for heart failure |
+                                 1.9  |
+                                 2.2 |
+                                 0.86
+
+ [0.68; 1.08] |
+                                 - |
+                                 1.0 |
+                                 1.4 |
+                                 0.71
+
+ [0.56; 0.90] |
+                                 - |
+
+                        Figure 1: Time to first occurrence of kidney failure, sustained decline in eGFR ≥ 40% from baseline, or renal death in the FIDELIO-DKD study
+
+                        Figure 2: Time to first occurrence of kidney failure, sustained decline in eGFR ≥ 40% from baseline, or renal death in the FIGARO-DKD study
+
+                        Figure 3: Time to first occurrence of CV death, non-fatal myocardial infarction, non-fatal stroke or hospitalization for heart failure in the FIDELIO-DKD study
+
+                        Figure 4: Time to first occurrence of CV death, non-fatal myocardial infarction, non-fatal stroke or hospitalization for heart failure in the FIGARO-DKD study

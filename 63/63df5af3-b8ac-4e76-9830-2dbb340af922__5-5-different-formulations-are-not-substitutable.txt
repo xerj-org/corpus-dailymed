@@ -1,0 +1,3 @@
+DailyMed 63df5af3-b8ac-4e76-9830-2dbb340af922 | Tivicay PD; Tivicay | 5.5 Different Formulations Are Not Substitutable
+
+TIVICAY and TIVICAY PD are not bioequivalent and are not substitutable on a milligram-per-milligram basis [see Clinical Pharmacology (12.3)]. If a pediatric patient switches from one formulation to the other, the dose must be adjusted for the new dosage formulation [see Dosage and Administration (2.2)]. Incorrect dosing of a given formulation may result in underdosing and loss of therapeutic effect and possible development of resistance or possible clinically significant adverse reactions from greater exposure of dolutegravir.

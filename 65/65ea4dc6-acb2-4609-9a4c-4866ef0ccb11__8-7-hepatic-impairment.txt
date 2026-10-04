@@ -1,0 +1,7 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 8.7 Hepatic Impairment
+
+No dosage adjustment is necessary in patients with hepatic impairment
+
+  [see
+
+   Clinical Pharmacology (12.2)].

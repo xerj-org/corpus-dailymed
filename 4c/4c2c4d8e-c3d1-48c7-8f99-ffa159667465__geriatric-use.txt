@@ -1,0 +1,7 @@
+DailyMed 4c2c4d8e-c3d1-48c7-8f99-ffa159667465 | Hydroxyzine hydrochloride | Geriatric Use
+
+A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+
+                        The extent of renal excretion of hydroxyzine has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections.
+
+                        Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely.

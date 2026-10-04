@@ -1,0 +1,11 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 5.1 Embryo-Fetal Toxicity
+
+Isotretinoin is contraindicated in pregnancy [see Contraindications (4.1)]. Based on human data, isotretinoin can cause fetal harm when administered to a pregnant patient. There is an extremely high risk that life-threatening birth defects will result if pregnancy occurs while taking any amount of isotretinoin even for short periods of time. Potentially any fetus exposed during pregnancy can be affected. There are no accurate means of determining prenatally whether an exposed fetus has been affected. Major congenital malformations, spontaneous abortions, and premature births have been documented following exposure to isotretinoin during pregnancy [see Use in Specific Populations (8.1)].
+
+                        If a pregnancy occurs during isotretinoin treatment, immediately discontinue isotretinoin and refer the patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling. Immediately report any suspected fetal exposure during or 1 month after isotretinoin treatment to the FDA via the MedWatch telephone number 1-800-FDA-1088, and also to the iPLEDGE pregnancy registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
+
+                        Inform patients not to donate blood during isotretinoin treatment and for 1 month following discontinuation because the blood might be given to a pregnant patient whose fetus must not be exposed to isotretinoin.
+
+                        Isotretinoin is available only through a restricted program under a REMS [see Warnings and Precautions (5.2)
+
+                           ].

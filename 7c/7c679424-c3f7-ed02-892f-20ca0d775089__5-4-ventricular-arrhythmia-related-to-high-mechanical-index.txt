@@ -1,0 +1,9 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 5.4 Ventricular Arrhythmia Related to High Mechanical Index
+
+High ultrasound mechanical index
+values may cause microsphere cavitation or rupture and lead to ventricular
+arrhythmias. Additionally, end-systolic triggering with high mechanical
+indices has been reported to cause ventricular arrhythmias.
+
+                        Lumason is not recommended for
+use at mechanical indices greater than 0.8.

@@ -1,0 +1,15 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 12.1 Mechanism of Action
+
+Pertuzumab targets the extracellular dimerization domain (subdomain II) of HER2 and, thereby, blocks ligand-dependent heterodimerization of HER2 with other HER family members, including EGFR, HER3 and HER4. As a result, pertuzumab inhibits ligand-initiated intracellular signaling through two major signaling pathways, mitogen-activated protein (MAP) kinase and phosphoinositide 3-kinase (PI3K). Inhibition of these signaling pathways can result in cell growth arrest and apoptosis, respectively.
+
+                        Trastuzumab binds to subdomain IV of the extracellular domain of the HER2 protein to inhibit the ligand-independent, HER2 mediated cell proliferation and PI3K signaling pathway in human tumor cells that overexpress HER2.
+
+                        Both pertuzumab and trastuzumab-mediated antibody-dependent cell-mediated cytotoxicity (ADCC) have been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
+
+                        While pertuzumab alone inhibited the proliferation of human tumor cells, the combination of pertuzumab and trastuzumab augmented anti-tumor activity in HER2-overexpressing xenograft models.
+
+                        Hyaluronan is a polysaccharide found in the extracellular matrix of the subcutaneous tissue. It is depolymerized by the naturally occurring enzyme hyaluronidase. Unlike the stable structural components of the interstitial matrix, hyaluronan has a half-life of approximately 0.5 days. Hyaluronidase increases permeability of the subcutaneous tissue by depolymerizing hyaluronan. In the doses administered, hyaluronidase in PHESGO acts transiently and locally.
+
+                        The effects of hyaluronidase are reversible and permeability of the subcutaneous tissue is restored within 24 to 48 hours.
+
+                        Hyaluronidase has been shown to increase the absorption rate of a trastuzumab product into the systemic circulation when given in the subcutis of Göttingen Minipigs.

@@ -1,0 +1,16 @@
+DailyMed 1009c870-fd98-4e3b-81c8-4184036fb8c2 | Lorazepam | Geriatric Use
+
+Clinical studies of lorazepam generally were not adequate to determine whether subjects aged 65 and over respond differently than younger subjects; however, the incidence of sedation and unsteadiness was observed to increase with age (see
+
+                              ADVERSE REACTIONS
+                           ).
+
+                        Age does not appear to have a significant effect on lorazepam kinetics (see
+
+                              CLINICAL PHARMACOLOGY
+                           ).
+
+                        Clinical circumstances, some of which may be more common in the elderly, such as hepatic or renal impairment, should be considered. Greater sensitivity (e.g. sedation) of some older individuals cannot be ruled out. In general, dose selection for an elderly patient should be cautious, and lower doses may be sufficient in these patients (see
+
+                              DOSAGE AND ADMINISTRATION
+                           ).

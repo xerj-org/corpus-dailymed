@@ -1,0 +1,25 @@
+DailyMed 78b5235b-ed77-49ae-960b-e1c0145237db | Salicor | Pharmacokinetics
+
+Absorption
+
+  Following external administration of Salicor™ to healthy volunteers, no detectable levels of salicylic acid were found in the serum, indicating low systemic absorption. This minimal absorption is advantageous as it reduces the risk of systemic side effects commonly associated with oral salicylates. Studies have shown that urinary recovery of total salicylate during the first 24 hours after external application was only 6.9 mg, which represents approximately 1.4% of the total dose applied.
+
+                     Distribution
+
+  Triethanolamine salicylate is transported and distributed within cells and tissues through various mechanisms. Studies in canines and humans have shown that transdermal absorption of salicylate from triethanolamine salicylate preparations applied to skin is consistent and reproducible, with measurable tissue salicylate levels at the application site. The distribution appears to be concentration-dependent, with tissue salicylate levels directly proportional to the concentrations of the active ingredient in the formulation up to the 10% preparation.
+
+                     Metabolism
+
+  While specific metabolism data for externally applied Salicor™ is limited due to its low systemic absorption, the small amount that does enter the systemic circulation is likely metabolized similarly to other salicylates. The primary metabolic pathways include:
+
+  1. Conjugation with glycine to form salicyluric acid (approximately 75%).
+
+  2. Conjugation with glucuronic acid to produce salicyl acyl and phenolic glucuronides (about 15%).
+
+  3. Oxidation to gentisic acid and other hydroxylated derivatives (minor pathway).
+
+  Free, unmodified salicylate accounts for 10–30% of excreted metabolites, depending on dosage and individual factors like urinary pH. Metabolism primarily occurs in the liver, with some possible local metabolism in skin tissues.
+
+                     Excretion
+
+  Triethanolamine salicylate is primarily excreted through the urine after metabolism. Following external application of a 10% formulation, approximately 1.4% of the total dose is recovered in the urine as salicylate within the first 24 hours, indicating low systemic absorption.

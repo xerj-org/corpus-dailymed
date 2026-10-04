@@ -1,0 +1,13 @@
+DailyMed 2f94f711-14c4-48ec-c5a3-c5ec4b8e8729 | Lidocaine Hydrochloride and Epinephrine | 5.5 Risk of Adverse Reactions Due to Drug Interactions with Lidocaine Hydrochloride and Epinephrine Injection
+
+Risk of Severe, Persistent Hypertension Due to Drug Interactions Between Lidocaine Hydrochloride and Epinephrine Injection and Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
+
+                        Administration of Lidocaine Hydrochloride and Epinephrine Injection in patients receiving monoamine oxidase inhibitors (MAOI), or tricyclic antidepressants may result in severe, prolonged hypertension. Concurrent use of these agents should generally be avoided. In situations when concurrent therapy is necessary, careful monitoring of the patient's hemodynamic status is essential [see Drug Interactions (7.2)].
+
+                           Risk of Severe, Persistent Hypertension or Cerebrovascular Accidents Due to Drug Interactions Between Lidocaine Hydrochloride and Epinephrine Injection and Ergot-Type Oxytocic Drugs
+
+                        Concurrent administration of Lidocaine Hydrochloride and Epinephrine Injection and ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents. Avoid use of Lidocaine Hydrochloride and Epinephrine Injection concomitantly with ergot-type oxytocic drugs [see Drug Interactions (7.3)].
+
+                           Risk of Hypertension and Bradycardia Due to Drug Interactions Between Lidocaine Hydrochloride and Epinephrine Injection and Nonselective Beta-Adrenergic Antagonists
+
+                        Administration of Lidocaine Hydrochloride and Epinephrine Injection in patients receiving nonselective beta-adrenergic antagonists may cause severe hypertension and bradycardia. Concurrent use of these agents should generally be avoided. In situations when concurrent therapy is necessary, careful monitoring of the patient's blood pressure and heart rate is essential [see Drug Interactions (7.4)].

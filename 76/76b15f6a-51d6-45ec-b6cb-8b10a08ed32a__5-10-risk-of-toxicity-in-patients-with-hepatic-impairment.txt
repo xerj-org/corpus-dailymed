@@ -1,0 +1,7 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 5.10 Risk of Toxicity in Patients with Hepatic Impairment
+
+Because amide local anesthetics such as bupivacaine are metabolized by the liver, consider reduced dosing and increased monitoring for bupivacaine systemic toxicity in patients with moderate to severe hepatic impairment who are treated with Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection, especially with repeat doses
+
+  [see
+
+   Use in Specific Populations (8.6)].

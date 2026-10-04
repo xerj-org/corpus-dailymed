@@ -1,0 +1,67 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 7 DRUG INTERACTIONS
+
+Table 5 includes clinically significant drug interactions with ONSWIK.
+
+                     Table 5: Clinically Significant Drug Interactions with ONSWIK
+
+                              Drugs That May Increase the Risk of Hypoglycemia
+                            |
+
+                              Drugs:
+                            |
+                           Antidiabetic agents (including glucagon-like peptide-1 (GLP-1) receptor agonists, glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor agonists, and sodium-glucose co-transporter 2 (SGLT2) inhibitors), angiotensin converting enzyme (ACE) inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, monoamine oxidase inhibitors, pentoxifylline, salicylates, selective serotonin re-uptake inhibitors (SSRIs), somatostatin analogs, and sulfonamide antibiotics.
+ |
+
+                              Intervention:
+                            |
+                           Dose reductions of ONSWIK and increased frequency of glucose monitoring may be required when ONSWIK is co-administered with these drugs.
+ |
+
+                              Drugs That May Decrease the Glucose-Lowering Effect of ONSWIK
+                            |
+
+                              Drugs:
+                            |
+                           Atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diazoxide, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, pasireotide, phenothiazine, protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, and terbutaline), and thyroid hormones.
+ |
+
+                              Intervention:
+                            |
+                           Dose increases of ONSWIK and increased frequency of glucose monitoring may be required when ONSWIK is co-administered with these drugs.
+ |
+
+                              FcRn Inhibitors:
+                            |
+                           Neonatal Fc receptor (FcRn) inhibitors (for example, efgartigimod, rozanolixizumab, nipocalimab) may lower systemic exposure of ONSWIK and reduce its effectiveness.
+ |
+
+                              Intervention:
+                            |
+                           If treatment with an FcRn inhibitor is required, consider switching to an alternative basal insulin.
+ |
+
+                              Drugs That May Increase or Decrease the Glucose-Lowering Effect of ONSWIK
+                            |
+
+                              Drugs:
+                            |
+                           Alcohol, beta-blockers, clonidine, lithium salts, and octreotide or lanreotide. Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.
+ |
+
+                              Intervention:
+                            |
+                           Dose adjustment of ONSWIK and increased frequency of glucose monitoring may be required when ONSWIK is co-administered with these drugs.
+ |
+
+                              Drugs That May Blunt Signs and Symptoms of Hypoglycemia
+                            |
+
+                              Drugs:
+                            |
+                           Beta-blockers, clonidine, guanethidine, and reserpine.
+ |
+
+                              Intervention:
+                            |
+                           Increased frequency of glucose monitoring may be required when ONSWIK is co-administered with these drugs.
+ |

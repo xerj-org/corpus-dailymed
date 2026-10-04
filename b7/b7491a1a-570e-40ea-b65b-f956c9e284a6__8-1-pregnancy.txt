@@ -1,0 +1,35 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 8.1 Pregnancy
+
+Risk Summary
+
+Discontinue rosuvastatin when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs of the individual patient.
+
+                        Rosuvastatin decreases synthesis of cholesterol and possibly other biologically active substances derived from cholesterol; therefore, rosuvastatin may cause fetal harm when administered to pregnant patients based on the mechanism of action
+  [see
+   Clinical Pharmacology (12.1)]
+  . In addition, treatment of hyperlipidemia is not generally necessary during pregnancy. Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hyperlipidemia for most patients.
+
+                        Available data from case series and prospective and retrospective observational cohort studies over decades of use with statins in pregnant women have not identified a drug-associated risk of major congenital malformations. Published data from prospective and retrospective observational cohort studies with rosuvastatin use in pregnant women are insufficient to determine if there is a drug-associated risk of miscarriage
+  (see Data).
+
+                        In animal reproduction studies, no adverse developmental effects were observed in pregnant rats or rabbits orally administered rosuvastatin during the period of organogenesis at doses that resulted in systemic exposures equivalent to human exposures at the maximum recommended human dose (MRHD) of 40 mg/day, based on AUC and body surface area (mg/m
+  2), respectively
+  (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Human Data
+
+A Medicaid cohort linkage study of 1,152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential confounders – including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use – using propensity score-based methods. The relative risk of congenital malformations between the group with statin use and the group with no statin use in the first trimester was 1.07 (95% confidence interval 0.85 to 1.37) after controlling for confounders, particularly pre-existing diabetes mellitus. There were also no statistically significant increases in any of the organ-specific malformations assessed after accounting for confounders. In the majority of pregnancies, statin treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified. Study limitations include reliance on physician coding to define the presence of a malformation, lack of control for certain confounders such as body mass index, use of prescription dispensing as verification for the use of a statin, and lack of information on non-live births.
+
+                           Animal Data
+
+In female rats given 5, 15 and 50 mg/kg/day before mating and continuing through to gestation day 7 resulted in decreased fetal body weight (female pups) and delayed ossification at 50 mg/kg/day (10 times the human exposure at the MRHD dose of 40 mg/day based on AUC).
+
+                        In pregnant rats given 2, 10 and 50 mg/kg/day of rosuvastatin from gestation day 7 through lactation day 21 (weaning), decreased pup survival occurred at 50 mg/kg/day (dose equivalent to 12 times the MRHD of 40 mg/day based body surface area).
+
+                        In pregnant rabbits given 0.3, 1, and 3 mg/kg/day of rosuvastatin from gestation day 6 to day 18, decreased fetal viability and maternal mortality was observed at 3 mg/kg/day (dose equivalent to the MRHD of 40 mg/day based on body surface area).
+
+                        Rosuvastatin crosses the placenta in rats and rabbits and is found in fetal tissue and amniotic fluid at 3% and 20%, respectively, of the maternal plasma concentration following a single 25 mg/kg oral gavage dose on gestation day 16 in rats. In rabbits, fetal tissue distribution was 25% of maternal plasma concentration after a single oral gavage dose of 1 mg/kg on gestation day 18.

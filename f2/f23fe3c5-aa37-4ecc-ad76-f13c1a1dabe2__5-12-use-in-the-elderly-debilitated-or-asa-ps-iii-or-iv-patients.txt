@@ -1,0 +1,9 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 5.12 Use in the Elderly, Debilitated, or ASA-PS III or IV Patients
+
+A lower induction dose and a slower maintenance rate of administration should be used in elderly, debilitated, or ASA-PS III or IV patients [
+
+  see Dosage and Administration (
+
+   2)
+
+  ]. Patients should be continuously monitored for early signs of hypotension and/or bradycardia. Apnea requiring ventilatory support often occurs during induction and may persist for more than 60 seconds.

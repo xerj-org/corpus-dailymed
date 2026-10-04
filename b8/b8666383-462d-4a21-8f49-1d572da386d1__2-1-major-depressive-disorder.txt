@@ -1,0 +1,39 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 2.1 Major Depressive Disorder
+
+Initial Treatment
+
+  Adult
+  — Initiate fluoxetine capsules 20 mg/day orally in the morning. Consider a dose increase after several weeks if insufficient clinical improvement is observed. Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon). The maximum fluoxetine dose should not exceed 80 mg/day.
+
+  In controlled trials used to support the efficacy of fluoxetine, patients were administered morning doses ranging from 20 to 80 mg/day. Studies comparing fluoxetine 20, 40, and 60 mg/day to placebo indicate that 20 mg/day is sufficient to obtain a satisfactory response in Major Depressive Disorder in most cases
+
+  [see
+
+   Clinical Studies (14.1)]
+
+  .
+
+  Pediatric (children and adolescents)
+  — Initiate fluoxetine capsules 10 or 20 mg/day. After 1 week at 10 mg/day, increase the dose to 20 mg/day. However, due to higher plasma levels in lower weight children, the starting and target dose in this group may be 10 mg/day. Consider a dose increase to 20 mg/day after several weeks if insufficient clinical improvement is observed. In the short-term (8 to 9 week) controlled clinical trials of fluoxetine supporting its effectiveness in the treatment of Major Depressive Disorder, patients were administered fluoxetine doses of 10 to 20 mg/day
+
+  [see
+
+   Clinical Studies (14.1)]
+
+  .
+
+  All patients
+  — As with other drugs effective in the treatment of Major Depressive Disorder, the full effect may be delayed until 4 weeks of treatment or longer.
+
+  Periodically reassess to determine the need for maintenance treatment.
+
+  Switching Patients to a Tricyclic Antidepressant (TCA)
+  — Dosage of a TCA may need to be reduced, and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued
+
+  [see 
+
+   Warnings and Precautions (5.2)and
+
+   Drug Interactions (7.7)]
+
+  .

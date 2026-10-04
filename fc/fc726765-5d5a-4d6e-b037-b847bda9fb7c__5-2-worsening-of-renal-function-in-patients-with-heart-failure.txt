@@ -1,0 +1,7 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 5.2 Worsening of Renal Function in Patients with Heart Failure
+
+Kerendia can cause worsening of renal function in patients with heart failure. Rarely, severe events associated with worsening renal function, including events requiring hospitalization, have been observed [see Adverse Reactions (6.1)].
+
+                        Measure eGFR in all patients before initiation of treatment or with dose titration of Kerendia and dose accordingly [see Dosage and Administration (2.1, 2.3)]. Initiation of Kerendia in patients with heart failure and an eGFR <25 mL/min/1.73m2 is not recommended.
+
+                        Measure eGFR periodically during maintenance treatment with Kerendia in patients with heart failure. Consider delaying up-titration or interrupting treatment with Kerendia in patients who develop clinically significant worsening of renal function.

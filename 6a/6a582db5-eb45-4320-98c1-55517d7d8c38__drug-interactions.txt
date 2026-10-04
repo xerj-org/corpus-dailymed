@@ -1,0 +1,3 @@
+DailyMed 6a582db5-eb45-4320-98c1-55517d7d8c38 | Isosorbide Mononitrate | Drug Interactions
+
+The vasodilating effects of isosorbide mononitrate may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety. Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination. Dose adjustments of either class of agents may be necessary.

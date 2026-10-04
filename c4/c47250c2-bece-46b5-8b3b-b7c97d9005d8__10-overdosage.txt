@@ -1,0 +1,3 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 10 OVERDOSAGE
+
+In the event of acute overdosage, reversible renal toxicity has been reported in some cases. Empty the stomach by induing vomiting or by gastric lavage. Observe the patient carefully and give supportive treatment, including monitoring of renal function, urinary pH and acidify, if required, to prevent crystalluria and administration of magnesium, aluminum, or calcium containing antacids which can reduce the absorption of ciprofloxacin. Adequate hydration must be maintained. Only a small amount of ciprofloxacin (less than 10%) is removed from the body after hemodialysis or peritoneal dialysis.

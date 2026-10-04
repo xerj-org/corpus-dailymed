@@ -1,0 +1,7 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 8.2 Lactation
+
+Risk Summary
+
+                        Limited data from case reports in published literature indicate that CRESTOR is present in human milk. There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production. Statins, including CRESTOR, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
+
+                        Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with CRESTOR [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.1)].

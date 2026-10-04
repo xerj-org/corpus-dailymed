@@ -1,0 +1,129 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 14.4 Treatment Discontinuation in Ph+ CML-CP Patients Who Have Achieved a Sustained Molecular Response (MR4.5) on Nilotinib Capsules Following Prior Imatinib Therapy
+
+The ENESTop (Evaluating Nilotinib Efficacy and Safety in clinical Trials-STop) study (NCT01698905) is an open-label, multicenter, single-arm study, where 163 adult patients with Ph+ CML-CP taking tyrosine kinase inhibitors (TKIs) for ≥ 3 years (imatinib as initial TKI therapy for more than 4 weeks without documented MR4.5 on imatinib at the time of switch to nilotinib, then switched to nilotinib for at least 2 years), and who achieved MR4.5 on nilotinib treatment as measured with the MolecularMD MRDx® BCR-ABL Test were enrolled to continue nilotinib treatment for an additional 52 weeks (nilotinib consolidation phase). Of the 163 patients, 126 patients (77.3%) entered the TFR phase after achieving a sustained molecular response (MR4.5) during the consolidation phase, defined by the following criterion:
+
+                         
+
+                           The 4 last quarterly assessments (taken every 12 weeks) showed no confirmed loss of MR4.5 (BCRABL/ABL ≤ 0.0032% IS) during 1 year. 
+
+                         
+
+                        The median age of patients who entered the TFR phase was 56 years, 55.6% were females, and 27.8% of the patients were ≥ 65 years of age. The median actual dose intensity during the 52-week nilotinib consolidation phase was 771.8 mg/day with 52.4%, 29.4%, 0.8%, 16.7%, and 0.8% of patients receiving a daily nilotinib dose of 800 mg, 600 mg, 450 mg, 400 mg and 300 mg just before entry into the TFR phase, respectively.
+
+                         
+
+                        Patients who entered the TFR phase but experienced two consecutive measurements of BCR-ABL/ABL > 0.01% IS were considered having a confirmed loss of MR4.0, triggering reinitiation of nilotinib treatment. Patients with loss of MMR in the TFR phase immediately restarted nilotinib treatment without confirmation. All patients who restarted nilotinib therapy had BCR-ABL transcript levels monitored every 4 weeks for the first 24 weeks, then once every 12 weeks.
+
+                         
+
+                        Efficacy was based on the 96-week analysis data cut-off date, by which time, 61 patients (48.4%) had discontinued from the TFR phase: 58 patients (46.0%) due to loss of MMR or confirmed loss of MR4.0, 2 patients (1.6%) due to subject/guardian decision and one patient (0.8%) due to pregnancy. Among the 58 patients who discontinued from the TFR phase due to confirmed loss of MR4.0 or loss of MMR, 56 patients restarted nilotinib therapy and 2 patients permanently discontinued from the study. 
+
+                         
+
+                        By the 96-week data cut-off, of the 56 patients who restarted nilotinib treatment due to confirmed loss of MR4.0 or loss of MMR in the TFR phase, 52 patients (92.9%) regained MR4.0 and MR4.5; 4 patients (7.1%) did not regain MR4.0 by the time of the cut-off date. The cumulative rate of MR4 and MR4.5 regained by 48-weeks since treatment reinitiation, was 92.9% (52/56 patients) and 91.1% (51/56 patients), respectively.
+
+                         
+
+                           Table 15: Efficacy Results for ENESTop
+
+                         
+
+                                    Patients who entered the treatment free remission (TFR) phase (full analysis set, N = 126)
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    Patients in TFR phase1 at the specified time point
+
+                                  |
+
+                                    Loss of MMR or confirmed loss of MR42 by the specified time point
+
+                                  |
+
+                                     
+
+                                  |
+
+                                    %
+
+                                  |
+
+                                    95% CI
+
+                                  |
+
+                                    %
+
+                                  |
+
+                                    24 weeks
+
+                                  |
+
+                                    60.3
+
+                                  |
+
+                                    (51.2, 68.9)
+
+                                  |
+
+                                    38.9
+
+                                  |
+
+                                    48 weeks
+
+                                  |
+
+                                    57.9
+
+                                  |
+
+                                    (48.8, 66.7)
+
+                                  |
+
+                                    41.3
+
+                                  |
+
+                                    96 weeks
+
+                                  |
+
+                                    53.2
+
+                                  |
+
+                                    (44.1, 62.1)
+
+                                  |
+
+                                    43.7
+
+                                  |
+
+                        Abbreviation: CI, confidence interval. 
+
+                           1Patients without loss of MMR or confirmed loss of MR4 by specified time point of TFR phase.
+
+                           2Based on the time to event (loss of MMR or confirmed loss of MR4) data during the TFR phase.
+
+                         
+
+                        Among the 126 patients in the TFR phase, 61 patients (48.4%) had a treatment-free survival (TFS) event (defined as discontinuation from TFR phase due to any reason, loss of MMR, confirmed loss of MR4, death due to any cause, progression to AP/BC up to the end of TFR phase, or reinitiation of treatment due to any cause in the study) on or before the 96-month cut-off date.  
+
+                         
+
+                           Figure 2: Kaplan-Meier Estimate of Treatment-Free Survival after Start of TFR (Full Analysis Set ENESTop)
+
+                         
+
+                           For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.
+
+                           Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Tasigna® (nilotinib) capsules. However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

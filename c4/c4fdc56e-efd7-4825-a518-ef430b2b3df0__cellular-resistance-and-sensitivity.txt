@@ -1,0 +1,3 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | Cellular Resistance and Sensitivity
+
+Cytarabine is metabolized by deoxycytidine kinase and other nucleotide kinases to the nucleotide triphosphate, an effective inhibitor of DNA polymerase; it is inactivated by a pyrimidine nucleoside deaminase, which converts it to the non-toxic uracil derivative. It appears that the balance of kinase and deaminase levels may be an important factor in determining sensitivity or resistance of the cell to cytarabine.

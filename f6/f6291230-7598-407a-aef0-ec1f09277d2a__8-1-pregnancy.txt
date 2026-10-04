@@ -1,0 +1,37 @@
+DailyMed f6291230-7598-407a-aef0-ec1f09277d2a | celecoxib | 8.1 Pregnancy
+
+Pregnancy Category C. Pregnancy category D from 30 weeks of gestation onward.
+
+                           Risk Summary
+
+  Use of NSAIDs, including celecoxib capsules, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus. Avoid use of NSAIDs, including celecoxib capsules, in pregnant women starting at 30 weeks of gestation.
+
+                        There are no adequate and well-controlled studies of celecoxib capsules in pregnant women. Data from observational studies regarding potential embryo-fetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive. In animal reproduction studies, embryo-fetal deaths and an increase in diaphragmatic hernias were observed in rats administered celecoxib daily during the period of organogenesis at oral doses approximately 6 times the maximum recommended human dose (MRHD) of 200 mg twice daily. In addition, structural abnormalities (e.g., septal defects, ribs fused, sternebrae fused and sternebrae misshapen) were observed in rabbits given daily oral doses of celecoxib during the period of organogenesis at approximately 2 times the MRHD [see Data]. Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization. In animal studies, administration of prostaglandin synthesis inhibitors such as celecoxib, resulted in increased pre- and post-implantation loss.
+
+  The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2% to 4% for major malformations, and 15% to 20% for pregnancy loss.
+
+                           Clinical Considerations
+
+                           Labor or Delivery
+
+                           There are no studies on the effects of celecoxib capsules during labor or delivery. In animal studies, NSAIDs, including celecoxib, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
+
+                           Data
+
+                           Human Data
+
+                           The available data do not establish the presence or absence of developmental toxicity related to the use of celecoxib capsules.
+
+                           Animal data
+
+                           Celecoxib at oral doses ≥150 mg/kg/day (approximately 2 times the human exposure at 200 mg twice daily as measured by AUC
+
+  0-24), caused an increased incidence of ventricular septal defects, a rare event, and fetal alterations, such as ribs fused, sternebrae fused and sternebrae misshapen when rabbits were treated throughout organogenesis. A dose-dependent increase in diaphragmatic hernias was observed when rats were given celecoxib at oral doses ≥30 mg/kg/day (approximately 6 times human exposure based on the AUC
+
+  0-24at 200 mg twice daily for RA) throughout organogenesis. In rats, exposure to celecoxib during early embryonic development resulted in pre-implantation and post-implantation losses at oral doses ≥50 mg/kg/day (approximately 6 times human exposure based on the AUC
+
+  0-24at 200 mg twice daily for RA).
+
+                        Celecoxib produced no evidence of delayed labor or parturition at oral doses up to 100 mg/kg in rats (approximately 7-fold human exposure as measured by the AUC
+
+  0-24at 200 mg twice daily). The effects of celecoxib capsules on labor and delivery in pregnant women are unknown.

@@ -1,0 +1,9 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 5.4 Use in Women of Childbearing Potential
+
+Because of the risk to the fetus of decreased IQ, neurodevelopmental disorders, and major congenital malformations (including neural tube defects), which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable. This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headaches [see Contraindications (4)]. Women should use effective contraception while using valproate.
+
+                        Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy. This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
+
+                        To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
+
+                        Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population. It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation. Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for women of childbearing potential using valproate.

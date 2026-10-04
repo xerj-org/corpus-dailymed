@@ -1,0 +1,232 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | COMPATIBILITY AND STABILITY
+
+Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration. Particulate formation can result.
+
+                   Ceftriaxone has been shown to be compatible with Flagyl® IV (metronidazole hydrochloride). The concentration should not exceed 5 to 7.5 mg/mL metronidazole hydrochloride with ceftriaxone 10 mg/mL as an admixture. The admixture is stable for 24 hours at room temperature only in 0.9% sodium chloride injection or 5% dextrose in water (D5W). No compatibility studies have been conducted with the Flagyl® IV RTU® (metronidazole) formulation or using other diluents. Metronidazole at concentrations greater than 8 mg/mL will precipitate. Do not refrigerate the admixture as precipitation will occur.
+
+                  Vancomycin, amsacrine, aminoglycosides, and fluconazole are incompatible with ceftriaxone in admixtures. When any of these drugs are to be administered concomitantly with ceftriaxone by intermittent intravenous infusion, it is recommended that they be given sequentially, with thorough flushing of the intravenous lines (with one of the compatible fluids) between the administrations.
+
+                  Ceftriaxone solutions should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs or into diluent solutions other than those listed above, due to possible incompatibility (see
+                        WARNINGS
+                     ).
+
+                  Ceftriaxone sterile powder should be stored at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature] and protected from light. After reconstitution, protection from normal light is not necessary. The color of solutions ranges from light yellow to amber, depending on the length of storage, concentration and diluent used.
+
+                  Ceftriaxone intramuscular solutions remain stable (loss of potency less than 10%) for the following time periods:
+
+                              Diluent
+
+                            |
+
+                              Concentration
+
+mg/mL
+
+                            |
+
+                              Storage
+
+                            |
+
+                              Room Temp.
+
+(25°C)
+
+                            |
+
+                              Refrigerated
+
+(4°C)
+
+                            |
+
+                              Sterile Water for Injection
+
+                            |
+
+                              100
+
+                            |
+
+                              2 days
+
+                            |
+
+                              10 days
+
+                            |
+
+                              250, 350
+
+                            |
+
+                              24 hours
+
+                            |
+
+                              3 days
+
+                            |
+
+                              0.9% Sodium Chloride Solution
+
+                            |
+
+                              100
+
+                            |
+
+                              2 days
+
+                            |
+
+                              10 days
+
+                            |
+
+                              250, 350
+
+                            |
+
+                              24 hours
+
+                            |
+
+                              3 days
+
+                            |
+
+                              5% Dextrose Solution
+
+                            |
+
+                              100
+
+                            |
+
+                              2 days
+
+                            |
+
+                              10 days
+
+                            |
+
+                              250, 350
+
+                            |
+
+                              24 hours
+
+                            |
+
+                              3 days
+
+                            |
+
+                              Bacteriostatic Water + 0.9% Benzyl Alcohol
+
+                            |
+
+                              100
+
+                            |
+
+                              24 hours
+
+                            |
+
+                              10 days
+
+                            |
+
+                              250, 350
+
+                            |
+
+                              24 hours
+
+                            |
+
+                              3 days
+
+                            |
+
+                              1% Lidocaine Solution (without epinephrine)
+
+                            |
+
+                              100
+
+                            |
+
+                              24 hours
+
+                            |
+
+                              10 days
+
+                            |
+
+                             |
+
+                              250, 350
+
+                            |
+
+                              24 hours
+
+                            |
+
+                              3 days
+
+                            |
+
+                  Ceftriaxone intravenous solutions, at concentrations of 10, 20 and 40 mg/mL, remain stable (loss of potency less than 10%) for the following time periods stored in glass or PVC containers:
+
+                             |
+                           Storage |
+
+                            Diluent |
+                           Room Temp.  |
+                           Refrigerated  |
+
+                             |
+                           (25ºC) |
+                           (4ºC) |
+
+                            Sterile Water |
+                            2 days |
+                           10 days  |
+
+                            0.9% Sodium Chloride Solution |
+                            2 days |
+                            10 days |
+
+                            5% Dextrose Solution |
+                            2 days |
+                            10 days |
+
+                            10% Dextrose Solution |
+                            2 days |
+                            10 days |
+
+                            5% Dextrose + 0.9% Sodium Chloride Solution* |
+                            2 days |
+                            Incompatible |
+
+                            5% Dextrose + 0.45% Sodium Chloride Solution |
+                            2 days |
+                            Incompatible |
+
+                   *Data available for 10 to 40 mg/mL concentrations in this diluent in PVC containers only.
+
+                  The following intravenous ceftriaxone solutions are stable at room temperature (25°C) for 24 hours, at concentrations between 10 mg/mL and 40 mg/mL: Sodium Lactate (PVC container), 10% Invert Sugar (glass container), 5% Sodium Bicarbonate (glass container), Freamine III (glass container), Normosol-M in 5% Dextrose (glass and PVC containers), Ionosol-B in 5% Dextrose (glass container), 5% Mannitol (glass container), 10% Mannitol (glass container).
+
+                  After the indicated stability time periods, unused portions of solutions should be discarded.
+
+                  NOTE: Parenteral drug products should be inspected visually for particulate matter before administration.
+
+                  Ceftriaxone reconstituted with 5% Dextrose or 0.9% Sodium Chloride solution at concentrations between 10 mg/‌mL and 40 mg/mL, and then stored in frozen state (- 20°C) in PVC or polyolefin containers, remains stable for 26 weeks.
+
+                  Frozen solutions of ceftriaxone should be thawed at room temperature before use. After thawing, unused portions should be discarded. DO NOT REFREEZE.

@@ -1,0 +1,9 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 8.4 Pediatric Use
+
+The use of rocuronium bromide has been studied in pediatric patients 3 months to 14 years of age under halothane anesthesia. Of the pediatric patients anesthetized with halothane who did not receive atropine for induction, about 80% experienced a transient increase (30% or greater) in heart rate after intubation. One of the 19 infants anesthetized with halothane and fentanyl who received atropine for induction experienced this magnitude of change [see Dosage and Administration (2.6) and Clinical Studies (14.3)].
+
+                        Rocuronium bromide was also studied in pediatric patients up to 17 years of age, including neonates, under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia. Onset time and clinical duration varied with dose, the age of the patient, and anesthetic technique.
+
+                        The overall analysis of ECG data in pediatric patients indicates that the concomitant use of rocuronium bromide with general anesthetic agents can prolong the QTc interval. The data also suggest that rocuronium bromide may increase heart rate. However, it was not possible to conclusively identify an effect of rocuronium bromide independent of that of anesthesia and other factors. Additionally, when examining plasma levels of rocuronium bromide in correlation to QTc interval prolongation, no relationship was observed [see Dosage and Administration (2.6), Warnings and Precautions (5.9), and Clinical Studies (14.3)].
+
+                        Rocuronium bromide is not recommended for rapid sequence intubation in pediatric patients. Recommendations for use in pediatric patients are discussed in other sections [see Dosage and Administration (2.6) and Clinical Pharmacology (12.2)].

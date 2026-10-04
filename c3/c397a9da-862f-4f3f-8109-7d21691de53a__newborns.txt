@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Newborns
+
+In full term infants, elimination half-lives around 30 hours have been reported, with a longer average half-life of 54 hours reported in premature infants of 28-34 weeks gestational age and 8-81 days post-partum. In both premature and full term infants the active metabolite desmethyldiazepam shows evidence of continued accumulation compared to children. Longer half-lives in infants may be due to incomplete maturation of metabolic pathways.

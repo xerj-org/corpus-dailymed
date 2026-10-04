@@ -1,0 +1,7 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 7.3 Other Serotonergic Drugs
+
+The concomitant use of serotonergic drugs (including other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, buspirone, amphetamines, tryptophan, and St. John's Wort) with fluoxetine increases the risk of serotonin syndrome. Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of fluoxetine and/or concomitant serotonergic drugs
+
+  [see
+
+   Warnings and Precautions (5.2)].

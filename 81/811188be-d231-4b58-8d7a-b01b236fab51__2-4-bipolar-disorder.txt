@@ -1,0 +1,273 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 2.4 Bipolar Disorder
+
+The goal of maintenance treatment with lamotrigine is to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy
+
+  [see Indications and Usage (
+
+   1.2)]
+
+  .
+
+                        Patients taking lamotrigine for more than 16 weeks should be periodically reassessed to determine the need for maintenance treatment.
+
+                           Adults
+
+                        The target dose of lamotrigine is 200 mg/day (100 mg/day in patients taking valproate, which decreases the apparent clearance of lamotrigine, and 400 mg/day in patients not taking valproate and taking either carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitor lopinavir/ritonavir that increase the apparent clearance of lamotrigine). In the clinical trials, doses up to 400 mg/day as monotherapy were evaluated; however, no additional benefit was seen at 400 mg/day compared with 200 mg/day
+
+  [see Clinical Studies (
+
+   14.2)]
+
+  . Accordingly, doses above 200 mg/day are not recommended.
+
+                        Treatment with lamotrigine is introduced, based on concurrent medications, according to the regimen outlined in Table 5. If other psychotropic medications are withdrawn following stabilization, the dose of lamotrigine should be adjusted. In patients discontinuing valproate, the dose of lamotrigine should be doubled over a 2-week period in equal weekly increments (see Table 6). In patients discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the dose of lamotrigine should remain constant for the first week and then should be decreased by half over a 2-week period in equal weekly decrements (see Table 6). The dose of lamotrigine may then be further adjusted to the target dose (200 mg) as clinically indicated.
+
+                        If other drugs are subsequently introduced, the dose of lamotrigine may need to be adjusted. In particular, the introduction of valproate requires reduction in the dose of lamotrigine
+
+  [see Drug Interactions (
+
+   7), Clinical Pharmacology (
+
+   12.3)]
+
+  .
+
+                        To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations of lamotrigine should not be exceeded
+
+  [see
+
+   Boxed Warning]
+
+  .
+
+                           Table 5. Escalation Regimen for Lamotrigine in Adults with Bipolar Disorder
+
+                                  |
+
+                                    In Patients TAKING Valproate
+
+      a
+
+                                  |
+
+                                    In Patients
+
+                                    NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone
+
+      b, or Valproate
+
+      a
+
+                                  |
+
+                                    In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidone
+
+      band NOT TAKING Valproate
+
+      a
+
+                                  |
+
+                                 Weeks 1 and 2
+
+                                  |
+                                 25 mg every
+
+     otherday
+
+                                  |
+                                 25 mg daily
+
+                                  |
+                                 50 mg daily
+
+                                  |
+
+                                 Weeks 3 and 4
+
+                                  |
+                                 25 mg daily
+
+                                  |
+                                 50 mg daily
+
+                                  |
+                                 100 mg daily, in divided doses
+
+                                  |
+
+                                 Week 5
+
+                                  |
+                                 50 mg daily
+
+                                  |
+                                 100 mg daily
+
+                                  |
+                                 200 mg daily, in divided doses
+
+                                  |
+
+                                 Week 6
+
+                                  |
+                                 100 mg daily
+
+                                  |
+                                 200 mg daily
+
+                                  |
+                                 300 mg daily, in divided doses
+
+                                  |
+
+                                 Week 7
+
+                                  |
+                                 100 mg daily
+
+                                  |
+                                 200 mg daily
+
+                                  |
+                                 up to 400 mg daily, in divided doses
+
+                                  |
+
+                           aValproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine
+
+  [see Drug Interactions (
+
+   7), Clinical Pharmacology (
+
+   12.3)]
+
+  .
+
+                              bDrugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing products, including oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations
+
+   [see Dosage and Administration (
+
+    2.1)]
+
+   . Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance
+
+   [see Dosage and Administration (
+
+    2.1), Drug Interactions (
+
+    7), Clinical Pharmacology (
+
+    12.3)]
+
+   .
+
+                           Table 6. Dosage Adjustments to Lamotrigine in Adults with Bipolar Disorder following Discontinuation of Psychotropic Medications
+
+                                  |
+
+                                    Discontinuation of Psychotropic Drugs (excluding Valproate,
+
+      aCarbamazepine, Phenytoin, Phenobarbital, or Primidone
+
+      b)
+
+                                  |
+
+                                    After Discontinuation
+
+                                    of Valproate
+
+      a
+
+                                  |
+
+                                    After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidone
+
+      b
+
+                                  |
+
+                                    Current Dose of
+                                    lamotrigine
+                                    (mg/day)
+
+                                    100
+
+                                  |
+
+                                    Current Dose of
+                                    lamotrigine
+                                    (mg/day)
+
+                                    400
+
+                                  |
+
+                                 Week 1
+
+                                  |
+                                 Maintain current dose of lamotrigine
+
+                                  |
+                                 150
+
+                                  |
+                                 400
+
+                                  |
+
+                                 Week 2
+
+                                  |
+                                 Maintain current dose of lamotrigine
+
+                                  |
+                                 200
+
+                                  |
+                                 300
+
+                                  |
+
+                                 Week 3 onward
+
+                                  |
+                                 Maintain current dose of lamotrigine
+
+                                  |
+                                 200
+
+                                  |
+                                 200
+
+                                  |
+
+                           aValproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine
+
+  [see Drug Interactions (
+
+   7), Clinical Pharmacology (
+
+   12.3)]
+
+  .
+
+                              bDrugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing products, including oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations
+
+   [see Dosage and Administration (
+
+    2.1)]
+
+   . Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance
+
+   [see Dosage and Administration (
+
+    2.1), Drug Interactions (
+
+    7), Clinical Pharmacology (
+
+    12.3)]
+
+   .

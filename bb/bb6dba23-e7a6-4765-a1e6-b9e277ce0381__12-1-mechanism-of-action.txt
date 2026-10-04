@@ -1,0 +1,3 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 12.1 Mechanism of Action
+
+Axatilimab-csfr is a monoclonal antibody that binds to colony stimulating factor-1 receptors (CSF-1R) expressed on monocytes and macrophages. Blocking CSF-1R with axatilimab-csfr reduces the levels of these circulating proinflammatory and profibrotic monocytes and monocyte-derived macrophages, as demonstrated by a reduction of nonclassical monocyte counts in nonclinical studies with axatilimab-csfr, and inhibits the activity of pathogenic macrophages in tissues.

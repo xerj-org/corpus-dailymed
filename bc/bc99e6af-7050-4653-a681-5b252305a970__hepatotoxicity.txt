@@ -1,0 +1,103 @@
+DailyMed bc99e6af-7050-4653-a681-5b252305a970 | Diclofenac SodiumDelayed Release | Hepatotoxicity
+
+In clinical trials of diclofenac- containing products,meaningful elevations (i.e.,more
+
+  than 3 times the ULN) of AST (SGOT) were observed in about 2% of approximately
+
+  5,700 patients at some time during diclofenac treatment (ALT was not measured
+
+  in all studies).
+
+  In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac
+
+  sodium for 2-6 months, patients were monitored first at 8 weeks and 1,200 patients
+
+  were monitored again at 24 weeks. Meaningful elevations of ALT and/or AST
+
+  occurred in about 4% of patients and included marked elevations (greater than 8
+
+  times the ULN) in about 1% of the 3,700 patients. In that open-label study, a higher
+
+  incidence of borderline (less than 3 times the ULN), moderate (3-8 times the ULN),
+
+  and marked (greater than 8 times the ULN) elevations of ALT or AST was observed
+
+  in patients receiving diclofenac when compared to other NSAIDs. Elevations in
+
+  transaminases were seen more frequently in patients with osteoarthritis than in
+
+  those with rheumatoid arthritis.
+
+  Almost all meaningful elevations in transaminases were detected before patients
+
+  became symptomatic. Abnormal tests occurred during the first 2 months of
+
+  therapy with diclofenac in 42 of the 51 patients in all trials who developed marked
+
+  transaminase elevations.
+
+  In postmarketing reports, cases of drug-induced hepatotoxicity have been reported
+
+  in the first month, and in some cases, the first 2 months of therapy, but can occur at
+
+  any time during treatment with diclofenac. Postmarketing surveillance has reported
+
+  cases of severe hepatic reactions, including liver necrosis, jaundice, fulminant
+
+  hepatitis with and without jaundice, and liver failure. Some of these reported cases
+
+  resulted in fatalities or liver transplantation.
+
+                        In a European retrospective population-based, case-controlled study, 10 cases of
+
+  diclofenac associated drug-induced liver injury with current use compared with
+
+  non-use of diclofenac were associated with a statistically significant 4-fold adjusted
+
+  odds ratio of liver injury. In this particular study, based on an overall number of 10
+
+  cases of liver injury associated with diclofenac, the adjusted odds ratio increased
+
+  further with female gender, doses of 150 mg or more, and duration of use for more
+
+  than 90 days.
+
+  Physicians should measure transaminases at baseline and periodically in patients
+
+  receiving long-term therapy with diclofenac, because severe hepatotoxicity may
+
+  develop without a prodrome of distinguishing symptoms. The optimum times for
+
+  making the first and subsequent transaminase measurements are not known.
+
+  Based on clinical trial data and postmarketing experiences, transaminases should
+
+  be monitored within 4 to 8 weeks after initiating treatment with diclofenac. However,
+
+  severe hepatic reactions can occur at any time during treatment with diclofenac.
+
+  If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent
+
+  with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia,
+
+  rash, abdominal pain, diarrhea, dark urine, etc.), diclofenac should be discontinued
+
+  immediately.
+
+  Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+
+  fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness,
+
+  and “flu-like” symptoms). If clinical signs and symptoms consistent with liver
+
+  disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.),
+
+  discontinue diclofenac immediately, and perform a clinical evaluation of the patient.
+
+  To minimize the potential risk for an adverse liver related event in patients treated
+
+  with diclofenac, use the lowest effective dose for the shortest duration possible.
+
+  Exercise caution when prescribing diclofenac with concomitant drugs that are
+
+  known to be potentially hepatotoxic (e.g., acetaminophen, antibiotics, antiepileptics).

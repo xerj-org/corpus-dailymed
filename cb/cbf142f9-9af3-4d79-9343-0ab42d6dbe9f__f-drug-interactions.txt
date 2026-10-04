@@ -1,0 +1,4 @@
+DailyMed cbf142f9-9af3-4d79-9343-0ab42d6dbe9f | Medroxyprogesterone Acetate | F. Drug Interactions
+
+Medroxyprogesterone acetate (MPA) is metabolized
+  in-vitro primarily by hydroxylation via the CYP3A4. Specific drug-drug interaction studies evaluating the clinical effects with CYP3A4 inducers or inhibitors on MPA have not been conducted. Inducers and/or inhibitors of CYP3A4 may affect the metabolism of MPA.

@@ -1,0 +1,9 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 5.1 Hypoglycemia Due to Medication Errors and Accidental Overdose
+
+Serious hypoglycemia requiring hospitalization has occurred due to accidental mix-ups between once-weekly insulin products and other insulin products or once-weekly injectable antidiabetic medicines, incorrect dose selection, and dosing frequency errors.
+
+                        To avoid dosing errors when switching from daily basal insulin to ONSWIK, follow the dosage recommendations in the Dosage and Administration Section (2.4). Administer ONSWIK once weekly only. Do not repeat administration of the one-time starting dose.
+
+                        Advise patients to always check the product label before each injection to confirm they are using ONSWIK and not another insulin or injectable antidiabetic medicine. Prior to initiation, train patients and their caregiver(s) on how to select their weekly ONSWIK dosage. Advise patients using other injectable medications for glycemic control that the dosage selection of ONSWIK differs. Instruct patients to visually verify the dialed units on the dose window of the ONSWIK KwikPen before each injection to avoid dosing errors. Patients should not dial the maximum single dose (400 units for the U-500 KwikPen or 800 units for the U-1,000 KwikPen) of ONSWIK unless this is the prescribed dose Patients should not use a syringe to remove ONSWIK from the ONSWIK KwikPen. The markings on the syringe will not measure the dose correctly and this can result in overdosage and severe hypoglycemia [see Dosage and Administration (2.2, 2.3, 2.4), Instructions for Use].
+
+                        Monitor patients for signs and symptoms of hypoglycemia, particularly during the first several weeks after initiation or dose escalation of ONSWIK. Ensure patients understand how to recognize and manage hypoglycemia [see Warnings and Precautions (5.3)].

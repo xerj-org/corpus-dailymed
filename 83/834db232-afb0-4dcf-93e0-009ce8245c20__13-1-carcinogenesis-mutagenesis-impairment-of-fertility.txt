@@ -1,0 +1,13 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        No studies have been conducted to assess the carcinogenic potential of inebilizumab-cdon.
+
+                           Mutagenesis
+
+                        No studies have been conducted to assess the genotoxic potential of inebilizumab-cdon.
+
+                           Impairment of Fertility
+
+                        Intravenous administration of inebilizumab-cdon (0, 3, or 30 mg/kg/week) to human CD19 transgenic male and female mice prior to and during mating and continuing in females through gestation day 15 resulted in reduced fertility at both doses tested. A no-effect dose for adverse effects on fertility was not identified.

@@ -1,0 +1,21 @@
+DailyMed 5c52ea35-c2be-b462-e063-6294a90a19c1 | Trazodone Hydrochloride | 2.5 Dosage Recommendations for Concomitant Use with Strong CYP3A4 Inhibitors or Inducers
+
+Coadministration with Strong CYP3A4 Inhibitors
+
+                        Consider reducing trazodone dose based on tolerability when trazodone is coadministered with a strong CYP3A4 inhibitor
+
+  [see Drug Interactions (
+
+   7.1)]
+
+  .
+
+                           Coadministration with Strong CYP3A4 Inducers
+
+                        Consider increasing trazodone dose based on therapeutic response when trazodone is coadministered with a strong CYP3A4 inducer
+
+  [see Drug Interactions (
+
+   7.1)]
+
+  .

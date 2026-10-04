@@ -1,0 +1,3 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 8.7 Renal Impairment
+
+Negligible amounts of fulvestrant are eliminated in urine; therefore, a study in patients with renal impairment was not conducted. In the advanced breast cancer trials, fulvestrant concentrations in women with estimated creatinine clearance as low as 30 mL/min were similar to women with normal creatinine.

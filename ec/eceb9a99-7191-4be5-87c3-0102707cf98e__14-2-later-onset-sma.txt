@@ -1,0 +1,89 @@
+DailyMed eceb9a99-7191-4be5-87c3-0102707cf98e | EVRYSDI | 14.2 Later-Onset SMA
+
+Study 2 was a 2-part, multicenter trial to investigate the efficacy, safety, pharmacokinetics, and pharmacodynamics of EVRYSDI for oral solution in patients diagnosed with SMA Type 2 or Type 3. Part 1 of Study 2 was dose-finding and exploratory in 51 patients (14% ambulatory). Part 2 was randomized, double-blind, placebo-controlled, and is described below.
+
+                        The primary endpoint in Study 2 Part 2 was the change from baseline to Month 12 in the Motor Function Measure 32 (MFM32) score. A key secondary endpoint was the proportion of patients with a 3-point or greater change from baseline to Month 12 in the MFM32 total score. The MFM32 measures motor function abilities that relate to daily functions. The total MFM32 score is expressed as a percentage (range: 0 to 100) of the maximum possible score, with higher scores indicating greater motor function. Another key secondary endpoint was the Revised Upper Limb Module (RULM). The RULM is a tool used to assess motor performance of the upper limb in SMA patients. It tests proximal and distal motor functions of the arm. The total score ranges from 0 (all the items cannot be performed) to 37 (all the activities are achieved fully without any compensatory maneuvers).
+
+                        Study 2 Part 2 enrolled 180 non-ambulatory patients with Type 2 (71%) or Type 3 (29%) SMA. Patients were randomized 2:1 to receive EVRYSDI at the recommended dosage [see Dosage and Administration (2.1)] or placebo. Randomization was stratified by age group (2 to 5, 6 to 11, 12 to 17, or 18 to 25 years of age).
+
+                        The median age of patients at the start of treatment was 9.0 years (range: 2 to 25), and the median time between onset of initial SMA symptoms and first treatment was 102.6 months (range: 1  to 275). Of the 180 patients included in the trial, 51% were female, 67% were Caucasian, and 19% were Asian. At baseline, 67% of patients had scoliosis (32% of them with severe scoliosis). Patients had a mean baseline MFM32 score of 46.1, and RULM score of 20.1. Overall baseline demographic characteristics were reasonably balanced between the treatment groups (EVRYSDI and placebo), with the exception of scoliosis (63% in the EVRYSDI arm vs. 73% in the placebo group).
+
+                        The primary analysis on the change from baseline in MFM32 total score at Month 12 showed a clinically meaningful and statistically significant difference between patients treated with EVRYSDI and placebo. The results of the primary analysis and key secondary endpoints are shown in Table 4 and Figure 1.
+
+                           Table 4 Summary of Efficacy in Patients with Later-Onset SMA at Month 12 of Treatment (Study 2 Part 2)
+
+                                 Endpoint |
+                                 EVRYSDI
+
+(N = 120) |
+                                 Placebo
+
+(N = 60) |
+
+                                    Primary Endpoint:
+                                  |
+
+                                   Change from baseline in total MFM32 score at Month 12, LS means (95% CI) The Mixed Model Repeated Measure (MMRM) analysis included the change from baseline total score as the dependent variable and as independent variables the baseline total score, treatment group, time, treatment-by-time interaction, and the randomization stratification variable of age group (2 to 5, 6 to 11, 12 to 17, 18 to 25).
+
+                                    ,
+                                    The MFM total score was calculated according to the user manual, expressed as a percentage of the maximum score possible for the scale (i.e., sum of the 32 item scores divided by 96 and multiplied by 100).
+
+                                    ,
+                                    Based on the missing data rule for MFM32, 6 patients were excluded from the analysis (EVRYSDI n = 115; placebo control n = 59).
+
+                                  |
+                                 1.36 (0.61, 2.11) |
+                                 -0.19 (-1.22, 0.84) |
+
+                                     Difference from Placebo, Estimate (95% CI)
+
+    p-value |
+                                 1.55 (0.30, 2.81)
+
+0.0156 |
+
+                                    Secondary Endpoints:
+                                  |
+
+                                   Proportion of patients with a change from baseline MFM32 total score of 3 or more at Month 12 (95% CI)
+                                    ,
+
+                                  |
+                                 38.3% (28.9, 47.6) |
+                                 23.7% (12.0, 35.4) |
+
+                                     Odds ratio for overall response (95% CI)
+
+adjustedThe adjusted p-value was obtained for the endpoints included in the hierarchical testing and was derived based on all the p-values from endpoints in order of the hierarchy up to the current endpoint.
+
+ (unadjusted) p-valueThe logistic regression analysis included the baseline total score, treatment and age group as independent variables.
+
+                                  |
+                                 2.35 (1.01, 5.44)
+
+0.0469 (0.0469) |
+
+                                   Change from baseline in total score of RULM at Month 12, LS means (95% CI)
+                                    ,
+                                    Based on the missing data rule for RULM, 3 patients were excluded from the analysis (EVRYSDI n = 119; placebo control n = 58).
+
+                                  |
+                                 1.61 (1.00, 2.22) |
+                                 0.02 (-0.83, 0.87) |
+
+                                     Difference from Placebo, Estimate (95% CI)
+
+adjusted (unadjusted) p-value
+                                  |
+                                 1.59 (0.55, 2.62)
+
+0.0469 (0.0028) |
+
+                                       Figure 1 Mean Change from Baseline in Total MFM32 Score Over 12 Months (Study 2 Part 2)Error bars denote the 95% confidence interval.
+
+                                          ,
+                                          The MFM total score was calculated according to the user manual, expressed as a percentage of the maximum score possible for the scale (i.e., sum of the 32 item scores divided by 96 and multiplied by 100).
+
+                                  |
+
+                                  |

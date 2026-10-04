@@ -1,0 +1,37 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 2.2 Dosage Regimen
+
+The recommended dosage regimen by indication in adults of omeprazole and sodium bicarbonate capsules is summarized in Table 1. All recommended dosages are based upon omeprazole content.
+
+                           Table 1: Recommended Dosage Regimen of Omeprazole and Sodium Bicarbonate Capsules in Adults by Indication
+
+                                 Indication |
+                                 Dosage of Omeprazole and Sodium Bicarbonate Capsules |
+                                 Treatment Duration |
+
+                                 Treatment of Active Duodenal Ulcer |
+                                 20 mg once daily |
+                                 4 weeks
+                                       Most patients heal within 4 weeks. Some patients may require an additional 4 weeks of therapy [See Clinical Studies (14.1)].
+
+                                       ,
+                                       The efficacy of omeprazole and sodium bicarbonate capsules used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8-week courses of omeprazole and sodium bicarbonate capsules may be considered.
+
+                                  |
+
+                                 Treatment of Active Benign Gastric Ulcer |
+                                 40 mg once daily |
+                                 4 to 8 weeks |
+
+                                 Treatment of Symptomatic GERD |
+                                 20 mg once daily |
+                                 Up to 4 weeks |
+
+                                 Treatment of EE due to Acid-Mediated GERD |
+                                 20 mg once daily |
+                                 4 to 8 weeks
+
+                                  |
+
+                                 Maintenance of Healing of EE due to Acid-Mediated GERD |
+                                 20 mg once daily |
+                                 Controlled studies do not extend beyond 12 months. |

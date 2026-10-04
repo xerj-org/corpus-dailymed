@@ -1,0 +1,11 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 8.6 Hepatic Impairment
+
+In subjects with cirrhosis of the liver, the clearances of fluoxetine and its active metabolite, norfluoxetine, were decreased, thus increasing the elimination half-lives of these substances. A lower or less frequent dose of fluoxetine should be used in patients with cirrhosis. Caution is advised when using fluoxetine in patients with diseases or conditions that could affect its metabolism
+
+  [see
+
+                                 Dosage and Administration (2.7
+                              ) and
+
+                                 Clinical Pharmacology (12.4)
+                              ].

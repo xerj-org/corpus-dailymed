@@ -1,0 +1,11 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 8.2 Lactation
+
+Risk Summary
+
+                        There are no data on the presence of apixaban or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production. Apixaban and/or its metabolites were present in the milk of rats (see Data). Because human exposure through milk is unknown, breastfeeding is not recommended during treatment with ELIQUIS.
+
+                           Data
+
+                              Animal Data
+
+                        Maximal plasma concentrations were observed after 30 minutes following a single oral administration of a 5 mg dose to lactating rats. Maximal milk concentrations were observed 6 hours after dosing. The milk to plasma AUC (0-24) ratio is 30:1 indicating that apixaban can accumulate in milk. The concentrations of apixaban in animal milk does not necessarily predict the concentration of drug in human milk.

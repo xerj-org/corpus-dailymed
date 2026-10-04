@@ -1,0 +1,3 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 5.12 Tumor Lysis Syndrome
+
+Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, GIST, ALL, and eosinophilic leukemia receiving imatinib mesylate. The patients at risk of TLS are those with tumors having a high proliferative rate or high tumor burden prior to treatment. Monitor these patients closely and take appropriate precautions. Due to possible occurrence of TLS, correct clinically significant dehydration and treat high uric acid levels prior to initiation of imatinib mesylate.

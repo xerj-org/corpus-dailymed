@@ -1,0 +1,33 @@
+DailyMed 508c5de8-9c70-57f5-e063-6394a90af295 | PREXXARTAN | 14.1 Hypertension
+
+Studies evaluating the antihypertensive effects of valsartan were conducted with a formulation that is not therapeutically equivalent to PREXXARTAN™
+  [see
+   Clinical Pharmacology (12.3)].
+
+                           Adult Hypertension
+
+                        The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115 mmHg. The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
+
+                        Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
+
+                        In most patients, after administration of a single oral dose, onset of antihypertensive activity occurs at approximately 2 hours, and maximum reduction of blood pressure is achieved within 6 hours. The antihypertensive effect persists for 24 hours after dosing, but there is a decrease from peak effect at lower doses (40 mg) presumably reflecting loss of inhibition of angiotensin II. At higher doses, however (160 mg), there is little difference in peak and trough effect. During repeated dosing, the reduction in blood pressure with any dose is substantially present within 2 weeks, and maximal reduction is generally attained after 4 weeks. In long-term follow-up studies (without placebo control), the effect of valsartan appeared to be maintained for up to 2 years. The antihypertensive effect is independent of age, gender or race. The latter finding regarding race is based on pooled data and should be viewed with caution because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin-II blockers) have generally been found to be less effective in low-renin hypertensives (frequently blacks) than in high-renin hypertensives (frequently whites). In pooled, randomized, controlled trials of valsartan that included a total of 140 blacks and 830 whites, valsartan and an ACE-inhibitor control were generally at least as effective in blacks as whites. The explanation for this difference from previous findings is unclear.
+
+                        Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
+
+                        The blood pressure-lowering effect of valsartan and thiazide-type diuretics are approximately additive.
+
+                        The 7 studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo. Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg. In a controlled trial the addition of HCTZ to valsartan 80 mg resulted in additional lowering of systolic and diastolic blood pressure by approximately 6/3 and 12/5 mmHg for 12.5 and 25 mg of HCTZ, respectively, compared to valsartan 80 mg alone.
+
+                        Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a similar response in both groups.
+
+                        In controlled trials, the antihypertensive effect of once-daily valsartan 80 mg was similar to that of once-daily enalapril 20 mg or once-daily lisinopril 10 mg.
+
+                        There are no trials of valsartan demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
+
+                        There was essentially no change in heart rate in valsartan-treated patients in controlled trials.
+
+                           Pediatric Hypertension
+
+                           Children Between 6 to 16 Years of Age
+
+                        In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed less than 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses). Renal and urinary disorders, and essential hypertension with or without obesity were the most common underlying causes of hypertension in children enrolled in this study. At the end of 2 weeks, valsartan reduced both systolic and diastolic blood pressure in a dose-dependent manner. Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by 8, 10, and 12 mmHg from the baseline, respectively. Patients were re-randomized to either continue receiving the same dose of valsartan or were switched to placebo. In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was 4 and 7 mmHg lower than patients who received the placebo treatment. In patients receiving the low dose of valsartan, systolic blood pressure at trough was similar to that of patients who received the placebo treatment. Overall, the dose-dependent antihypertensive effect of valsartan was consistent across all the demographic subgroups.

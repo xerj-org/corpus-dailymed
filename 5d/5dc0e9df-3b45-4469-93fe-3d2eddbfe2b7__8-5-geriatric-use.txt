@@ -1,0 +1,13 @@
+DailyMed 5dc0e9df-3b45-4469-93fe-3d2eddbfe2b7 | Dapagliflozin | 8.5 Geriatric Use
+
+No dapagliflozin dosage change is recommended based on age.
+
+                        A total of 1424 (24%) of the 5936 dapagliflozin-treated patients were 65 years and older and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical trials assessing the efficacy of dapagliflozin in improving glycemic control in type 2 diabetes mellitus. After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older. In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin for glycemic control had adverse reactions of hypotension
+
+  [see Warnings and Precautions (
+
+   5.2) and Adverse Reactions (
+
+   6.1)]
+
+  .

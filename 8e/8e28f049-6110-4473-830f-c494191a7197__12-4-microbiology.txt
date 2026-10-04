@@ -1,0 +1,39 @@
+DailyMed 8e28f049-6110-4473-830f-c494191a7197 | Cephalexin | 12.4 Microbiology
+
+Mechanism of Action
+
+                        Cephalexin is a bactericidal agent that acts by the inhibition of bacterial cell-wall synthesis.
+
+                           Resistance
+
+                        Methicillin-resistant staphylococci and most isolates of enterococci are resistant to cephalexin. Cephalexin is not active against most isolates of Enterobacter spp.,
+                            Morganella morganii, and Proteus vulgaris. Cephalexin has no activity against Pseudomonas spp., or Acinetobacter calcoaceticus. Penicillin-resistant Streptococcus pneumoniae is usually cross-resistant to beta-lactam antibacterial drugs.
+
+                           Antimicrobial Activity
+
+                        Cephalexin has been shown to be active against most isolates of the following bacteria bothin vitro and in clinical infections [see Indications and Usage (1)
+                           ].
+
+                           Gram-positive bacteria
+
+                           Staphylococcus aureus (methicillin-susceptible isolates only)
+
+                           Streptococcus pneumoniae (penicillin-susceptible isolates)
+
+                           Streptococcus pyogenes
+
+                           Gram-negative bacteria
+
+                           Escherichia coli
+
+                           Haemophilus influenzae
+
+                           Klebsiella pneumoniae
+
+                           Moraxella catarrhalis
+
+                           Proteus mirabilis
+
+                           Susceptibility Testing
+
+                           For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

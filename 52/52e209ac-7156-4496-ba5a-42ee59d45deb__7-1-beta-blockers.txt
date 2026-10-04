@@ -1,0 +1,3 @@
+DailyMed 52e209ac-7156-4496-ba5a-42ee59d45deb | Albuterol sulfate | 7.1 Beta-Blockers
+
+Beta-adrenergic-receptor blocking agents not only block the pulmonary effect of beta-agonists, such as albuterol sulfate inhalation aerosol, but may produce severe bronchospasm in asthmatic patients. Therefore, patients with asthma should not normally be treated with beta-blockers. However, under certain circumstances, e.g., as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-adrenergic-blocking agents in patients with asthma. In this setting, consider cardioselective beta-blockers, although they should be administered with caution.

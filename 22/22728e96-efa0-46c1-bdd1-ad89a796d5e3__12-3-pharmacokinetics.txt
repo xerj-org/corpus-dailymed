@@ -1,0 +1,87 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | 12.3 Pharmacokinetics
+
+The PK profile of ADZYNMA was determined based on clinical trial ADAMTS13 activity data analyses.
+
+                        Following single-dose IV administration of ADZYNMA at 5 IU/kg, 20 IU/kg, and 40 IU/kg to adults and adolescents, dose-related increases in individual ADAMTS13 activity were observed and reached a maximum at approximately 1-hour post-infusion or earlier. At a dose of 40 IU/kg the mean (SD) half-life and mean residence time (MRT) in adults and adolescents were 47.8 (13.7) hours and 63.8 (16.0) hours, respectively.
+
+                        The PK parameters of ADAMTS13 activity following IV administration of ADZYNMA at 40 IU/kg in adults and adolescents are described in
+                              Table 3
+                           .
+
+                           Table 3: Pharmacokinetic Parameters of ADAMTS13 Activity following IV Administration of ADZYNMA in cTTP Patients ≥12 Years Old
+
+                                 Parameter
+
+(unit) |
+                                 Mean (SD)
+
+Min; Max
+
+(N=23) |
+
+                                 AUC = area under ADAMTS13 activity-time curve; Cave (0-168 h) = average ADAMTS13 activity from 0 to 168 hours dosing interval; Cmax = maximum ADAMTS13 activity; IR = incremental recovery; MRT = mean residence time; t1/2 = half-life.
+
+                                    Note: 1 IU/mL ADAMTS13 activity corresponds to 100% average normal activity. |
+
+                                 Cmax
+
+(IU/mL) |
+                                 1.15 (0.25)
+
+0.78; 1.56 |
+
+                                 IR
+
+[(IU/mL)/(IU/kg)] |
+                                 0.03 (0.01)
+
+0.02; 0.04 |
+
+                                 t½
+
+(h) |
+                                 47.8 (13.70)
+
+30.1; 90.8 |
+
+                                 AUC0-inf
+
+(IUxh/mL) |
+                                 57.6 (13.9)
+
+37.0; 88.2 |
+
+                                 AUC(0-168 h)
+
+(IUxh/mL) |
+                                 57.2 (13.67)
+
+36.2; 87.2 |
+
+                                 MRT0-inf
+                                    N=22
+
+(h) |
+                                 63.8 (16.0)
+
+44.8; 113 |
+
+                                 Cave (0-168 h)
+
+(IU/mL) |
+                                 0.30 (0.07)
+
+0.20; 0.46 |
+
+                                 Duration ADAMTS13 Activity above 10%
+
+(days) |
+                                 5.8 (1.2)
+
+4.5; 8.9 |
+
+                        ADZYNMA IV administration at 40 IU/kg resulted in approximately 4- to 5-fold higher ADAMTS13 activity exposures (Cmax, AUC) and lower inter-subject variability when compared to plasma-based therapies. Mean time duration above 10% ADAMTS13 activity and mean average ADAMTS13 activity (Cave) were both approximately 3- to 4-fold higher following ADZYNMA IV administration than plasma-based therapies.
+
+                        Based on Population PK analysis leveraging available data (N=65) from adults, adolescents and pediatric patients below 12 years of age, the mean (SD) steady state Cmax, AUCall, Cave, and duration of ADAMTS13 activity above 10% following IV administration of ADZYNMA every other week in cTTP patients below 12 years of age were 1.02 (0.19) IU/mL, 54.0 (12.2) IU*h/mL, 0.16 (0.04) IU/mL, and 6.8 (2.1) days, respectively.
+
+                        ADAMTS13 antigen and activity PK characteristics (MRT, Vss, and CL) were similar across age groups in patients with cTTP. Body-weight based ADZYNMA dosing provides similar ADAMTS13 activity PK parameters (Cmax and Cave) across the different age groups including pediatric patients <12 years of age.

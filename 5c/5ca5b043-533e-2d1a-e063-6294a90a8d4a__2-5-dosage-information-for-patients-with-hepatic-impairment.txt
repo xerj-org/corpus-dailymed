@@ -1,0 +1,11 @@
+DailyMed 5ca5b043-533e-2d1a-e063-6294a90a8d4a | Lacosamide | 2.5 Dosage Information for Patients with Hepatic Impairment
+
+For patients with mild or moderate hepatic impairment, a reduction of 25% of the maximum dosage is recommended. The dose initiation and titration should be based on clinical response and tolerability in patients with hepatic impairment.
+
+                        Lacosamide use is not recommended in patients with severe hepatic impairment.
+
+                           Concomitant Strong CYP3A4 and CYP2C9 Inhibitors
+
+  Dose reduction may be necessary in patients with hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 [
+
+  see Drug Interactions (7.1), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].

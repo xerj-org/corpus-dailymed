@@ -1,0 +1,7 @@
+DailyMed 89eb2ffc-02d9-4b46-b480-e9b10af33027 | TOFACITINIB CITRATE | 10 OVERDOSAGE
+
+There is no specific antidote for overdose with tofacitinib. In case of an overdose, it is recommended that the patient be monitored for signs and symptoms of adverse reactions.
+
+                  In a study in patients with end-stage renal disease (ESRD) undergoing hemodialysis, plasma tofacitinib concentrations declined more rapidly during the period of hemodialysis and dialyzer efficiency, calculated as dialyzer clearance/blood flow entering the dialyzer, was high [mean (SD) = 0.73 (0.15)]. However, due to the significant non-renal clearance of tofacitinib, the fraction of total elimination occurring by hemodialysis was small, and thus, limits the value of hemodialysis for treatment of overdose with tofacitinib.
+
+                  Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

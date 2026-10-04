@@ -1,0 +1,3 @@
+DailyMed abb8ad7e-7998-4485-a09f-a2892190f4ad | ARIPIPRAZOLE | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of aripiprazole. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), blood glucose fluctuation, drug reaction with eosinophilia and systemic symptoms (DRESS), hiccups, oculogyric crisis, pathological gambling, and fecal incontinence.

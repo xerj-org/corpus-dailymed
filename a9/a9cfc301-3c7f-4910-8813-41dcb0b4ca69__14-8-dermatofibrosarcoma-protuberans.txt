@@ -1,0 +1,59 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 14.8 Dermatofibrosarcoma Protuberans
+
+Dermatofibrosarcoma Protuberans (DFSP) is a cutaneous soft tissue sarcoma. It is characterized by a translocation of chromosomes 17 and 22 that results in the fusion of the collagen type 1 alpha 1 gene and the PDGF B gene.
+
+                        An open-label, multicenter, Phase 2 study was conducted testing imatinib mesylate in a diverse population of patients with life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases. This study included 12 patients with DFSP who were treated with imatinib mesylate 800 mg daily (age range, 23 to 75 years). DFSP was metastatic, locally recurrent following initial surgical resection and not considered amenable to further surgery at the time of study entry. A further 6 DFSP patients treated with imatinib mesylate are reported in 5 published case reports, their ages ranging from 18 months to 49 years. The total population treated for DFSP therefore comprises 18 patients, 8 of them with metastatic disease. The adult patients reported in the published literature were treated with either 400 mg (4 cases) or 800 mg (1 case) imatinib mesylate daily. A single pediatric patient received 400 mg/m2/daily, subsequently increased to 520 mg/m2/daily. Ten patients had the PDGF B gene rearrangement, 5 had no available cytogenetics and 3 had complex cytogenetic abnormalities. Responses to treatment are described in Table 25.
+
+                           Table 25: Response in DFSP
+
+                                  |
+
+                                       Number of Patients (n = 18)
+
+                                  |
+
+                                       %
+
+                                  |
+
+                                    Complete Response
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    39
+
+                                  |
+
+                                    Partial Response*
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    44
+
+                                  |
+
+                                    Total Responders
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    83
+
+                                  |
+
+                                       *5 patients made disease free by surgery.
+
+                                  |
+
+Twelve of these 18 patients either achieved a complete response (7 patients) or were made disease free by surgery after a partial response (5 patients, including one child) for a total complete response rate of 67%. A further 3 patients achieved a partial response, for an overall response rate of 83%. Of the 8 patients with metastatic disease, five responded (62%), three of them completely (37%). For the 10 study patients with the PDGF B gene rearrangement, there were 4 complete and 6 partial responses. The median duration of response in the Phase 2 study was 6.2 months, with a maximum duration of 24.3 months, while in the published literature it ranged between 4 weeks and more than 20 months.

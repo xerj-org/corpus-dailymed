@@ -1,0 +1,21 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 8.4 Pediatric Use
+
+Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning and Warnings and Precautions (5.1)]. When divalproex sodium extended-release tablets are used in this patient group, it should be used with extreme caution and as a sole agent. The benefits of therapy should be weighed against the risks. Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
+
+                        Younger children, especially those receiving enzyme inducing drugs, will require larger maintenance doses to attain targeted total and unbound valproate concentrations. Pediatric patients (i.e., between 3 months and 10 years) have 50% higher clearances expressed on weight (i.e., mL/min/kg) than do adults. Over the age of 10 years, children have pharmacokinetic parameters that approximate those of adults.
+
+                        The variability in free fraction limits the clinical usefulness of monitoring total serum valproic acid concentrations. Interpretation of valproic acid concentrations in children should include consideration of factors that affect hepatic metabolism and protein binding.
+
+                           Pediatric Clinical Trials
+
+                        Divalproex sodium delayed-release tablets were studied in seven pediatric clinical trials.
+
+                        Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of divalproex sodium extended-release tablets for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on divalproex sodium extended-release tablets) and migraine (304 patients aged 12 to 17 years, 231 of whom were on divalproex sodium extended-release tablets). Efficacy was not established for either the treatment of migraine or the treatment of mania. The most common drug-related adverse reactions (reported >5% and twice the rate of placebo) reported in the controlled pediatric mania study were nausea, upper abdominal pain, somnolence, increased ammonia, gastritis and rash.
+
+                        The remaining five trials were long term safety studies. Two six-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium extended-release tablets for the indication of mania (292 patients aged 10 to 17 years). Two twelve-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium extended-release tablets for the indication of migraine (353 patients aged 12 to 17 years). One twelve-month study was conducted to evaluate the safety of Depakote Sprinkle Capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
+
+                        In these seven clinical trials, the safety and tolerability of divalproex sodium delayed-release tablets in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
+
+                           Juvenile Animal Toxicology
+
+                        In studies of valproate in immature animals, toxic effects not observed in adult animals included retinal dysplasia in rats treated during the neonatal period (from postnatal day 4) and nephrotoxicity in rats treated during the neonatal and juvenile (from postnatal day 14) periods. The no-effect dose for these findings was less than the maximum recommended human dose on a mg/m2 basis.

@@ -1,0 +1,7 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 7.1 Agents Inducing CYP3A Metabolism
+
+Concomitant administration of imatinib mesylate and strong CYP3A4 inducers may reduce total exposure of imatinib; consider alternative agents
+
+  [see Clinical Pharmacology (
+
+   12.3)].

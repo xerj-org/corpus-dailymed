@@ -1,0 +1,13 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        In a carcinogenicity study in mice, oral administration of brivaracetam tablets (0, 400, 550, or 700 mg/kg/day) for 104 weeks increased the incidence of liver tumors (hepatocellular adenoma and carcinoma) in male mice at the two highest doses tested. At the dose (400 mg/kg) not associated with an increase in liver tumors, plasma exposures (AUC) were approximately equal to those in humans at the maximum recommended dose (MRD) of 200 mg/day. Oral administration (0, 150, 230, 450, or 700 mg/kg/day) to rats for 104 weeks resulted in an increased incidence of thymus tumors (benign thymoma) in female rats at the highest dose tested. At the highest dose not associated with an increase in thymus tumors, plasma exposures were approximately 9 times those in humans at the MRD.
+
+                           Mutagenesis
+
+                        Brivaracetam was negative for genotoxicity in in vitro (Ames, mouse lymphoma, and CHO chromosomal aberration) and in vivo (rat bone marrow micronucleus) assays.
+
+                           Impairment of Fertility
+
+                        Oral administration of brivaracetam tablets (0, 100, 200, or 400 mg/kg/day) to male and female rats prior to and throughout mating and early gestation produced no adverse effects on fertility. The highest dose tested was associated with plasma exposures approximately 6 (males) and 13 (females) times those in humans at the MRD.

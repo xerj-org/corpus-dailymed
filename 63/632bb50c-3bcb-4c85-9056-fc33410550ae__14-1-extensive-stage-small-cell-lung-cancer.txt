@@ -1,0 +1,175 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 14.1 Extensive-Stage Small Cell Lung Cancer
+
+The efficacy of ZEPZELCA in combination with intravenous (IV) atezolizumab was evaluated in IMforte (NCT05091567), a randomized, multicenter, open-label study in patients with first-line extensive-stage small cell lung cancer (ES-SCLC). Patients were eligible if their disease had not progressed after completion of four cycles of atezolizumab, carboplatin and etoposide (induction treatment) and their Eastern Cooperative Oncology Group (ECOG) performance status was 0 or 1. The trial excluded patients with CNS metastases, history of autoimmune disease, or administration of systemic immunosuppressive medications within 1 week prior to enrollment. Unless contraindicated, primary prophylaxis with granulocyte colony-stimulating factor (G-CSF) was mandated for patients assigned to the ZEPZELCA with atezolizumab arm.
+
+                        The trial randomized 483 patients who had not experienced disease progression following the completion of 4 cycles of intravenous atezolizumab with carboplatin and etoposide 1:1 to one of the following treatment arms:
+
+                              •
+
+ZEPZELCA 3.2 mg/m2 IV with atezolizumab 1,200 mg IV once every 3 weeks until disease progression or unacceptable toxicity, or
+
+                              •
+
+Atezolizumab 1,200 mg IV once every 3 weeks until disease progression or unacceptable toxicity
+
+                        Randomization was stratified by ECOG performance status prior to randomization (0 vs. 1), lactate dehydrogenase (LDH) (≤ ULN vs. > ULN) prior to randomization, presence of liver metastases prior to initial study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no).
+
+                        The major efficacy outcome measures were overall survival (OS) and progression-free survival (PFS) by Independent Review Facility (IRF) per RECIST v1.1.
+
+                        A total of 483 patients were randomized, including 242 to the ZEPZELCA with atezolizumab arm and 241 to the atezolizumab arm. The median age was 66 years (range 35 to 85); 63% male; 82% White, 13% Asian, 0.8% were Black or African American; 7% were of Hispanic or Latino ethnicity; and 98% were current or previous smokers. Baseline ECOG performance status was 0 (43%) or 1 (57%).
+
+                        Efficacy results are presented in Table 5 and Figures 1 and 2.
+
+                           Table 5: Efficacy Results from IMforte
+
+                                    1Measured from the time of randomization  |
+
+                                    2Stratified by ECOG performance status, LDH level, presence of liver metastases and prior receipt of prophylactic cranial irradiation |
+
+                                    3Based on the two-sided stratified log-rank test |
+
+                                    4As determined by IRF |
+
+                                    5per RECIST v1.1 (Response Evaluation Criteria in Solid Tumors v1.1) |
+
+                                    6Compared to the allocated alpha of 0.0313  (two-sided) for this interim OS analysis. |
+
+                                    7Compared to the allocated alpha of 0.001 (two- sided) for this final PFS analysis. |
+
+                                 CI=confidence interval
+
+                                  |
+
+                                  |
+
+                                       ZEPZELCA with Atezolizumab
+
+N=242
+
+                                  |
+
+                                       Atezolizumab
+
+N=241
+
+                                  |
+
+                                       Overall Survival1
+
+                                  |
+                                  |
+                                  |
+
+                                         Deaths (%)
+
+                                  |
+
+                                    113 (47%)
+
+                                  |
+
+                                    136 (56%)
+
+                                  |
+
+                                         Median, months
+
+                                  |
+
+                                    13.2
+
+                                  |
+
+                                    10.6
+
+                                  |
+
+                                          (95% CI)
+
+                                  |
+
+                                    (11.9, 16.4)
+
+                                  |
+
+                                    (9.5, 12.2)
+
+                                  |
+
+                                         Hazard ratio2 (95% CI)
+
+                                  |
+
+                                    0.73 (0.57, 0.95)
+
+                                  |
+
+                                         p-value3, 6
+
+                                  |
+
+                                    0.0174
+
+                                  |
+
+                                       Progression-Free Survival1,4,5
+
+                                  |
+                                  |
+                                  |
+
+                                         Number of events (%)
+
+                                  |
+
+                                    174 (72%)
+
+                                  |
+
+                                    202 (84%)
+
+                                  |
+
+                                         Median, months
+
+                                  |
+
+                                    5.4
+
+                                  |
+
+                                    2.1
+
+                                  |
+
+                                         (95% CI)
+
+                                  |
+
+                                    (4.2, 5.8)
+
+                                  |
+
+                                    (1.6, 2.7)
+
+                                  |
+
+                                         Hazard ratio2 (95% CI)
+
+                                  |
+
+                                    0.54 (0.43, 0.67)
+
+                                  |
+
+                                         p-value3, 7
+
+                                  |
+
+                                    < 0.0001
+
+                                  |
+
+                           Figure 1: Progression Free Survival Curve in IMforte
+
+                           Figure 2: Kaplan-Meier Plot of Overall Survival in IMforte

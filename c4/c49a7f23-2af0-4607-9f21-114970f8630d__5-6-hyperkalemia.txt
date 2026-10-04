@@ -1,0 +1,9 @@
+DailyMed c49a7f23-2af0-4607-9f21-114970f8630d | OLMESARTAN MEDOXOMIL | 5.6 Hyperkalemia
+
+Serum potassium should be monitored in patients receiving Olmesartan Medoxomil. Drugs that inhibit the renin angiotensin system can cause hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes
+
+  [see
+
+   Drug Interactions (7.3)]
+
+  .

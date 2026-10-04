@@ -1,0 +1,215 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 14.12 CADUET for Hypertension and Dyslipidemia
+
+In a double-blind, placebo-controlled study, a total of 1660 patients with co-morbid hypertension and dyslipidemia received once daily treatment with eight dose combinations of amlodipine and atorvastatin (5/10, 10/10, 5/20, 10/20, 5/40, 10/40, 5/80, or 10/80 mg), amlodipine alone (5 mg or 10 mg), atorvastatin alone (10 mg, 20 mg, 40 mg, or 80 mg), or placebo. In addition to concomitant hypertension and dyslipidemia, 15% of the patients had diabetes mellitus, 22% were smokers, and 14% had a positive family history of cardiovascular disease. At eight weeks, all eight combination-treatment groups of amlodipine and atorvastatin demonstrated statistically significant dose-related reductions in systolic blood pressure (SBP), diastolic blood pressure (DBP), and LDL-C compared to placebo, with no overall modification of effect of either component on SBP, DBP, and LDL-C (Table 15).
+
+                           Table 15. Effects of Amlodipine and Atorvastatin on Blood Pressure and LDL-C
+
+                                       BP (mmHg)
+
+                                  |
+
+                                       Atorvastatin
+
+                                  |
+
+                                       Amlodipine
+
+                                  |
+
+                                       0 mg
+
+                                  |
+
+                                       10 mg
+
+                                  |
+
+                                       20 mg
+
+                                  |
+
+                                       40 mg
+
+                                  |
+
+                                       80 mg
+
+                                  |
+
+                                       0 mg
+
+                                  |
+
+                                    —
+
+                                  |
+
+                                    -1.5/-0.8
+
+                                  |
+
+                                    -3.2/-0.6
+
+                                  |
+
+                                    -3.2/-1.8
+
+                                  |
+
+                                    -3.4/-0.8
+
+                                  |
+
+                                       5 mg
+
+                                  |
+
+                                    -9.8/-4.3
+
+                                  |
+
+                                    -10.7/-4.9
+
+                                  |
+
+                                    -12.3/-6.1
+
+                                  |
+
+                                    -9.7/-4.0
+
+                                  |
+
+                                    -9.2/-5.1
+
+                                  |
+
+                                       10 mg
+
+                                  |
+
+                                    -13.2/-7.1
+
+                                  |
+
+                                    -12.9/-5.8
+
+                                  |
+
+                                    -13.1/-7.3
+
+                                  |
+
+                                    -13.3/-6.5
+
+                                  |
+
+                                    -14.6/-7.8
+
+                                  |
+
+                                       LDL-C
+
+                                       (% change)
+
+                                  |
+
+                                       Atorvastatin
+
+                                  |
+
+                                       Amlodipine
+
+                                  |
+
+                                       0 mg
+
+                                  |
+
+                                       10 mg
+
+                                  |
+
+                                       20 mg
+
+                                  |
+
+                                       40 mg
+
+                                  |
+
+                                       80 mg
+
+                                  |
+
+                                       0 mg
+
+                                  |
+
+                                    —
+
+                                  |
+
+                                    -32.3
+
+                                  |
+
+                                    -38.4
+
+                                  |
+
+                                    -42.0
+
+                                  |
+
+                                    -46.1
+
+                                  |
+
+                                       5 mg
+
+                                  |
+
+                                    1.0
+
+                                  |
+
+                                    -37.6
+
+                                  |
+
+                                    -41.2
+
+                                  |
+
+                                    -43.8
+
+                                  |
+
+                                    -47.3
+
+                                  |
+
+                                       10 mg
+
+                                  |
+
+                                    -1.4
+
+                                  |
+
+                                    -35.5
+
+                                  |
+
+                                    -37.5
+
+                                  |
+
+                                    -42.1
+
+                                  |
+
+                                    -48.0
+
+                                  |

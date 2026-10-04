@@ -1,0 +1,3 @@
+DailyMed 8faf357b-99a1-440b-8eac-8545cb19a69c | Mycophenolate Mofetil | 8.5 Geriatric Use
+
+Clinical studies of mycophenolate mofetil did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between geriatric and younger patients. In general, dose selection for a geriatric patient should take into consideration the presence of decreased hepatic, renal or cardiac function and of concomitant drug therapies [see Adverse Reactions (6.1), Drug Interactions (7)].

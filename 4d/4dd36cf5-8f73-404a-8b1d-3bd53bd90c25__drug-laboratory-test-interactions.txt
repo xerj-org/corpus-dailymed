@@ -1,0 +1,5 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Drug/Laboratory Test Interactions
+
+Depending on the sensitivity/specificity and the test methodology, the individual components of PERCOCET may cross-react with assays used in the preliminary detection of cocaine (primary urinary metabolite, benzoylecgonine) or marijuana (cannabinoids) in human urine. A more specific alternate chemical method must be used in order to obtain a confirmed analytical result. The preferred confirmatory method is gas chromatography/mass spectrometry (GC/MS). Moreover, clinical considerations and professional judgment should be applied to any drug-of-abuse test result, particularly when preliminary positive results are used.
+
+                        Acetaminophen may interfere with home blood glucose measurement systems; decreases of >20% in mean glucose values may be noted. This effect appears to be drug, concentration and system dependent.

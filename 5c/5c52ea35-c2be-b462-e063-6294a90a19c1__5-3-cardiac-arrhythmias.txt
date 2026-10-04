@@ -1,0 +1,15 @@
+DailyMed 5c52ea35-c2be-b462-e063-6294a90a19c1 | Trazodone Hydrochloride | 5.3 Cardiac Arrhythmias
+
+Clinical studies indicate that trazodone hydrochloride may be arrhythmogenic in patients with preexisting cardiac disease. Arrhythmias identified include isolated PVCs, ventricular couplets, tachycardia with syncope, and torsade de pointes. Postmarketing events, including torsade de pointes have been reported at doses of 100 mg or less with the immediate-release form of trazodone. Trazodone should also be avoided in patients with a history of cardiac arrhythmias, as well as other circumstances that may increase the risk of the occurrence of torsade de pointes and/or sudden death, including symptomatic bradycardia, hypokalemia or hypomagnesemia, and the presence of congenital prolongation of the QT interval. Trazodone is not recommended for use during the initial recovery phase of myocardial infarction. Caution should be used when administering trazodone to patients with cardiac disease and such patients should be closely monitored, since antidepressant drugs (including trazodone) may cause cardiac arrhythmias
+
+  [see Adverse Reactions (
+
+   6.2)]
+
+  .
+
+                        Trazodone prolongs the QT/QTc interval. The use of trazodone should be avoided in patients with known QT prolongation or in combination with other drugs that are inhibitors of CYP3A4 (e.g., itraconazole, clarithromycin, voriconazole), or known to prolong QT interval including Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class 3 antiarrhythmics (e.g., amiodarone, sotalol), certain antipsychotic medications (e.g., ziprasidone, chlorpromazine, thioridazine), and certain antibiotics (e.g., gatifloxacin). Concomitant administration of drugs may increase the risk of cardiac arrhythmia
+
+  [see Drug Interactions (
+
+   7.1)].

@@ -1,0 +1,41 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 5.4 Metabolic Acidosis
+
+Topiramate can cause hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis). This metabolic acidosis is caused by renal bicarbonate loss due to carbonic anhydrase inhibition by topiramate. Topiramate-induced metabolic acidosis can occur at any time during treatment. Bicarbonate decrements are usually mild-moderate (average decrease of 4 mEq/L at daily doses of 400 mg in adults and at approximately 6 mg/kg/day in pediatric patients); rarely, patients can experience severe decrements to values below 10 mEq/L. Conditions or therapies that predispose patients to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet, or specific drugs) may be additive to the bicarbonate lowering effects of topiramate.
+
+                        Metabolic acidosis was commonly observed in adult and pediatric patients treated with topiramate in clinical trials. The incidence of decreased serum bicarbonate in pediatric trials, for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial-onset seizures was as high as 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo. The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to < 2% for placebo.
+
+                        Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor. Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures
+
+  [see Warnings and Precautions (
+
+                              5.9,
+
+   5.15)]
+
+  . A one-year, active-controlled study of pediatric patients treated with topiramate demonstrated that topiramate decreased lumbar spine bone mineral density and that this lumbar spine bone mineral density decrease was correlated (using change from baseline for lumbar spine Z score at final visit versus lowest post-treatment serum bicarbonate) with decreased serum bicarbonate, a reflection of metabolic acidosis
+
+  [see Warnings and Precautions (
+
+   5.9), Use in Specific Populations (
+
+   8.4)]
+
+  . Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved. Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24 months old pediatrics. Reductions in length and weight were correlated to the degree of acidosis
+
+  [see Use in Specific Populations (
+
+   8.4)]
+
+  . Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus
+
+  [see Warnings and Precautions (
+
+   5.7), Use in Specific Populations (
+
+   8.1)]
+
+  .
+
+                              Measurement of Serum Bicarbonate in Epilepsy and Migraine Patients
+
+                        Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended. If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing topiramate (using dose tapering). If the decision is made to continue patients on topiramate in the face of persistent acidosis, alkali treatment should be considered.

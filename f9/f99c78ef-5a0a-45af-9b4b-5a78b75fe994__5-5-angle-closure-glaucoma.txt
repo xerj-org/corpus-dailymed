@@ -1,0 +1,3 @@
+DailyMed f99c78ef-5a0a-45af-9b4b-5a78b75fe994 | Desvenlafaxine | 5.5 Angle Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including desvenlafaxine may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy. Avoid use of antidepressants, including desvenlafaxine, in patients with untreated anatomically narrow angles.

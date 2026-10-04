@@ -1,0 +1,11 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Reduction of Risk of Stroke and Systemic Embolism in Patients with Nonvalvular Atrial Fibrillation
+
+The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice daily.
+
+                              The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with at least two of the following characteristics:
+
+                                 age greater than or equal to 80 years
+
+                                 body weight less than or equal to 60 kg
+
+                                 serum creatinine greater than or equal to 1.5 mg/dL

@@ -1,0 +1,9 @@
+DailyMed 761dc0f8-2f65-4615-ab49-a4bcffd40ce9 | Tadalafil | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis — Tadalafil was not carcinogenic to rats or mice when administered daily for 2 years at doses up to 400 mg/kg/day. Systemic drug exposures, as measured by AUC of unbound tadalafil, were approximately 10-fold for mice, and 14-and 26-fold for male and female rats, respectively, the exposures in human males given Maximum Recommended Human Dose (MRHD) of 20 mg.
+
+                           Mutagenesis — Tadalafil was not mutagenic in the in vitro bacterial Ames assays or the forward mutation test in mouse lymphoma cells. Tadalafil was not clastogenic in the in vitro chromosomal aberration test in human lymphocytes or the in vivo rat micronucleus assays.
+
+                           Impairment of Fertility — There were no effects on fertility, reproductive performance or reproductive organ morphology in male or female rats given oral doses of tadalafil up to 400 mg/kg/day, a dose producing AUCs for unbound tadalafil of 14-fold for males or 26-fold for females the exposures observed in human males given the MRHD of 20 mg. In beagle dogs given tadalafil daily for 3 to 12 months, there was treatment-related non-reversible degeneration and atrophy of the seminiferous tubular epithelium in the testes in 20-100% of the dogs that resulted in a decrease in spermatogenesis in 40-75% of the dogs at doses of greater than or equal to 10 mg/kg/day. Systemic exposure (based on AUC) at no-observed-adverse-effect level (NOAEL) (10 mg/kg/day) for unbound tadalafil was similar to that expected in humans at the MRHD of 20 mg.
+
+                        There were no treatment-related testicular findings in rats or mice treated with doses up to 400 mg/kg/day for 2 years.

@@ -1,0 +1,13 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 2.3 Dosage for Rheumatoid Arthritis in Adults
+
+The recommended dosage is:
+
+                           Initial dosage: 400 mg to 600 mg daily as a single daily dose or two divided doses. The action of hydroxychloroquine is cumulative and may require weeks to months for maximum therapeutic effect. Daily doses exceeding 5 mg/kg (actual weight) of hydroxychloroquine sulfate increase the incidence of retinopathy
+
+   [see
+
+    Warnings and Precautions (5.2)].
+
+                           Chronic dosage: 200 mg once daily to 400 mg daily, as a single dose or two divided doses.
+
+                        Corticosteroids, salicylates, and other antirheumatic agents may be used concomitantly with hydroxychloroquine sulfate tablets.

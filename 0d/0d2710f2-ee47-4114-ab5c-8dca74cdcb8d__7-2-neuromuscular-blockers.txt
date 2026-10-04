@@ -1,0 +1,3 @@
+DailyMed 0d2710f2-ee47-4114-ab5c-8dca74cdcb8d | Dexmedetomidine; Dexmedetomidine in Dextrose | 7.2 Neuromuscular Blockers
+
+In one study of 10 healthy adult volunteers, administration of dexmedetomidine for 45 minutes at a plasma concentration of one ng/mL resulted in no clinically meaningful increases in the magnitude of neuromuscular blockade associated with rocuronium administration.

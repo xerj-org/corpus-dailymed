@@ -1,0 +1,53 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 5.1 Anaphylactoid and Possibly Related Reactions
+
+Presumably because drugs that act directly on the renin-angiotensin-aldosterone system (e.g., ACE inhibitors) affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving these drugs (including ramipril) may be subject to a variety of adverse reactions, some of them serious.
+
+                           Angioedema
+
+                            
+
+                           Angioedema may occurat any time during treatment with ACE inhibitors including ramipril.
+
+                            
+
+                              Head and Neck Angioedema
+
+                            
+
+                        Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor.
+
+                        Angioedema of the face, extremities, lips, tongue, glottis, and larynx has been reported in patients treated with ACE inhibitors. Angioedema associated with laryngeal edema can be fatal. If laryngeal stridor or angioedema of the face, tongue, or glottis occurs, discontinue treatment with ramipril and institute appropriate therapy immediately. Where there is involvement of the tongue, glottis, or larynx likely to cause airway obstruction, administer appropriate therapy (e.g., subcutaneous epinephrine solution 1:1000 [0.3 mL to 0.5 mL]) promptly
+
+  [see
+
+   Adverse Reactions (6)
+
+                           ].
+
+                        In considering the use of ramipril, note that in controlled clinical trials ACE inhibitors cause a higher rate of angioedema in Black patients than in non-Black patients.
+
+                        In a large U.S. post-marketing study, angioedema (defined as reports of angio, face, larynx, tongue, or throat edema) was reported in 3/1523 (0.2%) Black patients and in 8/8680 (0.09%) non-Black patients. These rates were not different statistically.
+
+                        Patients taking concomitant mammalian target of rapamycin (mTOR) inhibitor (e.g., temsirolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema
+
+  [see
+
+   Drug Interactions (7.7)].
+
+                              Intestinal Angioedema
+
+                            
+
+                        Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Include intestinal angioedema in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+
+                           Anaphylactoid Reactions During Desensitization
+
+                            
+
+                        Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions. In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
+
+                           Anaphylactoid Reactions During Membrane Exposure
+
+                            
+
+                        Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor. Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.

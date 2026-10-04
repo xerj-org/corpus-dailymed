@@ -1,0 +1,19 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 8.1 Pregnancy
+
+Risk Summary
+
+                        Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], Zortress can cause fetal harm when administered to a pregnant woman. There are limited case reports of Zortress use in pregnant women; however, these reports are insufficient to inform a drug-associated risk of adverse developmental outcomes. Reproductive studies in animals have demonstrated that everolimus was maternally toxic in rabbits and caused embryo-fetal toxicities in rats and rabbits, at exposures near or below those achieved in human transplant patients. Advise pregnant women of the potential risk to a fetus.
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
+
+                           Data
+
+                           Animal Data
+
+                        Everolimus crossed the placenta and was toxic to the conceptus.
+
+                        Everolimus administered daily to pregnant rats by oral gavage at 0.1 mg/kg (approximately one tenth the exposure in humans administered the lowest starting dose of 0.75 mg twice daily), from before mating through organogenesis, resulted in increased preimplantation loss and embryonic resorptions. These effects occurred in the absence of maternal toxicities.
+
+                        Everolimus administered daily by oral gavage to pregnant rabbits during organogenesis resulted in abortions, maternal toxicity and lethality, and increased fetal resorptions. At these doses, exposure to everolimus (AUC) was approximately one-tenth-, one-half-, and one- and one-half-fold the exposures in humans administered the starting clinical dose, respectively.
+
+                        In a pre- and post-natal development study in rats, animals were dosed from implantation through lactation. At a dose of 0.1 mg/kg (0.6 mg/m2), there were no adverse effects on delivery and lactation or signs of maternal toxicity; however, there were reductions in body weight (up to 9% reduction) and in survival of offspring (~5%). There were no drug-related effects on the developmental parameters (morphological development, motor activity, learning, or fertility assessment) in the offspring.

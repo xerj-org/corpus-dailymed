@@ -1,0 +1,11 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 5.9 Risk of Systemic Toxicities with Unintended Intravascular or Intrathecal Injection
+
+Unintended intravascular or intrathecal injection of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection may be associated with systemic toxicities, including CNS or cardiorespiratory depression and coma, progressing ultimately to respiratory arrest. Unintentional intrathecal injection during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column has resulted in underventilation or apnea ("Total or High Spinal"). A high spinal has been characterized by paralysis of the legs, loss of consciousness, respiratory paralysis, and bradycardia
+
+  [see
+
+   Adverse Reactions (6)]
+
+  .
+
+                        Aspirate for blood or cerebrospinal fluid (where applicable) before injecting Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection, both the initial dose and all subsequent doses, to avoid intravascular or intrathecal injection. However, a negative aspiration for blood or cerebrospinal fluid does not ensure against an intravascular or intrathecal injection.

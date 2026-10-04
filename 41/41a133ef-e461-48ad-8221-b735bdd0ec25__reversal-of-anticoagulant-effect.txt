@@ -1,0 +1,23 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Reversal of Anticoagulant Effect
+
+An agent to reverse the anti-factor Xa activity of apixaban is available. The pharmacodynamic effect of ELIQUIS can be expected to persist for at least 24 hours after the last dose, i.e., for about two drug half-lives. Prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa may be considered, but have not been evaluated in clinical studies
+
+  [see
+
+   Clinical Pharmacology (12.2)]
+
+  . When PCCs are used, monitoring for the anticoagulation effect of apixaban using a clotting test (PT, INR, or aPTT) or anti-factor Xa (FXa) activity is not useful and is not recommended. Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration
+
+  [see
+
+                                    Overdosage (10)]
+
+                                 .
+
+                              Hemodialysis does not appear to have a substantial impact on apixaban exposure
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  . Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of apixaban. There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban. There is no experience with systemic hemostatics (desmopressin) in individuals receiving ELIQUIS, and they are not expected to be effective as a reversal agent.

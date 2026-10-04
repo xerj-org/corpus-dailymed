@@ -1,0 +1,3 @@
+DailyMed 698a46a6-29b5-4763-9442-ec9ad5eea86b | Nitroglycerin | 4.2 Severe Anemia
+
+Nitroglycerin Lingual Spray is contraindicated in patients with severe anemia (large doses of nitroglycerin may cause oxidation of hemoglobin to methemoglobin and could exacerbate anemia).

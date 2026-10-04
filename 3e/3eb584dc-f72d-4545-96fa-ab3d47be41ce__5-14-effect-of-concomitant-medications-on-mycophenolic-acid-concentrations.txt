@@ -1,0 +1,3 @@
+DailyMed 3eb584dc-f72d-4545-96fa-ab3d47be41ce | Mycophenolate mofetil | 5.14 Effect of Concomitant Medications on Mycophenolic Acid Concentrations
+
+A variety of drugs have potential to alter systemic MPA exposure when co-administered with mycophenolate mofetil. Therefore, determination of MPA concentrations in plasma before and after making any changes to immunosuppressive therapy, or when adding or discontinuing concomitant medications, may be appropriate to ensure MPA concentrations remain stable.

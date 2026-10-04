@@ -1,0 +1,13 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | General Precautions
+
+Patients receiving cytarabine must be monitored closely. Frequent platelet and leucocyte counts and bone marrow examinations are mandatory. Consider suspending or modifying therapy when drug-induced marrow depression has resulted in a platelet count under 50,000 or a polymorphonuclear granulocyte count under 1,000/mm3. Counts of formed elements in the peripheral blood may continue to fall after the drug is stopped and reach lowest values after drug-free intervals of 12 to 24 days. When indicated, restart therapy when definite signs of marrow recovery appear (on successive bone marrow studies). Patients whose drug is withheld until “normal” peripheral blood values are attained may escape from control.
+
+                        When large intravenous doses are given too quickly, patients are frequently nauseated and may vomit for several hours post-injection. This problem tends to be less severe when the drug is infused.
+
+                        The human liver apparently detoxifies a substantial fraction of an administered dose. In particular, patients with renal or hepatic function impairment may have a higher likelihood of CNS toxicity after high-dose cytarabine treatment. Use the drug with caution and possibly at reduced dose in patients whose liver or kidney function is poor.
+
+                        Periodic checks of bone marrow, liver and kidney functions should be performed in patients receiving cytarabine.
+
+                        Like other cytotoxic drugs, cytarabine may induce hyperuricemia secondary to rapid lysis of neoplastic cells. The clinician should monitor the patient’s blood uric acid level and be prepared to use such supportive and pharmacologic measures as might be necessary to control this problem.
+
+                        Acute pancreatitis has been reported to occur in a patient receiving cytarabine by continuous infusion and in patients being treated with cytarabine who have had prior treatment with L-asparaginase.

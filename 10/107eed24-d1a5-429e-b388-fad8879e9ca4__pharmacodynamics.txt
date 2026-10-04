@@ -1,0 +1,7 @@
+DailyMed 107eed24-d1a5-429e-b388-fad8879e9ca4 | Lidothol ES | Pharmacodynamics
+
+Menthol works by targeting the κ-opioid receptor on the TRPM8 neuron. The TRPM8 neuron is normally activated at temperatures between 46.4–82.4 °F (8–28 °C). Menthol causes the neuron to fire at temperatures above normal activation, which triggers the characteristic cooling sensation. Also, because of menthol’s specific targeting of the κ-opioid receptor, it is endowed with analgesic properties.
+
+                        Lidocaine is an amide-type local anesthetic agent and is suggested to stabilize neuronal membranes by inhibiting the ionic fluxes required for the initiation and conduction of impulses.
+
+                        The penetration of lidocaine into intact skin after application of Lidothol® ES is sufficient to produce an analgesic effect, but less than the amount necessary to produce a complete sensory block.

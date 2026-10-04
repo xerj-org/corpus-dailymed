@@ -1,0 +1,13 @@
+DailyMed e63fe922-b35a-406c-8737-f3f5e6d5a30d | PAROXETINE | 14.3 Panic Disorder
+
+The effectiveness of paroxetine in the treatment of panic disorder (PD) was demonstrated in three 10 to 12-week multicenter, placebo-controlled studies of adult outpatients (Studies 1, 2, and 3). Patients had PD (DSM-IIIR), with or without agoraphobia. In these studies, paroxetine was shown to be statistically significantly more effective than placebo in treating PD by at least 2 out of 3 measures of panic attack frequency and on the Clinical Global Impression Severity of Illness score. 
+
+                        Study 1 was a 10-week dose-range finding study; patients received fixed doses of paroxetine 10 mg, 20 mg, or 40 mg daily or placebo. A statistically significant difference from placebo was observed only for the paroxetine 40 mg daily group. At endpoint, 76% of patients receiving paroxetine 40 mg daily were free of panic attacks, compared to 44% of placebo-treated patients. 
+
+                        Study 2 was a 12-week flexible-dose study comparing paroxetine 10 mg to 60 mg daily and placebo. At endpoint, 51% of paroxetine-treated patients were free of panic attacks compared to 32% of placebo-treated patients. 
+
+                        Study 3 was a 12-week flexible-dose study comparing paroxetine 10 mg to 60 mg daily to placebo in patients concurrently receiving standardized cognitive behavioral therapy. At endpoint, 33% of the paroxetine-treated patients showed a reduction to 0 or 1 panic attacks compared to 14% of placebo-treated patients. In Studies 2 and 3, the mean paroxetine dose for completers at endpoint was approximately 40 mg daily. 
+
+                        Long-term efficacy of paroxetine in PD was demonstrated in an extension to Study 1. Patients who responded to paroxetine during the 10-week double-blind phase and during a 3-month double-blind extension phase were randomized to either paroxetine 10 mg, 20 mg, or 40 mg daily or placebo in a 3-month double-blind relapse prevention phase. Patients randomized to paroxetine were statistically significantly less likely to relapse than placebo-treated patients. 
+
+                        Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.

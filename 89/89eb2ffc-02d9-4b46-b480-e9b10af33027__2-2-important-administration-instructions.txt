@@ -1,0 +1,9 @@
+DailyMed 89eb2ffc-02d9-4b46-b480-e9b10af33027 | TOFACITINIB CITRATE | 2.2 Important Administration Instructions
+
+XELJANZ XR (extended-release tablets) is not substitutable with tofacitinib tablets. Switching between tofacitinib tablets and XELJANZ XR should be made by the healthcare provider.
+
+                             Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+
+                             Interrupt use of tofacitinib if a patient develops a serious infection until the infection is controlled [see Warnings and Precautions (5.1)].
+
+                             Take tofacitinib tablets with or without food [see Clinical Pharmacology (12.3)].

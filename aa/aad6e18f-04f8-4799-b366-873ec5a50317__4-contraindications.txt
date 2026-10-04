@@ -1,0 +1,11 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 4 CONTRAINDICATIONS
+
+Lactated Ringer’s Injection is contraindicated in:
+
+                     Neonates (28 days of age or younger) who are receiving concomitant treatment with ceftriaxone, even if separate infusion lines are used, due to the risk of fatal ceftriaxone-calcium salt precipitation in the neonate’s bloodstream [see 
+                              Warnings 
+
+                              and Precautions (5.1)
+                            and Specific Populations (8.4)].
+
+                     Patients with known hypersensitivity to sodium lactate [see Warnings and Precautions (5.3)].

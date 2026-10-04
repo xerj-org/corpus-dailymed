@@ -1,0 +1,5 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 5.4 Major Adverse Cardiovascular Events (MACE)
+
+In a large, randomized, postmarketing safety trial of another JAK inhibitor in subjects with RA 50 years of age and older with at least one cardiovascular risk factor, a higher rate of major adverse cardiovascular events (MACE) defined as cardiovascular death, non-fatal myocardial infarction (MI), and non-fatal stroke was observed with the JAK inhibitor compared to those treated with TNF blockers. Patients who are current or past smokers are at additional increased risk.
+
+                        Consider the benefits and risks for the individual patient prior to and during treatment with LEQSELVI, particularly in patients who are current or past smokers and patients with other cardiovascular risk factors. Inform patients about the symptoms of serious cardiovascular events and the steps to take if they occur. Discontinue LEQSELVI in patients that have experienced a myocardial infarction or stroke.

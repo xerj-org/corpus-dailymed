@@ -1,0 +1,7 @@
+DailyMed ff660787-880f-4f2b-baac-fd2dbfcd79c2 | Selexipag; Selexipag TITRATION PACK | 7.1 CYP2C8 Inhibitors
+
+Concomitant administration with gemfibrozil, a strong inhibitor of CYP2C8, doubled the exposure to selexipag and increased exposure to the active metabolite by approximately 11-fold. Concomitant administration of selexipag with strong inhibitors of CYP2C8 (e.g., gemfibrozil) is contraindicated [see Contraindications (4) and Clinical Pharmacology (12.3)].
+
+                        Concomitant administration of   selexipag tablets with clopidogrel, a moderate inhibitor of CYP2C8, had no   relevant effect on the exposure to selexipag and increased the exposure to   the active metabolite by approximately 2.7-fold [see Clinical Pharmacology   (12.3)]. Reduce the dosing of selexipag to once   daily in adult patients on a moderate CYP2C8 inhibitor [see Dosage   and Administration (2.7)].
+
+                           Pediatric use information is approved   for Actelion Pharmaceuticals US, Inc.'s Uptravi® (Selexipag)   Tablets. However, due to Actelion Pharmaceuticals US, Inc.'s marketing   exclusivity rights, this drug product is not labeled with that information.

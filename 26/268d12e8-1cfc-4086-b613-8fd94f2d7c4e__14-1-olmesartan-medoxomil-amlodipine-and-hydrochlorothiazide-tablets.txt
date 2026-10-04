@@ -1,0 +1,77 @@
+DailyMed 268d12e8-1cfc-4086-b613-8fd94f2d7c4e | olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide | 14.1 Olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets
+
+The antihypertensive efficacy of olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets was studied in a double-blind, active-controlled study in hypertensive patients. A total of 2492 patients with hypertension (mean baseline blood pressure 169/101 mmHg) received olmesartan medoxomil/amlodipine/hydrochlorothiazide 40/10/25 mg (627 patients), olmesartan medoxomil/amlodipine 40/10 mg (628 patients), olmesartan medoxomil/hydrochlorothiazide 40/25 mg (637 patients), or amlodipine/hydrochlorothiazide 10/25 mg (600 patients). Each subject was randomized to one of the three dual therapy combinations for two to four weeks. Patients were then randomized to continue on the dual therapy they were receiving or to receive triple therapy. A total of 53% of patients were male, 19% were 65 years or older, 67% were white, 30% were black, and 15% were diabetic.
+
+                        After 8 weeks of treatment, the triple combination therapy produced greater reductions in both systolic and diastolic blood pressures (p< 0.0001) compared to each of the 3 dual combination therapies. The full blood pressure lowering effects were attained within 2 weeks after a change in dose.
+
+                        The seated blood pressure reductions attributable to the addition of a single high-dose drug to each high-dose dual drug combination are shown in Table 2.
+
+                           Table 2   Additional blood pressure reductions on high-dose olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets compared to high doses of dual combination drugs
+
+                                       Start on
+
+                                  |
+
+                                       Adding
+
+                                  |
+
+                                       BP reduction*
+
+                                  |
+
+                                    Olmesartan medoxomil 40 / amlodipine 10 mg
+
+                                  |
+
+                                    HCTZ 25 mg
+
+                                  |
+
+                                    8.4/4.5 mmHg
+
+                                  |
+
+                                    Olmesartan medoxomil 40 / HCTZ 25 mg
+
+                                  |
+
+                                    Amlodipine 10 mg
+
+                                  |
+
+                                    7.6/5.4 mmHg
+
+                                  |
+
+                                    Amlodipine 10 / HCTZ 25 mg
+
+                                  |
+
+                                    Olmesartan medoxomil 40 mg
+
+                                  |
+
+                                    8.1/5.4 mmHg
+
+                                  |
+
+                        *all highly statistically significant.
+
+                        There were no apparent differences in terms of seated diastolic blood pressure (SeDBP) or seated systolic blood pressure (SeSBP) reductions in black and non-black patients treated with olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets [see Use in Specific Populations (8.8)].
+
+                        There were no apparent differences in terms of SeDBP or SeSBP reductions in diabetic and non-diabetic patients treated with olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets.
+
+                        A total of 440 patients participated in the ambulatory blood pressure monitoring portion of the study. Over the 24-hour period, there was a greater reduction in diastolic and systolic ambulatory blood pressure for olmesartan medoxomil/amlodipine/hydrochlorothiazide 40/10/25 mg compared to each of the dual combination therapies (see Figure 1 and Figure 2).
+
+                           Figure 1: Mean Ambulatory Diastolic Blood Pressure at Endpoint by Treatment and Hour
+
+                            
+
+                           Figure 2: Mean Ambulatory Systolic Blood Pressure at Endpoint by Treatment and Hour
+
+                        The blood pressure lowering effects of lower dose strengths of olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets (olmesartan medoxomil/amlodipine/hydrochlorothiazide 20/5/12.5 mg, 40/5/12.5 mg, 40/10/12.5 mg, and 40/5/25 mg) have not been studied.
+
+                        All of the dose strengths of the triple combination are expected to provide superior blood pressure lowering effects compared to their respective mono and dual combination components. The order of the blood pressure lowering effects among the different dose strengths of olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets (olmesartan medoxomil /amlodipine /hydrochlorothiazide) is expected to be 20/5/12.5 mg < 40/5/12.5 mg < (40/10/12.5 mg ≈ 40/5/25 mg) < 40/10/25 mg.
+
+                        There are no trials of olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.

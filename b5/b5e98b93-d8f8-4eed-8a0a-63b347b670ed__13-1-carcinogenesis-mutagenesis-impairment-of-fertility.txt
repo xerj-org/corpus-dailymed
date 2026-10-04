@@ -1,0 +1,13 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Lifetime carcinogenicity studies were carried out in CD-1 mice and Long-Evans rats at doses up to 40 mg/kg/day. These doses correspond to 1 times (mice) and 2 times (rats) the maximum recommended human dose (MRHD) of 200 mg/day on a mg/m2 basis. There was a dose-related increase of liver adenomas in male mice receiving sertraline at 10 to 40 mg/kg (0.25 to 1.0 times the MRHD on a mg/m2 basis). No increase was seen in female mice or in rats of either sex receiving the same treatments, nor was there an increase in hepatocellular carcinomas. Liver adenomas have a variable rate of spontaneous occurrence in the CD-1 mouse and are of unknown significance to humans. There was an increase in follicular adenomas of the thyroid in female rats receiving sertraline at 40 mg/kg (2 times the MRHD on a mg/m2 basis); this was not accompanied by thyroid hyperplasia. While there was an increase in uterine adenocarcinomas in rats receiving sertraline at 10 to 40 mg/kg (0.5 to 2.0 times the MRHD on a mg/m2 basis) compared to placebo controls, this effect was not clearly drug related.
+
+                              Mutagenesis
+
+                        Sertraline had no genotoxic effects, with or without metabolic activation, based on the following assays: bacterial mutation assay; mouse lymphoma mutation assay; and tests for cytogenetic aberrations in vivo in mouse bone marrow and in vitro in human lymphocytes.
+
+                              Impairment of Fertility
+
+                        A decrease in fertility was seen in one of two rat studies at a dose of 80 mg/kg (3.1 times the maximum recommended human dose on a mg/m2 basis in adolescents).

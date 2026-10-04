@@ -1,0 +1,5 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 5.14 Risks of Local Reactions
+
+Phlebitis or venous thrombosis has been reported. In two clinical studies using dedicated intravenous catheters, no instances of venous sequelae were observed up to 14 days following induction.
+
+                        Accidental intra-arterial injection has been reported in patients, and, other than pain, there were no major sequelae.

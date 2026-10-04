@@ -1,0 +1,5 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Hypersensitivity
+
+Ceftriaxone is contraindicated in patients with known hypersensitivity to ceftriaxone, any of its excipients or to any other cephalosporin. Patients with previous hypersensitivity reactions to penicillin and other beta lactam antibacterial agents may be at greater risk of hypersensitivity to ceftriaxone (see
+                              WARNINGS – Hypersensitivity
+                           ).

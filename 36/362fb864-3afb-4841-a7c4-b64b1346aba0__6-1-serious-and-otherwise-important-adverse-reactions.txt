@@ -1,0 +1,39 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 6.1 Serious and Otherwise Important Adverse Reactions
+
+The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
+
+                           Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
+
+                           Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
+
+                           Peripheral Neuropathy [see Warnings and Precautions (5.3)]
+
+                           Central Nervous System Effects [see Warnings and Precautions (5.4)]
+
+                           Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
+
+                           Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.6)]
+
+                           Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+
+                           Hepatotoxicity [see Warnings and Precautions (5.8)]
+
+                              Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+
+                           Prolongation of the QT Interval [see Warnings and Precautions (5.11)]
+
+                           Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.12)]
+
+                           Blood Glucose Disturbances [see Warnings and Precautions (5.13)]
+
+                           Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
+
+                           Development of Drug Resistant Bacteria [see Warnings and Precautions (5.15)]
+
+                        Hypotension has been associated with rapid or bolus intravenous infusion of levofloxacin. Levofloxacin should be infused slowly over 60 to 90 minutes, depending on dosage [see Dosage and Administration (
+
+                              2.5)].
+
+                        Crystalluria and cylindruria have been reported with quinolones, including levofloxacin. Therefore, adequate hydration of patients receiving levofloxacin should be maintained to prevent the formation of a highly concentrated urine [see Dosage and Administration (
+                                 2.5)]
+                           .

@@ -1,0 +1,21 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 2.2 Recommended Dosing
+
+Sugammadex Injection can be used to reverse different levels of rocuronium- or vecuronium-induced neuromuscular blockade.
+
+                           For rocuronium and vecuronium:
+
+                           A dose of 4 mg/kg Sugammadex Injection is recommended if spontaneous recovery of the twitch response has reached 1 to 2 post-tetanic counts (PTC) and there are no twitch responses to train-of-four (TOF) stimulation following rocuronium-or vecuronium-induced neuromuscular blockade
+
+   [see Warnings and Precautions (5.8)].
+
+                           A dose of 2 mg/kg Sugammadex Injection is recommended if spontaneous recovery has reached the reappearance of the second twitch (T
+
+   2) in response to TOF stimulation following rocuronium-or vecuronium-induced neuromuscular blockade
+
+   [see Warnings and Precautions (5.8)].
+
+                           For rocuronium only:
+
+                           A dose of 16 mg/kg Sugammadex Injection is recommended if there is a clinical need to reverse neuromuscular blockade soon (approximately 3 minutes) after administration of a single dose of 1.2 mg/kg of rocuronium. The efficacy of the 16 mg/kg dose of Sugammadex Injection following administration of vecuronium has not been studied. Immediate reversal in pediatric patients has not been studied
+
+   [see Clinical Studies (14.1)].

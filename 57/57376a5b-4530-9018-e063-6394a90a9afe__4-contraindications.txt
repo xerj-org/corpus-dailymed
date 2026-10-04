@@ -1,0 +1,7 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 4 CONTRAINDICATIONS
+
+PRIALT is contraindicated in patients with a known hypersensitivity to ziconotide or any of its formulation components.
+
+                     PRIALT is contraindicated in patients with any other concomitant treatment or medical condition that would render intrathecal administration hazardous. Contraindications to the use of intrathecal analgesia include the presence of infection at the microinfusion injection site, uncontrolled bleeding diathesis, and spinal canal obstruction that impairs circulation of CSF.
+
+                     PRIALT is contraindicated in patients with a pre-existing history of psychosis.

@@ -1,0 +1,3 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Dermatologic Diseases
+
+Pemphigus; bullous dermatitis herpetiformis; severe erythema multiforme (Stevens-Johnson syndrome); exfoliative dermatitis; mycosis fungoides; severe psoriasis; severe seborrheic dermatitis.

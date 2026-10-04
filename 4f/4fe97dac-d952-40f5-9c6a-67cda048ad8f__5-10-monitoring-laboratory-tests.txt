@@ -1,0 +1,9 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 5.10 Monitoring: Laboratory Tests
+
+Periodic monitoring of renal function and urine output is particularly important in patients judged to be at increased risk of developing acute renal failure. Assess renal function, including measurement of BUN and serum creatinine, before the initial infusion of GAMUNEX-C FlexBag  and at appropriate intervals thereafter.
+
+                           Consider baseline assessment of blood viscosity in patients at risk for hyperviscosity, including those with cryoglobulins, fasting chylomicronemia/markedly high triacylglycerols (triglycerides), or monoclonal gammopathies, because of the potentially increased risk of thrombosis.
+
+                           If signs and/or symptoms of hemolysis are present after an infusion of GAMUNEX-C FlexBag, perform appropriate laboratory testing for confirmation.
+
+                           If TRALI is suspected, perform appropriate tests for the presence of anti-neutrophil antibodies and anti-HLA antibodies in both the product and patient’s serum.

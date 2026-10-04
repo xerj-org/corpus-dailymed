@@ -1,0 +1,3 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Renal
+
+Elevations in BUN and serum uric acid have been reported. Rarely, hemolysis, hemoglobinuria, hematuria, interstitial nephritis, acute tubular necrosis, renal insufficiency, and acute renal failure have been noted. These are generally considered to be hypersensitivity reactions. They usually occur during intermittent therapy or when treatment is resumed following intentional or accidental interruption of a daily dosage regimen, and are reversible when rifampin is discontinued and appropriate therapy instituted.

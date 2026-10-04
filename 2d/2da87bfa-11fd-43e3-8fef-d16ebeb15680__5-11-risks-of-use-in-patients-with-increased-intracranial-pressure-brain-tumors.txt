@@ -1,0 +1,5 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 5.11 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+
+In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), morphine sulfate extended-release capsules may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure. Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with morphine sulfate extended-release capsules.
+
+                        Opioids may also obscure the clinical course in a patient with a head injury. Avoid the use of morphine sulfate extended-release capsules in patients with impaired consciousness or coma.

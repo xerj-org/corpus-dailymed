@@ -1,0 +1,36 @@
+DailyMed 5f603b0d-69e5-4c02-b6b3-b4705e243e9a | Butalbital, Acetaminophen and Caffeine | DESCRIPTION
+
+Butalbital, acetaminophen and caffeine are supplied in liquid form for oral administration.
+
+                  Each 15 mL contains:
+
+                           Butalbital USP |
+                           50 mg |
+
+                             Warning: May be habit-forming. |
+                            |
+
+                           Acetaminophen USP |
+                           325 mg |
+
+                           Caffeine USP |
+                           40 mg |
+
+                           Alcohol |
+                           7.368% |
+
+                  In addition, this drug product contains the following inactive ingredients:
+
+ citric acid, ethyl maltol, liquid glucose, glycerin, methylparaben, propylene glycol, propylparaben, purified water, saccharin sodium, sorbitol solution, sucrose, with FD&C yellow #6 as coloring, and natural and artificial flavoring.
+
+                  Butalbital (5-allyl-5-isobutylbarbituric acid), is a short to intermediate-acting barbiturate. It has the following structural formula:
+
+                     C11H16N2O3                                          MW = 224.26
+
+                  Acetaminophen (4'-hydroxyacetanilide), is a non-opiate, non-salicylate analgesic and antipyretic. It has the following structural formula:
+
+                     C8H9NO2                                          MW = 151.16
+
+                  Caffeine (1,3,7-trimethylxanthine), is a central nervous system stimulant. It has the following structural formula:
+
+                     C8H10N4O2                                          MW = 194.19

@@ -1,0 +1,83 @@
+DailyMed 3357af32-f91b-4663-8f86-a2bcee7855ea | ExcenelRTU EZ | Comparative Bioavailability Summary
+
+The current EXCENEL RTU EZ Sterile Suspension formulation replaces a previously approved formulation. The previously approved EXCENEL RTU EZ product was a reformulation of another ceftiofur hydrochloride injectable product, EXCENEL RTU Sterile Suspension (NADA 140-890). Comparable plasma concentrations of ceftiofur administered as EXCENEL RTU Sterile Suspension and the reformulated EXCENEL RTU EZ Sterile Suspension were demonstrated in two comparative two-treatment, two-period crossover relative bioavailability studies in cattle. Products were administered via intramuscular (IM) or subcutaneous (SC) injection, using alternating sides of the neck during periods 1 and 2. A summary of average plasma pharmacokinetic (PK) parameters in cattle after a single IM and SC administration of EXCENEL RTU Sterile Suspension and EXCENEL RTU EZ Sterile Suspension at a dose of 1.0 mg CE/lb (2.2 mg CE/kg) BW is provided in Table 3.
+
+                                 Table 3: Comparative treatment values (arithmetic mean ± SD) for the plasma PK estimates of total ceftiofur (parent compound plus desfuroylceftiofur metabolites) in cattle following an IM or SC administration of 1.0 mg CE/lb (2.2 mg CE/kg) BW, as either EXCENEL RTU (reference article) or as EXCENEL RTU EZ Sterile Suspension (test article).
+
+                                        PK Parameter |
+                                        IM |
+                                        SC |
+
+                                        EXCENEL RTU |
+                                        EXCENEL RTU EZ |
+                                        EXCENEL RTU |
+                                        EXCENEL RTU EZ |
+
+                                       Cmax - maximum plasma concentration |
+
+                                       AUC0-LOQ - the area under the plasma concentration vs. time curve from time of injection to the limit of quantification of the assay |
+
+                                       tmax - the time after initial injection to when Cmax occurs |
+
+                                       t1/2 - the plasma half life of the drug |
+
+                                       t>0.2 - the time plasma concentrations remain above 0.2 µg/mL |
+
+                                       Cmax (µg/mL) |
+                                       8.58 ± 1.50 |
+                                       9.25 ± 1.73 |
+                                       8.40 ± 1.42 |
+                                       9.19 ± 1.65 |
+
+                                       AUC0-LOQ (µg*h/mL) |
+                                       89.4 ± 13.8 |
+                                       88.5 ±17.0 |
+                                       86.7 ± 20.3 |
+                                       91.0 ± 20.2 |
+
+                                       tmax (h) |
+                                       1.71 ± 0.706 |
+                                       1.73 ± 0.489 |
+                                       2.08 ± 0.670 |
+                                       2.25 ± 0.872 |
+
+                                       t1/2 (h) |
+                                       32.0 ± 8.48 |
+                                       29.3 ± 7.35 |
+                                       34.0 ± 8.52 |
+                                       32.9 ± 6.91 |
+
+                                       t>0.2 (h): |
+                                       42.2 ± 6.20 |
+                                       41.2 ± 6.11 |
+                                       40.5 ± 5.28 |
+                                       41.5 ± 7.32 |
+
+                              The standard bioequivalence (BE) criteria, based upon the exponentiated 90% confidence bounds about the ratio of treatment means, were met for the pivotal bioequivalence parameters, AUC0-LOQ and Cmax, when each formulation was administered to cattle IM or SC at a dose rate of 1 mg CE/lb (2.2 mg CE/kg) BW (Table 4).
+
+                                 Table 4: Back-transformed least squares (LS) means and 90% confidence intervals (CI) for the two pivotal pharmacokinetic parameters, Cmax and AUC0-LOQ in cattle following an IM and SC administration of 1 mg CE/lb (2.2 mg CE/kg) BW, as either EXCENEL RTU (reference article) or as EXCENEL RTU EZ Sterile Suspension (test article).
+
+                                        PK Parameter |
+                                        IM |
+                                        SC |
+
+                                        LS Mean Difference |
+                                        90% CI |
+                                        LS Mean Difference |
+                                        90% CI |
+
+                                       Cmax
+                                        |
+                                       1.08 |
+                                       1.00 to 1.16 |
+                                       1.09 |
+                                       1.02 to 1.18 |
+
+                                       AUC0-LOQ
+                                        |
+                                       0.984 |
+                                       0.94 to 1.03 |
+                                       1.06 |
+                                       0.99 to 1.13 |
+
+                              In another comparative bioavailability PK study (previously reviewed under NADA 140-890), comparable plasma concentrations of ceftiofur administered as EXCENEL RTU Sterile Suspension or as NAXCEL Sterile Powder were demonstrated when each product was administered intramuscularly or subcutaneously at the approved dose range of ceftiofur sodium [0.5 to 1 mg CE/lb (1.1 to 2.2 mg CE/kg) BW].

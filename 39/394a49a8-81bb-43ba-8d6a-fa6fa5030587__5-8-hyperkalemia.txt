@@ -1,0 +1,9 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 5.8 Hyperkalemia
+
+In clinical trials with ramipril, hyperkalemia (serum potassium >5.7 mEq/L) occurred in approximately 1% of hypertensive patients receiving ramipril. In most cases, these were isolated values, which resolved despite continued therapy. None of these patients were discontinued from the trials because of hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of other drugs that raise serum potassium levels. Monitor serum potassium in such patients
+
+  [see
+
+   Drug Interactions (7.2)]
+
+  .

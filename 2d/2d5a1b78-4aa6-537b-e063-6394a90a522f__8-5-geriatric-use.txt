@@ -1,0 +1,11 @@
+DailyMed 2d5a1b78-4aa6-537b-e063-6394a90a522f | Pitavastatin | 8.5 Geriatric Use
+
+In controlled clinical studies, 1,209 (43%) patients were 65 years and older. No overall differences in safety or effectiveness were observed between these patients and younger patients.
+
+                        Advanced age (≥65 years) is a risk factor for pitavastatin-associated myopathy and rhabdomyolysis. Dose selection for a geriatric patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy. Monitor geriatric patients receiving pitavastatin tablets for the increased risk of myopathy
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .

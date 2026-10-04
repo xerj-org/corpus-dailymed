@@ -1,0 +1,45 @@
+DailyMed 434fb630-c8d6-4583-b3ee-8e4ba6552c3d | CLAFORAN | INDICATIONS AND USAGE
+
+Treatment
+
+CLAFORAN is indicated for the treatment of patients with serious infections caused by susceptible strains of the designated microorganisms in the diseases listed below.
+
+                     (1) Lower respiratory tract infections, including pneumonia, caused by Streptococcus pneumoniae, Streptococcus pyogenes* (Group A streptococci) and other streptococci (excluding enterococci, e.g., Enterococcus faecalis), Staphylococcus aureus (penicillinase and non-penicillinase producing), Escherichia coli, Klebsiella species, Haemophilus influenzae (including ampicillin resistant strains), Haemophilus parainfluenzae, Proteus mirabilis, Serratia marcescens*, Enterobacter species, indole positive Proteus and Pseudomonas species (including P. aeruginosa).
+
+                     (2) Genitourinary infections. Urinary tract infections caused by Enterococcus species, Staphylococcus epidermidis, Staphylococcus aureus*, (penicillinase and non-penicillinase producing), Citrobacter species, Enterobacter species, Escherichia coli, Klebsiella species, Proteus mirabilis, Proteus vulgaris*, Providencia stuartii, Morganella morganii*, Providencia rettgeri*, Serratia marcescens and Pseudomonas species (including P. aeruginosa). Also, uncomplicated gonorrhea (cervical/urethral and rectal) caused by Neisseria gonorrhoeae, including penicillinase producing strains.
+
+                     (3) Gynecologic infections, including pelvic inflammatory disease, endometritis and pelvic cellulitis caused by Staphylococcus epidermidis, Streptococcus species, Enterococcus species, Enterobacter species*, Klebsiella species*, Escherichia coli, Proteus mirabilis, Bacteroides species (including Bacteroides fragilis*), Clostridium species, and anaerobic cocci (including Peptostreptococcus species and Peptococcus species) and Fusobacterium species (including F. nucleatum*).
+
+                  CLAFORAN, like other cephalosporins, has no activity against Chlamydia trachomatis. Therefore, when cephalosporins are used in the treatment of patients with pelvic inflammatory disease and C. trachomatis is one of the suspected pathogens, appropriate anti-chlamydial coverage should be added.
+
+                     (4) Bacteremia/Septicemia caused by Escherichia coli, Klebsiella species, and Serratia marcescens, Staphylococcus aureus and Streptococcus species (including S. pneumonia).
+
+                     (5) Skin and skin structure infections caused by Staphylococcus aureus (penicillinase and non- penicillinase producing), Staphylococcus epidermidis, Streptococcus pyogenes (Group A streptococci) and other streptococci, Enterococcus species, Acinetobacter species*, Escherichia coli, Citrobacter species (including C. freundii*), Enterobacter species, Klebsiella species, Proteus mirabilis, Proteus vulgaris*, Morganella morganii, Providencia rettgeri*, Pseudomonas species, Serratia marcescens, Bacteroides species, and anaerobic cocci (including Peptostreptococcus* species and Peptococcus species).
+
+                     (6) Intra-abdominal infections including peritonitis caused by Streptococcus species*, Escherichia coli, Klebsiella species, Bacteroides species, and anaerobic cocci (including Peptostreptococcus* species and Peptococcus* species) Proteus mirabilis*, and Clostridium species*.
+
+                     (7) Bone and/or joint infections caused by Staphylococcus aureus (penicillinase and non-penicillinase producing strains), Streptococcus species (including S. pyogenes*), Pseudomonas species (including P. aeruginosa*), and Proteus mirabilis*.
+
+                     (8) Central nervous system infections, e.g., meningitis and ventriculitis, caused by Neisseria meningitidis, Haemophilus influenzae, Streptococcus pneumoniae, Klebsiella pneumoniae* and Escherichia coli*.
+
+                  (*) Efficacy for this organism, in this organ system, has been studied in fewer than 10 infections.
+
+                  Although many strains of enterococci (e.g., E. faecalis) and Pseudomonas species are resistant to cefotaxime sodium in vitro, CLAFORAN has been used successfully in treating patients with infections caused by susceptible organisms.
+
+                  Specimens for bacteriologic culture should be obtained prior to therapy in order to isolate and identify causative organisms and to determine their susceptibilities to CLAFORAN. Therapy may be instituted before results of susceptibility studies are known; however, once these results become available, the antibiotic treatment should be adjusted accordingly.
+
+                  In certain cases of confirmed or suspected gram-positive or gram-negative sepsis or in patients with other serious infections in which the causative organism has not been identified, CLAFORAN may be used concomitantly with an aminoglycoside. The dosage recommended in the labeling of both antibiotics may be given and depends on the severity of the infection and the patient’s condition. Renal function should be carefully monitored, especially if higher dosages of the aminoglycosides are to be administered or if therapy is prolonged, because of the potential nephrotoxicity and ototoxicity of aminoglycoside antibiotics. It is possible that nephrotoxicity may be potentiated if CLAFORAN is used concomitantly with an aminoglycoside.
+
+                     Prevention
+
+The administration of CLAFORAN preoperatively reduces the incidence of certain infections in patients undergoing surgical procedures (e.g., abdominal or vaginal hysterectomy, gastrointestinal and genitourinary tract surgery) that may be classified as contaminated or potentially contaminated.
+
+                  In patients undergoing cesarean section, intraoperative (after clamping the umbilical cord) and postoperative use of CLAFORAN may also reduce the incidence of certain postoperative infections. See DOSAGE AND ADMINISTRATION section.
+
+                  Effective use for elective surgery depends on the time of administration. To achieve effective tissue levels, CLAFORAN should be given 1/2 or 1 1/2 hours before surgery. See DOSAGE AND ADMINISTRATION section.
+
+                  For patients undergoing gastrointestinal surgery, preoperative bowel preparation by mechanical cleansing as well as with a non-absorbable antibiotic (e.g., neomycin) is recommended.
+
+                  If there are signs of infection, specimens for culture should be obtained for identification of the causative organism so that appropriate therapy may be instituted.
+
+                  To reduce the development of drug-resistant bacteria and maintain the effectiveness of CLAFORAN and other antibacterial drugs, CLAFORAN should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

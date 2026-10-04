@@ -1,0 +1,7 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 5.5 Hepatotoxicity
+
+IMDELLTRA can cause hepatotoxicity.
+
+                           In the pooled safety population [see Adverse Reactions (6.1)], based on laboratory data, elevated ALT occurred in 39% of patients who received IMDELLTRA, including 2.5% Grade 3 or 4 ALT. Elevated AST occurred in 43% of patients, including 3.2% Grade 3 or 4. Elevated bilirubin occurred in 16% of patients, including 1.3% Grade 3 or 4 Liver enzyme elevation can occur with or without concurrent CRS.
+
+                        Monitor liver enzymes and bilirubin prior to treatment with IMDELLTRA, and as clinically indicated. Withhold IMDELLTRA or permanently discontinue based on severity [see Dosage and Administration (2.5)].

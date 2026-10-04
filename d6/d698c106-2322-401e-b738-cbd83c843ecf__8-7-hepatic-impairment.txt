@@ -1,0 +1,7 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 8.7 Hepatic Impairment
+
+No dosage modification is recommended for patients with mild hepatic impairment (bilirubin ≤ upper limit of normal (ULN) and AST > ULN or bilirubin > 1 to 1.5x ULN and any AST) [see Clinical Pharmacology (12.3)].
+
+                        Monitor patients with moderate (bilirubin > 1.5 to 3x ULN and any AST) hepatic impairment for adverse reactions due to potential increased capivasertib exposure [see Warnings and Precautions (5.1, 5.2, 5.3)].
+
+                        TRUQAP has not been studied in patients with severe (bilirubin > 3x ULN and any AST) hepatic impairment.

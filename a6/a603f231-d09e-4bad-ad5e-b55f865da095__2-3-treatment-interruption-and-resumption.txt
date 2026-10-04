@@ -1,0 +1,74 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 2.3 Treatment Interruption and Resumption
+
+Serious or Opportunistic Infections
+
+                        If a patient develops a serious or opportunistic infection, interrupt LEQSELVI treatment until the infection is controlled [see Warnings and Precautions (
+
+                              5.1
+
+                           )].
+
+                           Hematological Abnormalities
+
+                        Recommendations for LEQSELVI treatment interruption for hematologic abnormalities are described in
+                              Table 1
+
+                           [see Warnings and Precautions (
+
+                              5.9
+
+                           )].
+
+                           Table 1: Recommendations for LEQSELVI Treatment Interruption for Hematologic Abnormalities and Resumption
+
+                                      Laboratory Measure
+
+                                  |
+
+                                      Interruption  Criterion
+
+                                  |
+
+                                      Resumption  Criterion
+
+                                  |
+
+                                      Absolute Lymphocyte Count
+
+  (ALC)
+
+                                  |
+
+                                      <500 cells/mm3
+
+                                  |
+
+                                      ≥500 cells/mm3
+
+                                  |
+
+                                      Absolute Neutrophil Count
+
+  (ANC)
+
+                                  |
+
+                                      <1000 cells/mm3
+
+                                  |
+
+                                      ≥1000 cells/mm3
+
+                                  |
+
+                                      Hemoglobin
+
+                                  |
+
+                                      <8 g/dL
+
+                                  |
+
+                                      ≥8 g/dL
+
+                                  |

@@ -1,0 +1,10 @@
+DailyMed 7d6447e3-22c9-48d9-87c0-d0b576d7ea9e | Cyclophosphamide | 5.1 Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections
+
+Cyclophosphamide can cause myelosuppression (leukopenia, neutropenia, thrombocytopenia and anemia), bone marrow failure, and severe immunosuppression which may lead to serious and sometimes fatal infections, including sepsis and septic shock. Latent infections can be reactivated
+  [see ADVERSE REACTIONS (6.2)].
+
+                        Antimicrobial prophylaxis may be indicated in certain cases of neutropenia at the discretion of the managing physician. In case of neutropenic fever, antibiotic therapy is indicated. Antimycotics and/or antivirals may also be indicated.
+
+                        Monitoring of complete blood counts is essential during cyclophosphamide treatment so that the dose can be adjusted, if needed. Cyclophosphamide should not be administered to patients with neutrophils ≤1,500/mm
+  3 and platelets <50,000/mm
+  3. Cyclophosphamide treatment may not be indicated, or should be interrupted, or the dose reduced, in patients who have or who develop a serious infection. G-CSF may be administered to reduce the risks of neutropenia complications associated with cyclophosphamide use. Primary and secondary prophylaxis with G-CSF should be considered in all patients considered to be at increased risk for neutropenia complications. The nadirs of the reduction in leukocyte count and thrombocyte count are usually reached in weeks 1 and 2 of treatment. Peripheral blood cell counts are expected to normalize after approximately 20 days. Bone marrow failure has been reported. Severe myelosuppression may be expected particularly in patients pretreated with and/or receiving concomitant chemotherapy and/or radiation therapy.

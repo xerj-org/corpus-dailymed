@@ -1,0 +1,9 @@
+DailyMed 9dff10ec-6a55-47b6-a458-b7c39e32dc55 | Temozolomide | 5.3 Pneumocystis Pneumonia
+
+Pneumocystis pneumonia (PCP) has been reported in patients receiving Temozolomide. The risk of PCP is increased in patients receiving steroids or with longer treatment regimens of Temozolomide.
+
+                        For patients with newly diagnosed glioblastoma, provide PCP prophylaxis for all patients during the concomitant phase. Continue PCP prophylaxis in patients who experience lymphopenia, until resolution to Grade 1 or less
+
+  [see Dosage and Administration (2.1)].
+
+                        Monitor all patients receiving Temozolomide for the development of lymphopenia and PCP

@@ -1,0 +1,5 @@
+DailyMed 7a6967b3-5563-4bed-9eee-d400f800e799 | Clindamycin | Nephrotoxicity
+
+Clindamycin is potentially nephrotoxic and cases with acute kidney injury have been reported. Consider monitoring of renal function particularly in patients with pre-existing renal dysfunction or those taking concomitant nephrotoxic drugs. In case of acute kidney injury, discontinue clindamycin when no other etiology is identified.
+
+                           Usage in Meningitis—Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.

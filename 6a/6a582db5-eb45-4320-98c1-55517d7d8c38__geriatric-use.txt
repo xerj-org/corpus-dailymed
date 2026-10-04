@@ -1,0 +1,9 @@
+DailyMed 6a582db5-eb45-4320-98c1-55517d7d8c38 | Isosorbide Mononitrate | Geriatric Use
+
+Clinical studies of isosorbide mononitrate extended-release tablets did not include sufficient information on patients age 65 and over to determine whether they respond differently from younger patients. Other reported clinical experience for isosorbide mononitrate extended-release tablets has not identified differences in response between elderly and younger patients. Clinical experience for organic nitrates reported in the literature identified a potential for severe hypotension and increased sensitivity to nitrates in the elderly. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+                        Elderly patients may have reduced baroreceptor function and may develop severe orthostatic hypotension when vasodilators are used. Isosorbide mononitrate extended-release tablets should therefore be used with caution in elderly patients who may be volume depleted, on multiple medications or who, for whatever reason, are already hypotensive. Hypotension induced by isosorbide mononitrate may be accompanied by paradoxical bradycardia and increased angina pectoris.
+
+                        Elderly patients may be more susceptible to hypotension and may be at a greater risk of falling at therapeutic doses of nitroglycerin.
+
+                        Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy, particularly in the elderly.

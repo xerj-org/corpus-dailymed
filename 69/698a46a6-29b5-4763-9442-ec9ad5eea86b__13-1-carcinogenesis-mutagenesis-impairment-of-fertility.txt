@@ -1,0 +1,17 @@
+DailyMed 698a46a6-29b5-4763-9442-ec9ad5eea86b | Nitroglycerin | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Animal carcinogenesis studies with sublingual nitroglycerin have not been performed.
+
+                        Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes. At high dose, the incidences of hepatocellular carcinomas in both sexes were 52% vs. 0% in controls, and incidences of testicular tumors were 52% vs. 8% in controls. Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
+
+                        Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories. There was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, p.o., or in in vitro cytogenic tests in rat and dog tissues and for chromosomal aberration in Chinese hamster ovary cells.
+
+                        In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for six months prior to mating of the F
+
+  0 generation with treatment continuing through successive F
+
+  1 and F
+
+  2 generations. The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings. No specific effect on the fertility of the F
+
+  0generation was seen. Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males. In this three-generation study there was no clear evidence of teratogenicity.

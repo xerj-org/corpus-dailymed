@@ -1,0 +1,11 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | Other Special Populations
+
+NADH-Cytochrome b5 Reductase Deficiency
+
+                        Patients with NADH-cytochrome b5 reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia when metoclopramide is administered. In patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (see
+                              OVERDOSAGE
+                           ).
+
+                           CYP2D6 Poor Metabolizers
+
+                        Metoclopramide is a substrate of CYP2D6. The elimination of metoclopramide may be slowed in patients who are CYP2D6 poor metabolizers (compared to patients who are CYP2D6 intermediate, extensive , or ultra-rapid metabolizers); possibly increasing the risk of dystonic and other adverse reactions to metoclopramide injection. Avoid metoclopramide injection in patients who are poor CYP2D6 metabolizers. If use in unavoidable, monitor for adverse reactions.

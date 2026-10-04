@@ -1,0 +1,3 @@
+DailyMed 82f1445c-b2c6-445a-82cf-ba8825fac776 | NovolinN | 8.6 Renal Impairment
+
+The effect of renal impairment on the pharmacokinetics and pharmacodynamics of NOVOLIN N has not been studied. Patients with renal impairment are at increased risk of hypoglycemia and may require more frequent NOVOLIN N dose adjustment and more frequent blood glucose monitoring [see Warnings and Precautions (5.3)].

@@ -1,0 +1,3 @@
+DailyMed 64b21e68-610c-5194-ccb2-9d9f6ff8cda9 | Brimonidine Tartrate | 7.4 Monoamine Oxidase Inhibitors
+
+Monoamine oxidase (MAO) inhibitors may theoretically interfere with the metabolism of brimonidine and potentially result in an increased systemic side-effect such as hypotension. Caution is advised in patients taking MAO inhibitors which can affect the metabolism and uptake of circulating amines.

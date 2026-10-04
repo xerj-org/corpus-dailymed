@@ -1,0 +1,5 @@
+DailyMed 01bdc479-1f1f-af94-837c-12e7e861321a | Prednisone delayed release | 5.11 Neuromuscular Effects
+
+Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that they affect the ultimate outcome or natural history of the disease. The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
+
+                        An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium). This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis. Elevation of creatine kinase may occur. Clinical improvement or recovery after stopping corticosteroids may require weeks to years.

@@ -1,0 +1,81 @@
+DailyMed f6291230-7598-407a-aef0-ec1f09277d2a | celecoxib | 14.7 Special Studies
+
+Adenomatous Polyp Prevention Studies(NCT00005094 and NCT00141193)
+
+  Cardiovascular safety was evaluated in two randomized, double-blind, placebo-controlled, three year studies involving patients with Sporadic Adenomatous Polyps treated with celecoxib capsules: the APC trial (Adenoma Prevention with Celecoxib) and the PreSAP trial (Prevention of Spontaneous Adenomatous Polyps). In the APC trial, there was a dose-related increase in the composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke with celecoxib compared to placebo over 3 years of treatment. The PreSAP trial did not demonstrate a statistically significant increased risk for the same composite endpoint (adjudicated):
+
+                        • In the APC trial, the hazard ratios compared to placebo for a composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke were 3.4 (95% CI 1.4 - 8.5) with celecoxib 400 mg twice daily and 2.8 (95% CI 1.1 - 7.2) with celecoxib 200 mg twice daily. Cumulative rates for this composite endpoint over 3 years were 3.0% (20/671 subjects) and 2.5% (17/685 subjects), respectively, compared to 0.9% (6/679 subjects) with placebo treatment. The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction.
+
+  • In the PreSAP trial, the hazard ratio for this same composite endpoint (adjudicated) was 1.2 (95% CI 0.6 - 2.4) with celecoxib 400 mg once daily compared to placebo. Cumulative rates for this composite endpoint over 3 years were 2.3% (21/933 subjects) and 1.9% (12/628 subjects), respectively.
+
+                        Clinical trials of other COX-2 selective and non-selective NSAIDs of up to three-years duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal. As a result, all NSAIDs are considered potentially associated with this risk.
+
+                           Celecoxib Long-Term Arthritis Safety Study (CLASS)
+
+  This was a prospective, long-term, safety outcome study conducted post-marketing in approximately 5,800 OA patients and 2,200 RA patients. Patients received celecoxib capsules 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily or diclofenac 75 mg twice daily (common therapeutic doses). Median exposures for celecoxib capsules (n = 3,987) and diclofenac (n = 1,996) were 9 months while ibuprofen (n = 1,985) was 6 months. The primary endpoint of this outcome study was the incidence of complicated ulcers (gastrointestinal bleeding, perforation or obstruction). Patients were allowed to take concomitant low-dose (≤325 mg/day) aspirin (ASA) for cardiovascular prophylaxis (ASA subgroups: celecoxib capsules, n = 882; diclofenac, n = 445; ibuprofen, n = 412). Differences in the incidence of complicated ulcers between celecoxib capsules and the combined group of ibuprofen and diclofenac were not statistically significant.
+
+                        Patients on celecoxib capsules and concomitant low-dose ASA (N=882) experienced 4-fold higher rates of complicated ulcers compared to those not on ASA (N=3105). The Kaplan-Meier rate for complicated ulcers at 9 months was 1.12% versus 0.32% for those on low-dose ASA and those not on ASA, respectively [
+
+  see Warnings and Precautions (
+
+   5.4)
+
+  ].
+
+                        The estimated cumulative rates at 9 months of complicated and symptomatic ulcers for patients treated with celecoxib capsules 400 mg twice daily are described in Table 7. Table 7 also displays results for patients less than or greater than 65 years of age. The difference in rates between celecoxib capsules alone and celecoxib capsules with ASA groups may be due to the higher risk for GI events in ASA users.
+
+                           Table 7: Complicated and Symptomatic Ulcer Rates in Patients Taking Celecoxib Capsules 400 mg Twice Daily (Kaplan-Meier Rates at 9 months [%]) Based on Risk Factors
+
+                           All Patients
+
+                          Celecoxib alone (n=3105)          0.78 
+
+    Celecoxib with ASA (n=882)     2.19 
+
+                           Patients <65 Years
+
+    Celecoxib alone (n=2025)          0.47 
+
+    Celecoxib with ASA (n=403)     1.26 
+
+                           Patients ≥65 Years
+
+    Celecoxib alone (n=1080)          1.40 
+
+    Celecoxib with ASA (n=479)     3.06 
+
+                        In a small number of patients with a history of ulcer disease, the complicated and symptomatic ulcer rates in patients taking celecoxib capsules alone or celecoxib capsules with ASA were, respectively, 2.56% (n=243) and 6.85% (n=91) at 48 weeks. These results are to be expected in patients with a prior history of ulcer disease [
+
+  see Warnings and Precautions (
+
+   5.4) and Adverse Reactions (
+
+   6.1)
+
+  ].
+
+                        Cardiovascular safety outcomes were also evaluated in the CLASS trial. Kaplan-Meier cumulative rates for investigator-reported serious cardiovascular thromboembolic adverse events (including MI, pulmonary embolism, deep venous thrombosis, unstable angina, transient ischemic attacks, and ischemic cerebrovascular accidents) demonstrated no differences between the celecoxib capsules, diclofenac, or ibuprofen treatment groups. The cumulative rates in all patients at nine months for celecoxib capsules, diclofenac, and ibuprofen were 1.2%, 1.4%, and 1.1%, respectively. The cumulative rates in non-ASA users at nine months in each of the three treatment groups were less than 1%. The cumulative rates for myocardial infarction in non-ASA users at nine months in each of the three treatment groups were less than 0.2%. There was no placebo group in the CLASS trial, which limits the ability to determine whether the three drugs tested had no increased risk of CV events or if they all increased the risk to a similar degree. In the CLASS study, the Kaplan- Meier cumulative rates at 9 months of peripheral edema in patients on celecoxib capsule 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively. The rates of hypertension from the CLASS trial in the celecoxib capsule, ibuprofen and diclofenac-treated patients were 2.4%, 4.2% and 2.5%, respectively.
+
+                           Endoscopic Studies
+
+  The correlation between findings of short-term endoscopic studies with celecoxib capsules and the relative incidence of clinically significant serious upper GI events with long-term use has not been established. Serious clinically significant upper GI bleeding has been observed in patients receiving celecoxib capsules in controlled and open-labeled trials [
+
+  see Warnings and Precautions (
+
+   5.4) and Clinical Studies (
+
+   14.6)
+
+  ]
+
+                        A randomized, double-blind study in 430 RA patients was conducted in which an endoscopic examination was performed at 6 months. The incidence of endoscopic ulcers in patients taking celecoxib capsules 200 mg twice daily was 4% vs. 15% for patients taking diclofenac SR 75 mg twice daily. However, celecoxib capsules was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [
+
+  see Clinical Studies (
+
+   14.7)
+
+  ].
+
+                        The incidence of endoscopic ulcers was studied in two 12-week, placebo-controlled studies in 2157 OA and RA patients in whom baseline endoscopies revealed no ulcers. There was no dose relationship for the incidence of gastroduodenal ulcers and the dose of celecoxib capsules (50 mg to 400 mg twice daily). The incidence for naproxen 500 mg twice daily was 16.2% and 17.6% in the two studies, for placebo was 2.0% and 2.3%, and for all doses of celecoxib capsules the incidence ranged between 2.7% to 5.9%. There have been no large, clinical outcome studies to compare clinically relevant GI outcomes with celecoxib capsules and naproxen.
+
+                        In the endoscopic studies, approximately 11% of patients were taking aspirin (≤ 325 mg/day). In the celecoxib capsules groups, the endoscopic ulcer rate appeared to be higher in aspirin users than in non-users. However, the increased rate of ulcers in these aspirin users was less than the endoscopic ulcer rates observed in the active comparator groups, with or without aspirin.

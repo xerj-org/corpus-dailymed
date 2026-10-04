@@ -1,0 +1,3 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 10 OVERDOSAGE
+
+An overdosage of glimepiride, as with other sulfonylureas, can produce severe hypoglycemia. Mild episodes of hypoglycemia can be treated with oral glucose. Severe hypoglycemic reactions constitute medical emergencies requiring immediate treatment. Severe hypoglycemia with coma, seizure, or neurological impairment can be treated with glucagon or intravenous glucose. Continued observation and additional carbohydrate intake may be necessary because hypoglycemia may recur after apparent clinical recovery [see Warnings and Precautions (5.1)].

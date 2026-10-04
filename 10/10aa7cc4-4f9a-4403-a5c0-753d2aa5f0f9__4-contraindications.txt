@@ -1,0 +1,35 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 4 CONTRAINDICATIONS
+
+Dapagliflozin and metformin HCl extended-release tablets are contraindicated in patients with:
+
+                     Severe renal impairment (eGFR below 30 mL/min/1.73 m
+
+   2) or end-stage renal disease
+
+   [see
+
+    Warnings and Precautions (5.1)]
+
+   .
+
+                     History of a serious hypersensitivity reaction to dapagliflozin, metformin HCl, or any of the excipients in dapagliflozin and metformin HCl extended-release tablets. Serious hypersensitivity reactions, including anaphylaxis and angioedema have been reported with dapagliflozin
+
+   [see
+
+    Adverse Reactions (6.1)]
+
+   .
+
+                     Acute or chronic metabolic acidosis, including diabetic ketoacidosis, with or without coma. Diabetic ketoacidosis should be treated with insulin
+
+   [see
+
+    Warnings and Precautions (5.1) 
+
+   and
+
+     
+
+    Warnings and Precautions (5.2)]
+
+   .

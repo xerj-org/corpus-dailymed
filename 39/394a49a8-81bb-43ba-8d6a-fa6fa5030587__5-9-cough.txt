@@ -1,0 +1,3 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 5.9 Cough
+
+Presumably caused by inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy. Consider the possibility of angiotensin converting enzyme inhibitor induced-cough in the differential diagnosis of cough.

@@ -1,0 +1,37 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 2.4 Recommended Dosage in Patients with Renal Impairment
+
+The recommended dosage of dapagliflozin and metformin HCl extended-release tablets in patients with an estimated glomerular filtration rate (eGFR) greater than or equal to 45 mL/min/1.73 m
+
+   2is the same as the recommended dosage in patients with normal renal function.
+
+                           Initiation of dapagliflozin and metformin HCl extended-release tablets are not recommended in patients with an eGFR between 30 and 45 mL/min/1.73 m
+
+   2. Assess the benefit and risk of continuing therapy if eGFR falls persistently below this level.
+
+                           Dapagliflozin is likely to be ineffective to improve glycemic control in patients with eGFR less than 45 mL/min/1.73 m
+
+   2.
+
+                           Metformin HCl initiation is not recommended for patients with eGFR less than 45 mL/min/1.73 m
+
+   2.
+
+                           Dapagliflozin and metformin HCl extended-release tablets are contraindicated in patients with an eGFR below 30 mL/min/1.73 m
+
+   2and end-stage renal disease due to the metformin HCl component
+
+   [see
+
+    Contraindications (4),
+
+    Warnings and Precautions (5.1,
+
+    5.2),
+
+   and
+
+     
+
+    Use in Specific Populations (8.6)]
+
+   .

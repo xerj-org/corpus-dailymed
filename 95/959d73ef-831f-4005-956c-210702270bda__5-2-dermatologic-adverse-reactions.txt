@@ -1,0 +1,9 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 5.2 Dermatologic Adverse Reactions
+
+REVTORPYK can cause severe rash.
+
+                        In Study 1 of VIKTORIA-1, rash occurred in 30% of patients treated with REVTORPYK in combination with fulvestrant and palbociclib, including Grade 3 events in 6% of patients. The median time to onset was 21 days (range: 3 to 260 days) after starting REVTORPYK. Rash led to REVTORPYK dose reduction in 5% and permanent discontinuation in 0.8% of patients. Rash occurred in 40% of patients treated with REVTORPYK in combination with fulvestrant, including Grade 3 events in 5% of patients. Rash led to REVTORPYK dose reduction in 6% and permanent discontinuation in 0.8% of patients. The median time to onset was 31.5 days (range: 2 to 407 days) after starting REVTORPYK.
+
+                        Monitor patients receiving REVTORPYK for rash and infectious sequelae. Instruct patients to limit sun exposure during REVTORPYK treatment.
+
+                        Withhold, reduce dose, or permanently discontinue REVTORPYK based on severity [see Dosage and Administration (2.4)].

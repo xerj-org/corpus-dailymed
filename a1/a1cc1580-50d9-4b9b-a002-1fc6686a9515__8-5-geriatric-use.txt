@@ -1,0 +1,8 @@
+DailyMed a1cc1580-50d9-4b9b-a002-1fc6686a9515 | Nelarabine | 8.5 Geriatric Use
+
+Clinical studies of nelarabine injection did not include sufficient numbers of patients age 65 and over to determine whether they respond differently from younger patients. In an exploratory analysis, increasing age, especially age 65 years and older, appeared to be associated with increased rates of neurologic adverse reactions. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection
+  [see
+
+                              Use in Specific Populations (8.6)
+
+                           ].

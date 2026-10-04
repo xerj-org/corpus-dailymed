@@ -1,0 +1,221 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates in clinical practice.
+
+                        A total of 1254 adult patients received PRIALT as a continuous infusion in acute and severe chronic pain trials with an exposure of 662 patient-years. The mean duration of treatment was 193 days with 173 patients (14%) treated for at least 1 year. The average final dose was 17.6 mcg/day (0.73 mcg/hr).
+
+                        The most frequently reported adverse reactions (≥ 25%) in clinical trials were dizziness, nausea, confusional state and nystagmus. Slower titration of PRIALT may result in fewer serious adverse reactions and discontinuation of PRIALT for adverse reactions [
+
+  see Clinical Studies (
+
+   14)
+
+  and
+
+  Dosage and Administration (
+
+   2)
+
+  ].
+
+                        Adverse reactions during the slow titration placebo-controlled trial that occurred in 5% or greater of patients and more commonly with PRIALT than with placebo are summarized in
+
+  Table 1.
+
+                           Table 1. Incidence of Adverse Reactions in Slow Titration Placebo-Controlled Trial by Percent (Events That Occurred in ≥ 5% of Patients and More Commonly with PRIALT than with Placebo)
+
+                                    MedDRA System Organ Class
+
+  MedDRA Preferred term
+
+     |
+
+                                    PRIALT
+
+  N=112
+
+     |
+
+                                    Placebo
+
+  N=108
+
+     |
+
+                                 Percentage of Patients |
+
+                                    Any AE
+                                  |
+                                 93 |
+                                 82 |
+
+                                    Ear and Labyrinth Disorders
+                                  |
+                                  |
+                                  |
+
+                                      Vertigo |
+                                 7 |
+                                 0 |
+
+                                    Eye Disorders
+                                  |
+                                  |
+                                  |
+
+                                      Vision Blurred |
+                                 12 |
+                                 3 |
+
+                                    Gastrointestinal Disorders
+                                  |
+                                  |
+                                  |
+
+                                      Diarrhea |
+                                 18 |
+                                 15 |
+
+                                      Nausea |
+                                 40 |
+                                 29 |
+
+                                      Vomiting |
+                                 16 |
+                                 14 |
+
+                                    General Disorders and Administration Site Conditions
+                                  |
+                                  |
+                                  |
+
+                                      Asthenia |
+                                 18 |
+                                 6 |
+
+                                      Gait Abnormal |
+                                 14 |
+                                 2 |
+
+                                      Pyrexia |
+                                 5 |
+                                 3 |
+
+                                      Rigors |
+                                 7 |
+                                 5 |
+
+                                    Infections and Infestations
+                                  |
+                                  |
+                                  |
+
+                                      Sinusitis |
+                                 5 |
+                                 2 |
+
+                                    Metabolism and Nutrition Disorders
+                                  |
+                                  |
+                                  |
+
+                                      Anorexia |
+                                 6 |
+                                 2 |
+
+                                    Musculoskeletal and Connective Tissue Disorders
+                                  |
+                                  |
+                                  |
+
+                                      Muscle Spasms |
+                                 6 |
+                                 4 |
+
+                                      Pain in Limb |
+                                 5 |
+                                 2 |
+
+                                    Nervous System Disorders
+                                  |
+                                  |
+                                  |
+
+                                      Amnesia |
+                                 8 |
+                                 0 |
+
+                                      Ataxia |
+                                 14 |
+                                 1 |
+
+                                      Dizziness |
+                                 46 |
+                                 13 |
+
+                                      Dysarthria |
+                                 7 |
+                                 0 |
+
+                                      Dysgeusia |
+                                 5 |
+                                 5 |
+
+                                      Headache |
+                                 13 |
+                                 11 |
+
+                                      Memory Impairment |
+                                 7 |
+                                 1 |
+
+                                      Nystagmus |
+                                 8 |
+                                 0 |
+
+                                      Somnolence |
+                                 17 |
+                                 10 |
+
+                                      Tremor |
+                                 7 |
+                                 3 |
+
+                                    Psychiatric Disorders
+                                  |
+                                  |
+                                  |
+
+                                      Anxiety |
+                                 8 |
+                                 3 |
+
+                                      Confusional State |
+                                 15 |
+                                 5 |
+
+                                      Insomnia |
+                                 6 |
+                                 9 |
+
+                                    Renal and Urinary Disorders
+                                  |
+                                  |
+                                  |
+
+                                      Urinary Retention |
+                                 9 |
+                                 0 |
+
+                                    Skin and Subcutaneous Disorders
+                                  |
+                                  |
+                                  |
+
+                                      Pruritis |
+                                 7 |
+                                 7 |
+
+                                      Sweating Increased |
+                                 5 |
+                                 6 |

@@ -1,0 +1,123 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Gastroesophageal Reflux Disease
+
+In two multicenter, double-blind, placebo-controlled studies in patients with gastroesophageal reflux disease (GERD) and endoscopically proven erosions and/or ulcers, cimetidine was significantly more effective than placebo in healing lesions. The endoscopically confirmed healing rates were:
+
+                           Table 6. Rate of Endoscopically Confirmed Healing of Erosions and/or Ulcers
+
+                                    Trial
+                                  |
+                                  |
+
+                                    Cimetidine
+
+                                    (800 mg
+
+                                    twice daily)
+                                  |
+
+                                    Cimetidine
+
+                                    (400 mg
+
+                                    four times daily)
+                                  |
+
+                                    Placebo
+                                  |
+
+                                    p-Value
+
+                                    (800 mg
+
+                                    twice daily vs
+
+                                    placebo)
+                                  |
+
+                                    1
+
+                                  |
+
+                                    Week 6
+
+                                  |
+
+                                    45%
+
+                                  |
+
+                                    52%
+
+                                  |
+
+                                    26%
+
+                                  |
+
+                                    0.02
+
+                                  |
+
+                                  |
+
+                                    Week 12
+
+                                  |
+
+                                    60%
+
+                                  |
+
+                                    66%
+
+                                  |
+
+                                    42%
+
+                                  |
+
+                                    0.02
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    Week 6
+
+                                  |
+
+                                    50%
+
+                                  |
+                                  |
+
+                                    20%
+
+                                  |
+
+                                    < 0.01
+
+                                  |
+
+                                  |
+
+                                    Week 12
+
+                                  |
+
+                                    67%
+
+                                  |
+                                  |
+
+                                    36%
+
+                                  |
+
+                                    < 0.01
+
+                                  |
+
+                        In these trials cimetidine was superior to placebo by most measures in improving symptoms of day- and night-time heartburn, with many of the differences statistically significant. The four times daily regimen was generally somewhat better than the twice daily regimen where these were compared.

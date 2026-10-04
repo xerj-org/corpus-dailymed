@@ -1,0 +1,3 @@
+DailyMed 2ce8a4fe-8aa6-4dc5-ad0f-3984ae68c4bc | Lidocaine | Allergic Reactions
+
+Allergic and anaphylactoid reactions associated with lidocaine, although rare, can occur. They are characterized by angioedema, bronchospasm, dermatitis, dyspnea, hypersensitivity, laryngospasm, pruritus, shock, and urticaria. If they occur, they should be managed by conventional means. The detection of sensitivity by skin testing is of doubtful value.

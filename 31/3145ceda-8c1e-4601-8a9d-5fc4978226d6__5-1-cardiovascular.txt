@@ -1,0 +1,28 @@
+DailyMed 3145ceda-8c1e-4601-8a9d-5fc4978226d6 | Sildenafil | 5.1 Cardiovascular
+
+There is a potential for cardiac risk of sexual activity in patients with preexisting cardiovascular disease. Therefore, treatments for erectile dysfunction, including sildenafil tablets, should not be generally used in men for whom sexual activity is inadvisable because of their underlying cardiovascular status. The evaluation of erectile dysfunction
+
+  should include a determination of potential underlying causes and the identification of appropriate treatment following a complete medical assessment.
+
+  Sildenafil tablets have systemic vasodilatory properties that resulted in transient decreases in supine blood pressure in healthy volunteers (mean maximum decrease of 8.4/5.5 mmHg),
+
+                        [
+
+  see Clinical Pharmacology 
+
+   (12.2)
+
+                           ]
+
+                              .
+                           While this normally would be expected to be of little consequence in most patients, prior to prescribing sildenafil tablets, physicians should carefully consider whether their patients with underlying cardiovascular disease could be affected adversely by such vasodilatory effects, especially in combination with sexual activity.
+
+  Use with caution in patients with the following underlying conditions which can be particularly sensitive to the actions of vasodilators including sildenafil tablets – those with left ventricular outflow obstruction (e.g., aortic stenosis, idiopathic hypertrophic subaortic stenosis) and those with severely impaired autonomic control of blood pressure.
+
+  There are no controlled clinical data on the safety or efficacy of sildenafil tablets in the following groups; if prescribed, this should be done with caution.
+
+  •  Patients who have suffered a myocardial infarction, stroke, or life-threatening arrhythmia within the last 6 months;
+
+  •  Patients with resting hypotension (BP <90/50 mmHg) or hypertension (BP >170/110 mmHg);
+
+  •  Patients with cardiac failure or coronary artery disease causing unstable angina.

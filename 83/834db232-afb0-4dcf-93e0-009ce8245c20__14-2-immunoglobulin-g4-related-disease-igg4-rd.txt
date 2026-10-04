@@ -1,0 +1,95 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 14.2 Immunoglobulin G4-Related Disease (IgG4-RD)
+
+The efficacy of UPLIZNA for the treatment of IgG4-RD was established in Study 2 (NCT04540497), a randomized, double-blind, multicenter, 52-week placebo-controlled trial that enrolled 135 adult patients who met the following eligibility criteria:
+
+                           Newly diagnosed or recurrent IgG4-RD that required glucocorticoid (GC) treatment at screening.
+
+                           Confirmed history of organ involvement at any time in the course of disease.
+
+                        The concomitant use of biologic and non-biologic immunosuppressive agents was prohibited during the blinded phase of the trial. Of the 135 enrolled IgG4-RD patients, 68 patients were randomized to receive UPLIZNA and 67 were randomized to receive placebo. The baseline demographic and disease characteristics were generally balanced between the treatment groups. Females accounted for 35% of the study population. Thirty-nine percent of patients were White, 47% Asian, and 1% Black or African American. The mean age was 58 years (range 24 to 80 years). The median disease duration was 0.9 years. Forty-six percent of patients were newly diagnosed with IgG4-RD and 54% had recurrent disease.
+
+                        Patients were at a uniform 20 mg per day dose of glucocorticoids at the time of randomization and then began a prespecified taper of 5 mg dose every two weeks until discontinuation at the end of 8 weeks. The use of glucocorticoids during the trial was permitted for premedication for investigational treatment, treatment for a relapse and in certain situations other than an IgG4-RD flare. UPLIZNA was administered according to the recommended dosage regimen [see Dosage and Administration (2.4)].
+
+                        Disease flare was defined as new/worsening signs or symptoms that were positively adjudicated and warranted treatment by the investigator. All potential flares were assessed by the investigator and subsequently reviewed by a blinded, independent, adjudication committee, who determined whether the flare met one or more of the protocol-defined, organ-specific flare diagnostic criteria.
+
+                        The primary efficacy endpoint was the time to First Treated and Adjudication Committee (AC)-determined IgG4-RD flare within the 52-week RCP. The time to the First Treated and AC determined IgG4-RD flare was significantly longer in the UPLIZNA group, compared with the placebo group (Figure 2). UPLIZNA reduced the risk of treated and AC-determined IgG4-RD flare by 87%, compared with placebo (hazard ratio: 0.13; p < 0.0001) (see Table 6).
+
+                           Figure 2. Kaplan-Meier Plot of Time to First Treated and Adjudication Committee-Determined IgG4-RD Flare During the Randomized-Controlled Period
+
+                                  |
+
+                        Patients who did not complete the RCP and who did not have a treated and AC-determined flare during the RCP were censored at the time of discontinuation.
+
+                           Table 7. Efficacy Results in Study 2 in IgG4-RD Patients
+
+                                  |
+                                 Treatment Group |
+
+                                 UPLIZNA
+
+N = 68 |
+                                 Placebo
+
+N = 67 |
+
+                                    Time to The First Treated and AC-Determined IgG4-RD Flare (Primary Efficacy Endpoint)
+                                  |
+
+                                   Number of subjects with a IgG4-RD flare |
+                                 7 (10.3%) |
+                                 40 (59.7%) |
+
+                                   Hazard ratio (95% CI)Based on Cox regression method, with placebo as the reference group.
+
+                                  |
+                                 0.13 (0.06, 0.28) |
+
+                                   p-value
+                                  |
+                                 < 0.0001 |
+
+                                   |
+
+                                 Annualized Flare Rate for Treated and AC-Determined IgG4-RD Flares |
+                                 0.10 |
+                                 0.71 |
+
+                                   Rate ratio (95% CI)Estimated from the negative binomial regression, with placebo as the reference group.
+
+                                  |
+                                 0.14 (0.06, 0.31) |
+
+                                   p-value
+                                  |
+                                 < 0.0001 |
+
+                                 Proportion of Subjects Achieving Treatment-free, Flare-Free Complete Remission at Week 52Defined as the lack of evident disease activity (IgG4-RD RI = 0 or investigator's decision) at Week 52, no AC-determined flare during the RCP, and no treatment for flare or disease control except the required 8-week GC taper.
+
+                                  |
+                                 39 (57.4%) |
+                                 15 (22.4%) |
+
+                                   Difference (95% CI)Based on logistic regression model, with placebo as the reference group.
+
+                                  |
+                                 35.0% (19.5%, 50.5%) |
+
+                                   p-value
+                                  |
+                                 < 0.0001 |
+
+                                 Proportion of Subjects Achieving Corticosteroid-free, Flare-Free and Complete Remission at Week 52Defined as the lack of evident disease activity (IgG4-RD RI = 0 or investigator's decision) at Week 52, no AC-determined flare during the RCP, and no corticosteroid treatment for flare or disease control except the required 8-week GC taper.
+
+                                  |
+                                 40 (58.8%) |
+                                 15 (22.4%) |
+
+                                   Difference (95% CI)
+                                  |
+                                 36.5% (21.0%, 51.9%) |
+
+                                   p-value
+                                  |
+                                 < 0.0001 |
+
+                        For all patients in the trial, the mean (SD) total GC use for IgG4-RD control per patient other than the planned GC taper was lower in the UPLIZNA-treated group compared with the placebo-treated group, with a mean (SD) of 118.25 (438.97) mg prednisone equivalent versus 1384.53 (1723.26) mg prednisone equivalent, respectively during the RCP. Forty-two (62.7%) placebo-treated patients and 7 (10.3%) UPLIZNA-treated patients received GC for IgG4-RD control other than the planned GC taper. The mean (SD) total GC use per patient for the 42 placebo-treated patients was 2202.76 (1709) mg prednisone equivalent and for the 7 UPLIZNA-treated patients was 1148.71 (878) mg prednisone equivalent.

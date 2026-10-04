@@ -1,0 +1,14 @@
+DailyMed c39be14b-e881-4586-b77e-4747db494954 | Pantoprazole Sodium | 2.5 Compatibility Information
+
+Administer pantoprazole sodium for injection intravenously through a dedicated line or through a Y-site.
+
+                           When administering through a Y-site, pantoprazole sodium for injection is compatible with the following solutions:
+                                 5% Dextrose Injection
+
+                                 0.9% Sodium Chloride Injection
+
+                           Midazolam hydrochloride is incompatible with Y-site administration of pantoprazole sodium for injection.
+
+                           Pantoprazole sodium for injection may not be compatible with products containing zinc [see Warnings and Precautions (5.3)].
+
+                           Stop administering pantoprazole sodium for injection immediately through a Y-site if precipitation or discoloration occurs.

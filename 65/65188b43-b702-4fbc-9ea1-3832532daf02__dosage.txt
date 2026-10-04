@@ -1,0 +1,9 @@
+DailyMed 65188b43-b702-4fbc-9ea1-3832532daf02 | PancreVed | DOSAGE:
+
+Dose is administered before each meal. Estimate dose according to the severity of the condition and weight of the animal.
+
+                     Average dose/meal:
+
+                  Dogs - 2 - 3 tablets
+
+                  Cats - ½ - 1 tablet

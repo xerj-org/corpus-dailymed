@@ -1,0 +1,15 @@
+DailyMed dd62a2b8-300b-d92b-7b27-a30eaa68fdd3 | Tofacitinib | 5.3 Malignancy and Lymphoproliferative Disorders
+
+Malignancies and lymphoproliferative disorders may occur with tofacitinib extended-release tablets. Malignancies, including lymphomas and solid cancers, were observed in clinical studies of XELJANZ [see Adverse Reactions (6.1)].
+
+                        Other malignancies were observed in XELJANZ clinical studies and the postmarketing setting, including, but not limited to, lung cancer, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
+
+                        In RA Safety Study 1, a higher rate of malignancies (excluding non-melanoma skin cancer (NMSC)) was observed in patients treated with XELJANZ tablets 5 mg or 10 mg twice a day compared with TNF blockers. The incidence rate of malignancies (excluding NMSC) per 100 patient-years was 1.13 for XELJANZ tablets 10 mg twice a day, 1.13 for XELJANZ tablets 5 mg twice a day, and 0.77 for TNF blockers. Patients who are current or past smokers are at additional increased risk [see Clinical Studies (14.6)].
+
+                        Lymphomas and lung cancers, which are a subset of all malignancies in RA Safety Study 1, were observed at a higher rate in patients treated with XELJANZ tablets 5 mg twice a day and XELJANZ tablets 10 mg twice a day compared to those treated with TNF blockers. The incidence rate of lymphomas per 100 patient-years was 0.11 for XELJANZ tablets 10 mg twice a day, 0.07 for XELJANZ tablets 5 mg twice a day, and 0.02 for TNF blockers. The incidence rate of lung cancers per 100 patient-years among current and past smokers was 0.59 for XELJANZ tablets 10 mg twice a day, 0.48 for XELJANZ tablets 5 mg twice a day, and 0.27 for TNF blockers [see Clinical Studies (14.6)].
+
+                        Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with tofacitinib extended-release tablets, particularly in patients with a known malignancy (other than a successfully treated NMSC), patients who develop a malignancy while on treatment, and patients who are current or past smokers. XELJANZ 10 mg twice daily (or tofacitinib extended-release tablets 22 mg once daily) dosages are not recommended for the treatment of RA, PsA, or AS [see Dosage and Administration (2.3)].
+
+                           Non-Melanoma Skin Cancer
+
+                        Non-melanoma skin cancers (NMSCs) have been reported in patients treated with XELJANZ tablets. Periodic skin examination is recommended for patients who are at increased risk for skin cancer. In the UC population, treatment with XELJANZ tablets 10 mg twice daily was associated with greater risk of NMSC than treatment with placebo.

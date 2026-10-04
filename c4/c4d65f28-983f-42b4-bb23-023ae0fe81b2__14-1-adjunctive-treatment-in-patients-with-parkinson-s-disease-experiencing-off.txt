@@ -1,0 +1,233 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 14.1 Adjunctive Treatment in Patients with Parkinson's Disease Experiencing OFF Time on a Stable Dose of Levodopa.
+
+Two double-blind, placebo-controlled, multi-national, 24-week studies (Study 1 and Study 2) were conducted in PD patients experiencing "OFF" Time during treatment with carbidopa/levodopa and other PD medications, e.g., dopamine agonists, catechol-O-methyl transferase (COMT) inhibitors, anticholinergics, and/or amantadine. In both studies, the primary measure of effectiveness was the change from baseline in total daily "ON" Time without troublesome dyskinesia (i.e., "ON" Time without dyskinesia plus "ON" Time with non-troublesome dyskinesia), based on 18-hour diaries completed by patients for at least 3 days before each of the scheduled visits.  Secondary endpoints included "OFF" Time during the diary period and reduction in Unified PD Rating Scale (UPDRS) Part III (motor examination).
+
+                        In Study 1, patients (n=645) were randomized equally to treatment with XADAGO 50 mg/day (n=217 patients), XADAGO 100 mg/day (n=216 patients), or placebo (n=212 patients), and had at least one post-baseline assessment of "ON" Time.
+
+                        The percentages of patients taking stable doses of other classes of PD medications, in addition to levodopa/decarboxylase inhibitor, were: dopamine agonists (61%), COMT inhibitors (24%), anticholinergics (37%), and amantadine (14%). Use of MAOIs was prohibited. The average daily dosage of levodopa was 630 mg.  The mean duration of PD was approximately 8 years.
+
+                        In Study 1, XADAGO 50 mg/day and 100 mg/day significantly increased "ON" Time compared to placebo (Table 2). The increase in "ON" Time without troublesome dyskinesia was accompanied by a similar significant reduction in "OFF" Time and a reduction in Unified PD Rating Scale Part III (UPDRS III) scores assessed during "ON" Time (Table 3). Improvement in "ON" Time occurred without an increase in troublesome dyskinesia.
+
+                           Table 2: Change in Mean Total Daily "ON" Time
+
+   "ON" Time = "ON" Time without dyskinesia plus "ON" Time with non-troublesome dyskinesia
+
+ in Study 1
+
+                                  |
+                                 N |
+                                 Baseline (hours)
+
+ (mean ± SD)
+
+     |
+                                 Change from Baseline to Endpoint
+
+ (LSD
+
+     LSD: Least squares difference; a positive value indicates improvement
+
+ vs. placebo)
+
+(95% CI)
+
+     95% CI: 95% Confidence Interval
+
+p-value
+
+     |
+
+                                 Placebo |
+                                 212 |
+                                 9.3 ± 2.2 |
+                                 -- |
+
+                                 XADAGO 50 mg once daily |
+                                 217 |
+                                 9.4 ± 2.2 |
+                                 0.50 (0.03, 0.96)
+
+ p=0.0356
+
+     |
+
+                                 XADAGO 100 mg once daily |
+                                 216 |
+                                 9.6 ± 2.5 |
+                                 0.53 (0.07, 1.00)
+
+ p=0.0238
+
+     |
+
+                           Table 3: Secondary Measures of Effectiveness in Study 1
+
+                                  |
+                                 N |
+                                 Baseline (hours) (mean ± SD) |
+                                 Change from Baseline to Endpoint (LSD
+
+     LSD: Least squares difference; a negative value indicates improvement
+
+ vs. placebo) (95% CI)
+
+     95% CI: 95% Confidence Interval
+
+p-value
+
+     |
+
+                                    Change in mean daily "OFF" time
+                                  |
+
+                                 Placebo |
+                                 212 |
+                                 5.3 ± 2.1 |
+                                 -- |
+
+                                 XADAGO 50 mg once daily |
+                                 217 |
+                                 5.2 ± 2.0 |
+                                 -0.55 (-0.93, -0.17) p=0.0049 |
+
+                                 XADAGO 100 mg once daily |
+                                 216 |
+                                 5.2 ± 2.2 |
+                                 -0.57 (-0.95, -0.19) p=0.0037 |
+
+                                    Change in UPDRS Part III (Motor subscale)
+                                  |
+
+                                 Placebo |
+                                 212 |
+                                 28.6 ± 12.0 |
+                                 -- |
+
+                                 XADAGO 50 mg once daily |
+                                 217 |
+                                 27.3 ± 12.8 |
+                                 -1.75 (-3.24, -0.36) p=0.0212 |
+
+                                 XADAGO 100 mg once daily |
+                                 216 |
+                                 28.4 ± 13.5 |
+                                 -2.48 (-3.97, -1.00) p=0.0011 |
+
+                        The effect of XADAGO 100 mg on "ON" Time was only slightly numerically greater than the effect of XADAGO 50 mg. In addition, the time course of improvement in total daily "ON" Time was similar between both doses (Figure 1).  The time course of improvement in total daily "ON" Time showed numerically greater improvement with both XADAGO 50 mg and 100 mg compared to placebo, at all post-baseline timepoints (Figure 1).
+
+                           Figure 1: Mean Change from Baseline in Total Daily "ON" Time by Week and Treatment in Study 1
+
+                        Figure 2 shows the empirical cumulative distribution functions (CDF) for the change from baseline to Week 24 in total daily "ON" Time in Study 1. The cumulative percentage of patients with a change in "ON" Time was similar for the XADAGO 50 mg and 100 mg groups. The cumulative percentage of patients with an increase in "ON" Time is higher for both XADAGO 50 mg and 100 mg treated patients than for placebo patients.
+
+                           Figure 2: Study 1 Empirical Cumulative Distribution Functions (CDF) for the Change from Baseline to Week 24 in Total Daily "ON" Time
+
+                        Patients who dropped out of the study because of an adverse reaction, lack of efficacy, non-compliance, or withdrawal of consent were treated as treatment failures and assumed to have the smallest change from baseline among all patients. The failure rates are 6.1%, 5.6%, and 6.9% for the placebo group, XADAGO 50 mg/day group, and XADAGO 100 mg/day group, respectively.
+
+                        In Study 2, patients (n=549) were randomized to treatment with XADAGO 100 mg daily (n=274 patients) or placebo (n=275 patients) for up to 24 weeks. The percentages of patients taking stable doses of other classes of PD medication, in addition to levodopa/decarboxylase inhibitor, were: dopamine agonists (74%), COMT inhibitors (18%), anticholinergics (17%), and amantadine (30%). Use of MAOIs was prohibited. The average daily dosage of levodopa was 777 mg. The mean duration of PD was approximately 9 years.
+
+                        In Study 2, XADAGO was significantly better than placebo for increasing "ON"Time (Table 4). The observed increase in "ON" Time without troublesome dyskinesia was accompanied by a reduction in "OFF" Time of similar magnitude and a reduction in UPDRS III score (assessed during "ON" Time). The time course of effect was similar to that showed in the above figure for Study 1. As in Study 1, the increase in "ON" Time without troublesome dyskinesia was accompanied by a similar significant reduction in "OFF" Time and a reduction in Unified PD Rating Scale Part III (UPDRS III) scores assessed during "ON" Time (Table 5).
+
+                           Table 4: Change in Mean Total Daily "ON" Time
+
+   "ON" Time = "ON" Time without dyskinesia plus "ON" Time with non-troublesome dyskinesia
+
+ in Study 2
+
+                                  |
+                                 N |
+                                 Baseline (hours)
+
+ (mean ± SD)
+
+     |
+                                 Change from Baseline to Endpoint
+
+ (LSD
+
+     LSD: Least squares difference; a positive value indicates improvement;
+
+ vs. placebo) (95% CI)
+
+     95% CI: 95% Confidence Interval
+
+                                  |
+                                 p-value |
+
+                                 Placebo |
+                                 273 |
+                                 9.1 ± 2.5 |
+                                 -- |
+                                 -- |
+
+                                 XADAGO
+
+100 mg once daily
+
+     |
+                                 270 |
+                                 9.3 ± 2.4 |
+                                 0.99 (0.58, 1.39) |
+                                 < 0.001 |
+
+                           Table 5: Secondary Measures of Effectiveness in Study 2
+
+                                  |
+                                 N |
+                                 Baseline (hours)
+
+(mean ± SD)
+
+     |
+                                 Change from Baseline to Endpoint (LSD
+
+     LSD: Least squares difference; a negative value indicates improvement
+
+ vs. placebo) (95% CI)
+
+     95% CI: 95% Confidence Interval
+
+p-value
+
+     |
+
+                                    Change in mean daily "OFF" time
+                                  |
+
+                                 Placebo |
+                                 273 |
+                                 5.36 ± 2.00 |
+                                 -- |
+
+                                 XADAGO 100 mg once daily |
+                                 270 |
+                                 5.35 ± 1.98 |
+                                 -1.06 (-1.43, -0.69)
+
+<0.001
+
+     |
+
+                                    Change in UPDRS Part III (Motor subscale)
+                                  |
+
+                                 Placebo |
+                                 273 |
+                                 23.03 ± 12.75 |
+                                 -- |
+
+                                 XADAGO 100 mg once daily |
+                                 270 |
+                                 22.33 ± 11.79 |
+                                 -1.70 (-2.89, -0.50)
+
+0.005
+
+     |
+
+                        The time course of improvement in total daily "ON" Time showed numerically greater improvement with XADAGO 100 mg compared to placebo at all post-baseline timepoints (Figure 3).
+
+                           Figure 3: Mean Change from Baseline in Total Daily "ON" Time by Week and Treatment in Study 2
+
+                        Figure 4 shows the empirical cumulative distribution functions (CDF) for the change from baseline to Week 24 in total daily "ON" Time in Study 2. The cumulative percentage of patients with an increase in "ON" Time treated with XADAGO 50 mg to 100 mg is higher than for placebo patients.
+
+                           Figure 4: Study 2 Empirical Cumulative Distribution Functions (CDF) for the Change from Baseline to Week 24 in Total Daily "ON" Time

@@ -1,0 +1,3 @@
+DailyMed 0d2710f2-ee47-4114-ab5c-8dca74cdcb8d | Dexmedetomidine; Dexmedetomidine in Dextrose | 12.1 Mechanism of Action
+
+Dexmedetomidine is a relatively selective centrally acting alpha2-adrenergic agonist with sedative properties.  Alpha2 selectivity was observed in animals following slow intravenous infusion of low and medium doses (10 mcg/kg to 300 mcg/kg). Both alpha1 and alpha2 activity is observed following slow intravenous infusion of high doses (greater than or equal to 1000 mcg/kg) or with rapid intravenous administration.

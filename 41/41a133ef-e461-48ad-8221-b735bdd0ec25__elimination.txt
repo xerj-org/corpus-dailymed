@@ -1,0 +1,7 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Elimination
+
+Apixaban is eliminated in both urine and feces. Renal excretion accounts for about 27% of total clearance. Biliary and direct intestinal excretion contributes to elimination of apixaban in the feces.
+
+                              Apixaban has a total clearance of approximately 3.3 L/hour and an apparent half-life of approximately 12 hours following oral administration.
+
+                              Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein.

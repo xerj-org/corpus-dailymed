@@ -1,0 +1,5 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.12 Prolongation of the QT Interval
+
+Some fluoroquinolones, including ciprofloxacin, have been associated with prolongation of the QT interval on the electrocardiogram and cases of arrhythmia. Cases of torsade de pointes have been reported during postmarketing surveillance in patients receiving fluoroquinolones, including ciprofloxacin.
+
+                        Avoid ciprofloxacin in patients with known prolongation of the QT interval, risk factors for QT prolongation or torsade de pointes (for example, congenital long QT syndrome, uncorrected electrolyte imbalance, such as hypokalemia or hypomagnesemia and cardiac disease, such as heart failure, myocardial infarction, or bradycardia), and patients receiving Class IA antiarrhythmic agents (quinidine, procainamide), or Class III antiarrhythmic agents (amiodarone, sotalol), tricyclic antidepressants, macrolides, and antipsychotics. Elderly patients may also be more susceptible to drug-associated effects on the QT interval [see Adverse Reactions (6.2), Use in Specific Populations (8.5)].

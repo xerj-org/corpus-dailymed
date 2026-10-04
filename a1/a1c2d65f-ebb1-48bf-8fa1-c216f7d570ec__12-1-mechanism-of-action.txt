@@ -1,0 +1,7 @@
+DailyMed a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec | Zybic | 12.1 Mechanism of Action
+
+Meloxicam has analgesic, anti-inflammatory, and antipyretic properties.
+
+                        The mechanism of action of Zybic™, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+                        Meloxicam is a potent inhibitor of prostaglandin synthesis in vitro. Meloxicam concentrations reached during therapy have produced in vivo effects. Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models. Prostaglandins are mediators of inflammation. Because meloxicam is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.

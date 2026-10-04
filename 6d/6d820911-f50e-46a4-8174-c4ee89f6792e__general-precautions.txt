@@ -1,0 +1,21 @@
+DailyMed 6d820911-f50e-46a4-8174-c4ee89f6792e | HYDROCORTISONE | General Precautions
+
+Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
+
+                        There is an enhanced effect of corticosteroids on patients with hypothyroidism and in those with cirrhosis.
+
+                        Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation.
+
+                        The lowest possible dose of corticosteroid should be used to control the condition under treatment, and when reduction in dosage is possible, the reduction should be gradual.
+
+                        Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression, to frank psychotic manifestations. Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
+
+                        Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess or other pyogenic infection; diverticulitis; fresh intestinal anastomoses; active or latent peptic ulcer; renal insufficiency; hypertension; osteoporosis; and myasthenia gravis.
+
+                        Growth and development of infants and children on prolonged corticosteroid therapy should be carefully observed.
+
+                        Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
+
+                        Pheochromocytoma crisis, which can be fatal, has been reported after administration of systemic corticosteroids. In patients with suspected pheochromocytoma, consider the risk of pheochromocytoma crisis prior to administering corticosteroids.
+
+ In post marketing experience tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents. Patients at high risk of TLS, such as patients with tumors that have a high proliferative rate, high tumor burden and high sensitivity to cytotoxic agents, should be monitored closely and appropriate precautions should be taken.

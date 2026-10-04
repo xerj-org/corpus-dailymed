@@ -1,0 +1,3 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 8.6 Renal Impairment
+
+The clearance of topiramate is reduced in patients with moderate (creatinine clearance 30 to 69 mL/min/1.73 m2) and severe (creatinine clearance less than 30 mL/min/1.73 m2) renal impairment. A dosage adjustment is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

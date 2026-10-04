@@ -1,0 +1,7 @@
+DailyMed 5bc172e4-e8a2-441a-be52-279a7f890196 | Inluriyo | 1 INDICATIONS AND USAGE
+
+INLURIYO is indicated:
+
+                     as monotherapy, for the treatment of adults with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative, estrogen receptor-1 (ESR1)-mutated advanced or metastatic breast cancer, as detected by an FDA-authorized test, with disease progression following at least one line of endocrine therapy [see Dosage and Administration (2.1)].
+
+                        in combination with abemaciclib for the treatment of adults with ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer, as detected by an FDA-authorized test, with disease progression following at least one line of endocrine therapy [see Dosage and Administration (2.1)].

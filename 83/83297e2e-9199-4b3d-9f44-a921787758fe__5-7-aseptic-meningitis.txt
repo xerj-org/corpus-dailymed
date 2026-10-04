@@ -1,0 +1,11 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 5.7 Aseptic Meningitis
+
+Therapy with lamotrigine increases the risk of developing aseptic meningitis. Because of the potential for serious outcomes of untreated meningitis due to other causes, patients should also be evaluated for other causes of meningitis and treated as appropriate.
+
+  Postmarketing cases of aseptic meningitis have been reported in pediatric and adult patients taking lamotrigine for various indications. Symptoms upon presentation have included headache, fever, nausea, vomiting, and nuchal rigidity. Rash, photophobia, myalgia, chills, altered consciousness, and somnolence were also noted in some cases. Symptoms have been reported to occur within 1 day to one and a half months following the initiation of treatment. In most cases, symptoms were reported to resolve after discontinuation of lamotrigine.
+
+  Re-exposure resulted in a rapid return of symptoms (from within 30 minutes to 1 day following re-initiation of treatment) that were frequently more severe. Some of the patients treated with lamotrigine who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
+
+  Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild to moderate pleocytosis, normal glucose levels, and mild to moderate increase in protein. CSF white blood cell count differentials showed a predominance of neutrophils in a majority of the cases, although a predominance of lymphocytes was reported in approximately one third of the cases. Some patients also had new onset of signs and symptoms of involvement of other organs (predominantly hepatic and renal involvement), which may suggest that in these cases the aseptic meningitis observed was part of a hypersensitivity reaction
+
+  [see Warnings and Precautions (5.3)].

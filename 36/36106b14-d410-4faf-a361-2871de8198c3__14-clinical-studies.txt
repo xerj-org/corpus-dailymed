@@ -1,0 +1,186 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 14 CLINICAL STUDIES
+
+The efficacy of UBRELVY for the acute treatment of migraine was demonstrated in two randomized, double-blind, placebo-controlled trials [Study 1 (NCT02828020) and Study 2 (NCT02867709)].  Study 1 randomized patients to placebo (n=559) or UBRELVY 50 mg (n=556) or 100 mg (n=557) and Study 2 randomized patients to placebo (n=563) or UBRELVY 50 mg (n=562).  In all studies, patients were instructed to treat a migraine with moderate to severe headache pain intensity. A second dose of study medication (UBRELVY or placebo), or the patient’s usual acute treatment for migraine, was allowed between 2 to 48 hours after the initial treatment for a non-responding or recurrent migraine headache. Up to 23% of patients were taking preventive medications for migraine at baseline. None of these patients were on concomitant preventive medication that act on the CGRP pathway.
+
+                  The primary efficacy analyses were conducted in patients who treated a migraine with moderate to severe pain. The efficacy of UBRELVY was established by an effect on pain freedom at 2 hours post-dose and most bothersome symptom (MBS) freedom at 2 hours post-dose, compared to placebo, for Studies 1 and 2. Pain freedom was defined as a reduction of moderate or severe headache pain to no pain, and MBS freedom was defined as the absence of the self-identified MBS (i.e., photophobia, phonophobia, or nausea). Among patients who selected an MBS, the most commonly selected was photophobia (56%), followed by phonophobia (24%), and nausea (19%).
+
+                  In both studies, the percentage of patients achieving headache pain freedom and MBS freedom 2 hours post-dose was significantly greater among patients receiving UBRELVY compared to those receiving placebo (see 
+
+  Table 3).  Table 3 also presents the results of the analyses of the percentage of patients achieving pain relief at 2 hours (defined as a reduction in migraine pain from moderate or severe to mild or none) post-dose and the percentage of patients achieving sustained pain freedom between 2 to 24 hours post-dose.
+
+                  The incidence of photophobia and phonophobia was reduced following administration of UBRELVY at both doses (50 mg and 100 mg) as compared to placebo.
+
+                     Table 3: Migraine Efficacy Endpoints for Study 1 and Study 2
+
+                            |
+
+                              Study 1
+                            |
+
+                              Study 2
+                            |
+
+                            |
+
+                              UBRELVY
+
+  50 mg
+
+                            |
+
+                              UBRELVY
+                              100 
+                              mg
+                            |
+
+                              Placebo
+                            |
+
+                              UBRELVY
+
+                              50 mg
+                            |
+
+                              Placebo
+                            |
+
+                              Pain Free at 2 hours
+                            |
+
+                                N |
+                           422 |
+                           448 |
+                           456 |
+                           464 |
+                           456 |
+
+                                % Responders |
+                           19.2 |
+                           21.2 |
+                           11.8 |
+                           21.8 |
+                           14.3 |
+
+                                Difference from placebo (%) |
+                           7.4 |
+                           9.4 |
+                            |
+                           7.5 |
+                            |
+
+                                p value |
+                           0.002 |
+                           <0.001 |
+                            |
+                           0.007 |
+                            |
+
+                              Most Bothersome Symptom
+                              Free
+                              at 2 hours
+                            |
+                            |
+                            |
+
+                                N |
+                           420 |
+                           448 |
+                           454 |
+                           463 |
+                           456 |
+
+                                % Responders |
+                           38.6 |
+                           37.7 |
+                           27.8 |
+                           38.9 |
+                           27.4 |
+
+                                Difference from placebo (%) |
+                           10.8 |
+                           9.9 |
+                            |
+                           11.5 |
+                            |
+
+                                p value |
+                           <0.001 |
+                           <0.001 |
+                            |
+                           <0.001 |
+                            |
+
+                              P
+                              ain
+                              R
+                              elief
+                              at 2 hours
+                            |
+                            |
+                            |
+
+                                N |
+                           422 |
+                           448 |
+                           456 |
+                           464 |
+                           456 |
+
+                                % Responders |
+                           60.7 |
+                           61.4 |
+                           49.1 |
+                           62.7 |
+                           48.2 |
+
+                                p value |
+                           <0.001 |
+                           <0.001 |
+                            |
+                           <0.001 |
+                            |
+
+                              Sustained Pain
+                              Freedom
+                              2-24 hours
+                            |
+                            |
+                            |
+
+                                N |
+                           418 |
+                           441 |
+                           452 |
+                           457 |
+                           451 |
+
+                              %Responders
+
+     |
+                           12.7 |
+                           15.4 |
+                           8.6 |
+                           14.4 |
+                           8.2 |
+
+                                p value |
+                           *NS |
+                           0.002 |
+                            |
+                           0.005 |
+                            |
+
+                  * Not statistically significant (NS) 
+
+                  Figure 1 presents the percentage of patients achieving migraine pain freedom within 2 hours following treatment in Studies 1 and 2.
+
+                     Figure 1:
+                     Percentage of Patients Achieving Pain Freedom within 2 Hours in Pooled Studies 1 and 2
+
+                     a The 100 mg arm was only included in Study 1.
+
+                  Figure 2 presents the percentage of patients achieving MBS freedom within 2 hours in Studies 1 and 2.
+
+                     Figure 2: Percentage of Patients Achieving MBS Freedom within 2 Hours in Pooled Studies 1 and 2
+
+                     a The 100 mg arm was only included in Study 1.

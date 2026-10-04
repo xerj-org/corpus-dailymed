@@ -1,0 +1,51 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 14.2 Intravenous Ocrelizumab in Patients With Primary Progressive Multiple Sclerosis
+
+Study 3 was a randomized, double-blind, placebo-controlled clinical trial in patients with primary progressive multiple sclerosis (PPMS) (NCT01194570). Patients were randomized 2:1 to receive either intravenous ocrelizumab 600 mg or placebo as two 300 mg intravenous infusions 2 weeks apart every 24 weeks for at least 120 weeks. Selection criteria required a baseline EDSS of 3 to 6.5 and a score of 2 or greater for the EDSS pyramidal functional system due to lower extremity findings. Neurological assessments were conducted every 12 weeks. An MRI scan was obtained at baseline and at Weeks 24, 48, and 120.
+
+                        In Study 3, the primary outcome was the time to onset of disability progression attributable to MS confirmed to be present at the next neurological assessment at least 12 weeks later. Disability progression occurred when the EDSS score increased by 1 point or more from the baseline EDSS if the baseline EDSS was 5.5 points or less, or by 0.5 points or more if the baseline EDSS was more than 5.5 points. In Study 3, confirmed disability progression also was deemed to have occurred if patients who had onset of disability progression discontinued participation in the study before the next assessment. Additional outcome measures included timed 25-foot walk, and percentage change in T2 hyperintense lesion volume.
+
+                        Study 3 randomized 488 patients to intravenous ocrelizumab and 244 to placebo; 21% of intravenous ocrelizumab-treated patients and 34% of placebo-treated patients did not complete the trial. The baseline demographic and disease characteristics were balanced between the two treatment groups. At baseline, the mean age of patients was 45; 49% were female. The mean time since symptom onset was 6.7 years, the mean EDSS score was 4.7, and 26% had one or more T1 Gd-enhancing lesions at baseline; 88% of patients had not been treated previously with a non-steroid treatment for MS. The time to onset of disability progression confirmed at 12 weeks after onset was significantly longer for intravenous ocrelizumab-treated patients than for placebo-treated patients (see Figure 2). Results for Study 3 are presented in Table 4 and Figure 2.
+
+                           Table 4	Key Clinical and MRI Endpoints in PPMS Patients for Study 3
+
+                                 Endpoints |
+                                 Study 3 |
+
+                                 Intravenous Ocrelizumab 600 mg
+
+(two 300 mg  infusions two weeks apart every 24 weeks) |
+                                 Placebo |
+
+                                 N=488 |
+                                 N=244 |
+
+                                    Clinical Outcomes
+                                  |
+
+                                 Proportion of patients with 12-week Confirmed Disability ProgressionDefined as an increase of 1.0 point or more from the baseline EDSS score for patients with baseline score of 5.5 or less, or an increase of 0.5 or more when the baseline score is more than 5.5.
+
+                                  |
+                                 32.9% |
+                                 39.3% |
+
+                                   Risk reduction |
+                                 24%; p=0.0321 |
+
+                                    MRI Endpoints
+                                  |
+
+                                 Mean change in volume of T2 lesions, from baseline to Week 120 (cm3) |
+                                 -0.39 |
+                                 0.79 |
+
+                                 p<0.0001 |
+
+                                    Figure 2 Kaplan-Meier Plot of Time to Onset of Confirmed Disability Progression Sustained for at Least 12 Weeks With the Initial Event of Neurological Worsening Occurring During the Double-Blind Treatment Period in Study 3All patients in this analysis had a minimum of 120 weeks of follow-up. The primary analysis is based on all disability progression events accrued including 21 without confirmatory EDSS at 12 weeks.
+
+                                  |
+
+                                  |
+
+                        In the overall population in Study 3, the proportion of patients with 20 percent worsening of the timed 25-foot walk confirmed at 12 weeks was 49% in intravenous ocrelizumab-treated patients compared to 59% in placebo-treated patients (25% risk reduction).
+
+                        In exploratory subgroup analyses of Study 3, the proportion of female patients with disability progression confirmed at 12 weeks after onset was similar in intravenous ocrelizumab-treated patients and placebo-treated patients (approximately 36% in each group). In male patients, the proportion of patients with disability progression confirmed at 12 weeks after onset was approximately 30% in intravenous ocrelizumab-treated patients and 43% in placebo-treated patients. Clinical and MRI endpoints that generally favored intravenous ocrelizumab numerically in the overall population, and that showed similar trends in both male and female patients, included annualized relapse rate, change in T2 lesion volume, and number of new or enlarging T2 lesions.

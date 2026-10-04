@@ -1,0 +1,5 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 5.7 Hypereosinophilic Cardiac Toxicity
+
+In patients with hypereosinophilic syndrome with occult infiltration of HES cells within the myocardium, cases of cardiogenic shock/left ventricular dysfunction have been associated with HES cell degranulation upon the initiation of imatinib mesylate therapy. The condition was reported to be reversible with the administration of systemic steroids, circulatory support measures and temporarily withholding imatinib mesylate.
+
+Myelodysplastic/myeloproliferative disease and systemic mastocytosis may be associated with high eosinophil levels. Consider performing an echocardiogram and determining serum troponin in patients with HES/CEL, and in patients with MDS/MPD or ASM associated with high eosinophil levels. If either is abnormal, consider prophylactic use of systemic steroids (1 to 2 mg/kg) for one to two weeks concomitantly with imatinib mesylate at the initiation of therapy.

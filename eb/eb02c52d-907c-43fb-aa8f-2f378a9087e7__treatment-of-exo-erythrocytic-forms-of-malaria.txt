@@ -1,0 +1,3 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Treatment of Exo-Erythrocytic Forms of Malaria
+
+Chloroquine does not treat the hypnozoite liver stage forms of Plasmodium and will therefore not prevent relapses of malaria due to P. vivax or P. ovale. Additional treatment with an anti-malarial agent active against these forms, such as an 8-aminoquinoline, is required for the treatment of infections with P. vivax and P. ovale.

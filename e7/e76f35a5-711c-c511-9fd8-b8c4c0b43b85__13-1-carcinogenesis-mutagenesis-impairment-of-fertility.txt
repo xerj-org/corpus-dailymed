@@ -1,0 +1,15 @@
+DailyMed e76f35a5-711c-c511-9fd8-b8c4c0b43b85 | Deflazacort Oral Suspension | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        In a published 2-year carcinogenicity study in rats, oral administration of deflazacort (0, 0.03, 0.06, 0.12, 0.25, 0.50, or 1.0 mg/kg/day) resulted in bone tumors (osteosarcoma and osteoma) of the head at 0.25 mg/kg/day, the highest evaluable dose. Doses higher than 0.25 mg/kg/day could not be evaluated for tumors because of a marked decrease in survival.
+
+                        In a 6-month carcinogenicity study in transgenic (Tg.RasH2) mice, oral administration of deflazacort (0, 2, 5, or 20 mg/kg/day in males; 0, 0.5, 2, or 5 mg/kg/day in females) resulted in an increase in stomach tumors (adenoma) at the highest dose tested in males and females.
+
+                           Mutagenesis
+
+                        Deflazacort and 21-desDFZ were negative in in vitro (bacterial reverse mutation and human lymphocyte chromosomal aberration) assays and deflazacort was negative in an in vivo (rat micronucleus) assay.
+
+                           Impairment of Fertility
+
+                        Fertility studies in animals were not conducted with deflazacort. No effects on the male reproductive system were observed following oral administration of deflazacort to monkeys (0, 1.0, 3.0, or 6.0 mg/kg/day) for 39 weeks or rats (0, 0.05, 0.15, or 0.5 mg/kg/day) for 26 weeks. Plasma 21-desDFZ exposures (AUC) at the highest doses tested in monkey and rat were 4 and 2 times, respectively, that in humans at the recommended human dose of deflazacort (0.9 mg/kg/day).

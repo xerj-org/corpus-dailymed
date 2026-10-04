@@ -1,0 +1,27 @@
+DailyMed 717eb542-3a05-485e-be76-3930efb40d33 | Levocetirizine Dihydrochloride | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from published literature and postmarketing experience with levocetirizine use in pregnant women are insufficient to identify any drug-associated risks of miscarriage, birth defects, or adverse maternal or fetal outcomes. In animal reproduction studies, there was no evidence of fetal harm with administration of levocetirizine by the oral route to pregnant rats and rabbits, during the period of organogenesis, at doses up to 390 times and 470 times, respectively, the maximum recommended human dose (MRHD) in adults. In rats treated during late gestation and the lactation period, cetirizine had no effects on pup development at oral doses up to approximately 60 times the MRHD in adults. In mice treated during late gestation and the lactation period, cetirizine administered by the oral route to the dams had no effects on pup development at a dose that was approximately 25 times the MRHD in adults; however, lower pup weight gain during lactation was observed at a dose that was 95 times the MRHD in adults
+
+  [see Data].
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                        Animal data
+
+                        In embryo-fetal development studies, pregnant rats received daily doses of levocetirizine up to 200 mg/kg/day from gestation days 6 to 15 and pregnant rabbits received daily doses of levocetirizine up to 120 mg/kg/day from gestation days 6 to 18. Levocetirizine produced no evidence of fetal harm in rats and rabbits at doses up to 390 and 470 times the MRHD, respectively (on a mg/m
+
+  2basis with maternal oral doses of 200 and 120 mg/kg/day in rats and rabbits, respectively).
+
+                        No prenatal and postnatal development (PPND) studies in animals have been conducted with levocetirizine. In a PPND study conducted in mice, cetirizine was administered at oral doses up to 96 mg/kg/day from gestation day 15 through lactation day 21. Cetirizine lowered pup body weight gain during lactation at an oral dose in dams that was approximately 95 times the MRHD (on a mg/m
+
+  2basis with a maternal oral dose of 96 mg/kg/day); however, there were no effects on pup weight gain at an oral dose in dams that was approximately 25 times the MRHD (on a mg/m
+
+  2basis with a maternal oral dose of 24 mg/kg/day). In a PPND study conducted in rats, cetirizine was administered at oral doses up to 180 mg/kg/day from gestation day 17 to lactation day 22. Cetirizine did not have any adverse effects on rat dams or offspring development at doses up to approximately 60 times the MRHD (on a mg/m
+
+  2basis with a maternal oral dose of 30 mg/kg/day). Cetirizine caused excessive maternal toxicity at an oral dose in dams that was approximately 350 times the MRHD (on a mg/m
+
+  2basis with a maternal oral dose of 180 mg/kg/day).

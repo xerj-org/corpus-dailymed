@@ -1,0 +1,3 @@
+DailyMed d68b79ab-3104-410e-a63f-9919a23625af | Ticagrelor | 5.2 Discontinuation of Ticagrelor in Patients Treated for Coronary Artery Disease
+
+Discontinuation of ticagrelor will increase the risk of myocardial infarction, stroke, and death in patients being treated for coronary artery disease. If ticagrelor must be temporarily discontinued (e.g., to treat bleeding or for significant surgery), restart it as soon as possible. When possible, interrupt therapy with ticagrelor for five days prior to surgery that has a major risk of bleeding. Resume ticagrelor as soon as hemostasis is achieved.

@@ -1,0 +1,11 @@
+DailyMed 32242f34-6e2b-4098-bd8e-3d55162f31b5 | DEXMEDETOMIDINE HYDROCHLORIDE | 2.3 Dosage Adjustment
+
+Due to possible pharmacodynamic interactions, a reduction in dosage of dexmedetomidine hydrochloride in 0.9% sodium chloride injection or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered [see Drug Interactions (7.1)
+                           ].
+
+                        Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see
+
+                              Warnings and Precautions (5.9)
+
+                           , Use in Specific Populations (8.6), Clinical Pharmacology (12.3)
+                           ].

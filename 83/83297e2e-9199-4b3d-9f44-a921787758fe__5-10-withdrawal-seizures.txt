@@ -1,0 +1,5 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 5.10 Withdrawal Seizures
+
+As with other AEDs, lamotrigine should not be abruptly discontinued. In patients with epilepsy there is a possibility of increasing seizure frequency. In clinical trials in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine. Unless safety concerns require a more rapid withdrawal, the dose of lamotrigine should be tapered over a period of at least 2 weeks (approximately 50% reduction per week)
+
+  [see Dosage and Administration (2.1)].

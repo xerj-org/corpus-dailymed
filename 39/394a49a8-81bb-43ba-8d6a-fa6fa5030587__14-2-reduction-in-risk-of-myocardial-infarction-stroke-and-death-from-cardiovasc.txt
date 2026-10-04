@@ -1,0 +1,227 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 14.2 Reduction in Risk of Myocardial Infarction, Stroke, and Death from Cardiovascular Causes
+
+The HOPE study was a large, multicenter, randomized, double-blind, placebo-controlled, 2 x 2 factorial design study conducted in 9541 patients (4645 on ramipril) who were 55 years or older and considered at high risk of developing a major cardiovascular event because of a history of coronary artery disease, stroke, peripheral vascular disease, or diabetes that was accompanied by at least one other cardiovascular risk factor (hypertension, elevated total cholesterol levels, low HDL levels, cigarette smoking, or documented microalbuminuria). Patients were either normotensive or under treatment with other antihypertensive agents. Patients were excluded if they had clinical heart failure or were known to have a low ejection fraction (<0.40). This study was designed to examine the long-term (mean of 5 years) effects of ramipril (10 mg orally once daily) on the combined endpoint of myocardial infarction, stroke, or death from cardiovascular causes.
+
+                        The HOPE study results showed that ramipril (10 mg/day) significantly reduced the rate of myocardial infarction, stroke, or death from cardiovascular causes (826/4652 vs. 651/4645, relative risk 0.78), as well as the rates of the 3 components of the combined endpoint. The relative risk of the composite outcomes in the ramipril group as compared to the placebo group was 0.78% (95% confidence interval, 0.70 to 0.86). The effect was evident after about 1 year of treatment.
+
+                           Table 3. Summary of Combined Components and Endpoints—HOPE Study
+
+                                  
+
+     Outcome
+
+                                  |
+
+                                    Placebo
+
+                                    (N=4652)
+
+                                    n (%)
+
+                                  |
+
+                                    Ramipril
+
+                                    (N=4645)
+
+                                    n (%)
+
+                                  |
+
+                                    Relative Risk
+
+                                    (95% CI)
+
+                                    P-Value
+
+                                  |
+
+                                    Combined Endpoint
+
+                                  |
+                                  |
+
+                                 Myocardial infarction, stroke, or death from cardiovascular cause
+
+                                  |
+                                 826 (17.8%)
+
+                                  |
+                                 651 (14.0%)
+
+                                  |
+                                 0.78 (0.70 to 0.86) P=0.0001
+
+                                  |
+
+                                    Component Endpoint
+
+                                  |
+                                  |
+
+                                 Death from cardiovascular causes
+
+                                  |
+                                 377 (8.1%)
+
+                                  |
+                                 282 (6.1%)
+
+                                  |
+                                 0.74 (0.64 to 0.87) P=0.0002
+
+                                  |
+
+                                 Myocardial infarction
+
+                                  |
+                                 570 (12.3%)
+
+                                  |
+                                 459 (9.9%)
+
+                                  |
+                                 0.80 (0.70 to 0.90) P=0.0003
+
+                                  |
+
+                                 Stroke
+
+                                  |
+                                 226 (4.9%)
+
+                                  |
+                                 156 (3.4%)
+
+                                  |
+                                 0.68 (0.56 to 0.84) P=0.0002
+
+                                  |
+
+                                    Overall Mortality
+
+                                  |
+                                  |
+
+                                 Death from any cause
+
+                                  |
+                                 569 (12.2%)
+
+                                  |
+                                 482 (10.4%)
+
+                                  |
+                                 0.84 (0.75 to 0.95) P=0.005
+
+                                  |
+
+                           Figure 1. Kaplan-Meier Estimates of the Composite Outcome of Myocardial Infarction, Stroke, or Death from Cardiovascular Causes in the Ramipril Group and the Placebo Group
+
+                        Ramipril was effective in different demographic subgroups (i.e., gender, age), subgroups defined by underlying disease (e.g., cardiovascular disease, hypertension), and subgroups defined by concomitant medication. There were insufficient data to determine whether or not ramipril was equally effective in ethnic subgroups.
+
+                        This study was designed with a prespecified substudy in diabetics with at least one other cardiovascular risk factor. Effects of ramipril on the combined endpoint and its components were similar in diabetics (N=3577) to those in the overall study population.
+
+                           Table 4. Summary of Combined Endpoints and Components in Diabetics—HOPE Study
+
+                                    Outcome
+
+                                  |
+
+                                    Placebo
+
+  (N=1769)
+
+                                    n (%)
+
+                                  |
+
+                                    Ramipril
+
+                                    (N=1808)
+
+                                    n (%)
+
+                                  |
+
+                                    Relative Risk Reduction (95% CI)
+
+  P-Value
+
+                                  |
+
+                                    Combined Endpoint
+
+                                  |
+                                  |
+
+                                 Myocardial infarction, stroke, or death from cardiovascular cause
+
+                                  |
+                                 351 (19.8%)
+
+                                  |
+                                 277 (15.3%)
+
+                                  |
+                                 0.25 (0.12 to 0.36)
+
+  P=0.0004
+
+                                  |
+
+                                    Component Endpoint
+
+                                  |
+                                  |
+
+                                 Death from cardiovascular causes
+
+                                  |
+                                 172 (9.7%)
+
+                                  |
+                                 112 (6.2%)
+
+                                  |
+                                 0.37 (0.21 to 0.51)
+
+  P=0.0001
+
+                                  |
+
+                                 Myocardial infarction
+
+                                  |
+                                 229 (12.9%)
+
+                                  |
+                                 185 (10.2%)
+
+                                  |
+                                 0.22 (0.06 to 0.36)
+
+  P=0.01
+
+                                  |
+
+                                 Stroke
+
+                                  |
+                                 108 (6.1%)
+
+                                  |
+                                 76 (4.2%)
+
+                                  |
+                                 0.33 (0.10 to 0.50)
+
+  P=0.007
+
+                                  |
+
+                           Figure 2. The Beneficial Effect of Treatment with Ramipril on the Composite Outcome of Myocardial Infarction, Stroke, or Death from Cardiovascular Causes Overall and in Various Subgroups
+
+                        Cerebrovascular disease was defined as stroke or transient ischemic attacks. The size of each symbol is proportional to the number of patients in each group. The dashed line indicates overall relative risk.
+
+                        The benefits of ramipril were observed among patients who were taking aspirin or other anti-platelet agents, beta-blockers, and lipid-lowering agents as well as diuretics and calcium channel blockers.

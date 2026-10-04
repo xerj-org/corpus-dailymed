@@ -1,0 +1,3 @@
+DailyMed f4f06c00-9024-4e04-a882-0da2b24d8ff7 | Atenolol | Major Surgery
+
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.

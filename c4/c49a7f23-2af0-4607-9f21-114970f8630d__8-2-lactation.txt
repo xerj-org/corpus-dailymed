@@ -1,0 +1,13 @@
+DailyMed c49a7f23-2af0-4607-9f21-114970f8630d | OLMESARTAN MEDOXOMIL | 8.2 Lactation
+
+Risk Summary
+
+  There is no information regarding the presence of olmesartan in human milk, the effects on the breastfed infant, or the effects on milk production. olmesartan is secreted at low concentration in the milk of lactating rats
+
+  (see Data). Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+
+                           Data
+
+  Presence of olmesartan in milk was observed after a single oral administration of 5 mg/kg [
+
+  14C] olmesartan medoxomil to lactating rats.

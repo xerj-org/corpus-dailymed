@@ -1,0 +1,9 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Risks Associated with Use in Porphyria
+
+Administration of chloroquine to patients with porphyria may exacerbate porphyria. Avoid chloroquine in patients with porphyria.
+
+                        Hepatotoxicity Associated with Porphyria Cutanea Tarda
+
+                        Cases of hepatotoxicity have been reported when chloroquine was used in patients with porphyria cutanea tarda (PCT). Patients received dosages up to 500 mg per day. Most of the PCT-related cases presented with marked elevations in transaminases (> 20 times the upper limit of the reference range) within days to a month of chloroquine initiation. Measure liver tests promptly in patients who report symptoms that may indicate liver injury, such as fatigue, rash, nausea, dark urine, or jaundice. In this clinical context, if the patient is found to have abnormal serum liver tests, interrupt chloroquine treatment and investigate further to establish the probable cause.
+
+                        The safety and effectiveness of chloroquine for the treatment of PCT have not been established and chloroquine is not approved for this use.

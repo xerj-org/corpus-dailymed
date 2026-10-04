@@ -1,0 +1,5 @@
+DailyMed c7c77c4d-dd04-4780-9fa4-8fea30aff8f9 | Desvenlafaxine | 8.5 Geriatric Use
+
+Of the 4,158 patients in pre-marketing clinical studies with desvenlafaxine, 6% were 65 years of age or older. No overall differences in safety or efficacy were observed between these patients and younger patients; however, in the short-term placebo-controlled studies, there was a higher incidence of systolic orthostatic hypotension in patients ≥65 years of age compared to patients <65 years of age treated with desvenlafaxine [see Adverse Reactions (6.1)]. For elderly patients, possible reduced renal clearance of desvenlafaxine should be considered when determining dose [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+
+                        SSRIs and SNRIs, including desvenlafaxine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.9)].

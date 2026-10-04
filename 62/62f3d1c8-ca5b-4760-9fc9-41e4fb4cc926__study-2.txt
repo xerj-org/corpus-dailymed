@@ -1,0 +1,53 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Study 2
+
+Study 2 was a double-blind, placebo-controlled, crossover study conducted at 62 centers in Europe comparing levetiracetam 1000 mg/day (N=106), levetiracetam 2000 mg/day (N=105), and placebo (N=111) given in equally divided doses twice daily.
+
+                              The first period of the study (Period A) was designed to be analyzed as a parallel-group study. After a prospective baseline period of up to 12 weeks, patients were randomized to one of the three treatment groups described above. The 16-week treatment period consisted of the 4-week titration period followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant. The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period). Secondary outcome variables included the responder rate (incidence of patients with ≥50% reduction from baseline in partial-onset seizure frequency). The results of the analysis of Period A are displayed in Table 8.
+
+                                 Table 8: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 2: Period A
+
+                                        |
+
+                                             Placebo
+
+                                             (N=111)
+
+                                        |
+
+                                             Levetiracetam
+
+                                             1000 mg/day
+
+                                             (N=106)
+
+                                        |
+
+                                             Levetiracetam
+
+                                             2000 mg/day
+
+                                             (N=105)
+
+                                        |
+
+                                          Percent reduction in partial seizure frequency over placebo
+
+                                        |
+
+                                          –
+
+                                        |
+
+                                          17.1%Statistically significant versus placebo
+
+                                        |
+
+                                          21.4%
+
+                                        |
+
+                              The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 2.
+
+                                 Figure 2: Responder Rate (≥50% Reduction from Baseline) in Study 2: Period A
+
+                              The comparison of levetiracetam 2000 mg/day to levetiracetam 1000 mg/day for responder rate was statistically significant (P=0.02). Analysis of the trial as a cross-over yielded similar results.

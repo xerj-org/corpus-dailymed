@@ -1,0 +1,177 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                           Adverse Reactions
+
+                           NMOSD
+
+                        The safety of UPLIZNA was evaluated in Study 1, in which 161 patients were exposed to UPLIZNA at the recommended dosage regimen during the randomized, controlled treatment period; during which 52 patients received placebo [see Dosage and Administration (2.1) and Clinical Studies (14)]. Subsequently, 198 patients were exposed to UPLIZNA during an open-label treatment period.
+
+                        Two-hundred and eight patients in the randomized and open-label treatment periods had a total of 324 person-years of exposure to UPLIZNA, including 165 patients with exposure for at least 6 months and 128 with exposure for one year or more.
+
+                        Table 3 lists adverse reactions that occurred in at least 5% of patients treated with UPLIZNA and at a greater incidence than in patients who received placebo in Study 1. The most common adverse reactions (incidence of at least 10% in patients treated with UPLIZNA and at a greater incidence than placebo) were urinary tract infection and arthralgia.
+
+                           Table 3. Adverse Reactions in Patients with NMOSD with an Incidence of at Least 5% with UPLIZNA and a Greater Incidence than Placebo in Study 1
+
+                                 Adverse Reactions |
+                                 UPLIZNA
+
+N = 161
+
+% |
+                                 Placebo
+
+N = 52
+
+% |
+
+                                 Urinary tract infection |
+                                 11 |
+                                 10 |
+
+                                 Arthralgia |
+                                 10 |
+                                 4 |
+
+                                 Headache |
+                                 8 |
+                                 8 |
+
+                                 Back pain |
+                                 7 |
+                                 4 |
+
+                        Across both the randomized and open-label treatment in Study 1, the most common adverse reactions (greater than 10%) were urinary tract infection (20%), nasopharyngitis (13%), infusion reaction (12%), arthralgia (11%), and headache (10%).
+
+                           IgG4-RD
+
+                        The safety of UPLIZNA was evaluated in Study 2, in which 68 patients were exposed to UPLIZNA at the recommended dosage regimen during the randomized, controlled treatment period; during which 67 patients received placebo [see Dosage and Administration (2.1) and Clinical Studies (14)].
+
+                        Table 4 lists adverse reactions that occurred in at least 5% of patients treated with UPLIZNA and at a greater incidence than in patients who received placebo in Study 2. The most common adverse reactions (incidence of at least 10% in patients treated with UPLIZNA and at a greater incidence than placebo) were urinary tract infection and lymphopenia.
+
+                           Table 4. Adverse Reactions in Patients with IgG4-RD with an Incidence of at Least 5% with UPLIZNA and a Greater Incidence than Placebo in Study 2
+
+                                 Adverse Reactions |
+                                 UPLIZNA
+
+N = 68
+
+% |
+                                 Placebo
+
+N = 67
+
+% |
+
+                                 Lymphopenia |
+                                 19Lymphopenia includes both lymphopenia and lymphocyte count decreased.
+
+                                  |
+                                 9 |
+
+                                 Urinary tract infection |
+                                 12 |
+                                 6 |
+
+                                 Pyrexia |
+                                 9 |
+                                 5 |
+
+                                 Neutropenia |
+                                 6 |
+                                 5 |
+
+                                 Myalgia |
+                                 6 |
+                                 0 |
+
+                        Additional adverse reactions during the randomized-controlled period in Study 2 were infusion related reactions, influenza, and pneumonia.
+
+                           gMG
+
+                        The safety of UPLIZNA was evaluated in Study 3, in which 119 patients were exposed to UPLIZNA at the recommended dosage regimen and 119 patients received placebo during the randomized, placebo-controlled treatment period. The randomized controlled treatment period was 52 weeks for patients who were anti-AChR antibody positive (n = 95 each group) and 26 weeks for patients who were anti-MuSK antibody positive (n = 24 each group) [see Dosage and Administration (2.1) and Clinical Studies (14)]. References to adverse reaction frequency in the overall population in the randomized-controlled period of Study 3 are reflective of 52-week data for the anti-AChR antibody positive population, and 26-week data for the anti-MuSK antibody positive population that were available at the time of the primary analysis.
+
+                        Table 5 lists adverse reactions that occurred in at least 5% of patients treated with UPLIZNA and at a greater incidence than in patients who received placebo in Study 3. The most common adverse reactions (incidence of at least 10% in patients treated with UPLIZNA and at a greater incidence than placebo) were headache and infusion-related reaction.
+
+                           Table 5. Adverse Reactions in Patients with gMG with an Incidence of at Least 5% with UPLIZNA and a Greater Incidence than Placebo in Study 3
+
+                                 Adverse ReactionsBased on the overall randomized-controlled period, comprised of 52 weeks for the anti-AChR antibody positive population and 26 weeks for the anti-MuSK antibody positive population.
+
+                                  |
+                                 UPLIZNA
+
+N = 119
+
+% |
+                                 Placebo
+
+N = 119
+
+% |
+
+                                 Headache |
+                                 15 |
+                                 7 |
+
+                                 Infusion-related reactionInfusion-related reaction was defined as any sign or symptom experienced by patients during the infusion of study drug, or any adverse event occurring within 24 hours of study drug administration for which an alternative explanation was not evident.
+
+                                  |
+                                 10 |
+                                 6 |
+
+                                 Nasopharyngitis |
+                                 7 |
+                                 3 |
+
+                                 Cough |
+                                 7 |
+                                 3 |
+
+                                 Urinary tract infection |
+                                 7 |
+                                 3 |
+
+                           Laboratory Abnormalities
+
+                        Decreased Immunoglobulins
+
+                           NMOSD
+
+                        At the end of the 6.5-month randomized, controlled period, relative to baseline, the total immunoglobulin level was reduced approximately 8% from baseline for patients treated with UPLIZNA as compared to an increase of 6% in patients treated with placebo. The mean decreases from baseline in immunoglobulin G (IgG) and immunoglobulin M (IgM) were approximately 4% and 32%, respectively, in patients treated with UPLIZNA, whereas IgG was increased by 6% and IgM was increased by approximately 13% in placebo-treated patients. The proportion of patients treated with UPLIZNA who had IgG levels below the lower limit of normal at year 1 was 7% and at year 2 was 13%. The proportion of patients treated with UPLIZNA who had IgM levels below the lower limit of normal at year 1 was 31% and at year 2 was 42%.
+
+                           IgG4-RD
+
+                        At the end of the 12-month randomized, controlled period, relative to baseline, the total immunoglobulin level was reduced approximately 12% from baseline for patients treated with UPLIZNA as compared to an increase of 21% in patients treated with placebo. The mean decreases from baseline in IgG and IgM were approximately 9% and 32%, respectively, in patients treated with UPLIZNA, whereas IgG was increased by 26% and IgM was increased by approximately 3% in placebo-treated patients.
+
+                           gMG
+
+                        At the end of the 26-week randomized, controlled period, relative to baseline, the total immunoglobulin level was reduced approximately 13% from baseline for patients treated with UPLIZNA as compared to an increase of 15% in patients treated with placebo. The mean decreases from baseline in IgG and IgM were approximately 8% and 30%, respectively, in patients treated with UPLIZNA, whereas IgG was increased by 18% and IgM was increased by approximately 5% in placebo-treated patients. The proportion of patients treated with UPLIZNA who had IgG and IgM levels below the lower limit of normal at the end of the 26-week randomized, controlled period was 29% and 16%, respectively, compared to 8% and 4%, respectively, in the placebo group.
+
+                        Decreased Neutrophil Counts
+
+                           NMOSD
+
+                        Neutrophil counts between 1.0-1.5 × 109/L were observed in 7% of UPLIZNA-treated patients versus 2% of patients who received placebo. Neutrophil counts between 0.5-1.0 × 109/L were observed in 2% of patients treated with UPLIZNA compared to no patients who received placebo. At the end of the 6.5-month randomized, controlled period, the proportion of patients with a neutrophil count below the limit of normal was 12% for patients treated with UPLIZNA compared to 4% for patients who received placebo.
+
+                           IgG4-RD
+
+                        During the 12-month randomized, controlled period, neutrophil counts between 1.0-1.5 × 109/L were observed in 8% of UPLIZNA-treated patients versus 3% of patients who received placebo. Neutrophil counts between 0.5-1.0 × 109/L were observed in 2% of patients treated with placebo compared to no patients who received UPLIZNA.
+
+                           gMG
+
+                        During the 26-week randomized, controlled period, neutrophil counts between 1.0-1.5 × 109/L were observed in 3% of patients who received placebo compared to no patients who received UPLIZNA. Neutrophil counts between 0.5-1.0 × 109/L were observed in 1% of patients treated with UPLIZNA compared to no patients who received placebo.
+
+                        Decreased Lymphocyte Counts
+
+                           NMOSD
+
+                        A reduction in lymphocyte counts was observed more frequently in patients treated with UPLIZNA compared to those who received placebo. At the end of the 6.5-month randomized, controlled period, the proportion of patients with a lymphocyte count below the limit of normal was 5% for patients treated with UPLIZNA compared to 4% for patients who received placebo.
+
+                           IgG4-RD
+
+                        A reduction in lymphocyte counts was observed more frequently in patients treated with UPLIZNA compared to those who received placebo. During the 12-month randomized, controlled period, the proportion of patients with a lymphocyte count below the limit of normal was 42% for patients treated with UPLIZNA compared to 36% for patients who received placebo.
+
+                           gMG
+
+                        A reduction in lymphocyte counts was observed more frequently in patients treated with UPLIZNA compared to those who received placebo. During the 26-week randomized, controlled period, the proportion of patients with a lymphocyte count below the limit of normal was 35% for patients treated with UPLIZNA compared to 31% for patients who received placebo.

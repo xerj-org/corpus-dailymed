@@ -1,0 +1,35 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety of famotidine for oral suspension has been established based on adequate and well-controlled studies of another oral famotidine product [see Clinical Studies (14)]. The following is a summary of the adverse reactions reported in those studies.
+
+                        Oral famotidine was studied in 7 U.S. and international placebo- and active-controlled trials in approximately 2500 patients [see Clinical Studies (14)]. A total of 1442 patients were treated with famotidine, including 302 treated with 40 mg twice daily, 456 treated with 20 mg twice daily, 461 treated with 40 mg once daily, and 396 treated with 20 mg once daily. The population was 17 to 91 years old, fairly well distributed between sex and race; however, the predominant race was White.
+
+                        The following adverse reactions occurred in greater than or equal to 1% of famotidine-treated patients: headache, dizziness and constipation.
+
+                        The following other adverse reactions were reported in less than 1% of patients in clinical trials:
+
+                           Body as a Whole: fever, asthenia, fatigue
+
+                           Cardiovascular: palpitations
+
+                           Gastrointestinal: elevated liver enzymes, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
+
+                           Hematologic: thrombocytopenia
+
+                           Hypersensitivity: orbital edema, rash, conjunctival injection, bronchospasm
+
+                           Musculoskeletal: musculoskeletal pain, arthralgia
+
+                           Nervous System/Psychiatric: seizure, hallucinations, depression, anxiety, decreased libido, insomnia, somnolence
+
+                           Skin: pruritus, dry skin, flushing
+
+                           Special Senses: tinnitus, taste disorder
+
+                           Other: impotence
+
+                           Pediatric Patients Less Than 1 Year of Age
+
+                        In a clinical study in 35 pediatric patients less than 1 year of age with GERD symptoms, two patients discontinued due to adverse reactions. Agitation observed in 5 patients resolved when famotidine was discontinued [see Use in Specific Populations (8.4)].

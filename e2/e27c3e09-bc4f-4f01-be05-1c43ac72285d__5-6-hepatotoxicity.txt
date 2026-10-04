@@ -1,0 +1,11 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 5.6 Hepatotoxicity
+
+Nilotinib may result in hepatotoxicity as measured by elevations in bilirubin, aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase. Grade 3-4 elevations of bilirubin, AST, and ALT were reported at a higher frequency in pediatric than in adult patients. Monitor hepatic function tests monthly or as clinically indicated [see Warnings and Precautions (
+
+                              5.12
+
+                           )] and following dose adjustments. [see Dosage and Administration (
+
+                              2.6
+
+                           )].

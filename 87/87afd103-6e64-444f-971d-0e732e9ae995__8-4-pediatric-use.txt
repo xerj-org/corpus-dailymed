@@ -1,0 +1,9 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 8.4 Pediatric Use
+
+Safety and efficacy of ganciclovir have not been established in pediatric patients.
+
+                        A total of 120 pediatric patients with serious CMV infections participated in clinical trials. Granulocytopenia and thrombocytopenia were the most common adverse reactions. The pharmacokinetic characteristics of ganciclovir after administration of ganciclovir for injection were studied in 27 neonates (aged 2 to 49 days) and ten pediatric patients, aged 9 months to 12 years. In neonates, the pharmacokinetic parameters after ganciclovir intravenous doses of 4 mg/kg (n = 14) and 6 mg/kg (n = 13) were Cmax  5.5 ± 1.6 and 7.0 ± 1.6 mcg/mL, systemic clearance 3.14 ± 1.75 and 3.56 ± 1.27 mL/min/kg, and t1/2 of 2.4 hours (harmonic mean) for both doses, respectively.
+
+                        In pediatric patients 9 months to 12 years of age, the pharmacokinetic characteristics of ganciclovir were the same after single and multiple (every 12 hours) intravenous doses (5 mg/kg). The steady-state volume of distribution was 0.64 ± 0.22 L/kg, Cmax was 7.9 ± 3.9 mcg/mL, systemic clearance was 4.7 ± 2.2 mL/min/kg, and t1/2 was 2.4 ± 0.7 hours.
+
+                         Although the pharmacokinetics of ganciclovir in pediatric patients were similar to those observed in adults, the safety and efficacy of ganciclovir at these exposures in pediatric patients have not been established.

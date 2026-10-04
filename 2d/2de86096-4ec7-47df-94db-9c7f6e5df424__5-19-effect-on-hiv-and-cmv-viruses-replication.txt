@@ -1,0 +1,3 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 5.19 Effect on HIV and CMV Viruses Replication
+
+There are in vitro studies that suggest valproate stimulates the replication of the HIV and CMV viruses under certain experimental conditions. The clinical consequence, if any, is not known. Additionally, the relevance of these in vitro findings is uncertain for patients receiving maximally suppressive antiretroviral therapy. Nevertheless, these data should be borne in mind when interpreting the results from regular monitoring of the viral load in HIV infected patients receiving valproate or when following CMV infected patients clinically.

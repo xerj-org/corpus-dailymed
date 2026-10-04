@@ -1,0 +1,5 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 8.6 Renal Impairment
+
+No dose adjustment is necessary in patients with moderate renal impairment (creatinine clearance of 30 to 50 mL/min). For patients with end-stage renal disease on hemodialysis, a reduced maximum dose is recommended [see Dosage and Administration (2.2, 2.3), Clinical Pharmacology (12.3)].
+
+                        The use of ropinirole tablets in patients with severe renal impairment (creatinine clearance< 30 mL/min) without regular dialysis has not been studied.

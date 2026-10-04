@@ -1,0 +1,15 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 14.3 Clinical Studies in Panic Disorder
+
+The effectiveness of PAXIL in the treatment of panic disorder (PD) in adults was demonstrated in three 10- to 12‑week multicenter, placebo‑controlled studies of adult outpatients (Studies PD-1, PD-2, and PD-3). Patients had PD (DSM-IIIR), with or without agoraphobia. In these studies, PAXIL treatment was shown to be statistically significantly more effective than placebo treatment in treating PD by at least 2 out of 3 measures of panic attack frequency and on the Clinical Global Impression Severity of Illness score.
+
+                           Study PD-1 was a 10‑week dose‑range finding study; patients received fixed doses of PAXIL 10 mg, 20 mg, or 40 mg daily or placebo daily. A statistically significant difference from placebo was observed only for the PAXIL 40 mg daily group. At endpoint, 76% of patients who received PAXIL 40 mg daily were free of panic attacks, compared to 44% of patients who received placebo.
+
+                           Study PD-2 was a 12‑week flexible‑dose study that comparing PAXIL 10 mg to 60 mg daily and placebo daily. At endpoint, 51% of PAXIL-treated patients were free of panic attacks compared to 32% of placebo‑treated patients.
+
+                           Study PD-3 was a 12‑week flexible‑dose study that compared PAXIL 10 mg to 60 mg daily to placebo daily in patients who concurrently received standardized cognitive behavioral therapy. At endpoint, 33% of the PAXIL‑treated patients showed a reduction to 0 or 1 panic attacks compared to 14% of placebo-treated patients.
+
+                        In Studies PD-2 and PD-3, the mean PAXIL dosage for completers at endpoint was approximately 40 mg daily.
+
+                        Long‑term efficacy of PAXIL in the treatment of PD in adults was demonstrated in an extension to Study PD-1. Patients who responded to PAXIL during the 10‑week double‑blind phase and during a 3‑month double‑blind extension phase were subsequently randomized to continue PAXIL at 10  mg, 20 mg, or 40 mg daily or switch to placebo in a 3‑month double‑blind relapse prevention phase. Patients randomized to PAXIL treatmentwere statistically significantly less likely to relapse than patients randomized to placebo treatment.
+
+                        Subgroup analyses in these studies did not indicate that there were any differences in treatment outcomes as a function of age or sex.

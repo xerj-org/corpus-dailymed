@@ -1,0 +1,9 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 7.6 Potent Inhalation Anesthetics
+
+Serious dose-related cardiac arrhythmias may occur if preparations containing a vasoconstrictor such as epinephrine (e.g., Bupivacaine Hydrochloride and Epinephrine Injection) are used in patients during or following the administration of potent inhalation anesthetics
+
+  [see
+
+   Warnings and Precautions (5.13)]
+
+  .

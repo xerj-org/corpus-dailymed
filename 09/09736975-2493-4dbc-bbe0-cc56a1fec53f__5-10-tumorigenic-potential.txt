@@ -1,0 +1,5 @@
+DailyMed 09736975-2493-4dbc-bbe0-cc56a1fec53f | Gabapentin | 5.10 Tumorigenic Potential
+
+In an oral carcinogenicity study, gabapentin increased the incidence of pancreatic acinar cell tumors in rats [see Nonclinical Toxicology (13.1)]. The clinical significance of this finding is unknown. Clinical experience during gabapentin’s premarketing development provides no direct means to assess its potential for inducing tumors in humans.
+
+  In clinical studies in adjunctive therapy in epilepsy comprising 2,085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin’s lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin capsules. Without knowledge of the background incidence and recurrence in a similar population not treated with gabapentin capsules, it is impossible to know whether the incidence seen in this cohort is or is not affected by treatment.

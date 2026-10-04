@@ -1,0 +1,163 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 14.2 Ph+ CML-CP, Previously Treated with Two or More TKIs
+
+The efficacy of SCEMBLIX in the treatment of patients with Ph+ CML-CP, previously treated with two or more TKIs was evaluated in the multi-center, randomized, active-controlled, and open-label study ASCEMBL (NCT03106779).
+
+                        In this study, a total of 233 patients were randomized in a 2:1 ratio and stratified according to major cytogenetic response (MCyR) status to receive either SCEMBLIX 40 mg twice daily (N = 157) or bosutinib 500 mg once daily (N = 76). Patients continued treatment until unacceptable toxicity or treatment failure occurred.
+
+                        Patients were 52% female and 48% male with a median age of 52 years (range, 19 to 83 years). Of the 233 patients, 19% were 65 years or older, while 2.6% were 75 years or older. Patients were White (75%), Asian (14%), and Black or African American (4.3%). Of the 233 patients, 81% and 18% had Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1, respectively. Patients who had previously received 2, 3, 4, or 5 or more prior lines of TKIs were 48%, 31%, 15%, and 6%, respectively. The median duration of treatment was 103 weeks (range, 0.1 to 201 weeks) for patients receiving SCEMBLIX and 31 weeks (range, 1 to 188 weeks) for patients receiving bosutinib.
+
+                        The main efficacy outcomes from ASCEMBL are summarized in Table 11.
+
+                           Table 11: Efficacy Results in Patients with Ph+ CML-CP, Previously Treated with Two or More TKIs (ASCEMBL)
+
+                                 Abbreviations: MMR, major molecular response (BCR::ABL1
+                                    IS
+												 ≤ 0.1%); CCyR, complete cytogenetic response (0% of Philadelphia-positive metaphases in bone marrow aspirate with at least 20 examined).
+
+                                    aEstimated using a common risk difference stratified by baseline major cytogenetic response status.
+
+                                    bEstimated using a Cochran-Mantel-Haenszel two-sided test stratified by baseline major cytogenetic response status.
+
+                                    cCCyR analysis based on patients who were not in CCyR at baseline.
+											 |
+
+                                  |
+
+                                    SCEMBLIX
+
+40 mg
+
+twice daily
+                                  |
+
+                                    Bosutinib
+
+500 mg
+
+once daily
+                                  |
+
+Difference
+
+(95% CI)
+                                  |
+
+p-value
+
+                                  |
+
+                                    MMR rate,
+
+% (95% CI)
+
+at 24 weeks
+                                  |
+
+												N = 157
+
+25
+
+(19, 33)
+											 |
+
+												N = 76
+
+13
+
+(6.5, 23)
+											 |
+
+12a
+
+(2.2, 22)
+											 |
+
+0.029b
+
+                                  |
+
+                                    MMR rate,
+
+% (95% CI)
+
+at 96 weeks
+                                  |
+
+												N = 157
+
+38
+
+(30, 46)
+											 |
+
+												N = 76
+
+16
+
+(8, 26)
+											 |
+
+22a
+
+(11, 33)
+											 |
+
+0.001b
+
+                                  |
+
+                                    CCyR rate,
+
+% (95% CI)
+
+at 24 weeks
+                                  |
+
+												N = 103c
+
+41
+
+(31, 51)
+											 |
+
+												N = 62c
+
+24
+
+(14, 37)
+											 |
+
+17
+
+(3.6, 31)
+											 |
+                                  |
+
+                                    CCyR rate,
+
+% (95% CI)
+
+at 96 weeks
+                                  |
+
+												N = 103c
+
+40
+
+(30, 50)
+											 |
+
+												N = 62c
+
+16
+
+(8, 28)
+											 |
+
+24a
+
+(10, 37)
+											 |
+                                  |
+
+                        With a median duration of follow-up of 28 months (range, 1 day to 45 months), the median duration of response for patients treated with SCEMBLIX had not yet been reached.

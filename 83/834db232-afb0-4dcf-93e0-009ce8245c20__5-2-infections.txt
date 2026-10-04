@@ -1,0 +1,35 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 5.2 Infections
+
+Serious, including life-threatening or fatal, bacterial, fungal, and new or reactivated viral infections have been observed during and following completion of treatment with B-cell depleting therapies, including UPLIZNA.
+
+                           The most common infections reported by UPLIZNA-treated patients in the randomized and open-label clinical trial periods for NMOSD included urinary tract infection (20%), nasopharyngitis (13%), upper respiratory tract infection (8%), and influenza (7%). In the IgG4-RD randomized-controlled and open-label periods, the most common infections reported by UPLIZNA-treated patients were upper respiratory tract infection (11%), nasopharyngitis (10%), urinary tract infection (9%), and influenza (6%). In the gMG randomized-controlled period, the most common infections reported by UPLIZNA-treated patients were urinary tract infection (7%) and nasopharyngitis (7%).
+
+                        Delay UPLIZNA administration in patients with an active infection until the infection is resolved.
+
+                           Possible Increased Risk of Immunosuppressant Effects with Other Immunosuppressants
+
+                        If combining UPLIZNA with another immunosuppressive therapy, consider the potential for increased immunosuppressive effects.
+
+                           Hepatitis B Virus (HBV) Reactivation
+
+                           HBV reactivation has been observed with the use of B-cell depleting therapies, including UPLIZNA. Fulminant hepatitis, hepatic failure, and death caused by HBV reactivation have occurred in patients treated with B-cell depleting therapies.
+
+                           HBV reactivation was observed in a patient treated with UPLIZNA during the gMG clinical trial, and has also been observed in the postmarketing setting. Patients with active or chronic HBV infection were excluded from clinical trials.
+
+                           Perform HBV screening in all patients before initiation of treatment with UPLIZNA. Do not administer UPLIZNA to patients with active HBV infection confirmed by positive results for HBsAg and anti-HB tests. For patients who are negative for HBsAg and positive for HBcAb, or who are carriers of HBV (i.e., HBsAg+), consult liver disease experts before starting and during treatment with UPLIZNA.
+
+                           Progressive Multifocal Leukoencephalopathy (PML)
+
+                        PML is an opportunistic viral infection of the brain caused by the JC virus that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability. Although no confirmed cases of PML were identified in UPLIZNA clinical trials, JC virus infection resulting in PML has been observed in patients treated with other B-cell depleting antibodies and other therapies that affect immune competence. In UPLIZNA clinical trials one subject died following the development of new brain lesions for which a definitive diagnosis could not be established, though the differential diagnosis included an atypical NMOSD relapse, PML, or acute disseminated encephalomyelitis. At the first sign or symptom suggestive of PML, withhold UPLIZNA and perform an appropriate diagnostic evaluation. MRI findings may be apparent before clinical signs or symptoms. Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+
+                           Tuberculosis
+
+                        Patients should be evaluated for tuberculosis risk factors and tested for latent infection prior to initiating UPLIZNA. Consider anti-tuberculosis therapy prior to initiation of UPLIZNA in patients with a history of latent active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection. Consult infectious disease experts regarding whether initiating anti-tuberculosis therapy is appropriate before starting treatment.
+
+                           Vaccinations
+
+                        Administer all immunizations according to immunization guidelines at least 4 weeks prior to initiation of UPLIZNA. The safety of immunization with live or live-attenuated vaccines following UPLIZNA therapy has not been studied, and vaccination with live-attenuated or live vaccines is not recommended during treatment and until B-cell repletion.
+
+                           Vaccination of Infants Born to Mothers Treated with UPLIZNA During Pregnancy
+
+                        In infants of mothers exposed to UPLIZNA during pregnancy, do not administer live or live-attenuated vaccines before confirming recovery of B-cell counts in the infant. Depletion of B-cells in these exposed infants may increase the risks from live or live-attenuated vaccines. Non-live vaccines, as indicated, may be administered prior to recovery from B-cell and immunoglobulin level depletion, but consultation with a qualified specialist should be considered to assess whether a protective immune response was mounted [see Use in Specific Populations (8.1)].

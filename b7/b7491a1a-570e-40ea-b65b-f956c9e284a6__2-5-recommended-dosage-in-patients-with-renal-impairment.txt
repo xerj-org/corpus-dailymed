@@ -1,0 +1,12 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 2.5 Recommended Dosage in Patients with Renal Impairment
+
+In patients with severe renal impairment (CL
+  cr less than 30 mL/min/1.73 m
+  2) not on hemodialysis, the recommended starting dosage is 5 mg once daily and not exceed 10 mg once daily
+  [see
+   Warnings and Precautions (5.1) and
+   Use in Specific Populations (8.6)]
+
+                           .
+
+                        There are no dosage adjustment recommendations for patients with mild and moderate renal impairment.

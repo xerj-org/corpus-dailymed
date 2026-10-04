@@ -1,0 +1,5 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 12.1 Mechanism of Action
+
+Sodium-glucose cotransporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen. Dapagliflozin is an inhibitor of SGLT2. By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and thereby promotes urinary glucose excretion.
+
+                        Dapagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule. This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity.

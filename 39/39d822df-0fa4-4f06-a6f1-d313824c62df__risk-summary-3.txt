@@ -1,0 +1,13 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | Risk Summary
+
+Based on the published literature, beta-blockers (including metoprolol) may cause erectile dysfunction and inhibit sperm motility. In animal fertility studies, metoprolol has been associated with reversible adverse effects on spermatogenesis starting at oral dose level of 3.5 mg/kg in rats, which would correspond to a dose of 34 mg/day in humans in mg/m
+
+  2equivalent, although other studies have shown no effect of metoprolol on reproductive performance in male rats.
+
+                              No evidence of impaired fertility due to metoprolol was observed in rats
+
+  [see
+
+   Nonclinical Toxicology (13.1)]
+
+  .

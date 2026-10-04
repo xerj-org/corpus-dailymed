@@ -1,0 +1,3 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 12.1 Mechanism of Action
+
+Nicardipine inhibits the transmembrane influx of calcium ions into cardiac muscle and smooth muscle without changing serum calcium concentrations. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels. The effects of nicardipine are more selective to vascular smooth muscle than cardiac muscle. In animal models, nicardipine produced relaxation of coronary vascular smooth muscle at drug levels which cause little or no negative inotropic effect.

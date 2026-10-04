@@ -1,0 +1,3 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 7.1 Antibiotics
+
+Ascorbic acid may decrease activities of erythromycin, kanamycin, streptomycin, doxycycline and lincomycin. Bleomycin is inactivated in vitro by ascorbic acid. If the antibiotic efficacy is suspected to be decreased by concomitant administration of ascorbic acid injection, discontinue ascorbic acid injection administration.

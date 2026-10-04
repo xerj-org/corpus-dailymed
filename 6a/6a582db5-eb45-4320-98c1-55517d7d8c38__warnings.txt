@@ -1,0 +1,7 @@
+DailyMed 6a582db5-eb45-4320-98c1-55517d7d8c38 | Isosorbide Mononitrate | WARNINGS
+
+Amplification of the vasodilatory effects of isosorbide mononitrate by sildenafil can result in severe hypotension. The time course and dose dependence of this interaction have not been studied. Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
+
+                  The benefits of ISMN in patients with acute myocardial infarction or congestive heart failure have not been established; because the effects of isosorbide mononitrate are difficult to terminate rapidly, this drug is not recommended in these settings.
+
+                  If isosorbide mononitrate is used in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia.

@@ -1,0 +1,5 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 2.7 Handling and Disposal
+
+Caution should be exercised in the handling and preparation of solutions of ganciclovir. Solutions of ganciclovir are alkaline (pH 11). Avoid direct contact of the skin or mucous membranes with ganciclovir solution. If such contact occurs, wash thoroughly with soap and water; rinse eyes thoroughly with plain water. Wearing disposable gloves is recommended.
+
+                        Because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity), consideration should be given to handling and disposal according to guidelines issued for antineoplastic drugs1 [see How Supplied/Storage and Handling (16)].

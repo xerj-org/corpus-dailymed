@@ -1,0 +1,77 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 12.4 Microbiology
+
+Mechanism of Action
+
+                        Maraviroc is a member of a therapeutic class called CCR5 co-receptor antagonists. Maraviroc selectively binds to the human chemokine receptor CCR5 present on the cell membrane, preventing the interaction of HIV-1 gp120 and CCR5 necessary for CCR5-tropic HIV-1 to enter cells. CXCR4-tropic and dual-tropic HIV-1 entry is not inhibited by maraviroc.
+
+                           Antiviral Activity in Cell Culture
+
+                        Maraviroc inhibits the replication of CCR5-tropic laboratory strains and primary isolates of HIV-1 in models of acute peripheral blood leukocyte infection. The mean EC50 value (50% effective concentration) for maraviroc against HIV-1 group M isolates (subtypes A to J and circulating recombinant form AE) and group O isolates ranged from 0.1 to 4.5 nM (0.05 to 2.3 ng per mL) in cell culture.
+
+                        When used with other antiretroviral agents in cell culture, the combination of maraviroc was not antagonistic with non-nucleoside reverse transcriptase inhibitors (NNRTIs: efavirenz and nevirapine), NRTIs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine, and zidovudine), or protease inhibitors (PIs: amprenavir, atazanavir, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, and tipranavir). Maraviroc was not antagonistic with the HIV-1 gp41 fusion inhibitor enfuvirtide. Maraviroc was not active against CXCR4-tropic and dual-tropic viruses (EC50 value greater than 10 microM). The antiviral activity of maraviroc against HIV-2 has not been evaluated.
+
+                           Resistance in Cell Culture: HIV-1 variants with reduced susceptibility to maraviroc have been selected in cell culture following serial passage of 2 CCR5-tropic viruses (CCl/85 and RU570). The maraviroc-resistant viruses remained CCR5-tropic with no evidence of a change from a CCR5-tropic virus to a CXCR4-using virus. Two amino acid residue substitutions in the V3-loop region of the HIV-1 envelope glycoprotein (gp160), A316T, and I323V (HXB2 numbering), were shown to be necessary for the maraviroc-resistant phenotype in the HIV-1 isolate CCl/85. In the RU570 isolate a 3-amino acid residue deletion in the V3 loop, ΔQAI (HXB2 positions 315 to 317), was associated with maraviroc resistance. The relevance of the specific gp120 substitutions observed in maraviroc-resistant isolates selected in cell culture to clinical maraviroc resistance is not known. Maraviroc-resistant viruses were characterized phenotypically by concentration-response curves that did not reach 100% inhibition in phenotypic drug assays, rather than increases in EC50 values.
+
+                           Cross-Resistance in Cell Culture: Maraviroc had antiviral activity against HIV-1 clinical isolates resistant to NNRTIs, NRTIs, PIs, and the gp41 fusion inhibitor enfuvirtide in cell culture (EC50 values ranged from 0.7 to 8.9 nM [0.36 to 4.57 ng per mL]). Maraviroc-resistant viruses that emerged in cell culture remained susceptible to enfuvirtide and the protease inhibitor saquinavir.
+
+                           Clinical Resistance: Virologic failure on maraviroc can result from genotypic and phenotypic resistance to maraviroc, through outgrowth of undetected CXCR4-using virus present before maraviroc treatment (see
+                              Tropism
+                            below), through resistance to background therapy drugs (Table 15), or due to low exposure to maraviroc [see Clinical Pharmacology (12.2)].
+
+                           Antiretroviral Treatment-Experienced Adult Subjects (Trials A4001027 and A4001028): Week 48 data from treatment-experienced subjects failing maraviroc-containing regimens with CCR5-tropic virus (n = 58) have identified 22 viruses that had decreased susceptibility to maraviroc characterized in phenotypic drug assays by concentration-response curves that did not reach 100% inhibition. Additionally, CCR5-tropic virus from 2 of these treatment-failure subjects had greater than or equal to 3-fold shifts in EC50 values for maraviroc at the time of failure.
+
+                        Fifteen of these viruses were sequenced in the gp120 encoding region and multiple amino acid substitutions with unique patterns in the heterogeneous V3 loop region were detected. Changes at either amino acid position 308 or 323 (HXB2 numbering) were seen in the V3 loop in 7 of the subjects with decreased maraviroc susceptibility. Substitutions outside the V3 loop of gp120 may also contribute to reduced susceptibility to maraviroc.
+
+                           Antiretroviral Treatment-Naive Adult Subjects (Trial A4001026): Treatment-naive subjects receiving maraviroc tablets had more virologic failures and more treatment-emergent resistance to the background regimen drugs compared with those receiving efavirenz (Table 15).
+
+                           Table 15. Development of Resistance to Maraviroc or Efavirenz and Background Drugs in Antiretroviral Treatment-Naive Trial A4001026 for Patients with Only CCR5-Tropic Virus at Screening Using Enhanced Sensitivity TROFILE Assay
+
+                                  |
+                                 Maraviroc |
+                                 Efavirenz |
+
+                                 Total N in dataset (as-treated) |
+                                 273 |
+                                 241 |
+
+                                 Total virologic failures (as-treated) |
+                                 85 (31%) |
+                                 56 (23%) |
+
+                                 Evaluable virologic failures with post baseline genotypic and phenotypic data |
+                                 73 |
+                                 43 |
+
+                                   Lamivudine resistance |
+                                 39 (53%) |
+                                 13 (30%) |
+
+                                   Zidovudine resistance |
+                                 2 (3%) |
+                                 0 |
+
+                                   Efavirenz resistance |
+                                 - |
+                                 23 (53%) |
+
+                                   Phenotypic resistance to maravirocIncludes subjects failing with CXCR4- or dual/mixed-tropism because these viruses are not intrinsically susceptible to maraviroc.
+
+                                  |
+                                 19 (26%) |
+                                 - |
+
+                        In an as-treated analysis of treatment-naive subjects at 96 weeks, 32 subjects failed a maraviroc-containing regimen with CCR5-tropic virus and had a tropism result at failure; 7 of these subjects had evidence of maraviroc phenotypic resistance defined as concentration-response curves that did not reach 95% inhibition. One additional subject had a greater than or equal to 3-fold shift in the EC50 value for maraviroc at the time of failure. A clonal analysis of the V3 loop amino acid envelope sequences was performed from 6 of the 7 subjects. Changes in V3 loop amino acid sequence differed between each of these different subjects, even for those infected with the same virus clade, suggesting that there are multiple diverse pathways to maraviroc resistance. The subjects who failed with CCR5-tropic virus and without a detectable maraviroc shift in susceptibility were not evaluated for genotypic resistance.
+
+                        Of the 32 maraviroc virologic failures failing with CCR5-tropic virus, 20 (63%) also had genotypic and/or phenotypic resistance to background drugs in the regimen (lamivudine, zidovudine).
+
+                           Tropism: In both treatment-experienced and treatment-naive subjects, detection of CXCR4-using virus prior to initiation of therapy has been associated with a reduced virologic response to maraviroc.
+
+                           Antiretroviral Treatment-Experienced Subjects (Trials A4001027 and A4001028): In the majority of cases, treatment failure on maraviroc was associated with detection of CXCR4-using virus (i.e., CXCR4- or dual/mixed-tropic) which was not detected by the tropism assay prior to treatment. CXCR4-using virus was detected at failure in approximately 55% of subjects who failed treatment on maraviroc by Week 48, as compared with 9% of subjects who experienced treatment failure in the placebo arm. To investigate the likely origin of the on-treatment CXCR4-using virus, a detailed clonal analysis was conducted on virus from 20 representative subjects (16 subjects from the maraviroc arms and 4 subjects from the placebo arm) in whom CXCR4-using virus was detected at treatment failure. From analysis of amino acid sequence differences and phylogenetic data, it was determined that CXCR4-using virus in these subjects emerged from a low level of pre-existing CXCR4-using virus not detected by the tropism assay (which is population-based) prior to treatment rather than from a co-receptor switch from CCR5-tropic virus to CXCR4-using virus resulting from mutation in the virus.
+
+                        Detection of CXCR4-using virus prior to initiation of therapy has been associated with a reduced virological response to maraviroc. Furthermore, subjects failing twice-daily maraviroc at Week 48 with CXCR4-using virus had a lower median increase in CD4+ cell counts from baseline (+41 cells per mm3) than those subjects failing with CCR5-tropic virus (+162 cells per mm3). The median increase in CD4+ cell count in subjects failing in the placebo arm was +7 cells per mm3.
+
+                           Antiretroviral Treatment-Naive Subjects (Trial A4001026): In a 96-week trial of antiretroviral treatment-naive subjects, 14% (12 of 85) who had only CCR5-tropic virus at screening with an enhanced sensitivity tropism assay (TROFILE) and failed therapy on maraviroc had CXCR4-using virus at the time of treatment failure. A detailed clonal analysis was conducted in 2 previously antiretroviral treatment-naive subjects enrolled in a Phase 2a monotherapy trial who had CXCR4-using virus detected after 10 days' treatment with maraviroc. Consistent with the detailed clonal analysis conducted in treatment-experienced subjects, the CXCR4-using variants appear to emerge from outgrowth of a pre-existing undetected CXCR4-using virus. Screening with an enhanced sensitivity tropism assay reduced the number of maraviroc virologic failures with CXCR4- or dual/mixed-tropic virus at failure to 12 compared with 24 when screening with the original tropism assay. All but one (11 of 12; 92%) of the maraviroc failures failing with CXCR4- or dual/mixed-tropic virus also had genotypic and phenotypic resistance to the background drug lamivudine at failure and 33% (4 of 12) developed zidovudine-associated resistance substitutions.
+
+                        Subjects who had only CCR5-tropic virus at baseline and failed maraviroc therapy with CXCR4-using virus had a median increase in CD4+ cell counts from baseline of +113 cells per mm3 while those subjects failing with CCR5-tropic virus had an increase of +135 cells per mm3. The median increase in CD4+ cell count in subjects failing in the efavirenz arm was +95 cells per mm3.
+
+                           Antiretroviral Treatment-Experienced Pediatric Subjects (Trial A4001031): In the Week 48 analysis of Trial A4001031 (n = 103), the mechanisms of resistance to maraviroc observed in the treatment-experienced pediatric population were similar to those observed in adult populations: reasons for virologic failure included failing with CXCR4- or dual/mixed-tropic virus, evidence of reduced maraviroc susceptibility as measured by a decrease in maximal percentage inhibition (MPI), and emergence of resistance to background drug in the regimen.

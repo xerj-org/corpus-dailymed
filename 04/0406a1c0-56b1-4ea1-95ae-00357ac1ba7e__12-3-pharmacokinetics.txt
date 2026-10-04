@@ -1,0 +1,517 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 12.3 Pharmacokinetics
+
+Absorption
+
+                        Following oral administration of dapagliflozin, the maximum plasma concentration (Cmax) is usually attained within 2 hours under fasting state. The Cmax and AUC values increase dose proportionally with increase in dapagliflozin dose in the therapeutic dose range. The absolute oral bioavailability of dapagliflozin following the administration of a 10 mg dose is 78%. Administration of dapagliflozin with a high-fat meal decreases its Cmax by up to 50% and prolongs Tmax by approximately 1 hour but does not alter AUC as compared with the fasted state. These changes are not considered to be clinically meaningful and dapagliflozin can be administered with or without food.
+
+                           Distribution
+
+                        Dapagliflozin is approximately 91% protein bound. Protein binding is not altered in patients with renal or hepatic impairment.
+
+                           Metabolism
+
+                        The metabolism of dapagliflozin is primarily mediated by UGT1A9; CYP-mediated metabolism is a minor clearance pathway in humans. Dapagliflozin is extensively metabolized, primarily to yield dapagliflozin 3-O-glucuronide, which is an inactive metabolite. Dapagliflozin 3-O-glucuronide accounted for 61% of a 50 mg [14C]-dapagliflozin dose and is the predominant drug-related component in human plasma.
+
+                           Elimination
+
+                        Dapagliflozin and related metabolites are primarily eliminated via the renal pathway. Following a single 50 mg dose of [14C]-dapagliflozin, 75% and 21% total radioactivity is excreted in urine and feces, respectively. In urine, less than 2% of the dose is excreted as parent drug. In feces, approximately 15% of the dose is excreted as parent drug. The mean plasma terminal half-life (t1/2) for dapagliflozin is approximately 12.9 hours following a single oral dose of dapagliflozin 10 mg.
+
+                           Specific Populations
+
+                           Effects of Age, Gender, Race, and Body Weight on Pharmacokinetics
+
+                        Based on a population pharmacokinetic analysis, age, gender, race, and body weight do not have a clinically meaningful effect on the pharmacokinetics of dapagliflozin and thus, no dose adjustment is recommended.
+
+                           Patients with Renal Impairment
+
+                        At steady-state (20 mg once daily dapagliflozin for 7 days), adult patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 100%, and 200% higher, respectively, as compared to patients with type 2 diabetes mellitus with normal renal function. Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour urinary glucose excretion. The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes mellitus and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than in patients with type 2 diabetes mellitus with normal renal function.
+
+                        The impact of hemodialysis on dapagliflozin exposure is not known [see Warnings and Precautions (5.2), Use in Specific Populations (8.6), and Clinical Studies (14)].
+
+                           Patients with Hepatic Impairment
+
+                        In adult subjects with mild and moderate hepatic impairment (Child-Pugh classes A and B), mean Cmax and AUC of dapagliflozin were up to 12% and 36% higher, respectively, as compared to healthy matched control subjects following single-dose administration of 10 mg dapagliflozin. These differences were not considered to be clinically meaningful. In adult patients with severe hepatic impairment (Child-Pugh class C), mean Cmax and AUC of dapagliflozin were up to 40% and 67% higher, respectively, as compared to healthy matched controls [see Use in Specific Populations (8.7)].
+
+                           Drug Interactions
+
+                           In Vitro Assessment of Drug Interactions
+
+                        In in vitro studies, dapagliflozin and dapagliflozin 3-O-glucuronide neither inhibited CYP 1A2, 2C9, 2C19, 2D6, or 3A4, nor induced CYP 1A2, 2B6, or 3A4. Dapagliflozin is a weak substrate of the P-glycoprotein (P-gp) active transporter, and dapagliflozin 3-O-glucuronide is a substrate for the OAT3 active transporter. Dapagliflozin or dapagliflozin 3-O-glucuronide did not meaningfully inhibit P-gp, OCT2, OAT1, or OAT3 active transporters. Overall, dapagliflozin is unlikely to affect the pharmacokinetics of concurrently administered medications that are P-gp, OCT2, OAT1, or OAT3 substrates.
+
+                           Effects of Other Drugs on Dapagliflozin
+
+                         Table 5 shows the effect of coadministered drugs on the pharmacokinetics of dapagliflozin in adults. No dose adjustments are recommended for dapagliflozin.
+
+                           Table 5: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
+
+                                       Coadministered Drug
+
+                                       (Dose Regimen)*
+
+                                  |
+
+                                       Dapagliflozin
+
+            (Dose Regimen)*
+
+                                  |
+
+                                       Effect on Dapagliflozin Exposure
+
+                                       [% Change (90% CI)]
+
+                                  |
+
+                                       C
+
+                                          max
+
+                                  |
+
+                                       AUC†
+
+                                  |
+
+                                       No dosing adjustments required for the following:
+
+                                  |
+
+                                       Oral Antidiabetic Agents
+
+                                  |
+
+                                     Metformin (1000 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Pioglitazone (45 mg)
+
+                                  |
+
+                                    50 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Sitagliptin (100 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Glimepiride (4 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Voglibose (0.2 mg three times daily)
+
+                                  |
+
+                                    10 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                       Other Medications
+
+                                  |
+
+                                     Hydrochlorothiazide (25 mg)
+
+                                  |
+
+                                    50 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Bumetanide (1 mg)
+
+                                  |
+
+                                    10 mg once daily
+
+                                    for 7 days
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Valsartan (320 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↓12%
+
+                                    [↓3%, ↓20%]
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Simvastatin (40 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                       Anti-infective Agent
+
+                                  |
+
+                                     Rifampin (600 mg once daily for 6 days)
+
+                                  |
+
+                                    10 mg
+
+                                  |
+
+                                    ↓7%
+
+                                    [↓22%, ↑11%]
+
+                                  |
+
+                                    ↓22%
+
+                                    [↓27%, ↓17%]
+
+                                  |
+
+                                       Nonsteroidal Anti-inflammatory Agent
+
+                                  |
+
+                                     Mefenamic Acid (loading dose of 500 mg followed by 14 doses of 250 mg every 6 hours)
+
+                                  |
+
+                                    10 mg
+
+                                  |
+
+                                    ↑13%
+
+                                    [↑3%, ↑24%]
+
+                                  |
+
+                                    ↑51%
+
+                                    [↑44%, ↑58%]
+
+                                  |
+
+                                    ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25).
+
+                                       * Single dose unless otherwise noted.
+
+                                       † AUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses.
+
+                                  |
+
+                           Effects of Dapagliflozin on Other Drugs
+
+                        Table 6 shows the effect of dapagliflozin on other coadministered drugs in adults. Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadministered drugs.
+
+                           Table 6: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
+
+                                       Coadministered Drug (Dose Regimen)*
+
+                                  |
+
+                                       Dapagliflozin (Dose Regimen)*
+
+                                  |
+
+                                       Effect on Coadministered Drug Exposure
+
+                                       [% Change (90% CI)]
+
+                                  |
+
+                                       C
+
+                                          max
+
+                                  |
+
+                                       AUC†
+
+                                  |
+
+                                       No dosing adjustments required for the following:
+
+                                  |
+
+                                       Oral Antidiabetic Agents
+
+                                  |
+
+                                     Metformin (1000 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Pioglitazone (45 mg)
+
+                                  |
+
+                                    50 mg
+
+                                  |
+
+                                    ↓7%
+
+                                    [↓25%, ↑15%]
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Sitagliptin (100 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Glimepiride (4 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↑13%
+
+                                    [0%, ↑29%]
+
+                                  |
+
+                                       Other Medications
+
+                                  |
+
+                                     Hydrochlorothiazide (25 mg)
+
+                                  |
+
+                                    50 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Bumetanide (1 mg)
+
+                                  |
+
+                                    10 mg once daily for 7 days
+
+                                  |
+
+                                    ↑13%
+
+                                    [↓2%, ↑31%]
+
+                                  |
+
+                                    ↑13%
+
+                                    [↓1%, ↑30%]
+
+                                  |
+
+                                     Valsartan (320 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↓6%
+
+                                    [↓24%, ↑16%]
+
+                                  |
+
+                                    ↑5%
+
+                                    [↓15%, ↑29%]
+
+                                  |
+
+                                     Simvastatin (40 mg)
+
+                                  |
+
+                                    20 mg
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↑19%
+
+                                  |
+
+                                     Digoxin (0.25 mg)
+
+                                  |
+
+                                    20 mg loading dose
+
+                                    then 10 mg once daily for 7 days
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                     Warfarin (25 mg)
+
+                                  |
+
+                                    20 mg loading dose then 10 mg once daily
+
+                                    for 7 days
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔
+
+                                  |
+
+                                    ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to the other medicine administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25).
+
+                                       * Single dose unless otherwise noted.
+
+                                       † AUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses.
+
+                                  |
+
+                           Pediatric use information is approved for AstraZeneca AB’s Farxiga® (dapagliflozin) Tablets. However, due to AstraZeneca AB’s marketing exclusivity rights, this drug product is not labeled with that information.

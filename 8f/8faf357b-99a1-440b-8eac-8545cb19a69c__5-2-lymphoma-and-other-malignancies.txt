@@ -1,0 +1,7 @@
+DailyMed 8faf357b-99a1-440b-8eac-8545cb19a69c | Mycophenolate Mofetil | 5.2 Lymphoma and Other Malignancies
+
+Patients receiving immunosuppressants, including mycophenolate mofetil, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Adverse Reactions (6.1)]. The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent. For patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
+
+  
+
+Post-transplant lymphoproliferative disorder (PTLD) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients [see Adverse Reactions (6.1)]. The majority of PTLD cases appear to be related to Epstein Barr Virus (EBV) infection. The risk of PTLD appears greatest in those individuals who are EBV seronegative, a population which includes many young children. In pediatric patients, no other malignancies besides PTLD were observed in clinical trials [see Adverse Reactions (6.1)].

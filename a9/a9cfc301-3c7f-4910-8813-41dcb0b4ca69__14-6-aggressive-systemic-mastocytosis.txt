@@ -1,0 +1,121 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 14.6 Aggressive Systemic Mastocytosis
+
+One open-label, multicenter, Phase 2 study was conducted testing imatinib mesylate in diverse populations of patients with life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases. This study included 5 patients with ASM treated with 100 mg to 400 mg of imatinib mesylate daily. These 5 patients ranged from 49 to 74 years of age. In addition to these 5 patients, 10 published case reports and case series describe the use of imatinib mesylate in 23 additional patients with ASM aged 26 to 85 years who also received 100 mg to 400 mg of imatinib mesylate daily.
+
+                        Cytogenetic abnormalities were evaluated in 20 of the 28 ASM patients treated with imatinib mesylate from the published reports and in the Phase 2 study. Seven of these 20 patients had the FIP1L1-PDGFRα fusion kinase (or CHIC2 deletion). Patients with this cytogenetic abnormality were predominantly males and had eosinophilia associated with their systemic mast cell disease. Two patients had a Kit mutation in the juxtamembrane region (one Phe522Cys and one K509I) and four patients had a D816V c-Kit mutation (not considered sensitive to imatinib mesylate), one with concomitant CML.
+
+                        Of the 28 patients treated for ASM, 8 (29%) achieved a complete hematologic response and 9 (32%) a partial hematologic response (PHR) (61% overall response rate). Median duration of imatinib mesylate therapy for the 5 ASM patients in the Phase 2 study was 13 months (range, 1.4 to 22.3 months) and between 1 month and more than 30 months in the responding patients described in the published medical literature. A summary of the response rates to imatinib mesylate in ASM is provided in Table 23. Response durations of literature patients ranged from 1+ to 30+ months.
+
+                           Table 23: Response in ASM
+
+                                        
+
+                                       Cytogenetic Abnormality
+
+                                  |
+
+                                       Number of Patients
+
+ N
+
+                                  |
+
+                                       Complete Hematologic Response
+
+                                       N (%)
+
+                                  |
+
+                                       Partial Hematologic Response
+
+                                       N (%)
+
+                                  |
+
+                                    FIP1L1-PDGFRα Fusion Kinase (or CHIC2 Deletion)
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    7 (100)
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Juxtamembrane Mutation
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    2 (100)
+
+                                  |
+
+                                    Unknown or No Cytogenetic Abnormality Detected
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    7 (44)
+
+                                  |
+
+                                    D816V Mutation
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    1* (25)
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Total
+
+                                  |
+
+                                    28
+
+                                  |
+
+                                    8 (29)
+
+                                  |
+
+                                    9 (32)
+
+                                  |
+
+                                    Abbreviations: ASM, aggressive systemic mastocytosis; PDGFR, platelet-derived growth factor receptor.
+
+                                       *Patient had concomitant chronic myeloid leukemia CML and ASM.
+
+                                  |
+
+Imatinib mesylate has not been shown to be effective in patients with less aggressive forms of systemic mastocytosis (SM). Imatinib mesylate is therefore not recommended for use in patients with cutaneous mastocytosis, indolent systemic mastocytosis (smoldering SM or isolated bone marrow mastocytosis), SM with an associated clonal hematological non-mast cell lineage disease, mast cell leukemia, mast cell sarcoma or extracutaneous mastocytoma. Patients that harbor the D816V mutation of c-Kit are not sensitive to imatinib mesylate and should not receive imatinib mesylate.

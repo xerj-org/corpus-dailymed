@@ -1,0 +1,3 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 5.1 Increased Risk of Thrombotic Events after Premature Discontinuation
+
+Premature discontinuation of any oral anticoagulant, including rivaroxaban, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. An increased rate of stroke was observed during the transition from rivaroxaban to warfarin in clinical trials in another indication in patients. If rivaroxaban tablets are discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.4)].

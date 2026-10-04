@@ -1,0 +1,8 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 5.9 Hyperammonemia
+
+Hyperammonemia has been reported in association with valproate therapy and may be present despite normal liver function tests. In patients who develop unexplained lethargy and vomiting or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured. Hyperammonemia should also be considered in patients who present with hypothermia [see Warnings and Precautions (5.11)]. If ammonia is increased, valproate therapy should be discontinued. Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.6, 
+                              5.10)].
+
+                        During the placebo controlled pediatric mania trial, one (1) in twenty (20) adolescents (5%) treated with valproate developed increased plasma ammonia levels compared to no (0) patients treated with placebo.
+
+                        Asymptomatic elevations of ammonia are more common and when present, require close monitoring of plasma ammonia levels. If the elevation persists, discontinuation of valproate therapy should be considered.

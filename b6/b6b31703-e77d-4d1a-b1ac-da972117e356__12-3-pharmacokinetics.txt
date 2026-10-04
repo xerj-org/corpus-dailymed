@@ -1,0 +1,173 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 12.3 Pharmacokinetics
+
+Plasma levels of mirtazapine are linearly related to dose over a dose range of 15 to 80 mg (1.78 times the maximum recommended dose). Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio=1.5). The (–) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer. 
+
+                           Absorption 
+
+  Mirtazapine has an absolute bioavailability of about 50% following oral administration. Peak plasma concentrations of mirtazapine are reached within about 2 hours post dose. 
+
+                           Food Effect 
+
+  The presence of food in the stomach has a minimal effect on both the rate and extent of absorption. 
+
+                           Distribution 
+
+  Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL. 
+
+                           Elimination 
+
+  Mirtazapine has a half-life of about 20 to 40 hours following oral administration of mirtazapine tablets. 
+
+                           Metabolism 
+
+  Mirtazapine is extensively metabolized after oral administration. Major pathways of bio-transformation are demethylation and hydroxylation followed by glucuronide conjugation.
+
+  In vitrodata from human liver microsomes indicate that CYP2D6 and CYP1A2 are involved in the formation of the 8-hydroxy metabolite of mirtazapine, whereas CYP3A is considered to be responsible for the formation of the N-desmethyl and N-oxide metabolite. Several unconjugated metabolites possess pharmacological activity but are present in the plasma at very low levels. 
+
+                           Excretion 
+
+  Mirtazapine and its metabolites are eliminated predominantly (75%) via urine with 15% in feces. 
+
+                           Specific Populations 
+
+                           Geriatric Patients 
+
+  Following oral administration of mirtazapine tablets 20 mg/day for 7 days to subjects of varying ages (range 25 to 74 years old), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects. The clearance in elderly males was 40% lower compared to younger males, while the clearance was 10% lower in elderly females compared to younger females
+
+  [see Warnings and Precautions (
+
+   5.15), Use in Specific Populations (
+
+   8.5)]
+
+  .
+
+    
+
+                           Male and Female Patients 
+
+  The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males). 
+
+                           Race 
+
+  There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of mirtazapine tablets. 
+
+                           Patients with Renal Impairment 
+
+  When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR=11 to 39 mL/min/1.73 m
+
+  2and approximately 50% in renal impaired patients with GFR=<10 mL/min/1.73 m
+
+  2)
+
+  [see Warnings and Precautions (
+
+   5.15), Use in Specific Populations (
+
+   8.6)]
+
+                           .
+
+                               
+
+                           Patients with Hepatic Impairment
+
+  Following a single 15 mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function
+
+  [see Warnings and Precautions (
+
+   5.13,
+
+   5.15), Use in Specific Populations (
+
+   8.6)]
+
+  .
+
+   
+
+                           Drug Interactions Studies 
+
+                           Warfarin 
+
+  Mirtazapine (30 mg daily) at steady state caused a statistically significant increase (0.2) in the International Normalized Ratio (INR) in subjects treated with warfarin
+
+  [see Drug Interactions (
+
+   7)]. 
+
+                           QTc-Prolonging Drugs 
+
+  The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in mirtazapine overdose
+
+  [see Warnings and Precautions (
+
+   5.5), Adverse Reactions (
+
+   6.1,
+
+   6.2), Drug Interactions (
+
+   7), and Overdosage (
+
+   10)]. 
+
+                           Phenytoin 
+
+                        In healthy male subjects (n=18), phenytoin (200 mg daily, at steady state) increased mirtazapine (30 mg daily, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45%
+
+  [see Drug Interactions (
+
+   7)]
+
+  . Mirtazapine did not significantly affect the pharmacokinetics of phenytoin. 
+
+                           Carbamazepine 
+
+  In healthy male subjects (n=24), carbamazepine (400 mg twice a day, at steady state) increased mirtazapine (15 mg twice a day, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60%
+
+  [see Drug Interactions (
+
+   7)]. 
+
+                           Cimetidine 
+
+  In healthy male subjects (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50%
+
+  [see Drug Interactions (
+
+   7)].
+
+  Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine. 
+
+                           Ketoconazole 
+
+  In healthy male Caucasian subjects (n=24), coadministration of the strong CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30 mg dose of mirtazapine by approximately 40% and 50%, respectively
+
+  [see Drug Interactions (
+
+   7)]. 
+
+                           Amitriptyline 
+
+  In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline. 
+
+                           Paroxetine 
+
+  In healthy CYP2D6 extensive metabolizer subjects (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor. 
+
+                           Lithium
+
+  No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with lithium 600 mg/day for 10 days at steady state and a single 30 mg dose of mirtazapine. The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown. 
+
+                           Risperidone 
+
+  Mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg twice a day) in subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug.
+
+                           Alcohol 
+
+  Concomitant administration of alcohol (equivalent to 60 g) had a minimal effect on plasma levels of mirtazapine (15 mg) in 6 healthy male subjects. However, the impairment of cognitive and motor skills produced by mirtazapine tablets were shown to be additive with those produced by alcohol. 
+
+                           Diazepam 
+
+  Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. However, the impairment of motor skills produced by mirtazapine tablets has been shown to be additive with those caused by diazepam.

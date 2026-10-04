@@ -1,0 +1,5 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 5.7 Malignant Hyperthermia (MH)
+
+Rocuronium bromide has not been studied in MH-susceptible patients. Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic [see Adverse Reactions (6.2)].
+
+                        In an animal study in MH-susceptible swine, the administration of rocuronium bromide injection did not appear to trigger malignant hyperthermia.

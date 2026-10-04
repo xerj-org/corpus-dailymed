@@ -1,0 +1,16 @@
+DailyMed a1cc1580-50d9-4b9b-a002-1fc6686a9515 | Nelarabine | 2.3 Dosage in Special Populations
+
+Nelarabine injection has not been studied in patients with renal or hepatic dysfunction
+  [see Use in Specific Populations (
+
+                              8.6
+
+                           ,
+
+                              8.7
+
+                           )]. No dose adjustment is recommended for patients with a creatinine clearance (CLCr) greater than or equal to 50 mL/min
+  [see
+
+                              Clinical Pharmacology (12.3)].
+  There are insufficient data to support a dose recommendation for patients with a CLCr less than 50 mL/min.

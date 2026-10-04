@@ -1,0 +1,7 @@
+DailyMed 60f656ff-97b1-4a89-99af-8100483c2bac | Acetazolamide | CONTRAINDICATIONS
+
+Hypersensitivity to acetazolamide or any excipients in the formulation. Since acetazolamide is a sulfonamide derivative, cross sensitivity between acetazolamide, sulfonamides and other sulfonamide derivatives is possible.
+
+                  Acetazolamide therapy is contraindicated in situations in which sodium and/or potassium blood serum levels are depressed, in cases of marked kidney and liver disease or dysfunction, in suprarenal gland failure, and in hyperchloremic acidosis. It is contraindicated in patients with cirrhosis because of the risk of development of hepatic encephalopathy.
+
+                  Long-term administration of acetazolamide is contraindicated in patients with chronic noncongestive angle-closure glaucoma since it may permit organic closure of the angle to occur while the worsening glaucoma is masked by lowered intraocular pressure.

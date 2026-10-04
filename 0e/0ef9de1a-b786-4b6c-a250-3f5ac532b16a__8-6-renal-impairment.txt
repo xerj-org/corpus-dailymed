@@ -1,0 +1,4 @@
+DailyMed 0ef9de1a-b786-4b6c-a250-3f5ac532b16a | METFORMIN HYDROCHLORIDE | 8.6 Renal Impairment
+
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment. metformin hydrochloride extended-release tablets are contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/minute/1.73 m2
+                           [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].

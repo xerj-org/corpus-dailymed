@@ -1,0 +1,123 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 2.7 Dosing for Adult Patients with Renal Impairment
+
+In view of dose-dependent adverse reactions and since pregabalin capsule is eliminated primarily by renal excretion, adjust the dose in adult patients with reduced renal function. The use of pregabalin capsules  in pediatric patients with compromised renal function has not been studied.
+
+  Base the dose adjustment in patients with renal impairment on creatinine clearance (CLcr), as indicated in Table 2. To use this dosing table, an estimate of the patient's CLcr in mL/min is needed. CLcr in mL/min may be estimated from serum creatinine (mg/dL) determination using the Cockcroft and Gault equation:
+
+                        Next, refer to the Dosage and Administration section to determine the recommended total daily dose based on indication, for a patient with normal renal function (CLcr greater than or equal to 60 mL/min). Then refer to Table 2 to determine the corresponding renal adjusted dose.
+
+  (For example: A patient initiating pregabalin capsules therapy for postherpetic neuralgia with normal renal function (CLcr greater than or equal to 60 mL/min), receives a total daily dose of 150 mg/day pregabalin. Therefore, a renal impaired patient with a CLcr of 50 mL/min would receive a total daily dose of 75 mg/day pregabalin administered in two or three divided doses.)
+
+  For patients undergoing hemodialysis, adjust the pregabalin daily dose based on renal function. In addition to the daily dose adjustment, administer a supplemental dose immediately following every 4-hour hemodialysis treatment (see Table 2).
+
+                           Table 2. Pregabalin Dosage Adjustment Based on Renal Function
+
+                                    Creatinine Clearance (CLcr) (mL/min)
+
+                                  |
+
+                                    Total Pregabalin Daily Dose (mg/day)*
+
+                                  |
+
+                                    Dose Regimen
+
+                                  |
+
+                                 Greater than or equal to 60
+
+                                  |
+                                 150
+
+                                  |
+                                 300
+
+                                  |
+                                 450
+
+                                  |
+                                 600
+
+                                  |
+                                 BID or TID
+
+                                  |
+
+                                 30 to 60
+
+                                  |
+                                 75
+
+                                  |
+                                 150
+
+                                  |
+                                 225
+
+                                  |
+                                 300
+
+                                  |
+                                 BID or TID
+
+                                  |
+
+                                 15 to 30
+
+                                  |
+                                 25 to 50
+
+                                  |
+                                 75
+
+                                  |
+                                 100 to 150
+
+                                  |
+                                 150
+
+                                  |
+                                 QD or BID
+
+                                  |
+
+                                 Less than15
+
+                                  |
+                                 25
+
+                                  |
+                                 25 to 50
+
+                                  |
+                                 50 to 75
+
+                                  |
+                                 75
+
+                                  |
+                                 QD
+
+                                  |
+
+                                 Supplementary dosage following hemodialysis (mg)
+
+     †
+
+                                  |
+
+                                 Patients on the 25 mg QD regimen: take one supplemental dose of 25 mg or 50 mg
+
+  Patients on the 25 to 50 mg QD regimen: take one supplemental dose of 50 mg or 75 mg
+
+  Patients on the 50 to 75mg QD regimen: take one supplemental dose of 75 mg or 100 mg
+
+  Patients on the 75 mg QD regimen: take one supplemental dose of 100 mg or 150 mg
+
+                                  |
+
+                        TID= Three divided doses; BID = Two divided doses; QD = Single daily dose.
+
+                        * Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose.
+
+                           †Supplementary dose is a single additional dose.

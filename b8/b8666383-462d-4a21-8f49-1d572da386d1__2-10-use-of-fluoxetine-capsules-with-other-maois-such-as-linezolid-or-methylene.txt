@@ -1,0 +1,21 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 2.10 Use of Fluoxetine Capsules with Other MAOIs such as Linezolid or Methylene Blue
+
+Do not start fluoxetine capsules in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome. In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered
+
+  [see
+
+   Contraindications (4.1)].
+
+                           In some cases, a patient already receiving fluoxetine capsules therapy may require urgent treatment with linezolid or intravenous methylene blue. If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, fluoxetine capsules should be stopped promptly, and linezolid or intravenous methylene blue can be administered. The patient should be monitored for symptoms of serotonin syndrome for five weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first. Therapy with fluoxetine capsules may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue
+
+  [see
+
+   Warnings and Precautions (5.2)].
+
+                           The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with fluoxetine capsules is unclear. The healthcare provider should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use
+
+  [see
+
+   Warnings and Precautions (5.2)]
+
+  .

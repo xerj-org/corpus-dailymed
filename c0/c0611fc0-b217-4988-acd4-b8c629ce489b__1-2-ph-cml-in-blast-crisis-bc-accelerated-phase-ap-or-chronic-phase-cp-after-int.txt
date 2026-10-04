@@ -1,0 +1,3 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 1.2 Ph+ CML in Blast Crisis (BC), Accelerated Phase (AP) or Chronic Phase (CP) After Interferon-alpha (IFN) Therapy
+
+Patients with Philadelphia chromosome positive chronic myeloid leukemia in blast crisis, accelerated phase, or in chronic phase after failure of interferon-alpha therapy.

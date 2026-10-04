@@ -1,0 +1,3 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 12.1 Mechanism of Action
+
+Divalproex sodium dissociates to the valproate ion in the gastrointestinal tract. The mechanisms by which valproate exerts its therapeutic effects have not been established. It has been suggested that its activity in epilepsy is related to increased brain concentrations of gamma-aminobutyric acid (GABA).

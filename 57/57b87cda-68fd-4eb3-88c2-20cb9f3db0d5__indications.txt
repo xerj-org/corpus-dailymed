@@ -1,0 +1,5 @@
+DailyMed 57b87cda-68fd-4eb3-88c2-20cb9f3db0d5 | Thyroid, Thymus, Parathyroid Sarcode | INDICATIONS:
+
+Provides specific sarcode support for the thyroid, thymus and parathyroid.†
+
+                  †Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.

@@ -1,0 +1,9 @@
+DailyMed 2dc730d5-55fd-4e98-8c8a-daa7d8f872b0 | Menveo | 5.3 Altered Immunocompetence
+
+Reduced Immune Response
+
+                        Some individuals with altered immunocompetence, including some individuals receiving immunosuppressant therapy, may have reduced immune responses to MENVEO.
+
+                           Complement Deficiency
+
+                        Persons with certain complement deficiencies and persons receiving treatment that inhibits terminal complement activation (for example, eculizumab) are at increased risk for invasive disease caused by N. meningitidis, including invasive disease caused by serogroups A, C, Y, and W, even if they develop antibodies following vaccination with MENVEO. [See Clinical Pharmacology (12.1).]

@@ -1,0 +1,3 @@
+DailyMed 8d5f9f77-403e-432a-8dcb-7995c6947ae0 | Topiramate | 5.2 Visual Field Defects
+
+Visual field defects (independent of elevated intraocular pressure) have been reported in clinical trials and in postmarketing experience in patients receiving topiramate independent of elevated intraocular pressure. In clinical trials, most of these events were reversible after topiramate discontinuation. If visual problems occur at any time during treatment with topiramate, consideration should be given to discontinuing the drug.

@@ -1,0 +1,51 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 14.2 External Genital Warts
+
+In two double-blind, randomized, placebo-controlled clinical trials, 601 subjects with EGW were treated with imiquimod cream, 3.75% or a matching vehicle (Studies EGW1 and EGW2). Trials enrolled subjects aged from 15 to 81 years. The baseline 2 2 wart area ranged from 6 to 5,579 mm
+
+  2(median 60 mm
+
+  2) and the baseline wart count ranged from 2 to 48 warts. Most subjects had two or more treated anatomic areas at baseline. Anatomic areas included: inguinal, perineal, and perianal areas (both sexes); the glans penis, penis shaft, scrotum, and foreskin (in males); and the vulva (in females). Up to one packet of trial cream was applied once daily. The trial cream was applied to all warts prior to normal sleeping hours and left on for approximately 8 hours. Subjects continued applying the trial cream for up to 8 weeks, stopping if they achieved complete clearance of all (baseline and new) warts in all anatomic areas. Subjects who achieved complete clearance of all warts at any time up to the Week 16 visit entered a 12-week follow-up period to assess recurrence.
+
+                        Complete clearance was defined as clearance of all war ts (baseline and new) in all anatomic areas within 16 weeks from baseline. The complete clearance rates are shown in Table 7. The proportions of subjects who achieved complete clearance at or before a given week (cumulative proportion) for the combined studies are shown in Figure 1. Complete clearance rates by sex for the combined studies are shown in Table 8.
+
+                           Table 7: Percent of Subjects with Complete Clearance of EGW Within 16 Weeks from Baseline
+
+                                  |
+
+                                    Imiquimod Cream, 3.75%
+                                  |
+
+                                    Vehicle Cream
+                                  |
+
+                                 Study EGW1 |
+                                 53/195 (27%) |
+                                 10/97 (10%) |
+
+                                 Study EGW2 |
+                                 60/204 (29%) |
+                                 9/105 (9%) |
+
+                           Figure 1: Cumulative Proportion of Subjects Achieving Complete Clearance of EGW by a Given Week (Studies EGW1 and EGW2)
+
+                           Table 8: Percent of Subjects with Complete Clearance of EGW within 16 Weeks from Baseline by Sex (Studies EGW1 and EGW2)
+
+                                  |
+
+                                    Imiquimod Cream, 3.75%
+                                  |
+
+                                    Vehicle Cream
+                                  |
+
+                                 Females |
+                                 79/216 (37%) |
+                                 15/106 (14%) |
+
+                                 Males |
+                                 34/183 (19%) |
+                                 4/96 (4%) |
+
+                        Of the 113 imiquimod cream, 3.75%-treated subjects who achieved complete clearance in the two trials, 17 (15%) subjects had a recurrence within 12 weeks.
+
+                        No trials were conducted directly comparing the 3.75% and 5% concentrations of imiquimod cream in the treatment of external genital warts.

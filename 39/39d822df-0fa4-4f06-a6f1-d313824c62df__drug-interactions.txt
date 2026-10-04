@@ -1,0 +1,9 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | Drug Interactions
+
+Metoprolol is metabolized predominantly by CYP2D6. In healthy subjects with CYP2D6 extensive metabolizer phenotype, coadministration of quinidine 100 mg, a potent CYP2D6 inhibitor, and immediate-release metoprolol 200 mg tripled the concentration of S-metoprolol and doubled the metoprolol elimination half-life. In four patients with cardiovascular disease, coadministration of propafenone 150 mg t.i.d. with immediate-release metoprolol 50 mg t.i.d. increased the steady-state metoprolol concentration 2- to 5-fold compared to metoprolol alone. Extensive metabolizers who concomitantly use CYP2D6 inhibiting drugs will have increased (several-fold) metoprolol blood levels, decreasing metoprolol's cardioselectivity
+
+  [see
+
+   Drug Interactions (7.2)]
+
+  .

@@ -1,0 +1,5 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.4 Risk of Prolonged Neuromuscular Blockade
+
+In clinical trials, a small number of patients experienced a delayed or minimal response to the administration of Sugammadex Injection
+
+  [see Clinical Studies (14.1)]. Thus, it is important to monitor ventilation until recovery occurs.

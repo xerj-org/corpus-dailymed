@@ -1,0 +1,9 @@
+DailyMed f3da2c54-74bb-4186-8cc2-f80e944e12a9 | Lidocaine and prilocaine | WARNINGS
+
+Application of lidocaine and prilocaine cream to larger areas or for longer times than those recommended could result in sufficient absorption of lidocaine and prilocaine resulting in serious adverse effects (see
+                        Individualization of Dose
+                     ).
+
+                  Patients treated with class III anti-arrhythmic drugs (e.g., amiodarone, bretylium, sotalol, dofetilide) should be under close surveillance and ECG monitoring considered, because cardiac effects may be additive.
+
+                  Studies in laboratory animals (guinea pigs) have shown that lidocaine and prilocaine cream has an ototoxic effect when instilled into the middle ear. In these same studies, animals exposed to lidocaine and prilocaine cream only in the external auditory canal, showed no abnormality. Lidocaine and prilocaine cream should not be used in any clinical situation when its penetration or migration beyond the tympanic membrane into the middle ear is possible.

@@ -1,0 +1,5 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 8.5 Geriatric Use
+
+Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions. If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects
+
+  [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.14)].

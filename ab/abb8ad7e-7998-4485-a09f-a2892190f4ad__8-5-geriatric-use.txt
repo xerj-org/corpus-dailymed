@@ -1,0 +1,11 @@
+DailyMed abb8ad7e-7998-4485-a09f-a2892190f4ad | ARIPIPRAZOLE | 8.5 Geriatric Use
+
+No dosage adjustment is recommended for elderly patients [see  Boxed Warning, Warnings and Precautions(5.1), and Clinical Pharmacology (12.3)].
+
+                        Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1,073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old. Placebo-controlled studies of aripiprazole in schizophrenia, bipolar mania, or other indication did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+
+                        Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer’s disease [see
+
+                               Boxed Warning
+
+                            and Warnings and Precautions(5.1)].

@@ -1,0 +1,51 @@
+DailyMed abb8ad7e-7998-4485-a09f-a2892190f4ad | ARIPIPRAZOLE | 2.6 Dosage Adjustments for Cytochrome P450 Considerations
+
+Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 1). When the coadministered drug is withdrawn from the combination therapy, aripiprazole dosage should then be adjusted to its original level. When the coadministered CYP3A4 inducer is withdrawn, aripiprazole dosage should be reduced to the original level over 1 to 2 weeks. Patients who may be receiving a combination of strong, moderate, and weak inhibitors of CYP3A4 and CYP2D6 (e.g., a strong CYP3A4 inhibitor and a moderate CYP2D6 inhibitor or a moderate CYP3A4 inhibitor with a moderate CYP2D6 inhibitor), the dosing may be reduced to one-quarter (25%) of the usual dose initially and then adjusted to achieve a favorable clinical response.
+
+                           Table 1: Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, CYP3A4 Inhibitors, and/or CYP3A4 Inducers
+
+                                    Factors
+                                  |
+
+                                    Dosage Adjustments for Aripiprazole
+                                  |
+
+                                    Known CYP2D6 Poor Metabolizers
+
+                                  |
+
+                                    Administer half of usual dose
+
+                                  |
+
+                                    Known CYP2D6 Poor Metabolizers taking concomitant strong CYP3A4 inhibitors (e.g., itraconazole, clarithromycin)
+
+                                  |
+
+                                    Administer a quarter of usual dose
+
+                                  |
+
+                                    Strong CYP2D6 (e.g., quinidine, fluoxetine, paroxetine) or CYP3A4 inhibitors (e.g., itraconazole, clarithromycin)
+
+                                  |
+
+                                    Administer half of usual dose
+
+                                  |
+
+                                    Strong CYP2D6 and CYP3A4 inhibitors
+
+                                  |
+
+                                    Administer a quarter of usual dose
+
+                                  |
+
+                                    Strong CYP3A4 inducers (e.g., carbamazepine, rifampin)
+
+                                  |
+
+                                    Double usual dose over 1 to 2 weeks
+
+                                  |

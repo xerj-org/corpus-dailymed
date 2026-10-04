@@ -1,0 +1,3 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 8.7 Hepatic Impairment
+
+The effect of moderate or severe hepatic impairment on the pharmacokinetics of palovarotene has not been evaluated. SOHONOS undergoes extensive hepatic metabolism. No dose adjustment is recommended in patients with mild (Child-Pugh A) hepatic impairment. Use of SOHONOS in patients with moderate (Child-Pugh B) or severe (Child-Pugh C) hepatic impairment is not recommended.

@@ -1,0 +1,84 @@
+DailyMed 36bca22f-49ea-42ce-926b-035c42eb6038 | Fosfomycin Tromethamine | CLINICAL PHARMACOLOGY
+
+Absorption: Fosfomycin tromethamine is rapidly absorbed following oral administration and converted to the free acid, fosfomycin. Absolute oral bioavailability under fasting conditions is 37%. After a single 3-gram dose of fosfomycin tromethamine, the mean (±1 SD) maximum serum concentration (Cmax) achieved was 26.1 (±9.1) mcg/mL within 2 hours. The oral bioavailability of fosfomycin is reduced to 30% under fed conditions. Following a single 3-gram oral dose of fosfomycin tromethamine with a high-fat meal, the mean Cmax achieved was 17.6 (±4.4) mcg/mL within 4 hours.
+
+                  Cimetidine does not affect the pharmacokinetics of fosfomycin when coadministered with fosfomycin tromethamine. Metoclopramide lowers the serum concentrations and urinary excretion of fosfomycin when coadministered with fosfomycin tromethamine. (See PRECAUTIONS, Drug Interactions)
+
+                      Distribution: The mean apparent steady-state volume of distribution (Vss) is 136.1 (±44.1) L following oral administration of fosfomycin tromethamine. Fosfomycin is not bound to plasma proteins.
+
+                                                                                                                                                                  
+
+                  Fosfomycin is distributed to the kidneys, bladder wall, prostate, and seminal vesicles. Following a 50 mg/kg dose of fosfomycin to patients undergoing urological surgery for bladder carcinoma, the mean concentration of fosfomycin in the bladder, taken at a distance from the neoplastic site, was 18.0 mcg per gram of tissue at 3 hours after dosing. Fosfomycin has been shown to cross the placental barrier in animals and man.
+
+                      Excretion: Fosfomycin is excreted unchanged in both urine and feces. Following oral administration of fosfomycin tromethamine, the mean total body clearance (CLTB) and mean renal clearance (CLR) of fosfomycin were 16.9 (±3.5) L/hr and 6.3 (±1.7) L/hr, respectively. Approximately 38% of a 3-gram dose of fosfomycin tromethamine is recovered from urine, and 18% is recovered from feces. Following intravenous administration, the mean CLTB and mean CLR of fosfomycin were 6.1 (±1.0) L/hr and 5.5 (±1.2) L/hr, respectively.
+
+                  A mean urine fosfomycin concentration of 706 (±466) mcg/mL was attained within 2-4 hours after a single oral 3-gram dose of fosfomycin tromethamine under fasting conditions. The mean urinary concentration of fosfomycin was 10 mcg/mL in samples collected 72-84 hours following a single oral dose of fosfomycin tromethamine.
+
+                  Following a 3-gram dose of fosfomycin tromethamine administered with a high fat meal, a mean urine fosfomycin concentration of 537 (±252) mcg/mL was attained within 6-8 hours. Although the rate of urinary excretion of fosfomycin was reduced under fed conditions, the cumulative amount of fosfomycin excreted in the urine was the same, 1118 (±201) mg (fed) vs. 1140 mg (±238) (fasting). Further, urinary concentrations equal to or greater than 100 mcg/mL were maintained for the same duration, 26 hours, indicating that fosfomycin tromethamine can be taken without regard to food.
+
+                  Following oral administration of fosfomycin tromethamine, the mean half-life for elimination (t1/2) is 5.7 (±2.8) hours.
+
+                     Special Populations:
+
+                     Geriatric: Based on limited data regarding 24-hour urinary drug concentrations, no differences in urinary excretion of fosfomycin have been observed in elderly subjects. No dosage adjustment is necessary in the elderly.
+
+                      
+
+                     Gender: There are no gender differences in the pharmacokinetics of fosfomycin.
+
+                     Renal Insufficiency: In 5 anuric patients undergoing hemodialysis, the t1/2 of fosfomycin during hemodialysis was 40 hours. In patients with varying degrees of renal impairment (creatinine clearances varying from 54 mL/min to 7 mL/min), the t1/2 of fosfomycin increased from 11 hours to 50 hours. The percent of fosfomycin recovered in urine decreased from 32% to 11% indicating that renal impairment significantly decreases the excretion of fosfomycin.
+
+                      
+
+                     Microbiology
+
+                  Fosfomycin (the active component of fosfomycin tromethamine) has in vitro activity against a broad range of gram-positive and gram-negative aerobic microorganisms which are associated with uncomplicated urinary tract infections. Fosfomycin is bactericidal in urine at therapeutic doses. The bactericidal action of fosfomycin is due to its inactivation of the enzyme enolpyruvyl transferase, thereby irreversibly blocking the condensation of uridine diphosphate-N-acetylglucosamine with p-enolpyruvate, one of the first steps in bacterial cell wall synthesis. It also reduces adherence of bacteria to uroepithelial cells.
+
+                  There is generally no cross-resistance between fosfomycin and other classes of antibacterial agents such as beta-lactams and aminoglycosides.
+
+                  Fosfomycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
+
+                        Aerobic gram-positive microorganisms
+
+                     Enterococcus faecalis
+
+                      
+
+                        Aerobic gram-negative microorganisms
+
+                     Escherichia coli
+
+                  The following in vitro data are available,
+                        but their clinical significance is unknown.
+
+                  Fosfomycin exhibits in vitro minimum inhibitory concentrations (MIC's) of 64 mcg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of fosfomycin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials:
+
+                        Aerobic gram-positive microorganisms
+
+                     Enterococcus faecium
+
+                        Aerobic gram-negative microorganisms
+
+                     Citrobacter diversus
+
+                     Citrobacter freundii
+
+                     Enterobacter aerogenes
+
+                     Klebsiella oxytoca
+
+                     Klebsiella pneuomoniae
+
+                     Proteus mirabilis
+
+                     Proteus vulgaris
+
+                     Serratia marcescens
+
+                      
+
+                      
+
+                        Susceptibility Testing
+
+                  For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

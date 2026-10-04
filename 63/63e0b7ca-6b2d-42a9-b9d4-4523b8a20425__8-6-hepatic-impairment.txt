@@ -1,0 +1,19 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 8.6 Hepatic Impairment
+
+Administration of rabeprazole sodium delayed-release tablets to patients with mild to moderate hepatic impairment (Child-Pugh Class A and B, respectively) resulted in increased exposure and decreased elimination
+
+  [see Clinical Pharmacology
+
+   (12.3)]
+
+  . No dosage adjustment is necessary in patients with mild to moderate hepatic impairment. There is no information in patients with severe hepatic impairment (Child-Pugh Class C). Avoid use of rabeprazole sodium delayed-release tablets in patients with severe hepatic impairment; however, if treatment is necessary, monitor patients for adverse reactions
+
+  [see
+
+                              Warnings and Precautions (5)
+
+                           ,
+
+                              Adverse Reactions (6)
+
+                           ].

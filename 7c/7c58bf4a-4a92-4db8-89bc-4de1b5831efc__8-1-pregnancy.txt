@@ -1,0 +1,37 @@
+DailyMed 7c58bf4a-4a92-4db8-89bc-4de1b5831efc | Atorvastatin calcium | 8.1 Pregnancy
+
+Risk Summary
+
+                        Discontinue atorvastatin calcium tablets when pregnancy is recognized. Alternatively, consider the ongoing therapeutic needs of the individual patient. Atorvastatin calcium tablets decreases synthesis of cholesterol and possibly other biologically active substances derived from cholesterol; therefore, atorvastatin calcium tablets may cause fetal harm when administered to pregnant patients based on the mechanism of action
+
+  [see Clinical Pharmacology (
+
+   12.1)].
+
+  In addition, treatment of hyperlipidemia is not generally necessary during pregnancy. Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hyperlipidemia for most patients.
+
+                        Available data from case series and prospective and retrospective observational cohort studies over decades of use with statins in pregnant women have not identified a drug-associated risk of major congenital malformations. Published data from prospective and retrospective observational cohort studies with atorvastatin calcium tablets use in pregnant women are insufficient to determine if there is a drug-associated risk of miscarriage
+
+  (see Data). In animal reproduction studies, no adverse developmental effects were observed in pregnant rats or rabbits orally administered atorvastatin at doses that resulted in up to 30 and 20 times, respectively, the human exposure at the maximum recommended human dose (MRHD) of 80 mg, based on body surface area (mg/m
+
+  2). In rats administered atorvastatin during gestation and lactation, decreased postnatal growth and development delay were observed at doses ≥ 6 times the MRHD
+
+  (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+                           Data
+
+                           Human Data
+
+                        A Medicaid cohort linkage study of 1,152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential confounders – including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use – using propensity score-based methods. The relative risk of congenital malformations between the group with statin use and the group with no statin use in the first trimester was 1.07 (95% confidence interval 0.85 to 1.37) after controlling for confounders, particularly pre-existing diabetes mellitus. There were also no statistically significant increases in any of the organ-specific malformations assessed after accounting for confounders. In the majority of pregnancies, statin treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified. Study limitations include reliance on physician coding to define the presence of a malformation, lack of control for certain confounders such as body mass index, use of prescription dispensing as verification for the use of a statin, and lack of information on non-live births.
+
+                           Animal Data
+
+                        Atorvastatin was administered to pregnant rats and rabbits during organogenesis at oral doses up to 300 mg/kg/day and 100 mg/kg/day, respectively. Atorvastatin was not teratogenic in rats at doses up to 300 mg/kg/day or in rabbits at doses up to 100 mg/kg/day. These doses resulted in multiples of about 30 times (rat) or 20 times (rabbit) the human exposure at the MRHD based on surface area (mg/m
+
+  2). In rats, the maternally toxic dose of 300 mg/kg resulted in increased post-implantation loss and decreased fetal body weight. At the maternally toxic doses of 50 and 100 mg/kg/day in rabbits, there was increased post-implantation loss, and at 100 mg/kg/day fetal body weights were decreased.
+
+                        In a study in pregnant rats administered  20, 100, or 225 mg/kg/day from gestation day 7 through to lactation day 20 (weaning), there was decreased survival at birth, postnatal day 4, weaning, and post-weaning in pups of mothers dosed with 225 mg/kg/day, a dose at which maternal toxicity was observed. Pup body weight was decreased through postnatal day 21 at 100 mg/kg/day, and through postnatal day 91 at 225 mg/kg/day. Pup development was delayed (rotarod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day). These doses correspond to 6 times (100 mg/kg) and 22 times (225 mg/kg) the human exposure at the MRHD, based on AUC.
+
+                        Atorvastatin crosses the rat placenta and reaches a level in fetal liver equivalent to that of maternal plasma.

@@ -1,0 +1,5 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Hypoglycemia
+
+Chloroquine has been shown to cause severe hypoglycemia including loss of consciousness that could be life-threatening in patients treated with or without antidiabetic medications (see
+                              PRECAUTIONS, Drug Interactions
+                           ). Patients treated with chloroquine phosphate tablets should be warned about the risk of hypoglycemia and the associated clinical signs and symptoms. Patients presenting with clinical symptoms suggestive of hypoglycemia during treatment with chloroquine should have their blood glucose level checked and treatment reviewed as necessary.

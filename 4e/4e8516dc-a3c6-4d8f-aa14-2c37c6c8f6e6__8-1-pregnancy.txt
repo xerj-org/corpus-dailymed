@@ -1,0 +1,15 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+ There is a pregnancy exposure registry that documents pregnancies in patients exposed to isotretinoin during pregnancy. Report any suspected fetal exposure during or 1 month after isotretinoin treatment immediately to the FDA via the MedWatch telephone number 1-800-FDA-1088 and also to the iPLEDGE pregnancy registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
+
+                           Risk Summary
+
+                        Isotretinoin is contraindicated during pregnancy because isotretinoin can cause fetal harm when administered to a pregnant patient. There is an increased risk of major congenital malformations, spontaneous abortions, and premature births following isotretinoin exposure during pregnancy in humans. If isotretinoin is used during pregnancy, or if the patient becomes pregnant while taking isotretinoin, apprise the patient of the potential hazard to a fetus. If pregnancy occurs during treatment of a patient who is taking isotretinoin, immediately discontinue isotretinoin and refer the patient to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
+
+                           Data
+
+                           Human Data: Major congenital malformations that have been documented following isotretinoin exposure include malformations of the face, eyes, ears, skull, central nervous system, cardiovascular system, and thymus and parathyroid glands. External malformations include: skull; ear (including anotia, micropinna, small or absent external auditory canals); eye (including microphthalmia); facial dysmorphia and cleft palate. Internal abnormalities include: central nervous system (including cerebral and cerebellar malformations, hydrocephalus, microcephaly, cranial nerve deficit); cardiovascular; thymus gland; parathyroid hormone deficiency. In some cases, death has occurred as a result of the malformations.
+
+                        Cases of IQ scores less than 85 with or without other abnormalities have been reported in children exposed in utero to isotretinoin. An increased risk of spontaneous abortion and premature births have been reported with isotretinoin exposure during pregnancy.

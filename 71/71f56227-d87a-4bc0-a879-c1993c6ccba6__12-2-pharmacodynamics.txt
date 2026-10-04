@@ -1,0 +1,7 @@
+DailyMed 71f56227-d87a-4bc0-a879-c1993c6ccba6 | Dexmethylphenidate HydrochlorideExtended-Release | 12.2 Pharmacodynamics
+
+Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic methylphenidate. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+
+                           Cardiac Electrophysiology
+
+                        At the recommended maximum total daily dosage of 40 mg, dexmethylphenidate hydrochloride extended-release capsules does not prolong the QTc interval to any clinically relevant extent.

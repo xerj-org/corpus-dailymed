@@ -1,0 +1,3 @@
+DailyMed 26c3694b-d7ef-4068-95d3-4f7a9210e117 | Amoxicillin | 8.1 Pregnancy
+
+Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area). There was no evidence of harm to the fetus due to amoxicillin. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, amoxicillin should be used during pregnancy only if clearly needed.

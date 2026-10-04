@@ -1,0 +1,7 @@
+DailyMed 5f8b3313-0286-499f-9235-02cdc0eb063b | Bupropion Hydrochloride SR | 2.4 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with bupropion hydrochloride extended-release tablets (SR). Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride extended-release tablets (SR) before starting an MAOI antidepressant
+  [see Contraindications (
+   4), Drug Interactions (
+   7.6)]
+  .

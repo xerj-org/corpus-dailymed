@@ -1,0 +1,5 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 6.1 Clinical Studies Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety population described in the Warnings and Precautions reflect exposure to VERZENIO in 3899 patients from five clinical trials including 132 patients treated with VERZENIO as monotherapy at 200 mg twice daily in MONARCH 1, 3767 patients treated with VERZENIO in combination with fulvestrant, tamoxifen, imlunestrant or an aromatase inhibitor at 150 mg twice daily in MONARCH 2, monarchE, EMBER-3, and MONARCH 3. The median duration of exposure ranged from 4.5 months in MONARCH 1 to 24 months in monarchE. The most common adverse reactions (incidence ≥20%) across clinical trials were: diarrhea, infections, neutropenia, fatigue, abdominal pain, nausea, leukopenia, anemia, and vomiting.

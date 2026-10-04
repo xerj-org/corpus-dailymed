@@ -1,0 +1,17 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 8.1 Pregnancy
+
+Risk Summary
+
+                        There are no adequate data on the developmental risk associated with the use of ropinirole tablets in pregnant women. In animal studies, ropinirole had adverse effects on development when administered to pregnant rats at doses similar to (neurobehavioral impairment) or greater than (teratogenicity and embryolethality at >36 times) the MRHD for Parkinson’s disease. Ropinirole doses associated with teratogenicity and embryolethality in pregnant rats were associated with maternal toxicity. In pregnant rabbits, ropinirole potentiated the teratogenic effects of L-dopa when these drugs were administered in combination [see Data].
+
+                        In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. The background risk of major birth defects and miscarriage in the indicated populations is unknown.
+
+                           Data
+
+                           Animal Data :
+
+                        Oral administration of ropinirole (0, 20, 60, 90, 120, or 150 mg/kg/day) to pregnant rats during organogenesis resulted in embryolethality, increased incidence of fetal malformations (digit, cardiovascular, and neural tube defects) and variations, and decreased fetal weight at the 2 highest doses. These doses were also associated with maternal toxicity. The highest no-effect dose for adverse effects on embryofetal development (90 mg/kg/day) is approximately 36 times the MRHD for Parkinson’s disease (24 mg/day) on a body surface area (mg/m2) basis.
+
+                        No effect on embryofetal development was observed in rabbits when ropinirole was administered alone during organogenesis at oral doses of 0, 1, 5, or 20 mg/kg/day (up to 16 times the MRHD on a mg/m2 basis). In pregnant rabbits, there was a greater incidence and severity of fetal malformations (primarily digit defects) when ropinirole (10 mg/kg/day) was administered orally during gestation in combination with L-dopa (250 mg/kg/day) than when L-dopa was administered alone. This drug combination was also associated with maternal toxicity.
+
+                        Oral administration of ropinirole (0, 0.1, 1, or 10 mg/kg/day) to rats during late gestation and continuing throughout lactation resulted in neurobehavioral impairment (decreased startle response) and decreased body weight in offspring at the highest dose. The no-effect dose of 1 mg/kg/day is less than the MRHD on a mg/m2 basis.

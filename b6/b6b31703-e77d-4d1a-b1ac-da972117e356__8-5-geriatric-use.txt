@@ -1,0 +1,23 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 8.5 Geriatric Use
+
+Approximately 190 patients ≥65 years of age participated in clinical studies with mirtazapine tablets. Mirtazapine tablets are known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function. Pharmacokinetic studies revealed a decreased clearance of mirtazapine in the elderly
+
+  [see Clinical Pharmacology (
+
+   12.3)]
+
+  .
+
+   
+
+  Sedating drugs, including mirtazapine tablets, may cause confusion and over-sedation in the elderly. Elderly patients may be at greater risk of developing hyponatremia. Caution is indicated when administering mirtazapine tablets to elderly patients
+
+  [see Warnings and Precautions (
+
+   5.12), (
+
+   5.15) and Clinical Pharmacology (
+
+   12.3)]
+
+  . In general, dose selection for an elderly patient should be conservative, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

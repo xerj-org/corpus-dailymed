@@ -1,0 +1,5 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The adverse reactions that result from levetiracetam injection use include all of those reported for levetiracetam tablets and oral solution. Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent Cmax, Cmin, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15-minute infusion.

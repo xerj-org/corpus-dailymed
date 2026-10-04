@@ -1,0 +1,25 @@
+DailyMed a50eb0b4-1bee-4781-8eba-75e324540d36 | Ticagrelor | 12.2 Pharmacodynamics
+
+The inhibition of platelet aggregation (IPA) by ticagrelor and clopidogrel was compared in a 6-week study examining both acute and chronic platelet inhibition effects in response to 20 mcM ADP as the platelet aggregation agonist.
+
+                        The onset of IPA was evaluated on Day 1 of the study following loading doses of 180 mg ticagrelor or 600 mg clopidogrel. As shown in Figure 5, IPA was higher in the ticagrelor group at all time points. The maximum IPA effect of ticagrelor was reached at around 2 hours, and was maintained for at least 8 hours.
+
+                        The offset of IPA was examined after 6 weeks on ticagrelor 90 mg twice daily or clopidogrel 75 mg daily, again in response to 20 mcM ADP.
+
+                        As shown in Figure 6, mean maximum IPA following the last dose of ticagrelor was 88% and 62% for clopidogrel. The insert in Figure 6 shows that after 24 hours, IPA in the ticagrelor group (58%) was similar to IPA in clopidogrel group (52%), indicating that patients who miss a dose of ticagrelor would still maintain IPA similar to the trough IPA of patients treated with clopidogrel. After 5 days, IPA in the ticagrelor group was similar to IPA in the placebo group. It is not known how either bleeding risk or thrombotic risk track with IPA, for either ticagrelor or clopidogrel.
+
+                           Figure 5 – Mean inhibition of platelet aggregation (±SE) following single oral doses of placebo, 180 mg ticagrelor or 600 mg clopidogrel
+
+                           Figure 6 – Mean inhibition of platelet aggregation (IPA) following 6 weeks on placebo, ticagrelor 90 mg twice daily, or clopidogrel 75 mg daily
+
+                           •Ticagrelor▲
+
+  Clopidogrel■
+
+  Placebo
+
+                        Transitioning from clopidogrel to ticagrelor resulted in an absolute IPA increase of 26.4% and from ticagrelor to clopidogrel resulted in an absolute IPA decrease of 24.5%. Patients can be transitioned from clopidogrel to ticagrelor without interruption of antiplatelet effect
+
+  [see
+
+   Dosage and Administration (2)].

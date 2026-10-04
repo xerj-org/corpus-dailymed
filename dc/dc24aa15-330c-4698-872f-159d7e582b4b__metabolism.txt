@@ -1,0 +1,3 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | Metabolism
+
+MPA is metabolized principally by glucuronyl transferase to glucuronidated metabolites. The phenolic glucuronide of MPA, MPAG, is the predominant metabolite of MPA and does not manifest pharmacological activity. The acyl glucuronide is a minor metabolite and has comparable pharmacological activity to MPA. In stable renal transplant patients on cyclosporine, USP MODIFIED based immunosuppression, approximately 28% of the oral mycophenolic acid delayed release dose was converted to MPAG by presystemic metabolism. The AUC ratio of MPA:MPAG:acyl glucuronide is approximately 1:24:0.28 at steady state. The mean clearance of MPA was 140 (± 30) mL/min.

@@ -1,0 +1,58 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | 14.1 Clinical Trials in Subjects with Mild-to-Moderate Actinic Keratosis
+
+The efficacy and safety of AMELUZ, in combination with PDT using a narrow spectrum (red light lamp) source, for the treatment of mild-to-moderate AK were evaluated in three randomized, multicenter trials (Trial 1, Trial 2, and Trial 3). Trials 2 and 3 were vehicle-controlled and double-blind. Trial 1 was double-blind with respect to vehicle and observer-blind regarding the active comparator arm. All clinical trials included a follow-up assessment after 6 and 12 months.
+
+                        In these trials, 212 subjects with 4 to 8 mild to moderate AK lesions on the face/forehead and/or bald scalp were treated with up to one tube (2 grams) of AMELUZ on an application area up to 20 cm² and a narrow band spectrum lamp. Subjects ranged from 49 to 87 years of age (mean 71 years), and 92% had Fitzpatrick skin type I, II, or III. No subjects had Fitzpatrick skin type V or VI. Approximately 86% of subjects were male, and all subjects were White.
+
+                        All sessions were comprised of lesion preparation to roughen the surface and remove crusts, application of AMELUZ with occlusion for 3 hours, and removal of the residual gel. Subsequently, the entire treatment area was illuminated with a narrow spectrum red light source, a lamp of either 630 nm or 633 nm and a light dose of approximately 37 J/cm2. In Trial 3, illumination was performed with BF-RhodoLED, a red light source with a narrow spectrum around 635 nm and a light dose of approximately 37 J/cm2.
+
+                        In all trials, the lesions that were not completely cleared 12 weeks after the initial treatment were treated a second time with an identical regimen. In the trials, 42% (88/212) of subjects needed a second treatment.
+
+                        The primary endpoint for all trials was complete clearance 12 weeks after the last PDT. The results of Trials 1, 2 and 3 are presented in Table 3.
+
+                           Table 3: Complete Clearance 12 Weeks After the Last Narrow Spectrum PDT in Subjects with Actinic Keratoses in Trials 1, 2 and 3
+
+                                  |
+
+                                    AMELUZ
+
+                                  |
+                                 Vehicle |
+
+                                    Trial 1
+
+                                  |
+
+                                    106/125 (85%)
+
+                                  |
+
+                                    5/39 (13%)
+
+                                  |
+
+                                    Trial 2
+
+                                  |
+
+                                    27/32 (84%)
+
+                                  |
+
+                                    2/16 (13%)
+
+                                  |
+
+                                    Trial 3
+
+                                  |
+
+                                    50/55 (91%)
+
+                                  |
+
+                                    7/32 (22%)
+
+                                  |
+
+                        Subjects who achieved complete clearance at 12 weeks after the last PDT entered a 12-month follow-up period. In the three trials, subjects who received AMELUZ with the narrowband PDT and achieved complete clearance 12 weeks after the last PDT had recurrence rates of 14%, 11%, and 25%, respectively (at 6 months) and 40%, 22%, and 37%, respectively (at 12 months). Recurrence was defined as the percentage of subjects with at least one recurrent lesion during the 6-month or 12-month follow-up period in subjects with completely cleared lesions 12 weeks after the last PDT.

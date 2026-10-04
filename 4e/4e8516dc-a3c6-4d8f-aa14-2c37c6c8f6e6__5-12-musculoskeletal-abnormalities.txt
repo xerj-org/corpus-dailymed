@@ -1,0 +1,29 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 5.12 Musculoskeletal Abnormalities
+
+Bone Mineral Density Changes, Osteoporosis, and Fractures
+
+ Isotretinoin may have a negative effect on bone mineral density (BMD) in some patients. In a clinical trial of isotretinoin and another isotretinoin capsule product, 27/306 (9%) of pediatric subjects 12 years of age and older had BMD declines, defined as ≥ 4% lumbar spine or total hip, or ≥ 5% femoral neck, during the 20-week treatment period. Repeat scans conducted within 2 to 3 months after the post-treatment scan showed no recovery of BMD. Long-term data at 4 to 11 months showed that 3 out of 7 subjects had total hip and femoral neck BMD below pre-treatment baseline, and 2 others did not show the increase in BMD above baseline expected in this pediatric population. Therefore, healthcare providers should use caution when prescribing isotretinoin to patients with a history of childhood osteoporosis conditions, osteomalacia, or other disorders of bone metabolism or patients diagnosed with anorexia nervosa [see Use in Specific Populations (8.4)].
+
+                        There have been spontaneous reports of osteoporosis, osteopenia, fractures and/or delayed healing of fractures in patients while on treatment with isotretinoin or following cessation of treatment with isotretinoin.
+
+                        Patients in early and late adolescence who participate in sports with repetitive impact may be at an increased risk of spondylolisthesis with and without pars fractures, and hip growth plate injuries have been reported.
+
+                           Musculoskeletal Abnormalities
+
+                        Approximately 16% of subjects treated with isotretinoin capsules in a clinical trial developed musculoskeletal symptoms (including arthralgia) during treatment. In general, these symptoms were mild to moderate, but occasionally required discontinuation of isotretinoin.
+
+                        In a trial of pediatric subjects treated with isotretinoin capsules, approximately 29% (104/358) developed back pain. Back pain was severe in 14% (14/104) of the cases and occurred at a higher frequency in female subjects than male subjects. Arthralgias were experienced in 22% (79/358) of pediatric subjects. Arthralgias were severe in 8% (6/79) of subjects. Evaluate the musculoskeletal system of patients who present with these symptoms during or after a course of isotretinoin. Consider discontinuing isotretinoin if any significant abnormality is found.
+
+                        Effects of multiple courses of isotretinoin on the developing musculoskeletal system are unknown. There is some evidence that long-term, high-dose, or multiple courses of treatment with isotretinoin have more of an effect than a single course of treatment on the musculoskeletal system. It is important to administer isotretinoin at the recommended dose for no longer than the recommended duration.
+
+                           Hyperostosis
+
+                        A high prevalence of skeletal hyperostosis was noted in clinical trials for disorders of keratinization with a mean dose of 2.24 mg/kg/day of isotretinoin capsules (approximately 1.1 times the maximum recommended daily dosage). Additionally, skeletal hyperostosis was noted in 6 of 8 patients in a prospective trial of disorders of keratinization. Minimal skeletal hyperostosis and calcification of ligaments and tendons have also been observed by x-ray in prospective trials of nodular acne patients treated with a single course of treatment at recommended doses. The skeletal effects of multiple isotretinoin treatment courses for acne are unknown.
+
+                        In a clinical trial of 217 pediatric subjects 12 years of age and older with severe recalcitrant nodular acne, hyperostosis was not observed after 16 to 20 weeks of treatment with approximately 1 mg/kg/day of isotretinoin capsules given in two divided doses. Hyperostosis may require a longer time frame to appear. The clinical course and significance remain unknown.
+
+                           Premature Epiphyseal Closure
+
+                        There are spontaneous literature reports of premature epiphyseal closure in acne patients receiving recommended doses of isotretinoin capsules. The effect of multiple courses of isotretinoin on epiphyseal closure is unknown.
+
+                        In a 20-week clinical trial that included 289 pediatric subjects 12 years of age and older on isotretinoin or another isotretinoin capsule product who had hand radiographs taken to assess bone age, a total of 9 (3%) subjects had bone age changes that were clinically significant and for which a drug-related effect cannot be excluded.

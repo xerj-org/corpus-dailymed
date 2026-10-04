@@ -1,0 +1,28 @@
+DailyMed 5ca5b043-533e-2d1a-e063-6294a90a8d4a | Lacosamide | 6 ADVERSE REACTIONS
+
+The following serious adverse reactions are described below and elsewhere in the labeling:
+
+                     Suicidal Behavior and Ideation [
+   see Warnings and Precautions (
+    5.1)
+   ]
+
+                     Dizziness and Ataxia [
+   see Warnings and Precautions (
+    5.2)
+   ]
+
+                     Cardiac Rhythm and Conduction Abnormalities [
+   see Warnings and Precautions (
+    5.3)
+   ]
+
+                     Syncope [
+   see Warnings and Precautions (
+    5.4)
+   ]
+
+                     Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions [
+   see Warnings and Precautions
+    (5.6)
+                        ]

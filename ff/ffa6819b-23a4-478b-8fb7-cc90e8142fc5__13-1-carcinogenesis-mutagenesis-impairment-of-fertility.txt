@@ -1,0 +1,19 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In a 39-week toxicology study in monkeys, tofacitinib at exposure levels approximately 6 times the recommended dose of 5 mg twice daily, and approximately 3 times the 10 mg twice daily dose (on an AUC basis at oral doses of 5 mg/kg twice daily) produced lymphomas. No lymphomas were observed in this study at exposure levels 1 times the recommended dose of 5 mg twice daily, and approximately 0.5 times the 10 mg twice daily dose (on an AUC basis at oral doses of 1 mg/kg twice daily).
+
+                        The carcinogenic potential of tofacitinib was assessed in 6-month rasH2 transgenic mouse carcinogenicity and 2-year rat carcinogenicity studies. Tofacitinib, at exposure levels approximately 34 times the recommended dose of 5 mg twice daily, and approximately 17 times the 10 mg twice daily dose (on an AUC basis at oral doses of 200 mg/kg/day) was not carcinogenic in mice.
+
+                        In the 24-month oral carcinogenicity study in Sprague-Dawley rats, tofacitinib caused benign Leydig cell tumors, hibernomas (malignancy of brown adipose tissue), and benign thymomas at doses greater than or equal to 30 mg/kg/day (approximately 42 times the exposure levels at the recommended dose of 5 mg twice daily, and approximately 21 times the 10 mg twice daily dose on an AUC basis). The relevance of benign Leydig cell tumors to human risk is not known.
+
+                        Tofacitinib was not mutagenic in the bacterial reverse mutation assay. It was positive for clastogenicity in the
+
+  in vitrochromosome aberration assay with human lymphocytes in the presence of metabolic enzymes, but negative in the absence of metabolic enzymes. Tofacitinib was negative in the
+
+  in vivorat micronucleus assay and in the
+
+  in vitroCHO-HGPRT assay and the
+
+  in vivorat hepatocyte unscheduled DNA synthesis assay.
+
+                        In rats, tofacitinib at exposure levels approximately 17 times the recommended dose of 5 mg twice daily, and approximately 8.3 times the 10 mg twice daily dose (on an AUC basis at oral doses of 10 mg/kg/day) reduced female fertility due to increased post-implantation loss. There was no impairment of female rat fertility at exposure levels of tofacitinib equal to the recommended dose of 5 mg twice daily, and approximately 0.5 times the 10 mg twice daily dose (on an AUC basis at oral doses of 1 mg/kg/day). Tofacitinib exposure levels at approximately 133 times the recommended dose of 5 mg twice daily, and approximately 67 times the 10 mg twice daily dose (on an AUC basis at oral doses of 100 mg/kg/day) had no effect on male fertility, sperm motility, or sperm concentration.

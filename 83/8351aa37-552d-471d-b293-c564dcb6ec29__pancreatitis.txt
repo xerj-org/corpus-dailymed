@@ -1,0 +1,3 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Pancreatitis
+
+Cases of pancreatitis, possibly secondary to biliary obstruction, have been reported in patients treated with ceftriaxone. Most patients presented with risk factors for biliary stasis and biliary sludge (preceding major therapy, severe illness, total parenteral nutrition). A cofactor role of ceftriaxone-related biliary precipitation cannot be ruled out.

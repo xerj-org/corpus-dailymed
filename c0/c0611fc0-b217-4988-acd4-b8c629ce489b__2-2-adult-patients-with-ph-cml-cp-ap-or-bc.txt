@@ -1,0 +1,5 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 2.2 Adult Patients With Ph+ CML CP, AP, or BC
+
+The recommended dose of imatinib mesylate tablets are 400 mg/day for adult patients in chronic phase CML and 600 mg/day for adult patients in accelerated phase or blast crisis.
+
+  In CML, a dose increase from 400 mg to 600 mg in adult patients with chronic phase disease, or from 600 mg to 800 mg (given as 400 mg twice daily) in adult patients in accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukemia related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time), failure to achieve a satisfactory hematologic response after at least 3 months of treatment, failure to achieve a cytogenetic response after 6 to 12 months of treatment, or loss of a previously achieved hematologic or cytogenetic response.

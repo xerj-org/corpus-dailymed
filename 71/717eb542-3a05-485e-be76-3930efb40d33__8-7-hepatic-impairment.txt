@@ -1,0 +1,10 @@
+DailyMed 717eb542-3a05-485e-be76-3930efb40d33 | Levocetirizine Dihydrochloride | 8.7 Hepatic Impairment
+
+As levocetirizine is mainly excreted unchanged by the kidneys, it is unlikely that the clearance of levocetirizine is significantly decreased in patients with solely hepatic impairment
+
+  [see
+
+                                 Clinical Pharmacology (12.3)
+                              ]
+
+  .

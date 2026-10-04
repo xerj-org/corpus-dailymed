@@ -1,0 +1,3 @@
+DailyMed 9e3c796b-2e68-4bcc-b927-18a58bea4703 | Carbidopa-levodopa | Geriatric Use
+
+In the clinical efficacy trials for carbidopa and levodopa tablets, almost half of the patients were older than 65, but few were older than 75. No overall meaningful differences in safety or effectiveness were observed between these subjects and younger subjects, but greater sensitivity of some older individuals to adverse drug reactions such as hallucinations cannot be ruled out. There is no specific dosing recommendation based upon clinical pharmacology data as carbidopa and levodopa is titrated as tolerated for clinical effect.

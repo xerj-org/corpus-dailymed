@@ -1,0 +1,9 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 17 PATIENT COUNSELING INFORMATION
+
+Advise patients of the need for periodic monitoring of serum potassium levels. Advise patients receiving Kerendia to consult with their physician before using potassium supplements or salt substitutes containing potassium [see Warnings and Precautions (5.1)].
+
+                  Advise patients to avoid strong or moderate CYP3A4 inducers and to find alternative medicinal products with no or weak potential to induce CYP3A4 [see Drug Interactions (7.1)].
+
+                  Avoid concomitant intake of grapefruit or grapefruit juice as it is expected to increase the plasma concentration of finerenone [see Drug Interactions (7.1)].
+
+                  Advise women that breastfeeding is not recommended at the time of treatment with Kerendia and for 1 day after treatment [see Use in Specific Populations (8.2)].

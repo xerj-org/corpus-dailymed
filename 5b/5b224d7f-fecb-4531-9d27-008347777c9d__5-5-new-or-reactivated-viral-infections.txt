@@ -1,0 +1,11 @@
+DailyMed 5b224d7f-fecb-4531-9d27-008347777c9d | MYCOPHENOLIC ACID | 5.5 New or Reactivated Viral Infections
+
+Polyomavirus associated nephropathy (PVAN), JC virus-associated progressive multifocal leukoencephalopathy (PML), cytomegalovirus (CMV) infections, reactivation of hepatitis B (HBV) or hepatitis C (HCV), SARS-CoV-2 infection, have been reported in patients treated with immunosuppressants, including MPA derivatives mycophenolic acid delayed-release tablets and MMF. Reduction in immunosuppression should be considered for patients who develop evidence of new or reactivated viral infections. Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
+
+                        PVAN, especially due to BK virus infection, is associated with serious outcomes, including deteriorating renal function and renal graft loss. Patient monitoring may help detect patients at risk for PVAN.
+
+                        PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies, and ataxia. Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function. In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
+
+                        The risk of CMV viremia and CMV disease is highest among transplant recipients seronegative for CMV at time of transplant who receive a graft from a CMV seropositive donor. Therapeutic approaches to limiting CMV disease exist and should be routinely provided. Patient monitoring may help detect patients at risk for CMV disease [see Adverse Reactions (6.1)].
+
+                        Viral reactivation has been reported in patients infected with HBV or HCV. Monitoring infected patients for clinical and laboratory signs of active HBV or HCV infection is recommended.

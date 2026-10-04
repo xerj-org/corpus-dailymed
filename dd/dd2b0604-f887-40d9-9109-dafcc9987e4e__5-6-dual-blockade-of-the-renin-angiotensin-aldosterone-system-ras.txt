@@ -1,0 +1,9 @@
+DailyMed dd2b0604-f887-40d9-9109-dafcc9987e4e | telmisartan | 5.6 Dual Blockade of the Renin-Angiotensin-Aldosterone System (RAS)
+
+Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+
+                        The ONTARGET trial enrolled 25,620 patients ≥55 years old with atherosclerotic disease or diabetes with end-organ damage, randomizing them to telmisartan only, ramipril only, or the combination, and followed them for a median of 56 months. Patients receiving the combination of telmisartan and ramipril did not obtain any additional benefit compared to monotherapy, but experienced an increased incidence of renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone.
+
+                        In most patients no benefit has been associated with using two RAS inhibitors concomitantly. In general, avoid combined use of RAS inhibitors. Closely monitor blood pressure, renal function, and electrolytes in patients on telmisartan and other agents that affect the RAS.
+
+                        Do not co-administer aliskiren with telmisartan in patients with diabetes. Avoid concomitant use of aliskiren with telmisartan in patients with renal impairment (GFR <60 mL/min/1.73 m     2).

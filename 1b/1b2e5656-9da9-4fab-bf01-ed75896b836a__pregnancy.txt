@@ -1,0 +1,7 @@
+DailyMed 1b2e5656-9da9-4fab-bf01-ed75896b836a | Glipizide | Pregnancy
+
+Pregnancy Category C
+
+                        Glipizide was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5 to 50 mg/kg). This fetotoxicity has been similarly noted with other sulfonylureas, such as tolbutamide and tolazamide. The effect is perinatal and believed to be directly related to the pharmacologic (hypoglycemic) action of glipizide. In studies in rats and rabbits, no teratogenic effects were found. There are no adequate and well controlled studies in pregnant women. Glipizide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+                        Because recent information suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities, many experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible.

@@ -1,0 +1,10 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 5.7 Renal Impairment
+
+Renal impairment can significantly alter the disposition of tolterodine and its metabolites. The dose of tolterodine tartrate extended-release capsules should be reduced to 2 mg once daily in patients with severe renal impairment (CCr: 10 to 30 mL/min). Patients with CCr<10 mL/min have not been studied and use of tolterodine tartrate extended-release capsules in this population is not recommended
+  [see
+
+                                 DOSAGE AND ADMINISTRATION (2.2)
+                               and
+
+                                 USE IN SPECIFIC POPULATIONS (8.7)
+                              ].

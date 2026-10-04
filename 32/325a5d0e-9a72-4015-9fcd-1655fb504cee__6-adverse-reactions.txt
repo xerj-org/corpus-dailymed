@@ -1,0 +1,13 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 6 ADVERSE REACTIONS
+
+The following important adverse reactions are described below and elsewhere in the labeling:
+
+                  Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
+
+                  Immune-Mediated Necrotizing Myopathy [see Warnings and Precautions (5.2)]
+
+                  Hepatic Dysfunction [see Warnings and Precautions (5.3)]
+
+                  Proteinuria and Hematuria [see Warnings and Precautions (5.4)]
+
+                  Increases in HbA1c and Fasting Serum Glucose Levels [see Warnings and Precautions (5.5)]

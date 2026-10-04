@@ -1,0 +1,45 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of rabeprazole. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: 
+
+                            
+
+                           Blood and Lymphatic System Disorders:agranulocytosis, hemolytic anemia, leukopenia, pancytopenia, thrombocytopenia
+
+                           Ear and Labyrinth Disorders:vertigo
+
+                         
+
+  Eye Disorders:blurred vision
+
+                           Gastrointestinal Disorders: fundic gland polyps
+                            
+
+                           General Disorders and Administration Site Conditions:sudden death
+
+                           Hepatobiliary Disorders:jaundice
+
+                           Immune System Disorders:anaphylaxis, angioedema, systemic lupus erythematosus, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal),DRESS, AGEP
+
+                           Infections and Infestations: Clostridium difficile-associated diarrhea
+
+                           Investigations:Increases in prothrombin time/INR (in patients treated with concomitant warfarin), TSH elevations
+
+                           Metabolism and Nutrition Disorders:hyperammonemia, hypomagnesemia, hypocalcemia, hypokalemia [Warnings and Precautions 5.8], hyponatremia
+
+                           Musculoskeletal System Disorders:bone fracture, rhabdomyolysis
+
+                           Nervous System Disorders:coma
+
+                         
+
+  Psychiatric Disorders:delirium, disorientation
+
+                           Renal and Genitourinary Disorders
+
+   :
+                           interstitial nephritis, erectile dysfunction 
+
+                           Respiratory, Thoracic and Mediastinal Disorders:interstitial pneumonia
+
+                           Skin and Subcutaneous Tissue Disorders:severe dermatologic reactions including bullous and other drug eruptions of the skin, cutaneous lupus erythematosus, erythema multiforme

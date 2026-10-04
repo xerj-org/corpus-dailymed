@@ -1,0 +1,262 @@
+DailyMed 29743168-6dd7-4ee0-bc02-10dbcf2b7896 | Foscarnet Sodium | DESCRIPTION
+
+The chemical name of foscarnet sodium is phosphonoformic acid, trisodium salt. Foscarnet sodium is a white, crystalline powder containing 6 equivalents of water of hydration with an empirical formula of Na3CO5P•6H2O and a molecular weight of 300.1. The structural formula:
+
+                  Foscarnet sodium injection has the potential to chelate divalent metal ions, such as calcium and magnesium, to form stable coordination compounds. Foscarnet sodium injection is a sterile, isotonic aqueous solution for intravenous administration only. The solution is clear and colorless. Each milliliter of foscarnet sodium injection contains 24 mg of foscarnet sodium hexahydrate in Water for Injection, USP. Hydrochloric acid may have been added to adjust the pH of the solution to 7.4. Foscarnet sodium injection contains no preservatives.
+
+                     VIROLOGY
+
+                     Mechanism of Action
+
+                  Foscarnet exerts its antiviral activity by a selective inhibition at the pyrophosphate binding site on virus-specific DNA polymerases at concentrations that do not affect cellular DNA polymerases. Foscarnet does not require activation (phosphorylation) by thymidine kinase or other kinases.
+
+                     Antiviral Activity in Cell Culture
+
+                  The quantitative relationship between the cell culture susceptibility of human cytomegalovirus (CMV) or herpes simplex virus 1 and 2 (HSV-1 and HSV-2) to foscarnet and clinical response to therapy has not been established and virus sensitivity testing has not been standardized. Sensitivity test results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50), vary greatly depending on the assay method used, cell type employed and the laboratory performing the test. A number of sensitive viruses and their EC50 values are listed below (Table 1). The combination antiviral activity of foscarnet and ganciclovir or acyclovir are not antagonistic in cell culture.
+
+                     TABLE 1
+
+ Foscarnet Inhibition of Virus Replication in Cell Culture
+
+                           Virus
+
+                            |
+                           EC50 value(μM)
+
+                            |
+
+                           CMV
+
+Ganciclovir resistant CMV
+
+HSV-1, HSV-2
+
+HSV-TK negative mutant
+
+HSV-DNA polymerase mutants
+
+                            |
+                           50-800*
+
+190
+
+10-130
+
+67
+
+5-443
+
+                            |
+
+                  *Mean = 269 μM
+
+                      Antiviral Activity in vivo
+
+                  Statistically significant decreases in positive CMV cultures from blood and urine have been demonstrated in two studies (FOS-03 and ACTG-015/915) of subjects treated with foscarnet sodium injection. Although median time to progression of CMV retinitis was increased in subjects treated with foscarnet sodium injection, reductions in positive blood or urine cultures have not been shown to correlate with clinical efficacy in individual subjects (Table 2).
+
+                     TABLE 2
+
+                      Blood and Urine Culture Results from CMV Retinitis Patients*
+
+                           Blood
+
+                            |
+                           +CMV
+
+                            |
+                           -CMV
+
+                            |
+
+                           Baseline
+
+End of Induction†
+
+                            |
+                           27
+
+1
+
+                            |
+                           34
+
+60
+
+                            |
+
+                           Urine
+
+                            |
+                           +CMV
+
+                            |
+                           -CMV
+
+                            |
+
+                           Baseline
+
+End of Induction†
+
+                            |
+                           52
+
+21
+
+                            |
+                           6
+
+37
+
+                            |
+
+                   *A total of 77 subjects were treated with foscarnet sodium injection in two clinical trials (FOS-03 and ACTG-015/915). Not all subjects had blood or urine cultures done and some subjects had results from both cultures.
+
+                     † (60 mg/kg foscarnet sodium injection TID for 2–3 weeks).
+
+                     Resistance
+
+                  Cell culture: CMV and HSV isolates with reduced susceptibility to foscarnet have been selected in cell culture by passage of wild type virus in the presence of increasing concentrations of the drug. All foscarnet resistant isolates are known to be generated through amino acid substitutions in the viral DNA polymerase pUL54 (CMV) or pUL30 (HSV) (Table 3).
+
+                     TABLE 3
+
+                      Summary of Foscarnet Resistance-associated DNA Polymerase Amino Acid Substitutions in Cell Culture
+
+                           CMV pUL54
+
+                            |
+                           T419M, T552N, S585A, F595I, Q807A, M844T/V, V946L
+
+                            |
+
+                           HSV-1 pUL30
+
+                            |
+                           Y577H, E597D, A605V, L702H, V714M, L774F, L788M, D780N, L782I, P797T, L802F, V813M, V817M, Y818C, T821M, R842S, S889A, F891C, V892M, D907V, A910V, SRA914-916LCV, V958L, R959H
+
+                            |
+
+                           HSV-2 pUL30
+
+                            |
+
+                              -
+
+                            |
+
+                     In vivo: Limited clinical data are available on the development of clinical resistance to foscarnet and many pathways to resistance likely exist. Substitutions documented in the literature in treated patients as associated with foscarnet resistance, are listed in Table 4.
+
+                     TABLE 4
+
+ Summary of Foscarnet Resistance-associated Amino Acid Substitutions Observed in Treated Patients
+
+                           CMV pUL54
+
+                            |
+                           N495K, Q578H/L, D588E/N, T700A, V715M, E756D/K/Q, L773V, L776M, V781I, V787L, L802M, A809V, V812L, T813S, T821I, A834P, T838A, G841A/S, del 981-982
+
+                            |
+
+                           HSV-1
+
+pUL30
+
+                            |
+                           S599L, D672N, R700G, V715G, A719T/V, S724N, E798K, G841C/S, A910T, Y941H
+
+                            |
+
+                           HSV-2
+
+pUL30
+
+                            |
+                           A724T, S725G, S729N, Q732R, L783M, D785N, T844I, L850I, D912V
+
+                            |
+
+                   Note: Many additional pathways to foscarnet resistance likely exist
+
+                  The possibility of viral resistance should be considered in patients who show poor clinical response or experience persistent viral excretion during therapy.
+
+                  Cross-Resistance: The amino acid substitutions that resulted in reduced susceptibility to foscarnet and either ganciclovir, acyclovir and/or cidofovir are summarized in Tables 5 and 6.
+
+                     TABLE 5
+
+ Summary of CMV DNA polymerase Amino Acid Substitutions Conferring Foscarnet Resistance with Cross-Resistance to Ganciclovir and/or Cidofovir
+
+                              Cross-resistant to
+
+                              ganciclovir
+
+                            |
+                           CMV
+
+pUL54
+
+                            |
+                           Q578H, D588N, E756K, L773V, L776M, V781I, V787L, L802M, A809V, V812L, T813S, T821I, A834P, G841A/S,
+
+del 981-982
+
+                            |
+
+                              Cross-resistant to
+
+                              cidofovir
+
+                            |
+                           CMV
+
+pUL54
+
+                            |
+                           Q578H, D588N, E756K, L773V, V812L, T813S, A834P, G841A, del 981-982
+
+                            |
+
+                     TABLE 6
+
+ Summary of HSV DNA polymerase Amino Acid Substitutions Conferring Foscarnet Resistance with Cross-Resistance to Acyclovir and/or Cidofovir
+
+                              Cross-resistant to acyclovir
+
+                            |
+                           HSV-1
+
+pUL30
+
+                            |
+                           E597D, S599L, A605V, D672N, R700G, L702H, V714M, V715G, A719T/V, S724N, L774F, L778M, D780N, L782I, P797T, E798K, L802F, V813M, V817M, Y818C, T821M, G841C/S, R842S, S889A, F891C/Y, V892M, D907V, A910V/T,SRA914-916LCV, Y941H, V958L, V959H
+
+                            |
+
+                           HSV-2
+
+pUL30
+
+                            |
+                           A724T, S725G, S729N, Q732R, L783M, D785N, T844I, D912V
+
+                            |
+
+                              Marginally cross-resistant to cidofovir
+
+                            |
+                           HSV-1
+
+pUL30
+
+                            |
+                           V714M, A719V, S724N, L778M, L802F, Y818C, T821M, G841S
+
+                            |
+
+                           HSV-2
+
+pUL30
+
+                            |
+                           L783M
+
+                            |

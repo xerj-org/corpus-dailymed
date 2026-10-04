@@ -1,0 +1,145 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 14.4 Cardiac MRI
+
+The effectiveness of GADAVIST for detection of coronary artery disease (CAD) was evaluated in two multi-center, open-label clinical trials (i.e., Studies 7 and 8) in adult patients with known or suspected CAD. Patients were excluded from study if they had a history of coronary artery bypass grafting, or if it was known in advance that they were unable to hold their breath, or had atrial fibrillation or other arrhythmia likely to prevent electrocardiogram-gated CMRI.
+
+                        A total of 764 patients were evaluated. The 376 patients in Study 7 had an average age of 59 years (range 20 to 84 years) and were 69% male with a racial distribution of 74% White, 1% Black or African American, and 25% Asian. The 388 patients in Study 8 had an average age of 59 years (range 23 to 82 years) and were 61% male with a racial distribution of 67% White, 17% Black or African American, and 12% Asian.
+
+                        All subjects underwent dynamic first-pass GADAVIST imaging during vasodilator stress, followed ~10 minutes later by dynamic first-pass GADAVIST imaging at rest, followed ~5 minutes later with imaging during a period of gradual GADAVIST washout from the myocardium (late gadolinium enhancement, LGE).  Imaging was performed on 1.5 T or 3.0 T MRI devices equipped with multichannel surface coils to support accelerated acquisitions with parallel imaging, T1-weighted, 2D gradient-echo, dynamic acquisition of perfusion with at least 3 slices per heartbeat. GADAVIST was administered intravenously at a rate of ~4 mL/second as two separate bolus injections (0.05 mmol/kg each), the first at peak pharmacologic stress (~3 minutes after start of ongoing adenosine infusion, or immediately after completion of regadenoson administration, at approved doses).  No additional GADAVIST was administered for LGE imaging.
+
+                        Images were read by three independent readers blinded to clinical information.  Reader detection of CAD depended on visually detecting defective perfusion or scar on GADAVIST CMRI (stress, rest, LGE) imaging. Quantitative coronary angiography (QCA) was used to measure intraluminal narrowing and served as the standard of reference (SoR).  Computed tomographic angiography (CTA) was used as the SoR if disease could be unequivocally excluded, and no coronary angiography (CA) was available.  The left ventricular myocardium was divided into six regions. Readers provided per-region (CMRI, CTA) and per-artery (QCA) interpretations for each subject. Subject-level endpoints reflected each subject's most abnormal localized finding.
+
+                        The sensitivity results for GADAVIST CMRI to detect CAD defined as either maximum stenosis ≥ 50% or ≥ 70% by QCA are presented in Table 13. For each reader, sensitivity of GADAVIST CMRI larger than 60% can be concluded if the lower 95% confidence limit of the sensitivity estimate exceeds the pre-specified threshold of 60%.
+
+                           Table 13: Sensitivity (%) of GADAVIST-CMRI for Detection of CAD in Patients with Maximum StenosisStenosis determined by Quantitative Coronary Angiography (QCA)
+
+ of ≥ 50% and ≥ 70%
+
+                                  |
+                                 Study 7 |
+                                 Study 8 |
+
+                                  |
+                                 ≥ 50%
+
+ N=141 |
+                                 ≥ 70%
+
+ N=108 |
+                                 ≥ 50%
+
+ N=150 |
+                                 ≥ 70%
+
+ N=105 |
+
+                                    Reader 1CMRI images were assessed by six independent blinded readers, three in each study.
+
+                                  |
+                                 77 (69, 83)The bolded value represents the lower limit of the 95% confidence interval, which is compared to a pre-specified threshold of 60% for evaluation of sensitivity.
+
+                                  |
+                                 90 (83, 95) |
+                                 65 (57, 72) |
+                                 77 (68, 85) |
+
+                                    Reader 2
+
+                                  |
+                                 65 (57, 73) |
+                                 80 (71, 87) |
+                                 56 (48, 64) |
+                                 71 (62, 80) |
+
+                                    Reader 3
+
+                                  |
+                                 65 (56, 72) |
+                                 79 (70, 86) |
+                                 61 (53, 69) |
+                                 76 (67, 84) |
+
+                        The specificity results for GADAVIST CMRI to detect CAD defined as either maximum stenosis ≥ 50% or ≥ 70% by QCA are presented in Table 14. For each reader, specificity of GADAVIST CMRI larger than 55% can be concluded if the lower 95% confidence limit of the specificity estimate exceeds the pre-specified threshold of 55%.
+
+                           Table 14: Specificity (%) of GADAVIST CMRI for Exclusion of CAD in Patients with Maximum StenosisStenosis determined by Quantitative Coronary Angiography (QCA)
+
+ of ≥ 50% and ≥ 70%
+
+                                  |
+                                 Study 7 |
+                                 Study 8 |
+
+                                  |
+                                 ≥ 50%
+
+ N=235 |
+                                 ≥ 70%
+
+ N=268 |
+                                 ≥ 50%
+
+ N=239 |
+                                 ≥ 70%
+
+ N=283 |
+
+                                    Reader 1CMRI images were assessed by six independent blinded readers, three in each study.
+
+                                  |
+                                 85 (80, 89)The bolded value represents the lower limit of the 95% confidence interval, which is compared to a pre-specified threshold of 55% for evaluation of specificity.
+
+                                  |
+                                 83 (78, 87) |
+                                 85 (80, 90) |
+                                 82 (77, 86) |
+
+                                    Reader 2
+
+                                  |
+                                 92 (88, 95) |
+                                 91 (87, 94) |
+                                 89 (84, 92) |
+                                 87 (83, 91) |
+
+                                    Reader 3
+
+                                  |
+                                 92 (88, 95) |
+                                 91 (87, 94) |
+                                 90 (85, 93) |
+                                 87 (82, 91) |
+
+                        In Study 7, among the 33 patients with maximum stenosis by QCA between 50% and <70%, the proportion of GADAVIST-CMRI positive detections of CAD ranged from 15% to 33%.  In Study 8, among the 45 patients with maximum stenosis by QCA between 50% and < 70%, the proportion of GADAVIST-CMRI positive detections of CAD ranged from 20% to 35%. The results of GADAVIST-CMRI reads to detect CAD in patients with maximum stenosis between 50% and < 70% are summarized in Table 15.
+
+                           Table 15: GADAVIST-CMRI Detection of CAD in Patients with Maximum StenosisStenosis determined by Quantitative Coronary Angiography (QCA).
+
+ between 50% and < 70%
+
+                                  |
+                                 Study 7 (n=33) |
+                                 Study 8 (n=45) |
+
+                                  |
+                                 GADAVIST-CMRI positive |
+                                 GADAVIST-CMRI positive |
+
+                                    Reader 1*CMRI images were assessed by six independent blinded readers, three in each study.
+
+                                  |
+                                 11 (33%) |
+                                 16 (35%) |
+
+                                    Reader 2
+
+                                  |
+                                 5 (15%) |
+                                 9 (20%) |
+
+                                    Reader 3
+
+                                  |
+                                 6 (18%) |
+                                 12 (26%) |
+
+                           Left Mainstem Stenosis
+
+                        The studies did not include sufficient numbers of subjects to characterize the performance of GADAVIST CMRI for detection of left mainstem stenosis (LMS), a subgroup at high risk from false negative reads.  In Studies 7 and 8, only three subjects had isolated LMS stenosis >50%.  In two of the three cases, the CMRI was interpreted as normal by at least two of the three readers (false negative).  Sixteen subjects had LMS stenosis >50% (including subjects with isolated LMS stenosis and subjects with LMS stenosis in addition to stenoses elsewhere). In five of these sixteen cases, the CMR was interpreted as normal by at least two of the three readers (false negative).

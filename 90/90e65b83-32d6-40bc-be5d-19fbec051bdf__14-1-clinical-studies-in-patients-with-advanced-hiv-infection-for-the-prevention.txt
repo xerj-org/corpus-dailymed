@@ -1,0 +1,1309 @@
+DailyMed 90e65b83-32d6-40bc-be5d-19fbec051bdf | AZITHROMYCIN | 14.1 Clinical Studies in Patients with Advanced HIV Infection for the Prevention and Treatment of Disease Due to Disseminated Mycobacterium avium Complex (MAC)
+
+Prevention of Disseminated MAC Disease
+                            
+
+                        Two randomized, double-blind clinical trials were performed in patients with CD4 counts <100 cells/μL. The first trial (Study 155) compared azithromycin (1200 mg once weekly) to placebo and enrolled 182 patients with a mean CD4 count of 35 cells/mcgL. The second trial (Study 174) randomized 723 patients to either azithromycin (1200 mg once weekly), rifabutin (300 mg daily), or the combination of both. The mean CD4 count was 51 cells/mcgL. The primary endpoint in these trials was disseminated MAC disease. Other endpoints included the incidence of clinically significant MAC disease and discontinuations from therapy for drug-related side effects.
+
+                           MAC Bacteremia 
+
+                        In Study 155, 85 patients randomized to receive azithromycin and 89 patients randomized to receive placebo met the entrance criteria. Cumulative incidences at 6, 12, and 18 months of the possible outcomes are in the following table:
+
+                                    Table 4. Cumulative Incidence of MAC Bacteremia in Study 155 at 6, 12 and 18 months
+
+                                  |
+
+                                    Cumulative Incidence Rate,
+                                     
+                                    %:
+                                     
+                                    Placebo
+                                    (n=89)
+
+                                  |
+
+                                    Month
+
+                                  |
+
+                                    MAC Free and Alive
+
+                                  |
+
+                                    MAC
+
+                                  |
+
+                                    Adverse Experience
+
+                                  |
+
+                                    Lost to Follow-up
+
+                                  |
+
+                                 6
+
+                                  |
+                                 69.7
+
+                                  |
+                                 13.5
+
+                                  |
+                                 6.7
+
+                                  |
+                                 10.1
+
+                                  |
+
+                                 12
+
+                                  |
+                                 47.2
+
+                                  |
+                                 19.1
+
+                                  |
+                                 15.7
+
+                                  |
+                                 18
+
+                                  |
+
+                                 18
+
+                                  |
+                                 37.1
+
+                                  |
+                                 22.5
+
+                                  |
+                                 18
+
+                                  |
+                                 22.5
+
+                                  |
+
+                                    Cumulative Incidence Rate, %: Azithromycin (n=85)
+
+                                  |
+
+                                    Month
+
+                                  |
+
+                                    MAC Free and Alive
+
+                                  |
+
+                                    MAC
+
+                                  |
+
+                                    Adverse Experience
+
+                                  |
+
+                                    Lost to Follow-up
+
+                                  |
+
+                                 6
+
+                                  |
+                                 84.7
+
+                                  |
+                                 3.5
+
+                                  |
+                                 9.4
+
+                                  |
+                                 2.4
+
+                                  |
+
+                                 12
+
+                                  |
+                                 63.5
+
+                                  |
+                                 8.2
+
+                                  |
+                                 16.5
+
+                                  |
+                                 11.8
+
+                                  |
+
+                                 18
+
+                                  |
+                                 44.7
+
+                                  |
+                                 11.8
+
+                                  |
+                                 25.9
+
+                                  |
+                                 17.6
+
+                                  |
+
+                        The difference in the one-year cumulative incidence rates of disseminated MAC disease (placebo – azithromycin) is 10.9%. This difference is statistically significant (p=0.037) with a 95% confidence interval for this difference of 0.8%, 20.9%. The comparable number of patients experiencing adverse events and the fewer number of patients lost to follow-up on azithromycin should be taken into account when interpreting the significance of this difference.
+
+                        In Study 174, 223 patients randomized to receive rifabutin, 223 patients randomized to receive azithromycin, and 218 patients randomized to receive both rifabutin and azithromycin met the entrance criteria. Cumulative incidences at 6, 12, and 18 months of the possible outcomes are recorded in the following table:
+
+                                    Table 5: Cumulative Incidence of Outcomes in Study 174 at 6, 12, and 18 months
+
+                                  |
+
+                                    Cumulative Incidence Rate, %: Rifabutin (n=223)
+
+                                  |
+
+                                    Month
+
+                                  |
+
+                                    MAC Free and Alive
+
+                                  |
+
+                                    MAC
+
+                                  |
+
+                                    Adverse Experience
+
+                                  |
+
+                                    Lost to Follow-up
+
+                                  |
+
+                                 6
+
+                                  |
+                                 83.4
+
+                                  |
+                                 7.2
+
+                                  |
+                                 8.1
+
+                                  |
+                                 1.3
+
+                                  |
+
+                                 12
+
+                                  |
+                                 60.1
+
+                                  |
+                                 15.2
+
+                                  |
+                                 16.1
+
+                                  |
+                                 8.5
+
+                                  |
+
+                                 18
+
+                                  |
+                                 40.8
+
+                                  |
+                                 21.5
+
+                                  |
+                                 24.2
+
+                                  |
+                                 13.5
+
+                                  |
+
+                                    Cumulative Incidence Rate, %: Azithromycin (n=223)
+
+                                  |
+
+                                    Month
+
+                                  |
+
+                                    MAC Free and Alive
+
+                                  |
+
+                                    MAC
+
+                                  |
+
+                                    Adverse Experience
+
+                                  |
+
+                                    Lost to Follow-up
+
+                                  |
+
+                                 6
+
+                                  |
+                                 85.2
+
+                                  |
+                                 3.6
+
+                                  |
+                                 5.8
+
+                                  |
+                                 5.4
+
+                                  |
+
+                                 12
+
+                                  |
+                                 65.5
+
+                                  |
+                                 7.6
+
+                                  |
+                                 16.1
+
+                                  |
+                                 10.8
+
+                                  |
+
+                                 18
+
+                                  |
+                                 45.3
+
+                                  |
+                                 12.1
+
+                                  |
+                                 23.8
+
+                                  |
+                                 18.8
+
+                                  |
+
+                                    Cumulative Incidence Rate, %: Azithromycin/Rifabutin Combination (n=218)
+
+                                  |
+
+                                    Month
+
+                                  |
+
+                                    MAC Free and Alive
+
+                                  |
+
+                                    MAC
+
+                                  |
+
+                                    Adverse Experience
+
+                                  |
+
+                                    Lost to Follow-up
+
+                                  |
+
+                                 6
+
+                                  |
+                                 89.4
+
+                                  |
+                                 1.8
+
+                                  |
+                                 5.5
+
+                                  |
+                                 3.2
+
+                                  |
+
+                                 12
+
+                                  |
+                                 71.6
+
+                                  |
+                                 2.8
+
+                                  |
+                                 15.1
+
+                                  |
+                                 10.6
+
+                                  |
+
+                                 18
+
+                                  |
+                                 49.1
+
+                                  |
+                                 6.4
+
+                                  |
+                                 29.4
+
+                                  |
+                                 15.1
+
+                                  |
+
+                        Comparing the cumulative one-year incidence rates, azithromycin monotherapy is at least as effective as rifabutin monotherapy. The difference (rifabutin – azithromycin) in the one-year rates (7.6%) is statistically significant (p=0.022) with an adjusted 95% confidence interval (0.9%, 14.3%). Additionally, azithromycin/rifabutin combination therapy is more effective than rifabutin alone. The difference (rifabutin – azithromycin/rifabutin) in the cumulative one-year incidence rates (12.5%) is statistically significant (p<0.001) with an adjusted 95% confidence interval of 6.6%, 18.4%. The comparable number of patients experiencing adverse events and the fewer number of patients lost to follow-up on rifabutin should be taken into account when interpreting the significance of this difference.
+
+                        In Study 174, sensitivity testing1 was performed on all available MAC isolates from subjects randomized to either azithromycin, rifabutin, or the combination. The distribution of MIC values for azithromycin from susceptibility testing of the breakthrough isolates was similar between trial arms. As the efficacy of azithromycin in the treatment of disseminated MAC has not been established, the clinical relevance of these in vitro MICs as an indicator of susceptibility or resistance is not known.
+
+                           Clinically Significant Disseminated MAC Disease 
+
+                        In association with the decreased incidence of bacteremia, patients in the groups randomized to either azithromycin alone or azithromycin in combination with rifabutin showed reductions in the signs and symptoms of disseminated MAC disease, including fever or night sweats, weight loss, and anemia.
+
+                           Discontinuations from Therapy for Drug-Related Side Effects 
+
+                        In Study 155, discontinuations for drug-related toxicity occurred in 8.2% of subjects treated with azithromycin and 2.3% of those given placebo (p=0.121). In Study 174, more subjects discontinued from the combination of azithromycin and rifabutin (22.7%) than from azithromycin alone (13.5%; p=0.026) or rifabutin alone (15.9%; p=0.209).
+
+                           Safety 
+
+                        As these patients with advanced HIV disease were taking multiple concomitant medications and experienced a variety of intercurrent illnesses, it was often difficult to attribute adverse reactions to study medication. Overall, the nature of adverse reactions seen on the weekly dosage regimen of azithromycin over a period of approximately one year in patients with advanced HIV disease were similar to that previously reported for shorter course therapies.
+
+                            
+
+                                    Table 6: Incidence Of One Or More Treatment-Relateda Adverse Reactionsb in HIV Infected Patients Receiving Prophylaxis For Disseminated MAC Over Approximately 1 Year
+
+                                  |
+
+                                  |
+
+                                    Study 155
+
+                                  |
+
+                                    Study 174
+
+                                  |
+
+                                  |
+
+                                    Placebo
+
+                                    (N=91)
+
+                                  |
+
+                                    Azithromycin 1200 mg weekly (N=89)
+
+                                  |
+
+                                    Azithromycin 1200 mg weekly (N=233)
+
+                                  |
+
+                                    Rifabutin 300 mg daily (N=236)
+
+                                  |
+
+                                    Azithromycin+ Rifabutin
+
+                                    (N=224)
+
+                                  |
+
+                                 Mean Duration of Therapy (days)
+
+                                  |
+                                 303.8
+
+                                  |
+                                 402.9
+
+                                  |
+                                 315
+
+                                  |
+                                 296.1
+
+                                  |
+                                 344.4
+
+                                  |
+
+                                 Discontinuation of Therapy
+
+                                  |
+                                 2.3
+
+                                  |
+                                 8.2
+
+                                  |
+                                 13.5
+
+                                  |
+                                 15.9
+
+                                  |
+                                 22.7
+
+                                  |
+
+                                    Autonomic Nervous System
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Mouth Dry
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 3
+
+                                  |
+                                 2.7
+
+                                  |
+
+                                    CentralNervous System
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Dizziness
+
+                                  |
+                                 0
+
+                                  |
+                                 1.1
+
+                                  |
+                                 3.9
+
+                                  |
+                                 1.7
+
+                                  |
+                                 0.4
+
+                                  |
+
+                                 Headache
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 3
+
+                                  |
+                                 5.5
+
+                                  |
+                                 4.5
+
+                                  |
+
+                                    Gastrointestinal
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Diarrhea
+
+                                  |
+                                 15.4
+
+                                  |
+                                 52.8
+
+                                  |
+                                 50.2
+
+                                  |
+                                 19.1
+
+                                  |
+                                 50.9
+
+                                  |
+
+                                 Loose Stools
+
+                                  |
+                                 6.6
+
+                                  |
+                                 19.1
+
+                                  |
+                                 12.9
+
+                                  |
+                                 3
+
+                                  |
+                                 9.4
+
+                                  |
+
+                                 Abdominal Pain
+
+                                  |
+                                 6.6
+
+                                  |
+                                 27
+
+                                  |
+                                 32.2
+
+                                  |
+                                 12.3
+
+                                  |
+                                 31.7
+
+                                  |
+
+                                 Dyspepsia
+
+                                  |
+                                 1.1
+
+                                  |
+                                 9
+
+                                  |
+                                 4.7
+
+                                  |
+                                 1.7
+
+                                  |
+                                 1.8
+
+                                  |
+
+                                 Flatulence
+
+                                  |
+                                 4.4
+
+                                  |
+                                 9
+
+                                  |
+                                 10.7
+
+                                  |
+                                 5.1
+
+                                  |
+                                 5.8
+
+                                  |
+
+                                 Nausea
+
+                                  |
+                                 11
+
+                                  |
+                                 32.6
+
+                                  |
+                                 27
+
+                                  |
+                                 16.5
+
+                                  |
+                                 28.1
+
+                                  |
+
+                                 Vomiting
+
+                                  |
+                                 1.1
+
+                                  |
+                                 6.7
+
+                                  |
+                                 9
+
+                                  |
+                                 3.8
+
+                                  |
+                                 5.8
+
+                                  |
+
+                                    General
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Fever
+
+                                  |
+                                 1.1
+
+                                  |
+                                 0
+
+                                  |
+                                 2.1
+
+                                  |
+                                 4.2
+
+                                  |
+                                 4.9
+
+                                  |
+
+                                 Fatigue
+
+                                  |
+                                 0
+
+                                  |
+                                 2.2
+
+                                  |
+                                 3.9
+
+                                  |
+                                 2.1
+
+                                  |
+                                 3.1
+
+                                  |
+
+                                 Malaise
+
+                                  |
+                                 0
+
+                                  |
+                                 1.1
+
+                                  |
+                                 0.4
+
+                                  |
+                                 0
+
+                                  |
+                                 2.2
+
+                                  |
+
+                                    Musculoskeletal
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Arthralgia
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 3
+
+                                  |
+                                 4.2
+
+                                  |
+                                 7.1
+
+                                  |
+
+                                    Psychiatric
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Anorexia
+
+                                  |
+                                 1.1
+
+                                  |
+                                 0
+
+                                  |
+                                 2.1
+
+                                  |
+                                 2.1
+
+                                  |
+                                 3.1
+
+                                  |
+
+                                    Skin & Appendages
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Pruritus
+
+                                  |
+                                 3.3
+
+                                  |
+                                 0
+
+                                  |
+                                 3.9
+
+                                  |
+                                 3.4
+
+                                  |
+                                 7.6
+
+                                  |
+
+                                 Rash
+
+                                  |
+                                 3.2
+
+                                  |
+                                 3.4
+
+                                  |
+                                 8.1
+
+                                  |
+                                 9.4
+
+                                  |
+                                 11.1
+
+                                  |
+
+                                 Skin discoloration
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 2.1
+
+                                  |
+                                 2.2
+
+                                  |
+
+                                    Special Senses
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Tinnitus
+
+                                  |
+                                 4.4
+
+                                  |
+                                 3.4
+
+                                  |
+                                 0.9
+
+                                  |
+                                 1.3
+
+                                  |
+                                 0.9
+
+                                  |
+
+                                 Hearing Decreased
+
+                                  |
+                                 2.2
+
+                                  |
+                                 1.1
+
+                                  |
+                                 0.9
+
+                                  |
+                                 0.4
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Uveitis
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0.4
+
+                                  |
+                                 1.3
+
+                                  |
+                                 1.8
+
+                                  |
+
+                                 Taste Perversion
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 1.3
+
+                                  |
+                                 2.5
+
+                                  |
+                                 1.3
+
+                                  |
+
+                                    a Includes those reactions considered possibly or probably related to study drug
+
+                                    b >2% adverse reaction rates for any group (except uveitis)
+
+                                  |
+
+                        Adverse reactions related to the gastrointestinal tract were seen more frequently in patients receiving azithromycin than in those receiving placebo or rifabutin. In Study 174, 86% of diarrheal episodes were mild to moderate in nature with discontinuation of therapy for this reason occurring in only 9/233 (3.8%) of patients.
+
+                           Changes in Laboratory Values 
+
+                        In these immunocompromised patients with advanced HIV infection, it was necessary to assess laboratory abnormalities developing on trial with additional criteria if baseline values were outside the relevant normal range.
+
+                            
+
+                                    Table 7: Prophylaxis Against Disseminated MAC Abnormal Laboratory Valuesa
+
+                                  |
+
+                                  |
+
+                                    Placebo
+
+                                  |
+
+                                    Azithromycin
+                                     
+                                    1200 mg weekly
+
+                                  |
+
+                                    Rifabutin
+                                     
+                                    300 mg daily
+
+                                  |
+
+                                    Azithromycin
+                                    & Rifabutin
+
+                                  |
+
+                                 Hemoglobin <8 g/dL
+
+                                  |
+                                 1/51 2%
+
+                                  |
+                                 4/170 2%
+
+                                  |
+                                 4/114 4%
+
+                                  |
+                                 8/107 8%
+
+                                  |
+
+                                 Platelet Count<50 ´ 103/mm3
+
+                                  |
+                                 1/71 1%
+
+                                  |
+                                 4/260 2%
+
+                                  |
+                                 2/182 1%
+
+                                  |
+                                 6/181 3%
+
+                                  |
+
+                                 WBC Count <1 ´ 103/mm3
+
+                                  |
+                                 0/8 0%
+
+                                  |
+                                 2/70 3%
+
+                                  |
+                                 2/474%
+
+                                  |
+                                 0/430%
+
+                                  |
+
+                                 Neutrophils <500/mm3
+
+                                  |
+                                 0/26 0%
+
+                                  |
+                                 4/106 4%
+
+                                  |
+                                 3/82 4%
+
+                                  |
+                                 2/78 3%
+
+                                  |
+
+                                 SGOT >5 ´ ULNb
+
+                                  |
+                                 1/41 2%
+
+                                  |
+                                 8/158 5%
+
+                                  |
+                                 3/121 3%
+
+                                  |
+                                 6/114 5%
+
+                                  |
+
+                                 SGPT >5 ´ ULN
+
+                                  |
+                                 0/49 0%
+
+                                  |
+                                 8/166 5%
+
+                                  |
+                                 3/130 2%
+
+                                  |
+                                 5/117 4%
+
+                                  |
+
+                                 Alk Phos >5 ´ ULN
+
+                                  |
+                                 1/80 1%
+
+                                  |
+                                 4/247 2%
+
+                                  |
+                                 2/172 1%
+
+                                  |
+                                 3/164 2%
+
+                                  |
+
+                                    a excludes subjects outside of the relevant normal range at baseline
+
+                                    b Upper Limit of Normal
+
+                                  |
+
+                           Treatment of Disseminated MAC Disease
+                            
+
+                        One randomized, double-blind clinical trial (Study 189) was performed in patients with disseminated MAC. In this trial, 246 HIV-infected patients with disseminated MAC received either azithromycin 250 mg daily (N=65), azithromycin 600 mg daily (N=91), or clarithromycin 500 mg twice a day (N=90), each administered with ethambutol 15 mg/kg daily, for 24 weeks. Blood cultures and clinical assessments were performed every 3 weeks through week 12 and monthly thereafter through week 24. After week 24, patients were switched to any open-label therapy at the discretion of the investigator and followed every 3 months through the last follow-up visit of the trial. Patients were followed from the baseline visit for a period of up to 3.7 years (median: 9 months). MAC isolates recovered during treatment or post-treatment were obtained whenever possible.
+
+                        The primary endpoint was sterilization by week 24. Sterilization was based on data from the central laboratory, and was defined as two consecutive observed negative blood cultures for MAC, independent of missing culture data between the two negative observations. Analyses were performed on all randomized patients who had a positive baseline culture for MAC.
+
+                        The azithromycin 250 mg arm was discontinued after an interim analysis at 12 weeks showed a significantly lower clearance of bacteremia compared to clarithromycin 500 mg twice a day. Efficacy results for the azithromycin 600 mg daily and clarithromycin 500 mg twice a day treatment regimens are described in the following table:
+
+                                    Table 8: Response To Therapy of Patients Taking Ethambutol and Either Azithromycin 600 mg Daily Or Clarithromycin 500 mg Twice A Day
+
+                                  |
+
+                                  |
+
+                                    Azithromycin
+
+                                    600 mg daily
+
+                                  |
+
+                                    Clarithromycin
+
+                                    500 mg twice a day
+
+                                  |
+
+                                       a95.1%
+
+                                    CI on difference
+
+                                  |
+
+                                 Patientswith positive culture at baseline
+
+                                  |
+                                 68
+
+                                  |
+                                 57
+
+                                  |
+                                  |
+
+                                 Week 24
+
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Two consecutive negative blood culturesb
+
+                                  |
+                                 31/68 (46%)
+
+                                  |
+                                 32/57 (56%)
+
+                                  |
+                                 [-28, 7]
+
+                                  |
+
+                                 Mortality
+
+                                  |
+                                 16/68 (24%)
+
+                                  |
+                                 15/57 (26%)
+
+                                  |
+                                 [-18, 13]
+
+                                  |
+
+                                    a [95% confidence interval] on difference in rates (azithromycin-clarithromycin)
+
+                                    b Primary endpoint 
+
+                                  |
+
+                        The primary endpoint, rate of sterilization of blood cultures (two consecutive negative cultures) at 24 weeks, was lower in the azithromycin 600 mg daily group than in the clarithromycin 500 mg twice a day group.
+
+                            
+
+                        Sterilization by Baseline Colony Count
+
+                        Within both treatment groups, the sterilization rates at week 24 decreased as the range of MAC cfu/mL increased.
+
+                                     Table 9: Sterilization by Baseline Colony Count
+
+                                    Sterilization rates at Week 24 decreased with increasing baseline MAC cfu/mL across both treatment groups.
+
+                                  |
+
+                                  |
+
+                                    Azithromycin 600 mg (N=68)
+
+                                  |
+
+                                    Clarithromycin 500 mg twice a day (N=57)
+
+                                  |
+
+                                    groups stratified by MAC colony counts at baseline
+
+                                  |
+
+                                    no. (%)subjects in stratified group sterile at week 24
+
+                                  |
+
+                                    no. (%)subjects in stratified group sterile at week 24
+
+                                  |
+
+                                 ≤10 cfu/mL
+
+                                  |
+                                 10/15 (66.7%)
+
+                                  |
+                                 12/17 (70.6%)
+
+                                  |
+
+                                 11 to 100 cfu/mL
+
+                                  |
+                                 13/28 (46.4%)
+
+                                  |
+                                 13/19 (68.4%)
+
+                                  |
+
+                                 101 to 1,000 cfu/mL
+
+                                  |
+                                 7/19 (36.8%)
+
+                                  |
+                                 5/13 (38.5%)
+
+                                  |
+
+                                 1,001 to 10,000 cfu/mL
+
+                                  |
+                                 1/5 (20%)
+
+                                  |
+                                 1/5 (20%)
+
+                                  |
+
+                                 >10,000 cfu/mL
+
+                                  |
+                                 0/1 (0%)
+
+                                  |
+                                 1/3 (33.3%)
+
+                                  |
+
+                               
+
+                           Susceptibility Pattern of MAC Isolates
+
+                        Susceptibility testing was performed on MAC isolates recovered at baseline, at the time of breakthrough on therapy or during post-therapy follow-up. The T100 radiometric broth method was employed to determine azithromycin and clarithromycin MIC values. Azithromycin MIC values ranged from <4 to >256 µg/mL and clarithromycin MICs ranged from <1 to >32 µg/mL. The individual MAC susceptibility results demonstrated that azithromycin MIC values could be 4 to 32-fold higher than clarithromycin MIC values.
+
+                        During treatment and post-treatment follow-up for up to 3.7 years (median: 9 months) in Study 189, a total of 6/68 (9%) and 6/57 (11%) of the patients randomized to azithromycin 600 mg daily and clarithromycin 500 mg twice a day respectively, developed MAC blood culture isolates that had a sharp increase in MIC values. All twelve MAC isolates had azithromycin MICs ≥256 µg/mL and clarithromycin MICs >32 µg/mL. These high MIC values suggest development of drug resistance. However, at this time, specific breakpoints for separating susceptible and resistant MAC isolates have not been established for either macrolide.

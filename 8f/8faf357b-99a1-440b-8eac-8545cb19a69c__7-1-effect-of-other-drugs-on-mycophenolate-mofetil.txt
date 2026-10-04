@@ -1,0 +1,121 @@
+DailyMed 8faf357b-99a1-440b-8eac-8545cb19a69c | Mycophenolate Mofetil | 7.1 Effect of Other Drugs on Mycophenolate Mofetil
+
+Table 7 Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Acid (MPA) Exposure
+
+                                    Antacids with Magnesium or Aluminum Hydroxide
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+                                 Concomitant use with an antacid containing magnesium or aluminum hydroxide decreases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+                                 Administer magnesium or aluminum hydroxide containing antacids at least 2h after mycophenolate mofetil administration.
+
+                                  |
+
+                                    Proton Pump Inhibitors (PPIs)
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+                                 Concomitant use with PPIs decreases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+                                 Monitor patients for alterations in efficacy when PPIs are co-administered with mycophenolate mofetil.
+
+                                  |
+
+                                    Examples
+
+                                  |
+                                 Lansoprazole, pantoprazole
+
+                                  |
+
+                                    Drugs that Interfere with Enterohepatic Recirculation
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+                                 Concomitant use with drugs that directly interfere with enterohepatic recirculation, or indirectly interfere with enterohepatic recirculation by altering the gastrointestinal flora, can decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+                                 Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are co-administered with mycophenolate mofetil.
+
+                                  |
+
+                                    Examples
+
+                                  |
+                                 Cyclosporine A, trimethoprim/sulfamethoxazole, bile acid sequestrants (cholestyramine), rifampin as well as aminoglycoside, cephalosporin, fluoroquinolone and penicillin classes of antimicrobials
+
+                                  |
+
+                                    Drugs Modulating Glucuronidation
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+                                 Concomitant use with drugs inducing glucuronidation decreases MPA systemic exposure, potentially reducing mycophenolate mofetil efficacy, while use with drugs inhibiting glucuronidation increases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may increase the risk of mycophenolate mofetil related adverse reactions.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+                                 Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are co-administered with mycophenolate mofetil.
+
+                                  |
+
+                                    Examples
+
+                                  |
+                                 Telmisartan (induces glucuronidation); isavuconazole (inhibits glucuronidation).
+
+                                  |
+
+                                    Calcium Free Phosphate Binders
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+                                 Concomitant use with calcium free phosphate binders decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+                                 Administer calcium free phosphate binders at least 2 hours after mycophenolate mofetil.
+
+                                  |
+
+                                    Examples
+
+                                  |
+                                 Sevelamer
+
+                                  |

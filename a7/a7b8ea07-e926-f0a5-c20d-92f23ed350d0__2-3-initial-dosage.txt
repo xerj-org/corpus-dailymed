@@ -1,0 +1,95 @@
+DailyMed a7b8ea07-e926-f0a5-c20d-92f23ed350d0 | Hydrocodone Bitartrate | 2.3 Initial Dosage
+
+It is safer to underestimate a patient’s 24-hour oral hydrocodone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral hydrocodone dosage and manage an adverse reaction due to an overdose. While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations. Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to hydrocodone bitartrate extended-release capsules.
+
+                           Use of Hydrocodone Bitartrate Extended-Release Capsules in Patients Who Are Not Opioid Tolerant
+
+                        The starting dose for patients who are not opioid tolerant is hydrocodone bitartrate extended-release capsules 10 mg orally every 12 hours.
+
+                        Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
+
+                           Conversion from Oral Hydrocodone Formulations to Hydrocodone Bitartrate Extended-Release Capsules
+
+                        Patients receiving other oral hydrocodone-containing formulations may be converted to hydrocodone bitartrate extended-release capsules by dividing the patient’s total daily oral hydrocodone dose in half and administering as hydrocodone bitartrate extended-release capsules every 12 hours.
+
+                            Conversion from Other Oral Opioid Analgesics to Hydrocodone Bitartrate Extended-Release Capsules
+
+                        When hydrocodone bitartrate extended-release capsules therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+
+                        There is inter-patient variability in the relative potency of different opioid drugs and products. Therefore, a conservative approach is advised when determining the total daily dosage of hydrocodone bitartrate extended-release capsules.
+
+                        In a hydrocodone bitartrate extended-release capsules clinical trial with an open label titration period, patients were converted from their prior opioid to hydrocodone bitartrate extended-release capsules using Table 1 as a guide for the initial hydrocodone bitartrate extended-release capsules dose. To obtain the initial hydrocodone bitartrate extended-release capsules dose, first use Table 1 to convert the prior oral opioids to a total hydrocodone daily dose and then reduce the calculated daily hydrocodone dose by 25% to account for interpatient variability in relative potency of different opioids.
+
+                        Consider the following when using the information in Table 1:
+
+                           This is not a table of equianalgesic doses.
+
+                           The conversion factors in this table are only for the conversion from one of the listed oral opioid analgesics to hydrocodone bitartrate extended-release capsules.
+
+                           The table cannot be used to convert from hydrocodone bitartrate extended-release capsules to another opioid. Doing so will result in an over-estimation of the dose of the new opioid and may result in fatal overdose.
+
+                           Table 1. Conversion Factors to Hydrocodone Bitartrate Extended-Release Capsules (Not Equianalgesic Doses)
+
+                                 Prior Oral Opioid |
+                                 Oral Dose (mg) |
+                                 Approximate Oral Conversion Factor |
+
+                                 The conversion ratios in this table are only to be used for the conversion from current opioid therapy to hydrocodone bitartrate extended-release capsules. |
+
+                                 Hydrocodone |
+                                 10 |
+                                 1 |
+
+                                 Oxycodone |
+                                 10 |
+                                 1 |
+
+                                 Methadone |
+                                 10 |
+                                 1 |
+
+                                 Oxymorphone |
+                                 5 |
+                                 2 |
+
+                                 Hydromorphone |
+                                 3.75 |
+                                 2.67 |
+
+                                 Morphine |
+                                 15 |
+                                 0.67 |
+
+                                 Codeine |
+                                 100 |
+                                 0.10 |
+
+                        To calculate the estimated daily hydrocodone bitartrate extended-release capsule dose using Table 1:
+
+                           For patients on a single opioid, sum the current total daily dose of the opioid and then multiply the total daily dose by the approximate oral conversion factor to calculate the approximate oral hydrocodone daily dose. Divide the daily dose in half for administration every 12 hours.
+
+                           For patients on a regimen of more than one opioid, calculate the approximate oral hydrocodone dose for each opioid and sum the totals to obtain approximate total hydrocodone daily dose. The daily dose should then be divided in half for administration every 12 hours.
+
+                           For patients on a regimen of fixed-ratio opioid/non-opioid analgesic products, use only the opioid component of these products in the conversion.
+
+                           Reduce the calculated daily oral hydrocodone dose by 25%.
+
+                        Always round the dose down, if necessary, to the nearest hydrocodone bitartrate extended-release capsule strength(s) available and initiate therapy with that dose.
+
+                           Example conversion from a single opioid to hydrocodone bitartrate extended-release capsules
+
+                        Step 1: Sum the total daily dose of the opioid (in this case, extended-release oxymorphone); 15 mg oxymorphone twice daily = 30 mg total daily dose of oxymorphone.
+
+                        Step 2: Calculate the approximate equivalent dose of oral hydrocodone based on the total daily dose of the current opioid using Table 1; 30 mg total daily dose of oxymorphone x 2 = 60 mg of oral hydrocodone daily. The daily dose should then be divided in half for administration every 12 hours.
+
+                        Step 3: Calculate the approximate starting dose which is 30 mg hydrocodone bitartrate extended-release capsules every 12 hours. Round down, if necessary, to the appropriate hydrocodone bitartrate extended-release capsule strengths available. Close observation and frequent titration are warranted until pain management is stable on the new opioid. Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to hydrocodone bitartrate extended-release capsules.
+
+                        The dose of hydrocodone bitartrate extended-release capsules can be gradually adjusted preferably at increments of 10 mg every 12 hours every 3 to 7 days, until adequate pain relief and acceptable adverse reactions have been achieved.
+
+                           Conversion from Methadone to Hydrocodone Bitartrate Extended-Release Capsules
+
+                        Close monitoring is of particular importance when converting from methadone to other opioid agonists. The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure. Methadone has a long half-life and tends to accumulate in the plasma.
+
+                           Conversion from Fentanyl Transdermal System to Hydrocodone Bitartrate Extended-Release Capsules
+
+                        Hydrocodone bitartrate extended-release capsules treatment can be initiated 18 hours following the removal of the fentanyl transdermal system. Although there has been no systematic assessment of such conversion, a conservative hydrocodone dose, approximately 10 mg every 12 hours of hydrocodone bitartrate extended-release capsules, should be initially substituted for each 25 mcg/hr fentanyl transdermal system. Follow the patient closely during conversion from fentanyl transdermal system to hydrocodone bitartrate extended-release capsules, as there is limited documented experience with this conversion.

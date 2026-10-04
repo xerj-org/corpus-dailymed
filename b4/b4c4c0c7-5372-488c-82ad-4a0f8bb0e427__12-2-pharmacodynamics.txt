@@ -1,0 +1,7 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 12.2 Pharmacodynamics
+
+Doxepin has high binding affinity to the H1 receptor (Ki < 1 nM).
+
+                           Cardiac Electrophysiology
+
+                        In a thorough QTc prolongation clinical study in healthy subjects, doxepin had no effect on QT intervals or other electrocardiographic parameters after multiple daily doses up to 50 mg.

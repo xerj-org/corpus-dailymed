@@ -1,0 +1,9 @@
+DailyMed d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9 | MYHIBBIN | 8.6 Patients with Renal Impairment
+
+Patients with Kidney Transplant
+
+                        No dosage adjustments are needed in kidney transplant patients experiencing delayed graft function postoperatively, but patients should be carefully monitored [see Clinical Pharmacology (12.3)]. In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m2), no dose adjustments are necessary; however, doses greater than 1 g administered twice a day should be avoided.
+
+                           Patients with Heart and Liver Transplant
+
+                        No data are available for heart or liver transplant patients with severe chronic renal impairment. MYHIBBIN may be used for heart or liver transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.

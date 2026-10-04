@@ -1,0 +1,5 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 2.4 Drug Incompatibilities
+
+Do not administer Lactated Ringer’s Injection simultaneously with ceftriaxone via a Y-site in neonates due to serious risks [see Contraindications (4) and Warnings and Precautions (5.1)]. However, in patients older than 28 days, ceftriaxone and Lactated Ringer’s Injection may be administered sequentially if the infusion lines are thoroughly flushed between infusions with a compatible fluid [see Warnings and Precautions (5.1)].
+
+                        Do not administer Lactated Ringer’s Injection simultaneously with citrate anticoagulated/preserved blood through the same administration set because of the likelihood of coagulation precipitated by the calcium content of Lactated Ringer’s Injection.

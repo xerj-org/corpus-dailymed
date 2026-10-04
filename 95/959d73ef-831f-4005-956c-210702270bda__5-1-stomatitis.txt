@@ -1,0 +1,9 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 5.1 Stomatitis
+
+REVTORPYK can cause severe stomatitis, including ulcers and oral mucositis.
+
+                        In Study 1 of VIKTORIA-1, stomatitis occurred in 72% of patients treated with REVTORPYK with fulvestrant and palbociclib, including Grade 3 events in 22% of patients. Prophylactic steroid-containing alcohol-free mouthwash was required for a minimum of 8 weeks. The median time to onset was 7 days (range: 1 to 457 days). Stomatitis led to REVTORPYK dose reduction in 19% and permanent discontinuation in 3.8% of patients. Stomatitis occurred in 58% of patients treated with REVTORPYK with fulvestrant, including Grade 3 events in 12% of patients. The median time to onset was 4 days (range: 1 to 524 days). Stomatitis led to REVTORPYK dose reduction in 9% and permanent discontinuation in 1.5% of patients.
+
+                        Prophylactically initiate steroid-containing alcohol-free mouthwash to reduce the incidence and severity of stomatitis [see Dosage and Administration (2.3)].
+
+                        If stomatitis occurs, increase the frequency of mouthwash and administer other topical treatments as clinically indicated. Withhold, reduce dose, or permanently discontinue REVTORPYK based on severity [see Dosage and Administration (2.4)].

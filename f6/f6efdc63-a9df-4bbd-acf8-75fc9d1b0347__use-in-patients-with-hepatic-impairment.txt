@@ -1,0 +1,7 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | Use in Patients with Hepatic Impairment
+
+Patients with severe hepatic impairment (Child-Pugh C) have reduced systemic metoclopramide clearance (by approximately 50%) following intravenous administration compared to patients with normal hepatic function. The resulting increase in metoclopramide blood concentrations increases the risk of adverse reactions. There is no pharmacokinetic data in patients with moderate hepatic impairment (Child-Pugh B).
+
+                        There is no dosage adjustment required for patients with mild hepatic impairment (Child-Pugh A). For patients with moderate and severe hepatic impairment (Child-Pugh B or C), who are receiving more than a single dose of metoclopramide injection, reduce the metoclopramide injection dosage to one-half the dosage recommended for patients with normal hepatic function.
+
+                           NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

@@ -1,0 +1,11 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | CONTRAINDICATIONS
+
+PERCOCET is contraindicated in patients with:
+
+                     Significant respiratory depression [see WARNINGS]
+
+                     Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see WARNINGS]
+
+                     Known or suspected gastrointestinal obstruction, including paralytic ileus [see WARNINGS]
+
+                     Hypersensitivity to oxycodone, acetaminophen, or any other component of the product (e.g., anaphylaxis) [see WARNINGS, ADVERSE REACTIONS]

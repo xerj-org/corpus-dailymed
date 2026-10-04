@@ -1,0 +1,403 @@
+DailyMed c05ee6a5-c98b-45f4-83fd-40781639d653 | DigiFab | 2.1 Dosage
+
+General Guidelines:
+
+  Adjust the dosage of DIGIFAB according to the amount of digoxin to be neutralized.
+
+                                    Summary of Dosing Guidelines
+                                  |
+                                  |
+
+                                 Clinical Conditions |
+                                 Dosage |
+
+                                    Acute ingestion of
+
+  unknown amounts of
+
+  digoxin and toxicity in the
+
+  absence of a serum
+
+  digitalis concentration or
+
+  estimated ingestion amount
+
+                                  |
+                                 Administer 20 vials of DIGIFAB.
+
+  Monitor for volume overload in small
+
+  (<20 Kg) children.
+
+  Start with 10 vials followed by an
+
+  additional 10 vials, if needed, to avoid
+
+  a febrile reaction.
+     |
+
+                                    Chronic digoxin toxicity in
+
+  the absence of a serum
+
+  digitalis concentration
+
+                                  |
+                                 Administer 6 vials of DIGIFAB in
+
+  Adults and Children ≥ 20 Kg.
+
+  Administer 1 vial of DIGIFAB in Infants and Children < 20 Kg.
+     |
+
+                                    Acute ingestion of known
+
+  amounts of digoxin
+
+                                  |
+                                 Dose (in vials) =
+
+                                    Amount of digoxin ingested (in mg)
+
+                       0.5 mg/vial
+
+     |
+
+                                    Chronic digoxin toxicity
+
+  and known serum digitalis
+
+  concentration
+
+                                  |
+                                 Dose (in vials) =
+
+                                    (Serum digoxind ng/mL)(weight in kg)
+
+                               100
+
+     |
+
+                        Failure of the patient to respond to DIGIFAB should alert the physician to the possibility that the clinical problem may not be caused by digitalis toxicity.
+
+                           DOSAGE CALCULATION
+
+                           General
+
+                        Methods for calculating a neutralizing dose of DIGIFAB, based on a known or estimated amount of digoxin or digitoxin in the body, are provided below. When using the dose calculation methods provided, the following guidelines should be considered:
+
+                           Inaccurate estimates of the amount of digitalis ingested or absorbed may occur due to non-steady state serum concentrations or due to digitalis assay limitations. Most serum digoxin assay kits are designed to measure concentrations less than 5 ng/mL; therefore, sample dilution is required to accurately measure serum concentrations > 5 ng/mL.
+
+                           Dosage calculations are based on a steady state volume of distribution of approximately 5 L/kg for digoxin, which is used to convert serum digoxin concentrations to total body burden of digoxin in milligrams. The volume of distribution is a population average and may vary among individuals. Many patients may require higher doses for complete neutralization and doses should usually be rounded up to the nearest whole vial.
+
+                           If toxicity has not adequately reversed after several hours, or appears to recur, re-administration of DIGIFAB, at a dose guided by clinical judgment, may be necessary. If a patient is in need of re-administration of DIGIFAB due to recurrent toxicity, or to a new toxic episode that occurs soon after the first episode, measurement of free (unbound) serum digitalis concentrations should be considered since Fab may still be present in the body.
+
+                           Failure of a patient to respond to DIGIFAB treatment may indicate that the clinical problem is not caused by digitalis intoxication. If there is no response to an adequate dose of DIGIFAB, the diagnosis of digitalis toxicity should be questioned.
+
+                           Calculation for Ingestion of Known Amount:
+
+                           Each vial of DIGIFAB (40 mg of purified digoxin-specific Fab) binds approximately 0.5 mg of digoxin.
+
+                           The total number of vials required can be calculated by dividing the total body load of digoxin in milligrams (mg) by 0.5 mg per vial (see
+
+   Formula 1).
+
+                           Following an acute ingestion, total body load will be approximately equal to the amount ingested in milligrams for either digoxin capsules or digitoxin.
+
+                           In case of digoxin tablet ingestion , the total body load will be approximately equal to the amount ingested (in mg) multiplied by the bioavailability of the tablet preparation, which is 0.8.
+
+                           Table 1gives dosage estimates in number of vials for adults and children who have ingested a single large dose of digoxin and for whom the approximate number of tablets or capsules is known. The dose of DIGIFAB (in number of vials) represented in
+
+  Table 1can be approximated using the following formula:
+
+                           Formula 1
+
+                        Dose             =
+
+  total digitalis body load in mg
+
+  (in # of vials)    0.5 mg of digitalis bound/vial
+
+                           Table 1 Approximate Dose of DIGIFAB for Reversal of a Single Large Digoxin Overdose
+
+                                    *0.25 mg tablets with 80% bioavailability or 0.2 mg capsules with 100% bioavailability
+
+     |
+
+                                    Number of Digoxin Tablets
+
+  or Capsules Ingested*
+
+                                  |
+
+                                    Dose of DIGIFAB
+
+  # of vials
+
+                                  |
+
+                                 25 |
+                                 10 |
+
+                                 50 |
+                                 20 |
+
+                                 75 |
+                                 30 |
+
+                                 100 |
+                                 40 |
+
+                                 150 |
+                                 60 |
+
+                                 200 |
+                                 80 |
+
+                        If, after several hours, toxicity is not adequately reversed, or appears to recur, additional administration of DIGIFAB at a dose guided by clinical judgment may be required.
+
+                           Calculations Based on Steady-State Serum Digoxin Concentrations:
+
+                           Adults
+
+                           Table 2gives dosage estimates in number of vials for adult patients for whom a steady-state serum digoxin concentration is known. The dose of DIGIFAB (in number of vials) represented in
+
+  Table 2can be approximated using the following formula:
+
+                           Formula 2 (see
+
+   Table 2)
+
+                        Dose            =
+
+  (Serum digoxin concentration in ng/mL)(weight in kg)
+
+  (in # of vials)                                     100
+
+                           Table 2 Adult Dose Estimate of DIGIFAB (in # of vials) from Steady-State Serum Digoxin Concentration
+
+                                 v = vials |
+
+                                    Patient Weight
+
+  (kg)
+
+                                  |
+
+                                    Serum Digoxin Concentration (ng/mL)
+                                  |
+
+                                  |
+
+                                    1
+                                  |
+
+                                    2
+                                  |
+
+                                    4
+                                  |
+
+                                    8
+                                  |
+
+                                    12
+                                  |
+
+                                    16
+                                  |
+
+                                    20
+                                  |
+
+                                 40 |
+                                 0.5v |
+                                 1v |
+                                 2v |
+                                 3v |
+                                 5v |
+                                 7v |
+                                 8v |
+
+                                 60 |
+                                 0.5v |
+                                 1v |
+                                 3v |
+                                 5v |
+                                 7v |
+                                 10v |
+                                 12v |
+
+                                 70 |
+                                 1v |
+                                 2v |
+                                 3v |
+                                 6v |
+                                 9v |
+                                 11v |
+                                 14v |
+
+                                 80 |
+                                 1v |
+                                 2v |
+                                 3v |
+                                 7v |
+                                 10v |
+                                 13v |
+                                 16v |
+
+                                 100 |
+                                 1v |
+                                 2v |
+                                 4v |
+                                 8v |
+                                 12v |
+                                 16v |
+                                 20v |
+
+                           Children:
+
+                              Table 3gives dosage estimates in milligrams for infants and small (< 20 Kg) children based on the steady-state serum digoxin concentration.
+
+                           The dose of DIGIFAB represented in
+
+   Table 3can be estimated by multiplying the dose (in number of vials) calculated from Formula 2 by the amount of DIGIFAB contained in a vial (40 mg/vial) (see
+
+   Formula 3).
+
+                           Administer smaller doses in children < 20 Kg requiring doses < 1mL with a tuberculin syringe after reconstituting 40 mg.
+
+                           For very small doses, a reconstituted vial can be diluted with 36 mL of sterile isotonic saline to achieve a concentration of 1 mg/mL.
+
+                           Formula 3 (see
+
+   Table 3)
+
+                        Dose (in mg)   = (Dose in # of vials) (40 mg/vial)
+
+                           Table 3 Infants and Small (< 20 Kg) Children Dose Estimates of DIGIFAB (in mg) from Steady State Serum Digoxin Concentration
+
+                                    *dilution of reconstituted vial to 1 mg/mL may be desirable
+
+     |
+
+                                    Patient
+
+  Weight
+
+  (kg)
+
+                                  |
+
+                                    Serum Digoxin Concentration (ng/mL)
+                                  |
+
+                                  |
+
+                                    1
+                                  |
+
+                                    2
+                                  |
+
+                                    4
+                                  |
+
+                                    8
+                                  |
+
+                                    12
+                                  |
+
+                                    16
+                                  |
+
+                                    20
+                                  |
+
+                                 1 |
+                                 0.4 mg
+
+     *
+                                  |
+                                 1 mg
+
+     *
+                                  |
+                                 1.5 mg
+
+     *
+                                  |
+                                 3 mg
+
+     *
+                                  |
+                                 5 mg |
+                                 6.5 mg |
+                                 8 mg |
+
+                                 3 |
+                                 1 mg
+
+     *
+                                  |
+                                 2.5 mg
+
+     *
+                                  |
+                                 5 mg |
+                                 10 mg |
+                                 14 mg |
+                                 19 mg |
+                                 24 mg |
+
+                                 5 |
+                                 2 mg
+
+     *
+                                  |
+                                 4 mg |
+                                 8 mg |
+                                 16 mg |
+                                 24 mg |
+                                 32 mg |
+                                 40 mg |
+
+                                 10 |
+                                 4 mg |
+                                 8 mg |
+                                 16 mg |
+                                 32 mg |
+                                 48 mg |
+                                 64 mg |
+                                 80 mg |
+
+                                 20 |
+                                 8 mg |
+                                 16 mg |
+                                 32 mg |
+                                 64 mg |
+                                 96 mg |
+                                 128 mg |
+                                 160 mg |
+
+                           Calculation Based on Steady-State Digitoxin Concentrations:
+
+                        The dose of DIGIFAB for digitoxin toxicity can be approximated by using the following formula (which differs from Formula 2 in the denominator due to a 10-fold decrease in the volume of distribution of digitoxin as compared to digoxin).
+
+                           Formula 4
+
+                        Dose              =
+
+  (Serum digitoxin concentration in ng/mL) (weight in kg)
+
+  (in # of vials)                                   1000
+
+                        If in any case, the dose estimated based on ingested amount (
+
+  Formula 1) differs substantially from that calculated based on the serum digoxin or digitoxin concentration (
+
+  Formulas 2and
+
+  4), it may be preferable to use the higher dose estimate.

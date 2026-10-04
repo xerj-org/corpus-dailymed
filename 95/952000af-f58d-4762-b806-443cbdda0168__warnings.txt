@@ -1,0 +1,5 @@
+DailyMed 952000af-f58d-4762-b806-443cbdda0168 | Magnesium Sulfate in Water | WARNINGS
+
+FETAL HARM: Continuous administration of magnesium sulfate beyond 5-7 days to pregnant women can lead to hypocalcemia and bone abnormalities in the developing fetus. These bone abnormalities include skeletal demineralization and osteopenia. In addition, cases of neonatal fracture have been reported. The shortest duration of treatment that can lead to fetal harm is not known. Magnesium sulfate should be used during pregnancy only if clearly needed. If magnesium sulfate is given for treatment of preterm labor, the woman should be informed that the efficacy and safety of such use have not been established and that use of magnesium sulfate beyond 5-7 days may cause fetal abnormalities.
+
+                  Parenteral use in the presence of renal insufficiency may lead to magnesium intoxication.

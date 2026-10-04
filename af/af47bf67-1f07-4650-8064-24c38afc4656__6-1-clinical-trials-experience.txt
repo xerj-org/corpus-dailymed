@@ -1,0 +1,5 @@
+DailyMed af47bf67-1f07-4650-8064-24c38afc4656 | ZUNVEYL | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety of ZUNVEYL has been established in studies of galantamine immediate-release tablets and galantamine extended-release capsules[seeClinical Studies (14)]. Below is a display of the adverse reactions of galantamine in these studies.

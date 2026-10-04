@@ -1,0 +1,5 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 12.2 Pharmacodynamics
+
+Interaction with Opioids
+
+                        Ziconotide does not bind to opioid receptors and its pharmacological effects are not blocked by opioid antagonists. In animal models, intrathecal ziconotide potentiated opioid-induced reduction in gastrointestinal (GI) motility, but did not potentiate morphine-induced respiratory depression. In rats receiving ziconotide, additive analgesic effects were observed with concurrent administration of morphine, baclofen, or clonidine. Concurrent administration of intrathecal ziconotide and morphine did not prevent the development of morphine tolerance in rats.

@@ -1,0 +1,3 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 7.4 Interactions With Drugs Metabolized by CYP2D6
+
+Use caution when administering imatinib mesylate with CYP2D6 substrates that have a narrow therapeutic window.

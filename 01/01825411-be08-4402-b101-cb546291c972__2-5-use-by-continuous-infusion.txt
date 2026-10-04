@@ -1,0 +1,991 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 2.5 Use by Continuous Infusion
+
+Infusion at an initial rate of 10 to 12 mcg/kg/min of rocuronium bromide should be initiated only after early evidence of spontaneous recovery from an intubating dose. Due to rapid redistribution [see Clinical Pharmacology (12.3)] and the associated rapid spontaneous recovery, initiation of the infusion after substantial return of neuromuscular function (more than 10% of control T1), may necessitate additional bolus doses to maintain adequate block for surgery.
+
+                        Upon reaching the desired level of neuromuscular block, the infusion of rocuronium bromide must be individualized for each patient. The rate of administration should be adjusted according to the patient's twitch response as monitored with the use of a peripheral nerve stimulator. In clinical trials, infusion rates have ranged from 4 to 16 mcg/kg/min.
+
+                        Inhalation anesthetics, particularly enflurane and isoflurane, may enhance the neuromuscular blocking action of nondepolarizing muscle relaxants. In the presence of steady-state concentrations of enflurane or isoflurane, it may be necessary to reduce the rate of infusion by 30% to 50%, at 45 to 60 minutes after the intubating dose.
+
+                        Spontaneous recovery and reversal of neuromuscular blockade following discontinuation of rocuronium bromide infusion may be expected to proceed at rates comparable to that following comparable total doses administered by repetitive bolus injections [see Clinical Pharmacology (12.2)].
+
+                        Infusion solutions of rocuronium bromide can be prepared by mixing rocuronium bromide with an appropriate infusion solution such as 5% glucose in water or lactated Ringers [see Dosage and Administration (2.7)]. These infusion solutions should be used within 24 hours of mixing. Unused portions of infusion solutions should be discarded.
+
+                        Infusion rates of rocuronium bromide can be individualized for each patient using the following tables for 3 different concentrations of rocuronium bromide solution as guidelines:
+
+                           Table 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg per mL)*
+
+                                    *50 mg rocuronium bromide in 100 mL solution.
+
+                                  |
+
+                                    Patient Weight
+                                  |
+
+                                    Drug Delivery Rate (mcg/kg/min)
+                                  |
+
+                                    (kg)
+                                  |
+
+                                    (lbs)
+                                  |
+
+                                    4
+                                  |
+
+                                    5
+                                  |
+
+                                    6
+                                  |
+
+                                    7
+                                  |
+
+                                    8
+                                  |
+
+                                    9
+                                  |
+
+                                    10
+                                  |
+
+                                    12
+                                  |
+
+                                    14
+                                  |
+
+                                    16
+                                  |
+
+                                    Infusion Delivery Rate (mL/hr)
+                                  |
+
+                                 10
+ |
+                                 22
+ |
+                                 4.8
+ |
+                                 6
+ |
+                                 7.2
+ |
+                                 8.4
+ |
+                                 9.6
+ |
+                                 10.8
+ |
+                                 12
+ |
+                                 14.4
+ |
+                                 16.8
+ |
+                                 19.2
+ |
+
+                                 15
+ |
+                                 33
+ |
+                                 7.2
+ |
+                                 9
+ |
+                                 10.8
+ |
+                                 12.6
+ |
+                                 14.4
+ |
+                                 16.2
+ |
+                                 18
+ |
+                                 21.6
+ |
+                                 25.2
+ |
+                                 28.8
+ |
+
+                                 20
+ |
+                                 44
+ |
+                                 9.6
+ |
+                                 12
+ |
+                                 14.4
+ |
+                                 16.8
+ |
+                                 19.2
+ |
+                                 21.6
+ |
+                                 24
+ |
+                                 28.8
+ |
+                                 33.6
+ |
+                                 38.4
+ |
+
+                                 25
+ |
+                                 55
+ |
+                                 12
+ |
+                                 15
+ |
+                                 18
+ |
+                                 21
+ |
+                                 24
+ |
+                                 27
+ |
+                                 30
+ |
+                                 36
+ |
+                                 42
+ |
+                                 48
+ |
+
+                                 35
+ |
+                                 77
+ |
+                                 16.8
+ |
+                                 21
+ |
+                                 25.2
+ |
+                                 29.4
+ |
+                                 33.6
+ |
+                                 37.8
+ |
+                                 42
+ |
+                                 50.4
+ |
+                                 58.8
+ |
+                                 67.2
+ |
+
+                                 50
+ |
+                                 110
+ |
+                                 24
+ |
+                                 30
+ |
+                                 36
+ |
+                                 42
+ |
+                                 48
+ |
+                                 54
+ |
+                                 60
+ |
+                                 72
+ |
+                                 84
+ |
+                                 96
+ |
+
+                                 60
+ |
+                                 132
+ |
+                                 28.8
+ |
+                                 36
+ |
+                                 43.2
+ |
+                                 50.4
+ |
+                                 57.6
+ |
+                                 64.8
+ |
+                                 72
+ |
+                                 86.4
+ |
+                                 100.8
+ |
+                                 115.2
+ |
+
+                                 70
+ |
+                                 154
+ |
+                                 33.6
+ |
+                                 42
+ |
+                                 50.4
+ |
+                                 58.8
+ |
+                                 67.2
+ |
+                                 75.6
+ |
+                                 84
+ |
+                                 100.8
+ |
+                                 117.6
+ |
+                                 134.4
+ |
+
+                                 80
+ |
+                                 176
+ |
+                                 38.4
+ |
+                                 48
+ |
+                                 57.6
+ |
+                                 67.2
+ |
+                                 76.8
+ |
+                                 86.4
+ |
+                                 96
+ |
+                                 115.2
+ |
+                                 134.4
+ |
+                                 153.6
+ |
+
+                                 90
+ |
+                                 198
+ |
+                                 43.2
+ |
+                                 54
+ |
+                                 64.8
+ |
+                                 75.6
+ |
+                                 86.4
+ |
+                                 97.2
+ |
+                                 108
+ |
+                                 129.6
+ |
+                                 151.2
+ |
+                                 172.8
+ |
+
+                                 100
+ |
+                                 220
+ |
+                                 48
+ |
+                                 60
+ |
+                                 72
+ |
+                                 84
+ |
+                                 96
+ |
+                                 108
+ |
+                                 120
+ |
+                                 144
+ |
+                                 168
+ |
+                                 192
+ |
+
+                           Table 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg per mL)*
+
+                                    *100 mg rocuronium bromide in 100 mL solution.
+
+                                  |
+
+                                    Patient Weight
+                                  |
+
+                                    Drug Delivery Rate (mcg/kg/min)
+                                  |
+
+                                    (kg)
+                                  |
+
+                                    (lbs)
+                                  |
+
+                                    4
+                                  |
+
+                                    5
+                                  |
+
+                                    6
+                                  |
+
+                                    7
+                                  |
+
+                                    8
+                                  |
+
+                                    9
+                                  |
+
+                                    10
+                                  |
+
+                                    12
+                                  |
+
+                                    14
+                                  |
+
+                                    16
+                                  |
+
+                                    Infusion Delivery Rate (mL/hr)
+                                  |
+
+                                 10
+ |
+                                 22
+ |
+                                 2.4
+ |
+                                 3
+ |
+                                 3.6
+ |
+                                 4.2
+ |
+                                 4.8
+ |
+                                 5.4
+ |
+                                 6
+ |
+                                 7.2
+ |
+                                 8.4
+ |
+                                 9.6
+ |
+
+                                 15
+ |
+                                 33
+ |
+                                 3.6
+ |
+                                 4.5
+ |
+                                 5.4
+ |
+                                 6.3
+ |
+                                 7.2
+ |
+                                 8.1
+ |
+                                 9
+ |
+                                 10.8
+ |
+                                 12.6
+ |
+                                 14.4
+ |
+
+                                 20
+ |
+                                 44
+ |
+                                 4.8
+ |
+                                 6
+ |
+                                 7.2
+ |
+                                 8.4
+ |
+                                 9.6
+ |
+                                 10.8
+ |
+                                 12
+ |
+                                 14.4
+ |
+                                 16.8
+ |
+                                 19.2
+ |
+
+                                 25
+ |
+                                 55
+ |
+                                 6
+ |
+                                 7.5
+ |
+                                 9
+ |
+                                 10.5
+ |
+                                 12
+ |
+                                 13.5
+ |
+                                 15
+ |
+                                 18
+ |
+                                 21
+ |
+                                 24
+ |
+
+                                 35
+ |
+                                 77
+ |
+                                 8.4
+ |
+                                 10.5
+ |
+                                 12.6
+ |
+                                 14.7
+ |
+                                 16.8
+ |
+                                 18.9
+ |
+                                 21
+ |
+                                 25.2
+ |
+                                 29.4
+ |
+                                 33.6
+ |
+
+                                 50
+ |
+                                 110
+ |
+                                 12
+ |
+                                 15
+ |
+                                 18
+ |
+                                 21
+ |
+                                 24
+ |
+                                 27
+ |
+                                 30
+ |
+                                 36
+ |
+                                 42
+ |
+                                 48
+ |
+
+                                 60
+ |
+                                 132
+ |
+                                 14.4
+ |
+                                 18
+ |
+                                 21.6
+ |
+                                 25.2
+ |
+                                 28.8
+ |
+                                 32.4
+ |
+                                 36
+ |
+                                 43.2
+ |
+                                 50.4
+ |
+                                 57.6
+ |
+
+                                 70
+ |
+                                 154
+ |
+                                 16.8
+ |
+                                 21
+ |
+                                 25.2
+ |
+                                 29.4
+ |
+                                 33.6
+ |
+                                 37.8
+ |
+                                 42
+ |
+                                 50.4
+ |
+                                 58.8
+ |
+                                 67.2
+ |
+
+                                 80
+ |
+                                 176
+ |
+                                 19.2
+ |
+                                 24
+ |
+                                 28.8
+ |
+                                 33.6
+ |
+                                 38.4
+ |
+                                 43.2
+ |
+                                 48
+ |
+                                 57.6
+ |
+                                 67.2
+ |
+                                 76.8
+ |
+
+                                 90
+ |
+                                 198
+ |
+                                 21.6
+ |
+                                 27
+ |
+                                 32.4
+ |
+                                 37.8
+ |
+                                 43.2
+ |
+                                 48.6
+ |
+                                 54
+ |
+                                 64.8
+ |
+                                 75.6
+ |
+                                 86.4
+ |
+
+                                 100
+ |
+                                 220
+ |
+                                 24
+ |
+                                 30
+ |
+                                 36
+ |
+                                 42
+ |
+                                 48
+ |
+                                 54
+ |
+                                 60
+ |
+                                 72
+ |
+                                 84
+ |
+                                 96
+ |
+
+                           Table 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg per mL)*
+
+                                    *500 mg rocuronium bromide in 100 mL solution.
+
+                                  |
+
+                                    Patient Weight
+                                  |
+
+                                    Drug Delivery Rate (mcg/kg/min)
+                                  |
+
+                                    (kg)
+                                  |
+
+                                    (lbs)
+                                  |
+
+                                    4
+                                  |
+
+                                    5
+                                  |
+
+                                    6
+                                  |
+
+                                    7
+                                  |
+
+                                    8
+                                  |
+
+                                    9
+                                  |
+
+                                    10
+                                  |
+
+                                    12
+                                  |
+
+                                    14
+                                  |
+
+                                    16
+                                  |
+
+                                    Infusion Delivery Rate (mL/hr)
+                                  |
+
+                                 10
+ |
+                                 22
+ |
+                                 0.5
+ |
+                                 0.6
+ |
+                                 0.7
+ |
+                                 0.8
+ |
+                                 1
+ |
+                                 1.1
+ |
+                                 1.2
+ |
+                                 1.4
+ |
+                                 1.7
+ |
+                                 1.9
+ |
+
+                                 15
+ |
+                                 33
+ |
+                                 0.7
+ |
+                                 0.9
+ |
+                                 1.1
+ |
+                                 1.3
+ |
+                                 1.4
+ |
+                                 1.6
+ |
+                                 1.8
+ |
+                                 2.2
+ |
+                                 2.5
+ |
+                                 2.9
+ |
+
+                                 20
+ |
+                                 44
+ |
+                                 1
+ |
+                                 1.2
+ |
+                                 1.4
+ |
+                                 1.7
+ |
+                                 1.9
+ |
+                                 2.2
+ |
+                                 2.4
+ |
+                                 2.9
+ |
+                                 3.4
+ |
+                                 3.8
+ |
+
+                                 25
+ |
+                                 55
+ |
+                                 1.2
+ |
+                                 1.5
+ |
+                                 1.8
+ |
+                                 2.1
+ |
+                                 2.4
+ |
+                                 2.7
+ |
+                                 3
+ |
+                                 3.6
+ |
+                                 4.2
+ |
+                                 4.8
+ |
+
+                                 35
+ |
+                                 77
+ |
+                                 1.7
+ |
+                                 2.1
+ |
+                                 2.5
+ |
+                                 2.9
+ |
+                                 3.4
+ |
+                                 3.8
+ |
+                                 4.2
+ |
+                                 5
+ |
+                                 5.9
+ |
+                                 6.7
+ |
+
+                                 50
+ |
+                                 110
+ |
+                                 2.4
+ |
+                                 3
+ |
+                                 3.6
+ |
+                                 4.2
+ |
+                                 4.8
+ |
+                                 5.4
+ |
+                                 6
+ |
+                                 7.2
+ |
+                                 8.4
+ |
+                                 9.6
+ |
+
+                                 60
+ |
+                                 132
+ |
+                                 2.9
+ |
+                                 3.6
+ |
+                                 4.3
+ |
+                                 5
+ |
+                                 5.8
+ |
+                                 6.5
+ |
+                                 7.2
+ |
+                                 8.6
+ |
+                                 10.1
+ |
+                                 11.5
+ |
+
+                                 70
+ |
+                                 154
+ |
+                                 3.4
+ |
+                                 4.2
+ |
+                                 5
+ |
+                                 5.9
+ |
+                                 6.7
+ |
+                                 7.6
+ |
+                                 8.4
+ |
+                                 10.1
+ |
+                                 11.8
+ |
+                                 13.4
+ |
+
+                                 80
+ |
+                                 176
+ |
+                                 3.8
+ |
+                                 4.8
+ |
+                                 5.8
+ |
+                                 6.7
+ |
+                                 7.7
+ |
+                                 8.6
+ |
+                                 9.6
+ |
+                                 11.5
+ |
+                                 13.4
+ |
+                                 15.4
+ |
+
+                                 90
+ |
+                                 198
+ |
+                                 4.3
+ |
+                                 5.4
+ |
+                                 6.5
+ |
+                                 7.6
+ |
+                                 8.6
+ |
+                                 9.7
+ |
+                                 10.8
+ |
+                                 13
+ |
+                                 15.1
+ |
+                                 17.3
+ |
+
+                                 100
+ |
+                                 220
+ |
+                                 4.8
+ |
+                                 6
+ |
+                                 7.2
+ |
+                                 8.4
+ |
+                                 9.6
+ |
+                                 10.8
+ |
+                                 12
+ |
+                                 14.4
+ |
+                                 16.8
+ |
+                                 19.2
+ |

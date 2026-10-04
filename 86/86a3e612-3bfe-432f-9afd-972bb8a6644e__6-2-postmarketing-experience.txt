@@ -1,0 +1,53 @@
+DailyMed 86a3e612-3bfe-432f-9afd-972bb8a6644e | Naproxen | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of naproxen. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        The following are additional adverse experiences reported in <1% of patients taking naproxen during clinical trials and through postmarketing reports. Those adverse reactions observed through postmarketing reports are italicized.
+
+                           Body as a Whole: anaphylactoid reactions, angioneurotic edema, menstrual disorders, pyrexia (chills and fever)
+
+                           Cardiovascular: congestive heart failure, vasculitis, hypertension, pulmonary edema
+
+                           Gastrointestinal: inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract. Esophagitis, stomatitis, hematemesis, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease).
+
+                           Hepatobiliary: abnormal liver function tests, hepatitis (some cases have been fatal)
+
+                           Hemic and Lymphatic: eosinophilia, leucopenia, granulocytopenia, hemolytic anemia, aplastic anemia
+
+                           Metabolic and Nutritional: hyperglycemia, hypoglycemia
+
+                           Nervous System: depression, dream abnormalities, insomnia, malaise, myalgia, muscle weakness, aseptic meningitis, cognitive dysfunction, convulsions
+
+                           Respiratory: eosinophilic pneumonitis, asthma
+
+                           Dermatologic: alopecia, urticaria, toxic epidermal necrolysis, erythema multiforme, erythema nodosum, lichen planus, pustular reaction, systemic lupus erythematoses, bullous reactions, including Stevens-Johnson syndrome, fixed drug eruption (FDE), photosensitive dermatitis, photosensitivity reactions, including rare cases resembling porphyria cutanea tarda (pseudoporphyria) or epidermolysis bullosa. If skin fragility, blistering or other symptoms suggestive of pseudoporphyria occur, treatment should be discontinued and the patient monitored.
+
+                           Special Senses: hearing impairment, corneal opacity, papillitis, retrobulbar optic neuritis, papilledema
+
+                           Urogenital: glomerular nephritis, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, renal disease, renal failure, renal papillary necrosis, raised serum creatinine
+
+                           Reproduction (female): infertility
+
+                        In patients taking NSAIDs, the following adverse experiences have also been reported in <1% of patients.
+
+                           Body as a Whole: fever, infection, sepsis, anaphylactic reactions, appetite changes, death
+
+                           Cardiovascular: hypertension, tachycardia, syncope, arrhythmia, hypotension, myocardial infarction
+
+                           Gastrointestinal: dry mouth, esophagitis, gastric/peptic ulcers, gastritis, glossitis, eructation
+
+                           Hepatobiliary: hepatitis, liver failure
+
+                           Hemic and Lymphatic: rectal bleeding, lymphadenopathy, pancytopenia
+
+                           Metabolic and Nutritional: weight changes
+
+                           Nervous System: anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations
+
+                           Respiratory: asthma, respiratory depression, pneumonia
+
+                           Dermatologic: exfoliative dermatitis
+
+                           Special Senses: blurred vision, conjunctivitis
+
+                           Urogenital: cystitis, dysuria, oliguria/polyuria, proteinuria

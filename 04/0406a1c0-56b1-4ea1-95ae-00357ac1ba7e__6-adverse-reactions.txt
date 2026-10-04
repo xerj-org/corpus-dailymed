@@ -1,0 +1,11 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 6 ADVERSE REACTIONS
+
+The following important adverse reactions are described below and elsewhere in the labeling:
+
+                     Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)]
+
+                     Volume Depletion [see Warnings and Precautions (5.2)]
+
+                     Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.3)]
+
+                     Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)]

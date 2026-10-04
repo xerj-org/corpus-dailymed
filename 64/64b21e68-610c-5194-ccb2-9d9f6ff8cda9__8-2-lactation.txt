@@ -1,0 +1,11 @@
+DailyMed 64b21e68-610c-5194-ccb2-9d9f6ff8cda9 | Brimonidine Tartrate | 8.2 Lactation
+
+Risk Summary
+
+                        It is not known whether brimonidine tartrate is excreted in human milk. In animal studies, brimonidine tartrate has been shown to cross the blood-brain barrier and is excreted into breast milk after oral administration to lactating rats (see Data). Because of the potential for serious adverse reactions, including central nervous system depression and apnea, from brimonidine tartrate ophthalmic solution in nursing infants, brimonidine tartrate ophthalmic solution is not recommended for use during lactation.    
+
+                           Data    
+
+                           Animal Data    
+
+                          After a single oral dose of 14C-labeled brimonidine tartrate to lactating rats, brimonidine and metabolites were detected in milk. After male and female rats received a single oral dose of 14C-brimonidine tartrate, brimonidine crossed the blood-brain barrier. Radiolabel was detected in the cerebellum, cerebrum, and spinal cord.

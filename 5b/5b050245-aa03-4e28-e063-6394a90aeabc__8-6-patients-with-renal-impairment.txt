@@ -1,0 +1,11 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 8.6 Patients with Renal Impairment
+
+Dosage adjustment is necessary in patients with creatinine clearance 30 mL/min or less
+
+  [see
+
+   Dosage and Administration (2.4)and
+
+   Clinical Pharmacology (12.3)]
+
+  .

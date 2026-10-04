@@ -1,0 +1,19 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 8.1 Pregnancy
+
+Risk Summary
+
+                        Based on its mechanism of action, IMDELLTRA may cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)]. There are no available data on the use of IMDELLTRA in pregnant women to inform a drug-associated risk.
+
+                        In an animal reproduction study, a murine surrogate molecule administered intravenously to pregnant mice crossed the placental barrier.
+
+                        Tarlatamab-dlle causes T-cell activation and cytokine release; immune activation may compromise pregnancy maintenance.
+
+                        Human immunoglobulin G (IgG) and proteins comprising IgG-derived fragment crystallizable (Fc) domains are known to cross the placental barrier; therefore, IMDELLTRA has the potential to be transmitted from the mother to the developing fetus. Advise women of the potential risk to the fetus.
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% - 4% and 15% - 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Animal reproduction studies have not been conducted with tarlatamab-dlle. In an embryo-fetal developmental toxicity study, a murine surrogate molecule was administered intravenously to pregnant mice during the period of organogenesis. The surrogate molecule crossed the placental barrier and did not cause maternal toxicity, embryo-fetal toxicity or teratogenicity.

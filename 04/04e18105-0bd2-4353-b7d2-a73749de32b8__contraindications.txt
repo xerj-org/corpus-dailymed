@@ -1,0 +1,7 @@
+DailyMed 04e18105-0bd2-4353-b7d2-a73749de32b8 | Glipizide | CONTRAINDICATIONS
+
+Glipizide tablets are contraindicated in patients with:
+
+    1. Known hypersensitivity to the drug.
+
+    2. Type 1 diabetes mellitus, diabetic ketoacidosis, with or without coma. This condition should be treated with insulin.

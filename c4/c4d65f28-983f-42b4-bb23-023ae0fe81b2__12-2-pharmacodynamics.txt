@@ -1,0 +1,3 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 12.2 Pharmacodynamics
+
+XADAGO inhibits monoamine oxidase B (MAO-B), with more than 1000-fold selectivity over MAO-A. In clinical studies, complete inhibition (>90%) of MAO-B was measured at doses > 20 mg.

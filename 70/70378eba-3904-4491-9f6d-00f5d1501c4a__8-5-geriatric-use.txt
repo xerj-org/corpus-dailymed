@@ -1,0 +1,5 @@
+DailyMed 70378eba-3904-4491-9f6d-00f5d1501c4a | Pantoprazole Sodium | 8.5 Geriatric Use
+
+Of 286 patients in clinical studies of intravenous pantoprazole sodium in patients with GERD and a history of EE, 86 (43%) were 65 years of age and over. No overall differences in safety or effectiveness were observed between these geriatric and younger adult patients, and other reported clinical experience with oral pantoprazole sodium has not identified differences in responses between geriatric and younger adult patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+                        No clinically meaningful differences in the pharmacokinetics of pantoprazole were observed in geriatric subjects compared to younger adult subjects [see Clinical Pharmacology (12.3)].

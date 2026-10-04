@@ -1,0 +1,9 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 12.1 Mechanism of Action
+
+Brimonidine tartrate/timolol maleate ophthalmic solution is comprised of two components: brimonidine tartrate and timolol. Each of these two components decreases elevated intraocular pressure, whether or not associated with glaucoma. Elevated intraocular pressure is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss. The higher the level of intraocular pressure, the greater the likelihood of glaucomatous field loss and optic nerve damage.
+
+                        Brimonidine tartrate/timolol maleate ophthalmic solution is a relatively selective alpha-2 adrenergic receptor agonist with a non-selective beta-adrenergic receptor inhibitor. Both brimonidine and timolol have a rapid onset of action, with peak ocular hypotensive effect seen at two hours post-dosing for brimonidine and one to two hours for timolol.
+
+ Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing uveoscleral outflow.
+
+ Timolol maleate is a beta1 and beta2 adrenergic receptor inhibitor that does not have significant intrinsic sympathomimetic, direct myocardial depressant, or local anesthetic (membrane-stabilizing) activity.

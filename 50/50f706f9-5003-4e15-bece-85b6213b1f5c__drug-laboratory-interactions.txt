@@ -1,0 +1,6 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Drug/Laboratory Interactions
+
+Cross-reactivity and false-positive urine screening tests for opiates have been reported in patients receiving rifampin when using the KIMS (Kinetic Interaction of Microparticles in Solution) method (e.g., Abuscreen OnLine opiates assay; Roche Diagnostic Systems). Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish rifampin from opiates.
+
+                        Therapeutic levels of rifampin have been shown to inhibit standard microbiological assays for serum folate and vitamin B
+  12. Thus, alternate assay methods should be considered. Transient abnormalities in liver function tests (e.g., elevation in serum bilirubin, alkaline phosphatase, and serum transaminases) and reduced biliary excretion of contrast media used for visualization of the gallbladder have also been observed. Therefore, these tests should be performed before the morning dose of rifampin.

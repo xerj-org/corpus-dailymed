@@ -1,0 +1,3 @@
+DailyMed 0fc94bc2-fa38-439a-a609-1b4130cdacb1 | Hydrochlorothiazide | Nonteratogenic Effects
+
+Thiazides cross the placental barrier and appear in cord blood. There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.

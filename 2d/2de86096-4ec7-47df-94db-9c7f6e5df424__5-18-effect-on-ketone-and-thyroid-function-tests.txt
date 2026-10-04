@@ -1,0 +1,5 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 5.18 Effect on Ketone and Thyroid Function Tests
+
+Valproate is partially eliminated in the urine as a keto-metabolite which may lead to a false interpretation of the urine ketone test.
+
+                        There have been reports of altered thyroid function tests associated with valproate. The clinical significance of these is unknown.

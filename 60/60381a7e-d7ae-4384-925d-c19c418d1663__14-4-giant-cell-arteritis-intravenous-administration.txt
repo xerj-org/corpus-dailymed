@@ -1,0 +1,7 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 14.4 Giant Cell Arteritis – Intravenous Administration
+
+Intravenously administered tocilizumab in patients with GCA was assessed in WP41152 (NCT03923738), an open-label PK-PD and safety study to determine the appropriate intravenous dose of tocilizumab that achieved comparable PK-PD profiles to the tocilizumab-SC regimen.
+
+                        At enrollment, all patients (n=24) were in remission on tocilizumab-IV. In Period 1, all patients received open- label tocilizumab-IV 7 mg/kg every 4 weeks for 20 weeks. Patients who completed Period 1 and remained in remission (n=22) were eligible to enter Period 2, and received open-label tocilizumab-IV 6 mg/kg every 4 weeks for 20 weeks.
+
+                        The efficacy of intravenous tocilizumab 6 mg/kg in adult patients with GCA is based on pharmacokinetic exposure and extrapolation to the efficacy established for subcutaneous tocilizumab in patients with GCA [see Clinical Pharmacology (12.3) and Clinical Studies (14.3)].

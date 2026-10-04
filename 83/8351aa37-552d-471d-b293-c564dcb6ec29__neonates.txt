@@ -1,0 +1,5 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Neonates
+
+Premature neonates: Ceftriaxone is contraindicated in premature neonates up to a postmenstrual age of 41 weeks (gestational age + chronological age).
+
+                           Hyperbilirubinemic neonates: Hyperbilirubinemic neonates should not be treated with ceftriaxone. Ceftriaxone can displace bilirubin from its binding to serum albumin, leading to a risk of bilirubin encephalopathy in these patients.

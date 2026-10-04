@@ -1,0 +1,3 @@
+DailyMed 2f94f711-14c4-48ec-c5a3-c5ec4b8e8729 | Lidocaine Hydrochloride and Epinephrine | 7.4 Nonselective Beta-Adrenergic Antagonists
+
+Administration of Lidocaine Hydrochloride and Epinephrine Injection in patients receiving nonselective beta-adrenergic antagonists may cause severe hypertension and bradycardia. Concurrent use of these agents should generally be avoided. In situations when concurrent therapy is necessary, careful monitoring of the patient's blood pressure and heart rate is essential [see Warnings and Precautions (5.5)].

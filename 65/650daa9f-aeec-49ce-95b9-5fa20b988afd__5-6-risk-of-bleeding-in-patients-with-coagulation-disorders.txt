@@ -1,0 +1,4 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | 5.6 Risk of Bleeding in Patients with Coagulation Disorders
+
+AMELUZ has not been tested on patients with inherited or acquired coagulation disorders. Take special care to avoid bleeding during lesion preparation in such patients [see Dosage and Administration (2.3)
+                           ]. Any bleeding must be stopped before application of AMELUZ.

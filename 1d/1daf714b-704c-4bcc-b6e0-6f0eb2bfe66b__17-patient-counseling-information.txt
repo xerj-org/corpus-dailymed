@@ -1,0 +1,67 @@
+DailyMed 1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b | FAVLYXA | 17 PATIENT COUNSELING INFORMATION
+
+Advise patients of the following:
+
+                     Serious Adverse Reactions or Death from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
+
+                  Prior to initiating FAVLYXA treatment, inform patients of the potential for serious or fatal adverse reactions due to DPD deficiency and testing for genetic variants of DPYD. Advise patients to immediately contact their healthcare provider if symptoms of severe mucositis, diarrhea, neutropenia, and neurotoxicity occur [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.5)].
+
+                     Cardiotoxicity
+
+                  Advise patients of the risk of cardiotoxicity and to immediately contact their healthcare provider for new onset of chest pain, shortness of breath, dizziness, or lightheadedness [see Warnings and Precautions (5.2)].
+
+                     Hyperammonemic Encephalopathy and Neurologic Toxicity
+
+                  Advise patients to immediately contact their healthcare provider or go to an emergency room for new onset of confusion, disorientation, or otherwise altered mental status; difficulty with balance or coordination; or visual disturbances [see Warnings and Precautions (5.3, 5.4)].
+
+                     Diarrhea
+
+                  Inform patients experiencing grade 2 or higher diarrhea (an increase of 4 to 6 stools/day or nocturnal stools) or experiencing severe bloody diarrhea with severe abdominal pain and fever to immediately contact their health care provider. Advise patients on the use of antidiarrheal treatments (e.g., loperamide) to manage diarrhea [see Warnings and Precautions (5.5)].
+
+                     Palmar-Plantar Erythrodysesthesia Syndrome
+
+                  Instruct patients experiencing grade 2 palmar-plantar erythrodysesthesia syndrome or greater to stop taking FAVLYXA immediately and to contact their healthcare provider. Inform patients that initiation of symptomatic treatment is recommended, and hand-and-foot syndrome can lead to loss of fingerprints which could impact personal identification [see Warnings and Precautions (5.6)].
+
+                     Myelosuppression
+
+                  Inform patients who develop a fever of 100.5°F or greater or other evidence of potential infection to immediately contact their healthcare provider [see Warnings and Precautions (5.7)].
+
+                     Mucositis
+
+                  Inform patients experiencing grade 2 stomatitis (painful erythema, edema or ulcers of the mouth or tongue, but able to eat) or greater to contact their healthcare provider [see Warnings and Precautions (5.8)].
+
+                     Increased Risk of Bleeding with Concomitant Warfarin
+
+                  Advise patients taking warfarin, that they are at an increased risk of severe bleeding while taking FAVLYXA. Advise these patients that INR should be monitored more frequently, and dosage modifications of warfarin may be required, while taking and after discontinuation of FAVLYXA. Advise these patients to immediately contact their healthcare provider if signs or symptoms of bleeding occur [see Warnings and Precautions (5.9)].
+
+                     Embryo-Fetal Toxicity
+
+                  Advise pregnant women and females of reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
+
+                  Advise females of reproductive potential to use effective contraception during treatment with FAVLYXA and for 6 months after the last dose [see Use in Specific Populations (8.3)].
+
+                  Advise males with female partners of reproductive potential to use effective contraception during treatment with FAVLYXA and for 3 months after the last dose [see Use in Specific Populations (8.3)].
+
+                     Lactation
+
+                  Advise females not to breastfeed during treatment with FAVLYXA and for 1 week after the last dose [see Use in Specific Populations (8.2)].
+
+                     Infertility
+
+                  Advise males and females of reproductive potential that FAVLYXA may impair fertility [see Use in Specific Populations (8.3)].
+
+                     Drug interactions
+
+                  Advise patients to notify their healthcare provider of all drugs they are taking, including warfarin or other coumarin-derivative anticoagulants. Advise patients of the importance of keeping appointments for blood tests [see Warnings and Precautions (5.9), Drug Interactions (7.1)].
+
+                     Rx Only
+
+                     Manufactured for:
+
+                  Avyxa Pharma, LLC
+
+New Jersey 07054, USA
+
+                  Made in China
+
+                  Revised: 09/2026

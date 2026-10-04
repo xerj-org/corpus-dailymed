@@ -1,0 +1,7 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 8.6 Hepatic Impairment
+
+Avoid administration of ZEPZELCA in patients with severe hepatic impairment (total bilirubin > 3 × ULN). If administration of ZEPZELCA cannot be avoided, reduce the dose [see Dosage and Administration (2.4)]. Monitor for increased adverse reactions in patients with severe hepatic impairment.
+
+                        Reduce the dose of ZEPZELCA in patients with moderate hepatic impairment (total bilirubin > 1.5 to 3 × ULN and any AST) [see Dosage and Administration (2.4)]. Monitor for increased adverse reactions in patients with moderate hepatic impairment.
+
+                        No dose adjustment of ZEPZELCA is recommended for patients with mild hepatic impairment (total bilirubin ≤ ULN and AST > ULN, or total bilirubin 1 to ≤ 1.5 × ULN and any AST) [see Clinical Pharmacology (12.3)].

@@ -1,0 +1,13 @@
+DailyMed 7c22a2d6-821c-4f83-aead-e756aed930e5 | Naproxen Sodium | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+A two year study was performed in rats to evaluate the carcinogenic potential of naproxen at doses of 8 mg/kg/day, 16 mg/kg/day, and 24 mg/kg/day (0.05, 0.1, and 0.16 times the maximum recommended human daily dose of 1,500 mg/day based on a body surface area comparison). No evidence of tumorigenicity was found. 
+
+                           Mutagenesis
+
+Studies to evaluate the mutagenic potential of Naprosyn Suspension have not been completed. 
+
+                           Impairment of Fertility
+
+Studies to evaluate the impact of naproxen on male or female fertility have not been completed.

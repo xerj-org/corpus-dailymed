@@ -1,0 +1,3 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.18 Crystalluria
+
+Crystals of ciprofloxacin have been observed rarely in the urine of human subjects but more frequently in the urine of laboratory animals, which is usually alkaline [see Nonclinical Toxicology (13.2)]. Crystalluria related to ciprofloxacin has been reported only rarely in humans because human urine is usually acidic. Avoid alkalinity of the urine in patients receiving ciprofloxacin. Hydrate patients well to prevent the formation of highly concentrated urine [see Dosage and Administration (2.4)].

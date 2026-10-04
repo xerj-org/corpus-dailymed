@@ -1,0 +1,3 @@
+DailyMed d8057d1a-e8af-42ab-9da2-b545730b2655 | Cyclophosphamide | 5.10 Hyponatremia
+
+Hyponatremia associated with increased total body water, acute water intoxication, and a syndrome resembling SIADH (syndrome of inappropriate secretion of antidiuretic hormone), which may be fatal, has been reported.

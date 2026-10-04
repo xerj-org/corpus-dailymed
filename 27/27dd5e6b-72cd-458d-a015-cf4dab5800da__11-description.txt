@@ -1,0 +1,17 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 11 DESCRIPTION
+
+PHESGO is a combination of pertuzumab, trastuzumab, and hyaluronidase.
+
+                  Pertuzumab is a recombinant humanized monoclonal antibody that targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2). Pertuzumab is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary) culture. Pertuzumab has an approximate molecular weight of 148 kDa.
+
+                  Trastuzumab is a humanized IgG1 kappa monoclonal antibody that selectively binds with high affinity to the extracellular domain of the human epidermal growth factor receptor 2 protein, HER2. Trastuzumab is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary) culture. Trastuzumab has a molecular weight of approximately 148 kDa.
+
+                  Hyaluronidase (recombinant human) is an endoglycosidase used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously. It is a glycosylated single-chain protein produced by mammalian (Chinese Hamster Ovary) cells containing a DNA plasmid encoding for a soluble fragment of human hyaluronidase (PH20). Hyaluronidase (recombinant human) has a molecular weight of approximately 61 kDa.
+
+                  PHESGO (pertuzumab, trastuzumab, and hyaluronidase-zzxf) injection is a sterile, preservative-free, clear to opalescent, and colorless to slightly brownish solution supplied in single-dose vials for subcutaneous administration.
+
+                  PHESGO injection is supplied as two different configurations:
+
+                     PHESGO is supplied in a 15 mL single-dose vial containing 1,200 mg of pertuzumab, 600 mg of trastuzumab, and 30,000 units of hyaluronidase, and α,α-trehalose (397 mg), L-histidine (6.75 mg), L-histidine hydrochloric monohydrate (53.7 mg), L-methionine (22.4 mg), polysorbate 20 (6 mg), and sucrose (685 mg) with a pH of 5.5.
+
+                     PHESGO is supplied in a 10 mL single-dose vial containing 600 mg of pertuzumab, 600 mg of trastuzumab, and 20,000 units of hyaluronidase, and α,α-trehalose (397 mg), L-histidine (4.4 mg), L-histidine hydrochloric monohydrate (36.1 mg), L-methionine (14.9 mg), polysorbate 20 (4 mg), and sucrose (342 mg) with a pH of 5.5.

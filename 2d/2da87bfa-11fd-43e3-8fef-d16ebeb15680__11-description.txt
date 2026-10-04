@@ -1,0 +1,11 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 11 DESCRIPTION
+
+Morphine sulfate extended-release capsules, USP (once daily) are for oral use and contain pellets of morphine sulfate, an opioid agonist.
+
+                  Each morphine sulfate extended-release capsule contains either 30 mg, 45 mg, 60 mg, 75 mg, 90 mg, or 120 mg of morphine sulfate, USP and the following inactive ingredients: diethyl phthalate, ethylcellulose, gelatin, hydroxypropyl cellulose, methacrylic acid copolymer, polyethylene glycol, sugar spheres, talc, and titanium dioxide. The 30 mg capsules also contain FD&C blue No. 1. The 45 mg capsules also contain FD&C blue No. 1 and FD&C red No. 3. The 60 mg capsules also contain D&C yellow No. 10 and FD&C green No. 3. The 75 mg capsules also contain black iron oxide, red iron oxide, and yellow iron oxide. The 90 mg capsules also contain D&C Red No. 33, D&C yellow No. 10  and FD&C blue No. 1. The 120 mg capsules also contain FD&C blue No. 1. The ink ingredients are common for all strengths: black iron oxide, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, purified water, shellac, and strong ammonium solution.
+
+                  The chemical name of morphine sulfate is 7,8-didehydro-4,5 alpha-epoxy-17-methylmorphinan-3,6 alpha-diol sulfate (2:1) (salt) pentahydrate with a molecular weight of 758.83. The molecular formula is (C17H19NO3)2•H2SO4•5H2O.
+
+                  Morphine sulfate is an odorless, white, crystalline powder. It is soluble in water and slightly soluble in alcohol, but is practically insoluble in chloroform or ether. The octanol: water partition coefficient of morphine is 1.42 at physiologic pH and the pKa is 7.9 for the tertiary nitrogen (the majority is ionized at pH 7.4). Its structural formula is:
+
+                  FDA approved dissolution test specifications differ from USP.

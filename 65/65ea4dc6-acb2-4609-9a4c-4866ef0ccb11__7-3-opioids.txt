@@ -1,0 +1,7 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 7.3 Opioids
+
+As with other oral P2Y
+  12 inhibitors, coadministration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites
+  [see
+   Clinical Pharmacology (12.3)].
+  Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring coadministration of morphine or other opioid agonists.

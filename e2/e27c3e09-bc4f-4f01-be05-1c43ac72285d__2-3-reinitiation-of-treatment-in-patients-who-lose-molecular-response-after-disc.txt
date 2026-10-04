@@ -1,0 +1,13 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 2.3 Reinitiation of Treatment in Patients Who Lose Molecular Response After Discontinuation of Therapy With Nilotinib Capsules
+
+Newly diagnosed patients who lose MMR must reinitiate treatment within 4 weeks at the dose level prior to discontinuation of therapy [see Warnings and Precautions (
+
+                                 5.16
+
+                              )]. Patients who reinitiate Nilotinib Capsules therapy should have their BCR-ABL transcript levels monitored monthly until major molecular response is re-established and every 12 weeks thereafter.
+
+                           Patients resistant or intolerant to prior treatment that included imatinib with confirmed loss of MR4.0 (2 consecutive measures separated by at least 4 weeks showing loss of MR4.0) or loss of MMR must reinitiate treatment within 4 weeks at the dose level prior to discontinuation of therapy [see Warnings and Precautions (
+
+                                 5.16
+
+                              )]. Patients who reinitiate Nilotinib Capsules therapy should have their BCR-ABL transcript levels monitored monthly until previous major molecular response or MR4.0 is re-established and every 12 weeks thereafter.

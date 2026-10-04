@@ -1,0 +1,3 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 7.2 Beta-adrenergic Blocking Agents
+
+Patients who are receiving a beta-adrenergic blocking agent either orally or intravenously and brimonidine tartrate/timolol maleate ophthalmic solution should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure. The concomitant use of two topical beta-adrenergic blocking agents is not recommended.

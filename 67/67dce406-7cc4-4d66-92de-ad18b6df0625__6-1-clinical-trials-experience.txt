@@ -1,0 +1,117 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety of SOHONOS was evaluated in clinical studies that enrolled a total of 164 subjects with FOP, including 139 subjects in the indicated population of ages 8 years and above for females and 10 years and above for males (8/10 years and older). Most of these subjects received open label treatment with the chronic daily/flare-up regimen, consisting of 5 mg daily dosage of oral SOHONOS with a 20/10 mg dosage as needed for 12 weeks at the time of flare-up (4 weeks of 20 mg once daily followed by 10 mg once daily for 8 weeks), with all doses reduced by weight in subjects who were less than 90% skeletally mature. The mean duration of exposure was 79 weeks for chronic dosing (N=131 subjects) and 35 weeks for flare-up dosing (N=105 subjects). The mean age of these subjects was 19 years (range 8 to 61 years); 51% were male.
+
+                        Serious adverse reactions occurred in 21 (15%) SOHONOS treated subjects in the 8/10 years or older population with the most common serious adverse reaction being premature epiphyseal closure. Adverse reactions leading to permanent discontinuation occurred in 11 (8%) SOHONOS treated subjects with dry skin being the most common in 2 (1%) subjects. Mucocutaneous adverse reactions leading to dose reductions were more common during SOHONOS 20/10 mg flare-up treatment (37%) than during chronic treatment (4%).
+
+                        Table 5 below presents adverse reactions which occurred in at least 10% of FOP subjects 8/10 years and older during treatment with chronic or flare-up dosing.
+
+                           Table 5. Summary of Adverse Reactions Reported at greater than 10% Frequency in FOP Subjects 8/10 years and older in Clinical Trials
+
+                                 Adverse Reaction |
+                                 Chronic 5 mg
+
+ N=131
+
+ n (%) |
+                                 Flare-up dosing 20/10 mg
+
+N=105
+
+n (%) |
+
+                                 Doses were reduced according to body weight in subjects who were less than 90% skeletally mature |
+
+                                 Dry skin |
+                                 80 (61) |
+                                 60 (57) |
+
+                                 Lip dry includes lip dry, chapped lips, cheilitis
+
+                                  |
+                                 62 (47) |
+                                 40 (38) |
+
+                                 Arthralgia |
+                                 47 (36) |
+                                 32 (31) |
+
+                                 Pruritus includes pruritus, pruritus generalized, and rash pruritic
+
+                                  |
+                                 45 (34) |
+                                 50 (48) |
+
+                                 Pain in extremity |
+                                 38 (29) |
+                                 29 (28) |
+
+                                 Rash includes rash, rash generalized, rash maculo-papular
+
+                                  |
+                                 36 (28) |
+                                 31 (30) |
+
+                                 Alopecia |
+                                 32 (24) |
+                                 31 (30) |
+
+                                 Erythema includes erythema, generalized erythema, flushing, rash erythematous
+
+                                  |
+                                 25 (19) |
+                                 34 (32) |
+
+                                 Headache includes headache and migraine
+
+                                  |
+                                 25 (19) |
+                                 20 (19) |
+
+                                 Back pain includes back pain, flank pain, sciatica
+
+                                  |
+                                 22 (17) |
+                                 12 (11) |
+
+                                 Skin exfoliation [skin peeling] |
+                                 20 (15) |
+                                 30 (29) |
+
+                                 Nausea |
+                                 20 (15) |
+                                 14 (13) |
+
+                                 Musculoskeletal pain |
+                                 18 (14) |
+                                 14 (13) |
+
+                                 Myalgia includes myalgia, musculoskeletal discomfort
+
+                                  |
+                                 15 (12) |
+                                 9 (9) |
+
+                                 Dry eye |
+                                 13 (10) |
+                                 23 (22) |
+
+                                 Hypersensitivity includes drug eruption, hypersensitivity, pruritus allergic, drug hypersensitivity
+
+                                  |
+                                 13 (10) |
+                                 21 (20) |
+
+                                 Peripheral edema includes peripheral swelling, edema peripheral
+
+                                  |
+                                 12 (9) |
+                                 20 (19) |
+
+                                 Fatigue includes fatigue, lethargy, asthenia, malaise
+
+                                  |
+                                 7 (5) |
+                                 12 (11) |

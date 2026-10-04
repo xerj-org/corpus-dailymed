@@ -1,0 +1,25 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 14.5 Clinical Studies in Generalized Anxiety Disorder
+
+The effectiveness of PAXIL in the treatment of generalized anxiety disorder (GAD) in adults was demonstrated in two 8‑week, multicenter, placebo‑controlled studies (Studies GAD-1 and GAD-2) of adult outpatients with GAD (DSM‑IV).
+
+                           Study GAD-1 was an 8‑week study that compared fixed doses of  PAXIL 20 mg once daily and PAXIL 40 mg once daily with placebo once daily. Patients in the :
+
+                                 PAXIL 20 mg group, initially received PAXIL 10 mg once daily and after one week received 20 mg once daily.
+
+                                 PAXIL 40 mg group, initially received PAXIL 10 mg once daily for one week and then their dosage was increased by 10 mg per week until the target dosage of 40 mg once daily.
+
+                        PAXIL dosages of 20 mg or 40 mg once daily were both demonstrated to be statistically significantly superior to placebo on the Hamilton Rating Scale for Anxiety (HAM‑A) total score. There was not sufficient evidence in Study GAD-1to suggest a greater benefit for the PAXIL 40 mg once daily dosage compared to the 20 mg daily dosage.
+
+                           Study GAD-2 was a flexible‑dose study that compared PAXIL 20 mg to 50 mg once daily and placebo once daily. Patients in the PAXIL group started 10 mg once daily and after one week their dosage was increased to 20 mg once daily.  Subsequently, their PAXIL dosage could be increased by weekly increments of 10 mg per day up to a maximum of 50 mg once daily.  PAXIL demonstrated a statistically significant superiority over placebo on HAM‑A total score.
+
+                        A third study, a flexible-dose study (Study GAD-3) that compared PAXIL 20 mg to 50 mg once daily to placebo once daily, did not demonstrate statistically significant superiority of PAXIL over placebo on the HAM‑A total score, the primary outcome.
+
+                        Subgroup analyses did not indicate differences in treatment outcomes as a function of race or gender. There were insufficient patients 65 years of age or older to conduct subgroup analyses on the basis of age.
+
+                        In a long-term, randomized-withdrawal trial (Study GAD-4), 566 patients who met DSM-IV criteria for GAD, who had responded during a single-blind, 8-week acute treatment phase with PAXIL 20 mg to 50 mg once daily, were randomized to continue PAXIL at their same dosage, or to switch to placebo treatment, for up to 24 weeks of observation for relapse. Response during the:
+
+                           Single-blind phase was defined by having a decrease of ³2 points compared to baseline on the CGI-Severity of Illness scale, to a score of £3.
+
+                           Double-blind phase was defined as an increase of ³2 points compared to baseline on the CGI-Severity of Illness scale to a score of ³4, or withdrawal due to lack of efficacy.
+
+                        Patients who were randomized to receive PAXIL experienced a statistically significantly lower relapse rate over the subsequent 24 weeks compared to those who were randomized to receive placebo.

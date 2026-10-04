@@ -1,0 +1,5 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 8.2 Lactation
+
+Risk Summary
+
+  There are no data on the presence of clopidogrel in human milk or the effects on milk production. No adverse effects on breastfed infants have been observed with maternal clopidogrel use during lactation in a small number of postmarketing cases. Studies in rats have shown that clopidogrel and/or its metabolites are present in the milk. When a drug is present in animal milk, it is likely that the drug will be present in human milk. The developmental and health benefits of breastfeeding should be considered along with mother’s clinical need for clopidogrel and any potential adverse effects on the breastfed infant from clopidogrel or from underlying maternal condition.

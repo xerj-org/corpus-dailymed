@@ -1,0 +1,21 @@
+DailyMed 09736975-2493-4dbc-bbe0-cc56a1fec53f | Gabapentin | 8.5 Geriatric Use
+
+The total number of patients treated with gabapentin capsules in controlled clinical trials in patients with postherpetic neuralgia was 336, of which 102 (30%) were 65 to 74 years of age, and 168 (50%) were 75 years of age and older. There was a larger treatment effect in patients 75 years of age and older compared to younger patients who received the same dosage.
+
+   
+
+  Since gabapentin is almost exclusively eliminated by renal excretion, the larger treatment effect observed in patients ≥ 75 years may be a consequence of increased gabapentin exposure for a given dose that results from an age-related decrease in renal function. However, other factors cannot be excluded. The types and incidence of adverse reactions were similar across age groups except for peripheral edema and ataxia, which tended to increase in incidence with age.
+
+                        Clinical studies of gabapentin capsules in epilepsy did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+                        This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients
+
+  [see
+
+   Dosage and Administration (2.4),
+
+   Adverse Reactions (6), and
+
+   Clinical Pharmacology (12.3)]
+
+  .

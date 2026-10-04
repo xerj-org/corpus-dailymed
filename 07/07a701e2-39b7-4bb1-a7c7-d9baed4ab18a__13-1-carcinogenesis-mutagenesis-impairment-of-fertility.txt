@@ -1,0 +1,13 @@
+DailyMed 07a701e2-39b7-4bb1-a7c7-d9baed4ab18a | Guanfacine Extended-Release | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        No carcinogenic effect of guanfacine was observed in studies of 78 weeks in mice or 102 weeks in rats at doses up to 6.8 times the maximum recommended human dose of 0.12 mg/kg/day on a mg/m 2  basis.
+
+                        Mutagenesis
+
+                        Guanfacine was not genotoxic in a variety of test models, including the Ames test and an in vitro  chromosomal aberration test; however, a marginal increase in numerical aberrations (polyploidy) was observed in the latter study.
+
+                        Impairment of Fertility
+
+                        No adverse effects were observed in fertility studies in male and female rats at doses up to 22 times the maximum recommended human dose on a mg/m 2  basis.

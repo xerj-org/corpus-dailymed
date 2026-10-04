@@ -1,0 +1,5 @@
+DailyMed 4c966d73-77c6-4514-954e-57aa06a080c6 | ACETAMINOPHEN AND CODEINE PHOSPHATE | Drug/Laboratory Test Interactions
+
+Codeine may increase serum amylase levels. 
+
+                        Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid.

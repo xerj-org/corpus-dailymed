@@ -1,0 +1,950 @@
+DailyMed ce15ad07-3286-478f-9f30-1db6a45ed402 | Pravastatin Sodium | 14 CLINICAL STUDIES
+
+Prevention of Coronary Heart Disease
+
+                  In the Pravastatin Primary Prevention Study (WOS), the effect of pravastatin on fatal and nonfatal CHD was assessed in 6,595 male patients 45 to 64 years of age, without a previous MI, and with LDL-C levels between 156 to 254 mg/dL. In this randomized, double-blind, placebo-controlled study, patients were treated with standard care, including dietary advice, and either pravastatin 40 mg daily (N=3,302) or placebo (N=3,293) and followed for a median duration of 4.8 years. Median (25th, 75th percentile) percent changes from baseline after 6 months of pravastatin treatment in Total-C, LDL-C, TG, and HDL-C were −20.3 (−26.9, −11.7), −27.7 (−36, −16.9), −9.1 (−27.6, 12.5), and 6.7 (−2.1, 15.6), respectively.
+
+                  Pravastatin  significantly reduced the rate of first coronary events (either CHD death or nonfatal MI) by 31% (248 events in the placebo group [CHD death=44, nonfatal MI=204] versus 174 events in the pravastatin group [CHD death=31, nonfatal MI=143], p=0.0001 [see figure below]). The risk reduction with pravastatin was similar across the age range studied and throughout the range of baseline LDL cholesterol levels.
+
+                  Pravastatin also decreased the risk for undergoing myocardial revascularization procedures (coronary artery bypass graft [CABG] surgery or percutaneous transluminal coronary angioplasty [PTCA]) by 37% (80 vs 51 patients). Cardiovascular deaths were decreased by 32% (73 vs 50) and there was no increase in death from non-cardiovascular causes.
+
+                     Secondary Prevention of Cardiovascular Events
+
+                  In the LIPID study, the effect of pravastatin, 40 mg daily, was assessed in 9,014 patients (7,498 men; 1,516 women; 3,514 patients ≥65 years; 782 patients with diabetes) who had experienced either an MI (5,754 patients) or had been hospitalized for unstable angina pectoris (3,260 patients) in the preceding 3 to 36 months. Patients in this multicenter, double-blind, placebo-controlled study participated for an average of 5.6 years (median of 5.9 years) and at randomization had Total-C between 114 and 563 mg/dL (mean 219 mg/dL), LDL-C between 46 and 274 mg/dL (mean 150 mg/dL), TG between 35 and 2,710 mg/dL (mean 160 mg/dL), and HDL-C between 1 and 103 mg/dL (mean 37 mg/dL). At baseline, 82% of patients were receiving aspirin and 76% were receiving antihypertensive medication. Treatment with pravastatin significantly reduced the risk for total mortality by reducing coronary death (see Table 7). The risk reduction due to treatment with pravastatin on CHD mortality was consistent regardless of age. Pravastatin significantly reduced the risk for total mortality (by reducing CHD death) and CHD events (CHD mortality or nonfatal MI) in patients who qualified with a history of either MI or hospitalization for unstable angina pectoris.
+
+                     Table 7: LIPID - Primary and Secondary Endpoints
+
+                            |
+
+                              Number (%) of Subjects
+                            |
+                            |
+
+                              Event
+                            |
+
+                              Pravastatin
+
+                              40 mg
+
+                              (N=4,512)
+                            |
+
+                              Placebo
+
+                              (N=4,502)
+                            |
+
+                              Risk
+
+                              Reduction
+                            |
+
+                                 p-value
+                            |
+
+                                 Primary Endpoint
+
+                            |
+
+                                  CHD mortality
+
+                            |
+
+                              287 (6.4)
+
+                            |
+
+                              373 (8.3)
+
+                            |
+
+                              24%
+
+                            |
+
+                              0.0004
+
+                            |
+
+                                 Secondary Endpoints
+
+                            |
+
+                                  Total mortality
+
+                            |
+
+                              498 (11)
+
+                            |
+
+                              633 (14.1)
+
+                            |
+
+                              23%
+
+                            |
+
+                              <0.0001
+
+                            |
+
+                                  CHD mortality or nonfatal MI
+
+                            |
+
+                              557 (12.3)
+
+                            |
+
+                              715 (15.9)
+
+                            |
+
+                              24%
+
+                            |
+
+                              <0.0001
+
+                            |
+
+                                  Myocardial revascularization
+
+    procedures (CABG or PTCA)
+
+                            |
+
+                              584 (12.9)
+
+                            |
+
+                              706 (15.7)
+
+                            |
+
+                              20%
+
+                            |
+
+                              <0.0001
+
+                            |
+
+                                  Stroke
+
+                            |
+
+                                      All-cause
+
+                            |
+
+                              169 (3.7)
+
+                            |
+
+                              204 (4.5)
+
+                            |
+
+                              19%
+
+                            |
+
+                              0.0477
+
+                            |
+
+                                      Non-hemorrhagic
+
+                            |
+
+                              154 (3.4)
+
+                            |
+
+                              196 (4.4)
+
+                            |
+
+                              23%
+
+                            |
+
+                              0.0154
+
+                            |
+
+                                  Cardiovascular mortality
+
+                            |
+
+                              331 (7.3)
+
+                            |
+
+                              433 (9.6)
+
+                            |
+
+                              25%
+
+                            |
+
+                              <0.0001
+
+                            |
+
+                  In the CARE study, the effect of pravastatin, 40 mg daily, on CHD death and nonfatal MI was assessed in 4,159 patients (3,583 men and 576 women) who had experienced a MI in the preceding 3 to 20 months and who had normal (below the 75th percentile of the general population) plasma total cholesterol levels. Patients in this double-blind, placebo-controlled study participated for an average of 4.9 years and had a mean baseline Total-C of 209 mg/dL. LDL-C levels in this patient population ranged from 101 to 180 mg/dL (mean 139 mg/dL). At baseline, 84% of patients were receiving aspirin and 82% were taking antihypertensive medications. Median (25th, 75th percentile) percent changes from baseline after 6 months of pravastatin treatment in Total-C, LDL-C, TG, and HDL-C were −22 (−28.4, −14.9), −32.4 (−39.9, −23.7), −11 (−26.5, 8.6), and 5.1 (−2.9, 12.7), respectively. Treatment with pravastatin significantly reduced the rate of first recurrent coronary events (either CHD death or nonfatal MI), the risk of undergoing revascularization procedures (PTCA, CABG), and the risk for stroke or TIA (see Table 8).
+
+                     Table 8: CARE - Primary and Secondary Endpoints
+
+                            |
+
+                              Number (%) of Subjects
+                            |
+                            |
+
+                              Event
+                            |
+
+                              Pravastatin
+
+                              40 mg
+
+                              (N=2,081)
+                            |
+
+                              Placebo
+
+                              (N=2,078)
+                            |
+
+                              Risk
+
+                              Reduction
+                            |
+
+                                 p-value
+                            |
+
+                              a  The risk reduction due to treatment with pravastatin was consistent in both sexes. |
+
+                                 Primary Endpoint
+
+                            |
+
+                                CHD mortality or nonfatal MIa
+
+                            |
+
+                              212 (10.2)
+
+                            |
+
+                              274 (13.2)
+
+                            |
+
+                              24%
+
+                            |
+
+                              0.003
+
+                            |
+
+                                 Secondary Endpoints
+
+                            |
+
+                                Myocardial revascularization procedures (CABG or PTCA)
+
+                            |
+
+                              294 (14.1)
+
+                            |
+
+                              391 (18.8)
+
+                            |
+
+                              27%
+
+                            |
+
+                              <0.001
+
+                            |
+
+                                Stroke or TIA
+
+                            |
+
+                              93 (4.5)
+
+                            |
+
+                              124 (6)
+
+                            |
+
+                              26%
+
+                            |
+
+                              0.029
+
+                            |
+
+                     Primary Hyperlipidemia
+
+                  In multicenter, double-blind, placebo-controlled studies of patients with primary hyperlipidemia, treatment with pravastatin  in daily doses ranging from 10 to 40 mg consistently and significantly decreased Total-C, LDL-C, and TG (see Table 9).
+
+                  In a pooled analysis of 2 multicenter, double-blind, placebo-controlled studies of patients with primary hyperlipidemia, treatment with pravastatin at a daily dose of 80 mg (N=277) significantly decreased Total-C, LDL-C, and TG. The 25th and 75th percentile changes from baseline in LDL-C for pravastatin 80 mg were −43% and −30%. The efficacy results of the individual studies were consistent with the pooled data (see Table 9).
+
+                     Table 9: Primary Hyperlipidemia Trials: Dose Response of Pravastatin Once Daily Administration
+
+                              a  A multicenter, double-blind, placebo-controlled study.
+
+                              b  Pooled analysis of 2 multicenter, double-blind, placebo-controlled studies. |
+
+                                 Dose
+
+                            |
+
+                                 Total-C
+
+                            |
+
+                                 LDL-C
+
+                            |
+
+                                 HDL-C
+
+                            |
+
+                                 TG
+
+                            |
+
+                               
+
+                            |
+
+                              Mean Percent Changes From Baseline After 8 Weeksa
+
+                            |
+
+                              Placebo (N=36)
+
+                            |
+
+                              −3%
+
+                            |
+
+                              −4%
+
+                            |
+
+                              +1%
+
+                            |
+
+                              −4%
+
+                            |
+
+                              10 mg (N=18)
+
+                            |
+
+                              −16%
+
+                            |
+
+                              −22%
+
+                            |
+
+                              +7%
+
+                            |
+
+                              −15%
+
+                            |
+
+                              20 mg (N=19)
+
+                            |
+
+                              −24%
+
+                            |
+
+                              −32%
+
+                            |
+
+                              +2%
+
+                            |
+
+                              −11%
+
+                            |
+
+                              40 mg (N=18)
+
+                            |
+
+                              −25%
+
+                            |
+
+                              −34%
+
+                            |
+
+                              +12%
+
+                            |
+
+                              −24%
+
+                            |
+
+                               
+
+                            |
+
+                              Mean Percent Changes From Baseline After 6 Weeksb
+
+                            |
+
+                              Placebo (N=162)
+
+                            |
+
+                              0%
+
+                            |
+
+                              −1%
+
+                            |
+
+                              −1%
+
+                            |
+
+                              +1%
+
+                            |
+
+                              80 mg (N=277)
+
+                            |
+
+                              −27%
+
+                            |
+
+                              −37%
+
+                            |
+
+                              +3%
+
+                            |
+
+                              −19%
+
+                            |
+
+                     Hypertriglyceridemia
+
+                  The response to pravastatin in patients with hypertriglyceridemia (baseline TG >200 mg/dL and LDL-C <160 mg/dL) was evaluated in a subset of 429 patients from the CARE study. For pravastatin-treated subjects, the median (min, max) baseline TG level was 246 (200.5, 349.5) mg/dL (see Table 10).
+
+                     Table 10: Patients with Hypertriglyceridemia Median (25th, 75th percentile) % Change from Baseline
+
+                               
+
+                            |
+
+                                 Pravastatin 40 mg (N=429)
+
+                            |
+
+                                 Placebo (N=430)
+
+                            |
+
+                              TG
+
+                            |
+
+                              −21.1 (−34.8, 1.3)
+
+                            |
+
+                              −6.3 (−23.1, 18.3)
+
+                            |
+
+                              Total-C
+
+                            |
+
+                              −22.1 (−27.1, −14.8)
+
+                            |
+
+                              0.2 (−6.9, 6.8)
+
+                            |
+
+                              LDL-C
+
+                            |
+
+                              −31.7 (−39.6, −21.5)
+
+                            |
+
+                              0.7 (−9, 10)
+
+                            |
+
+                              HDL-C
+
+                            |
+
+                              7.4 (−1.2, 17.7)
+
+                            |
+
+                              2.8 (−5.7, 11.7)
+
+                            |
+
+                              Non-HDL-C
+
+                            |
+
+                              −27.2 (−34, −18.5)
+
+                            |
+
+                              −0.8 (−8.2, 7)
+
+                            |
+
+                     Dysbetalipoproteinemia
+
+                  The response to pravastatin in two double-blind crossover studies of 46 patients with genotype E2/E2 and dysbetalipoproteinemia is shown in Table 11.
+
+                     Table 11: Patients with Dysbetalipoproteinemia Median (min, max) % Change from Baseline
+
+                               
+
+                            |
+
+                              Median (min, max)
+
+at Baseline (mg/dL)
+
+                            |
+
+                              Median % Change (min, max)
+
+Pravastatin 40 mg (N=20)
+
+                            |
+
+                                 Study 1
+
+                            |
+
+                               
+
+                            |
+
+                               
+
+                            |
+
+                              Total-C
+
+                            |
+
+                              386.5 (245, 672)
+
+                            |
+
+                              −32.7 (−58.5, 4.6)
+
+                            |
+
+                              TG
+
+                            |
+
+                              443 (275, 1,299)
+
+                            |
+
+                              −23.7 (−68.5, 44.7)
+
+                            |
+
+                              VLDL-Ca
+
+                            |
+
+                              206.5 (110, 379)
+
+                            |
+
+                              −43.8 (−73.1, −14.3)
+
+                            |
+
+                              LDL-Ca
+
+                            |
+
+                              117.5 (80, 170)
+
+                            |
+
+                              −40.8 (−63.7, 4.6)
+
+                            |
+
+                              HDL-C
+
+                            |
+
+                              30 (18, 88)
+
+                            |
+
+                              6.4 (−45, 105.6)
+
+                            |
+
+                              Non-HDL-C
+
+                            |
+
+                              344.5 (215, 646)
+
+                            |
+
+                              −36.7 (−66.3, 5.8)
+
+                            |
+
+                                 a  N=14
+
+                            |
+
+                               
+
+                            |
+
+                              Median (min, max)
+
+at Baseline (mg/dL)
+
+                            |
+
+                              Median % Change (min, max)
+
+Pravastatin 40 mg (N=26)
+
+                            |
+
+                                 Study 2
+
+                            |
+
+                               
+
+                            |
+
+                               
+
+                            |
+
+                              Total-C
+
+                            |
+
+                              340.3 (230.1, 448.6)
+
+                            |
+
+                              −31.4 (−54.5, −13)
+
+                            |
+
+                              TG
+
+                            |
+
+                              343.2 (212.6, 845.9)
+
+                            |
+
+                              −11.9 (−56.5, 44.8)
+
+                            |
+
+                              VLDL-C
+
+                            |
+
+                              145 (71.5, 309.4)
+
+                            |
+
+                              −35.7 (−74.7, 19.1)
+
+                            |
+
+                              LDL-C
+
+                            |
+
+                              128.6 (63.8, 177.9)
+
+                            |
+
+                              −30.3 (−52.2, 13.5)
+
+                            |
+
+                              HDL-C
+
+                            |
+
+                              38.7 (27.1, 58)
+
+                            |
+
+                              5 (−17.7, 66.7)
+
+                            |
+
+                              Non-HDL-C
+
+                            |
+
+                              295.8 (195.3, 421.5)
+
+                            |
+
+                              −35.5 (−81, −13.5)
+
+                            |
+
+                     HeFH in Pediatric Patients Aged 8 Years and Above
+
+                  A double-blind, placebo-controlled study in 214 pediatric patients (100 males and 114 females) with heterozygous familial hypercholesterolemia (HeFH), aged 8 to 18 years was conducted for 2 years. The pediatric patients aged 8 to 13 years were randomized to placebo (N=63) or 20 mg of pravastatin daily (N=65) and the pediatric patients aged 14 to 18 years were randomized to placebo (N=45) or 40 mg of pravastatin daily (N=41). Inclusion in the study required an LDL-C level >95th percentile for age and sex and one parent with either a clinical or molecular diagnosis of familial hypercholesterolemia. The mean baseline LDL-C value was 239 mg/dL and 237 mg/dL in the pravastatin (range: 151 to 405 mg/dL) and placebo (range: 154 to 375 mg/dL) groups, respectively.
+
+                  Pravastatin significantly decreased plasma levels of LDL-C, Total-C, and ApoB in both pediatric age groups (see Table 12). The effect of pravastatin treatment in the 2 age groups was similar.
+
+                     Table 12: Lipid-Lowering Effects of Pravastatin in Pediatric Patients with Heterozygous Familial Hypercholesterolemia: Least-Squares Mean % Change from Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)a
+
+                            |
+
+                              Pravastatin
+
+                              20 mg
+
+                              (Aged 8 to 13
+
+                              years)
+
+                              N=65
+                            |
+
+                              Pravastatin
+
+                              40 mg
+
+                              (Aged 14 to 18
+
+                              years)
+
+                              N=41
+                            |
+
+                              Combined
+
+                              Pravastatin
+
+                              (Aged 8 to 18
+
+                              years)
+
+                              N=106
+                            |
+
+                              Combined
+
+                              Placebo
+
+                              (Aged 8 to 18
+
+                              years)
+
+                              N=108
+                            |
+
+                              95% CI of the Difference Between Combined Pravastatin and Placebo
+                            |
+
+                              a  The above least-squares mean values were calculated based on log-transformed lipid values.
+
+                              b  Significant at p≤0.0001 when compared with placebo. |
+
+                              LDL-C
+
+                            |
+
+                              −26.04b
+
+                            |
+
+                              −21.07b
+
+                            |
+
+                              −24.07b
+
+                            |
+
+                              −1.52
+
+                            |
+
+                              (−26.74, −18.86)
+
+                            |
+
+                              TC
+
+                            |
+
+                              −20.75b
+
+                            |
+
+                              −13.08b
+
+                            |
+
+                              −17.72b
+
+                            |
+
+                              −0.65
+
+                            |
+
+                              (−20.40, −13.83)
+
+                            |
+
+                              HDL-C
+
+                            |
+
+                              1.04
+
+                            |
+
+                              13.71
+
+                            |
+
+                              5.97
+
+                            |
+
+                              3.13
+
+                            |
+
+                              (−1.71, 7.43)
+
+                            |
+
+                              TG
+
+                            |
+
+                              −9.58
+
+                            |
+
+                              −0.30
+
+                            |
+
+                              −5.88
+
+                            |
+
+                              −3.27
+
+                            |
+
+                              (−13.95, 10.01)
+
+                            |
+
+                              ApoB
+
+(N)
+
+                            |
+
+                              −23.16b
+
+(61)
+
+                            |
+
+                              −18.08b
+
+(39)
+
+                            |
+
+                              −21.11b
+
+(100)
+
+                            |
+
+                              −0.97
+
+(106)
+
+                            |
+
+                              (−24.29, −16.18)
+
+                            |
+
+                  The mean achieved LDL-C was 186 mg/dL (range: 67 to 363 mg/dL) in the pravastatin group k to 236 mg/dL (range: 105 to 438 mg/dL) in the placebo group.

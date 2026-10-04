@@ -1,0 +1,37 @@
+DailyMed f4c4fce0-0472-45a3-b4c6-192d97ca1818 | CLINDAMYCIN HYDROCHLORIDE | Human Pharmacology
+
+Absorption
+
+                        Pharmacokinetic studies with a 150 mg oral dose of clindamycin hydrochloride in 24 normal adult volunteers showed that clindamycin was rapidly absorbed after oral administration. An average peak serum concentration of 2.50 mcg/mL was reached in 45 minutes; serum concentrations averaged 1.51 mcg/mL at 3 hours and 0.70 mcg/mL at 6 hours. Absorption of an oral dose is virtually complete (90%), and the concomitant administration of food does not appreciably modify the serum concentrations; serum concentrations have been uniform and predictable from person to person and dose to dose. Pharmacokinetic studies following multiple doses of clindamycin hydrochloride for up to 14 days show no evidence of accumulation or altered metabolism of drug. Doses of up to 2 grams of clindamycin per day for 14 days have been well tolerated by healthy volunteers, except that the incidence of gastrointestinal side effects is greater with the higher doses.
+
+                           Distribution
+
+                        Concentrations of clindamycin in the serum increased linearly with increased dose. Serum concentrations exceed the MIC (minimum inhibitory concentration) for most indicated organisms for at least six hours following administration of the usually recommended doses. Clindamycin is widely distributed in body fluids and tissues (including bones). No significant concentrations of clindamycin are attained in the cerebrospinal fluid, even in the presence of inflamed meninges.
+
+                           Metabolism
+
+                           In vitrostudies in human liver and intestinal microsomes indicated that clindamycin is predominantly metabolized by Cytochrome P450 3A4 (CYP3A4), with minor contribution from CYP3A5, to form clindamycin sulfoxide and a minor metabolite, N-desmethylclindamycin.
+
+                           Excretion
+
+                        The average biological half-life is 2.4 hours. Approximately 10% of the bioactivity is excreted in the urine and 3.6% in the feces; the remainder is excreted as bioinactive metabolites.
+
+                           Specific Populations
+
+                           Patients with Renal/Hepatic Impairment
+
+                            
+
+                        The elimination half-life of clindamycin is increased slightly in patients with markedly reduced renal or hepatic function. Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum. Dosage schedules do not need to be modified in patients with renal disease.
+
+                           Geriatric Patients
+
+                          
+
+                        Pharmacokinetic studies in elderly volunteers (61 to 79 years) and younger adults (18 to 39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after IV administration of clindamycin phosphate. After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4 hours (range 3.4 to 5.1 h) in the elderly compared to 3.2 hours (range 2.1 to 4.2 h) in younger adults. The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function
+
+  1.
+
+                           Obese Pediatric Patients Aged 2 to Less than 18 Years and Obese Adults Aged 18 to 20 Years
+
+                        An analysis of pharmacokinetic data in obese pediatric patients aged 2 to less than 18 years and obese adults aged 18 to 20 years demonstrated that clindamycin clearance and volume of distribution, normalized by total body weight, are comparable regardless of obesity.

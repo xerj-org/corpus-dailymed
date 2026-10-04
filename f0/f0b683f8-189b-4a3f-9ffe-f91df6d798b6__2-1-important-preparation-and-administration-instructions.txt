@@ -1,0 +1,26 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 2.1 Important Preparation and Administration Instructions
+
+Ascorbic acid injection vials contain 25,000 mg, 5,000 mg or 2,500 mg  of ascorbic acid and the largest recommended single dose is 200 mg. Do not give the entire contents of the vial to a single patient.  
+
+                           Do not administer ascorbic acid injection as an undiluted intravenous injection.
+
+                           Minimize exposure to light because ascorbic acid injection is light sensitive.
+
+                           Ascorbic acid injection is supplied as a Pharmacy Bulk Package (PBP) which is intended for dispensing of single doses to multiple patients in a pharmacy admixture program and is restricted to the preparation of admixtures for infusion:
+
+                        a.   Use only in a suitable ISO Class 5 work area such as a laminar flow hood (or an equivalent clean air compounding area)
+
+                        b.   Penetrate each PBP vial closure only one time with a suitable sterile transfer device or dispensing set that allows measured dispensing of the contents. Given that pressure may develop within the vial during storage, exercise caution when withdrawing contents from the vial.
+
+                        c.   Once the closure system has been penetrated, complete all dispensing from the PBP vial within 4 hours. Each dose must be used immediately. Discard unused portion.
+
+                        d.   Prior to administration,
+                           ascorbic acid injection must be diluted in a suitable infusion solution and the final solution for infusion must be isotonic (undiluted the osmolarity of ascorbic acid injection is approximately 5,900 mOsmol/L). Prior to preparing the admixture for infusion, calculate the osmolarity of the intended admixture for infusion. Add one daily dose of ascorbic acid injection directly to an appropriate volume of a suitable infusion solution (e.g., 5% Dextrose Injection, Sterile Water for Injection) and add appropriate solutes, as necessary, to make the final solution isotonic. Sterile Water for Injection is highly hypotonic; adjust solute content, as necessary, to make the final infusion solution isotonic prior to injection. Do not mix ascorbic acid injection with solutions containing elemental compounds that can be reduced (e.g., copper). The concentration of ascorbic acid in the final, admixture solution for infusion is to be the range of 1 mg to 25 mg of ascorbic acid per mL. For example, for the largest recommended dose:  
+
+                        Add 200 mg of ascorbic acid (equivalent to 0.4 mL of ascorbic acid injection) to 7.5 mL of Sterile Water for Injection to produce an infusion solution having an approximate osmolarity of 290 mOsmol/L. In this specific example, addition of solute is NOT necessary because the solution is isotonic.
+
+                        e.   Prepare the recommended dose based on the patient population [see Dosage and Administration (2.2), (2.3)].
+
+                        f.    Visually inspect for particulate matter and discoloration prior to administration (the diluted ascorbic acid injection solution should appear colorless to pale yellow).
+
+                        g.   Immediately administer the admixture for infusion as a slow intravenous infusion [see Recommended Dosage, (2.2)]

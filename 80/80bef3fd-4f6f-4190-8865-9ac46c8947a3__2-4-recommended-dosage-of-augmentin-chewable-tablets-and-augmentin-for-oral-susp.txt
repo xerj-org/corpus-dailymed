@@ -1,0 +1,25 @@
+DailyMed 80bef3fd-4f6f-4190-8865-9ac46c8947a3 | Amoxicillin and Clavulanate Potassium | 2.4 Recommended Dosage of AUGMENTIN Chewable Tablets and AUGMENTIN for Oral Suspension in Pediatric Patients Aged 3 Months and Older and Weighing Less Than 40 kg
+
+Amoxicillin and Clavulanate Potassium Tablets should not be used in pediatric patients weighing less than 40 kg due to different amoxicillin-to-clavulanic acid ratios
+
+  [see
+
+   Indications and Usage (1),
+
+   Dosage and Administration (2.8),
+
+   Use in Specific Populations (8.4)]
+
+  .
+
+                           Pediatric Patients Weighing 40 kg or More: Pediatric patients weighing 40 kg or more should receive the adult dose
+
+  [see
+
+   Indications and Usage (1),
+
+   Dosage and Administration (2.2),
+
+   Use in Specific Populations (8.4)]
+
+  .

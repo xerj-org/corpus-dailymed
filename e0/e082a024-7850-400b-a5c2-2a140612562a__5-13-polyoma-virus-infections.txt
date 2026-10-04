@@ -1,0 +1,9 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 5.13 Polyoma Virus Infections
+
+Patients receiving immunosuppressants, including Zortress, are at increased risk for opportunistic infections, including polyoma virus infections. Polyoma virus infections in transplant patients may have serious, and sometimes fatal, outcomes. These include polyoma virus-associated nephropathy (PVAN), mostly due to BK virus infection, and JC virus associated progressive multiple leukoencephalopathy (PML). PVAN has been observed in patients receiving immunosuppressants, including Zortress. PVAN is associated with serious outcomes; including deteriorating renal function and kidney graft loss [
+                           see
+                           Adverse
+                            
+                           Reactions (6.2)
+                           ]
+                           . Patient monitoring may help detect patients at risk for PVAN. Reductions in immunosuppression should be considered for patients who develop evidence of PVAN or PML. Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.

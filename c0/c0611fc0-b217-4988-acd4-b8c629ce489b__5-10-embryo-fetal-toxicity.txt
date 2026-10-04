@@ -1,0 +1,7 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 5.10 Embryo-Fetal Toxicity
+
+Imatinib mesylate can cause fetal harm when administered to a pregnant woman. Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area (BSA). Significant post-implantation loss was seen in female rats administered imatinib mesylate at doses approximately one-half the maximum human dose of 800 mg/day based on BSA. Advise sexually active female patients of reproductive potential to use effective contraception (methods that result in less than 1% pregnancy rates) when using imatinib mesylate and for 14 days after stopping imatinib mesylate. If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus
+
+  [see Use in Specific Population (
+
+   8.1)].

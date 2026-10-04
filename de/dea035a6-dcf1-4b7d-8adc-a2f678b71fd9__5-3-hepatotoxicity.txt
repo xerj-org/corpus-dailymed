@@ -1,0 +1,9 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 5.3 Hepatotoxicity
+
+Elevations of ALT or AST (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical trials. In addition, rare, sometimes fatal, cases of severe hepatic injury, including fulminant hepatitis, liver necrosis, and hepatic failure have been reported.
+
+                        Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs including celecoxib.
+
+                        In controlled clinical trials of celecoxib, the incidence of borderline elevations (greater than or equal to 1.2 times and less than 3 times the upper limit of normal) of liver associated enzymes was 6% for celecoxib and 5% for placebo, and approximately 0.2% of patients taking celecoxib and 0.3% of patients taking placebo had notable elevations of ALT and AST.
+
+                        Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms). If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash), discontinue celecoxib immediately, and perform a clinical evaluation of the patient.

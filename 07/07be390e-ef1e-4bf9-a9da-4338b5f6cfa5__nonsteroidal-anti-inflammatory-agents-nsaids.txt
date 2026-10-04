@@ -1,0 +1,6 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Nonsteroidal Anti-Inflammatory Agents (NSAIDS)
+
+Concomitant use of (or other ) and corticosteroids increases the risk of gastrointestinal side effects. Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia. The clearance of salicylates may be increased with concurrent use of corticosteroids; this could lead to decreased salicylate serum levels or increase the risk of salicylate toxicity when corticosteroid is withdrawn.
+
+  aspirin
+                                 nonsteroidal anti-inflammatory agents

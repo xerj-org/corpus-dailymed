@@ -1,0 +1,71 @@
+DailyMed 48d0f55c-f847-4d26-b2ed-94b5a2770228 | Amphetamine Extended-Release | 7.1 Drugs Having Clinically Important Interactions with Amphetamines
+
+Table 5: Drugs having clinically important interactions with amphetamines.
+
+                                  
+
+                                       MAO Inhibitors (MAOI)
+
+                                  |
+
+                                 Clinical Impact |
+                                 MAOI antidepressants slow amphetamine metabolism, increasing amphetamines effect on the release of norepinephrine and other monoamines from adrenergic nerve endings causing headaches and other signs of hypertensive crisis.  Toxic neurological effects and malignant hyperpyrexia can occur, sometimes with fatal results. |
+
+                                 Intervention |
+                                 Do not administer amphetamine extended-release orally disintegrating tablets during or within 14 days following the administration of MAOI [see
+
+     Contraindications(
+
+     4)].
+
+     |
+
+                                  
+
+                                       Serotonergic Drugs
+
+                                  |
+
+                                 Clinical Impact |
+                                 The concomitant use of amphetamine extended-release orally disintegrating tablets and serotonergic drugs increases the risk of serotonin syndrome. |
+
+                                 Intervention |
+                                 Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during amphetamine extended-release orally disintegrating tablets initiation or dosage increase. If serotonin syndrome occurs, discontinue amphetamine extended-release orally disintegrating tablets and the concomitant serotonergic drug(s) [see
+
+     Warnings and Precautions (
+
+      5.7)]
+
+     .
+
+     |
+
+                                       Alkalinizing Agents
+
+                                  |
+
+                                 Clinical Impact |
+                                  Increase blood levels and potentiate the action of amphetamine. |
+
+                                 Intervention |
+                                 Co-administration of amphetamine extended-release orally disintegrating tablets and gastrointestinal alkalinizing agents should be avoided. |
+
+                                       Acidifying Agents
+
+                                  |
+
+                                 Clinical Impact |
+                                  Lower blood levels and efficacy of amphetamines. |
+
+                                 Intervention |
+                                  Increase dose based on clinical response. |
+
+                                       Tricyclic Antidepressants
+
+                                  |
+
+                                 Clinical Impact |
+                                 May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated. |
+
+                                 Intervention |
+                                 Monitor frequently and adjust or use alternative therapy based on clinical response. |

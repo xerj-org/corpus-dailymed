@@ -1,0 +1,13 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 8.2 Lactation
+
+Risk Summary
+
+  There is no information regarding the presence of topically administered imiquimod in human milk, the effects on the breastfed infant, or the effects on milk production. Systemic concentration following topical administration of imiquimod cream is low; therefore, transfer of imiquimod into breastmilk is likely to be low
+
+  [see Clinical Pharmacology (12.3)].
+
+  The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for imiquimod cream and any potential adverse effects on the breastfed infant from imiquimod cream or from the underlying maternal condition.
+
+                           Clinical Considerations
+
+  Avoid application of imiquimod cream to areas with increased risk for potential ingestion by or ocular exposure to the breastfeeding child.

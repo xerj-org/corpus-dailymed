@@ -1,0 +1,3 @@
+DailyMed 0fc94bc2-fa38-439a-a609-1b4130cdacb1 | Hydrochlorothiazide | INDICATIONS AND USAGE
+
+Hydrochlorothiazide capsules are indicated in th management of hypertension either as the sole therapeutic agent, or in combination with other antihypertensives. Unlike potassium sparing combination diuretic products, hydrochlorothiazide capsules may be used in those patients in whom the development of hyperkalemia cannot be risked, including patients taking ACE inhibitors.

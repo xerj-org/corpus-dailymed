@@ -1,0 +1,13 @@
+DailyMed 5f603b0d-69e5-4c02-b6b3-b4705e243e9a | Butalbital, Acetaminophen and Caffeine | Butalbital
+
+Butalbital is well absorbed from the gastrointestinal tract and is expected to distribute to most tissues in the body. Barbiturates in general may appear in breast milk and readily cross the placental barrier. They are bound to plasma and tissue proteins to a varying degree and binding increases directly as a function of lipid solubility.
+
+                              Elimination of butalbital is primarily via the kidney (59% to 88% of the dose) as unchanged drug or metabolites. The plasma half-life is about 35 hours. Urinary excretion products include parent drug (about 3.6% of the dose), 5-isobutyl-5-(2,3-dihydroxypropyl) barbituric acid (about 24% of the dose), 5-allyl-5(3-hydroxy-2-methyl-1-propyl) barbituric acid (about 4.8% of the dose), products with the barbituric acid ring hydrolyzed with excretion of urea (about 14% of the dose), as well as unidentified materials.
+
+ Of the material excreted in the urine, 32% is conjugated.
+
+                              The in vitro plasma protein binding of butalbital is 45% over the concentration range of 0.5 to 20 mcg/mL. This falls within the range of plasma protein binding (20% to 45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium. The plasma-to-blood concentration ratio was almost unity, indicating that there is no preferential distribution of butalbital into either plasma or blood cells.
+
+                              See
+                                    OVERDOSAGE
+                                  for toxicity information.

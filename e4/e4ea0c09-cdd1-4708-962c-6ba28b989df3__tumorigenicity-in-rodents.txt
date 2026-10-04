@@ -1,0 +1,3 @@
+DailyMed e4ea0c09-cdd1-4708-962c-6ba28b989df3 | Metronidazole | Tumorigenicity in Rodents
+
+Metronidazole has shown evidence of carcinogenic activity in studies involving chronic, oral administration in mice and rats, but similar studies in the hamster gave negative results. Also, metronidazole has shown mutagenic activity in a number of in vitro assay systems, but studies in mammals (in vivo) failed to demonstrate a potential for genetic damage.

@@ -1,0 +1,9 @@
+DailyMed 180985f0-3fbd-4868-a826-b84101618a03 | Tizanidine | 2.6 Switching Between With/Without Food and Different Tizanidine Dosage Forms
+
+There are pharmacokinetic differences when:
+
+                        1) switching between administration of Tizanidine with or without food
+
+                        2) switching between dosage forms if being administered with food.
+
+                         If these situations occur, monitor patients for therapeutic effect or adverse reactions [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

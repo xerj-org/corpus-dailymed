@@ -1,0 +1,14 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Aerobic Gram-Negative Microorganisms:
+
+Neisseria meningitidis
+
+                              "Other" Microorganisms:
+
+                                 Mycobacterium tuberculosis
+
+                              The following
+  in vitro data are available,
+  but their clinical significance is unknown.
+
+                              At least 90% of the following bacteria exhibit an
+  in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for rifampin against isolates of similar genus or organism group. However, the efficacy of rifampin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.

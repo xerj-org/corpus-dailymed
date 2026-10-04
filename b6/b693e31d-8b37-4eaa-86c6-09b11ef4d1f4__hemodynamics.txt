@@ -1,0 +1,3 @@
+DailyMed b693e31d-8b37-4eaa-86c6-09b11ef4d1f4 | LIDOCAINE | Hemodynamics:
+
+Excessive blood levels may cause changes in cardiac output, total peripheral resistance, and mean arterial pressure. These changes may be attributable to a direct depressant effect of the local anesthetic agent on various components of the cardiovascular system.

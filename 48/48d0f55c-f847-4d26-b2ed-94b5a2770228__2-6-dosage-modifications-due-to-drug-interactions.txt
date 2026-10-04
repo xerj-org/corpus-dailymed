@@ -1,0 +1,9 @@
+DailyMed 48d0f55c-f847-4d26-b2ed-94b5a2770228 | Amphetamine Extended-Release | 2.6 Dosage Modifications Due to Drug Interactions
+
+Agents that alter urinary pH can impact urinary excretion and alter blood levels of amphetamine. Acidifying agents (e.g., ascorbic acid) decrease blood levels, while alkalinizing agents (e.g., sodium bicarbonate) increase blood levels. Adjust amphetamine extended-release orally disintegrating tablets dosage accordingly
+
+  [see Drug Interactions (
+
+                              7.1
+
+                           )].

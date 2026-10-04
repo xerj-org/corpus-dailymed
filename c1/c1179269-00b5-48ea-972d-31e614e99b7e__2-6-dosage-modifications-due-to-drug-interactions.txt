@@ -1,0 +1,6 @@
+DailyMed c1179269-00b5-48ea-972d-31e614e99b7e | Adzenys XR-ODT | 2.6 Dosage Modifications Due to Drug Interactions
+
+Agents that alter urinary pH can impact urinary excretion and alter blood levels of amphetamine. Acidifying agents (e.g., ascorbic acid) decrease blood levels, while alkalinizing agents (e.g., sodium bicarbonate) increase blood levels. Adjust ADZENYS XR-ODT dosage accordingly [see
+
+                              Drug Interactions (7.1)
+                           ].

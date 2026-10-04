@@ -1,0 +1,9 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 13.2 Animal Toxicology and/or Pharmacology
+
+Dermatopathy
+
+                        Skin lesions ranging from erythema to necrosis were seen in repeated-dose toxicology studies in both rats and monkeys. The etiology of these skin lesions is unknown. At the maximum recommended human dose (MRD) of 600 mg/day, there is a 2-fold safety margin for the dermatological lesions. The more severe dermatopathies involving necrosis were associated with pregabalin exposures (as expressed by plasma AUCs) of approximately 3 to 8 times those achieved in humans given the MRD. No increase in incidence of skin lesions was observed in clinical studies.
+
+                           Ocular Lesions
+
+                        Ocular lesions (characterized by retinal atrophy [including loss of photoreceptor cells] and/or corneal inflammation/mineralization) were observed in two lifetime carcinogenicity studies in Wistar rats. These findings were observed at plasma pregabalin exposures (AUC) greater than or equal to 2 times those achieved in humans given the maximum recommended dose of 600 mg/day. A no-effect dose for ocular lesions was not established. Similar lesions were not observed in lifetime carcinogenicity studies in two strains of mice or in monkeys treated for 1 year.

@@ -1,0 +1,9 @@
+DailyMed 3e7cf78f-3b48-4614-9fa4-c6d1e0c05a35 | Doxycycline Hyclate; doxycycline hyclate; doxycycline | Carcinogenesis, Mutagenesis, Impairment Of Fertility
+
+Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted. However, there has been evidence of oncogenic activity in rats in studies with the related antibacterial drugs, oxytetracycline (adrenal and pituitary tumors), and minocycline (thyroid tumors).
+
+                        Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in
+
+  in vitromammalian cell assays have been reported for related antibacterial drugs (tetracycline, oxytetracycline).
+
+                        Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats. Effect on male fertility has not been studied.

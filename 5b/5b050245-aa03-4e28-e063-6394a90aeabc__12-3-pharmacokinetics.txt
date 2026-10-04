@@ -1,0 +1,203 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 12.3 Pharmacokinetics
+
+Average plasma concentrations (mcg/mL) of ertapenem following a single 30-minute infusion of a 1 g intravenous (IV) dose and administration of a single 1 g intramuscular (IM) dose in healthy young adults are presented in Table 8.
+
+                           Table 8 Plasma Concentrations of Ertapenem in Adults After Single Dose Administration
+
+                                 Average Plasma Concentrations (mcg/mL) |
+
+                                 Dose/Route |
+                                 0.5 hr |
+                                 1 hr |
+                                 2 hr |
+                                 4 hr |
+                                 6 hr |
+                                 8 hr |
+                                 12 hr |
+                                 18 hr |
+                                 24 hr |
+
+                                 1 g IV
+
+     Infused at a constant rate over 30 minutes
+
+                                  |
+                                 155 |
+                                 115 |
+                                 83 |
+                                 48 |
+                                 31 |
+                                 20 |
+                                 9 |
+                                 3 |
+                                 1 |
+
+                                 1 g IM |
+                                 33 |
+                                 53 |
+                                 67 |
+                                 57 |
+                                 40 |
+                                 27 |
+                                 13 |
+                                 4 |
+                                 2 |
+
+                        The area under the plasma concentration-time curve (AUC) of ertapenem in adults increased less-than dose-proportional based on total ertapenem concentrations over the 0.5 to 2 g dose range, whereas the AUC increased greater-than dose-proportional based on unbound ertapenem concentrations. Ertapenem exhibits non-linear pharmacokinetics due to concentration-dependent plasma protein binding at the proposed therapeutic dose
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  . There is no accumulation of ertapenem following multiple IV or IM 1 g daily doses in healthy adults.
+
+                        Average plasma concentrations (mcg/mL) of ertapenem in pediatric patients are presented in Table 9.
+
+                           Table 9 Plasma Concentrations of Ertapenem in Pediatric Patients After Single IV
+
+   Infused at a constant rate over 30 minutes
+
+Dose Administration
+
+                                 Average Group |
+                                 Dose |
+                                 Average Plasma Concentrations (mcg/mL) |
+
+                                  |
+                                 0.5 hr |
+                                 1 hr |
+                                 2 hr |
+                                 4 hr |
+                                 6 hr |
+                                 8 hr |
+                                 12 hr |
+                                 24 hr |
+
+                                 3 to 23 months |
+
+                                  |
+                                 15 mg/kg
+
+     up to a maximum dose of 1 g/day
+
+                                  |
+                                 103.8 |
+                                 57.3 |
+                                 43.6 |
+                                 23.7 |
+                                 13.5 |
+                                 8.2 |
+                                 2.5 |
+                                 - |
+
+                                  |
+                                 20 mg/kg
+
+                                  |
+                                 126.8 |
+                                 87.6 |
+                                 58.7 |
+                                 28.4 |
+                                 - |
+                                 12.0 |
+                                 3.4 |
+                                 0.4 |
+
+                                  |
+                                 40 mg/kg
+
+     up to a maximum dose of 2 g/day
+
+                                  |
+                                 199.1 |
+                                 144.1 |
+                                 95.7 |
+                                 58.0 |
+                                 - |
+                                 20.2 |
+                                 7.7 |
+                                 0.6 |
+
+                                 2 to 12 years |
+
+                                  |
+                                 15 mg/kg
+
+                                  |
+                                 113.2 |
+                                 63.9 |
+                                 42.1 |
+                                 21.9 |
+                                 12.8 |
+                                 7.6 |
+                                 3.0 |
+                                 - |
+
+                                  |
+                                 20 mg/kg
+
+                                  |
+                                 147.6 |
+                                 97.6 |
+                                 63.2 |
+                                 34.5 |
+                                 - |
+                                 12.3 |
+                                 4.9 |
+                                 0.5 |
+
+                                  |
+                                 40 mg/kg
+
+                                  |
+                                 241.7 |
+                                 152.7 |
+                                 96.3 |
+                                 55.6 |
+                                 - |
+                                 18.8 |
+                                 7.2 |
+                                 0.6 |
+
+                                 13 to 17 years |
+
+                                  |
+                                 20 mg/kg
+
+                                  |
+                                 170.4 |
+                                 98.3 |
+                                 67.8 |
+                                 40.4 |
+                                 - |
+                                 16.0 |
+                                 7.0 |
+                                 1.1 |
+
+                                  |
+                                 1 g
+
+     Based on three patients receiving 1 g ertapenem who volunteered for pharmacokinetic assessment in one of the two safety and efficacy trials
+
+                                  |
+                                 155.9 |
+                                 110.9 |
+                                 74.8 |
+                                 - |
+                                 24.0 |
+                                 - |
+                                 6.2 |
+                                 - |
+
+                                  |
+                                 40 mg/kg
+
+                                  |
+                                 255.0 |
+                                 188.7 |
+                                 127.9 |
+                                 76.2 |
+                                 - |
+                                 31.0 |
+                                 15.3 |
+                                 2.1 |

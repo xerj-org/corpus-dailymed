@@ -1,0 +1,8 @@
+DailyMed 1eb5eb7a-8c5f-43a3-9b9f-6321cdb6f6c7 | Chlordiazepoxide Hydrochloride | Animal Pharmacology
+
+The drug has been studied extensively in many species of animals and these studies are suggestive of action on the limbic system of the brain, which recent evidence indicates is involved in emotional responses.
+
+                        Hostile monkeys were made tame by oral drug doses which did not cause sedation. Chlordiazepoxide HCl revealed a “taming” action with the elimination of fear and aggression. The taming effect of chlordiazepoxide HCl was further demonstrated in rats made vicious by lesions in the septal area of the brain. The drug dosage which effectively blocked the vicious reaction was well below the dose which caused sedation in these animals.
+
+                        The LD
+  50 of parenterally administered chlordiazepoxide HCl was determined in mice (72 hours) and rats (5 days), and calculated according to the method of Miller and Tainter, with the following results: mice, IV, 123 ± 12 mg/kg; mice, IM, 366 ± 7 mg/kg; rats, IV, 120 ± 7 mg/kg; rats, IM, > 160 mg/kg.

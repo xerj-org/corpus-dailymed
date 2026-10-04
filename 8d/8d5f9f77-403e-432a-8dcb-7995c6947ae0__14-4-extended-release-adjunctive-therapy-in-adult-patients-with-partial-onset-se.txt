@@ -1,0 +1,37 @@
+DailyMed 8d5f9f77-403e-432a-8dcb-7995c6947ae0 | Topiramate | 14.4 Extended-Release: Adjunctive Therapy in Adult Patients with Partial-Onset Seizures with Topiramate Extended-Release Capsules
+
+The effectiveness of topiramate extended-release capsules as an adjunctive treatment for adults (18 to 75 years of age) was evaluated in a randomized, international, multi-center, double-blind, parallel-group, placebo-controlled trial in patients with a history of partial-onset seizures, with or without secondary generalization (Study 14).
+
+                        Patients with partial-onset seizures on a stable dose of 1 to 3 AEDs entered into an 8-week baseline period. Patients who experienced at least 8 partial onset seizures, with or without secondary generalization, and no more than 21 consecutive seizure free days during the 8-week baseline phase were randomly assigned to placebo or topiramate extended-release capsules administered once daily in addition to their concomitant AEDs. Following randomization, 249 patients began the double-blind treatment phase, which consisted of an initial 3-week titration period followed by an 8-week maintenance period. During the titration period, patients received topiramate extended-release capsules or placebo beginning at 50 mg once daily; the dose was increased at weekly intervals by 50 mg once daily, or the placebo equivalent, until a final dose of 200 mg once daily was achieved. Patients then entered the maintenance period at the assigned dose of 200 mg once daily, or its placebo equivalent.
+
+                        The percent reduction in the frequency of partial-onset seizure, baseline period compared to the treatment phase, was the primary endpoint. Data was analyzed by the Wilcoxon rank-sum test, with the criteria of statistical significance of p<0.05. The results of the analysis are presented in Table 15. The median percent reduction in seizure rate was 39.5% in patients taking topiramate extended-release capsules (N=124) and 21.7% in patients taking placebo (N=125). This difference was statistically significant.
+
+                           Table 15: Percent Reduction From Baseline in Partial-Onset Seizure Frequency During 11-week Treatment Period in Study 14
+
+                                       aStatistically Significant by the Wilcoxon rank-sum test.
+
+                                  |
+
+                                       Study End Point
+
+                                  |
+
+                                    Topiramate Extended-Release Capsules
+
+                                    (N=124)
+                                  |
+
+                                    Placebo
+
+                                    (N=125)
+                                  |
+
+                                    Median Percent Reduction from Baselinea
+
+                                  |
+                                 39.5% |
+                                 21.7% |
+
+                        Figure 2 shows the change from baseline during titration plus maintenance (11 weeks) in partial-onset seizure frequency by category for patients treated with topiramate extended-release capsules and placebo. Patients in whom the seizure frequency increased are shown as “worse.” Patients in whom the seizure frequency decreased are shown in four categories of reduction in seizure frequency.
+
+                           Figure 2: Proportion of Patients by Category of Seizure Response to Topiramate Extended-Release Capsules and Placebo

@@ -1,0 +1,9 @@
+DailyMed 2f73a4db-2c7f-4e42-a914-87aedc2780fb | Ticagrelor | 7.4 Simvastatin, Lovastatin, Rosuvastatin
+
+Ticagrelor tablets increases serum concentrations of simvastatin and lovastatin because these drugs are metabolized by CYP3A4. Avoid simvastatin and lovastatin doses greater than 40 mg [see
+                           Clinical Pharmacology (12.3)].
+                            
+
+                            
+
+                        Ticagrelor tablets increases serum concentration of rosuvastatin because rosuvastatin is a BCRP substrate. Avoid rosuvastatin doses greater than 20 mg [see Clinical Pharmacology (12.3)]. In patients at increased risk for rhabdomyolysis, consider rosuvastatin dosages less than 20 mg per day.

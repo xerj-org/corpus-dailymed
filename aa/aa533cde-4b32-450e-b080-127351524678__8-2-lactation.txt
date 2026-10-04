@@ -1,0 +1,15 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 8.2 Lactation
+
+Risk Summary
+
+Breastfed infants of lactating women using glimepiride tablets should be monitored for symptoms of hypoglycemia (see Clinical Considerations). It is not known whether glimepiride is excreted in human milk and there are no data on the effects of glimepiride on milk production. Glimepiride is present in rat milk [see Data]. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for glimepiride tablets and any potential adverse effects on the breastfed child from glimepiride tablets or from the underlying maternal condition.
+
+                           Clinical Considerations
+
+ Monitoring for adverse reactions
+
+ Monitor breastfed infants for signs of hypoglycemia (e.g., jitters, cyanosis, apnea, hypothermia, excessive sleepiness, poor feeding, seizures).
+
+                           Data
+
+ During prenatal and postnatal studies in rats, significant concentrations of glimepiride were present in breast milk and the serum of the pups. Offspring of rats exposed to high levels of glimepiride during pregnancy and lactation developed skeletal deformities consisting of shortening, thickening, and bending of the humerus during the postnatal period. These skeletal deformations were determined to be the result of nursing from mothers exposed to glimepiride.

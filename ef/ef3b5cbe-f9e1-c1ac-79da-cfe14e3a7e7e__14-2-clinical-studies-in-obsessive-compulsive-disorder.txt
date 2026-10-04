@@ -1,0 +1,73 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 14.2 Clinical Studies in Obsessive Compulsive Disorder
+
+The effectiveness of PAXIL in the treatment of obsessive-compulsive disorder (OCD) in adults was demonstrated in two 12‑week multicenter placebo-controlled studies of adult outpatients (Studies OCD-1 and OCD-2). In these studies, patients had moderate to severe OCD (DSM‑IIIR) with mean baseline ratings on the Yale Brown Obsessive Compulsive Scale (YBOCS) total score that ranged from 23 to 26.
+
+                           In Study OCD-1, a dose-range finding study, patients received fixed daily doses of PAXIL 20 mg, 40 mg, or 60 mg. Study OCD-1 demonstrated that daily doses of PAXIL 40 mg and 60 mg were effective in the treatment of OCD in adults. Patients who received PAXIL 40 mg and 60 mg once daily experienced a mean reduction of approximately 6 and 7 points, respectively, on the YBOCS total score which was statistically significantly greater than the approximate 4-point reduction in those that received 20 mg once daily and a 3-point reduction in those that received placebo.
+
+                           Study OCD-2 was a flexible-dose study that compared PAXIL 20 mg to 60 mg daily with clomipramine 25 mg to 250 mg daily or placebo). In Study OCD-2, patients who received PAXIL experienced a mean reduction of approximately 7 points on the YBOCS total score, which was statistically significantly greater than the mean reduction of approximately 4 points in patients who received placebo.
+
+                        Table 10 describes the outcome classification by treatment group on Global Improvement items of the Clinical Global Impression (CGI) scale in Study OCD-1. Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or sex.
+
+                              Table 10: Outcome Classification (%) on CGI-Global Improvement Item for Completers in Study OCD-1 in Adult Patients with OCD
+
+                                    Outcome
+
+Classification
+                                  |
+
+                                    Placebo
+
+                                    (n = 74)
+
+                                  |
+
+                                    PAXIL 20 mg
+
+Once Daily (n = 75)
+
+                                  |
+
+                                    PAXIL 40 mg
+
+Once Daily (n = 66)
+
+                                  |
+
+                                    PAXIL 60 mg
+
+Once Daily (n = 66)
+
+                                  |
+
+                                 Worse |
+                                 14%
+                                  |
+                                 7% |
+                                 7% |
+                                 3% |
+
+                                 No Change |
+                                 44% |
+                                 35% |
+                                 22% |
+                                 19% |
+
+                                 Minimally Improved |
+                                 24% |
+                                 33% |
+                                 29% |
+                                 34% |
+
+                                 Much Improved |
+                                 11% |
+                                 18% |
+                                 22% |
+                                 24% |
+
+                                 Very Much Improved |
+                                 7% |
+                                 7% |
+                                 20% |
+                                 20% |
+
+                        The long‑term efficacy  of PAXIL for the treatment of  OCD in adults was established in a long‑term extension to Study OCD-1. Patients who responded to PAXIL during the 3‑month double‑blind phase and a 6‑month extension where they received open‑label PAXIL 20 mg to 60 mg daily were subsequently randomized to either continue PAXIL or switch to placebo in a 6‑month double‑blind relapse prevention phase. Patients randomized to PAXIL were statistically significantly less likely to relapse than patients randomized to placebo.

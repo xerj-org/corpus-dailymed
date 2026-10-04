@@ -1,0 +1,4 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 8.6 Hepatic Impairment
+
+The daily recommended dose of celecoxib capsules in patients with moderate hepatic impairment (Child-Pugh Class B) should be reduced by 50%. The use of celecoxib in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.7), and Clinical Pharmacology (12.3)
+                           ].

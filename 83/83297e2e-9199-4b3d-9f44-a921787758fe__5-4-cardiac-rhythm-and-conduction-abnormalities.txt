@@ -1,0 +1,5 @@
+DailyMed 83297e2e-9199-4b3d-9f44-a921787758fe | LAMOTRIGINE | 5.4 Cardiac Rhythm and Conduction Abnormalities
+
+In vitrotesting showed that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations
+
+  [see Clinical Pharmacology (12.2)]. Based on these in vitro findings, lamotrigine could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease). Any expected or observed benefit of lamotrigine in an individual patient with clinically important structural or functional heart disease must be carefully weighed against the risks for serious arrythmias and/or death for that patient. Concomitant use of other sodium channel blockers may further increase the risk of proarrhythmia.

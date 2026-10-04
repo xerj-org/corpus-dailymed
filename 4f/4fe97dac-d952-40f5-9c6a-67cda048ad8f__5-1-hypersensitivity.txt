@@ -1,0 +1,5 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 5.1 Hypersensitivity
+
+Severe hypersensitivity reactions may occur with IGIV products, including GAMUNEX-C FlexBag. In case of hypersensitivity, discontinue GAMUNEX-C FlexBag  infusion immediately and institute appropriate treatment. Have medications such as epinephrine available for immediate treatment of acute hypersensitivity reaction.
+
+                        GAMUNEX-C FlexBag  contains trace amounts of IgA (average 46 micrograms/mL). Patients with known antibodies to IgA may have a greater risk of developing potentially severe hypersensitivity and anaphylactic reactions. It is contraindicated in IgA deficient patients with antibodies against IgA and history of hypersensitivity reaction. [see Contraindications (4)]

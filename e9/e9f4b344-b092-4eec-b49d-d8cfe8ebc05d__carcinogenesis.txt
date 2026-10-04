@@ -1,0 +1,5 @@
+DailyMed e9f4b344-b092-4eec-b49d-d8cfe8ebc05d | pentobarbital sodium | Carcinogenesis
+
+Animal data. Phenobarbital sodium is carcinogenic in mice and rats after lifetime administration. In mice, it produced benign and malignant liver cell tumors. In rats, benign liver cell tumors were observed very late in life.
+
+                               Human data. In a 29-year epidemiological study of 9,136 patients who were treated on an anticonvulsant protocol that included phenobarbital, results indicated a higher than normal incidence of hepatic carcinoma. Previously, some of these patients were treated with thorotrast, a drug that is known to produce hepatic carcinomas. Thus, this study did not provide sufficient evidence that phenobarbital sodium is carcinogenic in humans. Data from one retrospective study of 235 children in which the types of barbiturates are not identified suggested an association between exposure to barbiturates prenatally and an increased incidence of brain tumor. (Gold, E., et al., "Increased Risk of Brain Tumors in Children Exposed to Barbiturates," Journal of National Cancer Institute, 61:1031-1034, 1978).

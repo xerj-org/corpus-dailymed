@@ -1,0 +1,61 @@
+DailyMed d57720ab-9f83-4da9-a57f-0d55e00a605c | ATORVASTATIN CALCIUM | PRINCIPAL DISPLAY PANEL
+
+DRUG: ATORVASTATIN CALCIUM
+
+                  GENERIC: ATORVASTATIN CALCIUM
+
+                  DOSAGE: TABLET, FILM COATED
+
+                  ADMINSTRATION: ORAL
+
+                  NDC: 70518-0224-0
+
+                  NDC: 70518-0224-1
+
+                  NDC: 70518-0224-2
+
+                  NDC: 70518-0224-3
+
+                  COLOR: white
+
+                  SHAPE: OVAL
+
+                  SCORE: No score
+
+                  SIZE: 9 mm
+
+                  IMPRINT: APO;A10
+
+                  PACKAGING: 30 in 1 BLISTER PACK
+
+                  PACKAGING: 90 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 28 in 1 BLISTER PACK
+
+                  PACKAGING: 100 in 1 BOTTLE PLASTIC
+
+                  ACTIVE INGREDIENT(S):
+
+                     ATORVASTATIN CALCIUM PROPYLENE GLYCOL SOLVATE 10mg in 1
+
+                  INACTIVE INGREDIENT(S):
+
+                     CALCIUM ACETATE
+
+                     CROSCARMELLOSE SODIUM
+
+                     SODIUM CARBONATE
+
+                     MICROCRYSTALLINE CELLULOSE
+
+                     MAGNESIUM STEARATE
+
+                     SILICON DIOXIDE
+
+                     HYPROMELLOSE, UNSPECIFIED
+
+                     HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+
+                     POLYETHYLENE GLYCOL 8000
+
+                     TITANIUM DIOXIDE

@@ -1,0 +1,7 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 12.2 Pharmacodynamics
+
+Sonrotoclax exposure-response relationships and the time course of pharmacodynamic response have not been fully characterized.
+
+                           Cardiac Electrophysiology
+
+                        Administration of sonrotoclax has the potential to increase the QTc interval. The largest mean increase in QTc interval was 7 ms (upper confidence interval = 14 ms) after administration of sonrotoclax (320 mg once daily) with a low-fat meal in patients with mature B-cell malignancies. There is insufficient information to characterize the QTc effects of sonrotoclax at higher concentrations above recommended dose.

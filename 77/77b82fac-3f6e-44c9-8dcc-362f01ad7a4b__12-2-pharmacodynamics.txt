@@ -1,0 +1,5 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 12.2 Pharmacodynamics
+
+The antibacterial activity of amoxicillin/clavulanate is primarily driven by the percentage of the dosing interval during which unbound (free) amoxicillin plasma concentrations exceed the minimum inhibitory concentration (%
+
+  fT>MIC) of the target bacterial organism. Clavulanate inhibits β-lactamase enzymes and thereby restores activity of amoxicillin against certain β-­lactamase–producing bacteria.

@@ -1,0 +1,7 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 8.5 Geriatric Use
+
+Dose adjustment is not necessary in elderly (65 years and older) patients, as the dose of ropinirole tablets are individually titrated to clinical therapeutic response and tolerability. Pharmacokinetic trials conducted in patients demonstrated that oral clearance of ropinirole is reduced by 15% in patients older than 65 years compared with younger patients [see Clinical Pharmacology (12.3)].
+
+                        In flexible-dose clinical trials of extended-release ropinirole for Parkinson’s disease, 387 patients were 65 years and older and 107 patients were 75 years and older. Among patients receiving extended-release ropinirole, hallucination was more common in elderly patients (10%) compared with non-elderly patients (2%). In these trials, the incidence of overall adverse reactions increased with increasing age for both patients receiving extended-release ropinirole and placebo.
+
+                        In the fixed-dose clinical trials of extended-release ropinirole, 176 patients were 65 years and older and 73 were 75 and older. Among patients with advanced Parkinson’s disease receiving extended-release ropinirole, vomiting and nausea were more common in patients greater than 65 years (5% and 9%, respectively) compared with patients less than 65 (1% and 7%, respectively).

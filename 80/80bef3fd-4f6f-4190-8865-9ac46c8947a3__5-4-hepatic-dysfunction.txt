@@ -1,0 +1,13 @@
+DailyMed 80bef3fd-4f6f-4190-8865-9ac46c8947a3 | Amoxicillin and Clavulanate Potassium | 5.4 Hepatic Dysfunction
+
+Hepatic dysfunction, including hepatitis and cholestatic jaundice has been associated with the use of amoxicillin and clavulanate potassium. Hepatotoxicity is usually reversible; however, deaths have been reported. These cases have generally been associated with serious underlying diseases or concomitant medications. Amoxicillin and clavulanate potassium is contraindicated in patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with treatment with amoxicillin and clavulanate potassium
+
+  [see
+
+   Contraindications (4.2),
+
+   Use in Specific Populations (8.7),
+
+   Adverse Reactions (6.2)]
+
+  .

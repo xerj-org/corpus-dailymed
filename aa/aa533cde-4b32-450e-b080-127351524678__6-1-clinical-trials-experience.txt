@@ -1,0 +1,115 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Approximately 2,800 patients with type 2 diabetes have been treated with glimepiride in the controlled clinical trials. In these trials, approximately 1,700 patients were treated with glimepiride for at least 1 year. In clinical trials, the most common adverse reactions with glimepiride were hypoglycemia, dizziness, asthenia, headache, and nausea.
+
+ Table 1 summarizes adverse events, other than hypoglycemia, that were reported in 11 pooled placebo-controlled trials, whether or not considered to be possibly or probably related to study medication. Treatment duration ranged from 13 weeks to 12 months. Terms that are reported represent those that occurred at an incidence of ≥5% among glimepiride-treated patients and more commonly than in patients who received placebo.
+
+                                       Table 1. Eleven Pooled Placebo-Controlled Trials ranging from 13 weeks to 12 months: Adverse Events (Excluding Hypoglycemia) Occurring in ≥5% of  Glimepiride-treated Patients and at a Greater Incidence than with Placebo*
+
+                                  |
+
+                                        
+
+                                  |
+
+                                       Glimepiride
+
+                                                    N=745
+
+                                                    %
+
+                                  |
+
+                                       Placebo
+
+                                                    N=294
+
+                                                    %
+
+                                  |
+
+                                    Headache
+
+                                  |
+
+                                    8.2
+
+                                  |
+
+                                    7.8
+
+                                  |
+
+                                    Accidental Injury†
+
+                                  |
+
+                                    5.8
+
+                                  |
+
+                                    3.4
+
+                                  |
+
+                                    Flu Syndrome
+
+                                  |
+
+                                    5.4
+
+                                  |
+
+                                    4.4
+
+                                  |
+
+                                    Nausea
+
+                                  |
+
+                                    5.0
+
+                                  |
+
+                                    3.4
+
+                                  |
+
+                                    Dizziness
+
+                                  |
+
+                                    5.0
+
+                                  |
+
+                                    2.4
+
+                                  |
+
+                        *Glimepiride doses ranged from 1-16 mg administered daily
+
+                           †Insufficient information to determine whether any of the accidental injury events were associated with hypoglycemia
+
+                           Hypoglycemia
+
+                        In a randomized, double-blind, placebo-controlled monotherapy trial of 14 weeks duration, patients already on sulfonylurea therapy underwent a 3-week washout period then were randomized to glimepiride 1 mg, 4 mg, 8 mg, or placebo. Patients randomized to glimepiride 4 mg or 8 mg underwent forced-titration from an initial dose of 1 mg to these final doses, as tolerated [ see Clinical Studies (14.1)]. The overall incidence of possible hypoglycemia (defined by the presence of at least one symptom that the investigator believed might be related to hypoglycemia; a concurrent glucose measurement was not required) was 4% for glimepiride 1 mg, 17% for glimepiride 4 mg, 16% for glimepiride 8 mg and 0% for placebo. All of these events were self-treated.
+
+In a randomized, double-blind, placebo-controlled monotherapy trial of 22 weeks duration, patients received a starting dose of either 1 mg glimepiride or placebo daily. The dose of glimepiride was titrated to a target fasting plasma glucose of 90-150 mg/dL. Final daily doses of glimepiride were 1, 2, 3, 4, 6, or 8 mg [see Clinical Studies (14.1)]. The overall incidence of possible hypoglycemia (as defined above for the 14-week trial) for glimepiride vs. placebo was 19.7% vs. 3.2%. All of these events were self-treated.
+
+                           Weight gain
+
+Glimepiride, like all sulfonylureas, can cause weight gain [see Clinical Studies (14.1)].
+
+                           Allergic Reactions
+
+In clinical trials, allergic reactions, such as pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions, occurred in less than 1% of glimepiride-treated patients. These may resolve despite continued treatment with glimepiride. There are postmarketing reports of more serious allergic reactions (e.g., dyspnea, hypotension, shock) [see Warnings and Precautions (5.2)].
+
+                           Laboratory Tests
+
+                        Elevated serum alanine aminotransferase (ALT)
+
+ In 11 pooled placebo-controlled trials of glimepiride, 1.9% of glimepiride-treated patients and 0.8% of placebo-treated patients developed serum ALT greater than 2 times the upper limit of the reference range.

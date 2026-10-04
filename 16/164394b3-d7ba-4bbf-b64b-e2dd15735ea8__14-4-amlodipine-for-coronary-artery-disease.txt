@@ -1,0 +1,101 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 14.4 Amlodipine for Coronary Artery Disease
+
+In PREVENT, 825 patients with angiographically documented CAD were randomized to amlodipine (5–10 mg once daily) or placebo and followed for 3 years. Although the study did not show significance on the primary objective of change in coronary luminal diameter as assessed by quantitative coronary angiography, the data suggested a favorable outcome with respect to fewer hospitalizations for angina and revascularization procedures in patients with CAD.
+
+                        CAMELOT enrolled 1318 patients with CAD recently documented by angiography, without left main coronary disease and without heart failure or an ejection fraction < 40%. Patients (76% males, 89% Caucasian, 93% enrolled at U.S. sites, 89% with a history of angina, 52% without PCI, 4% with PCI and no stent, and 44% with a stent) were randomized to double-blind treatment with either amlodipine (5–10 mg once daily) or placebo in addition to standard care that included aspirin (89%), statins (83%), beta-blockers (74%), nitroglycerin (50%), anticoagulants (40%), and diuretics (32%), but excluded other calcium channel blockers. The mean duration of follow-up was 19 months. The primary endpoint was the time to first occurrence of one of the following events: hospitalization for angina pectoris, coronary revascularization, myocardial infarction, cardiovascular death, resuscitated cardiac arrest, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease. A total of 110 (16.6%) and 151 (23.1%) first events occurred in the amlodipine and placebo groups, respectively, for a hazard ratio of 0.691 (95% CI: 0.540–0.884, p=0.003). The primary endpoint is summarized in Figure 1 below. The outcome of this study was largely derived from the prevention of hospitalizations for angina and the prevention of revascularization procedures (see Table 8). Effects in various subgroups are shown in Figure 2.
+
+                        In an angiographic substudy (n=274) conducted within CAMELOT, there was no significant difference between amlodipine and placebo on the change of atheroma volume in the coronary artery as assessed by intravascular ultrasound.
+
+                           Figure 1. Kaplan-Meier Analysis of Composite Clinical Outcomes for Amlodipine versus Placebo
+
+                           Figure 2. Effects on Primary Endpoint of Amlodipine versus Placebo across Sub-Groups
+
+                        Table 8 below summarizes the significant composite endpoint and clinical outcomes from the composites of the primary endpoint. The other components of the primary endpoint including cardiovascular death, resuscitated cardiac arrest, myocardial infarction, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease did not demonstrate a significant difference between amlodipine and placebo.
+
+                           Table 8. Incidence of Significant Clinical Outcomes for CAMELOT
+
+                                    Clinical Outcomes
+
+                                    N (%)
+                                  |
+
+                                    Amlodipine
+
+                                    (N=663)
+                                  |
+
+                                    Placebo
+
+                                    (N=655)
+                                  |
+
+                                    Risk Reduction
+
+                                    (p-value)
+                                  |
+
+                                       Composite CV Endpoint
+
+                                  |
+
+                                       110
+
+                                       (16.6)
+
+                                  |
+
+                                       151
+
+                                       (23.1)
+
+                                  |
+
+                                       31%
+
+                                       (0.003)
+
+                                  |
+
+                                    Hospitalization for AnginaTotal patients with these events.
+
+                                  |
+
+                                    51
+
+(7.7)
+
+                                  |
+
+                                    84
+
+(12.8)
+
+                                  |
+
+                                    42%
+
+(0.002)
+
+                                  |
+
+                                    Coronary Revascularization
+
+                                  |
+
+                                    78
+
+(11.8)
+
+                                  |
+
+                                    103
+
+(15.7)
+
+                                  |
+
+                                    27%
+
+(0.033)
+
+                                  |

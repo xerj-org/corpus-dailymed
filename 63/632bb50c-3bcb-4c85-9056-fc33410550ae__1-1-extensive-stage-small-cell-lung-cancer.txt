@@ -1,0 +1,3 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 1.1 Extensive-Stage Small Cell Lung Cancer
+
+ZEPZELCA, in combination with atezolizumab or atezolizumab and hyaluronidase-tqjs, is indicated for the maintenance treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) whose disease has not progressed after first-line induction therapy with atezolizumab or atezolizumab and hyaluronidase-tqjs, carboplatin and etoposide.

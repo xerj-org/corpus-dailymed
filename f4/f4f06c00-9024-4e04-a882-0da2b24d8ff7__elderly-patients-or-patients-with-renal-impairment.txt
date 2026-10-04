@@ -1,0 +1,63 @@
+DailyMed f4f06c00-9024-4e04-a882-0da2b24d8ff7 | Atenolol | Elderly Patients or Patients with Renal Impairment
+
+Atenolol tablets are excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function. Atenolol excretion would be expected to decrease with advancing age.
+
+                        No significant accumulation of atenolol tablets occur until creatinine clearance falls below 35 mL/min/1.73 m
+
+  2. Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 mL/min and 105 mL/min. Peak plasma levels were significantly increased in subjects with creatinine clearances below 30 mL/min.
+
+                        The following maximum oral dosages are recommended for elderly, renally-impaired patients and for patients with renal impairment due to other causes:
+
+                                    Atenolol
+
+                                  |
+
+                                    Creatinine Clearance
+
+                                    (mL/min/1.73m
+
+      2)
+
+                                  |
+
+                                    Elimination Half-Life
+
+                                    (h)
+
+                                  |
+
+                                    Maximum
+
+                                    Dosage
+
+                                  |
+
+                                    15-35
+
+                                  |
+
+                                    16-27
+
+                                  |
+
+                                    50 mg daily
+
+                                  |
+
+                                    < 15
+
+                                  |
+
+                                    > 27
+
+                                  |
+
+                                    25 mg daily
+
+                                  |
+
+                        Some renally-impaired or elderly patients being treated for hypertension may require a lower starting dose of atenolol tablets: 25 mg given as one tablet a day. If this 25 mg dose is used, assessment of efficacy must be made carefully. This should include measurement of blood pressure just prior to the next dose (“trough” blood pressure) to ensure that the treatment effect is present for a full 24 hours.
+
+                        Although a similar dosage reduction may be considered for elderly and/or renally-impaired patients being treated for indications other than hypertension, data are not available for these patient populations.
+
+                        Patients on hemodialysis should be given 25 mg or 50 mg after each dialysis; this should be done under hospital supervision as marked falls in blood pressure can occur.

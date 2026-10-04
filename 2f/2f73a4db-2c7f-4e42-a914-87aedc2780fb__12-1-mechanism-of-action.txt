@@ -1,0 +1,3 @@
+DailyMed 2f73a4db-2c7f-4e42-a914-87aedc2780fb | Ticagrelor | 12.1 Mechanism of Action
+
+Ticagrelor and its major metabolite reversibly interact with the platelet P2Y12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent.

@@ -1,0 +1,11 @@
+DailyMed 82d65964-de00-42c2-baaa-cc3de744b8eb | Tamsulosin Hydrochloride | 8.1 Pregnancy
+
+Risk Summary
+
+ Tamsulosin hydrochloride is not indicated for use in women. There are no adequate data on the developmental risk associated with the use of tamsulosin hydrochloride in pregnant women. No adverse developmental effects were observed in animal studies in which tamsulosin hydrochloride was administered to rats or rabbits during the period of organogenesis (GD 7 to 17 in the rat and GD 6 to 18 in the rabbit) [see Data].
+
+ In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                            Data
+
+ Administration of tamsulosin hydrochloride to pregnant female rats during the period of organogenesis at dose levels up to approximately 50 times the human therapeutic AUC exposure (300 mg/kg/day) revealed no evidence of harm to the fetus. Administration of tamsulosin hydrochloride to pregnant rabbits during the period of organogenesis at dose levels up to 50 mg/kg/day produced no evidence of fetal harm.

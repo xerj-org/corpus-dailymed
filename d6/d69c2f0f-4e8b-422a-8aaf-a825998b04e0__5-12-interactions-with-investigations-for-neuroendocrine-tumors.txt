@@ -1,0 +1,3 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 5.12 Interactions with Investigations for Neuroendocrine Tumors
+
+Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors. Providers should temporarily stop omeprazole and sodium bicarbonate treatment for at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Drug Interactions (7)].

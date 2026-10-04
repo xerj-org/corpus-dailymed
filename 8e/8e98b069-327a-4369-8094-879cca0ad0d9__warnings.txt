@@ -1,0 +1,13 @@
+DailyMed 8e98b069-327a-4369-8094-879cca0ad0d9 | prazosin hydrochloride | WARNINGS
+
+As with all alpha-blockers, prazosin hydrochloride may cause syncope with sudden loss of consciousness. In most cases, this is believed to be due to an excessive postural hypotensive effect, although occasionally the syncopal episode has been preceded by a bout of severe tachycardia with heart rates of 120–160 beats per minute. Syncopal episodes have usually occurred within 30 to 90 minutes of the initial dose of the drug; occasionally, they have been reported in association with rapid dosage increases or the introduction of another antihypertensive drug into the regimen of a patient taking high doses of prazosin hydrochloride. The incidence of syncopal episodes is approximately 1% in patients given an initial dose of 2 mg or greater. Clinical trials conducted during the investigational phase of this drug suggest that syncopal episodes can be minimized by limiting the initial dose of the drug to 1 mg, by subsequently increasing the dosage slowly, and by introducing any additional antihypertensive drugs into the patient’s regimen with caution (see DOSAGE AND ADMINISTRATION). Hypotension may develop in patients given prazosin hydrochloride who are also receiving a beta-blocker such as propranolol.
+
+ If syncope occurs, the patient should be placed in the recumbent position and treated supportively as necessary. This adverse effect is self-limiting and in most cases does not recur after the initial period of therapy or during subsequent dose titration.
+
+ Patients should always be started on the 1 mg capsules of prazosin hydrochloride. The 2 and 5 mg capsules are not indicated for initial therapy.
+
+ More common than loss of consciousness are the symptoms often associated with lowering of the blood pressure, namely, dizziness and lightheadedness. The patient should be cautioned about these possible adverse effects and advised what measures to take should they develop. The patient should also be cautioned to avoid situations where injury could result should syncope occur during the initiation of prazosin hydrochloride therapy.
+
+                     Priapism
+
+ Prolonged erections and priapism have been reported with alpha-1 blockers including prazosin in post marketing experience. In the event of an erection that persists longer than 4 hours, seek immediate medical assistance. If priapism is not treated immediately, penile tissue damage and permanent loss of potency could result.

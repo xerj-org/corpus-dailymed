@@ -1,0 +1,5 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 7.4 Interference of Amoxicillin and Clavulanate Potassium with Glucose Test
+
+High urine concentrations of amoxicillin may result in false-positive reactions when testing for the presence of glucose in urine using CLINITEST
+
+  ®, Benedict’s Solution, or Fehling’s Solution. Therefore, it is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.

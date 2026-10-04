@@ -1,0 +1,9 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 7.1 Antacids With Magnesium and Aluminum Hydroxides
+
+Concomitant use of mycophenolic acid delayed release and antacids decreased plasma concentrations of mycophenolic acid (MPA). It is recommended that mycophenolic acid delayed release tablets and antacids not be administered simultaneously [see
+
+                              Clinical Pharmacology (
+
+    12.3)
+
+                           ].

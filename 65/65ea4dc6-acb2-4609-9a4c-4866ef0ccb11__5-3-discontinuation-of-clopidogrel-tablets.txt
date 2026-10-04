@@ -1,0 +1,3 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 5.3 Discontinuation of Clopidogrel Tablets
+
+Discontinuation of clopidogrel tablets increase the risk of cardiovascular events. If clopidogrel must be temporarily discontinued (e.g., to treat bleeding or for surgery with a major risk of bleeding), restart it as soon as possible. When possible, interrupt therapy with clopidogrel for five days prior to such surgery. Resume clopidogrel as soon as hemostasis is achieved.

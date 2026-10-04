@@ -1,0 +1,3 @@
+DailyMed 76ca6bea-5f63-4e76-b161-1dbcbad18421 | Allopurinol | 5.4 Hepatotoxicity
+
+Cases of reversible clinical hepatotoxicity have occurred in patients taking allopurinol, and in some patients, asymptomatic rises in serum alkaline phosphatase or serum transaminase have been observed. If anorexia, weight loss, or pruritus develop in patients on allopurinol, evaluate liver enzymes. In patients with pre-existing liver disease, monitor liver enzymes periodically. Discontinue allopurinol in patients with elevated liver enzymes.

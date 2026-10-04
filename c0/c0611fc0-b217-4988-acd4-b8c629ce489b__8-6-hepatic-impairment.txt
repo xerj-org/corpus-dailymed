@@ -1,0 +1,99 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 8.6 Hepatic Impairment
+
+The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer with varying degrees of hepatic impairment at imatinib doses ranging from 100 mg to 800 mg.
+
+                        Mild and moderate hepatic impairment do not influence exposure to imatinib and CGP74588. In patients with severe hepatic impairment, the imatinib C
+
+  maxand area under curve (AUC) increased by 63% and 45% and the CGP74588 C
+
+  maxand AUC increased by 56% and 55%, relative to patients with normal hepatic function
+
+  [see Clinical Pharmacology (
+
+   12.3)]
+
+  . Reduce the dose by 25% for patients with severe hepatic impairment
+
+  [see Dosage and Administration (
+
+   2.12)]
+
+  .
+
+                           Table 16: Liver Function Classification
+
+                                 Abbreviation: SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); ULN, upper limit of normal for the institution.
+
+                                  |
+
+                                        Liver function test
+
+                                  |
+
+                                       Normal
+
+                                       (n = 14)
+
+                                  |
+
+                                       Mild
+
+                                       (n = 30)
+
+                                  |
+
+                                       Moderate
+
+                                       (n = 20)
+
+                                  |
+
+                                       Severe
+
+                                       (n = 20)
+
+                                  |
+
+                                       Total bilirubin
+
+                                  |
+
+                                    less than or equal to ULN
+
+                                  |
+
+                                    greater than 1.0 to 1.5 times the ULN
+
+                                  |
+
+                                    greater than 1.5 to 3 times the ULN
+
+                                  |
+
+                                    greater than 3 to 10 times the ULN
+
+                                  |
+
+                                       SGOT
+
+                                  |
+
+                                    less than or equal
+
+  to ULN
+
+                                  |
+
+                                    greater than ULN (can be normal if Total Bilirubin is
+
+  greater than ULN)
+
+                                  |
+
+                                    Any
+
+                                  |
+
+                                    Any
+
+                                  |

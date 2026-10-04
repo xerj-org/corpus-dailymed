@@ -1,0 +1,499 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+                           Adjuvant Therapy
+
+                        The data described below reflect exposure to exemestane in 2325 postmenopausal women with early breast cancer. Exemestane tolerability in postmenopausal women with early breast cancer was evaluated in two well-controlled trials: the IES study
+  [see Clinical Studies (
+   14.1)]
+   and the 027 study (a randomized, placebo-controlled, double-blind, parallel group study specifically designed to assess the effects of exemestane on bone metabolism, hormones, lipids, and coagulation factors over 2 years of treatment).
+
+                        The median duration of adjuvant treatment was 27.4 months and 27.3 months for patients receiving exemestane or tamoxifen, respectively, within the IES study and 23.9 months for patients receiving exemestane or placebo within the 027 study. Median duration of observation after randomization for exemestane was 34.5 months and for tamoxifen was 34.6 months. Median duration of observation was 30 months for both groups in the 027 study.
+
+                        Certain adverse reactions, which were expected based on the known pharmacological properties and side effect profiles of test drugs, were actively sought through a positive checklist. Signs and symptoms were graded for severity using CTC in both studies. Within the IES study, the presence of some illnesses/conditions was monitored through a positive checklist without assessment of severity. These included myocardial infarction, other cardiovascular disorders, gynecological disorders, osteoporosis, osteoporotic fractures, other primary cancer, and hospitalizations.
+
+                        Within the IES study, discontinuations due to adverse reactions occurred in 6% and 5% of patients receiving exemestane and tamoxifen, respectively, and in 12% and 4.1% of patients receiving exemestane or placebo respectively within study 027.
+
+                        Deaths due to any cause were reported for 1.3% of the exemestane treated patients and 1.4% of the tamoxifen treated patients within the IES study. There were 6 deaths due to stroke on the exemestane arm compared to 2 on tamoxifen. There were 5 deaths due to cardiac failure on the exemestane arm compared to 2 on tamoxifen.
+
+                        The incidence of cardiac ischemic events (myocardial infarction, angina, and myocardial ischemia) was 1.6% in exemestane treated patients and 0.6% in tamoxifen treated patients in the IES study. Cardiac failure was observed in 0.4% of exemestane treated patients and 0.3% of tamoxifen treated patients.
+
+                        In the adjuvant treatment of early breast cancer, the most common adverse reactions occurring in ≥10% of patientsin any treatment group (exemestane vs. tamoxifen) were hot flushes (21% vs. 20%), fatigue (16% vs. 15%), arthralgia (15% vs. 9%), headache (13% vs. 11%), insomnia (12% vs. 9%), and increased sweating (12% vs. 10%). Discontinuation rates due to AEs were similar between exemestane and tamoxifen (6% vs. 5%). Incidences of cardiac ischemic events (myocardial infarction, angina, and myocardial ischemia) were exemestane 1.6%, tamoxifen 0.6%. Incidence of cardiac failure: exemestane 0.4%, tamoxifen 0.3%.
+
+                        Treatment-emergent adverse reactions and illnesses including all causalities and occurring with an incidence of ≥5% in either treatment group of the IES study during or within one month of the end of treatment are shown in Table 2.
+
+                           Table 2. Incidence (%) of Adverse Reactions of all Grades
+   1 and Illnesses Occurring in (≥5%) of Patients in Any Treatment Group in Study IES in Postmenopausal Women with Early Breast Cancer
+
+                                  |
+
+                                    % of patients
+                                  |
+
+                                    Body system and Adverse Reaction by MedDRA dictionary
+                                  |
+
+                                    Exemestane
+
+			25 mg daily
+
+			(N=2252)
+
+                                  |
+
+                                    Tamoxifen
+
+			20 mg daily
+      2
+
+			(N=2280)
+
+                                  |
+
+                                    Eye
+
+			Visual disturbances
+     3
+                                  |
+
+                                    5
+
+                                  |
+
+                                    3.8
+
+                                  |
+
+                                    Gastrointestinal
+
+			Nausea
+     3
+                                  |
+
+                                    9
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    General Disorders
+
+			Fatigue
+     3
+                                  |
+                                 16 |
+                                 15 |
+
+                                    Musculoskeletal
+
+			Arthralgia
+
+			Pain in limb
+
+			Back pain
+
+			Osteoarthritis
+     |
+
+                                    15
+
+                                    9
+
+                                    9
+
+                                    6
+
+                                  |
+
+                                    9
+
+                                    6
+
+                                    7
+
+                                    4.5
+
+                                  |
+
+                                    Nervous System
+
+			Headache
+     3
+
+			Dizziness
+     3
+                                  |
+
+                                    13
+
+                                    10
+
+                                  |
+
+                                    11
+
+                                    8
+
+                                  |
+
+                                    Psychiatric
+
+			Insomnia
+     3
+
+			Depression
+     |
+
+                                    12
+
+                                    6
+
+                                  |
+
+                                    9
+
+                                    6
+
+                                  |
+
+                                    Skin & Subcutaneous Tissue
+
+			Increased sweating
+     3
+                                  |
+
+                                    12
+
+                                  |
+
+                                    10
+
+                                  |
+
+                                    Vascular
+
+			Hot flushes
+     3
+
+			Hypertension
+     |
+
+                                    21
+
+                                    10
+
+                                  |
+
+                                    20
+
+                                    8
+
+                                  |
+
+                           1 Graded according to Common Toxicity Criteria;
+
+                           2 75 patients received tamoxifen 30 mg daily;
+
+                           3 Event actively sought.
+
+                        In the IES study, as compared to tamoxifen, exemestane was associated with a higher incidence of events in musculoskeletal disorders and in nervous system disorders, including the following events occurring with frequency lower than 5% (osteoporosis [4.6% vs. 2.8%], osteochondrosis [0.3% vs. 0%] and stenosing tenosynovitis (trigger finger) [0.3% vs. 0%], paresthesia [2.6% vs. 0.9%], carpal tunnel syndrome [2.4% vs. 0.2%], and neuropathy [0.6% vs. 0.1%]). Diarrhea was also more frequent in the exemestane group (4.2% vs. 2.2%). Clinical fractures were reported in 94 patients receiving exemestane (4.2%) and 71 patients receiving tamoxifen (3.1%). After a median duration of therapy of about30 months and a median follow-up of about 52 months, gastric ulcer was observed at a slightly higher frequency in the exemestane group compared to tamoxifen (0.7% vs. <0.1%). The majority of patients on exemestane with gastric ulcer received concomitant treatment with non-steroidal anti-inflammatory agents and/or had a prior history.
+
+                        Tamoxifen was associated with a higher incidence of muscle cramps [3.1% vs. 1.5%], thromboembolism [2% vs. 0.9%], endometrial hyperplasia [1.7% vs. 0.6%], and uterine polyps [2.4% vs. 0.4%].
+
+                        Common adverse reactions occurring in study 027 are described in Table 3.
+
+                           Table 3. Incidence of Selected Treatment-Emergent Adverse Reactions of all CTC Grades* Occurring in ≥ 5% of Patients in Either Arm in Study 027
+
+                                    Adverse Reaction
+                                  |
+
+                                    Exemestane
+
+			N=73
+
+			(% incidence)
+
+                                  |
+
+                                    Placebo
+
+			N=73
+
+			(% incidence)
+
+                                  |
+
+                                 Hot flushes |
+                                 33 |
+                                 25 |
+
+                                 Arthralgia |
+                                 29 |
+                                 29 |
+
+                                 Increased sweating |
+                                 18 |
+                                 21 |
+
+                                 Alopecia |
+                                 15 |
+                                 4.1 |
+
+                                 Hypertension |
+                                 15 |
+                                 7 |
+
+                                 Insomnia |
+                                 14 |
+                                 15 |
+
+                                 Nausea |
+                                 12 |
+                                 16 |
+
+                                 Fatigue |
+                                 11 |
+                                 19 |
+
+                                 Abdominal pain |
+                                 11 |
+                                 14 |
+
+                                 Depression |
+                                 10 |
+                                 7 |
+
+                                 Diarrhea |
+                                 10 |
+                                 1.4 |
+
+                                 Dizziness |
+                                 10 |
+                                 10 |
+
+                                 Dermatitis |
+                                 8 |
+                                 1.4 |
+
+                                 Headache |
+                                 7 |
+                                 4.1 |
+
+                                 Myalgia |
+                                 6 |
+                                 4.1 |
+
+                                 Edema |
+                                 6 |
+                                 7 |
+
+                        * Most events were CTC grade 1–2
+
+                           Treatment of Advanced Breast Cancer
+
+                        A total of 1058 patients were treated with exemestane 25 mg once daily in the clinical trials program. One death was considered possibly related to treatment with exemestane; an 80-year-old woman with known coronary artery disease had a myocardial infarction with multiple organ failure after 9 weeks on study treatment. In the clinical trials program, 3% of the patients discontinued treatment with exemestane because of adverse reactions, 2.7% of patients discontinued exemestane within the first 10 weeks of treatment.
+
+                        In the comparative study, adverse reactions were assessed for 358 patients treated with exemestane and 400 patients treated with megestrol acetate. Fewer patients receiving exemestane discontinued treatment because of adverse reactions than those treated with megestrol acetate (2% vs. 5%). Adverse reactions that were considered drug related or of indeterminate cause included hot flashes (13% vs. 5%), nausea (9% vs. 5%), fatigue (8% vs. 10%), increased sweating (4% vs. 8%), and increased appetite (3% vs. 6%) for exemestane and megestrol acetate, respectively. The proportion of patients experiencing an excessive weight gain (>10% of their baseline weight) was significantly higher with megestrol acetate than with exemestane (17% vs. 8%).
+
+                        In the treatment of advanced breast cancer, the most common adverse reactions included hot flushes (13% vs. 5%), nausea (9% vs. 5%), fatigue (8% vs. 10%), increased sweating (4% vs. 8%), and increased appetite (3% vs. 6%) for exemestane and megestrol acetate, respectively.
+
+                        Table 4 shows the adverse reactions of all CTC grades, regardless of causality, reported in 5% or greater of patients in the study treated either with exemestane or megestrol acetate.
+
+                           Table 4. Incidence (%) of Adverse Reactions of all Grades* and Causes Occurring in ≥5% of Advanced Breast Cancer Patients in Each Treatment Arm in the Comparative Study
+
+                                    Body system and Adverse Reaction by WHO ART dictionary
+                                  |
+
+                                    Exemestane
+
+			25 mg
+
+			once daily (N=358)
+
+                                  |
+
+                                    Megestrol Acetate
+
+			40 mg QID
+
+			(N=400)
+
+                                  |
+
+                                       Autonomic Nervous
+
+                                    Increased sweating
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    Body as a Whole
+
+			Fatigue
+
+			Hot flashes
+
+			Pain
+
+			Influenza-like symptoms
+
+			Edema (includes edema, peripheral edema, leg edema)
+     |
+
+                                    22
+
+                                    13
+
+                                    13
+
+                                    6
+
+                                    7
+
+                                  |
+
+                                    29
+
+                                    6
+
+                                    13
+
+                                    5
+
+                                    6
+
+                                  |
+
+                                    Cardiovascular
+
+			Hypertension
+     |
+
+                                    5
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    Nervous
+
+			Depression
+
+			Insomnia
+
+			Anxiety
+
+			Dizziness
+
+			Headache
+     |
+
+                                    13
+
+                                    11
+
+                                    10
+
+                                    8
+
+                                    8
+
+                                  |
+
+                                    9
+
+                                    9
+
+                                    11
+
+                                    6
+
+                                    7
+
+                                  |
+
+                                    Gastrointestinal
+
+			Nausea
+
+			Vomiting
+
+			Abdominal pain
+
+			Anorexia
+
+			Constipation
+
+			Diarrhea
+
+			Increased appetite
+     |
+
+                                    18
+
+                                    7
+
+                                    6
+
+                                    6
+
+                                    5
+
+                                    4
+
+                                    3
+
+                                  |
+
+                                    12
+
+                                    4
+
+                                    11
+
+                                    5
+
+                                    8
+
+                                    5
+
+                                    6
+
+                                  |
+
+                                    Respiratory
+
+			Dyspnea
+
+			Coughing
+     |
+
+                                    10
+
+                                    6
+
+                                  |
+
+                                    15
+
+                                    7
+
+                                  |
+
+                        * Graded according to Common Toxicity Criteria
+
+                        Adverse reactions of any cause (from 2% to 5%) reported in the comparative study for patients receiving exemestane 25 mg once daily were fever, generalized weakness, paresthesia, pathological fracture, bronchitis, sinusitis, rash, itching, urinary tract infection, and lymphedema.
+
+                        Additional adverse reactions of any cause observed in the overall clinical trials program (N = 1058) in 5% or greater of patients treated with exemestane 25 mg once daily but not in the comparative study included pain at tumor sites (8%), asthenia (6%), and fever (5%). Adverse reactions of any cause reported in 2% to 5% of all patients treated with exemestane 25 mg in the overall clinical trials program but not in the comparative study included chest pain, hypoesthesia, confusion, dyspepsia, arthralgia, back pain, skeletal pain, infection, upper respiratory tract infection, pharyngitis, rhinitis, and alopecia.

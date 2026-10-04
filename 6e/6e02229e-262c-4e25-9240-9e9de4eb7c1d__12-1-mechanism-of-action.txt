@@ -1,0 +1,5 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 12.1 Mechanism of Action
+
+The primary activity of ONSWIK is the regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production. Insulin also inhibits lipolysis and proteolysis and enhances protein synthesis.
+
+                        The protracted time-action profile of ONSWIK results from reduced renal clearance due to its relatively large molecular size, inhibition of degradation due to binding at the neonatal Fc receptor, and reduced affinity relative to human insulin for the insulin receptor, which decreases receptor-mediated clearance. Once insulin efsitora alfa-gobe is engaged with the insulin receptor, it results in the same pharmacological effects as human insulin.

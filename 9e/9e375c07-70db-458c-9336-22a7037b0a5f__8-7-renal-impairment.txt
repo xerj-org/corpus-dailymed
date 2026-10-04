@@ -1,0 +1,3 @@
+DailyMed 9e375c07-70db-458c-9336-22a7037b0a5f | montelukast sodium | 8.7 Renal Impairment
+
+No dosage adjustment is recommended in patients with renal insufficiency [see Clinical Pharmacology (12.3)].

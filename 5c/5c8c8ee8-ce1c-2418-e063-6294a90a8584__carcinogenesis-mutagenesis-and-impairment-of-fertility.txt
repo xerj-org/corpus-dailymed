@@ -1,0 +1,3 @@
+DailyMed 5c8c8ee8-ce1c-2418-e063-6294a90a8584 | Chlorhexidine Gluconate | Carcinogenesis, Mutagenesis, and Impairment of Fertility
+
+In a drinking water study in rats, carcinogenic effects were not observed at doses up to 38 mg/kg/day. Mutagenic effects were not observed in two mammalian in vivo mutagenesis studies with chlorhexidine gluconate. The highest doses of chlorhexidine used in a mouse dominant-lethal assay and a hamster cytogenetics test were 1000 mg/kg/day and 250 mg/kg/day, respectively. No evidence of impaired fertility was observed in rats at doses up to 100 mg/kg/day.

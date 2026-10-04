@@ -1,0 +1,5 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Teratogenic Effects
+
+Studies in pregnant rabbits administered doses of 0.46, 1.2, 2.3, and 4.6 mg/kg/day (from 0.8 to 8 times the maximum recommended human dose on a mg/m2 basis) showed digital anomalies consisting of reduction in size and degree of ossification of the terminal phalanges in the fetuses. The frequency and severity of the changes appeared dose related and were noted even at the lowest dose. These changes have been shown to occur with other members of the dihydropyridine class and are possibly a result of compromised uterine blood flow. Similar fetal anomalies were not observed in rats given felodipine.
+
+                                    In a teratology study in cynomolgus monkeys, no reduction in the size of the terminal phalanges was observed, but an abnormal position of the distal phalanges was noted in about 40% of the fetuses.

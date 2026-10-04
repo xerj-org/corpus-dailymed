@@ -1,0 +1,6 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 2.2 Dose Modifications
+
+Concomitant use of strong CYP 3A4 inducers decreases exemestane exposure. For patients receiving exemestane with a strong CYP 3A4 inducer such as rifampicin or phenytoin, the recommended dose of exemestane is 50 mg once daily after a meal
+  [see Drug Interactions (
+   7) and Clinical Pharmacology (
+   12.3)].

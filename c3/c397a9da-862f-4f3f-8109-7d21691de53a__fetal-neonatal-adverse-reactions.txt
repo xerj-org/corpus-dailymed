@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates. Monitor neonates exposed to diazepam during pregnancy and labor for signs of sedation, respiratory depression, hypotonia, and feeding problems. Monitor neonates exposed to diazepam during pregnancy for signs of withdrawal. Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).

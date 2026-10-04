@@ -1,0 +1,33 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+                     Serious Infections [see Warnings and Precautions (
+
+                           5.1
+
+                        )]
+
+                     Malignancy and Lymphoproliferative Disorders [see Warnings and Precautions (
+
+                           5.3
+
+                        )]
+
+                     Thrombosis [see Warnings and Precautions (
+
+                           5.5
+
+                        )]
+
+                     Gastrointestinal perforations [see Warnings and Precautions (
+
+                           5.7
+
+                        )]
+
+                     Lipid Elevations, Anemia, Neutropenia and Lymphopenia [see Warnings and Precautions (
+
+                           5.9
+
+                        )]

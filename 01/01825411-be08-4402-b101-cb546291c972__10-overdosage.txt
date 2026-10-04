@@ -1,0 +1,3 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 10 OVERDOSAGE
+
+Overdosage with neuromuscular blocking agents may result in neuromuscular block beyond the time needed for surgery and anesthesia. The primary treatment is maintenance of a patent airway, controlled ventilation, and adequate sedation until recovery of normal neuromuscular function is assured. Once evidence of recovery from neuromuscular block is observed, further recovery may be facilitated by administration of an anticholinesterase agent in conjunction with an appropriate anticholinergic agent.

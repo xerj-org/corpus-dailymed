@@ -1,0 +1,5 @@
+DailyMed abb8ad7e-7998-4485-a09f-a2892190f4ad | ARIPIPRAZOLE | 8.2 Lactation
+
+Risk Summary
+
+                        Aripiprazole is present in human breast milk. Based on published case reports and pharmacovigilance reports, aripiprazole exposure during pregnancy and/or the postpartum period can lead to variable effects on milk supply in the post-partum period, including clinically relevant decreases in milk supply which may be reversible with discontinuation of the drug. There are also reports of aripiprazole exposure during pregnancy and no maternal milk supply in the post-partum period. Effects on milk supply are likely mediated through decreases in prolactin levels, which have been observed [see Adverse Reactions (6.1)]. Monitor the breastfed infant for dehydration and lack of appropriate weight gain. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for aripiprazole and any potential adverse effects on the breastfed infant from aripiprazole or from the underlying maternal condition.

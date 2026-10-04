@@ -1,0 +1,17 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 8.7 Renal Impairment
+
+Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine. In a small study comparing a single dose of lamotrigine in subjects with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was approximately twice as long in the subjects with chronic renal failure
+
+  [see Clinical Pharmacology (
+
+   12.3)]
+
+  .
+
+                        Initial doses of lamotrigine should be based on patients' AED regimens; reduced maintenance doses may be effective for patients with significant renal impairment. Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine. Because there is inadequate experience in this population, lamotrigine should be used with caution in these patients
+
+  [see Dosage and Administration (
+
+   2.1)]
+
+  .

@@ -1,0 +1,21 @@
+DailyMed 7c22a2d6-821c-4f83-aead-e756aed930e5 | Naproxen Sodium | 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+                     Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+
+                     GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+
+                     Hepatotoxicity [see Warnings and Precautions (5.3)]
+
+                     Hypertension [see Warnings and Precautions (5.4)]
+
+                     Heart Failure and Edema [see Warnings and Precautions (5.5)]
+
+                     Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+
+                     Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+
+                     Serious Skin Reactions [see Warnings and Precautions (5.9)]
+
+                     Hematologic Toxicity [see Warnings and Precautions (5.12)]

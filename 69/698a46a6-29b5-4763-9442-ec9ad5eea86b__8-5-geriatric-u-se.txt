@@ -1,0 +1,3 @@
+DailyMed 698a46a6-29b5-4763-9442-ec9ad5eea86b | Nitroglycerin | 8.5 Geriatric U se
+
+Clinical studies did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between elderly (greater than or equal to 65 years) and younger (less than 65 years) patients. In general, dose selection for an elderly patient should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

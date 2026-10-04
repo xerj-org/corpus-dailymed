@@ -1,0 +1,17 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | Extrapyramidal Reactions (EPS)
+
+Acute dystonic reactions, the most common type of EPS associated with metoclopramide, occur in approximately 0.2% of patients (1 in 500) treated with 30 mg to 40 mg of metoclopramide per day. In cancer chemotherapy patients receiving 1 mg/kg to 2 mg/kg per dose, the incidence is 2% in patients over the ages of 30 to 35, and 25% or higher in pediatric patients and adult patients less than 30 years of age who have not had prophylactic administration of diphenhydramine.
+
+                        Symptoms include involuntary movements of limbs, facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, opisthotonus (tetanus-like reactions), and, rarely, stridor and dyspnea possibly due to laryngospasm; ordinarily these symptoms are readily reversed by diphenhydramine (see
+                              WARNINGS
+                           ).
+
+                        Parkinsonian-like symptoms may include bradykinesia, tremor, cogwheel rigidity, mask-like facies (see
+                              WARNINGS
+                           ).
+
+                        Tardive dyskinesia most frequently is characterized by involuntary movements of the tongue, face, mouth, or jaw, and sometimes by involuntary movements of the trunk and/or extremities; movements may be choreoathetotic in appearance (see
+                              WARNINGS
+                           ).
+
+                        Motor restlessness (akathisia) may consist of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, foot tapping. These symptoms may disappear spontaneously or respond to a reduction in dosage.

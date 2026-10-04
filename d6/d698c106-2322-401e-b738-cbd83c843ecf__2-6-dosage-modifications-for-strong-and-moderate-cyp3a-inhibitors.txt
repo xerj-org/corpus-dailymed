@@ -1,0 +1,7 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 2.6 Dosage Modifications for Strong and Moderate CYP3A Inhibitors
+
+Avoid concomitant use with strong CYP3A inhibitors. If concomitant use with a strong CYP3A inhibitor cannot be avoided, reduce the dosage of TRUQAP to 320 mg orally twice daily for 4 days followed by 3 days off [see Drug Interactions (7.1)].
+
+                        When concomitantly used with a moderate CYP3A inhibitor, reduce the dosage of TRUQAP to 320 mg orally twice daily for 4 days followed by 3 days off.
+
+                        After discontinuation of a strong or moderate CYP3A inhibitor, resume the TRUQAP dosage (after 3 to 5 half-lives of the inhibitor) that was taken prior to initiating the strong or moderate CYP3A inhibitor.

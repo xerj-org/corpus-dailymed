@@ -1,0 +1,13 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        No carcinogenicity studies of gadobutrol have been conducted.
+
+                           Mutagenesis
+
+                        Gadobutrol was not mutagenic in in vitro reverse mutation tests in bacteria, in the HGPRT (hypoxanthine-guanine phosphoribosyl transferase) test using cultured Chinese hamster V79 cells, or in chromosome aberration tests in human peripheral blood lymphocytes, and was negative in an in vivo micronucleus test in mice after intravenous injection of 0.5 mmol/kg.
+
+                           Impairment of Fertility
+
+                        Gadobutrol had no effect on fertility and general reproductive performance of male and female rats when given in doses 12.2 times the human equivalent dose (based on body surface area).

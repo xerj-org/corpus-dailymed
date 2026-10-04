@@ -1,0 +1,5 @@
+DailyMed ed789dc1-0b39-4efc-990d-7b6b43a8b3ba | Irbesartan | 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including irbesartan) may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving irbesartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including irbesartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.

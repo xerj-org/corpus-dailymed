@@ -1,0 +1,28 @@
+DailyMed cbe5bd6a-f36a-4557-82d8-ef4e49d310e9 | Temazepam | Pregnancy
+
+Pregnancy Exposure Registry
+
+ There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including temazepam capsules, during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
+
+                           Risk Summary
+
+ Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS, Neonatal Sedation and Withdrawal Syndrome
+                           and Clinical Considerations). Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Fetal/Neonatal Adverse Reactions
+
+ Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates. Monitor neonates exposed to temazepam capsules during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems. Monitor neonates exposed to temazepam capsules during pregnancy for signs of withdrawal. Manage these neonates accordingly (see WARNINGS, Neonatal Sedation and Withdrawal Syndrome).
+
+                           Data
+
+                           Human Data
+
+ Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects. Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted. In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+                           Animal Data
+
+ Reproduction studies in animals with temazepam were performed in rats and rabbits. In a perinatal-postnatal study in rats, oral doses of 60 mg/kg/day resulted in increasing nursling mortality. Teratology studies in rats demonstrated increased fetal resorptions at doses of 30 and 120 mg/kg in one study and increased occurrence of rudimentary ribs, which are considered skeletal variants, in a second study at doses of 240 mg/kg or higher. In rabbits, occasional abnormalities such as exencephaly and fusion or asymmetry of ribs were reported without dose relationship. Although these abnormalities were not found in the concurrent control group, they have been reported to occur randomly in historical controls. At doses of 40 mg/kg or higher, there was an increased incidence of the 13th rib variant when compared to the incidence in concurrent and historical controls.

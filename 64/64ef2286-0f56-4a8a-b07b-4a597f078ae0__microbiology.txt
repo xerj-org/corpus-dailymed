@@ -1,0 +1,27 @@
+DailyMed 64ef2286-0f56-4a8a-b07b-4a597f078ae0 | Oxistat | Microbiology
+
+Oxiconazole nitrate is an imidazole derivative whose antifungal activity is derived primarily from the inhibition of ergosterol biosynthesis, which is critical for cellular membrane integrity. It has in vitro activity against a wide range of pathogenic fungi.
+
+                        Oxiconazole has been shown to be active against most strains of the following organisms both in vitro and in clinical infections at indicated body sites (see INDICATIONS AND USAGE):
+
+                             Epidermophyton floccosum
+
+  Trichophyton mentagrophytes
+
+  Trichophyton rubrum
+
+  Malassezia furfur
+
+                        The following in vitro data are available; however, their clinical significance is unknown. Oxiconazole exhibits satisfactory in vitro minimum inhibitory concentrations (MICs) against most strains of the following organisms; however, the safety and efficacy of oxiconazole in treating clinical infections due to these organisms have not been established in adequate and well-controlled clinical trials:
+
+                             Candida albicans
+
+  Microsporum audouini
+
+  Microsporum canis
+
+  Microsporum gypseum
+
+  Trichophyton tonsurans
+
+  Trichophyton violaceum

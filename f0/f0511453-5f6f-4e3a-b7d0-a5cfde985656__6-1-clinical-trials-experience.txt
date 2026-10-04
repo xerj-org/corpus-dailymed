@@ -1,0 +1,124 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety of UTEBZI was evaluated in a Phase 3, double‑blind, comparator‑controlled clinical trial (Trial 1) in patients with cUTI, including pyelonephritis, in which 843 patients were treated with oral UTEBZI (600 mg every 6 hours or a renally adjusted dose) and 844 patients were treated with intravenously (IV) administered imipenem‑cilastatin (500 mg every 6 hours or a renally adjusted dose). Patients received UTEBZI for a median duration of 7.5 days and imipenem‑cilastatin for a median duration of 7.6 days.
+
+                           Adverse Reactions Leading to Discontinuation
+
+                        Adverse reactions leading to treatment discontinuation occurred in 0.6% (5/843) of patients receiving UTEBZI and 0.8% (7/844) of patients receiving imipenem‑cilastatin.
+
+                           Common Adverse Reactions
+
+                           Table 2 lists the adverse reactions occurring in ≥1% of patients receiving UTEBZI in Trial 1.
+
+                           Table 2. Adverse Reactions Occurring in ≥1% of Patients with Complicated Urinary Tract Infections Treated with UTEBZIa
+
+                                    Adverse Reaction
+                                  |
+
+                                    UTEBZIb
+
+N = 843
+
+n (%)
+                                  |
+
+                                    Imipenem and Cilastatinc
+
+N = 844
+
+n (%)
+                                  |
+
+                                    a The trial was not designed to evaluate meaningful comparisons of the incidence of adverse reactions in the UTEBZI and imipenem-cilastatin treatment groups. |
+
+                                    b 600 mg orally every 6 hours, or reduced dose for renal impairment. |
+
+                                    c 500 mg IV over 30 minutes every 6 hours, or reduced dose for renal impairment. |
+
+                                    d Includes abdominal pain, abdominal pain upper, abdominal pain lower, and abdominal discomfort. |
+
+                                    e Includes ALT increased, AST increased, hepatic enzyme increased, transaminase increased, and hypertransaminasemia. |
+
+                                    f Includes Clostridioides difficile colitis and Clostridioides difficile infection. |
+
+                                    Diarrhea
+
+                                  |
+
+                                    68 (8)
+
+                                  |
+
+                                    23 (3)
+
+                                  |
+
+                                    Headache
+
+                                  |
+
+                                    25 (3)
+
+                                  |
+
+                                    29 (3)
+
+                                  |
+
+                                    Nausea
+
+                                  |
+
+                                    11 (1)
+
+                                  |
+
+                                    6 (1)
+
+                                  |
+
+                                    Abdominal paind
+
+                                  |
+
+                                    11 (1)
+
+                                  |
+
+                                    7 (1)
+
+                                  |
+
+                                    Hepatic enzyme increasede
+
+                                  |
+
+                                    10 (1)
+
+                                  |
+
+                                    7 (1)
+
+                                  |
+
+                                       Clostridioides difficile infectionf
+
+                                  |
+
+                                    9 (1)
+
+                                  |
+
+                                    13 (2)
+
+                                  |
+
+                           Adverse Reactions Occurring in Less than 1% of Patients Receiving UTEBZI in Trial 1
+
+                           Gastrointestinal Disorders: Vomiting, dyspepsia
+
+                           Infections and Infestations: Candida infections (includes vulvovaginal candidiasis, urinary tract candidiasis, oral candidiasis), urinary tract infection fungal
+
+                           Skin and Subcutaneous Tissue Disorders: Rash (includes rash, dermatitis, rash pruritic), pruritus, urticaria

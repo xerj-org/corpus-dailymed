@@ -1,0 +1,11 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+                        Females: Based on the pharmacologic action of haloperidol (D2 receptor antagonism), treatment with haloperidol decanoate may result in an increase in serum prolactin levels, which may lead to a reduction in fertility in females of reproductive potential.
+
+                        Males: Based on animal studies, male fertility may be impaired by treatment with haloperidol [
+
+  see Nonclinical Toxicology(
+
+  13.1)].

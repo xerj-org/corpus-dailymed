@@ -1,0 +1,23 @@
+DailyMed 3145ceda-8c1e-4601-8a9d-5fc4978226d6 | Sildenafil | 12.1 Mechanism of Action
+
+The physiologic mechanism of erection of the penis involves release of nitric oxide (NO) in the corpus cavernosum during sexual stimulation. NO then activates the enzyme guanylate cyclase, which results in increased levels of cyclic guanosine monophosphate (cGMP), producing smooth muscle relaxation in the corpus cavernosum and allowing inflow of blood.
+
+  Sildenafil enhances the effect of NO by inhibiting phosphodiesterase type 5 (PDE5), which is responsible for degradation of cGMP in the corpus cavernosum. Sildenafil has no direct relaxant effect on isolated human corpus cavernosum. When sexual stimulation causes local release of NO, inhibition of PDE5 by sildenafil causes increased levels of cGMP in the corpus cavernosum, resulting in smooth muscle relaxation and inflow of blood to the corpus cavernosum. Sildenafil at recommended doses has no effect in the absence of sexual stimulation.
+
+                           Binding Characteristics
+
+  Studies
+
+  in vitrohave shown that sildenafil is selective for PDE5. Its effect is more potent on PDE5 than on other known phosphodiesterases (10-fold for PDE6, >80-fold for PDE1, >700-fold for PDE2, PDE3, PDE4, PDE7, PDE8, PDE9, PDE10, and PDE11). Sildenafil is approximately 4,000-fold more selective for PDE5 compared to PDE3. PDE3 is involved in control of cardiac contractility. Sildenafil is only about 10-fold as potent for PDE5 compared to PDE6, an enzyme found in the retina which is involved in the phototransduction pathway of the retina. This lower selectivity is thought to be the basis for abnormalities related to color vision
+
+  [see Clinical Pharmacology
+
+   (12.2)].
+
+  In addition to human corpus cavernosum smooth muscle, PDE5 is also found in other tissues including platelets, vascular and visceral smooth muscle, and skeletal muscle, brain, heart, liver, kidney, lung, pancreas, prostate, bladder, testis, and seminal vesicle. The inhibition of PDE5 in some of these tissues by sildenafil may be the basis for the enhanced platelet antiaggregatory activity of NO observed
+
+  in vitro, an inhibition of platelet thrombus formation
+
+  in vivoand peripheral arterial-venous dilatation
+
+  in vivo.

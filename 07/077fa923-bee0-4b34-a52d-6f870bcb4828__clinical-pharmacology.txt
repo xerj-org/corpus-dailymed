@@ -1,0 +1,3 @@
+DailyMed 077fa923-bee0-4b34-a52d-6f870bcb4828 | Methocarbamol | CLINICAL PHARMACOLOGY
+
+The mechanism of action of methocarbamol in humans has not been established, but may be due to general central nervous system (CNS) depression. It has no direct action on the contractile mechanism of striated muscle, the motor end plate or the nerve fiber.

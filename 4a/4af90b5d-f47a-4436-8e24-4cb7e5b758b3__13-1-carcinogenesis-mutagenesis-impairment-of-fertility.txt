@@ -1,0 +1,7 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenic potential of famotidine was assessed in a 106-week oral carcinogenicity study in rats and a 92-week oral carcinogenicity study in mice. In the 106-week study in rats and the 92-week study in mice at oral doses of up to 2000 mg/kg/day (approximately 243 and 122 times, respectively, based on body surface area, the recommended human dose of 80 mg/day for the treatment of erosive esophagitis), there was no evidence of carcinogenic potential for famotidine.
+
+                        Famotidine was negative in the microbial mutagen test (Ames test) using Salmonella typhimurium and Escherichia coli with or without rat liver enzyme activation at concentrations up to 10,000 mcg/plate. In in vivo studies in mice, with a micronucleus test and a chromosomal aberration test, no evidence of a mutagenic effect was observed.
+
+                        In studies with rats given oral doses of up to 2000 mg/kg/day (approximately 243 times, based on body surface area, the recommended human dose of 80 mg/day) fertility and reproductive performance were not affected.

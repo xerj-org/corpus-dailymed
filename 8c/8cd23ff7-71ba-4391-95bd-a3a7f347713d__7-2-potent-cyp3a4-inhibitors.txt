@@ -1,0 +1,13 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 7.2 Potent CYP3A4 Inhibitors
+
+Ketoconazole (200 mg daily), a potent CYP3A4 inhibitor, increased the mean C
+  max and AUC of tolterodine by 2- and 2.5-fold, respectively, in CYP2D6 poor metabolizers.
+
+                        For patients receiving ketoconazole or other potent CYP3A4 inhibitors such as itraconazole, clarithromycin, or ritonavir, the recommended dose of tolterodine tartrate extended-release capsules is 2 mg once daily
+  [see
+
+                                 DOSAGE AND ADMINISTRATION (2.2)
+                               and
+
+                                 CLINICAL PHARMACOLOGY (12.3)
+                              ].

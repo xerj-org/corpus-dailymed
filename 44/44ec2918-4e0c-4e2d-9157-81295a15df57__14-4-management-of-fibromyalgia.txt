@@ -1,0 +1,139 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 14.4 Management of Fibromyalgia
+
+The efficacy of pregabalin for management of fibromyalgia was established in one 14-week, double-blind, placebo-controlled, multicenter study (F1) and one six-month, randomized withdrawal study (F2). Studies F1 and F2 enrolled patients with a diagnosis of fibromyalgia using the American College of Rheumatology (ACR) criteria (history of widespread pain for 3 months, and pain present at 11 or more of the 18 specific tender point sites). The studies showed a reduction in pain by visual analog scale. In addition, improvement was demonstrated based on a patient global assessment (PGIC), and on the Fibromyalgia Impact Questionnaire (FIQ).
+
+                           Study F1: This 14-week study compared pregabalin total daily doses of 300 mg, 450 mg and 600 mg with placebo. Patients were enrolled with a minimum mean baseline pain score of greater than or equal to 4 on an 11-point numeric pain rating scale and a score of greater than or equal to 40 mm on the 100 mm pain visual analog scale (VAS). The baseline mean pain score in this trial was 6.7. Responders to placebo in an initial one-week run-in phase were not randomized into subsequent phases of the study.  A total of 64% of patients randomized to pregabalin completed the study. There was no evidence of a greater effect on pain scores of the 600 mg daily dose than the 450 mg daily dose, but there was evidence of dose-dependent adverse reactions
+
+  [see
+
+                              Adverse Reactions (6.1)
+
+                           ].Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study. The results are summarized in Figure 9 and Table 14.
+
+                        For various levels of improvement in pain intensity from baseline to study endpoint, Figure 9 shows the fraction of patients achieving that level of improvement. The figure is cumulative. Patients who did not complete the study were assigned 0% improvement. Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
+
+                           Figure 9:Patients Achieving Various Levels of Improvement in Pain Intensity – Fibromyalgia Study F1
+
+                                    Table 14. Patient Global Response in
+                                    Fibromyalgia
+                                    Study F1  
+
+                                  |
+
+   
+
+     Patient Global Impression of Change 
+
+   
+
+                                  |
+
+   
+
+     Treatment Group (mg/day) 
+
+                                  |
+
+    
+
+     % Any Improvement
+
+                                  |
+
+   
+
+     95% CI
+
+                                  |
+
+   Placebo 
+
+   
+
+                                  |
+
+   47.6 
+
+   
+
+                                  |
+
+   (40.0,55.2) 
+
+   
+
+                                  |
+
+   PGB 300 
+
+   
+
+                                  |
+
+   68.1 
+
+   
+
+                                  |
+
+   (60.9, 75.3) 
+
+   
+
+                                  |
+
+   PGB 450 
+
+   
+
+                                  |
+
+   77.8 
+
+   
+
+                                  |
+
+   (71.5, 84.0) 
+
+   
+
+                                  |
+
+   PGB 600 
+
+   
+
+                                  |
+
+   66.1 
+
+   
+
+                                  |
+
+   (59.1, 73.1) 
+
+   
+
+                                  |
+
+   PGB = Pregabalin 
+
+   
+
+                                  |
+
+                           Study F2: This randomized withdrawal study compared pregabalin with placebo. Patients were titrated during a 6-week open-label dose optimization phase to a total daily dose of 300 mg, 450 mg, or 600 mg. Patients were considered to be responders if they had both: 1) at least a 50% reduction in pain (VAS) and, 2) rated their overall improvement on the PGIC as "much improved" or "very much improved.” Those who responded to treatment were then randomized in the double-blind treatment phase to either the dose achieved in the open-label phase or to placebo. Patients were treated for up to 6 months following randomization. Efficacy was assessed by time to loss of therapeutic response, defined as 1) less than 30% reduction in pain (VAS) from open-label baseline during two consecutive visits of the double-blind phase, or 2) worsening of FM symptoms necessitating an alternative treatment. Fifty-four percent of patients were able to titrate to an effective and tolerable dose of pregabalin during the 6-week open-label phase. Of the patients entering the randomized treatment phase assigned to remain on pregabalin, 38% of patients completed 26 weeks of treatment versus 19% of placebo-treated patients.
+
+                        When considering return of pain or withdrawal due to adverse events as loss of response (LTR), treatment with pregabalin resulted in a longer time to loss of therapeutic response than treatment with placebo. Fifty-three percent of the pregabalin-treated subjects compared to 33% of placebo patients remained on study drug and maintained a therapeutic response to Week 26 of the study. Treatment with pregabalin also resulted in a longer time to loss of response based on the FIQ
+
+  1, and longer time to loss of overall assessment of patient status, as measured by the PGIC
+
+  2.
+
+                           1Time to worsening of the FIQ was defined as the time to a 1-point increase from double-blind baseline in each of the subscales, and a 5-point increase from double-blind baseline evaluation for the FIQ total score.
+
+                           2Time to PGIC lack of improvement was defined as time to PGIC assessments indicating less improvement than “much improvement.”
+
+                           Figure 10:Time to Loss of Therapeutic Response, Fibromyalgia Study F2 (Kaplan-Meier Analysis)

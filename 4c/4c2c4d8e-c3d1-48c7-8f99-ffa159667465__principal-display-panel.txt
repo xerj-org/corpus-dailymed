@@ -1,0 +1,67 @@
+DailyMed 4c2c4d8e-c3d1-48c7-8f99-ffa159667465 | Hydroxyzine hydrochloride | PRINCIPAL DISPLAY PANEL
+
+DRUG: Hydroxyzine hydrochloride
+
+                  GENERIC: Hydroxyzine hydrochloride
+
+                  DOSAGE: TABLET
+
+                  ADMINSTRATION: ORAL
+
+                  NDC: 70518-1265-0
+
+                  NDC: 70518-1265-1
+
+                  NDC: 70518-1265-2
+
+                  NDC: 70518-1265-3
+
+                  NDC: 70518-1265-4
+
+                  NDC: 70518-1265-5
+
+                  COLOR: white
+
+                  SHAPE: ROUND
+
+                  SCORE: No score
+
+                  SIZE: 9 mm
+
+                  IMPRINT: H;502
+
+                  PACKAGING: 30 in 1 BLISTER PACK
+
+                  PACKAGING: 60 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  ACTIVE INGREDIENT(S):
+
+                     HYDROXYZINE DIHYDROCHLORIDE 50mg in 1
+
+                  INACTIVE INGREDIENT(S):
+
+                     ANHYDROUS LACTOSE
+
+                     SILICON DIOXIDE
+
+                     HYPROMELLOSES
+
+                     MAGNESIUM STEARATE
+
+                     CELLULOSE, MICROCRYSTALLINE
+
+                     POLYETHYLENE GLYCOL, UNSPECIFIED
+
+                     POLYSORBATE 80
+
+                     TITANIUM DIOXIDE
+
+                     CROSPOVIDONE

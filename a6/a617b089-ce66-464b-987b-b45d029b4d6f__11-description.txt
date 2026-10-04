@@ -1,0 +1,9 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 11 DESCRIPTION
+
+TECENTRIQ HYBREZA is a fixed-combination drug product containing atezolizumab and hyaluronidase (human recombinant).
+
+                     Atezolizumab is a programmed cell death ligand 1 (PD-L1) blocking antibody. Atezolizumab is an Fc-engineered, humanized, non-glycosylated IgG1 kappa immunoglobulin that has a calculated molecular mass of 145 kDa.
+
+                     Hyaluronidase (human recombinant) is an endoglycosidase used to increase the dispersion and absorption of co-administered drugs administered subcutaneously. It is a glycosylated single-chain protein produced by mammalian (Chinese Hamster Ovary) cells containing a DNA plasmid encoding for a soluble fragment of human hyaluronidase (PH20). Hyaluronidase (human recombinant) has a molecular weight of approximately 61 kDa.
+
+                  TECENTRIQ HYBREZA (atezolizumab and hyaluronidase-tqjs) injection for subcutaneous use is a sterile, preservative-free, clear and slightly opalescent, and colorless to slightly yellow solution in single-dose vials. Each 15 mL single-dose vial contains 1,875 mg of atezolizumab, 30,000 units of hyaluronidase, histidine (46.5 mg), methionine (22.4 mg), polysorbate 20 (9 mg), sucrose (1,232 mg), and water for injection, adjusted to pH 5.8 with acetic acid.

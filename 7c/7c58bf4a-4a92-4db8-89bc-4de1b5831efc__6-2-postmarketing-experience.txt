@@ -1,0 +1,27 @@
+DailyMed 7c58bf4a-4a92-4db8-89bc-4de1b5831efc | Atorvastatin calcium | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of atorvastatin calcium tablets. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Gastrointestinal Disorders: pancreatitis
+
+                           General Disorders: fatigue
+
+                           Hepatobiliary Disorders: fatal and non-fatal hepatic failure
+
+                           Immune System Disorders: anaphylaxis
+
+                           Injury: tendon rupture
+
+                           Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis, myositis.
+
+                        There have been rare reports of immune-mediated necrotizing myopathy associated with statin use.
+
+                           Nervous System Disorders: dizziness, peripheral neuropathy.
+
+                        There have been rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with the use of all statins. Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks). There have been rare reports of new-onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
+
+                           Psychiatric Disorders: depression
+
+                           Respiratory Disorders: interstitial lung disease
+
+                           Skin and Subcutaneous Tissue Disorders: angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis)

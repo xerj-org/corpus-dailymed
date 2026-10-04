@@ -1,0 +1,28 @@
+DailyMed 268d12e8-1cfc-4086-b613-8fd94f2d7c4e | olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide | 12.2 Pharmacodynamics
+
+Olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets have been shown to be effective in lowering blood pressure. The three components of olmesartan medoxomil, amlodipine and hydrochlorothiazide tablets lower the blood pressure through complementary mechanisms, each working at a separate site and blocking different effects or pathways. The pharmacodynamics of each individual component is described below.
+
+                              Olmesartan medoxomil.
+                           Olmesartan medoxomil doses of 2.5 to 40 mg inhibit the pressor effects of angiotensin I infusion. The duration of the inhibitory effect was related to dose, with doses of olmesartan medoxomil >40 mg giving >90% inhibition at 24 hours.
+
+                        Plasma concentrations of angiotensin I and angiotensin II and plasma renin activity (PRA) increase after single and repeated administration of olmesartan medoxomil to healthy subjects and hypertensive patients. Repeated administration of up to 80 mg olmesartan medoxomil had minimal influence on aldosterone levels and no effect on serum potassium.
+
+                              Amlodipine.
+                           Following administration of therapeutic doses to patients with hypertension, amlodipine produces vasodilation resulting in a reduction of supine and standing blood pressures. These decreases in blood pressure are not accompanied by a significant change in heart rate or plasma catecholamine levels with chronic dosing.
+
+                        With chronic once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours. Plasma concentrations correlate with effect in both young and elderly patients. The magnitude of reduction in blood pressure with amlodipine is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105 to 114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90 to104 mmHg). Normotensive patients experienced no clinically significant change in blood pressures (+1/-2 mmHg).
+
+                        In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
+
+                        As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume. In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when coadministered with beta-blockers to man. Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
+
+                        Amlodipine does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man. In clinical studies in which amlodipine was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
+
+                              Hydrochlorothiazide. 
+                           After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours, and lasts about 6 to 12 hours.
+
+                        Drug Interactions
+
+                           Alcohol, Barbiturates, or Narcotics: Potentiation of orthostatic hypotension may occur.
+
+                           Skeletal muscle relaxants, non-depolarizing (e.g., tubocurarine): Possible increased responsiveness to the muscle relaxant.

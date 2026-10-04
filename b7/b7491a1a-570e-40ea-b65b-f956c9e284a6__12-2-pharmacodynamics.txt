@@ -1,0 +1,5 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 12.2 Pharmacodynamics
+
+Inhibition of HMG-CoA reductase by rosuvastatin accelerates the expression of LDL-receptors, followed by the uptake of LDL-C from blood to the liver, leading to a decrease in plasma LDL-C and total cholesterol. Sustained inhibition of cholesterol synthesis in the liver also decreases levels of very-low-density lipoproteins. The maximum LDL-C reduction of rosuvastatin is usually achieved by 4 weeks and is maintained after that
+
+  .

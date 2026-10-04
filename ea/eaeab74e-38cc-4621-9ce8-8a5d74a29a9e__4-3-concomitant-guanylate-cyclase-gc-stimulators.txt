@@ -1,0 +1,3 @@
+DailyMed eaeab74e-38cc-4621-9ce8-8a5d74a29a9e | Sildenafil | 4.3 Concomitant Guanylate Cyclase (GC) Stimulators
+
+Do not use sildenafil tablets in patients who are using a GC stimulator, such as riociguat. PDE5 inhibitors, including sildenafil tablets, may potentiate the hypotensive effects of GC stimulators.

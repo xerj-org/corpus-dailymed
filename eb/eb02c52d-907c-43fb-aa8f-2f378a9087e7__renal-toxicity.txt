@@ -1,0 +1,3 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Renal Toxicity
+
+Proteinuria with or without a moderate reduction in glomerular filtration rate have been reported with the use of chloroquine. Renal biopsy showed phospholipidosis without immune deposits, inflammation, and/or increased cellularity. Physicians should consider phospholipidosis as a possible cause of renal injury in patients with underlying connective tissue disorders who are receiving chloroquine. Discontinue chloroquine if renal toxicity is suspected or demonstrated by tissue biopsy.

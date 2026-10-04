@@ -1,0 +1,3 @@
+DailyMed 085e0809-6b7f-447e-976e-8276c29daad6 | Terbinafine | 5.8 Thrombotic Microangiopathy
+
+Cases of thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura and hemolytic uremic syndrome, some fatal, have been reported with terbinafine. Discontinue terbinafine if clinical symptoms and laboratory findings consistent with TMA occur. The findings of unexplained thrombocytopenia and anemia should prompt further evaluation and consideration of diagnosis of TMA.

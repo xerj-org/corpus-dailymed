@@ -1,0 +1,3 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 5.15 Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome
+
+The concomitant use of Zortress with cyclosporine may increase the risk of thrombotic microangiopathy (TMA)/thrombotic thrombocytopenic purpura (TTP)/hemolytic uremic syndrome (HUS). Monitor hematologic parameters [see Adverse Reactions (6.2)].

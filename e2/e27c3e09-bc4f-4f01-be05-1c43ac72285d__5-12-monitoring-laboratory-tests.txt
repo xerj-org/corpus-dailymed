@@ -1,0 +1,11 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 5.12 Monitoring Laboratory Tests
+
+Complete blood counts should be performed every 2 weeks for the first 2 months and then monthly thereafter. Perform chemistry panels, including electrolytes, calcium, magnesium, liver enzymes, lipid profile, and glucose prior to therapy and periodically. Electrocardiograms should be obtained at baseline, 7 days after initiation and periodically thereafter, as well as following dose adjustments [see Warnings and Precautions (
+
+                              5.2
+
+                           )]. Monitor lipid profiles and glucose periodically during the first year of Nilotinib Capsules therapy and at least yearly during chronic therapy. Should treatment with any HMG-CoA reductase inhibitor (a lipid lowering agent) be needed to treat lipid elevations, evaluate the potential for a drug-drug interaction before initiating therapy as certain HMG-CoA reductase inhibitors are metabolized by the CYP3A4 pathway [see Drug Interactions (
+
+                              7.1
+
+                           )]. Assess glucose levels before initiating treatment with Nilotinib Capsules and monitor during treatment as clinically indicated. If test results warrant therapy, physicians should follow their local standards of practice and treatment guidelines.

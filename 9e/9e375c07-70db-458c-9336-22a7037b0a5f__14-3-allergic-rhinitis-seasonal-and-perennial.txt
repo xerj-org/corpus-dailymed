@@ -1,0 +1,153 @@
+DailyMed 9e375c07-70db-458c-9336-22a7037b0a5f | montelukast sodium | 14.3 Allergic Rhinitis (Seasonal and Perennial)
+
+Seasonal Allergic Rhinitis
+
+                        The efficacy of montelukast sodium tablets for the treatment of seasonal allergic rhinitis was investigated in 5 similarly designed, randomized, double-blind, parallel-group, placebo- and active-controlled (loratadine) trials conducted in North America. The 5 trials enrolled a total of 5029 patients, of whom 1799 were treated with montelukast sodium tablets. Patients were 15 to 82 years of age with a history of seasonal allergic rhinitis, a positive skin test to at least one relevant seasonal allergen, and active symptoms of seasonal allergic rhinitis at study entry.
+
+                        The period of randomized treatment was 2 weeks in 4 trials and 4 weeks in one trial. The primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing) as assessed by patients on a 0-3 categorical scale.
+
+                        Four of the five trials showed a significant reduction in daytime nasal symptoms scores with montelukast sodium 10-mg tablets compared with placebo. The results of one trial are shown below. The median age in this trial was 35.0 years (range 15 to 81); 65.4% were females and 34.6% were males. The ethnic/racial distribution in this study was 83.1% Caucasian, 6.4% other origins, 5.8% Black, and 4.8% Hispanic. The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received montelukast sodium tablets, loratadine, and placebo are shown in  TABLE 9. The remaining three trials that demonstrated efficacy showed similar results. Efficacy was demonstrated for seasonal allergic rhinitis when montelukast was administered in the morning or the evening.
+
+                               Table 9: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis (ANCOVA Model)
+
+                                          *
+                                         Average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0-3 categorical scale.
+
+                                  |
+
+                                       † Statistically different from placebo (p≤0.001).
+
+                                  |
+
+                                       ‡ The study was not designed for statistical comparison between montelukast sodium and the active control loratadine)
+
+                                  |
+
+                                  Treatment Group (N)
+
+                                  |
+                                  Baseline
+
+  Mean Score
+
+                                  |
+                                  Mean Change from Baseline
+
+                                  |
+                                  Difference Between Treatment and Placebo (95% CI)
+
+   Least-Squares Mean
+
+                                  |
+
+                                  Montelukast sodium  10 mg
+
+  (344)
+
+                                  |
+                                  2.09
+
+                                  |
+                                  -0.39
+
+                                  |
+                                   -0.13† (-0.21, -0.06)
+
+                                  |
+
+                                  Placebo
+
+  (351)
+
+                                  |
+                                  2.10
+
+                                  |
+                                  -0.26
+
+                                  |
+                                  N.A.
+
+                                  |
+
+                                   Active Control‡
+
+  (Loratadine 10 mg)
+
+  (599)
+
+                                  |
+                                  2.06
+
+                                  |
+                                  -0.46
+
+                                  |
+                                   -0.24† (-0.31, -0.17)
+
+                                  |
+
+                           Perennial Allergic Rhinitis
+
+                        The efficacy of montelukast sodium tablets for the treatment of perennial allergic rhinitis was investigated in 2 randomized, double-blind, placebo-controlled studies conducted in North America and Europe. The two studies enrolled a total of 3357 patients, of whom 1632 received montelukast sodium 10-mg tablets. Patients 15 to 82 years of age with perennial allergic rhinitis as confirmed by history and a positive skin test to at least one relevant perennial allergen (dust mites, animal dander, and/or mold spores), who had active symptoms at the time of study entry, were enrolled.
+
+                        In the study in which efficacy was demonstrated, the median age was 35 years (range 15 to 81); 64.1% were females and 35.9% were males. The ethnic/racial distribution in this study was 83.2% Caucasian, 8.1% Black, 5.4% Hispanic, 2.3% Asian, and 1.0% other origins. montelukast sodium 10-mg tablets once daily was shown to significantly reduce symptoms of perennial allergic rhinitis over a 6-week treatment period (TABLE 10); in this study the primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, and sneezing).
+
+                               Table 10: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Placebo-controlled Trial in Patients with Perennial Allergic Rhinitis (ANCOVA Model)
+
+                                       * Average of individual scores of nasal congestion, rhinorrhea, sneezing as assessed by patients on a 0-3 categorical scale.
+
+                                  |
+
+                                       † Statistically different from placebo (p≤0.001).
+
+                                  |
+
+                                  Treatment Group (N)
+
+                                  |
+                                  Baseline
+
+  Mean Score
+
+                                  |
+                                  Mean Change from Baseline
+
+                                  |
+                                  Difference Between Treatment and Placebo (95% CI)
+
+  Least-Squares Mean
+
+                                  |
+
+                                  Montelukast sodium  10 mg
+
+  (1000)
+
+                                  |
+                                  2.09
+
+                                  |
+                                  -0.42
+
+                                  |
+                                   -0.08† (-0.12, -0.04)
+
+                                  |
+
+                                  Placebo
+
+  (980)
+
+                                  |
+                                  2.10
+
+                                  |
+                                  -0.35
+
+                                  |
+                                  N.A.
+
+                                  |
+
+                        The other 6-week study evaluated montelukast sodium 10 mg (n=626), placebo (n=609), and an active-control (cetirizine 10 mg; n=120). The primary analysis compared the mean change from baseline in daytime nasal symptoms score for montelukast sodium vs. placebo over the first 4 weeks of treatment; the study was not designed for statistical comparison between montelukast sodium and the active-control. The primary outcome variable included nasal itching in addition to nasal congestion, rhinorrhea, and sneezing. The estimated difference between montelukast sodium and placebo was -0.04 with a 95% CI of (-0.09, 0.01). The estimated difference between the active-control and placebo was -0.10 with a 95% CI of (-0.19, -0.01).

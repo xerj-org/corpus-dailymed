@@ -1,0 +1,5 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 5.5 Respiratory Depression
+
+There is evidence from case reports, human studies, and animal studies associating pregabalin with serious, life-threatening, or fatal respiratory depression when co-administered with central nervous system (CNS) depressants, including opioids, or in the setting of underlying respiratory impairment. When the decision is made to co-prescribe pregabalin with another CNS depressant, particularly an opioid, or to prescribe pregabalin to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating pregabalin at a low dose. The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including pregabalin). 
+
+  There is more limited evidence from case reports, animal studies, and human studies associating pregabalin with serious respiratory depression, without co-administered CNS depressants or without underlying respiratory impairment.

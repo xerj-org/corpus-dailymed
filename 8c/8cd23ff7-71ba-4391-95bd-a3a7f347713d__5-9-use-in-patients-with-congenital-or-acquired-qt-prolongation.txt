@@ -1,0 +1,10 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 5.9 Use in Patients with Congenital or Acquired QT Prolongation
+
+In a study of the effect of tolterodine immediate release tablets on the QT interval
+  [see
+
+                                 CLINICAL PHARMACOLOGY (12.2)
+                              ],
+   the effect on the QT interval appeared greater for 8 mg/day (two times the therapeutic dose) compared to 4 mg/day and was more pronounced in CYP2D6 poor metabolizers (PM) than extensive metabolizers (EMs). The effect of tolterodine 8 mg/day was not as large as that observed after four days of therapeutic dosing with the active control moxifloxacin. However, the confidence intervals overlapped.
+
+                        These observations should be considered in clinical decisions to prescribe tolterodine tartrate extended-release capsules to patients with a known history of QT prolongation or to patients who are taking Class IA (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications. There has been no association of Torsade de Pointes in the international post-marketing experience with tolterodine tartrate immediate release tablets or tolterodine tartrate extended-release capsules.

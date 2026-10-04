@@ -1,0 +1,19 @@
+DailyMed 40bf2923-24b1-4af1-8d20-03cf06b455a5 | Carbamazepine | General
+
+Before initiating therapy, a detailed history and physical examination should be made.
+
+                        Carbamazepine should be used with caution in patients with a mixed seizure disorder that includes atypical absence seizures, since in these patients carbamazepine has been associated with increased frequency of generalized convulsions (see
+
+  INDICATIONS AND USAGE).
+
+                        Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see
+
+  ADVERSE REACTIONSand
+
+  PRECAUTIONS, Laboratory Tests). In some cases, hepatic effects may progress despite discontinuation of the drug. In addition, rare instances of vanishing bile duct syndrome have been reported. This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts. Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes, such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions. As an example, there has been a report of vanishing bile duct syndrome associated with SJS and in another case an association with fever and eosinophilia.
+
+                        Since a given dose of carbamazepine suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see
+
+  DOSAGE AND ADMINISTRATION).
+
+                        Carbamazepine chewable tablets and oral suspension contain sorbitol and, therefore, should not be administered to patients with rare hereditary problems of fructose intolerance.

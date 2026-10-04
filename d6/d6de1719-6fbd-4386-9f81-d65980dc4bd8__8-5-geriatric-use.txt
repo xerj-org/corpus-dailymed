@@ -1,0 +1,3 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 8.5 Geriatric Use
+
+Of the total number of adult patients in clinical trials for the approved indications of rivaroxaban (N=64,943 patients), 64 percent were 65 years and over, with 27 percent 75 years and over. In clinical trials the efficacy of rivaroxaban in the elderly (65 years or older) was similar to that seen in patients younger than 65 years. Both thrombotic and bleeding event rates were higher in these older patients [see Clinical Pharmacology (12.3) and Clinical Studies (14)].

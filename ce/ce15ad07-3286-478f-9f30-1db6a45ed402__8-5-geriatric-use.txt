@@ -1,0 +1,9 @@
+DailyMed ce15ad07-3286-478f-9f30-1db6a45ed402 | Pravastatin Sodium | 8.5 Geriatric Use
+
+In clinical studies, 4,797 (36.4%) pravastatin-treated patients were aged 65 and older and 110 (0.8%) were aged 75 and older. No significant differences in efficacy or safety were observed between geriatric patients and younger patients.
+
+                        Mean pravastatin AUCs are 25% to 50% higher in elderly subjects than in healthy young subjects, but mean maximum plasma concentration (Cmax), time to maximum plasma concentration (Tmax), and half-life (t½) values are similar in both age groups and substantial accumulation of pravastatin would not be expected in the elderly [see Clinical Pharmacology (12.3)].
+
+                               
+
+Advanced age (≥65 years) is a risk factor for pravastatin associated myopathy and rhabdomyolysis. Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy. Monitor geriatric patients receiving pravastatin for the increased risk of myopathy [see Warnings and Precautions (5.1)].

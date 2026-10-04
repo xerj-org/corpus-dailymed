@@ -1,0 +1,125 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 2.4 Conversion from Divalproex Sodium Delayed-Release Tablets to Divalproex Sodium Extended-Release Tablets
+
+In adult patients and pediatric patients 10 years of age or older with epilepsy previously receiving divalproex sodium delayed-release tablets, divalproex sodium extended-release tablets should be administered once-daily using a dose 8 to 20% higher than the total daily dose of divalproex sodium delayed-release tablets (Table 1). For patients whose divalproex sodium delayed-release tablets total daily dose cannot be directly converted to divalproex sodium extended-release tablets, consideration may be given at the clinician's discretion to increase the patient's divalproex sodium delayed-release tablets total daily dose to the next higher dosage before converting to the appropriate total daily dose of divalproex sodium extended-release tablets.
+
+                                        Table 1. Dose Conversion
+
+                                  |
+
+                                        Divalproex Sodium Delayed-Release Tablets
+
+                                  |
+
+                                        Divalproex Sodium Extended-Release Tablets
+
+                                  |
+
+                                        Total Daily Dose (mg)
+
+                                  |
+
+                                        (mg)
+
+                                  |
+
+                                     500* - 625
+
+                                  |
+
+                                     750
+
+                                  |
+
+                                     750* - 875
+
+                                  |
+
+                                     1,000
+
+                                  |
+
+                                     1,000*-1,125
+
+                                  |
+
+                                     1,250
+
+                                  |
+
+                                     1,250-1,375
+
+                                  |
+
+                                     1,500
+
+                                  |
+
+                                     1,500-1,625
+
+                                  |
+
+                                     1,750
+
+                                  |
+
+                                     1,750
+
+                                  |
+
+                                     2,000
+
+                                  |
+
+                                     1,875-2,000
+
+                                  |
+
+                                     2,250
+
+                                  |
+
+                                     2,125-2,250
+
+                                  |
+
+                                     2,500
+
+                                  |
+
+                                     2,375
+
+                                  |
+
+                                     2,750
+
+                                  |
+
+                                     2,500-2,750
+
+                                  |
+
+                                     3,000
+
+                                  |
+
+                                     2,875
+
+                                  |
+
+                                     3,250
+
+                                  |
+
+                                     3,000-3,125
+
+                                  |
+
+                                     3,500
+
+                                  |
+
+                                     * These total daily doses of divalproex sodium delayed-release tablets cannot be directly converted to an 8 to 20% higher total daily dose of divalproex sodium extended-release tablets because the required dosing strengths of divalproex sodium extended-release tablets are not available. Consideration may be given at the clinician's discretion to increase the patient's divalproex sodium delayed-release tablets total daily dose to the next higher dosage before converting to the appropriate total daily dose of divalproex sodium extended-release tablets.
+
+                                  |
+
+                        There is insufficient data to allow a conversion factor recommendation for patients with divalproex sodium delayed-release tablets doses above 3,125 mg/day. Plasma valproate Cmin concentrations for divalproex sodium extended-release tablets on average are equivalent to divalproex sodium delayed-release tablets, but may vary across patients after conversion. If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 to 100 mcg/mL) [see Clinical Pharmacology (12.2)].

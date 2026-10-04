@@ -1,0 +1,16 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 12.1 Mechanism of Action
+
+Ramipril and ramiprilat inhibit ACE in human subjects and animals. Angiotensin converting enzyme is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex. Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decreased aldosterone secretion. The latter decrease may result in a small increase of serum potassium. In hypertensive patients with normal renal function treated with ramipril alone for up to 56 weeks, approximately 4% of patients during the trial had an abnormally high serum potassium and an increase from baseline greater than 0.75 mEq/L, and none of the patients had an abnormally low potassium and a decrease from baseline greater than 0.75 mEq/L. In the same study, approximately 2% of patients treated with ramipril and hydrochlorothiazide for up to 56 weeks had abnormally high potassium values and an increase from baseline of 0.75 mEq/L or greater; and approximately 2% had abnormally low values and decreases from baseline of 0.75 mEq/L or greater
+
+  [see
+
+                                 Warnings and Precautions (5.8)
+                              ]
+
+  . Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
+
+  The effect of ramipril on hypertension appears to result at least in part from inhibition of both tissue and circulating ACE activity, thereby reducing angiotensin II formation in tissue and plasma.
+
+  Angiotensin converting enzyme is identical to kininase, an enzyme that degrades bradykinin. Whether increased levels of bradykinin, a potent vasopressor peptide, play a role in the therapeutic effects of ramipril remains to be elucidated.
+
+  While the mechanism through which ramipril lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, ramipril has an antihypertensive effect even in patients with low-renin hypertension. Although ramipril was antihypertensive in all races studied, Black hypertensive patients (usually a low-renin hypertensive population) had a blood pressure lowering response to monotherapy, albeit a smaller average response, than non-Black patients.

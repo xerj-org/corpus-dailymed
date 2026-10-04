@@ -1,0 +1,11 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 5.8 Skeletal Muscle Myopathy or Neuropathy
+
+Skeletal muscle myopathy or neuropathy leading to progressive weakness and atrophy of proximal muscle groups, depressed tendon reflexes, and abnormal nerve conduction, have been reported. Muscle and nerve biopsies have shown associated phospholipidosis. Drug-induced phospholipidosis may occur in other organ systems
+
+  [see Warnings and Precautions (
+
+   5.1,
+
+   5.11)].
+
+                        Assess muscle strength and deep tendon reflexes periodically in patients on long-term therapy with hydroxychloroquine sulfate tablets. Discontinue hydroxychloroquine sulfate tablets if muscle or nerve toxicity is suspected or demonstrated by tissue biopsy.

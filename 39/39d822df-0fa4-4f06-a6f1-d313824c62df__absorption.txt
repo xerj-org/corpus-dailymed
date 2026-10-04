@@ -1,0 +1,3 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | Absorption
+
+The estimated oral bioavailability of immediate release metoprolol is about 50% because of pre-systemic metabolism which is saturable leading to non-proportionate increase in the exposure with increased dose.

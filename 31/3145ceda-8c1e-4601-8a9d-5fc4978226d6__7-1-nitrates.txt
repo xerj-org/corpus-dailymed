@@ -1,0 +1,11 @@
+DailyMed 3145ceda-8c1e-4601-8a9d-5fc4978226d6 | Sildenafil | 7.1 Nitrates
+
+Administration of sildenafil tablets with nitric oxide donors such as organic nitrates or organic nitrites in any form is contraindicated. Consistent with its known effects on the nitric oxide/cGMP pathway, sildenafil tablets were shown to potentiate the hypotensive effects of nitrates
+
+  [see Dosage and Administration
+
+   (2.3), Contraindications 
+
+   (4.1),Clinical Pharmacology
+
+   (12.2)].

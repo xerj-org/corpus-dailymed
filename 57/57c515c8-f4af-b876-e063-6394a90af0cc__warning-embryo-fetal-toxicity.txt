@@ -1,0 +1,9 @@
+DailyMed 57c515c8-f4af-b876-e063-6394a90af0cc | IMPAVIDO | WARNING: EMBRYO-FETAL TOXICITY
+
+•
+   Pregnancy: IMPAVIDO is contraindicated in pregnancy. Based on animal data, miltefosine may cause fetal harm
+   [see Contraindications (4.1), Warnings and Precautions (5.1), and Use in Specific Populations (8.1)].
+
+                     •
+   Females of Reproductive Potential: Verify pregnancy status prior to initiating IMPAVIDO. To prevent pregnancy, females of reproductive potential should use effective contraception during treatment and for 5 months after the last dose
+   [see Dosage and Administration (2), Warnings and Precautions (5.1), Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].

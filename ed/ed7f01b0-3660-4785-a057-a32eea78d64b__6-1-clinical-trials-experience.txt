@@ -1,0 +1,793 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
+
+                           TSC-Associated Subependymal Giant Cell Astrocytoma (SEGA)
+
+                        The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-1) of AFINITOR in 117 patients with SEGA and TSC. The median age of patients was 9.5 years (0.8 to 26 years), 93% were white, and 57% were male. The median duration of blinded study treatment was 52 weeks (24 to 89 weeks) for patients receiving AFINITOR.
+
+                        The most common adverse reactions reported for AFINITOR (incidence ≥ 30%) were stomatitis and respiratory tract infection. The most common Grade 3-4 adverse reactions (incidence ≥ 2%) were stomatitis, pyrexia, pneumonia, gastroenteritis, aggression, agitation, and amenorrhea. The most common laboratory abnormalities (incidence ≥ 50%) were hypercholesterolemia and elevated partial thromboplastin time. The most common Grade 3-4 laboratory abnormality (incidence ≥ 3%) was neutropenia.
+
+                        There were no adverse reactions resulting in permanent discontinuation. Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 55% of AFINITOR-treated patients. The most common adverse reaction leading to AFINITOR dose adjustment was stomatitis.
+
+                        Adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo are reported in Table 17. Laboratory abnormalities are presented in Table 18.
+
+                           Table 17: Adverse Reactions Reported in ≥ 10% of AFINITOR-Treated Patients With TSC-Associated SEGA in EXIST-1
+
+                                  
+
+                                  |
+
+                                    AFINITOR
+
+                                    N = 78
+
+                                  |
+
+                                    Placebo
+
+                                    N = 39
+
+                                  |
+
+                                    All Grades
+
+                                    %
+
+                                  |
+
+                                    Grade 3-4
+
+                                    %
+
+                                  |
+
+                                    All Grades
+
+                                    %
+
+                                  |
+
+                                    Grade 3-4
+
+                                    %
+
+                                  |
+
+                                    Gastrointestinal
+
+                                  |
+
+                                 Stomatitisa
+
+                                  |
+                                 62
+
+                                  |
+                                 9f
+
+                                  |
+                                 26
+
+                                  |
+                                 3f
+
+                                  |
+
+                                 Vomiting
+
+                                  |
+                                 22
+
+                                  |
+                                 1f
+
+                                  |
+                                 13
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Diarrhea
+
+                                  |
+                                 17
+
+                                  |
+                                 0
+
+                                  |
+                                 5
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Constipation
+
+                                  |
+                                 10
+
+                                  |
+                                 0
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                    Infections
+
+                                  |
+
+                                 Respiratory tract infectionb
+
+                                  |
+                                 31
+
+                                  |
+                                 3
+
+                                  |
+                                 23
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Gastroenteritisc
+
+                                  |
+                                 10
+
+                                  |
+                                 5
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Pharyngitis streptococcal
+
+                                  |
+                                 10
+
+                                  |
+                                 0
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                    General
+
+                                  |
+
+                                 Pyrexia
+
+                                  |
+                                 23
+
+                                  |
+                                 6f
+
+                                  |
+                                 18
+
+                                  |
+                                 3f
+
+                                  |
+
+                                 Fatigue
+
+                                  |
+                                 14
+
+                                  |
+                                 0
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                    Psychiatric
+
+                                  |
+
+                                 Anxiety, aggression or other behavioral disturbanced
+
+                                  |
+                                 21
+
+                                  |
+                                 5f
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                    Skin and subcutaneous tissue
+
+                                  |
+
+                                 Rashe
+
+                                  |
+                                 21
+
+                                  |
+                                 0
+
+                                  |
+                                 8
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Acne
+
+                                  |
+                                 10
+
+                                  |
+                                 0
+
+                                  |
+                                 5
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Grading according to NCI CTCAE Version 3.0
+
+                                    aIncludes mouth ulceration, stomatitis, and lip ulceration.
+
+                                    bIncludes respiratory tract infection, upper respiratory tract infection, and respiratory tract infection viral.
+
+                                    cIncludes gastroenteritis, gastroenteritis viral, and gastrointestinal infection.
+
+                                    dIncludes agitation, anxiety, panic attack, aggression, abnormal behavior, and obsessive compulsive disorder.
+
+                                    eIncludes rash, rash generalized, rash macular, rash maculo-papular, rash papular, dermatitis allergic, and urticaria.
+
+                                    fNo Grade 4 adverse reactions were reported.
+
+                                  |
+
+                        Amenorrhea occurred in 17% of AFINITOR-treated females aged 10 to 55 years (3 of 18). For this same group of AFINITOR-treated females, the following menstrual abnormalities were reported: dysmenorrhea (6%), menorrhagia (6%), metrorrhagia (6%), and unspecified menstrual irregularity (6%).
+
+                        The following additional adverse reactions occurred in less than 10% of AFINITOR-treated patients: nausea (8%), pain in extremity (8%), insomnia (6%), pneumonia (6%), epistaxis (5%), hypersensitivity (3%), increased blood luteinizing hormone (LH) levels (1%), and pneumonitis (1%).
+
+                           Table 18: Selected Laboratory Abnormalities Reported in AFINITOR-Treated Patients With TSC-Associated SEGA in EXIST-1
+
+                                  
+
+                                  |
+
+                                    AFINITOR
+
+                                    N = 78
+
+                                  |
+
+                                    Placebo
+
+                                    N = 39
+
+                                  |
+
+                                  
+
+                                  |
+
+                                    All Grades
+
+                                    %
+
+                                  |
+
+                                    Grade 3-4
+
+                                    %
+
+                                  |
+
+                                    All Grades
+
+                                    %
+
+                                  |
+
+                                    Grade 3-4
+
+                                    %
+
+                                  |
+
+                                    Hematology
+
+                                  |
+
+                                 Elevated partial thromboplastin time
+
+                                  |
+                                 72
+
+                                  |
+                                 3a
+
+                                  |
+                                 44
+
+                                  |
+                                 5a
+
+                                  |
+
+                                 Neutropenia
+
+                                  |
+                                 46
+
+                                  |
+                                 9a
+
+                                  |
+                                 41
+
+                                  |
+                                 3a
+
+                                  |
+
+                                 Anemia
+
+                                  |
+                                 41
+
+                                  |
+                                 0
+
+                                  |
+                                 21
+
+                                  |
+                                 0
+
+                                  |
+
+                                    Chemistry
+
+                                  |
+
+                                 Hypercholesterolemia
+
+                                  |
+                                 81
+
+                                  |
+                                 0
+
+                                  |
+                                 39
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Elevated AST
+
+                                  |
+                                 33
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Hypertriglyceridemia
+
+                                  |
+                                 27
+
+                                  |
+                                 0
+
+                                  |
+                                 15
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Elevated ALT
+
+                                  |
+                                 18
+
+                                  |
+                                 0
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Hypophosphatemia
+
+                                  |
+                                 9
+
+                                  |
+                                 1a
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Grading according to NCI CTCAE Version 3.0.
+
+                                    aNo Grade 4 laboratory abnormalities were reported.
+
+                                  |
+
+                        Updated safety information from 111 patients treated with AFINITOR for a median duration of 47 months identified the following additional notable adverse reactions and selected laboratory abnormalities: decreased appetite (14%), hyperglycemia (13%), hypertension (11%), urinary tract infection (9%), decreased fibrinogen (8%), cellulitis (6%), abdominal pain (5%), decreased weight (5%), elevated creatinine (5%), and azoospermia (1%).
+
+                           TSC-Associated Partial-Onset Seizures
+
+                        The data described below are based on the 18-week Core phase of a randomized, double-blind, multicenter, three-arm trial (EXIST-3) comparing two everolimus trough levels (3-7 ng/mL and 9-15 ng/mL) to placebo as adjunctive antiepileptic therapy in patients with TSC-associated partial-onset seizures. A total of 366 patients were randomized to everolimus tablets for oral suspension low trough (LT) (n = 117), everolimus tablets for oral suspension high trough (HT) (n = 130), or placebo (n = 119). The median age of patients was 10 years (2.2 to 56 years; 28% were < 6 years, 31% were 6 to < 12 years, 22% were 12 to < 18 years, and 18% were ≥ 18 years), 65% were white, and 52% were male. Patients received between one and three concomitant antiepileptic drugs.
+
+                        The most common adverse reaction reported for everolimus tablets for oral suspension in both arms (incidence ≥ 30%) was stomatitis. The most common Grade 3-4 adverse reactions (incidence ≥ 2%) were stomatitis, pneumonia, and irregular menstruation. The most common laboratory abnormality (incidence ≥ 50%) was hypercholesterolemia. The most common Grade 3-4 laboratory abnormality (incidence ≥ 2%) was neutropenia.
+
+                        Adverse reactions leading to study drug discontinuation occurred in 5% and 3% of patients in the LT and HT arms, respectively. The most common adverse reaction (incidence ≥ 1%) leading to discontinuation was stomatitis. Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 24% and 35% of patients in the LT and HT arms, respectively. The most common adverse reactions (incidence ≥ 3%) leading to dose adjustments in the everolimus tablets for oral suspension arms were stomatitis, pneumonia, and pyrexia.
+
+                        Adverse reactions reported with an incidence of ≥ 10% for patients receiving everolimus tablets for oral suspension are presented in Table 19. Laboratory abnormalities are presented in Table 20.
+
+                           Table 19: Adverse Reactions Reported in ≥ 10% of Everolimus Tablets for Oral Suspension-Treated Patients With TSC-Associated Partial-Onset Seizures in EXIST-3
+
+                        The following additional adverse reactions occurred in < 10% of everolimus tablets for oral suspension treated patients (%everolimus tablets for oral suspension LT, % everolimus tablets for oral suspension HT): decreased appetite (9%, 7%), pneumonia (2%, 4%), aggression (2%, 0.8%), proteinuria (0%, 2%), menorrhagia (0.9%, 0.8%), and pneumonitis (0%, 0.8%).
+
+                           Table 20: Selected Laboratory Abnormalities Reported in ≥ 10% Everolimus Tablets for Oral Suspension-Treated Patients With TSC-Associated Partial-Onset Seizures
+
+                                  
+
+                                  |
+
+                                    Everolimus Tablets for Oral Suspension
+
+                                  |
+
+                                    Placebo
+
+                                  |
+
+                                    Target of 3-7 ng/mL
+
+                                    N = 117
+
+                                  |
+
+                                    Target of 9-15 ng/mL
+
+                                    N = 130
+
+                                  |
+
+                                    N = 119
+
+                                  |
+
+                                    All Grades
+
+                                    %
+
+                                  |
+
+                                    Grade 3-4
+
+                                    %
+
+                                  |
+
+                                    All Grades
+
+                                    %
+
+                                  |
+
+                                    Grade 3-4
+
+                                    %
+
+                                  |
+
+                                    All Grades
+
+                                    %
+
+                                  |
+
+                                    Grade 3-4
+
+                                    %
+
+                                  |
+
+                                    Hematology
+
+                                  |
+
+                                 Neutropenia
+
+                                  |
+                                 25
+
+                                  |
+                                 4a
+
+                                  |
+                                 37
+
+                                  |
+                                 6
+
+                                  |
+                                 23
+
+                                  |
+                                 7a
+
+                                  |
+
+                                 Anemia
+
+                                  |
+                                 27
+
+                                  |
+                                 0.9a
+
+                                  |
+                                 30
+
+                                  |
+                                 0
+
+                                  |
+                                 21
+
+                                  |
+                                 0.8a
+
+                                  |
+
+                                 Thrombocytopenia
+
+                                  |
+                                 12
+
+                                  |
+                                 0
+
+                                  |
+                                 15
+
+                                  |
+                                 0
+
+                                  |
+                                 6
+
+                                  |
+                                 0
+
+                                  |
+
+                                    Chemistry
+
+                                  |
+
+                                 Hypercholesterolemia
+
+                                  |
+                                 86
+
+                                  |
+                                 0
+
+                                  |
+                                 85
+
+                                  |
+                                 0.8a
+
+                                  |
+                                 58
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Hypertriglyceridemia
+
+                                  |
+                                 43
+
+                                  |
+                                 2a
+
+                                  |
+                                 39
+
+                                  |
+                                 2
+
+                                  |
+                                 22
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Increased ALT
+
+                                  |
+                                 17
+
+                                  |
+                                 0
+
+                                  |
+                                 22
+
+                                  |
+                                 0
+
+                                  |
+                                 6
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Increased AST
+
+                                  |
+                                 13
+
+                                  |
+                                 0
+
+                                  |
+                                 19
+
+                                  |
+                                 0
+
+                                  |
+                                 4
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Hyperglycemia
+
+                                  |
+                                 19
+
+                                  |
+                                 0
+
+                                  |
+                                 18
+
+                                  |
+                                 0
+
+                                  |
+                                 17
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Increased alkaline phosphatase
+
+                                  |
+                                 24
+
+                                  |
+                                 0
+
+                                  |
+                                 16
+
+                                  |
+                                 0
+
+                                  |
+                                 29
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Hypophosphatemia
+
+                                  |
+                                 9
+
+                                  |
+                                 0.9a
+
+                                  |
+                                 16
+
+                                  |
+                                 2
+
+                                  |
+                                 3
+
+                                  |
+                                 0
+
+                                  |
+
+                                 Grading according to NCI CTCAE version 4.03.
+
+                                    aNo Grade 4 laboratory abnormalities were reported.
+
+                                  |
+
+                        Updated safety information from 357 patients treated with everolimus tablets for oral suspension for a median duration of 48 weeks identified the following additional notable adverse reactions: hypersensitivity (0.6%), angioedema (0.3%), and ovarian cyst (0.3%).

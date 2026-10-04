@@ -1,0 +1,7 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 2.3 Administration
+
+Doxepin should be taken within 30 minutes of bedtime.
+
+                        To minimize the potential for next day effects, doxepin should not be taken within 3 hours of a meal [see Clinical Pharmacology (12.3)].
+
+                        The total doxepin dose should not exceed 6 mg per day.

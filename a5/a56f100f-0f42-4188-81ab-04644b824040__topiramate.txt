@@ -1,0 +1,3 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Topiramate
+
+A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg/day) alone and concomitantly with topiramate (150 mg/day). There was a 22% decrease in Cmax and a 25% reduction in AUC24 for glyburide during topiramate administration. Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxy-glyburide (M1) and 3-cis-hydroxyglyburide (M2), was also reduced by 13% and 15%, and Cmax was reduced by 18% and 25%, respectively. The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.

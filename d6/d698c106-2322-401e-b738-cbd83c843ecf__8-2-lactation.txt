@@ -1,0 +1,13 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 8.2 Lactation
+
+Risk Summary
+
+                        TRUQAP is used in combination with fulvestrant. Refer to the Full Prescribing Information of fulvestrant for lactation information.
+
+                        There are no data on the presence of capivasertib or its metabolites in human milk or their effects on milk production or the breastfed child. Capivasertib was detected in the plasma of suckling rat pups (see Data). Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with TRUQAP.
+
+                           Data
+
+                           Animal Data
+
+                        In a pre- and post-natal assessment, when capivasertib was administered to maternal rats during the lactation period, capivasertib was detected in plasma of suckling rat pups on lactation day 7 to 8 [see Use in Specific Populations (8.1)]. Plasma concentrations in pups were up to 0.6% of concentrations in maternal plasma in the 150 mg/kg/day group.

@@ -1,0 +1,78 @@
+DailyMed 10272dc1-657d-4798-a34a-b6341b92e560 | propofol | 2.7 Summary of Dosage Guidelines
+
+Dosages and rates of administration in the following table should be individualized and titrated to clinical response. Safety and dosing requirements for induction of anesthesia in pediatric patients have only been established for children 3 years of age or older. Safety and dosing requirements for the maintenance of anesthesia have only been established for children 2 months of age and older.
+
+                                     Table 1. Summary of Dosage Guidelines for Different Indications
+                                  |
+
+                                     INDICATION
+                                  |
+
+                                     DOSAGE AND ADMINISTRATION
+                                  |
+
+                                     Induction of General Anesthesia:
+                                  |
+                                 Healthy Adults Less Than 65 Years of Age: 2 mg/kg to 2.5 mg/kg until induction onset, as determined by clinical response of the patient.
+
+ Elderly, Debilitated, or ASA-PS III or IV Patients: 1 mg/kg to 1.5 mg/kg until induction onset, as determined by clinical response to the onset of anesthesia.
+
+ Cardiac Anesthesia: 0.5 mg/kg to 1.5 mg/kg until induction onset, as determined by clinical response of the patient.
+
+ Neurosurgical Patients: 1 mg/kg to 2 mg/kg until induction onset, as determined by clinical response of the patient.
+
+ Pediatric Patients – healthy, from 3 years to 16 years of age: 2.5 mg/kg to 3.5 mg/kg administered until induction onset, as determined by clinical response of the patient [see Pediatric Use (8.4) and Clinical Pharmacology (12.2)] . |
+
+                                     Maintenance of General Anesthesia:
+                                  |
+
+                                     Infusion
+
+ Healthy Adults Less Than 65 Years of Age: Infusion of 100 mcg/kg/min to 200 mcg/kg/min (6 mg/kg/hour to 12 mg/kg/hour).
+
+ Elderly, Debilitated, ASA-PS III or IV Patients: Infusion of 50 mcg/kg/min to 100 mcg/kg/min (3 mg/kg/hour to 6 mg/kg/hour).
+
+ Cardiac Anesthesia: Infusion of 25 mcg/kg/min to 100 mcg/kg/min
+
+ Neurosurgical Patients: Infusion of 100 mcg/kg/min to 200 mcg/kg/min (6 mg/kg/hour to 12 mg/kg/hour).
+
+ Pediatric Patients - healthy, from 2 months of age to 16 years of age: Infusion of 125 mcg/kg/min to 300 mcg/kg/min (7.5 mg/kg/hour to 18 mg/kg/hour). Following the first half hour of maintenance, if clinical signs of light anesthesia are not present, the infusion rate should be decreased [see Pediatric Use (8.4) and Clinical Pharmacology (12.2)]
+                                  |
+
+                                     Intermittent Bolus
+
+ Healthy Adults Less Than 65 Years of Age: Increments of 20 mg to 50 mg as needed. |
+
+                                     Initiation of
+
+                                     MAC Sedation:
+                                  |
+                                 Healthy Adults Less Than 65 Years of Age: Slow infusion or slow injection techniques are recommended to avoid apnea or hypotension. Most patients require an infusion of 100 mcg/kg/min to 150 mcg/kg/min (6 mg/kg/hour to 9 mg/kg/hour) for 3 minutes to 5 minutes or a slow injection of 0.5 mg/kg over 3 minutes to 5 minutes followed immediately by a maintenance infusion.
+
+ Elderly, Debilitated, Neurosurgical, or ASA-PS III or IV Patients: Most patients require dosages similar to healthy adults. Rapid boluses are to be avoided [see Warnings and Precautions (5.12)] . |
+
+                                     Maintenance of
+
+                                     MAC Sedation:
+                                  |
+                                 Healthy Adults Less Than 65 Years of Age: A variable rate infusion technique is preferable over an intermittent bolus technique. Most patients require an infusion of 25 mcg/kg/min to 75 mcg/kg/min (1.5 mg/kg/hour to 4.5 mg/kg/hour) or incremental bolus doses of 10 mg or 20 mg.
+
+ In Elderly, Debilitated, Neurosurgical, or ASA-PS III or IV Patients: Most patients require 80% of the usual adult dose. A rapid (single or repeated) bolus dose should not be used [see Warnings and Precautions (5.12)] . |
+
+                                     Initiation and
+
+                                     Maintenance of
+
+                                     ICU Sedation in
+
+                                     Intubated,
+
+                                     Mechanically
+
+                                     Ventilated
+
+                                     Adult Patients:
+                                  |
+                                 Adult Patients - Because of the residual effects of previous anesthetic or sedative agents, in most patients the initial infusion should be 5 mcg/kg/min (0.3 mg/kg/hour) for at least 5 minutes. Subsequent increments of 5 mcg/kg/min to 10 mcg/kg/min (0.3 mg/kg/hour to 0.6 mg/kg/hour) over 5 minutes to 10 minutes may be used until desired clinical effect is achieved. Maintenance rates of 5 mcg/kg/min to 50 mcg/kg/min (0.3 mg/kg/hour to 3 mg/kg/hour) or higher may be required. Administration should not exceed 4 mg/kg/hour unless the benefits outweigh the risks [see Warnings and Precautions (5.8)] .
+
+ Evaluation of clinical effect and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of propofol injectable emulsion required for sedation. The tubing and any unused propofol injectable emulsion drug product should be discarded after 12 hours because propofol injectable emulsion contains no preservatives and is capable of supporting growth of microorganisms [see Dosage and Administration (2.7) and Warnings and Precautions (5.2)] . |

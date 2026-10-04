@@ -1,0 +1,5 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 12.1 Mechanism of Action
+
+Deuruxolitinib is a Janus kinase (JAK) inhibitor. JAKs mediate the signaling of a number of cytokines and growth factors that are important for hematopoiesis and immune function. JAK signaling involves recruitment of STATs (signal transducers and activators of transcription) to cytokine receptors, activation and subsequent localization of STATs to the nucleus leading to modulation of gene expression.
+
+                        In an in vitro kinase activity assay, deuruxolitinib had greater inhibitory potency for JAK1, JAK2 and TYK2 relative to JAK3. The relevance of inhibition of JAK enzymes to therapeutic effectiveness is not currently known.

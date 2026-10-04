@@ -1,0 +1,17 @@
+DailyMed 52cf3ba9-0a7c-4809-830e-af93d1532726 | CARBAMAZEPINE | Other Drug Interactions
+
+Cyclophosphamide is an inactive prodrug and is converted to its active metabolite in part by CYP3A. The rate of metabolism and the leukopenic activity of cyclophosphamide are reportedly increased by chronic coadministration of CYP3A4 inducers. There is a potential for increased cyclophosphamide toxicity when coadministered with carbamazepine.
+
+                                 Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
+
+                                 Concomitant use of carbamazepine with olanzapine, dantrolene, or ibuprofen may increase plasma carbamazepine levels.
+
+                                 Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity.
+
+                                 Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
+
+                                 Concomitant use of carbamazepine with hormonal contraceptive products (e.g., oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased. Breakthrough bleeding and unintended pregnancies have been reported. Alternative or back-up methods of contraception should be considered.
+
+                                 Resistance to the neuromuscular blocking action of the nondepolarizing neuromuscular blocking agents pancuronium, vecuronium, rocuronium and cisatracurium has occurred in patients chronically administered carbamazepine. Whether or not carbamazepine has the same effect on other non-depolarizing agents is unknown. Patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected, and infusion rate requirements may be higher.
+
+                                 Concomitant use of carbamazepine with rivaroxaban, apixaban, dabigatran, and edoxaban (direct acting oral anticoagulants) is expected to result in decreased plasma concentrations of these anticoagulants that may be insufficient to achieve the intended therapeutic effect. In general, coadministration of carbamazepine with rivaroxaban, apixaban, dabigatran, and edoxaban should be avoided.

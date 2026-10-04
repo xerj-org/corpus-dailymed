@@ -1,0 +1,9 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 1.3 Heart Failure Post-Myocardial Infarction
+
+Ramipril capsules are indicated in stable patients who have demonstrated clinical signs of congestive heart failure within the first few days after sustaining acute myocardial infarction. Administration of ramipril capsules to such patients have been shown to decrease the risk of death (principally cardiovascular death) and to decrease the risks of failure-related hospitalization and progression to severe/resistant heart failure
+
+  [see
+
+   Clinical Studies (14.3)]
+
+  .

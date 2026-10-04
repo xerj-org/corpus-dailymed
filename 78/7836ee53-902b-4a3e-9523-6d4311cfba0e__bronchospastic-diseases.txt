@@ -1,0 +1,3 @@
+DailyMed 7836ee53-902b-4a3e-9523-6d4311cfba0e | Atenolol | Bronchospastic Diseases
+
+PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS. Because of its relative beta1 selectivity, however, atenolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment. Since beta1 selectivity is not absolute, the lowest possible dose of atenolol should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available. If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.

@@ -1,0 +1,94 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 2.2 Dosage Modifications for Adverse Reactions
+
+Monitor aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline phosphatase (ALP), creatine phosphokinase (CPK), amylase, and lipase prior to the start of NIKTIMVO therapy, every 2 weeks for the first month, and every 1 to 2 months thereafter until abnormalities are resolved.
+
+For recommended NIKTIMVO dosage modifications due to adverse reactions, see Table 1.
+
+                           Table 1: Recommended NIKTIMVO Dosage Modifications for Adverse Reactions
+
+                                 AST = aspartate aminotransferase; ALT = alanine aminotransferase; ULN = upper limit of normal; ALP = alkaline phosphatase; CPK = creatine phosphokinase.
+
+                                  |
+
+                                    Adverse Reaction
+                                  |
+
+                                     SeverityGraded per National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v5.
+
+ 
+                                  |
+
+                                    Dosage Modification
+                                  |
+
+                                 Infusion-related reactions [see Warnings and Precautions (5.1)]  |
+                                 Grade 1 or 2  |
+
+                                       Temporarily interrupt the infusion until resolution or decrease infusion rate by 50%.
+
+                                       Initiate symptomatic treatment (e.g., antihistamines and antipyretics).
+
+                                       For subsequent infusions, premedicate and resume the infusion at 50% of the prior infusion rate.
+
+                                  |
+
+                                 Grade 3 or 4   |
+                                 Permanently discontinue NIKTIMVO.  |
+
+                                 Elevation of AST or ALT (on the day of dosing) [see Adverse Reactions (6.1)]  |
+                                 Grade 3 with total bilirubin ≤ Grade 1
+
+                                  |
+                                 Withhold NIKTIMVO until recovery to Grade 2, then resume NIKTIMVO at 0.2 mg/kg (maximum 23 mg) every 2 weeks.
+
+                                  |
+
+                                 Elevation of AST or ALT (regardless of the time of the reaction) [see Adverse Reactions (6.1)]
+
+                                  |
+                                 ALT or AST ≥ 3 times ULN with total bilirubin ≥ 2 times ULN and ALP < 2 times ULN
+
+                                  |
+                                 Withhold NIKTIMVO and investigate for drug-induced liver injury. If confirmed, permanently discontinue NIKTIMVO.
+
+                                  |
+
+                                 Grade 4 |
+                                 Permanently discontinue NIKTIMVO. |
+
+                                 Elevation of CPK, amylase, or lipase [see Adverse Reactions (6.1)]
+                                  |
+                                 ≥ Grade 3
+
+                                  |
+
+                                       If diagnostic evaluation results show no evidence of end-organ damage, continue NIKTIMVO without dose reduction.
+
+                                       If diagnostic evaluation results show evidence of end-organ damage, permanently discontinue NIKTIMVO.
+
+                                  |
+
+                                 Symptomatic ≥ Grade 3
+
+                                  |
+                                 Permanently discontinue NIKTIMVO.
+
+                                  |
+
+                                 Other Nonhematologic Adverse Reactions [see Adverse Reactions (6.1)]
+                                  |
+                                 Grade 3 |
+                                 Withhold NIKTIMVO until recovery to Grade 2:
+
+                                       If delayed by ≤ 4 weeks from the planned infusion, resume NIKTIMVO at 0.2 mg/kg (maximum 23 mg) every 2 weeks.
+
+                                       If delayed by > 4 weeks from the planned infusion, permanently discontinue NIKTIMVO.
+
+                                  |
+
+                                 Grade 4
+
+                                  |
+                                 Permanently discontinue NIKTIMVO.
+
+                                  |

@@ -1,0 +1,239 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 2.5 Dosage Modifications for Adverse Reactions
+
+The recommended dose reductions for adverse reactions are listed in Table 2. Permanently discontinue TRUQAP if unable to tolerate the second dose reduction.
+
+                           Table 2: Recommended Dose Reductions of TRUQAP for Adverse Reactions
+
+                                    TRUQAP
+                                  |
+
+                                    Dose and Schedule
+                                  |
+
+                                    First dose reduction
+
+                                  |
+
+                                    320 mg twice daily for 4 days followed by 3 days off
+
+                                  |
+
+                                    Second dose reduction
+
+                                  |
+
+                                    200 mg twice daily for 4 days followed by 3 days off
+
+                                  |
+
+                        The recommended dosage modifications for adverse reactions are provided in Table 3.
+
+                           Table 3: Recommended Dosage Modifications of TRUQAP for Adverse Reactions
+
+                                    Adverse Reaction
+
+                                  |
+
+                                    SeverityGrades are listed grading according to Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0.
+
+                                  |
+
+                                    TRUQAP Dosage Modification
+
+                                  |
+
+                                    HyperglycemiaFor the management of suspected or confirmed diabetic ketoacidosis (DKA) [see
+                                             Warnings and Precautions (5.1)
+                                          .]
+
+                                    (Fasting Glucose [FG])
+
+                                    Note: Considerations should also be given to increases in HbA1C (>7%).
+
+                                       [see Warnings and Precautions (5.1)]
+
+                                  |
+
+                                    FG > ULN‑160 mg/dL
+
+                                    or
+
+                                    FG > ULN‑8.9 mmol/L
+
+                                  |
+
+                                    Consider initiation or intensification of oral anti-diabetic treatment.
+
+                                  |
+
+                                    FG 161‑250 mg/dL
+
+                                    or
+
+                                    FG 9‑13.9 mmol/L
+
+                                  |
+
+                                    Withhold TRUQAP until FG decrease ≤ 160 mg/dL (or ≤ 8.9 mmol/L).
+
+                                    If recovery occurs in ≤ 28 days, resume TRUQAP at same dose.
+
+                                    If recovery occurs in > 28 days, resume TRUQAP at one lower dose.
+
+                                  |
+
+                                    FG 251‑500 mg/dL
+
+                                    or
+
+                                    FG 14‑27.8 mmol/L
+
+                                  |
+
+                                    Withhold TRUQAP until FG decrease ≤ 160 mg/dL (or ≤ 8.9 mmol/L).
+
+                                    If recovery occurs in ≤ 28 days, resume TRUQAP at one lower dose.
+
+                                    If recovery occurs in > 28 days, permanently discontinue TRUQAP.
+
+                                  |
+
+                                    FG > 500 mg/dL
+
+                                    or
+
+                                    FG > 27.8 mmol/L
+
+                                    or
+
+                                    life-threatening sequelae of hyperglycemia at any FG level
+
+                                  |
+
+                                    Withhold TRUQAP.
+
+                                    For life-threatening sequelae of hyperglycemia or if FG persists at ≥ 500 mg/dL after 24 hours, permanently discontinue TRUQAP.
+
+                                    If FG ≤ 500 mg/dL (or ≤ 27.8 mmol/L) within 24 hours, then follow the guidance in the table for the relevant grade.
+
+                                  |
+
+                                    Diarrhea
+
+                                       [see
+
+                                          Warnings and Precautions (5.2)
+
+                                       ]
+
+                                  |
+
+                                    Grade 2
+
+                                  |
+
+                                    Withhold TRUQAP until recovery to ≤ Grade 1.
+
+                                    If recovery occurs in ≤ 28 days, resume TRUQAP at same dose or one lower dose as clinically indicated.
+
+                                    If recovery occurs in > 28 days, resume at one lower dose as clinically indicated.
+
+                                    For recurrence, reduce TRUQAP by one lower dose.
+
+                                  |
+
+                                    Grade 3
+
+                                  |
+
+                                    Withhold TRUQAP until recovery to ≤ Grade 1. If recovery occurs in ≤ 28 days, resume TRUQAP at same dose or one lower dose as clinically indicated.
+
+                                    If recovery occurs in > 28 days, permanently discontinue TRUQAP.
+
+                                  |
+
+                                    Grade 4
+
+                                  |
+
+                                    Permanently discontinue TRUQAP.
+
+                                  |
+
+                                    Cutaneous Adverse Reactions
+
+                                       [see
+
+                                          Warnings and Precautions (5.3)
+
+                                       ]
+
+                                  |
+
+                                    Grade 2
+
+                                  |
+
+                                    Withhold TRUQAP until recovery to ≤ Grade 1.
+
+                                    Resume TRUQAP at the same dose.
+
+                                    Persistent or recurrent: reduce TRUQAP by one lower dose.
+
+                                  |
+
+                                    Grade 3
+
+                                  |
+
+                                    Withhold TRUQAP until recovery to ≤ Grade 1.
+
+                                    If recovery occurs in ≤ 28 days, resume TRUQAP at same dose.
+
+                                    If recovery occurs in > 28 days, resume TRUQAP at one lower dose.
+
+                                    For recurrent Grade 3, permanently discontinue TRUQAP.
+
+                                  |
+
+                                    Grade 4
+
+                                  |
+
+                                    Permanently discontinue TRUQAP.
+
+                                  |
+
+                                    Other Adverse Reactions
+
+                                       [see Adverse Reactions (6.1)]
+
+                                  |
+
+                                    Grade 2
+
+                                  |
+
+                                    Withhold TRUQAP until recovery to ≤ Grade 1.
+
+                                    Resume TRUQAP at the same dose.
+
+                                  |
+
+                                    Grade 3
+
+                                  |
+
+                                    Withhold TRUQAP until recovery to ≤ Grade 1. If recovery occurs in ≤ 28 days, resume TRUQAP at same dose.
+
+                                    If recovery occurs in > 28 days, resume TRUQAP at one lower dose.
+
+                                  |
+
+                                    Grade 4
+
+                                  |
+
+                                    Permanently discontinue TRUQAP.
+
+                                  |

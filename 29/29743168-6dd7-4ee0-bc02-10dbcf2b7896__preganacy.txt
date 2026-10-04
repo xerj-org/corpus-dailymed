@@ -1,0 +1,7 @@
+DailyMed 29743168-6dd7-4ee0-bc02-10dbcf2b7896 | Foscarnet Sodium | Preganacy
+
+There are no adequate and well-controlled studies of foscarnet sodium injection in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+                           Animal Data: Foscarnet sodium injection did not adversely affect fertility and general reproductive performance in rats. The results of peri- and post-natal studies in rats were also negative. However, these studies used exposures that are inadequate to define the potential for impairment of fertility at human drug exposure levels.
+
+                        Daily subcutaneous doses up to 75 mg/kg administered to female rats prior to and during mating, during gestation, and 21 days post-partum caused a slight increase (< 5%) in the number of skeletal anomalies compared with the control group. Daily subcutaneous doses up to 75 mg/kg administered to rabbits and 150 mg/kg administered to rats during gestation caused an increase in the frequency of skeletal anomalies/variations. On the basis of estimated drug exposure (as measured by AUC), the 150 mg/kg dose in rats and 75 mg/kg dose in rabbits were approximately one-eighth (rat) and one-third (rabbit) the estimated maximal daily human exposure. These studies are inadequate to define the potential teratogenicity at levels to which women will be exposed.

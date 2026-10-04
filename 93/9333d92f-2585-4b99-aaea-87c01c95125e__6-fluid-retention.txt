@@ -1,0 +1,3 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | 6. Fluid retention
+
+Because estrogens may cause some degree of fluid retention, patients with conditions that might be influenced by this factor, such as asthma, epilepsy, migraine, and cardiac or renal dysfunction, warrant careful observation when estrogens are prescribed.

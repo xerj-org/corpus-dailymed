@@ -1,0 +1,9 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 5.5 Caution with Intramuscular Administration
+
+Caution should be taken when administering Ertapenem for injection intramuscularly to avoid inadvertent injection into a blood vessel
+
+  [see
+
+   Dosage and Administration (2.7)]
+
+  .

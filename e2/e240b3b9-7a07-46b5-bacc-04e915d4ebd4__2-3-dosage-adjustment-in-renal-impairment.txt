@@ -1,0 +1,5 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 2.3 Dosage Adjustment in Renal Impairment
+
+Acromegaly
+
+                        The recommended starting dosage of lanreotide injection in acromegalic patients with moderate or severe renal impairment (creatinine clearance less than 60 mL/min) is 60 mg via the deep subcutaneous route at 4-week intervals for 3 months followed by dosage adjustment [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].

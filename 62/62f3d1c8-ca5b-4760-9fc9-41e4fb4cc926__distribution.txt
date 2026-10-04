@@ -1,0 +1,5 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Distribution
+
+The equivalence of levetiracetam injection and the oral formulation was demonstrated in a bioavailability study of 17 healthy volunteers. In this study, levetiracetam 1500 mg was diluted in 100 mL 0.9% sterile saline solution and was infused over 15 minutes. The selected infusion rate provided plasma concentrations of levetiracetam at the end of the infusion period similar to those achieved at Tmax after an equivalent oral dose. It is demonstrated that levetiracetam 1500 mg intravenous infusion is equivalent to levetiracetam 3 x 500 mg oral tablets. The time independent pharmacokinetic profile of levetiracetam was demonstrated following 1500 mg intravenous infusion for 4 days with BID dosing. The AUC(0-12) at steady-state was equivalent to AUCinf following an equivalent single dose.
+
+                              Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.

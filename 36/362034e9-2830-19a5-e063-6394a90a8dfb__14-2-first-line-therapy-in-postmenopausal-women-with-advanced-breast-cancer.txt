@@ -1,0 +1,190 @@
+DailyMed 362034e9-2830-19a5-e063-6394a90a8dfb | ANASTROZOLE | 14.2 First-Line Therapy in Postmenopausal Women with Advanced Breast Cancer
+
+Two double-blind, controlled clinical studies of similar design (0030, a North American study and 0027, a predominately European study) were conducted to assess the efficacy of anastrozole tablets compared with tamoxifen as first-line therapy for hormone receptor positive or hormone receptor unknown locally advanced or metastatic breast cancer in postmenopausal women. A total of 1021 patients between the ages of 30 and 92 years old were randomized to receive trial treatment. Patients were randomized to receive 1 mg of anastrozole tablets once daily or 20 mg of tamoxifen once daily. The primary end points for both trials were time to tumor progression, objective tumor response rate, and safety.
+
+                        Demographics and other baseline characteristics, including patients who had measurable and no measurable disease, patients who were given previous adjuvant therapy, the site of metastatic disease and ethnic origin were similar for the two treatment groups for both trials. The following table summarizes the hormone receptor status at entry for all randomized patients in trials 0030 and 0027.
+
+                           Table 11 – Demographic and Other Baseline Characteristics
+
+                                  |
+                                 Number (%) of subjects |
+
+                                  |
+                                 Trial 0030 |
+                                 Trial 0027 |
+
+                                 Receptor status |
+                                 Anastrozole tablets
+
+  1 mg
+
+  (N=171)
+     |
+                                 Tamoxifen
+
+  20 mg
+
+  (N=182)
+     |
+                                 Anastrozole tablets
+
+  1 mg
+
+  (N=340)
+     |
+                                 Tamoxifen
+
+  20 mg
+
+  (N=328)
+     |
+
+                                 ER
+
+     ER=Estrogen receptor
+
+and/or PgR
+
+     PgR=Progesterone receptor
+
+                                  |
+                                 151 (88.3) |
+                                 162 (89.0) |
+                                 154 (45.3) |
+                                 144 (43.9) |
+
+                                 ER
+
+     unknown, PgR
+
+     Unknown
+
+     |
+                                 19 (11.1) |
+                                 20 (11.0) |
+                                 185 (54.4) |
+                                 183 (55.8) |
+
+                        For the primary endpoints, trial 0030 showed that anastrozole tablets had a statistically significant advantage over tamoxifen (p=0.006) for time to tumor progression; objective tumor response rates were similar for anastrozole tablets and tamoxifen. Trial 0027 showed that anastrozole tablets and tamoxifen had similar objective tumor response rates and time to tumor progression (see
+
+  Table 12and
+
+  Figures 5and
+
+  6).
+
+                        Table 12 below summarizes the results of trial 0030 and trial 0027 for the primary efficacy endpoints.
+
+                           Table 12 – Efficacy Results of First–line Treatment
+
+                                 Endpoint |
+                                 Trial 0030 |
+                                 Trial 0027 |
+
+                                  |
+                                 Anastrozole tablets
+
+  1 mg
+
+  (N=171)
+     |
+                                 Tamoxifen
+
+  20 mg
+
+  (N=182)
+     |
+                                 Anastrozole tablets
+
+  1 mg
+
+  (N=340)
+     |
+                                 Tamoxifen
+
+  20 mg
+
+  (N=328)
+     |
+
+                                 Time to progression (TTP) |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                   Median TTP (months) |
+                                 11.1 |
+                                 5.6 |
+                                 8.2 |
+                                 8.3 |
+
+                                 Number (%) of subjects who progressed |
+                                 114 (67%) |
+                                 138 (76%) |
+                                 249 (73%) |
+                                 247 (75%) |
+
+                                 Hazard ratio (LCL
+
+     LCL=Lower Confidence Limit
+
+)
+
+     Tamoxifen:Anastrozole tablets
+
+                                  |
+                                 1.42 (1.15) |
+                                 1.01 (0.87) |
+
+                                 2-sided 95% CI
+
+     CI=Confidence Interval
+
+                                  |
+                                 (1.11, 1.82) |
+                                 (0.85, 1.20) |
+
+                                 p-value
+
+     Two-sided Log Rank
+
+                                  |
+                                 0.006 |
+                                 0.920 |
+
+                                 Best objective response rate |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                 Number (%) of subjects with CR
+
+     CR=Complete Response
+
++ PR
+
+     PR=Partial Response
+
+                                  |
+                                 36 (21.1%) |
+                                 31 (17.0%) |
+                                 112 (32.9%) |
+                                 107 (32.6%) |
+
+                                 Odds Ratio (LCL
+
+     )
+
+     Anastrozole tablets:Tamoxifen
+
+                                  |
+                                 1.30 (0.83) |
+                                 1.01 (0.77) |
+
+                           Figure 5 — Kaplan-Meier probability of time to disease progression for all randomized patients (intent-to-treat) in Trial 0030
+
+                           Figure 6 — Kaplan-Meier probability of time to progression for all randomized patients (intent-to-treat) in Trial 0027
+
+                        Results from the secondary endpoints were supportive of the results of the primary efficacy endpoints. There were too few deaths occurring across treatment groups of both trials to draw conclusions on overall survival differences.

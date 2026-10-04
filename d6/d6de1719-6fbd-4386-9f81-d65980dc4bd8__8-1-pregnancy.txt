@@ -1,0 +1,33 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 8.1 Pregnancy
+
+Risk Summary
+
+                            
+
+                        The limited available data on rivaroxaban in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes. Use rivaroxaban with caution in pregnant patients because of the potential for pregnancy related hemorrhage and/or emergent delivery. The anticoagulant effect of rivaroxaban cannot be reliably monitored with standard laboratory testing. Consider the benefits and risks of rivaroxaban for the mother and possible risks to the fetus when prescribing rivaroxaban to a pregnant woman [see Warnings and Precautions (5.2, 5.7)].
+
+                        Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications. The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+                        Pregnancy is a risk factor for venous thromboembolism and that risk is increased in women with inherited or acquired thrombophilias. Pregnant women with thromboembolic disease have an increased risk of maternal complications including pre-eclampsia. Maternal thromboembolic disease increases the risk for intrauterine growth restriction, placental abruption and early and late pregnancy loss.
+
+                           Fetal/Neonatal Adverse Reactions
+
+                        Based on the pharmacologic activity of Factor Xa inhibitors and the potential to cross the placenta, bleeding may occur at any site in the fetus and/or neonate.
+
+                           Labor or Delivery
+
+                        All patients receiving anticoagulants, including pregnant women, are at risk for bleeding and this risk may be increased during labor or delivery [see Warnings and Precautions (5.7)]. The risk of bleeding should be balanced with the risk of thrombotic events when considering the use of rivaroxaban in this setting.
+
+                           Data
+
+                           Human Data
+
+                        There are no adequate or well-controlled studies of rivaroxaban in pregnant women, and dosing for pregnant women has not been established. Post-marketing experience is currently insufficient to determine a rivaroxaban-associated risk for major birth defects or miscarriage. In an in vitro placenta perfusion model, unbound rivaroxaban was rapidly transferred across the human placenta.
+
+                           Animal Data
+
+                        Rivaroxaban crosses the placenta in animals. Rivaroxaban increased fetal toxicity (increased resorptions, decreased number of live fetuses, and decreased fetal body weight) when pregnant rabbits were given oral doses of ≥10 mg/kg rivaroxaban during the period of organogenesis. This dose corresponds to about 4 times the human exposure of unbound drug, based on AUC comparisons at the highest recommended human dose of 20 mg/day. Fetal body weights decreased when pregnant rats were given oral doses of 120 mg/kg during the period of organogenesis. This dose corresponds to about 14 times the human exposure of unbound drug. In rats, peripartal maternal bleeding and maternal and fetal death occurred at the rivaroxaban dose of 40 mg/kg (about 6 times maximum human exposure of the unbound drug at the human dose of 20 mg/day).

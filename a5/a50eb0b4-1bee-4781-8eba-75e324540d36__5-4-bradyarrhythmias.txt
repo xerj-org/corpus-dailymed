@@ -1,0 +1,13 @@
+DailyMed a50eb0b4-1bee-4781-8eba-75e324540d36 | Ticagrelor | 5.4 Bradyarrhythmias
+
+Ticagrelor can cause ventricular pauses
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  . Bradyarrhythmias including AV block have been reported in the postmarketing setting. Patients with a history of sick sinus syndrome, 2
+
+  ndor 3
+
+  rddegree AV block or bradycardia-related syncope not protected by a pacemaker were excluded from clinical studies and may be at increased risk of developing bradyarrhythmias with ticagrelor.

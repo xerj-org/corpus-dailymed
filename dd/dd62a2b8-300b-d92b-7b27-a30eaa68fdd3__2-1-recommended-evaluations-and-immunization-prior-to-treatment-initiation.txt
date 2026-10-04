@@ -1,0 +1,13 @@
+DailyMed dd62a2b8-300b-d92b-7b27-a30eaa68fdd3 | Tofacitinib | 2.1 Recommended Evaluations and Immunization Prior to Treatment Initiation
+
+Prior to initiating tofacitinib extended-release tablets, consider performing the following:
+
+                           Active and latent tuberculosis (TB) infection evaluation: If the patient has latent TB, treat for TB prior to tofacitinib extended-release tablets treatment [see Warnings and Precautions (5.1)].
+
+                           Viral hepatitis screening in accordance with clinical guidelines [see Warnings and Precautions (5.1)].
+
+                           A complete blood count: Avoid initiation of tofacitinib extended-release tablets treatment in patients with a lymphocyte count less than 500 cells/mm3, absolute neutrophil count less than 1,000 cells/mm3, or hemoglobin level less than 9 g/dL [see Warnings and Precautions (5.9)].
+
+                           Baseline hepatic function evaluation: Tofacitinib extended-release tablets are not recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+                           Update immunizations according to current immunization guidelines. The interval between live vaccinations and initiation of tofacitinib extended-release tablets should be in accordance with current vaccination guidelines regarding immunosuppressive agents [see Warnings and Precautions (5.10)].

@@ -1,0 +1,3 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 5.9 Hypothyroidism
+
+Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with imatinib mesylate. Monitor TSH levels in such patients.

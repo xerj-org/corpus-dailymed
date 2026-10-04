@@ -1,0 +1,3 @@
+DailyMed b6f7426f-157a-43c9-a3d3-9501a65c61c5 | DIPHENHYDRAMINE | Pregnancy
+
+Pregnancy Category B. Reproduction studies have been performed in rats and rabbits at doses up to 5 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to diphenhydramine hydrochloride. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

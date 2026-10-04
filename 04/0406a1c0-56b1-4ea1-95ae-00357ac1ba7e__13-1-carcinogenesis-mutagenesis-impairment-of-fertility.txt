@@ -1,0 +1,9 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Dapagliflozin did not induce tumors in either mice or rats at any of the doses evaluated in 2-year carcinogenicity studies. Oral doses in mice consisted of 5, 15, and 40 mg/kg/day in males and 2, 10, and 20 mg/kg/day in females, and oral doses in rats were 0.5, 2, and 10 mg/kg/day for both males and females. The highest doses evaluated in mice were approximately 72-times (males) and 105-times (females) the clinical dose of 10 mg per day, based on AUC exposure. In rats, the highest dose was approximately 131-times (males) and 186-times (females) the clinical dose of 10 mg per day, based on AUC exposure.
+
+                        Dapagliflozin was negative in the Ames mutagenicity assay and was positive in a series of in vitro clastogenicity assays in the presence of S9 activation and at concentrations greater than or equal to 100 µg/mL. Dapagliflozin was negative for clastogenicity in a series of in vivo studies evaluating micronuclei or DNA repair in rats at exposure multiples greater than 2100-times the clinical dose.
+
+                        There was no carcinogenicity or mutagenicity signal in animal studies, suggesting that dapagliflozin does not represent a genotoxic risk to humans.
+
+                        Dapagliflozin had no effects on mating, fertility, or early embryonic development in treated male or female rats at exposure multiples less than or equal to 1,708-times and 998-times the maximum recommended human dose in males and females, respectively.

@@ -1,0 +1,5 @@
+DailyMed 1c2716c0-16e2-460d-8639-70d36f14714a | Paroxetine | 8.5 Geriatric Use
+
+In premarketing clinical trials with paroxetine tablets, 17% of patients treated with paroxetine tablets (approximately 700) were 65 years of age or older. Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; however, no overall differences in safety or effectiveness were observed between elderly and younger patients [see Dosage andAdministration (2.4), Clinical Pharmacology (12.3)].
+
+                        SSRIs including paroxetine tablets, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings andPrecautions (5.7)].

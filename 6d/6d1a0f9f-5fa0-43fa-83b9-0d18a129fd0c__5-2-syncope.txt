@@ -1,0 +1,9 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 5.2 Syncope
+
+Syncope, sometimes associated with bradycardia, was observed in association with treatment with ropinirole in both patients with Parkinson’s disease and patients with RLS. In controlled clinical trials in patients with Parkinson’s disease, syncope was observed more frequently in patients receiving ropinirole tablets than in patients receiving placebo (early Parkinson’s disease without levodopa [L-dopa]: ropinirole tablets 12%, placebo 1%; advanced Parkinson’s disease: ropinirole tablets 3%, placebo 2%). Syncope was reported in 1% of patients treated with ropinirole tablets for RLS in 12-week, placebo-controlled clinical trials compared with 0.2% of patients treated with placebo [see Adverse Reactions (6.1)]. Most cases occurred more than 4 weeks after initiation of therapy with ropinirole tablets, and were usually associated with a recent increase in dose.
+
+                        Because the trialsconducted with ropinirole tablets excluded patients with significant cardiovascular disease, patients with significant cardiovascular disease should be treated with caution.
+
+                        Approximately 4% of patients with Parkinson’s disease enrolled in Phase 1 trials had syncope following a 1-mg dose of ropinirole tablets. In 2 trials in patients with RLS that used a forced-titration regimen and orthostatic challenge with intensive blood pressure monitoring, 2% of RLS patients treated with ropinirole tablets compared with 0% of patients receiving placebo reported syncope.
+
+                        In Phase 1 trials including healthy volunteers, the incidence of syncope was 2%. Of note, 1 subject with syncope developed hypotension, bradycardia, and sinus arrest; the subject recovered spontaneously without intervention.

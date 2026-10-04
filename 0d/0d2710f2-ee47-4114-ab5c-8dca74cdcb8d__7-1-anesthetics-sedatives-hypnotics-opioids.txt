@@ -1,0 +1,3 @@
+DailyMed 0d2710f2-ee47-4114-ab5c-8dca74cdcb8d | Dexmedetomidine; Dexmedetomidine in Dextrose | 7.1 Anesthetics, Sedatives, Hypnotics, Opioids
+
+Co-administration of dexmedetomidine with anesthetics, sedatives, hypnotics, and opioids is likely to lead to an enhancement of effects. Specific studies have confirmed these effects with sevoflurane, isoflurane, propofol, alfentanil, and midazolam. No pharmacokinetic interactions between dexmedetomidine and isoflurane, propofol, alfentanil and midazolam have been demonstrated. However, due to possible pharmacodynamic interactions, when co-administered with dexmedetomidine, a reduction in dosage of dexmedetomidine or the concomitant anesthetic, sedative, hypnotic or opioid may be required.

@@ -1,0 +1,5 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 8.5 Geriatric Use
+
+No overall differences in safety or effectiveness were observed between elderly patients with acromegaly compared with younger patients and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out. Studies 3 and 4, conducted in patients with neuroendocrine tumors, did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+
+                        Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

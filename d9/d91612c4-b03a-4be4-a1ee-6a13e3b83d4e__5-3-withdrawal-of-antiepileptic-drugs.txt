@@ -1,0 +1,3 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 5.3 Withdrawal of Antiepileptic Drugs
+
+As with most AEDs, ZTALMY should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4)]. If withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.

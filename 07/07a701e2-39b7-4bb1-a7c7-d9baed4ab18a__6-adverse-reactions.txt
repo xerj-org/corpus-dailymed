@@ -1,0 +1,27 @@
+DailyMed 07a701e2-39b7-4bb1-a7c7-d9baed4ab18a | Guanfacine Extended-Release | 6 ADVERSE REACTIONS
+
+The following serious adverse reactions are described elsewhere in the labeling:
+
+                     Hypotension, bradycardia, and syncope [see
+                         Warnings and Precautions ( 5.1
+
+                        )
+                        ]
+
+                     Sedation and somnolence [see
+                         Warnings and Precautions ( 5.2
+
+                        )
+                        ]
+
+                     Cardiac conduction abnormalities [see
+                         Warnings and Precautions ( 5.3
+
+                        )
+                        ]
+
+                     Rebound Hypertension [see
+                         Warnings and Precautions ( 5.4
+
+                        )
+                        ]

@@ -1,0 +1,9 @@
+DailyMed 89eb2ffc-02d9-4b46-b480-e9b10af33027 | TOFACITINIB CITRATE | 8.6 Renal Impairment
+
+Moderate and Severe Renal Impairment
+
+                        Tofacitinib-treated patients with moderate renal impairment (RI) (CLcr ≥30 and ≤50 mL/minute) or severe RI (<30 mL/minute) had greater tofacitinib blood concentrations than tofacitinib-treated patients with normal renal function (CLcr >80 mL/minute). The recommended dosage of tofacitinib in patients with moderate or severe RI (including those with severe RI who are undergoing hemodialysis) is lower than the recommended dosage in patients with normal renal function [see Dosage and Administration (2.3, 2.4, 2.5)].
+
+                           Mild Renal Impairment
+
+                        The recommended dosage in patients with mild RI (CLcr >50 and ≤80 mL/minute) is the same as patients with normal renal function.

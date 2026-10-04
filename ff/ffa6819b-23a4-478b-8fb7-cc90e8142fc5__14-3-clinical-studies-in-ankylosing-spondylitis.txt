@@ -1,0 +1,398 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 14.3 Clinical Studies in Ankylosing Spondylitis
+
+The ankylosing spondylitis (AS) clinical development program with tofacitinib tablets included one placebo-controlled trial (Study AS-I) in adults with active AS. Patients had active disease as defined by both Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) and back pain score (BASDAI question 2) of greater or equal to 4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
+
+                           Trial Design
+
+                        Study AS-I was a randomized, double-blind, placebo-controlled, 48-week clinical trial in 269 adult patients who had an inadequate response (inadequate clinical response or intolerance) to at least 2 NSAIDs. Although Study AS-I included some patients who are TNF blocker-naïve, tofacitinib tablets are not approved for use in TNF blocker-naïve patients
+
+  [see
+
+   Indications and Usage (1.3)].
+
+  Patients were randomized and treated with tofacitinib tablets 5 mg twice daily or placebo for 16 weeks of blinded treatment and then all received treatment of tofacitinib tablets 5 mg twice daily for additional 32 weeks. The primary endpoint was to evaluate the proportion of patients who achieved an ASAS20 response at Week 16.
+
+                        Approximately 7% and 21% of patients used concomitant methotrexate or sulfasalazine, respectively from baseline to Week 16. Twenty-two percent of patients had an inadequate response to 1 or 2 TNF blockers.
+
+                           Clinical Response
+
+                        Patients treated with tofacitinib tablets 5 mg twice daily achieved greater improvements in ASAS20 and ASAS40 responses compared to patients treated with placebo at Week 16 (Table 18). Consistent results were observed in the subgroup of patients who had an inadequate response to TNF blockers for both the ASAS20 (primary endpoint) and ASAS40 (secondary endpoint) at Week 16 (Table 18).
+
+                            
+
+                           Table 18: ASAS20 and ASAS40 Responses in Adults with Active AS at Week 16 in Study AS-I
+
+                                  
+
+                                  |
+
+                                    Placebo
+
+                                  |
+
+                                    Tofacitinib Tablets 5 mg
+
+                                    Twice Daily
+
+                                  |
+
+                                    Difference from Placebo (95% CI)
+
+                                  |
+
+                                 All patients (N)
+
+                                  |
+                                 N=136
+
+                                  |
+                                 N=133
+
+                                  |
+                                  
+
+                                  |
+
+                                 ASAS20 response*, %
+
+                                  |
+                                 29
+
+                                  |
+                                 56
+
+                                  |
+                                 27 (16, 38)**
+
+                                  |
+
+                                 ASAS40 response*, %
+
+                                  |
+                                 13
+
+                                  |
+                                 41
+
+                                  |
+                                 28 (18, 38)**
+
+                                  |
+
+                                 TNFi-IR patients (N)
+
+                                  |
+                                 N=30
+
+                                  |
+                                 N=29
+
+                                  |
+                                  
+
+                                  |
+
+                                 ASAS20 response, %
+
+                                  |
+                                 17
+
+                                  |
+                                 41
+
+                                  |
+                                 25 (2, 47)
+
+                                  |
+
+                                 ASAS40 response, %
+
+                                  |
+                                 7
+
+                                  |
+                                 28
+
+                                  |
+                                 21 (2, 39)
+
+                                  |
+
+                            
+
+                        * type I error-controlled.
+
+                        ** p-value <0.0001.
+
+                        Abbreviations: CI = confidence interval; TNFi-IR = tumor necrosis factor inhibitor inadequate response.
+
+                        The improvements in the components of the ASAS response and other measures of disease activity were greater in the tofacitinib tablets 5 mg twice daily group compared to the placebo group as shown in Table 19.
+
+                              Table 19: ASAS Components and Other Measures of Disease Activity in Adults with Active AS at Week 16 in Study AS-I
+
+                                  
+
+                                  |
+
+                                    Placebo (N=136)
+
+                                  |
+
+                                    Tofacitinib Tablets 5 mg Twice Daily (N=133)
+
+                                  |
+
+                                  
+
+                                  |
+
+                                    Baseline
+
+                                    (mean)
+
+                                  |
+
+                                    Week 16
+
+                                    (LSM change from
+
+                                    Baseline)
+
+      g
+
+                                  |
+
+                                    Baseline
+
+                                    (mean)
+
+                                  |
+
+                                    Week 16
+
+                                    (LSM change from
+
+                                    Baseline)
+
+      g
+
+                                  |
+
+                                    Difference from
+
+                                    Placebo
+
+                                    (95% CI)
+
+      g
+
+                                  |
+
+                                 ASAS Components
+
+                                  |
+
+                                 - Patient Global Assessment of Disease Activity (0 to 10)
+
+     a,*
+
+                                  |
+                                 7.0
+
+                                  |
+                                 -1.0
+
+                                  |
+                                 6.9
+
+                                  |
+                                 -2.5
+
+                                  |
+                                 -1.5
+
+  (-2.00, -0.97)**
+
+                                  |
+
+                                 - Total spinal pain (0 to 10)
+
+     a,*
+
+                                  |
+                                 6.9
+
+                                  |
+                                 -1.1
+
+                                  |
+                                 6.9
+
+                                  |
+                                 -2.6
+
+                                  |
+                                 -1.5
+
+  (-2.00, -1.03)**
+
+                                  |
+
+                                 - BASFI (0 to 10)
+
+     b,*
+
+                                  |
+                                 5.9
+
+                                  |
+                                 -0.8
+
+                                  |
+                                 5.8
+
+                                  |
+                                 -2.0
+
+                                  |
+                                 -1.2
+
+  (-1.64, -0.79)**
+
+                                  |
+
+                                 - Inflammation
+
+  (0 to 10)
+
+     c,*
+
+                                  |
+                                 6.8
+
+                                  |
+                                 -1.1
+
+                                  |
+                                 6.6
+
+                                  |
+                                 -2.8
+
+                                  |
+                                 -1.7
+
+  (-2.13, -1.18)**
+
+                                  |
+
+                                 BASDAI Score
+
+     d
+
+                                  |
+                                 6.5
+
+                                  |
+                                 -1.2
+
+                                  |
+                                 6.4
+
+                                  |
+                                 -2.6
+
+                                  |
+                                 -1.4
+
+  (-1.86, -0.98)**
+
+                                  |
+
+                                 BASMI
+
+     e,*
+
+                                  |
+                                 4.4
+
+                                  |
+                                 -0.1
+
+                                  |
+                                 4.5
+
+                                  |
+                                 -0.6
+
+                                  |
+                                 -0.5
+
+  (-0.66, -0.36)**
+
+                                  |
+
+                                 hsCRP
+
+     f,*
+
+  (mg/dL)
+
+                                  |
+                                 1.8
+
+                                  |
+                                 -0.1
+
+                                  |
+                                 1.6
+
+                                  |
+                                 -1.1
+
+                                  |
+                                 -0.9
+
+  (-1.17, -0.69)**
+
+                                  |
+
+  * type I error-controlled.
+
+                        ** p <0.0001.
+
+                           aMeasured on a numerical rating scale with 0 = not active or no pain, 10 = very active or most severe pain.
+
+                           bBath Ankylosing Spondylitis Functional Index measured on a numerical rating scale with 0 = easy and 10 = impossible.
+
+                           cInflammation is the mean of two patient-reported stiffness self-assessments in BASDAI.
+
+                           dBASDAI total score.
+
+                           eBath Ankylosing Spondylitis Metrology Index.
+
+  fHigh sensitivity C-reactive protein.
+
+                           gEstimates are generated based on a mixed model for repeated measures using both on-treatment and off-treatment data.
+
+                        LSM = least squares mean.
+
+                        The percentage of patients with active AS who achieved ASAS20 response by visit is shown in Figure 6.
+
+                           Figure 6: Percentage of ASAS20 Responders Over Time Up to Week 16 in Patients with Active AS in Study AS-I
+
+                            
+
+                         
+
+                            
+
+                            
+
+                        SE = standard error.
+
+                        Patients with missing data were treated as non-responders.
+
+                           Other Health-Related Outcomes
+
+                            Patients treated with tofacitinib tablets 5 mg twice daily achieved greater improvements from baseline in Ankylosing Spondylitis Quality of Life (ASQoL) (-4.0 vs -2.0) compared to patients treated with placebo at Week 16.

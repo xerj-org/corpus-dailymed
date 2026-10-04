@@ -1,0 +1,52 @@
+DailyMed cbe5bd6a-f36a-4557-82d8-ef4e49d310e9 | Temazepam | WARNINGS
+
+Risks from Concomitant Use with Opioids
+
+                  Concomitant use of benzodiazepines, including temazepam capsules, and opioids may result in profound sedation, respiratory depression, coma, and death. Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
+
+                  Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone. If a decision is made to prescribe temazepam capsules concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation. In patients already receiving an opioid analgesic, prescribe a lower initial dose of temazepam capsules than indicated in the absence of an opioid and titrate based on clinical response. If an opioid is initiated in a patient already taking temazepam capsules, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+                  Advise both patients and caregivers about the risks of respiratory depression and sedation when temazepam capsules are used with opioids. Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see
+                      PRECAUTIONS, Drug Interactions).
+
+                     Abuse, Misuse, and Addiction
+
+                  The use of benzodiazepines, including temazepam capsules, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death. Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see
+                     DRUG ABUSE AND DEPENDENCE, Abuse).
+
+                  Before prescribing temazepam capsules and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool). Use of temazepam capsules, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of temazepam capsules along with monitoring for signs and symptoms of abuse, misuse, and addiction. Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug. If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+                     Dependence and Withdrawal Reactions
+
+                  To reduce the risk of withdrawal reactions, use a gradual taper to discontinue temazepam capsules or reduce the dosage (a patient-specific plan should be used to taper the dose) (see
+                     DOSAGE AND ADMINISTRATION, Discontinuation or Dosage Reduction of Temazepam Capsules).
+
+                  Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+                  Acute Withdrawal Reactions
+
+                  The continued use of benzodiazepines, including temazepam capsules, may lead to clinically significant physical dependence. Abrupt discontinuation or rapid dosage reduction of temazepam capsules after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see
+                     DRUG ABUSE AND DEPENDENCE, Dependence).
+
+                  Protracted Withdrawal Syndrome
+
+                  In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see
+                     DRUG ABUSE AND DEPENDENCE, Dependence).
+
+                  Sleep disturbance may be the presenting manifestation of an underlying physical and/or psychiatric disorder. Consequently, a decision to initiate symptomatic treatment of insomnia should only be made after the patient has been carefully evaluated. The failure of insomnia to remit after 7 to 10 days of treatment may indicate the presence of a primary psychiatric and/or medical illness that should be evaluated. Worsening of insomnia may be the consequence of an unrecognized psychiatric or physical disorder as may the emergence of new abnormalities of thinking or behavior. Such abnormalities have also been reported to occur in association with the use of drugs with central nervous system depressant activity, including those of the benzodiazepine class. Because some of the worrisome adverse effects of benzodiazepines, including temazepam capsules, appear to be dose related (see
+                     PRECAUTIONS andDOSAGE AND ADMINISTRATION), it is important to use the lowest possible effective dose. Elderly patients are especially at risk.
+
+                  Some of these changes may be characterized by decreased inhibition, e.g., aggressiveness and extroversion that seem out of character, similar to that seen with alcohol. Other kinds of behavioral changes can also occur, for example, bizarre behavior, agitation, hallucinations, and depersonalization. Complex behaviors such as “sleep-driving” (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported. These events can occur in sedative-hypnotic-naïve as well as in sedative-hypnotic-experienced persons. Although behaviors such as “sleep-driving” may occur with temazepam capsules alone at therapeutic doses, the use of alcohol and other CNS depressants with temazepam capsules appears to increase the risk of such behaviors, as does the use of temazepam capsules at doses exceeding the maximum recommended dose. Due to the risk to the patient and the community, discontinuation of temazepam capsules should be strongly considered for patients who report a “sleep-driving” episode. Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic. As with “sleep-driving”, patients usually do not remember these events. Amnesia and other neuro-psychiatric symptoms may occur unpredictably. In primarily depressed patients, worsening of depression, including suicidal thinking has been reported in association with the use of sedative/hypnotics.
+
+                  It can rarely be determined with certainty whether a particular instance of the abnormal behaviors listed above is drug induced, spontaneous in origin, or a result of an underlying psychiatric or physical disorder. Nonetheless, the emergence of any new behavioral sign or symptom of concern requires careful and immediate evaluation.
+
+                  Because temazepam capsules can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at higher risk of falls.
+
+                     Severe Anaphylactic and Anaphylactoid Reactions
+
+                  Rare cases of angioedema involving the tongue, glottis or larynx have been reported in patients after taking the first or subsequent doses of sedative-hypnotics, including temazepam capsules. Some patients have had additional symptoms such as dyspnea, throat closing, or nausea and vomiting that suggest anaphylaxis. Some patients have required medical therapy in the emergency department. If angioedema involves the tongue, glottis or larynx, airway obstruction may occur and be fatal. Patients who develop angioedema after treatment with temazepam capsules should not be rechallenged with the drug.
+
+                     Neonatal Sedation and Withdrawal Syndrome
+
+ Use of temazepam capsules late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate ( see
+                     PRECAUTIONS, Pregnancy). Monitor neonates exposed to temazepam capsules during pregnancy or labor for signs of sedation and monitor neonates exposed to temazepam capsules during pregnancy for signs of withdrawal; manage these neonates accordingly.

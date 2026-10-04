@@ -1,0 +1,14 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 6 ADVERSE REACTIONS
+
+Systemic and local corticosteroid use may result in the following:
+
+                     Epistaxis, nasal discomfort, nasal ulcerations, Candida albicans infection, and impaired wound healing [see Warnings and Precautions (5.1)]
+
+                     Eye Disorders [see Warnings and Precautions (5.2)]
+
+                     Hypercorticism, adrenal suppression, and growth reduction [see Warnings and Precautions (5.5)
+                           (5.6)
+                        ,
+                           Use in Specific Populations (8.4)]
+
+                     Immunosuppression [see Warnings and Precautions (5.4)]

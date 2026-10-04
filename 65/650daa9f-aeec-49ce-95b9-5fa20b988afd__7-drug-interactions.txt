@@ -1,0 +1,4 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | 7. DRUG INTERACTIONS
+
+There have been no formal studies of the interaction of AMELUZ with other drugs. It is possible that concomitant use of other known photosensitizing drugs, such as St. John’s wort, griseofulvin, thiazide diuretics, sulfonylureas, phenothiazines, sulphonamides, quinolones and tetracyclines, may enhance the phototoxic reaction to PDT [see Warnings and Precautions (5.3)
+                     ].

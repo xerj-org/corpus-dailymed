@@ -1,0 +1,23 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 14.5 Social Anxiety Disorder
+
+The effectiveness of sertraline hydrochloride in the treatment of SAD (also known as social phobia) was established in two multicenter, randomized, placebo-controlled studies (Study SAD-1 and SAD-2) of adult outpatients who met DSM-IV criteria for SAD.
+
+                        Study SAD-1 was a 12-week, flexible dose study comparing sertraline hydrochloride (50 to 200 mg/day), n=211, to placebo, n=204, in which sertraline hydrochloride was initiated at 25 mg/day for the first week, then titrated to the maximum tolerated dose in 50 mg increments biweekly. Study outcomes were assessed by the:
+
+                           (1) Liebowitz Social Anxiety Scale (LSAS), a 24-item clinician administered instrument that measures fear, anxiety, and avoidance of social and performance situations, and
+
+                           (2) Proportion of responders as defined by the Clinical Global Impression of Improvement (CGI-I) criterion of CGI-I < 2 (very much or much improved).
+
+                        Sertraline hydrochloride was statistically significantly more effective than placebo as measured by the LSAS and the percentage of responders.
+
+                        Study SAD-2 was a 20-week, flexible dose study that compared sertraline hydrochloride (50 to 200 mg/day), n=135, to placebo, n=69. Sertraline hydrochloride was titrated to the maximum tolerated dose in 50 mg increments every 3 weeks. Study outcome was assessed by the:
+
+                           (1) Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations,
+
+                           (2) Marks Fear Questionnaire Social Phobia Subscale (FQ-SPS), a 5-item patient-rated instrument that measures change in the severity of phobic avoidance and distress, and
+
+                           (3) CGI-I responder criterion of < 2.
+
+                        Sertraline hydrochloride was shown to be statistically significantly more effective than placebo as measured by the BSPS total score and fear, avoidance and physiologic factor scores, as well as the FQ-SPS total score, and to have statistically significantly more responders than placebo as defined by the CGI-I. Subgroup analyses did not suggest differences in treatment outcome on the basis of gender. There was insufficient information to determine the effect of race or age on outcome.
+
+                        In Study SAD-3, patients meeting DSM-IV criteria for SAD who had responded while assigned to sertraline hydrochloride (CGI-I of 1 or 2) during a 20-week placebo-controlled trial on sertraline hydrochloride 50 to 200 mg/day were randomized to continuation of sertraline hydrochloride or to substitution of placebo for up to 24 weeks of observation for relapse. Relapse was defined as ≥ 2 point increase in the Clinical Global Impression Severity of Illness (CGI-S) score compared to baseline or study discontinuation due to lack of efficacy. Patients receiving sertraline hydrochloride continuation treatment experienced a statistically significantly lower relapse rate during this 24-week period than patients randomized to placebo substitution.

@@ -1,0 +1,23 @@
+DailyMed aea9a3ad-c244-42be-9cd3-5df83fe2b522 | DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE | 8.1 Pregnancy
+
+Risk Summary
+
+                        Available data from published randomized controlled trials and case reports over several decades of use with intravenously administered dexmedetomidine during pregnancy have not identified a drug-associated risk of major birth defects and miscarriage; however, the reported exposures occurred after the first trimester. Most of the available data are based on studies with exposures that occurred at the time of caesarean section delivery, and these studies have not identified an adverse effect on maternal outcomes or infant Apgar scores. Available data indicate that dexmedetomidine crosses the placenta.
+
+                        In animal reproduction studies, fetal toxicity that lower fetal viability and reduced live fetuses occurred with subcutaneous administration of dexmedetomidine to pregnant rats during organogenesis at doses 1.8 times the maximum recommended human dose (MRHD) of 17.8 mcg/kg/day.
+
+                        Developmental toxicity (low pup weights and adult offspring weights, decreased F1 grip strength, increased early implantation loss and decreased viability of second-generation offspring) occurred when pregnant rats were subcutaneously administered dexmedetomidine at doses less than the clinical dose from late pregnancy through lactation and weaning (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        Increased post-implantation losses and reduced live fetuses in the presence of maternal toxicity (i.e. decreased body weight) were noted in a rat embryo-fetal development study in which pregnant dams were administered subcutaneous doses of dexmedetomidine 200 mcg/kg/day (equivalent to 1.8 times the intravenous MRHD of 17.8 mcg/kg/day based on body surface area [BSA]) during the period of organogenesis (Gestation Day [GD] 6 to 15). No malformations were reported.
+
+                        No malformations or embryo-fetal toxicity were noted in a rabbit embryo-fetal development study in which pregnant does were administered dexmedetomidine intravenously at doses of up to 96 mcg/kg/day (approximately half the human exposure at the MRHD based on AUC) during the period of organogenesis (GD 6 to 18).
+
+                        Reduced pup and adult offspring birth weights, and grip strength were reported in a rat developmental toxicology study in which pregnant females were administered dexmedetomidine subcutaneously at doses of 8 mcg/kg/day (0.07 times the MRHD based on BSA) during late pregnancy through lactation and weaning (GD 16 to postnatal day [PND] 25). Decreased viability of second generation offspring and an increase in early implantation loss along with delayed motor development occurred in the 32 mcg/kg/day group (equivalent to less than the clinical dose based on BSA) when first generation offspring were allowed to mate. This study limited dosing to hard palate closure (GD 15 to 18) through weaning instead of dosing from implantation (GD 6 to 7) to weaning (PND 21).
+
+                        In a study in the pregnant rat, placental transfer of dexmedetomidine was observed when radiolabeled dexmedetomidine was administered subcutaneously.

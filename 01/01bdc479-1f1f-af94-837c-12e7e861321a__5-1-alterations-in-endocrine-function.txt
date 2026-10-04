@@ -1,0 +1,9 @@
+DailyMed 01bdc479-1f1f-af94-837c-12e7e861321a | Prednisone delayed release | 5.1 Alterations in Endocrine Function
+
+Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia. Monitor patients for these conditions with chronic use.
+
+                        Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for corticosteroid insufficiency after withdrawal of treatment. Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted. If the patient is receiving corticosteroids already, dosage may have to be increased.
+
+                        Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently. Mineralocorticoid supplementation is of particular importance in infancy.
+
+                        Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients. Changes in thyroid status of the patient may necessitate adjustment in dosage.

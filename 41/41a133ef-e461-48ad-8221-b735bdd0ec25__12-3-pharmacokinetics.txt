@@ -1,0 +1,3 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 12.3 Pharmacokinetics
+
+Apixaban demonstrates linear pharmacokinetics with dose-proportional increases in exposure for oral doses up to 10 mg.

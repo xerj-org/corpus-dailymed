@@ -1,0 +1,5 @@
+DailyMed 686d0088-ac61-41df-8909-ae12f7957644 | ARIPIPRAZOLE | 5.12 Potential for Cognitive and Motor Impairment
+
+Aripiprazole, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills. For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (aripiprazole incidence, placebo incidence): in adult patients (n=2,467) treated with oral aripiprazole (11%, 6%) and in pediatric patients ages 6 to 17 years (n=611; 24%, 6%). Somnolence (including sedation) led to discontinuation in 0.3% (8/2,467) of adult patients and 3% (20/732) of pediatric patients (6 to 18 years) on oral aripiprazole in short-term, placebo-controlled trials.
+
+                        Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with aripiprazole does not affect them adversely.

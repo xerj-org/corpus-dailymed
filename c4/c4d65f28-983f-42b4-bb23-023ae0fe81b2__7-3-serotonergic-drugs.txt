@@ -1,0 +1,17 @@
+DailyMed c4d65f28-983f-42b4-bb23-023ae0fe81b2 | Xadago | 7.3 Serotonergic Drugs
+
+Concomitant use of XADAGO with SNRIs; triazolopyridine, tricyclic or tetracyclic antidepressants; cyclobenzaprine (a skeletal muscle relaxant that is a tricyclic antidepressant derivative); or St. John's wort is contraindicated
+
+  [see
+
+   Warnings and Precautions (5.2)]
+
+  . At least 14 days should elapse between discontinuation of XADAGO and initiation of treatment with these drugs.
+
+                        Monitor patients for symptoms of serotonin syndrome if SSRIs are used by patients treated with XADAGO
+
+  [see
+
+   Warnings and Precautions (5.2)]
+
+  .

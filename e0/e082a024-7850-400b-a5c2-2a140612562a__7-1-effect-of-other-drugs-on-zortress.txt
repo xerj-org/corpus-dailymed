@@ -1,0 +1,25 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 7.1 Effect of Other Drugs on ZORTRESS
+
+Everolimus is mainly metabolized by CYP3A in the liver and to some extent in the intestinal wall and is a substrate for the multidrug efflux pump, P-glycoprotein (P-gp). Therefore, absorption and subsequent elimination of orally absorbed everolimus may be influenced by medicinal products that affect CYP3A and/or P-gp.
+
+                           Strong or Moderate Inhibitors of CYP3A
+
+                        Inhibitors of CYP3A may increase concentrations of everolimus and result in more adverse events. Avoid concomitant treatment with strong inhibitors of CYP3A. When used with moderate inhibitors of CYP3A, everolimus blood concentrations should be monitored and a dose reduction made as necessary [see Clinical Pharmacology (12.3)].
+
+                           Strong or Moderate Inducers of CYP3A
+
+                        Inducers of CYP3A may decrease concentrations of everolimus and make it less effective. Avoid concomitant treatment with strong inducers of CYP3A. When used with moderate inducers of CYP3A, everolimus blood concentrations should be monitored and a dose increase made as necessary [see Clinical Pharmacology (12.3)].
+
+                           Cyclosporine (P-gp/weak CYP3A Inhibitor)
+
+                        The Cmax and area under the curve (AUC) of everolimus were significantly increased by cyclosporine [see Clinical Pharmacology (12.3)]. Dose adjustment of Zortress might be needed if the cyclosporine dose is altered [see Dosage and Administration (2.5)]. Zortress had a clinically minor influence on cyclosporine pharmacokinetics in transplant patients receiving cyclosporine (Neoral).
+
+                        Zortress should be taken concomitantly with cyclosporine in kidney transplant patients. Everolimus concentrations may decrease when doses of cyclosporine are reduced, unless the Zortress dose is increased [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
+
+                           Cannabidiol
+
+                        The blood levels of everolimus may increase upon concomitant use with cannabidiol. When cannabidiol and Zortress are used concomitantly, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity. A dose reduction of Zortress should be considered as needed [see Dosage and Administration (2.4), Warnings and Precautions (5.22), Clinical Pharmacology (12.3)].
+
+                           Tacrolimus
+
+                        There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of Zortress is not necessary when Zortress is used concomitantly with tacrolimus.

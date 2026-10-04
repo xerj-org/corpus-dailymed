@@ -1,0 +1,3 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 5.7 Extravasation and Injection Site Reactions
+
+Injection site reactions have been reported in clinical studies with GADAVIST [see Adverse Reactions (6.1)]. Extravasation into tissues during GADAVIST administration may result in moderate irritation [see Nonclinical Toxicology (13.2)]. Ensure catheter and venous patency before the injection of GADAVIST.

@@ -1,0 +1,9 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 1.3 Community Acquired Pneumonia
+
+Ertapenem for injection is indicated for the treatment of adult patients and pediatric patients (3 months of age and older) with community acquired pneumonia due to
+
+  Streptococcus pneumoniae(penicillin susceptible isolates only) including cases with concurrent bacteremia,
+
+  Haemophilus influenzae(beta-lactamase negative isolates only), or
+
+  Moraxella catarrhalis.

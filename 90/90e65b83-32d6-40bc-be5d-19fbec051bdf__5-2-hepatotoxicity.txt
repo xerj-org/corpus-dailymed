@@ -1,0 +1,3 @@
+DailyMed 90e65b83-32d6-40bc-be5d-19fbec051bdf | AZITHROMYCIN | 5.2 Hepatotoxicity
+
+Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure have been reported, some of which have resulted in death. Discontinue azithromycin immediately if signs and symptoms of hepatitis occur.

@@ -1,0 +1,3 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Use in Patients with Hepatic Impairment
+
+Since chloroquine phosphate tablets are known to concentrate in the liver, it should be used with caution in patients with hepatic disease or alcoholism or in conjunction with known hepatotoxic drugs.

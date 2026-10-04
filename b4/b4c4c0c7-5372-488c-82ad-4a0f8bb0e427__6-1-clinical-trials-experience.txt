@@ -1,0 +1,135 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 6.1 Clinical Trials Experience
+
+The pre-marketing development program for doxepin tablets included doxepin HCl exposures in 1017 subjects (580 insomnia patients and 437 healthy subjects) from 12 studies conducted in the United States. 863 of these subjects (580 insomnia patients and 283 healthy subjects) participated in six randomized, placebo-controlled efficacy studies with doxepin doses of 1 mg, 3 mg, and 6 mg for up to 3-months in duration.
+
+                        Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. However, data from the doxepin studies provide the physician with a basis for estimating the relative contributions of drug and non-drug factors to adverse reaction incidence rates in the populations studied.
+
+                           Associated with Discontinuation of Treatment
+
+                        The percentage of subjects discontinuing Phase 1, 2, and 3 trials for an adverse reaction was 0.6% in the placebo group compared to 0.4%, 1.0%, and 0.7% in the doxepin 1 mg, 3 mg, and 6 mg groups, respectively. No reaction that resulted in discontinuation occurred at a rate greater than 0.5%.
+
+                           Adverse Reactions Observed at an Incidence of ≥ 2% in Controlled Trials
+
+                        Table 1 shows the incidence of treatment-emergent adverse reactions from three long-term (28 to 85 days) placebo-controlled studies of doxepin in adult (N=221) and elderly (N=494) subjects with chronic insomnia.
+
+                        Reactions reported by Investigators were classified using a modified MedDRA dictionary of preferred terms for purposes of establishing incidence. The table includes only reactions that occurred in 2% or more of subjects who received doxepin 3 mg or 6 mg in which the incidence in subjects treated with doxepin was greater than the incidence in placebo-treated subjects.
+
+                             Table 1 Incidence (%) of Treatment-Emergent Adverse Reactions in Long-term Placebo-Controlled Clinical Trials
+
+                                     System Organ Class Preferred Term*
+
+                                  |
+
+                                     Placebo
+
+                                     (N=278)
+
+                                  |
+
+                                     Doxepin
+
+                                     3 mg
+
+                                     (N=157)
+
+                                  |
+
+                                     Doxepin
+
+                                     6 mg
+
+                                     (N=203)
+
+                                  |
+
+                                  Nervous System Disorders
+
+                                  |
+
+                                  |
+
+                                  Somnolence/Sedation
+
+                                  |
+                                  4
+
+                                  |
+                                  6
+
+                                  |
+                                  9
+
+                                  |
+
+                                  Infections and Infestations
+
+                                  |
+                                  |
+
+                                  Upper Respiratory Tract Infection/Nasopharyngitis
+
+                                  |
+                                  2
+
+                                  |
+                                  4
+
+                                  |
+                                  4
+
+                                  |
+
+                                  Gastroenteritis
+
+                                  |
+                                  0
+
+                                  |
+                                  2
+
+                                  |
+                                  0
+
+                                  |
+
+                                  Gastrointestinal Disorders
+
+                                  |
+                                  |
+
+                                  Nausea
+
+                                  |
+                                  1
+
+                                  |
+                                  2
+
+                                  |
+                                  2
+
+                                  |
+
+                                  Vascular Disorders
+
+                                  |
+                                  |
+
+                                   Hypertension
+
+                                  |
+                                  0
+
+                                  |
+                                  3
+
+                                  |
+                                  <1
+
+                                  |
+
+                                  *Includes reactions that occurred at a rate of ≥ 2% in any Doxepin-treated group and at a higher rate than placebo.
+
+                                  |
+
+                        The most common treatment-emergent adverse reaction in the placebo and each of the doxepin dose groups was somnolence/sedation.

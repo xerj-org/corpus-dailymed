@@ -1,0 +1,3 @@
+DailyMed 82f1445c-b2c6-445a-82cf-ba8825fac776 | NovolinN | 10 OVERDOSAGE
+
+Excess insulin administration may cause hypoglycemia and hypokalemia.  Mild episodes of hypoglycemia usually can be treated with oral glucose.  Adjustments in drug dosage, meal patterns, or exercise may be needed.  More severe episodes with coma, seizure, or neurologic impairment can be treated with intramuscular or subcutaneous glucagon or intravenous glucose.  Sustained carbohydrate intake and observation may be necessary because hypoglycemia may recur after apparent clinical recovery. Hypokalemia must be corrected appropriately [see Warnings and Precautions (5.3, 5.6)].

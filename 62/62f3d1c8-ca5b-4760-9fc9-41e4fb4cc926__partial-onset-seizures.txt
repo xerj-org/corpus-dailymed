@@ -1,0 +1,5 @@
+DailyMed 62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926 | Levetiracetam | Partial-Onset Seizures
+
+In clinical trials of oral levetiracetam, daily doses of 1000 mg, 2000 mg, and 3000 mg, given as twice-daily dosing, were shown to be effective. Although in some studies there was a tendency toward greater response with higher dose [see Clinical Studies (14.1)], a consistent increase in response with increased dose has not been shown.
+
+                              Treatment should be initiated with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily). Additional dosing increments may be given (1000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3000 mg. Doses greater than 3000 mg/day have been used in open-label studies with levetiracetam tablets for periods of 6 months and longer. There is no evidence that doses greater than 3000 mg/day confer additional benefit.

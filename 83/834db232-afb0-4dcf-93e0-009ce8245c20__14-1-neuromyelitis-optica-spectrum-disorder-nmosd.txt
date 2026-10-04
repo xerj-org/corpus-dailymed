@@ -1,0 +1,64 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 14.1 Neuromyelitis Optica Spectrum Disorder (NMOSD)
+
+The efficacy of UPLIZNA for the treatment of NMOSD was established in Study 1 (NCT02200770), a randomized (3:1), double-blind, placebo-controlled trial that enrolled 213 patients with NMOSD who were anti-AQP4 antibody positive and 17 who were anti-AQP4 antibody negative.
+
+                        Patients met the following eligibility criteria:
+
+                           A history of one or more relapses that required rescue therapy within the year prior to screening, or 2 or more relapses that required rescue therapy in 2 years prior to screening.
+
+                           Expanded Disability Status Scale (EDSS) score of 7.5 or less. Patients with an EDSS score of 8.0 were eligible if they were deemed capable of participating.
+
+                           Patients were excluded if previously treated with immunosuppressant therapies within an interval specified for each such therapy.
+
+                        The use of immunosuppressants during the blinded phase of the trial was prohibited.
+
+                        The use of oral or intravenous corticosteroids during the blinded phase of the trial was prohibited, with the exception of premedication for investigational treatment and treatment for a relapse.
+
+                        Of the 213 enrolled anti-AQP4 antibody positive patients, a total of 161 were randomized to receive treatment with UPLIZNA, and 52 were randomized to receive placebo.
+
+                        The baseline demographic and disease characteristics were balanced between the treatment groups. Females accounted for 94% of the study population. Fifty-two percent of patients were White, 21% Asian, and 9% Black or African American. The mean age was 43 years (range 18 to 74 years). The mean EDSS score was 4.0. The number of relapses in the two years prior to randomization was 2 or more in 83% of the patients.
+
+                        UPLIZNA was administered according to the recommended dosage regimen [see
+                              Dosage and Administration (2.4)].
+
+                        All potential relapses were evaluated by a blinded, independent, adjudication committee, who determined whether the relapse met protocol-defined criteria. Patients who experienced an adjudicated relapse in the randomized-controlled period (RCP), or who completed the Day 197 visit without a relapse, exited the RCP.
+
+                        The primary efficacy endpoint was the time to the onset of the first adjudicated relapse on or before Day 197.
+
+                        The time to the first adjudicated relapse was significantly longer in patients treated with UPLIZNA compared to patients who received placebo (relative risk reduction 73%; hazard ratio: 0.272; p < 0.0001). In the anti-AQP4 antibody positive population there was a 77.3% relative reduction (hazard ratio: 0.227, p < 0.0001). There was no evidence of a benefit in patients who were anti-AQP4 antibody negative.
+
+                           Table 6. Efficacy Results in Study 1 in anti-AQP4 Antibody Positive NMOSD Patients
+
+                                  |
+                                 Treatment Group |
+
+                                 UPLIZNA
+
+ N = 161 |
+                                 Placebo
+
+ N = 52 |
+
+                                    Time to Adjudication Committee-Determined Relapse (Primary Efficacy Endpoint)
+                                  |
+
+                                 Number (%) of patients with relapse |
+                                 18 (11.2%) |
+                                 22 (42.3%) |
+
+                                 Hazard ratio (95% CI)Cox regression method, with placebo as the reference group.
+
+                                  |
+                                 0.227 (0.121, 0.423) |
+
+                                 p-value
+                                  |
+                                 < 0.0001 |
+
+                           Figure 1. Kaplan-Meier Plot of Time to First Adjudication Committee-Determined NMOSD Relapse in the Randomized-Controlled Period (ITT Population; anti-AQP4 Antibody Positive Patients)
+
+                                 Note: Numbers of patients at risk are shown at each time point. |
+
+                                  |
+
+                        Compared to placebo-treated patients, patients treated with UPLIZNA who were anti-AQP4 antibody positive had reduced annualized rates of hospitalizations (0.11 for UPLIZNA versus 0.50 for placebo).

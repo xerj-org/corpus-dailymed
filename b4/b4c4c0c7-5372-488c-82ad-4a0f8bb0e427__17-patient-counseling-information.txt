@@ -1,0 +1,29 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+                     Sleep-driving and Other Complex Behaviors
+
+                  There have been reports of people getting out of bed after taking a hypnotic and driving their cars while not fully awake, often with no memory of the event. If a patient experiences such an episode, it should be reported to his or her doctor immediately, since "sleep-driving" can be dangerous. This behavior is more likely to occur when a hypnotic is taken with alcohol or other central nervous system depressants [see Warnings and Precautions (5.2, 5.4) and Drug Interactions (7.3, 7.4)]. Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a hypnotic. As with "sleep-driving", patients usually do not remember these events.
+
+                  In addition, patients should be advised to report all concomitant medications to the prescriber. Patients should be instructed to report events such as "sleep-driving" and other complex behaviors immediately to the prescriber.
+
+                     Suicide risk and Worsening of Depression
+
+                  Patients, their families, and their caregivers should be encouraged to be alert to worsening of depression, including suicidal thoughts and actions. Such symptoms should be reported to the patient's prescriber or health professional.
+
+                     Administration Instructions
+
+                  Patients should be counseled to take doxepin tablets within 30 minutes of bedtime and should confine their activities to those necessary to prepare for bed. Doxepin tablets should not be taken with or immediately after a meal [see Dosage and Administration (2.3)]. Advise patients NOT to take doxepin tablets when drinking alcohol [see Warnings and Precautions (5.2, 5.4) and Drug Interactions (7.3)].
+
+                     Pregnancy
+
+                  Advise patients that doxepin use late in pregnancy may increase the risk for neonatal complications requiring prolonged hospitalization, respiratory support or tube feeding [see Use in Specific Populations (8.1)].
+
+                     Lactation
+
+                  Advise patients that breastfeeding is not recommended during treatment with doxepin [see Use in Specific Populations (8.2)].
+
+                     Infertility
+
+                  Inform patients that doxepin may cause reduced fertility. It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].

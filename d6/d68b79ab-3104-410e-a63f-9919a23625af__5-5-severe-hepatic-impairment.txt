@@ -1,0 +1,3 @@
+DailyMed d68b79ab-3104-410e-a63f-9919a23625af | Ticagrelor | 5.5 Severe Hepatic Impairment
+
+Avoid use of ticagrelor in patients with severe hepatic impairment. Severe hepatic impairment is likely to increase serum concentration of ticagrelor. There are no studies of ticagrelor patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

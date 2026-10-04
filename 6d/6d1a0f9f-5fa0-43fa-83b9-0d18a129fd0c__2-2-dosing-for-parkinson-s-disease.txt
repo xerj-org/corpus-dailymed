@@ -1,0 +1,67 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 2.2 Dosing for Parkinson's Disease
+
+The recommended starting dose of ropinirole tablets for Parkinson’s disease is 0.25 mg 3 times daily. Based on individual patient therapeutic response and tolerability, if necessary, the dose should then be titrated with weekly increments as described in Table 1. After Week 4, if necessary, the daily dose may be increased by 1.5 mg/day on a weekly basis up to a dose of 9 mg/day, and then by up to 3 mg/day weekly up to a maximum recommended total daily dose of 24 mg/day (8 mg 3 times daily). Doses greater than 24 mg/day have not been tested in clinical trials.
+
+                           Table 1. Ascending-Dose Schedule of Ropinirole Tablets for Parkinson’s Disease
+
+                            
+
+                                    Week
+
+                                  |
+
+                                    Dosage
+
+                                  |
+
+                                    Total Daily Dose
+
+                                  |
+
+                                 1
+
+                                  |
+                                 0.25 mg 3 times daily
+
+                                  |
+                                 0.75 mg
+
+                                  |
+
+                                 2
+
+                                  |
+                                 0.5 mg 3 times daily
+
+                                  |
+                                 1.5 mg
+
+                                  |
+
+                                 3
+
+                                  |
+                                 0.75 mg 3 times daily
+
+                                  |
+                                 2.25 mg
+
+                                  |
+
+                                 4
+
+                                  |
+                                 1 mg 3 times daily
+
+                                  |
+                                 3 mg
+
+                                  |
+
+                        Ropinirole tablets should be discontinued gradually over a 7-day period in patients with Parkinson’s disease [see Warnings and Precautions (5.8)]. The frequency of administration should be reduced from 3 times daily to twice daily for 4 days. For the remaining 3 days, the frequency should be reduced to once daily prior to complete withdrawal of ropinirole tablets.
+
+                            
+
+                           Renal Impairment
+
+                        No dose adjustment is necessary in patients with moderate renal impairment (creatinine clearance of 30 to 50 mL/min). The recommended initial dose of ropinirole for patients with end-stage renal disease on hemodialysis is 0.25 mg 3 times a day. Further dose escalations should be based on tolerability and need for efficacy. The recommended maximum total daily dose is 18 mg/day in patients receiving regular dialysis. Supplemental doses after dialysis are not required. The use of ropinirole tablets in patients with severe renal impairment without regular dialysis has not been studied.

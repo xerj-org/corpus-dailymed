@@ -1,0 +1,15 @@
+DailyMed 5dc0e9df-3b45-4469-93fe-3d2eddbfe2b7 | Dapagliflozin | 8.2 Lactation
+
+Risk Summary
+
+                        There is no information regarding the presence of dapagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production. Dapagliflozin is present in the milk of lactating rats
+
+  (see Data).However, due to species-specific differences in lactation physiology, the clinical relevance of these data is not clear. Since human kidney maturation occurs
+
+  in uteroand during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
+
+                        Because of the potential for serious adverse reactions in breastfed infants, advise women that use of dapagliflozin is not recommended while breastfeeding.
+
+                              Data
+
+                        Dapagliflozin was present in rat milk at a milk/plasma ratio of 0.49, indicating that dapagliflozin and its metabolites are transferred into milk at a concentration that is approximately 50% of that in maternal plasma. Juvenile rats directly exposed to dapagliflozin showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.

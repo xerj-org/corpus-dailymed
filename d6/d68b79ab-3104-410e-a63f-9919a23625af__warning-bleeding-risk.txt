@@ -1,0 +1,9 @@
+DailyMed d68b79ab-3104-410e-a63f-9919a23625af | Ticagrelor | WARNING: BLEEDING RISK
+
+• Ticagrelor tablets, like other antiplatelet agents, can cause significant, sometimes fatal bleeding (5.1, 6.1).
+
+ • Do not use ticagrelor tablets in patients with active pathological bleeding or a history of intracranial hemorrhage (4.1, 4.2).
+
+ • Do not start ticagrelor tablets in patients undergoing urgent coronary artery bypass graft surgery (CABG) (5.1, 6.1).
+
+ • If possible, manage bleeding without discontinuing ticagrelor tablets. Stopping ticagrelor tablets increases the risk of subsequent cardiovascular events (5.2).

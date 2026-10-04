@@ -1,0 +1,159 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 14.2 Ultrasonography of the Liver
+
+Adults
+
+                        A total of 499 patients with at least 1 focal liver lesion requiring
+characterization were evaluated in two studies (259 patients in Study
+A, 240 patients in Study B).  Among these patients, there were 259
+men and 240 women. The mean age was 56 years (range 19 to 93 years).
+The racial and ethnic representations were 74% White, 11% Black, 9%
+Hispanic, 5% Asian, and 1% other racial or ethnic groups. The mean
+weight was 80 kg (range 44 to 173 kg).
+
+                        In both studies, prior to Lumason administration,
+gray scale and Doppler (color or power imaging) ultrasound examinations
+of the target lesion were performed using commercially available ultrasound
+equipment and using standard techniques. Each patient received an
+intravenous injection of 2.4 mL of Lumason (up to 2 injections were
+allowed, 91% patients received 1 injection). Following Lumason administration,
+ultrasound examination of the target lesion was carried out using
+contrast-specific imaging modes operating at MI ≤ 0.4. The probe was
+positioned to provide optimal visualization over the target lesion
+and was kept in the same position for at least 180 seconds.
+
+                        Truth standard included: histology/surgery,
+contrast CT, contrast MRI, and/or 6 month follow-up.
+
+                        For each study, the interpretation of images
+was conducted by three independent readers who were blinded to clinical
+data. Lesions were characterized as malignant or benign. Separate
+blinded readers assessed the truth standard images.
+
+                        Results of both studies demonstrated an improvement
+in characterization of focal liver lesions using Lumason ultrasound
+compared to non-contrast ultrasound images. Table 5 summarizes the
+efficacy results by reader.
+
+                                    * Statistically significant
+improvement from non-contrast (p<0.05 based on McNemar’s test) |
+
+                                    Table 5. Diagnostic Performance of Lumason Ultrasound for Characterization
+of Focal Liver Lesions
+                                  |
+
+                                 Study
+A: |
+
+                                   |
+                                 Sensitivity
+(patients with malignant lesions)
+
+N=119 |
+                                 Specificity
+(patients with benign lesions)
+
+N=140 |
+
+                                 Lumason
+
+% |
+                                 Non-contrast
+
+% |
+                                 Difference (95%
+CI) |
+                                 Lumason
+
+% |
+                                 Non-contrast
+
+% |
+                                 Difference (95%
+CI) |
+
+                                 Reader 1 |
+                                 87* |
+                                 49 |
+                                 38 (30, 54) |
+                                 71 |
+                                 63 |
+                                 8 (-4, 21) |
+
+                                 Reader 2 |
+                                 76* |
+                                 35 |
+                                 41 (29, 52) |
+                                 83* |
+                                 54 |
+                                 29 (21, 44) |
+
+                                 Reader 3 |
+                                 92* |
+                                 16 |
+                                 76 (67, 84) |
+                                 73* |
+                                 22 |
+                                 51 (40, 61) |
+
+                                 Study
+B: |
+
+                                   |
+                                 Sensitivity
+(patients with malignant lesions)
+
+N=124 |
+                                 Specificity
+(patients with benign lesions)
+
+N=116 |
+
+                                 Lumason
+
+% |
+                                 Non-contrast
+
+% |
+                                 Difference (95%
+CI) |
+                                 Lumason
+
+% |
+                                 Non-contrast
+
+% |
+                                 Difference (95%
+CI) |
+
+                                 Reader 4 |
+                                 65 |
+                                 53 |
+                                 12 (-1, 23) |
+                                 72* |
+                                 24 |
+                                 48 (35, 58) |
+
+                                 Reader 5 |
+                                 61* |
+                                 41 |
+                                 20 (7, 32) |
+                                 67* |
+                                 7 |
+                                 60 (50, 70) |
+
+                                 Reader 6 |
+                                 47 |
+                                 66 |
+                                 -19 (-31, -7) |
+                                 88* |
+                                 59 |
+                                 29 (18, 40) |
+
+                           Pediatric patients
+
+                        In one published
+study, 44 patients with an indeterminate focal liver lesion (23 males,
+21 females, age range: 4-18 years, median 11.5 years) were evaluated
+after intravenous bolus administration of 1.2 to 2.4 mL of Lumason.
+The findings of Lumason ultrasound images were compared to CT, MRI
+or histology. Specificity was 98% (43/44 patients).

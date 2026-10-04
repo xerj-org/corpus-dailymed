@@ -1,0 +1,3 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 5.15 Interaction with Carbapenem Antibiotics
+
+Carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) may reduce serum valproate concentrations to subtherapeutic  levels, resulting in loss of seizure control. Serum valproate concentrations should be monitored frequently after initiating carbapenem therapy. Alternative antibacterial or anticonvulsant therapy should be considered if serum valproate concentrations drop significantly or seizure control deteriorates [see Drug Interactions (7.1)].

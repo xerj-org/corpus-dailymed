@@ -1,0 +1,5 @@
+DailyMed 76ca6bea-5f63-4e76-b161-1dbcbad18421 | Allopurinol | 12.1 Mechanism of Action
+
+Allopurinol is a structural analogue of the natural purine base, hypoxanthine. 
+
+                        Allopurinol acts on purine catabolism, without disrupting the biosynthesis of purines. It reduces the production of uric acid by inhibiting the biochemical reactions immediately preceding its formation. It is an inhibitor of xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans. Allopurinol is metabolized to the corresponding xanthine analogue, oxypurinol (alloxanthine), which also is an inhibitor of xanthine oxidase.

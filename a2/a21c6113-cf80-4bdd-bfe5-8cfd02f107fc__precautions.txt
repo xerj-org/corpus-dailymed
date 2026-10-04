@@ -1,0 +1,5 @@
+DailyMed a21c6113-cf80-4bdd-bfe5-8cfd02f107fc | CHLORZOXAZONE | PRECAUTIONS
+
+Chlorzoxazone should be used with caution in patients with known allergies or with a history of allergic reactions to drugs. If a sensitivity reaction occurs such as urticaria, redness, or itching of the skin, the drug should be stopped.
+
+                  If any symptoms suggestive of liver dysfunction are observed, the drug should be discontinued.

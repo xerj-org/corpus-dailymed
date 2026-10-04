@@ -1,0 +1,45 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 2.2 Administration and Imaging Instructions
+
+General
+
+                           GADAVIST is formulated at a higher concentration (1 mmol/mL) compared to certain other gadolinium-based contrast agents, resulting in a lower volume of administration [see Dosage and Administration (2.1)].
+
+                           GADAVIST is for intravenous use only and must not be administered intrathecally [see Warnings and Precautions (5.1)].
+
+                           Use aseptic technique when preparing and administering GADAVIST.
+
+                           Visually inspect GADAVIST for particulate matter and discoloration prior to administration. Do not use the solution if it is discolored, if particulate matter is present, or if the container appears damaged.
+
+                           If solidification occurs due to cold exposure, bring GADAVIST to room temperature before use and inspect to ensure that the solution is clear and colorless to pale yellow.
+
+                           Do not mix GADAVIST with other medications and do not administer GADAVIST in the same intravenous line simultaneously with other medications.
+
+                           MRI of the CNS in Adult and Pediatric Patients Including Term Neonates
+
+                           Administer GADAVIST as an intravenous injection, manually or by power injector, at a flow rate of approximately 2 mL/sec.
+
+                           Follow GADAVIST injection with a flush of 0.9% Sodium Chloride Injection to ensure complete administration of the contrast.
+
+                           Post contrast MRI can commence immediately following contrast administration.
+
+                           MRI of the Breast in Adults
+
+                           Administer GADAVIST as an intravenous bolus by power injector, followed by a flush of 0.9% Sodium Chloride Injection to ensure complete administration of the contrast.
+
+                           Start image acquisition following GADAVIST administration and then repeat sequentially to determine peak intensity and wash-out.
+
+                           MR Angiography in Adult and Pediatric Patients Including Term Neonates
+
+                           Image acquisition should coincide with peak arterial concentration, which varies among patients.
+
+                           For adults, administer GADAVIST as an intravenous injection by power injector, at a flow rate of approximately 1.5 mL/sec, followed by a 30 mL flush of 0.9% Sodium Chloride Injection at the same rate to ensure complete administration of the contrast.
+
+                           For pediatric patients including term neonates, administer GADAVIST as an intravenous injection by power injector or manually, followed by a flush of 0.9% Sodium Chloride Injection to ensure complete administration of the contrast.
+
+                           Cardiac MRI in Adults
+
+                           Administer GADAVIST through a separate intravenous line in the contralateral arm if concomitantly providing a continuous infusion of a pharmacologic stress agent.
+
+                           Administer GADAVIST as two separate bolus injections: 0.05 mmol/kg actual body weight (equivalent to 0.05 mL/kg) at peak pharmacologic stress followed by 0.05 mmol/kg (equivalent to 0.05 mL/kg) at rest.
+
+                           Administer GADAVIST via a power injector at a flow rate of approximately 4 mL/sec and follow each injection with a 20 mL flush of 0.9% Sodium Chloride Injection at the same flow rate.

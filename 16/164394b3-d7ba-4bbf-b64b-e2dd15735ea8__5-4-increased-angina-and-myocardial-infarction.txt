@@ -1,0 +1,3 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 5.4 Increased Angina and Myocardial Infarction
+
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine, particularly in patients with severe obstructive coronary artery disease.

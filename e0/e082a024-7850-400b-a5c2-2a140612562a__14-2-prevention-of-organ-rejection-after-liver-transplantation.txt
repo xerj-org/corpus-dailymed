@@ -1,0 +1,187 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 14.2 Prevention of Organ Rejection After Liver Transplantation
+
+A 24-month, multinational, open-label, randomized (1:1:1) trial was conducted in liver transplant patients starting 30 days posttransplant. During the first 30 days, after transplant and prior to randomization, patients received tacrolimus and corticosteroids, with or without mycophenolate mofetil. No induction antibody was administered. Approximately 70% to 80% of patients received at least one dose of mycophenolate mofetil at a median total daily dose of 1.5 g during the first 30 days. For eligibility, patients had to have a tacrolimus trough concentration of at least 8 ng/mL in the week prior to randomization.
+
+                        At randomization, mycophenolate mofetil was discontinued and patients were randomized to one of two Zortress treatment groups [initial dose of 1 mg twice per day (2 mg daily) and adjusted to target trough concentrations using an LC/MS/MS assay of 3 to 8 ng/mL] either with reduced exposure of tacrolimus (target trough whole blood concentrations of 3 to 5 ng/mL) or tacrolimus elimination. In the tacrolimus elimination group, at Month 4 posttransplant, once the everolimus trough concentrations were within the target range of 6 to 10 ng/mL, reduced exposure tacrolimus was eliminated. The Zortress with tacrolimus elimination group was discontinued early due to higher incidence of acute rejection. In the control group, patients received standard exposure tacrolimus (target trough whole blood concentrations of 8 to 12 ng/mL tapered to 6 to 10 ng/mL by Month 4 posttransplant). All patients received corticosteroids during the trial.
+
+                        The study population consisted of 18- to 70-year-old male and female liver transplant recipients undergoing their first transplant, mean age was approximately 54 years, more than 70% of patients were male, and the majority of patients were Caucasian, with approximately 89% of patients per treatment group completing the study. Key stratification parameters of HCV status (31% to 32% HCV positive across groups) and renal function (mean baseline eGFR range 79 to 83 mL/min/1.73 m2) were also balanced between groups.
+
+                        A total of 1147 patients were enrolled into the run-in period of this trial. At 30 days posttransplant, a total 719 patients, who were eligible according to study inclusion/exclusion criteria, were randomized into 1 of 3 treatment groups: Zortress with reduced exposure tacrolimus; N = 245, Zortress with tacrolimus elimination (tacrolimus elimination group); N = 231, or standard dose/exposure tacrolimus (tacrolimus control); N = 243. The study was conducted at 89 liver transplant centers across Europe, including the United Kingdom and Ireland, North and South America, and Australia.
+
+                        Key inclusion criteria were recipients 18 to 70 years of age, eGFR greater or equal to 30 mL/min/1.73 m2, tacrolimus trough level of greater or equal to 8 ng/mL in the week prior to randomization, and the ability to take oral medication.
+
+                        Key exclusion criteria were recipients of multiple solid organ transplants, history of malignancy (except hepatocellular carcinoma within Milan criteria), human immunodeficiency virus, and any surgical or medical condition which significantly alter the absorption, distribution, metabolism and excretion of study drug.
+
+                        There were no major baseline differences between treatment groups with regard to recipient or donor disease characteristics. Mean MELD scores at time of transplantation, cold ischemia times (CIT), and ABO matching were similar across groups. Overall, the treatment groups were comparable with respect to the key determinants of liver transplantation.
+
+                        The tacrolimus elimination group was stopped prematurely due to a higher incidence of acute rejection and adverse reactions leading to treatment discontinuation reported during the elimination phase of tacrolimus. Therefore, a treatment regimen of Zortress with tacrolimus elimination is not recommended.
+
+                        Results up to 24 months are presented indicating that Zortress with reduced exposure tacrolimus is comparable to standard exposure tacrolimus with respect to efficacy failure, defined as treated biopsy-proven acute rejection, graft loss, death, or loss to follow-up throughout 12 to 24 months of treatment. The percentage of patients experiencing this endpoint and each individual variable in the Zortress and control group for each time interval is shown in Table 9.
+
+                           Table 9. Efficacy Failure by Treatment Group (ITT Population) at 12 and 24 Months After Liver Transplantation
+
+                                    *Treated biopsy-proven acute rejection (tBPAR) was defined as histologically confirmed acute rejection with a rejection activity index (RAI) greater than or equal to RAI score 3 that received anti-rejection treatment.
+
+                                    1The difference in rates (Zortress – control) at 12 months with 97.5% CI for efficacy failure endpoint based on normal approximation with Yates continuity correction  is -4.6% (-11.4%, 2.2%); and for the graft loss, death or loss to follow-up endpoint is -0.1% (-5.4%, 5.3%).
+
+                                    2Loss to follow-up (for treated BPAR, graft loss, death or loss to follow-up) represents patients who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12- or 24-month visit.
+
+                                    3Loss to follow-up (for graft loss, death, or loss to follow-up) represents patients who did not experience death or graft loss and whose last contact date is prior to 12- or 24-month visit.
+											 |
+
+                                  |
+
+                                    Zortress (everolimus)
+
+                                    with reduced exposure tacrolimus
+
+                                    N = 245
+
+                                    n (%)
+                                  |
+
+                                    Tacrolimus
+
+                                    standard exposure
+
+                                    N = 243
+
+                                    n (%)
+                                  |
+
+                                    Efficacy endpoints1 at 12 months
+                                  |
+
+                                 Composite efficacy failure endpoint1,
+                                    2
+                                  |
+                                 22 (9.0)  |
+                                 33 (13.6)  |
+
+                                      Treated biopsy proven acute rejection* |
+                                 7 (2.9) |
+                                 17 (7.0) |
+
+                                      Death |
+                                 13 (5.3)  |
+                                 7 (2.9)  |
+
+                                      Graft loss |
+                                 6 (2.4) |
+                                 3 (1.2) |
+
+                                      Loss to follow-up2
+                                  |
+                                 4 (1.6) |
+                                 9 (3.7)  |
+
+                                 Graft loss or death or loss to follow-up
+											 |
+                                 18 (7.3) |
+                                 18 (7.4) |
+
+                                      Graft loss or death |
+                                 14 (5.7)  |
+                                 8 (3.3)  |
+
+                                      Loss to follow-up
+											 |
+                                 4 (1.6)  |
+                                 10 (4.1) |
+
+                                    Efficacy endpoints at 24 months
+                                  |
+
+                                 Composite efficacy failure endpoint2
+                                  |
+                                 45 (18.4) |
+                                 53 (21.8) |
+
+                                      Treated biopsy proven acute rejection |
+                                 11 (4.5) |
+                                 18 (7.4)  |
+
+                                      Death |
+                                 17 (6.9) |
+                                 11 (4.5) |
+
+                                      Graft loss |
+                                 9 (3.7) |
+                                 7 (2.9)  |
+
+                                      Loss to follow-up2
+                                  |
+                                 18 (7.3) |
+                                 23 (9.5) |
+
+                                 Graft loss or death or loss to follow-up3
+                                  |
+                                 38 (15.5) |
+                                 39 (16.0) |
+
+                                      Graft loss or death |
+                                 20 (8.2) |
+                                 15 (6.2) |
+
+                                      Loss to follow-up3
+                                  |
+                                 18 (7.3) |
+                                 24 (9.9) |
+
+                        At Month 12, the estimated mean glomerular filtration rate (eGFR) using the MDRD equation for the Zortress group was 80.9 mL/min/1.73 m2 and the tacrolimus control was 70.3 mL/min/1.73 m2 in the ITT population. At Month 24, the eGFR using the MDRD equation for the Zortress group was 74.7 mL/min/1.73 m2 and for the tacrolimus control the eGFR was 67.8 mL/min/1.73 m2 (Table 10).
+
+                           Table 10. Estimated Glomerular Filtration Rates (mL/min/1.73 m2) by MDRD at 12 and 24 Months After Liver Transplantation
+
+                                 Abbreviations: eGFR, Estimated Glomerular Filtration Rates; MDRD, Modification Of Diet In Renal Disease; SD, standard deviation. |
+
+                                    e
+                                    GFR (MDRD)
+                                  |
+
+                                    Zortress (everolimus) with reduced exposure tacrolimus
+                                  |
+
+                                    Tacrolimus standard exposure
+                                  |
+
+                                    Month 12
+                                  |
+                                 N = 215 |
+                                 N = 209 |
+
+                                               
+                                    Mean (S
+                                    D
+                                    )
+                                  |
+                                 80.9 (27.3) |
+                                 70.3 (23.1) |
+
+                                               
+                                    Median (range)
+                                  |
+                                 78.3 (28.4-153.1) |
+                                 66.4 (27.9-155.8) |
+
+                                    Month 24
+                                  |
+                                 N = 184 |
+                                 N = 186 |
+
+                                               
+                                    Mean (SD)
+                                  |
+                                 74.7 (26.1) |
+                                 67.8 (21.0) |
+
+                                               
+                                    Median (range)
+                                  |
+                                 72.9 (20.3-151.6) |
+                                 65.2 (27.0-148.9) |
+
+                           Figure 1.  Mean and 95% CI of eGFR (MDRD 4) [mL/min/1.73 m2] by Visit Window and Treatment After Liver Transplantation (ITT population –- 24-Month  Analysis)*
+
+                           *Zortress dosing was initiated 30 days after transplantation.
+
+                        Although the initial protocol was designed for 24 months, the study was subsequently extended to 36 months. One hundred six (106) patients (43%) in the Zortress group and 125 patients (51%) in the control group participated in the extension study from Month 24 to Month 36 after transplantation. The results for the Zortress group at 36 months were consistent with the results at 24 months in terms of tBPAR, graft loss, death, and eGFR.

@@ -1,0 +1,31 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Risk Summary
+
+The limited available data on ELIQUIS use in pregnant women are insufficient to inform drug-associated risks of major birth defects, miscarriage, or adverse developmental outcomes. Treatment may increase the risk of bleeding during pregnancy and delivery. In animal reproduction studies, no adverse developmental effects were seen when apixaban was administered to rats (orally), rabbits (intravenously) and mice (orally) during organogenesis at unbound apixaban exposure levels up to 4, 1 and 19 times, respectively, the human exposure based on area under plasma-concentration time curve (AUC) at the Maximum Recommended Human Dose (MRHD) of 5 mg twice daily.
+
+                              The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                                 Clinical Considerations
+
+                                    Disease-associated maternal and/or embryo/fetal risk
+
+                              Pregnancy confers an increased risk of thromboembolism that is higher for women with underlying thromboembolic disease and certain high-risk pregnancy conditions. Published data describe that women with a previous history of venous thrombosis are at high risk for recurrence during pregnancy.
+
+                                    Fetal/Neonatal adverse reactions
+
+                              Use of anticoagulants, including ELIQUIS, may increase the risk of bleeding in the fetus and neonate.
+
+                                    Labor or delivery
+
+                              All patients receiving anticoagulants, including pregnant women, are at risk for bleeding. ELIQUIS use during labor or delivery in women who are receiving neuraxial anesthesia may result in epidural or spinal hematomas. Consider use of a shorter acting anticoagulant as delivery approaches
+
+  [see
+
+   Warnings and Precautions (5.3)]
+
+  .
+
+                                 Data
+
+                                    Animal Data
+
+                              No developmental toxicities were observed when apixaban was administered during organogenesis to rats (orally), rabbits (intravenously) and mice (orally) at unbound apixaban exposure levels 4, 1, and 19 times, respectively, the human exposures at the MRHD. There was no evidence of fetal bleeding, although conceptus exposure was confirmed in rats and rabbits. Oral administration of apixaban to rat dams from gestation day 6 through lactation day 21 at maternal unbound apixaban exposures ranging from 1.4 to 5 times the human exposures at the MRHD was not associated with reduced maternal mortality or reduced conceptus/neonatal viability, although increased incidences of peri-vaginal bleeding were observed in dams at all doses. There was no evidence of neonatal bleeding.

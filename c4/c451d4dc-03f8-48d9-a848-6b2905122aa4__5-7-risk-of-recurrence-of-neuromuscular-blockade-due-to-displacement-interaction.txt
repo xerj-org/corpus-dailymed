@@ -1,0 +1,7 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.7 Risk of Recurrence of Neuromuscular Blockade Due to Displacement Interactions
+
+Recurrence of neuromuscular blockade may occur due to displacement of rocuronium or vecuronium from Sugammadex Injection by other drugs
+
+  [see Drug Interactions (7.2)]. In this situation the patient may require mechanical ventilation. Administration of the drug which caused displacement should be stopped in case of an infusion. The risk of displacement reactions will be the highest in the time period equivalent to 3 times the half-life of Sugammadex Injection
+
+  [see Clinical Pharmacology (12.3)].

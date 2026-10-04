@@ -1,0 +1,3 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 8.6 Renal Impairment
+
+Administration of Lactated Ringer’s Injection to patients with or at risk of severe renal impairment, may result in hyperkalemia and/or fluid overload [see Warnings and Precautions (5.4, 5.7, 5.9)]. Avoid Lactated Ringer’s Injection in patients with severe renal impairment. If use cannot be avoided in such patients, monitor for development of these adverse reactions.

@@ -1,0 +1,11 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 2.4 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
+
+At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of mirtazapine tablets. In addition, at least 14 days must elapse after stopping mirtazapine tablets before starting an MAOI antidepressant
+
+  [see Contraindications (
+
+   4) and Warnings and Precautions (
+
+   5.3)]
+
+  .

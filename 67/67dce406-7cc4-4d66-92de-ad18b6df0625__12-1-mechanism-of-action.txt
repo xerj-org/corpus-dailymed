@@ -1,0 +1,3 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 12.1 Mechanism of Action
+
+In patients with FOP, abnormal bone formation, including heterotopic ossification (HO), is driven by a gain-of-function mutation in the bone morphogenetic protein (BMP) type I receptor ALK2 (ACVR1). Palovarotene is an orally bioavailable retinoic acid receptor agonist, with particular selectivity at the gamma subtype of RAR. Through binding to RARγ, palovarotene decreases the BMP/ALK2 downstream signaling pathway by inhibiting the phosphorylation of SMAD1/5/8, which reduces ALK2/SMAD-dependent chondrogenesis and osteocyte differentiation resulting in reduced endochondral bone formation.

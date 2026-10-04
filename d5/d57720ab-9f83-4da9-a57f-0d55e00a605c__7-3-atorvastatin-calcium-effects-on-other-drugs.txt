@@ -1,0 +1,41 @@
+DailyMed d57720ab-9f83-4da9-a57f-0d55e00a605c | ATORVASTATIN CALCIUM | 7.3 Atorvastatin Calcium Effects on Other Drugs
+
+Table 4 presents atorvastatin calcium effect on other drugs and instructions for preventing or managing them.
+
+                           Table 4: Atorvastatin Calcium Effects on Other Drugs
+
+                                    Oral Contraceptives
+                                  |
+
+                                    Clinical Impact:
+                                  |
+                                 Co-administration of atorvastatin calcium and an oral contraceptive increased plasma concentrations of norethindrone and ethinyl estradiol
+
+     [see Clinical Pharmacology (
+
+      12.3)].
+
+                                  |
+
+                                    Intervention:
+                                  |
+                                 Consider this when selecting an oral contraceptive for patients taking atorvastatin calcium. |
+
+                                    Digoxin
+                                  |
+
+                                    Clinical Impact:
+                                  |
+                                 When multiple doses of atorvastatin calcium and digoxin were co-administered, steady state plasma digoxin concentrations increased
+
+     [see Clinical Pharmacology (
+
+      12.3)]
+
+     .
+
+     |
+
+                                    Intervention:
+                                  |
+                                 Monitor patients taking digoxin appropriately. |

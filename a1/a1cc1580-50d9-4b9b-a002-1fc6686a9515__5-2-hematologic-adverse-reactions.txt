@@ -1,0 +1,12 @@
+DailyMed a1cc1580-50d9-4b9b-a002-1fc6686a9515 | Nelarabine | 5.2 Hematologic Adverse Reactions
+
+Leukopenia, thrombocytopenia, anemia, and neutropenia, including febrile neutropenia, have been associated with nelarabine injection therapy. Complete blood counts including platelets should be monitored regularly
+  [see
+
+                              Dosage and Administration (2.2)
+
+                           ,
+
+                              Adverse Reactions (6.1)
+
+                           ].

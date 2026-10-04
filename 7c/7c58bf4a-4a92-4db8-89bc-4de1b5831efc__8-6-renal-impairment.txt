@@ -1,0 +1,9 @@
+DailyMed 7c58bf4a-4a92-4db8-89bc-4de1b5831efc | Atorvastatin calcium | 8.6 Renal Impairment
+
+Renal impairment is a risk factor for myopathy and rhabdomyolysis. Monitor all patients with renal impairment for development of myopathy. Renal impairment does not affect the plasma concentrations of atorvastatin calcium tablets, therefore there is no dosage adjustment in patients with renal impairment
+
+  [see Warnings and Precautions (
+
+   5.1) and Clinical Pharmacology (
+
+   12.3)].

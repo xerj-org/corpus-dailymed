@@ -1,0 +1,73 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 2.6 Preparation, Administration and Storage
+
+ZEPZELCA is a hazardous drug. Follow applicable special handling and disposal procedures1.
+
+                           Preparation
+
+                              •
+
+Inject 8 mL of Sterile Water for Injection USP into the vial, yielding a solution containing 0.5 mg/mL lurbinectedin. Shake the vial until complete dissolution.
+
+                              •
+
+Visually inspect the solution for particulate matter and discoloration. The reconstituted solution is a clear, colorless or slightly yellowish solution, free of visible particles.
+
+                              •
+
+Calculate the required volume of reconstituted solution as follows:
+
+                              •
+
+For administration through a central venous line, withdraw the appropriate amount of reconstituted solution from the vial and add to an infusion container containing at least 100 mL of diluent (0.9% Sodium Chloride Injection USP or 5% Dextrose Injection USP).
+
+                              •
+
+For administration through a peripheral venous line, withdraw the appropriate amount of reconstituted solution from the vial and add to an infusion container containing at least 250 mL of diluent (0.9% Sodium Chloride Injection USP or 5% Dextrose Injection USP).
+
+                           Administration
+
+                              •
+
+Administration via a central venous line is recommended to reduce the risk of extravasation that can cause tissue necrosis requiring debridement [see Warnings and Precautions (5.3)].
+
+                              •
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. If particulate matter is observed, do not administer.
+
+                              •
+
+ZEPZELCA can be administered with or without an in-line filter. If infusion lines containing in-line filters are utilized for administration of ZEPZELCA, polyethersulfone (PES) in-line filters with pore sizes of 0.22 micron are recommended.
+
+                                    o
+
+Do not use in-line nylon membrane filters when the reconstituted ZEPZELCA solution is diluted using 0.9% Sodium Chloride Injection, USP. Adsorption of ZEPZELCA to the Nylon membrane filters has been observed when 0.9% Sodium Chloride Injection, USP is used as the diluent.
+
+                              •
+
+Compatibility with other intravenous administration materials and the diluted ZEPZELCA solution has been demonstrated in the following materials:
+
+                                    o
+
+Containers: Polyolefin containers (polyethylene, polypropylene and mixtures).
+
+                                    o
+
+Infusion sets: Polyvinyl Chloride (PVC) (non-DEHP-containing), polyurethane and polyolefin infusion sets (polyethylene, polypropylene, and polybutadiene).
+
+                                    o
+
+Implantable venous access systems: Implantable venous access systems with titanium and plastic resin ports and with polyurethane or silicone intravenous catheters.
+
+                              •
+
+Do not co-administer ZEPZELCA and other intravenous drugs concurrently within the same intravenous line.
+
+                              •
+
+                              Administer either atezolizumab or atezolizumab and hyaluronidase-tqjs first, then administer ZEPZELCA. For the recommended dosage of atezolizumab or atezolizumab and hyaluronidase-tqjs refer to the respective Prescribing Information.
+
+                           Storage of Infusion Solution
+
+                              •
+
+If not used immediately after reconstitution or dilution, the ZEPZELCA solution can be stored prior to administration for up to 24 hours following reconstitution, including infusion time, at either room temperature/ ambient light or under refrigeration at 2ºC to 8ºC (36ºF to 46ºF) conditions.

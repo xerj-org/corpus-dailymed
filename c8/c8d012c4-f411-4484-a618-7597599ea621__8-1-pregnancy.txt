@@ -1,0 +1,23 @@
+DailyMed c8d012c4-f411-4484-a618-7597599ea621 | Azithromycin monohydrate | 8.1 Pregnancy
+
+Risk Summary
+
+  Available data from published literature and postmarketing experience over several decades with azithromycin use in pregnant women have not identified any drug-associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes
+
+  (see Data). Developmental toxicity studies with azithromycin in rats, mice, and rabbits showed no drug-induced fetal malformations at doses up to 4, 2, and 2 times, respectively, an adult human daily dose of 500 mg based on body surface area. Decreased viability and delayed development were observed in the offspring of pregnant rats administered azithromycin from day 6 of pregnancy through weaning at a dose equivalent to 4 times an adult human daily dose of 500 mg based on body surface area
+
+  (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Human Data
+
+  Available data from published observational studies, case series, and case reports over several decades do not suggest an increased risk for major birth defects, miscarriage, or adverse maternal or fetal outcomes with azithromycin use in pregnant women. Limitations of these data include the lack of randomization and inability to control for confounders such as underlying maternal disease and maternal use of concomitant medications.
+
+                           Animal Data
+
+  Reproductive and developmental toxicology studies have not been conducted using IV administration of azithromycin to animals. Azithromycin administered during the period of organogenesis did not cause fetal malformations in rats and mice at oral doses up to 200 mg/kg/day (moderately maternally toxic). Based on body surface area, this dose is approximately 4 (rats) and 2 (mice) times an adult human daily dose of 500 mg. In rabbits administered azithromycin at oral doses of 10, 20, and 40 mg/kg/day during organogenesis, reduced maternal body weight and food consumption were observed in all groups; no evidence of fetotoxicity or teratogenicity was observed at these doses, the highest of which is estimated to be 2 times an adult human daily dose of 500 mg based on body surface area.
+
+  In a pre- and postnatal development study, azithromycin was administered orally to pregnant rats from day 6 of pregnancy until weaning at doses of 50 or 200 mg/kg/day. Maternal toxicity (reduced food consumption and body weight gain; increased stress at parturition) was observed at the higher dose. Effects in the offspring were noted at 200 mg/kg/day during the postnatal development period (decreased viability, delayed developmental landmarks). These effects were not observed in a pre- and postnatal rat study when up to 200 mg/kg/day of azithromycin was given orally beginning on day 15 of pregnancy until weaning.

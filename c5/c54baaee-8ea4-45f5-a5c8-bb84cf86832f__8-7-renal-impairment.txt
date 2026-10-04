@@ -1,0 +1,3 @@
+DailyMed c54baaee-8ea4-45f5-a5c8-bb84cf86832f | Methadone Hydrochloride | 8.7 Renal Impairment
+
+Methadone pharmacokinetics have not been extensively evaluated in patients with renal insufficiency. Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.

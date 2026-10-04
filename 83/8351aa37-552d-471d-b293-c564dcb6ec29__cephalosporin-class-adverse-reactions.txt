@@ -1,0 +1,15 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Cephalosporin Class Adverse Reactions
+
+In addition to the adverse reactions listed above which have been observed in patients treated with ceftriaxone, the following adverse reactions and altered laboratory test results have been reported for cephalosporin class antibiotics:
+
+                           Adverse Reactions: Allergic reactions, drug fever, serum sickness-like reaction, renal dysfunction, toxic nephropathy, reversible hyperactivity, hypertonia, hepatic dysfunction including cholestasis, aplastic anemia, hemorrhage, and superinfection.
+
+                           Altered Laboratory Tests: Positive direct Coombs’ test, false-positive test for urinary glucose, and elevated LDH (see
+                              PRECAUTIONS
+                           ).
+
+                        Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (see
+                              DOSAGE AND ADMINISTRATION
+                           ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated.
+
+                           To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

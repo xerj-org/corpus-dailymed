@@ -1,0 +1,7 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 8.5 Geriatric Use
+
+In clinical trials of glimepiride, 1053 of 3491 patients (30%) were >65 years of age. No overall differences in safety or effectiveness were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+                        There were no significant differences in glimepiride pharmacokinetics between patients with type 2 diabetes ≤65 years (n=49) and those >65 years (n=42) [see Clinical Pharmacology (12.3)].
+
+                        Glimepiride is substantially excreted by the kidney. Elderly patients are more likely to have renal impairment. In addition, hypoglycemia may be difficult to recognize in the elderly [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)]. Use caution when initiating glimepiride and increasing the dose of glimepiride in this patient population.

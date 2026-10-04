@@ -1,0 +1,9 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of fulvestrant. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        For fulvestrant 250 mg, other adverse reactions reported as drug-related and seen infrequently (<1%) include thromboembolic phenomena, myalgia, vertigo, leukopenia, and hypersensitivity reactions, including angioedema and urticaria.
+
+                        Vaginal bleeding has been reported infrequently (<1%), mainly in patients during the first 6 weeks after changing from existing hormonal therapy to treatment with fulvestrant injection. If bleeding persists, further evaluation should be considered.
+
+                        Elevation of bilirubin, elevation of gamma GT, hepatitis, and liver failure have been reported infrequently (<1%).

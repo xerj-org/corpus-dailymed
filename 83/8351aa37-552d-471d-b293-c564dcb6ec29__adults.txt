@@ -1,0 +1,21 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | ADULTS
+
+The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection. The total daily dose should not exceed 4 grams.
+
+                        If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
+
+                        For the treatment of uncomplicated gonococcal infections, a single intramuscular dose of 250 mg is recommended.
+
+                        For preoperative use (surgical prophylaxis), a single dose of 1 gram administered intravenously 1/2 to 2 hours before surgery is recommended.
+
+                        Generally, ceftriaxone therapy should be continued for at least 2 days after the signs and symptoms of infection have disappeared. The usual duration of therapy is 4 to 14 days; in complicated infections, longer therapy may be required.
+
+                        When treating infections caused by Streptococcus pyogenes, therapy should be continued for at least 10 days.
+
+                        No dosage adjustment is necessary for patients with impairment of renal or hepatic function (see
+                              PRECAUTIONS
+                           ).
+
+                        The dosages recommended for adults require no modification in elderly patients, up to 2 gm per day, provided there is no severe renal and hepatic impairment (see
+                              PRECAUTIONS
+                           ).

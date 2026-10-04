@@ -1,0 +1,3 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 5.1 Central Nervous System Adverse Reactions
+
+Central nervous system (CNS) adverse reactions, including confusion, delirium, hallucinations, disorientation, agitation, seizures, and lethargy, have been reported in elderly patients and patients with moderate and severe renal impairment treated with famotidine. Since famotidine blood levels are higher in patients with renal impairment than in patients with normal renal function, dosage adjustments are recommended in patients with renal impairment [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].

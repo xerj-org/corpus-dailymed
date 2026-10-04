@@ -1,0 +1,15 @@
+DailyMed 5c2ac7cb-3a38-2174-e063-6394a90a95cc | Tramadol Hydrochloride | 12.1 Mechanism of Action
+
+Tramadol hydrochloride tablets contains tramadol, an opioid agonist and inhibitor of norepinephrine and serotonin re-uptake. Although the mode of action is not completely understood, the analgesic effect of tramadol is believed to be due to both binding to μ-opioid receptors and weak inhibition of re-uptake of norepinephrine and serotonin.
+
+                        Opioid activity is due to both low affinity binding of the parent compound and higher affinity binding of the
+
+  O-demethylated metabolite M1 to μ-opioid receptors. In animal models, M1 is up to 6 times more potent than tramadol in producing analgesia and 200 times more potent in μ-opioid binding. Tramadol-induced analgesia is only partially antagonized by the opioid antagonist naloxone in several animal tests. The relative contribution of both tramadol and M1 to human analgesia is dependent upon the plasma concentrations of each compound
+
+  [see
+
+   Clinical Pharmacology (12.2)]
+
+  .
+
+                        Analgesia in humans begins approximately within one hour after administration and reaches a peak in approximately two to three hours.

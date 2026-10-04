@@ -1,0 +1,17 @@
+DailyMed 765cc40c-306f-4719-aac1-00f0cd8bbe78 | Dicyclomine hydrochloride | 5.7 Ulcerative Colitis
+
+Caution should be taken in patients with ulcerative colitis.
+
+  Large doses may suppress intestinal motility to the point of producing a paralytic ileus and the use of this drug may precipitate or aggravate the serious complication of toxic megacolon
+
+  [see Adverse Reactions (
+
+   6.3)]
+
+  . Dicyclomine hydrochloride is contraindicated in patients with severe ulcerative colitis
+
+  [see Contraindications (
+
+   4)]
+
+  .

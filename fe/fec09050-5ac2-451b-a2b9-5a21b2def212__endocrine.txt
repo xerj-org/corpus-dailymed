@@ -1,0 +1,5 @@
+DailyMed fec09050-5ac2-451b-a2b9-5a21b2def212 | Prednisone | Endocrine
+
+Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for corticosteroid insufficiency after withdrawal of treatment. Adrenocortical insufficiency may result from too rapid withdrawal of corticosteroids and may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for up to 12 months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted. If the patient is receiving steroids already, dosage may have to be increased.
+
+                        Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients. Changes in thyroid status of the patient may necessitate adjustment in dosage.

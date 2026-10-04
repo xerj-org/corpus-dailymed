@@ -1,0 +1,12 @@
+DailyMed 717eb542-3a05-485e-be76-3930efb40d33 | Levocetirizine Dihydrochloride | 8.6 Renal Impairment
+
+Levocetirizine dihydrochloride is known to be substantially excreted by the kidneys and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function
+
+  [see
+
+                              Dosage and Administration (2)
+                            and
+
+                              Clinical Pharmacology (12.3)]
+
+  .

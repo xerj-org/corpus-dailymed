@@ -1,0 +1,5 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No carcinogenicity or mutagenicity studies have been conducted with ADZYNMA to assess its mutagenic or carcinogenic potential.
+
+                        No adverse effects on fertility were observed in female rats administered 80, 200, or 400 IU/kg ADZYNMA every third day for 2 weeks before mating through Day 16.

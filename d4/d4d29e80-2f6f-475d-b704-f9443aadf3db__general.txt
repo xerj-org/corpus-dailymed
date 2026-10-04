@@ -1,0 +1,11 @@
+DailyMed d4d29e80-2f6f-475d-b704-f9443aadf3db | Verapamil Hydrochloride | General
+
+Use in patients with impaired hepatic function: Since verapamil is highly metabolized by the liver, it should be administered cautiously to patients with impaired hepatic function. Severe liver dysfunction prolongs the elimination half-life of verapamil to about 14 to 16 hours; hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients. Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects (see
+                              OVERDOSAGE
+                           ) should be carried out.
+
+                           Use in patients with attenuated (decreased) neuromuscular transmission: It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne’s muscular dystrophy, prolongs recovery from the neuromuscular blocking agent vecuronium, and causes a worsening of myasthenia gravis. It may be necessary to decrease the dosage of verapamil when it is administered to patients with attenuated neuromuscular transmission.
+
+                           Use in patients with impaired renal function: About 70% of an administered dose of verapamil is excreted as metabolites in the urine. Verapamil is not removed by hemodialysis. Until further data are available, verapamil should be administered cautiously to patients with impaired renal function. These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage (see
+                              OVERDOSAGE
+                           ).

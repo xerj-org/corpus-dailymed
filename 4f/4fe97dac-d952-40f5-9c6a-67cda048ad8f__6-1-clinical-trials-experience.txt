@@ -1,0 +1,354 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 6.1 Clinical Trials Experience
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of one drug cannot be directly compared to rates in other clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+                           Primary Immunodeficiency (PI)
+
+                        The most serious adverse event observed in clinical study subjects receiving GAMUNEX-C IV for PI was an exacerbation of autoimmune pure red cell aplasia in one subject.
+
+                        In four different clinical trials to study PI, out of 157 subjects treated with GAMUNEX-C, 4 subjects discontinued due to the following adverse events: Coombs negative hypochromic anemia, autoimmune pure red cell aplasia, arthralgia/hyperhidrosis/fatigue/myalgia/nausea and migraine.
+
+                        In a study of 87 subjects, 9 subjects in each treatment group were pretreated with non-steroidal medication prior to infusion, such as diphenhydramine and acetaminophen.
+
+                           Table 1 lists the adverse reactions reported by at least 5% of subjects during the 9-month treatment.
+
+                           Table 1:  Adverse Reactions Occurring in ≥ 5% of Subjects
+
+                                 * An adverse reaction is an adverse event that meets any of the following 3 criteria: (a) that began during or within 72 hours of the end of product infusion, (b) that were considered at least possibly related by either the investigator or the applicant, and/or (c) whose causality assessment by the investigator was missing or indeterminate. |
+
+                                 Adverse Reactions |
+                                 GAMUNEX®-C |
+                                 GAMIMUNE® N, 10% |
+
+                                 No. of subjects: 87 |
+                                 No. of subjects: 85 |
+
+                                 No. of subjects with adverse reaction (percentage of all subjects) |
+                                 No. of subjects with adverse reaction (percentage of all subjects) |
+
+                                 Cough increased |
+                                 27 (31.0%) |
+                                 25 (29.4%) |
+
+                                 Rhinitis |
+                                 21 (24.1%) |
+                                 24 (28.2%) |
+
+                                 Headache |
+                                 13 (14.9%) |
+                                 17 (20.0%) |
+
+                                 Pharyngitis |
+                                 14 (16.1%) |
+                                 16 (18.8%) |
+
+                                 Asthma |
+                                 13 (14.9%) |
+                                 10 (11.8%) |
+
+                                 Fever |
+                                 6 (6.9%) |
+                                 10 (11.8%) |
+
+                                 Nausea |
+                                 10 (11.5%) |
+                                 9 (10.6%) |
+
+                                 Diarrhea |
+                                 6 (6.9%) |
+                                 9 (10.6%) |
+
+                                 Sinusitis |
+                                 5 (5.7%) |
+                                 6 (7.1%) |
+
+                           Table 2 lists the frequency of adverse reactions (as defined for Table 1), which were reported by at least 5% of subjects.
+
+                           Table 2: Adverse Reactions Frequency
+
+                                 Adverse Reactions  |
+                                 GAMUNEX®-C
+
+No. of infusions: 825
+
+Number (percentage of all infusions) |
+                                 GAMIMUNE® N, 10%
+
+No. of infusions: 865
+
+Number (percentage of all infusions) |
+
+                                 Cough increased |
+                                 40 (4.8%) |
+                                 47 (5.4%) |
+
+                                 Rhinitis |
+                                  34 (4.1%)  |
+                                  44 (5.1%)  |
+
+                                 Headache |
+                                  17 (2.1%) |
+                                 24 (2.8%) |
+
+                                 Pharyngitis |
+                                  20 (2.4%)  |
+                                  24 (2.8%)  |
+
+                                 Fever |
+                                  8 (1.0%) |
+                                  20 (2.3%) |
+
+                                 Asthma |
+                                  17 (2.1%) |
+                                 12 (1.4%)  |
+
+                                 Diarrhea |
+                                  10 (1.2%) |
+                                 10 (1.2%) |
+
+                                 Nausea |
+                                  10 (1.2%) |
+                                 10 (1.2%) |
+
+                                 Sinusitis |
+                                  6 (0.7%) |
+                                  7 (0.8%) |
+
+                        The mean number of adverse reactions per infusion that occurred during or within 72 hours of the end of product infusion was 0.33 for the GAMUNEX-C and 0.39 for the GAMIMUNE® N, 10% [Immune Globulin Intravenous (Human), 10%] treatment group.
+
+                        In all three trials in primary humoral immunodeficiencies, the maximum infusion rate was 0.08 mL/kg/min (8 mg/kg/min). The infusion rate was reduced for 11 of 222 exposed subjects (7 GAMUNEX-C, 4 GAMIMUNE N, 10%) at 17 occasions. In most instances, mild to moderate hives/urticaria, itching, pain or reaction at infusion site, anxiety or headache was the main reason. There was one case of severe chills. There were no anaphylactic or anaphylactoid reactions to GAMUNEX-C or GAMIMUNE N, 10% in clinical trials.
+
+                        In the IV efficacy and safety study, serum samples were drawn to monitor the virus safety at baseline and one week after the first infusion of IGIV (for parvovirus B19), eight weeks after first and fifth infusion of IGIV (for hepatitis C, hepatitis B, and HIV-1), 16 weeks after the first and fifth infusion of IGIV (for hepatitis C) and at any time of premature discontinuation of the study (for hepatitis C, hepatitis B, HIV-1, and parvovirus B19). Viral markers of hepatitis C, hepatitis B, HIV-1, and parvovirus B19 were monitored by nucleic acid testing (NAT, Polymerase Chain Reaction [PCR]) and serological testing.  There were no treatment related emergent findings of virus transmission for either GAMUNEX-C or GAMIMUNE N, 10%.
+
+                           Idiopathic Thrombocytopenic Purpura (ITP)
+
+                        In two different clinical trials to study ITP, out of 76 subjects treated with GAMUNEX-C, 2 subjects discontinued due to the following adverse reactions: Hives and Headache/Fever/Vomiting.
+
+                        One subject, a 10-year-old boy, died suddenly from myocarditis 50 days after his second infusion of GAMUNEX-C. The death was judged to be unrelated to GAMUNEX-C.
+
+                        No pre-medication with corticosteroids was permitted by the protocol. Twelve ITP subjects treated in each treatment group were pretreated with medication prior to infusion. Generally, diphenhydramine and/or acetaminophen were used. More than 90% of the observed drug related adverse events were of mild to moderate severity and of transient nature.
+
+                        The infusion rate was reduced for 4 of the 97 exposed subjects (1 GAMUNEX-C, 3 GAMIMUNE N, 10%) on 4 occasions. Mild to moderate headache, nausea, and fever were the reported reasons.
+
+                           Table 3 lists the adverse reactions (as defined for Table 1) reported by at least 5% of subjects during the 3-month efficacy and safety study.
+
+                           Table 3: Adverse Reactions Occurring in ≥ 5% of Subjects
+
+                                 Adverse Reaction |
+                                 GAMUNEX®-C
+
+No. of subjects: 48
+
+Number (percentage of all subjects) |
+                                 GAMIMUNE® N, 10%
+
+No. of subjects: 49
+
+Number (percentage of all subjects) |
+
+                                 Headache |
+                                 25 (52.1%) |
+                                 26 (53.1%) |
+
+                                 Vomiting |
+                                 6 (12.5%) |
+                                 8 (16.3%) |
+
+                                 Ecchymosis |
+                                 7 (14.6%) |
+                                 2 (4.1%) |
+
+                                 Fever |
+                                 6 (12.5%) |
+                                 6 (12.2%) |
+
+                                 Nausea |
+                                 6 (12.5%) |
+                                 5 (10.2%) |
+
+                                 Rash |
+                                 4 (8.3%) |
+                                 0  |
+
+                                 Abdominal pain |
+                                 3 (6.3%) |
+                                 3 (6.1%) |
+
+                                 Back pain |
+                                 3 (6.3%) |
+                                 2 (4.1%) |
+
+                                 Dyspepsia |
+                                 3 (6.3%) |
+                                 0 |
+
+                                 Asthenia |
+                                 2 (4.2%) |
+                                 3 (6.1%) |
+
+                                 Dizziness |
+                                 2 (4.2%) |
+                                 3 (6.1%) |
+
+                        Serum samples were drawn to monitor the virus safety of the ITP subjects at baseline, nine days after the first infusion (for parvovirus B19), and 3 months after the first infusion of IGIV and at any time of premature discontinuation of the study. Viral markers of hepatitis C, hepatitis B, HIV-1, and parvovirus B19 were monitored by nucleic acid testing (NAT, PCR), and serological testing. There were no treatment related emergent findings of virus transmission for either GAMUNEX-C or GAMIMUNE N, 10%.
+
+                           Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+
+                        In the CIDP efficacy and safety study, 113 subjects were exposed to GAMUNEX-C and 95 were exposed to Placebo. [see Clinical Studies (14)] As a result of the study design, the drug exposure with GAMUNEX-C was almost twice that of Placebo, with 1096 GAMUNEX-C infusions versus 575 Placebo infusions. Therefore, adverse reactions are reported per infusion (represented as frequency) to correct for differences in drug exposure between the 2 groups. The majority of loading-doses were administered over 2 days. The majority of maintenance-doses were administered over 1 day. Infusions were administered in the mean over 2.7 hours.
+
+                           Table 4 shows the numbers of subjects per treatment group in the CIDP clinical trial, and the reason for discontinuation due to adverse events.
+
+                           Table 4: Reasons for Discontinuation Due to Adverse Events
+
+                                 Number of Subjects |
+                                 Number of Subjects Discontinued
+
+due to Adverse Events |
+                                 Adverse Event |
+
+                                 GAMUNEX®-C |
+                                 113 |
+                                 3 (2.7%) |
+                                 Urticaria, Dyspnea,
+
+Bronchopneumonia |
+
+                                 Placebo |
+                                 95 |
+                                 2 (2.1%) |
+                                  Cerebrovascular Accident,
+
+Deep Vein Thrombosis  |
+
+                        The most common adverse reactions with GAMUNEX-C were headache and pyrexia. Table 5 lists adverse reactions (as defined for Table 1) reported by at least 5% of subjects in any treatment group.
+
+                           Table 5: Adverse Reactions Occurring in ≥ 5% of Subjects
+
+                                    |
+                                 GAMUNEX®-C
+
+No. of subjects: 113 |
+                                 Placebo
+
+No. of subjects: 95 |
+
+                                 MedDRA
+
+Preferred TermReported in ≥ 5% of subjects in any treatment group.
+
+                                  |
+
+                                    No. of
+
+Subjects
+
+(%)
+
+                                  |
+                                 No. of
+
+Adverse
+
+Reactions |
+                                 Incidence
+
+ densityCalculated by the total number of adverse reactions divided by the number of infusions received (1096 for GAMUNEX-C and 575 for Placebo).
+
+                                  |
+
+                                    No. of
+
+Subjects
+
+(%)
+
+                                  |
+                                 No. of
+
+Adverse
+
+Reactions |
+                                 Incidence
+
+density
+                                  |
+
+                                 Headache  |
+                                 35 (31.0%) |
+                                 50 |
+                                 0.046 |
+                                 7 (7.4%) |
+                                 9 |
+                                 0.016 |
+
+                                 Pyrexia |
+                                 15 (13.3%) |
+                                 27 |
+                                 0.025 |
+                                 0 |
+                                 0 |
+                                   |
+
+                                 Hypertension |
+                                 10 (8.8%) |
+                                 19 |
+                                 0.017 |
+                                 3 (3.2%) |
+                                 3 |
+                                 0.005 |
+
+                                 Chills |
+                                 9 (8.0%)  |
+                                 10 |
+                                 0.009 |
+                                 0 (0%) |
+                                 0 |
+                                   |
+
+                                 Nausea |
+                                 7 (6.2%) |
+                                 9 |
+                                 0.008 |
+                                 3 (3.2%) |
+                                 3 |
+                                 0.005 |
+
+                                 Rash |
+                                 7 (6.2%) |
+                                 10 |
+                                 0.009 |
+                                 1 (1.1%) |
+                                 1 |
+                                 0.002 |
+
+                                 Arthralgia |
+                                 6 (5.3%) |
+                                 7 |
+                                 0.006 |
+                                 0 |
+                                 0 |
+                                   |
+
+                                 Asthenia |
+                                 6 (5.3%) |
+                                 6 |
+                                 0.005 |
+                                 1 (1.1%) |
+                                 2 |
+                                 0.003 |
+
+                        The most serious adverse reaction observed in clinical study subjects receiving GAMUNEX-C for CIDP was pulmonary embolism (PE) in one subject with a history of PE.
+
+                            Laboratory Abnormalities
+
+                        During the course of the clinical program, ALT and AST elevations were identified in some subjects.
+
+                           For ALT, in the IV PI study treatment emergent elevations above the upper limit of normal were transient and observed among 14/80 (18%) of subjects in the GAMUNEX-C group versus 5/88 (6%) of subjects in the GAMIMUNE N, 10% group (p = 0.026).
+
+                           In the ITP study which employed a higher dose per infusion, but a maximum of only two infusions, the reverse finding for elevation of ALT was observed among 3/44 (7%) of subjects in the GAMUNEX-C group versus 8/43 (19%) of subjects in the GAMIMUNE N, 10% group (p = 0.118).
+
+                           In the CIDP study, 15/113 (13%) of subjects in the GAMUNEX-C group and 7/95 (7%) in the Placebo group (p=0.168) had a treatment emergent transient elevation of ALT.
+
+                        Elevations of ALT were generally mild (< 3 times upper limit of normal), transient, and were not associated with obvious symptoms of liver dysfunction.
+
+                        GAMUNEX-C may contain low levels of anti-Blood Group A and B antibodies primarily of the IgG4 class.  Direct antiglobulin tests (DAT or direct Coombs tests), which are carried out in some centers as a safety check prior to red blood cell transfusions, may become positive temporarily. There were 2 cases of hemolytic anemia across these clinical trials. One hemolytic event not associated with positive DAT findings was observed in the IV PI study in a woman with common variable immune deficiency and B12 deficiency (pernicious anemia) at a dose of (450 mg/kg).  The other hemolytic event occurred in the CIDP study in a subject with positive DAT at a dose of 1g/kg.

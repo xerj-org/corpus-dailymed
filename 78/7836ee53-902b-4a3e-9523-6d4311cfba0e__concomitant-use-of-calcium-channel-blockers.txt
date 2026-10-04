@@ -1,0 +1,5 @@
+DailyMed 7836ee53-902b-4a3e-9523-6d4311cfba0e | Atenolol | Concomitant Use of Calcium Channel Blockers
+
+Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta-blockers are administered with verapamil or diltiazem. Patients with pre-existing conduction abnormalities or left ventricular dysfunction are particularly susceptible. (See
+                              PRECAUTIONS
+                           .)

@@ -1,0 +1,7 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 5.3 Drug Interactions Leading to QTc Interval Prolongation
+
+Cases of QTc interval prolongation have been reported with the use of paroxetine, although causal relationship with PAXIL has not been established. 
+
+                        PAXIL is a strong CYP2D6 inhibitor.  Concomitant use of PAXIL with CYP2D6 substrates that prolong the QTc interval can increase the concentration of those CYP2D6 substrates and may result in a greater increase in the QTc interval and adverse reactions associated with QTc interval prolongation, including Torsade de pointes, other serious arrythmias, and sudden death.
+
+                        The concomitant use of PAXIL is contraindicated with CYP2D6 substrates that prolong the QTc interval [see Drug Interactions (7) and Clinical Pharmacology (12.3)].

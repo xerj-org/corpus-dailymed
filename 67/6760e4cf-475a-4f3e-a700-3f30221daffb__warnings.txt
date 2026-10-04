@@ -1,0 +1,21 @@
+DailyMed 6760e4cf-475a-4f3e-a700-3f30221daffb | Orvexa | WARNINGS
+
+Risk of Methemoglobinemia
+
+                  Cases of methemoglobinemia have been reported in association with local anesthetic use. Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition. If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
+
+                  Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood. Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death. Discontinue lidocaine and any other oxidizing agents. Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e. oxygen therapy, hydration. A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
+
+                     Accidental Exposure in Children
+
+                  Even a used lidocaine patch contains a large amount of lidocaine (at least 665 mg). The potential exists for a small child or a pet to suffer serious adverse effects from chewing or ingesting a new or used lidocaine patch, although the risk with this formulation has not been evaluated. It is important for patients to store
+
+                        and dispose of
+
+                      lidocaine patch 5% out of the reach of children, pets and others (see
+                        HANDLING AND DISPOSAL
+                     ).
+
+                     Excessive Dosing
+
+                  Excessive dosing by applying lidocaine patch 5% to larger areas or for longer than the recommended wearing time could result in increased absorption of lidocaine and high blood concentrations, leading to serious adverse effects (see ADVERSE REACTIONS, Systemic Reactions). Lidocaine toxicity could be expected at lidocaine blood concentrations above 5 mcg/mL. The blood concentration of lidocaine is determined by the rate of systemic absorption and elimination. Longer duration of application, application of more than the recommended number of patches, smaller patients, or impaired elimination may all contribute to increasing the blood concentration of lidocaine. With recommended dosing of lidocaine patch 5%, the average peak blood concentration is about 0.13 mcg/mL, but concentrations higher than 0.25 mcg/mL have been observed in some individuals.

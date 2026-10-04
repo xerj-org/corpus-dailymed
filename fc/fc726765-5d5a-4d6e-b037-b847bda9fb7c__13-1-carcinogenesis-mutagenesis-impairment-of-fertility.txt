@@ -1,0 +1,5 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Finerenone was non-genotoxic in an in vitro bacterial reverse mutation (Ames) assay, the in vitro chromosomal aberration assay in cultured Chinese hamster V79 cells, or the in vivo micronucleus assay in mice.
+
+                        In 2-year carcinogenicity studies, finerenone did not show a statistically significant increase in tumor response in Wistar rats or in CD1 mice. In male mice, Leydig cell adenoma was numerically increased at a dose representing 10 times the AUCunbound in humans and is not considered clinically relevant. Finerenone did not impair fertility in male rats but impaired fertility in female rats at 9 times AUC to the maximum human exposure.

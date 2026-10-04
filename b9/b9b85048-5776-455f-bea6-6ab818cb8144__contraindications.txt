@@ -1,0 +1,3 @@
+DailyMed b9b85048-5776-455f-bea6-6ab818cb8144 | hydrochlorothiazide | CONTRAINDICATIONS
+
+Hydrochlorothiazide capsules are contraindicated in patients with anuria. Hypersensitivity to this product or other sulfonamide derived drugs is also contraindicated.

@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Hepatic Insufficiency
+
+Decreases in clearance and protein binding, and increases in volume of distribution and half-life have been reported in patients with cirrhosis. In such patients, a 2- to 5-fold increase in mean half-life has been reported. Delayed elimination has also been reported for the active metabolite desmethyldiazepam. Benzodiazepines are commonly implicated in hepatic encephalopathy. Increases in half-life have also been reported in hepatic fibrosis and in both acute and chronic hepatitis (see CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations: Hepatic Insufficiency).

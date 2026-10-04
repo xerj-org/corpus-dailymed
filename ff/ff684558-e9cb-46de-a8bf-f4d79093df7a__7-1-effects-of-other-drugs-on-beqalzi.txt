@@ -1,0 +1,15 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 7.1 Effects of Other Drugs on BEQALZI
+
+Strong or Moderate CYP3A Inhibitors
+
+                        Concomitant use of strong CYP3A inhibitors during the initiation and ramp-up phase with BEQALZI is contraindicated. After the ramp-up phase, reduce the target dose of BEQALZI as in Table 5 [see Dosage and Administration (2.4)].
+
+                        For dose modifications of sonrotoclax with moderate CYP3A inhibitors, see Dosage and Administration (2.4).
+
+                        Sonrotoclax is a CYP3A substrate [see Clinical Pharmacology (12.3)]. Concomitant use with strong and moderate CYP3A inhibitors increase sonrotoclax exposure [see Clinical Pharmacology (12.3)], which may increase the risk of BEQALZI adverse reactions.
+
+                           Strong or Moderate CYP3A Inducers
+
+                        Avoid concomitant use of strong or moderate CYP3A inducers with BEQALZI.
+
+                        Sonrotoclax is a CYP3A substrate [see Clinical Pharmacology (12.3)]. Concomitant use with strong CYP3A inducers decreases sonrotoclax exposure [see Clinical Pharmacology (12.3)], which may reduce effectiveness of sonrotoclax.

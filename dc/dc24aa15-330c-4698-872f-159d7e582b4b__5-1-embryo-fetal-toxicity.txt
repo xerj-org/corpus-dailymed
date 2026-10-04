@@ -1,0 +1,11 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 5.1 Embryo-Fetal Toxicity
+
+Use of mycophenolic acid delayed release during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities, including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney, and nervous system. Females of reproductive potential must be aware of these risks and must be counseled regarding pregnancy prevention and planning. Avoid use of mycophenolic acid delayed release during pregnancy if safer treatment options are available.
+
+  [see Use in Specific Populations(
+
+   8.1,
+
+   8.3)
+
+  ].

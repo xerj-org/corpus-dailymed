@@ -1,0 +1,23 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 6.2 Postmarketing Experience
+
+In addition to the adverse drug reactions identified in clinical trials in Table 6 and Table 7, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam for injection. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Hepatobiliary-hepatitis, jaundice
+
+                           Hematologic-hemolytic anemia, agranulocytosis, pancytopenia
+
+                           Immune-hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), hemophagocytic lymphohistiocytosis (HLH), acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction
+
+                           Renal-interstitial nephritis
+
+                           Nervous system disorders-seizures
+
+                           Psychiatric disorders-delirium
+
+                           Respiratory-eosinophilic pneumonia
+
+                           Skin and Appendages-erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative, and linear IgA bullous dermatosis.
+
+                           Musculoskeletal-rhabdomyolysis
+
+                        Postmarketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults.

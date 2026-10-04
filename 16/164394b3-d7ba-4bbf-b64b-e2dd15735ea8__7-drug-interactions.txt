@@ -1,0 +1,5 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 7 DRUG INTERACTIONS
+
+Data from a drug-drug interaction study involving 10 mg of amlodipine and 80 mg of atorvastatin in healthy subjects indicate that the pharmacokinetics of amlodipine are not altered when the drugs are co-administered. The effect of amlodipine on the pharmacokinetics of atorvastatin showed no effect on the Cmax: 91% (90% confidence interval: 80 to 103%), but the AUC of atorvastatin increased by 18% (90% confidence interval: 109 to 127%) in the presence of amlodipine, which is not clinically meaningful.
+
+                  No drug interaction studies have been conducted with CADUET and other drugs, although studies have been conducted in the individual amlodipine and atorvastatin components, as described below:

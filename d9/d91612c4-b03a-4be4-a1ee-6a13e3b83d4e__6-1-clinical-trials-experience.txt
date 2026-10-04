@@ -1,0 +1,74 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        In controlled and uncontrolled trials in patients with seizures associated with CDD, 102 patients were treated with ZTALMY, including 83 patients treated for more than 6 months, and 50 patients treated for more than 1 year.
+
+                        In Study 1, 50 patients received ZTALMY [see Clinical Studies (14)]. The duration of treatment in this trial was up to 17 weeks. Approximately 78% of these patients were female, 92% were White, and the mean age was 6.8 years (range 2 to 19 years). All patients receiving ZTALMY, except 1, were taking other AEDs. Adverse reactions in these patients are presented below.
+
+                        The most common adverse reactions (an incidence of at least 5% and at least twice the rate of placebo) were somnolence, pyrexia, salivary hypersecretion, and seasonal allergy (Table 6).
+
+                        The adverse reactions leading to treatment discontinuation in ZTALMY-treated patients were somnolence and seizure (1 patient) and seizure (1 patient).
+
+                        Twenty-two percent of ZTALMY-treated patients had dosing interrupted or reduced because of any adverse reaction, compared to 16% of placebo-treated patients. The most frequent adverse reactions leading to a dose interruption or reduction in ZTALMY-treated patients were somnolence (10%) and sedation (2%).
+
+                        Table 6 presents the adverse reactions that occurred in ZTALMY-treated patients with seizures associated with CDD at a rate of at least 3% and at a rate greater than in placebo-treated patients during the double-blind phase.
+
+                           Table 6 	Adverse Reactions that Occurred in ZTALMY-Treated Patients with Seizures Associated with CDD at a Rate of At Least 3% and Greater Than in Placebo (Study 1)
+
+                                 Adverse Reactions |
+                                 ZTALMY
+
+(N=50) |
+                                 Placebo
+
+(N=51) |
+
+                                  |
+                                 % |
+                                 % |
+
+                                 Somnolencesomnolence includes the terms lethargy and hypersomnia
+
+                                    adverse reactions that occurred with a 21-day titration; somnolence and sedation are expected to be reduced with the recommended 28-day titration [see Dosage and Administration (2.1, 2.3)]
+
+                                  |
+                                 38 |
+                                 20 |
+
+                                 Pyrexia |
+                                 18 |
+                                 8 |
+
+                                 Upper respiratory tract infection |
+                                 10 |
+                                 6 |
+
+                                 Sedation
+                                  |
+                                 6 |
+                                 4 |
+
+                                 Salivary Hypersecretion |
+                                 6 |
+                                 2 |
+
+                                 Seasonal allergy |
+                                 6 |
+                                 0 |
+
+                                 Bronchitis |
+                                 4 |
+                                 0 |
+
+                                 Influenza |
+                                 4 |
+                                 2 |
+
+                                 Gait disturbance |
+                                 4 |
+                                 2 |
+
+                                 Nasal congestion |
+                                 4 |
+                                 2 |

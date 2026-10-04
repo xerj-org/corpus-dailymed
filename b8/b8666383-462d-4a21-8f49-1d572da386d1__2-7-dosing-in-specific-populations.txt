@@ -1,0 +1,37 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 2.7 Dosing in Specific Populations
+
+Geriatric
+
+                           — Consider a lower or less frequent dosage for the elderly
+
+  [see
+
+   Use in Specific Populations (8.5)].
+
+                           Hepatic Impairment— As with many other medications, use a lower or less frequent dosage in patients with hepatic impairment
+
+  [see 
+
+   Clinical Pharmacology (12.4)and
+
+   Use in Specific Populations (8.6)].
+
+  Concomitant Illness
+  — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments
+
+  [see 
+
+   Clinical Pharmacology (12.4)and
+
+   Warnings and Precautions (5.12)].
+
+  Fluoxetine Capsules and Olanzapine in Combination
+  — Use a starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, non-smoking status), or those patients who may be pharmacodynamically sensitive to olanzapine. Titrate slowly and adjust dosage as needed in patients who exhibit a combination of factors that may slow metabolism. Fluoxetine capsules and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 10 years of age
+
+  [see 
+
+   Warnings and Precautions (5.16)and
+
+   Drug Interactions (7.7)]
+
+  .

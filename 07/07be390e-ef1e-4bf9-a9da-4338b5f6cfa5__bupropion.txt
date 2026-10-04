@@ -1,0 +1,3 @@
+DailyMed 07be390e-ef1e-4bf9-a9da-4338b5f6cfa5 | PredniSONE | Bupropion
+
+Since systemic steroids, as well as bupropion, can lower the seizure threshold, concurrent administration should be undertaken only with extreme caution; low initial dosing and small gradual increases should be employed.

@@ -1,0 +1,7 @@
+DailyMed a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec | Zybic | 5.3 Hepatotoxicity
+
+Elevations of ALT or AST (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical trials. In addition, rare, sometimes fatal, cases of severe hepatic injury, including fulminant hepatitis, liver necrosis, and hepatic failure have been reported.
+
+                        Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs including meloxicam.
+
+                        Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms). If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue Zybic™ immediately, and perform a clinical evaluation of the patient [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

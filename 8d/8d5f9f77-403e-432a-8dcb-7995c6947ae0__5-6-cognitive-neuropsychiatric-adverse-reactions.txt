@@ -1,0 +1,33 @@
+DailyMed 8d5f9f77-403e-432a-8dcb-7995c6947ae0 | Topiramate | 5.6 Cognitive/Neuropsychiatric Adverse Reactions
+
+Immediate-release topiramate can cause cognitive/neuropsychiatric adverse reactions and therefore these are expected to be caused by topiramate extended-release capsules. The most frequent of these can be classified into three general categories: 1) Cognitive-related dysfunction (e.g., confusion, psychomotor slowing, difficulty with concentration/attention, difficulty with memory, speech or language problems, particularly word-finding difficulties); 2) Psychiatric/behavioral disturbances (e.g., depression or mood problems); and 3) Somnolence or fatigue.
+
+                           Adult Patients
+
+                           Cognitive Related Dysfunction
+
+                        Rapid titration rate and higher initial dose were associated with higher incidences of cognitive-related dysfunction.
+
+                        In adult epilepsy adjunctive controlled trials, which used rapid titration (100 to 200 mg/day weekly increments) and target immediate-release topiramate doses of 200 mg to 1,000 mg/day, 56% of patients in the 800 mg/day and 1,000 mg/day dose groups experienced cognitive-related dysfunction compared to approximately 42% of patients in the 200 to 400 mg/day groups and 14% for placebo. In this rapid titration regimen, these dose-related adverse reactions began in the titration or in the maintenance phase, and in some patients these events began during titration and persisted into the maintenance phase.
+
+                        In the monotherapy epilepsy-controlled trial conducted with immediate-release topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.
+
+                        In the 6-month controlled trials for the preventive treatment of migraine, which used a slower titration regimen (25 mg/day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg/day, 22% for 100 mg/day (the recommended dose), 28% for 200 mg/day, and 10% for placebo. Cognitive adverse reactions most commonly developed during titration and sometimes persisted after completion of titration.
+
+                           Psychiatric/Behavioral Disturbances
+
+                        Psychiatric/behavioral disturbances (e.g., depression, mood) were dose-related for both the adjunctive epilepsy and migraine populations treated with topiramate [see Warnings and Precautions (5.5)].
+
+                           Somnolence/Fatigue
+
+                        Somnolence and fatigue were the adverse reactions most frequently reported during clinical trials of topiramate for adjunctive epilepsy. For the adjunctive epilepsy population, the incidence of fatigue appeared dose-related. For the monotherapy epilepsy population, the incidence of somnolence was dose-related. For the migraine population, the incidences of both somnolence and fatigue were dose-related and more common in the titration phase.
+
+                           Pediatric Patients
+
+                        In pediatric epilepsy trials (adjunctive and monotherapy), the incidence of cognitive/neuropsychiatric adverse reactions was generally lower than that observed in adults. These reactions included psychomotor slowing, difficulty with concentration/attention, speech disorders/related speech problems, and language problems. The most frequently reported cognitive/neuropsychiatric reactions in pediatric epilepsy patients during adjunctive therapy double-blind studies were somnolence and fatigue. The most frequently reported cognitive/neuropsychiatric reactions in pediatric epilepsy patients in the 50 mg/day and 400 mg/day groups during the monotherapy double-blind study were headache, dizziness, anorexia, and somnolence.
+
+                        In pediatric migraine patients, the incidence of cognitive/neuropsychiatric adverse reactions was increased in topiramate-treated patients compared to placebo.
+
+                        The risk for cognitive/neuropsychiatric adverse reactions was dose-dependent and was greatest at the highest dose (200 mg). This risk for cognitive/neuropsychiatric adverse reactions was also greater in younger patients (6 to 11 years of age) than in older patients (12 to 17 years of age). The most common cognitive/neuropsychiatric adverse reaction in these trials was difficulty with concentration/attention. Cognitive adverse reactions most commonly developed during the titration period and sometimes persisted for various durations after completion of titration.
+
+                        The Cambridge Neuropsychological Test Automated Battery (CANTAB) was administered to adolescents (12 to 17 years of age) to assess the effects of topiramate on cognitive function at baseline and at the end of the Study 13 [see Clinical Studies (14.5)]. Mean change from baseline in certain CANTAB tests suggests that topiramate treatment may result in psychomotor slowing and decreased verbal fluency.

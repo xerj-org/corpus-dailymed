@@ -1,0 +1,22 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 5.6 Zortress and Calcineurin Inhibitor-Induced Nephrotoxicity
+
+In kidney transplant recipients, Zortress with standard dose cyclosporine increases the risk of nephrotoxicity resulting in a lower glomerular filtration rate. Reduced doses of cyclosporine are required for use in combination with Zortress in order to reduce renal dysfunction [
+                           see
+                           Boxed Warning, Indications and Usage (1.
+                           1
+                           ), Clinical Pharmacology (12.
+                           8
+                           )]
+                           .
+                            
+
+                        In liver transplant recipients, Zortress has not been studied with standard dose tacrolimus. Reduced doses of tacrolimus should be used in combination with Zortress in order to minimize the potential risk of nephrotoxicity [
+                           s
+                           ee
+                           Indications and Usage (1.2), Clinical Pharmacology (12.
+                           9
+                           )]
+                           .
+                            
+
+                        Renal function should be monitored during the administration of Zortress. Consider switching to other immunosuppressive therapies if renal function does not improve after dose adjustments or if the dysfunction is thought to be drug related. Caution should be exercised when using other drugs which are known to impair renal function.

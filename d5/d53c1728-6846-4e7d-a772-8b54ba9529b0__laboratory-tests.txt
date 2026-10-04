@@ -1,0 +1,7 @@
+DailyMed d53c1728-6846-4e7d-a772-8b54ba9529b0 | TRIAMCINOLONE ACETONIDE | LABORATORY TESTS
+
+The following tests may be helpful in evaluating the HPA axis suppression:
+
+                        Urinary free cortisol test
+
+                        ACTH stimulation test

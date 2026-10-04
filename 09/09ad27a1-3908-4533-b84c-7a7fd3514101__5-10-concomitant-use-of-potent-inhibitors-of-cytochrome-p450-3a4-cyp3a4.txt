@@ -1,0 +1,3 @@
+DailyMed 09ad27a1-3908-4533-b84c-7a7fd3514101 | TADALAFIL | 5.10 Concomitant Use of Potent Inhibitors of Cytochrome P450 3A4 (CYP3A4)
+
+Tadalafil tablets are metabolized predominantly by CYP3A4 in the liver. The dose of tadalafil tablets for use as needed should be limited to 10 mg no more than once every 72 hours in patients taking potent inhibitors of CYP3A4 such as ritonavir, ketoconazole, and itraconazole [see Drug Interactions (7.2)]. In patients taking potent inhibitors of CYP3A4 and tadalafil tablets for once daily use, the maximum recommended dose is 2.5 mg [see Dosage and Administration (2.7)].

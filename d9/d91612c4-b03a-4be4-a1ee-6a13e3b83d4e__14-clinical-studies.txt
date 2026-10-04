@@ -1,0 +1,41 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 14 CLINICAL STUDIES
+
+The effectiveness of ZTALMY for the treatment of seizures associated with CDD in patients 2 years of age and older was established in a single, double-blind, randomized, placebo-controlled study in patients 2 to 19 years of age (Study 1, NCT03572933).
+
+                  Patients enrolled in Study 1 (N=50 for ZTALMY; N=51 for placebo) had molecular confirmation of a pathogenic or likely pathogenic mutation in the CDKL5 gene, seizures inadequately controlled by at least 2 previous treatment regimens, and a minimum of 16 major motor seizures (i.e., bilateral tonic, generalized tonic-clonic, bilateral clonic, atonic, focal to bilateral tonic-clonic) per 28 days during a retrospective 2-month period prior to screening.
+
+                  Patients were randomized in a 1:1 ratio to receive either ZTALMY or placebo. Following a titration period, patients in the ZTALMY arm weighing 28 kg or less received a maintenance dosage of 21 mg/kg three times daily (with a maximum daily dose of 1800 mg) while patients in the ZTALMY arm weighing more than 28 kg received a maintenance dosage of 600 mg three times daily [see Dosage and Administration (2.1)].
+
+                  Ninety-six percent of patients were taking between 1 to 4 concomitant AEDs. The most frequently used concomitant AEDs (in at least 20% of patients) were valproate (34%), levetiracetam (26%), clobazam (25%), and vigabatrin (22%).
+
+                  The primary efficacy endpoint was the percentage change in the 28-day frequency of major motor seizures (defined similarly as in the 2-month period prior to screening) from a 6-week prospective baseline phase during the 17-week double-blind phase. Patients treated with ZTALMY had a significantly greater reduction in the 28-day frequency of major motor seizures compared to patients receiving placebo (see Table 7).
+
+                     Table 7 	Change in Frequency of Major Motor Seizures per 28 days in Patients with CDD (Study 1)
+
+                           Frequency of Major Motor Seizures
+
+(per 28 days) |
+                           Placebo
+
+ (N=51) |
+                           ZTALMY
+
+ (N=49) |
+
+                           Prospective Baseline Phase Median Seizure Frequency |
+                           49 |
+                           54 |
+
+                           Median Percent Change from Baseline During Treatment |
+                           -7 |
+                           -31 |
+
+                           p-value compared to placeboObtained from a Wilcoxon rank-sum test
+
+                            |
+                            |
+                           0.0036 |
+
+                  Figure 1 displays the percentage of patients by category of reduction from baseline in the 28-day frequency of major motor seizures during the 17-week double-blind phase.
+
+                     Figure 1	Proportion of Patients by Category of Seizure Response for ZTALMY and Placebo in Patients with CDD (Study 1)

@@ -1,0 +1,3 @@
+DailyMed 57376a5b-4530-9018-e063-6394a90a9afe | PRIALT | 14.1 Laboratory Tests
+
+Monitor serum CK in patients undergoing treatment with PRIALT periodically (e.g., every other week for the first month and monthly as appropriate thereafter). Evaluate patients clinically and obtain CK measurements in the setting of new neuromuscular symptoms (e.g., myalgias, myasthenia, muscle cramps, asthenia) or a reduction in physical activity. If these symptoms continue and CK levels remain elevated or continue to rise, reduce the dose or discontinue the use of PRIALT.

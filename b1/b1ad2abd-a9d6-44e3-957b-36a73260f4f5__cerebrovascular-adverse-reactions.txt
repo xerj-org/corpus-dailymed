@@ -1,0 +1,3 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Cerebrovascular Adverse Reactions
+
+In controlled trials, elderly patients with dementia-related psychosis treated with some antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities. The mechanism for this increased risk is not known. An increased risk cannot be excluded for Haloperidol injection, other antipsychotics, or other patient populations. Haloperidol injection should be used with caution in patients with risk factors for cerebrovascular adverse reactions.

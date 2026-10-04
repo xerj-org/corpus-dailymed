@@ -1,0 +1,15 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 8.2 Lactation
+
+Risk Summary
+
+                        Topiramate is excreted in human milk
+
+  [see Data].The effects of topiramate on milk production are unknown. Diarrhea and somnolence have been reported in breastfed infants whose mothers receive topiramate treatment.
+
+                        The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for topiramate and any potential adverse effects on the breastfed infant from topiramate or from the underlying maternal condition.
+
+                              Data
+
+                           Human Data
+
+                        Limited data from 5 women with epilepsy treated with topiramate during lactation showed drug levels in milk similar to those in maternal plasma.

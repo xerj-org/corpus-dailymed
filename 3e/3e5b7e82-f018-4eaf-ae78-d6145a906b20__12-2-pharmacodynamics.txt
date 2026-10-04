@@ -1,0 +1,3 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 12.2 Pharmacodynamics
+
+Peripheral B-cell counts declined to levels below normal following a dose of rituximab by intravenous infusion. In patients treated with rituximab for hematological malignancies, B cell recovery began within 6 months of treatment and generally returned to normal levels within 12 months after completion of therapy, although in some patients this may take longer.

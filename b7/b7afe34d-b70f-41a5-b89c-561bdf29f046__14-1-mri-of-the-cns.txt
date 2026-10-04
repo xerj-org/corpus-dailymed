@@ -1,0 +1,164 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 14.1 MRI of the CNS
+
+The effectiveness of GADAVIST for the visualization of lesions was evaluated in two clinical trials (i.e., Studies 1 and 2) in patients who were referred for MRI of the CNS with contrast. In both studies, patients underwent a baseline, pre-contrast MRI prior to administration of GADAVIST at a dose of 0.1 mmol/kg, followed by a post-contrast MRI. In Study 1, patients also underwent an MRI before and after the administration of gadoteridol. The studies were designed to demonstrate superiority of GADAVIST MRI to non-contrast MRI for lesion visualization. For both studies, pre-contrast and pre-plus-post contrast images (paired images) were independently evaluated by three readers for contrast enhancement and border delineation using a scale of 1 to 4, and for internal morphology using a scale of 1 to 3 (Table 6). Lesion counting was also performed to demonstrate non-inferiority of paired GADAVIST image sets to pre-contrast MRI. Readers were blinded to clinical information.
+
+                           Table 6: Primary Endpoint Visualization Scoring System
+
+                                 Score |
+                                 Visualization Characteristics |
+
+                                 Contrast Enhancement |
+                                 Border Delineation |
+                                 Internal Morphology |
+
+                                 1 |
+                                 None |
+                                 None |
+                                 Poorly visible |
+
+                                 2 |
+                                 Weak |
+                                 Moderate |
+                                 Moderately visible |
+
+                                 3 |
+                                 Clear |
+                                 Clear but incomplete |
+                                 Sufficiently visible |
+
+                                 4 |
+                                 Clear and bright |
+                                 Clear and complete |
+                                 N/A |
+
+                        A total of 657 patients were evaluated. The average age was 49 years (range 18 to 85 years) and 42% were male. The racial and ethnic representations were 39% White, 4% Black or African American, 16% Hispanic or Latino, 38% Asian, and 3% of other ethnic groups.
+
+                        Table 7 shows a comparison of visualization results between paired images and pre-contrast images. GADAVIST provided a statistically significant improvement for each of the three lesion visualization parameters when averaged across three independent readers for each study.
+
+                           Table 7: Visualization Endpoint Results of Central Nervous System Adult MRI Studies with 0.1 mmol/kg GADAVIST
+
+                                 Endpoint |
+                                 Study 1
+
+ N=336 |
+                                 Study 2
+
+ N=321 |
+
+                                 Pre-contrast |
+                                 Paired |
+                                 DifferenceDifference of means = (paired mean) – (pre-contrast mean)
+
+                                  |
+                                 Pre-contrast |
+                                 Paired |
+                                 Difference |
+
+                                 Contrast Enhancement |
+                                 0.97 |
+                                 2.26 |
+                                 1.29p<0.001
+
+                                  |
+                                 0.93 |
+                                 2.86 |
+                                 1.94
+                                  |
+
+                                 Border Delineation |
+                                 1.98 |
+                                 2.58 |
+                                 0.60
+                                  |
+                                 1.92 |
+                                 2.94 |
+                                 1.02
+                                  |
+
+                                 Internal Morphology |
+                                 1.32 |
+                                 1.93 |
+                                 0.60
+                                  |
+                                 1.57 |
+                                 2.35 |
+                                 0.78
+                                  |
+
+                                 Average # Lesions Detected |
+                                 8.08 |
+                                 8.25 |
+                                 0.17Did not meet noninferiority margin of -0.35
+
+                                  |
+                                 2.65 |
+                                 2.97 |
+                                 0.32Met noninferiority margin of -0.35
+
+                                  |
+
+                        Performances of GADAVIST and gadoteridol for visualization parameters were similar. Regarding the number of lesions detected, Study 2 met the prespecified noninferiority margin of -0.35 for paired read versus pre-contrast read while in Study 1, GADAVIST and gadoteridol did not.
+
+                        For the visualization endpoints contrast enhancement, border delineation, and internal morphology, the percentage of patients scoring higher for paired images compared to pre-contrast images ranged from 93% to 99% for Study 1, and 95% to 97% for Study 2. For both studies, the mean number of lesions detected on paired images exceeded that of the pre-contrast images; 37% for Study 1 and 24% for Study 2. There were 29% and 11% of patients in which the pre-contrast images detected more lesions for Study 1 and Study 2, respectively.
+
+                        The percentage of patients whose average reader mean score changed by ≤ 0, up to 1, up to 2, and ≥ 2 scoring categories presented in Table 6 is shown in Table 8. The categorical improvement of (≤ 0) represents higher (< 0) or identical (= 0) scores for the pre-contrast read, the categories with scores > 0 represent the magnitude of improvement seen for the paired read.
+
+                           Table 8: Primary Endpoint Visualization Categorical Improvement for Average Reader
+
+                                  |
+                                 Study 1
+
+ N=336 |
+                                 Study 2
+
+ N=321 |
+
+                                 Endpoint |
+                                 Categorical Improvement
+
+ (Paired – Pre-Contrast) % |
+                                 Categorical Improvement
+
+ (Paired – Pre-Contrast) % |
+
+                                  |
+                                 ≤ 0 |
+                                 > 0 – < 1 |
+                                 1 – < 2 |
+                                 ≥ 2 |
+                                 ≤ 0 |
+                                 > 0 – < 1 |
+                                 1 – < 2 |
+                                 ≥ 2 |
+
+                                 Contrast Enhancement |
+                                 1 |
+                                 30 |
+                                 55 |
+                                 13 |
+                                 3 |
+                                 6 |
+                                 34 |
+                                 57 |
+
+                                 Border Delineation |
+                                 7 |
+                                 73 |
+                                 18 |
+                                 1 |
+                                 5 |
+                                 38 |
+                                 51 |
+                                 5 |
+
+                                 Internal Morphology |
+                                 4 |
+                                 79 |
+                                 17 |
+                                 0 |
+                                 5 |
+                                 61 |
+                                 33 |
+                                 1 |
+
+                        For both studies, the improvement of visualization endpoints in paired GADAVIST images compared to pre-contrast images resulted in improved assessment of normal and abnormal CNS anatomy.

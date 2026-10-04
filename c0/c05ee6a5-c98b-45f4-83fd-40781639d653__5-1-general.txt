@@ -1,0 +1,9 @@
+DailyMed c05ee6a5-c98b-45f4-83fd-40781639d653 | DigiFab | 5.1 General
+
+Suicidal ingestion may result from more than one drug. Toxic effects of other drugs or poisons should not be overlooked, especially in cases where signs and symptoms of digitalis toxicity are not relieved by administration of DIGIFAB.
+
+                        Rapid drop in serum potassium concentration may occur after treatment with DIGIFAB. Monitor frequently, especially after the first several hours of DIGIFAB administration (see
+
+  5.4 Laboratory Tests).
+
+                        Patients with poor cardiac function may deteriorate secondary to the withdrawal of the inotropic action of digoxin by DIGIFAB. If needed, provide additional support by using other intravenous inotropes such as dopamine, dobutamine or vasodilators. However, take additional care not to aggravate the digitalis induced rhythm disturbances. Postpone re-digitalization, if possible, until the Fab fragments have been eliminated from the body, which may require several days, and patients with impaired renal function may require a week or longer.

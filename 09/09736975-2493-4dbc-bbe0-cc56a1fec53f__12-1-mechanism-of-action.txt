@@ -1,0 +1,5 @@
+DailyMed 09736975-2493-4dbc-bbe0-cc56a1fec53f | Gabapentin | 12.1 Mechanism of Action
+
+The precise mechanisms by which gabapentin produces its analgesic and antiepileptic actions are unknown. Gabapentin is structurally related to the neurotransmitter gamma-aminobutyric acid (GABA) but has no effect on GABA binding, uptake, or degradation.
+
+  In vitrostudies have shown that gabapentin binds with high-affinity to the α2δ subunit of voltage-activated calcium channels; however, the relationship of this binding to the therapeutic effects of gabapentin is unknown.

@@ -1,0 +1,3 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 5.10 QTc Prolongation
+
+During post-marketing use of sertraline, cases of QTc prolongation and Torsade de Pointes (TdP) have been reported. Most reports were confounded by other risk factors. In a randomized, doubleblind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects, there was a positive relationship between the length of the rate-adjusted QTc interval and serum sertraline concentration. Therefore, sertraline hydrochloride tablets should be used with caution in patients with risk factors for QTc prolongation [See Drug Interactions (7.1), Clinical Pharmacology (12.2)].

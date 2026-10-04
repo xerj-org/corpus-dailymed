@@ -1,0 +1,13 @@
+DailyMed 59eadb88-c9f3-4871-b176-7ddd98faf9bc | Bijuva | 12.1 Mechanism of Action
+
+Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics. Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level.
+
+                        The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle. After menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone in the peripheral tissues. Thus, estrone and the sulfate conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
+
+                        Estrogens act through binding to nuclear receptors in estrogen-responsive tissues. To date, two estrogen receptors have been identified. These vary in proportion from tissue to tissue.
+
+                        Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH), and FSH, through a negative feedback mechanism. Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
+
+                        Endogenous progesterone is secreted by the ovary, placenta, and adrenal gland. In the presence of adequate estrogen, progesterone transforms a proliferative endometrium into a secretory endometrium.
+
+                        Progesterone enhances cellular differentiation and generally opposes the actions of estrogens by decreasing estrogen receptor levels, increasing local metabolism of estrogens to less active metabolites, or inducing gene products that blunt cellular responses to estrogen. Progesterone exerts its effects in target cells by binding to specific progesterone receptors that interact with progesterone response elements in target genes. Progesterone receptors have been identified in the female reproductive tract, breast, pituitary, hypothalamus, and central nervous system.

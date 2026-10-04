@@ -1,0 +1,3 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | Hepatic Function
+
+Because nicardipine is extensively metabolized by the liver, plasma concentrations are influenced by changes in hepatic function. In a clinical study with nicardipine capsules in patients with severe liver disease, plasma concentrations were elevated and the half-life was prolonged [see Warnings and Precautions (5.5)]. Similar results were obtained in patients with hepatic disease when nicardipine hydrochloride was administered for 24 hours at 0.6 mg/hr.

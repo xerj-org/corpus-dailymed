@@ -1,0 +1,27 @@
+DailyMed 9e3c796b-2e68-4bcc-b927-18a58bea4703 | Carbidopa-levodopa | WARNINGS
+
+When carbidopa and levodopa tablets are to be given to patients who are being treated with levodopa, levodopa must be discontinued at least twelve hours before therapy with carbidopa and levodopa tablets are started. In order to reduce adverse reactions, it is necessary to individualize therapy. See
+
+   DOSAGE AND ADMINISTRATIONsection before initiating therapy.
+
+                  The addition of carbidopa with levodopa in the form of carbidopa and levodopa tablets reduces the peripheral effects (nausea, vomiting) due to decarboxylation of levodopa; however, carbidopa does not decrease the adverse reactions due to the central effects of levodopa. Because carbidopa permits more levodopa to reach the brain and more dopamine to be formed, certain adverse central nervous system (CNS) effects, e.g., dyskinesias (involuntary movements), may occur at lower dosages and sooner with carbidopa and levodopa tablets than with levodopa alone.
+
+                  All patients should be observed carefully for the development of depression with concomitant suicidal tendencies.
+
+                  Carbidopa and levodopa tablets should be administered cautiously to patients with severe cardiovascular or pulmonary disease, bronchial asthma, renal, hepatic or endocrine disease.
+
+                  As with levodopa, care should be exercised in administering carbidopa and levodopa tablets to patients with a history of myocardial infarction who have residual atrial, nodal, or ventricular arrhythmias. In such patients, cardiac function should be monitored with particular care during the period of initial dosage adjustment, in a facility with provisions for intensive cardiac care.
+
+                  As with levodopa, treatment with carbidopa and levodopa tablets may increase the possibility of upper gastrointestinal hemorrhage in patients with a history of peptic ulcer.
+
+                     Vitamin B6 Deficiency and Seizures
+
+                  Treatment with carbidopa and levodopa tablets may contribute to reduced vitamin B
+
+  6levels. Higher doses of carbidopa/levodopa may increase the risk of vitamin B
+
+  6deficiency. Seizures associated with vitamin B6 deficiency have been reported in the postmarketing setting in patients taking carbidopa and levodopa tablets. In these reported cases, seizures were refractory to traditional anti-seizure medications and only resolved after vitamin B6 administration. Other symptoms of vitamin B6 deficiency may occur, including depression, confusion, cheilosis, glossitis, dermatitis, anemia, and/or neuropathy. Evaluate vitamin B
+
+  6levels prior to initiation of carbidopa and levodopa tablets and periodically while on treatment or if symptoms associated with vitamin B6 deficiency are identified. Supplement with vitamin B
+
+  6as necessary.

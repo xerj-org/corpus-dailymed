@@ -1,0 +1,13 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 12.1 Mechanism of Action
+
+Lactated Ringer’s Injection is a source of water, electrolytes, and produces an alkalinizing effect.
+
+                           Sodium, the major cation of the extracellular fluid, functions primarily in the control of water distribution, fluid balance, and osmotic pressure of body fluids. Sodium is also associated with chloride and bicarbonate in the regulation of the acid-base equilibrium of body fluid.
+
+                           Potassium, the principal cation of intracellular fluid, participates in carbohydrate utilization and protein synthesis and is critical in the regulation of nerve conduction and muscle contraction, particularly in the heart.
+
+                           Chloride, the major extracellular anion, closely follows the metabolism of sodium, and changes in the acid-base balance of the body are reflected by changes in the chloride concentration.
+
+                           Calcium, an important cation, provides the framework of bones and teeth in the form of calcium phosphate and calcium carbonate. In the ionized form, calcium is essential for the functional mechanism of the clotting of blood, normal cardiac function, and regulation of neuromuscular irritability.
+
+                           Sodium lactate provides sodium and lactate ions. The lactate anion is in equilibrium with pyruvate and has an alkalinizing effect resulting from simultaneous removal by the liver of lactate and hydrogen ions. The sodium ion combines with bicarbonate ion produced from carbon dioxide of the body and thus retains bicarbonate to combat metabolic acidosis (bicarbonate deficiency).

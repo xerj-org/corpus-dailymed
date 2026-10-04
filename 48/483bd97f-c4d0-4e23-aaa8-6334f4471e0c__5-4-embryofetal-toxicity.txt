@@ -1,0 +1,5 @@
+DailyMed 483bd97f-c4d0-4e23-aaa8-6334f4471e0c | PAXIL CR | 5.4 Embryofetal Toxicity
+
+PAXIL CR can cause fetal harm when administered to a pregnant woman. Based on meta-analyses of epidemiological studies, exposure to paroxetine in the first trimester  of pregnancy is associated with a less than 2-fold increase in the rate of cardiovascular  malformations among infants.
+
+                        For women who intend to become pregnant or who are in their first trimester of pregnancy, PAXIL CR, should be initiated only after consideration of the other available treatment options [see Use in Specific Populations (8.1)].

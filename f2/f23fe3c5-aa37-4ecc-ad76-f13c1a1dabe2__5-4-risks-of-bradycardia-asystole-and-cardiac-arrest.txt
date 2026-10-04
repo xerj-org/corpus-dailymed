@@ -1,0 +1,5 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 5.4 Risks of Bradycardia, Asystole, and Cardiac Arrest
+
+Propofol injectable emulsion has no vagolytic activity. Reports of bradycardia, asystole, and rarely, cardiac arrest have been associated with propofol injectable emulsion. Pediatric patients are susceptible to this effect, particularly when fentanyl is given concomitantly.
+
+                        The intravenous administration of anticholinergic agents (e.g., atropine or glycopyrrolate) should be considered to modify potential increases in vagal tone due to concomitant agents (e.g., succinylcholine) or surgical stimuli.

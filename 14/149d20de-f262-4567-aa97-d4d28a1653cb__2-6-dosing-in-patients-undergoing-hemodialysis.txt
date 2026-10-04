@@ -1,0 +1,11 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 2.6 Dosing in Patients Undergoing Hemodialysis
+
+To avoid rapid drops in topiramate plasma concentration during hemodialysis, a supplemental dose of topiramate may be required. The actual adjustment should take into account 1) the duration of dialysis period, 2) the clearance rate of the dialysis system being used, and 3) the effective renal clearance of topiramate in the patient being dialyzed
+
+  [see Use in Specific Populations (
+
+   8.7), Clinical Pharmacology (
+
+   12.3)]
+
+  .

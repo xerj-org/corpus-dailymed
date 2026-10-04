@@ -1,0 +1,232 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 6.1 Clinical Trials Experience
+
+The efficacy and safety of tolterodine tartrate extended-release capsules was evaluated in 1,073 patients (537 assigned to tolterodine tartrate extended-release capsules; 536 assigned to placebo) who were treated with 2, 4, 6, or 8 mg/day for up to 15 months. These included a total of 1,012 patients (505 randomized to tolterodine tartrate extended-release capsules 4 mg once daily and 507 randomized to placebo) enrolled in a randomized, placebo-controlled, double-blind, 12-week clinical efficacy and safety study.
+
+                        Adverse events were reported in 52% (n=263) of patients receiving tolterodine tartrate extended-release capsules and in 49% (n=247) of patients receiving placebo. The most common adverse events reported by patients receiving tolterodine tartrate extended-release capsules were dry mouth, headache, constipation, and abdominal pain. Dry mouth was the most frequently reported adverse event for patients treated with tolterodine tartrate extended-release capsules, occurring in 23.4% of patients treated with tolterodine tartrate extended-release capsules and 7.7% of placebo-treated patients. Dry mouth, constipation, abnormal vision (accommodation abnormalities), urinary retention, and dry eyes are expected side effects of antimuscarinic agents. A serious adverse event was reported by 1.4% (n=7) of patients receiving tolterodine tartrate extended-release capsules and by 3.6% (n=18) of patients receiving placebo.
+
+                        Table 1 lists the adverse events, regardless of causality, that were reported in the randomized, double-blind, placebo-controlled 12-week study at an incidence greater than placebo and in greater than or equal to 1% of patients treated with tolterodine tartrate extended-release capsules 4 mg once daily.
+
+                           Table 1. Incidence
+   in nearest integer.
+
+(%) of Adverse Events Exceeding Placebo Rate and Reported in ≥1% of Patients Treated with Tolterodine Tartrate Extended-Release Capsules (4 mg daily) in a 12-week, Phase 3 Clinical Trial
+
+                                    Body System
+
+                                  |
+
+                                    Adverse Event
+
+                                  |
+
+                                    % Tolterodine Tartrate Extended-Release Capsules
+
+			n=505
+
+                                  |
+
+                                    % Placebo
+
+			n=507
+
+                                  |
+
+                                    Autonomic Nervous
+
+                                  |
+
+                                    dry mouth
+
+                                  |
+
+                                    23
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    General
+
+                                  |
+
+                                    headache
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                  |
+
+                                    fatigue
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    Central/Peripheral Nervous
+
+                                  |
+
+                                    dizziness
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    Gastrointestinal
+
+                                  |
+
+                                    constipation
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                  |
+
+                                    abdominal pain
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                  |
+
+                                    dyspepsia
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    Vision
+
+                                  |
+
+                                    xerophthalmia
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                  |
+
+                                    vision abnormal
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Psychiatric
+
+                                  |
+
+                                    somnolence
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                  |
+
+                                    anxiety
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    Respiratory
+
+                                  |
+
+                                    sinusitis
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    Urinary
+
+                                  |
+
+                                    dysuria
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    0
+
+                                  |
+
+                        The frequency of discontinuation due to adverse events was highest during the first 4 weeks of treatment. Similar percentages of patients treated with tolterodine tartrate extended-release capsules or placebo discontinued treatment due to adverse events. Dry mouth was the most common adverse event leading to treatment discontinuation among patients receiving tolterodine tartrate extended-release capsules [n=12 (2.4%) vs. placebo n=6 (1.2%)].

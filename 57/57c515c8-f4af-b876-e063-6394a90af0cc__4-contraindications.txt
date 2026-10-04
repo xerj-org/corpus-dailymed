@@ -1,0 +1,15 @@
+DailyMed 57c515c8-f4af-b876-e063-6394a90af0cc | IMPAVIDO | 4 CONTRAINDICATIONS
+
+4.1 Pregnancy
+
+                  IMPAVIDO is contraindicated in patients who are pregnant. Based on animal data, miltefosine may cause fetal harm.
+  [see Boxed Warning, Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+
+                     4.2 Sjögren-Larsson-Syndrome
+
+                  IMPAVIDO is contraindicated in patients who have Sjögren-Larsson-Syndrome
+  [see Clinical Pharmacology (12.3)].
+
+                     4.3 Hypersensitivity
+
+                  IMPAVIDO is contraindicated in patients who are hypersensitive to miltefosine or any IMPAVIDO excipients.

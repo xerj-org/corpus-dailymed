@@ -1,0 +1,4 @@
+DailyMed 180985f0-3fbd-4868-a826-b84101618a03 | Tizanidine | 8.6 Renal Impairment
+
+In patients with renal insufficiency (creatinine clearance < 25 mL/min), clearance of tizanidine was reduced [see Clinical Pharmacology (12.3)].In these patients, dosage reduction is recommended [see Dosage and Administration (2.3)
+                           ]. Because the risk of adverse reactions to tizanidine hydrochloride may be greater in patients with impaired renal function, monitor these patients closely for the onset or increase in severity of common adverse reactions [see Adverse Reactions (6.1)].

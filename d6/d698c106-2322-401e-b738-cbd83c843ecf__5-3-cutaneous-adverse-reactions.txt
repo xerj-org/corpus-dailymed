@@ -1,0 +1,15 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 5.3 Cutaneous Adverse Reactions
+
+TRUQAP can cause cutaneous adverse reactions, which can be severe, including erythema multiforme (EM), palmar-plantar erythrodysesthesia, and drug reaction with eosinophilia and systemic symptoms (DRESS).
+
+                        Monitor patients for signs and symptoms of cutaneous adverse reactions. Early consultation with a dermatologist is recommended. Withhold, reduce dose, or permanently discontinue TRUQAP based on severity [see Dosage and Administration (2.5)].
+
+                           CAPItello-291
+
+                        Cutaneous adverse reactions occurred in 58% of patients. Grade 3 or 4 cutaneous adverse reactions occurred in 17% of patients receiving TRUQAP. EM occurred in 1.7% of patients and DRESS occurred in 0.3% of patients. Dose reduction was required in 7% of patients and 7% of patients permanently discontinued TRUQAP due to cutaneous adverse reactions.
+
+                        The median time to onset of cutaneous adverse reactions was 13 days (range 1 to 575 days). Among the 204 patients with cutaneous adverse reactions, 44% (90/204) required corticosteroid treatment. Of these, 37% (76/204) were treated with topical corticosteroids and 19% (39/204) with systemic corticosteroids. In patients with Grade ≥ 2 cutaneous adverse reaction (n=116) with at least 1 grade improvement (n=104), median time to improvement from the first event was 12 days (range 2 to 544).
+
+                              CAPItello-281
+
+                           Cutaneous adverse reactions occurred in 53% of patients. Grade 3 cutaneous adverse reactions occurred in 84 (17%) patients and Grade 4 occurred in 1 (0.2%) patient. In the study, dose reduction was required in 58 (12%) patients and 38 (8%) patients discontinued TRUQAP due to rash. The median time to onset of rash was 13 days (range: 11 to 63 days). Among the 265 patients with cutaneous adverse reactions, 80% (212/265) required treatment and 91% (242/265) recovered in the study. Of these, 54% (115/212) were treated with topical corticosteroids and 25% (54/212) with systemic corticosteroids.

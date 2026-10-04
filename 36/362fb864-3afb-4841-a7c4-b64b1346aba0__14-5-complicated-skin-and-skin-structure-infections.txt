@@ -1,0 +1,7 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 14.5 Complicated Skin and Skin Structure Infections
+
+Three hundred ninety-nine patients were enrolled in an open-label, randomized, comparative study for complicated skin and skin structure infections. The patients were randomized to receive either levofloxacin 750 mg once daily (IV followed by oral), or an approved comparator for a median of 10 ± 4.7 days. As is expected in complicated skin and skin structure infections, surgical procedures were performed in the levofloxacin and comparator groups. Surgery (incision and drainage or debridement) was performed on 45% of the levofloxacin-treated patients and 44% of the comparator-treated patients, either shortly before or during antibiotic treatment and formed an integral part of therapy for this indication.
+
+                        Among those who could be evaluated clinically 2–5 days after completion of study drug, overall success rates (improved or cured) were 116/138 (84.1%) for patients treated with levofloxacin and 106/132 (80.3%) for patients treated with the comparator.
+
+                        Success rates varied with the type of diagnosis ranging from 68% in patients with infected ulcers to 90% in patients with infected wounds and abscesses. These rates were equivalent to those seen with comparator drugs.

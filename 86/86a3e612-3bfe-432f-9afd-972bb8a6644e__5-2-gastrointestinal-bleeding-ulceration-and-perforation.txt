@@ -1,0 +1,25 @@
+DailyMed 86a3e612-3bfe-432f-9afd-972bb8a6644e | Naproxen | 5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
+
+NSAIDs, including naproxen, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal. These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
+
+                        Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic. Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year. However, even short-term NSAID therapy is not without risk.
+
+                           Risk Factors for GI Bleeding, Ulceration, and Perforation
+
+Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors. Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status. Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients. Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
+
+                           Strategies to Minimize the GI Risks in NSAID-treated patients:
+
+                           Use the lowest effective dosage for the shortest possible duration.
+
+                           Avoid administration of more than one NSAID at a time.
+
+                           Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding. For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
+
+                           Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+
+                           If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue naproxen tablets and naproxen sodium tablets until a serious GI adverse event is ruled out.
+
+                           In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding
+   [see
+    Drug Interactions (7)].

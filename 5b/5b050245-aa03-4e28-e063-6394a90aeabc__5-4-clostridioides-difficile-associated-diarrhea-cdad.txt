@@ -1,0 +1,15 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 5.4 Clostridioides difficile-Associated Diarrhea (CDAD)
+
+CDAD has been reported with use of nearly all antibacterial agents, including ertapenem, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of
+
+  Clostridioides difficile.
+
+                           Clostridioides difficileproduces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of
+
+  Clostridioides difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+                        If CDAD is suspected or confirmed, ongoing antibiotic use not directed against
+
+  Clostridioides difficilemay need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of
+
+  Clostridioides difficile, and surgical evaluation should be instituted as clinically indicated.

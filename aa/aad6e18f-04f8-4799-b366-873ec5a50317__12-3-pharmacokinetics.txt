@@ -1,0 +1,11 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 12.3 Pharmacokinetics
+
+Elimination
+
+                           Metabolism/Excretion
+
+                        Potassium: Normally about 80 to 90% of the potassium intake is excreted in the urine; the remainder is excreted in feces and to a smaller extent, in perspiration.
+
+                        Sodium and Chloride: The distribution and excretion of sodium (Na+) and chloride (Cl−) are largely under the control of the kidney which maintains a balance between intake and output.
+
+                        Lactate: In the liver, lactate is metabolized to carbon dioxide and water by oxidative metabolism and consumption of hydrogen cations.

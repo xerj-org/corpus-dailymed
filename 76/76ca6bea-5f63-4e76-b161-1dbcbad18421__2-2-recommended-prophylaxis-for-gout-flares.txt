@@ -1,0 +1,7 @@
+DailyMed 76ca6bea-5f63-4e76-b161-1dbcbad18421 | Allopurinol | 2.2 Recommended Prophylaxis for Gout Flares
+
+Gout flares may occur after initiation of allopurinol tablets due to changing serum uric acid levels resulting in mobilization of urate from tissue deposits. Flare prophylaxis with colchicine or an anti-inflammatory agent according to practice guidelines is recommended upon initiation of allopurinol tablets. While adjusting the dosage of allopurinol tablets in patients who are being treated with colchicine and/or anti-inflammatory agents, continue flare prophylaxis drugs until serum uric acid has been normalized and the patient has been free of gout flares for several months. If a gout flare occurs during allopurinol tablets treatment, allopurinol tablets need not be discontinued. Manage the gout flare concurrently, as appropriate for the individual patient
+
+  [see
+
+   Warnings and Precautions (5.2)].

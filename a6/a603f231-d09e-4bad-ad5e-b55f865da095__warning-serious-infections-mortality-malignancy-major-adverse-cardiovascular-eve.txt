@@ -1,0 +1,11 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | WARNING: SERIOUS INFECTIONS, MORTALITY, MALIGNANCY, MAJOR ADVERSE CARDIOVASCULAR EVENTS, AND THROMBOSIS
+
+Increased risk of serious bacterial, fungal, viral and opportunistic infections, including tuberculosis (TB), that may lead to hospitalization or death. Interrupt treatment with LEQSELVI if a serious infection occurs until the infection is controlled. LEQSELVI treatment is not recommended in patients with active tuberculosis. Test for latent TB before and during therapy; treat latent TB prior to use. Monitor all patients for active TB during treatment, even patients with initial negative, latent TB test. (5.1)
+
+                        Higher rate of all-cause mortality, including sudden cardiovascular death, was observed with another Janus kinase (JAK) inhibitor vs. TNF blockers in rheumatoid arthritis (RA) patients. LEQSELVI is not approved for use in RA patients. (5.2)
+
+                        Malignancies were reported in patients treated with LEQSELVI. Higher rate of lymphomas and lung cancers was observed with another JAK inhibitor vs. TNF blockers in RA patients. (5.3)
+
+                        Higher rate of major adverse cardiovascular events (MACE) (defined as cardiovascular death, myocardial infarction, and stroke) was observed with another JAK inhibitor vs. TNF blockers in RA patients. (5.4)
+
+                        Thrombosis, including cerebral venous sinus thrombosis (CVT), deep vein thrombosis (DVT) and pulmonary embolism (PE) have been reported in patients treated with LEQSELVI. Increased incidence of pulmonary embolism, venous and arterial thrombosis was observed with another JAK inhibitor vs. TNF blockers. (5.5)

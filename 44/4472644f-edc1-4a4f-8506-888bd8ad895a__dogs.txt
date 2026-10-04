@@ -1,0 +1,7 @@
+DailyMed 4472644f-edc1-4a4f-8506-888bd8ad895a | Vetsulin | Dogs
+
+The initial recommended vetsulin® dose is 0.5 International Units insulin/kg body weight. Initially, this dose should be given once daily concurrently with, or right after a meal.
+
+                        Twice daily therapy should be initiated if the duration of insulin action is determined to be inadequate. If twice daily treatment is initiated, the two doses should each be 25% less than the once daily dose required to attain an acceptable nadir. For example, if a dog receiving 20 units of vetsulin® once daily has an acceptable nadir but inadequate duration of activity, the vetsulin® dose should be changed to 15 units twice daily.
+
+                        The veterinarian should re-evaluate the dog at appropriate intervals and adjust the dose based on clinical signs, urinalysis results, and glucose curve values until adequate glycemic control has been attained. Further adjustments in dosage may be necessary with changes in the dog's diet, body weight, or concomitant medication, or if the dog develops concurrent infection, inflammation, neoplasia, or an additional endocrine or other medical disorder.

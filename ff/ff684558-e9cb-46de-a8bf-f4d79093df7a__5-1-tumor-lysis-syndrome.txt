@@ -1,0 +1,9 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 5.1 Tumor Lysis Syndrome
+
+BEQALZI can cause serious or life-threatening tumor lysis syndrome (TLS). BEQALZI can cause rapid reduction in tumor and changes in blood chemistries consistent with TLS that require prompt management. This can occur as early as 4 hours after the first dose, at any dose increases, and upon restart following dosage interruption. Laboratory or clinical TLS occurred in 7% of the 115 patients with MCL who followed the recommended dose ramp-up.
+
+                        Risk factors for TLS include higher tumor burden such as bulky lymphadenopathy or lymphocytosis and reduced renal function.
+
+                        Assess all patients for TLS risk and provide appropriate prophylaxis, including hydration and anti-hyperuricemics begun prior to the first dose of BEQALZI. Correct relevant chemistry abnormalities prior to starting BEQALZI. Consider hospitalization with intravenous hydration and monitoring and employ more frequent monitoring for patients with high TLS risk. Monitor blood chemistries and manage abnormalities promptly. Interrupt dosing if needed; when restarting BEQALZI, follow the dose modification guidance [see Dosage and Administration (2.3)].
+
+                        Concomitant use of sonrotoclax with strong or moderate CYP3A inhibitors increases sonrotoclax exposure, which may increase the risk of TLS at initiation and during the ramp-up phase [see Dosage and Administration (2.4) and Drug Interactions (7.1)].

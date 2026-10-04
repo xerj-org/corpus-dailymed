@@ -1,0 +1,473 @@
+DailyMed 5c2ac7cb-3a38-2174-e063-6394a90a95cc | Tramadol Hydrochloride | 12.3 Pharmacokinetics
+
+The analgesic activity of tramadol hydrochloride tablet is due to both parent drug and the M1 metabolite
+
+  [see
+
+   Clinical Pharmacology (12.1,
+
+   12.2)]
+
+  . Tramadol is administered as a racemate and both the [-] and [+] forms of both tramadol and M1 are detected in the circulation. Linear pharmacokinetics have been observed following multiple doses of 50 and 100 mg to steady-state.
+
+                           Absorption
+
+                        The mean absolute bioavailability of a 100 mg oral dose is approximately 75%. The mean peak plasma concentration of racemic tramadol and M1 occurs at two and three hours, respectively, after administration in healthy adults. In general, both enantiomers of tramadol and M1 follow a parallel time course in the body following single and multiple doses although small differences (~ 10%) exist in the absolute amount of each enantiomer present.
+
+                        Steady-state plasma concentrations of both tramadol and M1 are achieved within two days with four times per day dosing. There is no evidence of self-induction (see Figure 1 and Table 3 below).
+
+                           Figure 1: Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 mg Oral Dose and after Twenty-Nine 100 mg Oral Doses of Tramadol Hydrochloride given four times per day.
+
+                           Table 3: Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
+
+                                       Population/Dosage
+
+                                       Regimen
+
+       a
+
+                                  |
+
+                                       Parent Drug/
+
+                                       Metabolite
+
+                                  |
+
+                                       Peak Conc.(ng/mL)
+
+                                  |
+
+                                       Time to Peak
+
+                                       (hrs)
+
+                                  |
+
+                                       Clearance/F
+
+       b
+
+                                       (mL/min/Kg)
+
+                                  |
+
+                                       t
+
+       1/2(hrs)
+
+                                  |
+
+                                    Healthy Adults,
+
+                                  |
+
+                                    Tramadol
+
+                                  |
+
+                                    592 (30)
+
+                                  |
+
+                                    2.3 (61)
+
+                                  |
+
+                                    5.90 (25)
+
+      c
+
+                                  |
+
+                                    6.7 (15)
+
+                                  |
+
+                                    100 mg qid, MD p.o.
+
+                                  |
+
+                                    M1
+
+                                  |
+
+                                    110 (29)
+
+                                  |
+
+                                    2.4 (46)
+
+                                  |
+
+                                  |
+
+                                    7.0 (14)
+
+                                  |
+
+                                    Healthy Adults,
+
+                                  |
+
+                                    Tramadol
+
+                                  |
+
+                                    308 (25)
+
+                                  |
+
+                                    1.6 (63)
+
+                                  |
+
+                                    8.50 (31)
+
+      c
+
+                                  |
+
+                                    5.6 (20)
+
+                                  |
+
+                                    100 mg SD p.o.
+
+                                  |
+
+                                    M1
+
+                                  |
+
+                                    55.0 (36)
+
+                                  |
+
+                                    3.0 (51)
+
+                                  |
+
+                                  |
+
+                                    6.7 (16)
+
+                                  |
+
+                                    Geriatric, (> 75 yrs)
+
+                                  |
+
+                                    Tramadol
+
+                                  |
+
+                                    208 (31)
+
+      d
+
+                                  |
+
+                                    2.1 (19)
+
+      d
+
+                                  |
+
+                                    6.89 (25)
+
+      c
+
+                                  |
+
+                                    7.0 (23)
+
+      d
+
+                                  |
+
+                                    50 mg SD p.o.
+
+                                  |
+
+                                    M1
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                    Hepatic Impaired,
+
+                                  |
+
+                                    Tramadol
+
+                                  |
+
+                                    217 (11)
+
+                                  |
+
+                                    1.9 (16)
+
+                                  |
+
+                                    4.23 (56)
+
+      c
+
+                                  |
+
+                                    13.3 (11)
+
+                                  |
+
+                                    50 mg SD p.o.
+
+                                  |
+
+                                    M1
+
+                                  |
+
+                                    19.4 (12)
+
+                                  |
+
+                                    9.8 (20)
+
+                                  |
+
+                                  |
+
+                                    18.5 (15)
+
+                                  |
+
+                                    Renal Impaired,
+
+                                  |
+
+                                    Tramadol
+
+                                  |
+
+                                       c
+
+                                  |
+
+                                       c
+
+                                  |
+
+                                    4.23 (54)
+
+      c
+
+                                  |
+
+                                    10.6 (31)
+
+                                  |
+
+                                    CLcr10-30 mL/min
+
+                                  |
+
+                                    M1
+
+                                  |
+
+                                       c
+
+                                  |
+
+                                       c
+
+                                  |
+
+                                  |
+
+                                    11.5 (40)
+
+                                  |
+
+                                    100 mg SD i.v.
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                    Renal Impaired,
+
+                                  |
+
+                                    Tramadol
+
+                                  |
+
+                                       c
+
+                                  |
+
+                                       c
+
+                                  |
+
+                                    3.73 (17)
+
+      c
+
+                                  |
+
+                                    11.0 (29)
+
+                                  |
+
+                                    CLcr < 5 mL/min
+
+                                  |
+
+                                    M1
+
+                                  |
+
+                                       c
+
+                                  |
+
+                                       c
+
+                                  |
+
+                                  |
+
+                                    16.9 (18)
+
+                                  |
+
+                                    100 mg SD i.v.
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                  |
+
+                                       aSD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times daily
+
+                                       bF represents the oral bioavailability of tramadol
+
+                                       cNot applicable
+
+                                       dNot measured
+
+                                  |
+
+                           Food Effects
+
+                        Oral administration of tramadol hydrochloride tablets with food does not significantly affect its rate or extent of absorption, therefore, tramadol hydrochloride tablets can be administered without regard to food.
+
+                           Distribution
+
+                        The volume of distribution of tramadol was 2.6 and 2.9 liters/kg in male and female subjects, respectively, following a 100 mg intravenous dose. The binding of tramadol to human plasma proteins is approximately 20% and binding also appears to be independent of concentration up to 10 mcg/mL. Saturation of plasma protein binding occurs only at concentrations outside the clinically relevant range.
+
+                           Elimination
+
+                        Tramadol is eliminated primarily through metabolism by the liver and the metabolites are eliminated primarily by the kidneys. The mean (%CV) apparent total clearance of tramadol after a single 100 mg oral dose is 8.50 (31) mL/min/kg. The mean terminal plasma elimination half-lives of racemic tramadol and racemic M1 are 6.3 ± 1.4 and 7.4 ± 1.4 hours, respectively. The plasma elimination half-life of racemic tramadol increased from approximately six hours to seven hours upon multiple dosing.
+
+                           Metabolism
+
+                        Tramadol is extensively metabolized after oral administration by a number of pathways, including CYP2D6 and CYP3A4, as well as by conjugation of parent and metabolites. Approximately 30% of the dose is excreted in the urine as unchanged drug, whereas 60% of the dose is excreted as metabolites. The remainder is excreted either as unidentified or as unextractable metabolites. The major metabolic pathways appear to be
+
+  N- and
+
+  O-demethylation and glucuronidation or sulfation in the liver. One metabolite (
+
+  O-desmethyltramadol, denoted M1) is pharmacologically active in animal models. Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition, which may affect the therapeutic response
+
+  [
+
+   Warnings and Precautions (5.6);
+
+   Drug Interactions (7)]
+
+  .
+
+                        Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P-450. These individuals are “poor metabolizers” of debrisoquine, dextromethorphan, tricyclic antidepressants, among other drugs. Based on a population PK analysis of Phase 1 studies in healthy subjects, concentrations of tramadol were approximately 20% higher in “poor metabolizers” versus “extensive metabolizers”, while M1 concentrations were 40% lower. Concomitant therapy with inhibitors of CYP2D6 such as fluoxetine, paroxetine and quinidine could result in significant drug interactions.
+
+  In vitrodrug interaction studies in human liver microsomes indicate that inhibitors of CYP2D6 such as fluoxetine and its metabolite norfluoxetine, amitriptyline and quinidine inhibit the metabolism of tramadol to various degrees, suggesting that concomitant administration of these compounds could result in increases in tramadol concentrations and decreased concentrations of M1. The full pharmacological impact of these alterations in terms of either efficacy or safety is unknown. Concomitant use of serotonin re-uptake inhibitors and MAO inhibitors may enhance the risk of adverse events, including seizure and serotonin syndrome
+
+  [see
+
+   Warnings and Precautions (5.9) 
+
+  and 
+
+                              Drug Interactions (7)]
+
+  .
+
+                           Excretion
+
+                        Tramadol metabolites are eliminated primarily by the kidneys. Approximately 30% of the dose is excreted in the urine as unchanged drug, whereas 60% of the dose is excreted as metabolites. The remainder is excreted either as unidentified or as unextractable metabolites.
+
+                           Special Populations
+
+                           Hepatic Impairment
+
+                        Metabolism of tramadol and M1 is reduced in patients with severe hepatic impairment based on a study in patients with advanced cirrhosis of the liver, resulting in both a larger area under the concentration time curve for tramadol and longer tramadol and M1 elimination half-lives (13 hrs. for tramadol and 19 hrs. for M1). In patients with severe hepatic impairment, adjustment of the dosing regimen is recommended
+
+  [see
+
+   Dosage and Administration (2)]
+
+  .
+
+                           Renal Impairment
+
+                        Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1. In patients with creatinine clearances of less than 30 mL/min, adjustment of the dosing regimen is recommended
+
+  [see
+
+   Dosage and Administration (2)]
+
+  . The total amount of tramadol and M1 removed during a 4-hour dialysis period is less than 7% of the administered dose.
+
+                           Age: Geriatric
+
+                        Healthy elderly subjects aged 65 to 75 years have plasma tramadol concentrations and elimination half-lives comparable to those observed in healthy subjects less than 65 years of age. In subjects over 75 years, maximum serum concentrations are elevated (208 vs. 162 ng/mL) and the elimination half-life is prolonged (7 vs. 6 hours) compared to subjects 65 to 75 years of age. Adjustment of the daily dose is recommended for patients older than 75 years
+
+  [see
+
+   Dosage and Administration (2.3)]
+
+  .
+
+                           Sex
+
+                        The absolute bioavailability of tramadol was 73% in males and 79% in females. The plasma clearance was 6.4 mL/min/kg in males and 5.7 mL/min/kg in females following a 100 mg IV dose of tramadol. Following a single oral dose, and after adjusting for body weight, females had a 12% higher peak tramadol concentration and a 35% higher area under the concentration-time curve compared to males. The clinical significance of this difference is unknown.
+
+                           Poor/Extensive Metabolizers, CYP2D6
+
+                        The formation of the active metabolite, M1, is mediated by CYP2D6, a polymorphic enzyme. Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P450 metabolizing enzyme system. These individuals are “poor metabolizers” of debrisoquine, dextromethorphan and tricyclic antidepressants, among other drugs. Based on a population PK analysis of Phase 1 studies with IR tablets in healthy subjects, concentrations of tramadol were approximately 20% higher in “poor metabolizers” versus “extensive metabolizers,” while M1 concentrations were 40% lower.

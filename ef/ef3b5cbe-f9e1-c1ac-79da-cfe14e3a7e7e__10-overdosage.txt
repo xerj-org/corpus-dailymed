@@ -1,0 +1,11 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 10 OVERDOSAGE
+
+The following overdose complications have been reported with paroxetine overdose:
+
+                     Seizures, which may be delayed, and altered mental status including coma.
+
+                     Cardiovascular toxicity, which may be delayed, including QRS and QTc interval prolongation. Hypertension most commonly seen, but rarely can see hypotension alone or with concomitant products including alcohol.
+
+                     Serotonin syndrome (patients with a multiple drug overdose with other proserotonergicdrugs may have a higher risk).
+
+                  If an overdose occurs, consider contacting a Poison Help Line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.

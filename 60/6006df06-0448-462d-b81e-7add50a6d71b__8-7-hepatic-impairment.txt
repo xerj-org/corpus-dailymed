@@ -1,0 +1,11 @@
+DailyMed 6006df06-0448-462d-b81e-7add50a6d71b | GuanfacineExtended-Release | 8.7 Hepatic Impairment
+
+It may be necessary to reduce the dosage in patients with significant impairment of hepatic function
+
+  [see
+                           Clinical Pharmacology (
+
+                              12.3
+
+                           )
+                           ].

@@ -1,0 +1,11 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 12.2 Pharmacodynamics
+
+Studies at clinically relevant doses have demonstrated that sertraline blocks the uptake of serotonin into human platelets. In vitro studies in animals also suggest that sertraline is a potent and selective inhibitor of neuronal serotonin reuptake and has only very weak effects on norepinephrine and dopamine neuronal reuptake. In vitro studies have shown that sertraline has no significant affinity for adrenergic (alpha1, alpha2, beta), cholinergic, GABA, dopaminergic, histaminergic, serotonergic (5HT1A, 5HT1B, 5HT2), or benzodiazepine receptors. The chronic administration of sertraline was found in animals to down regulate brain norepinephrine receptors. Sertraline does not inhibit monoamine oxidase.
+
+                              Alcohol
+
+                        In healthy subjects, the acute cognitive and psychomotor effects of alcohol were not potentiated by sertraline hydrochloride.
+
+                              Cardiac Electrophysiology
+
+                        The effect of sertraline on the QTc interval was evaluated in a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects. At 2-fold the maximum recommended daily dose (~3-fold the steady-state exposure for sertraline and N-desmethylsertraline), the largest mean ΔΔQTc was 10 ms with upper bound of two-sided 90% confidence interval of 12 ms. The length of the QTc interval was also positively correlated with serum concentrations of sertraline and N- desmethylsertraline concentrations. These concentration-based analyses, however, indicated a lesser effect on QTc at maximally observed concentration than in the primary analysis [See Warnings and Precautions (5), Adverse Reactions (6), Drug Interactions (7), Overdosage (10)].

@@ -1,0 +1,3 @@
+DailyMed af47bf67-1f07-4650-8064-24c38afc4656 | ZUNVEYL | 2.3 Recommended Dosage in Patients with Renal Impairment
+
+In patients with creatinine clearance of 9 to 59 mL/min, the dosage should generally not exceed 10 mg twice daily (20 mg/day). In patients with creatinine clearance less than 9 mL/min, the use of ZUNVEYL is not recommended[seeClinical Pharmacology (12.3)].

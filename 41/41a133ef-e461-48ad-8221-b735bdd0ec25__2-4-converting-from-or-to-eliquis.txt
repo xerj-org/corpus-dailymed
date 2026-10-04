@@ -1,0 +1,9 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 2.4 Converting from or to ELIQUIS
+
+Switching from warfarin to ELIQUIS:Warfarin should be discontinued and ELIQUIS started when the international normalized ratio (INR) is below 2.0.
+
+                           Switching from ELIQUIS to warfarin:ELIQUIS affects INR, so that initial INR measurements during the transition to warfarin may not be useful for determining the appropriate dose of warfarin. One approach is to discontinue ELIQUIS and begin both a parenteral anticoagulant and warfarin at the time the next dose of ELIQUIS would have been taken, discontinuing the parenteral anticoagulant when INR reaches an acceptable range.
+
+                           Switching from ELIQUIS to anticoagulants other than warfarin (oral or parenteral):Discontinue ELIQUIS and begin taking the new anticoagulant other than warfarin at the usual time of the next dose of ELIQUIS.
+
+                           Switching from anticoagulants other than warfarin (oral or parenteral) to ELIQUIS:Discontinue the anticoagulant other than warfarin and begin taking ELIQUIS at the usual time of the next dose of the anticoagulant other than warfarin.

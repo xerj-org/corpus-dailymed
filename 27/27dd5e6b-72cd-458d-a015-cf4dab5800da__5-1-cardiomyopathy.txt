@@ -1,0 +1,7 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 5.1 Cardiomyopathy
+
+PHESGO can cause hypertension, arrhythmias, left ventricular cardiac dysfunction, disabling cardiac failure, cardiomyopathy, and cardiac death [see Boxed Warning: Cardiomyopathy]. PHESGO can cause asymptomatic decline in LVEF.
+
+                        An increased incidence of LVEF decline has been observed in patients treated with intravenous pertuzumab, intravenous trastuzumab, and docetaxel. A 4-6 fold increase in the incidence of symptomatic myocardial dysfunction has been reported among patients receiving trastuzumab, with the highest absolute incidence occurring when trastuzumab was administered with an anthracycline.
+
+                        Patients who receive anthracycline after stopping PHESGO may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.2)].

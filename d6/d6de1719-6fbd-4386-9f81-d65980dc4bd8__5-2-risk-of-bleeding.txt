@@ -1,0 +1,17 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 5.2 Risk of Bleeding
+
+Rivaroxaban increases the risk of bleeding, including in any organ, and can cause serious or fatal bleeding. In deciding whether to prescribe rivaroxaban to patients at increased risk of bleeding, the risk of thrombotic events should be weighed against the risk of bleeding.
+
+                        Promptly evaluate any signs or symptoms of blood loss and consider the need for blood replacement. Discontinue rivaroxaban in patients with active pathological hemorrhage. The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
+
+                        Concomitant use of other drugs that impair hemostasis increases the risk of bleeding. These include aspirin, P2Y12 platelet inhibitors, dual antiplatelet therapy, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
+
+                        Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitors increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
+
+                           Risk of Hemorrhage in Acutely Ill Medical Patients at High Risk of Bleeding
+
+                        Acutely ill medical patients with the following conditions are at increased risk of bleeding with the use of rivaroxaban tablets for another indication: history of bronchiectasis, pulmonary cavitation, or pulmonary hemorrhage, active cancer (i.e., undergoing acute, in-hospital cancer treatment), active gastroduodenal ulcer in the three months prior to treatment, history of bleeding in the three months prior to treatment, or dual antiplatelet therapy. Rivaroxaban tablets are not for use for another indication in these hospitalized, acutely ill medical patients at high risk of bleeding.
+
+                           Reversal of Anticoagulant Effect
+
+                        A specific agent to reverse the anti-factor Xa activity of rivaroxaban is not available. Because of high plasma protein binding, rivaroxaban is not dialyzable [see Clinical Pharmacology (12.3)]. Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban. Use of procoagulant reversal agents, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa, may be considered but has not been evaluated in clinical efficacy and safety studies. Monitoring for the anticoagulation effect of rivaroxaban using a clotting test (PT, INR or aPTT) or anti-factor Xa (FXa) activity is not recommended.

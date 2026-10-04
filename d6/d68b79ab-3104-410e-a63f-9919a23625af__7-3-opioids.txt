@@ -1,0 +1,3 @@
+DailyMed d68b79ab-3104-410e-a63f-9919a23625af | Ticagrelor | 7.3 Opioids
+
+As with other oral P2Y12 inhibitors, co-administration of opioid agonists delay and reduce the absorption of ticagrelor and its active metabolite presumably because of slowed gastric emptying [see Clinical Pharmacology (12.3)]. Consider the use of a parenteral anti-platelet agent in acute coronary syndrome patients requiring co-administration of morphine or other opioid agonists.

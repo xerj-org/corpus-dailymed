@@ -1,0 +1,115 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 14.2 MRI of the Breast
+
+The effectiveness of GADAVIST for the ability to assess the presence and extent of malignant breast disease was evaluated in two identical clinical trials (i.e., Studies 3 and 4) in patients with recently diagnosed breast cancer prior to surgery.  Patients underwent non-contrast breast MRI (BMR) prior to GADAVIST (0.1 mmol/kg) breast MRI. BMR images and GADAVIST BMR (combined contrast plus non-contrast) images were independently evaluated in each study by three readers blinded to clinical information. In separate reading sessions the BMR images and GADAVIST BMR images were also interpreted together with X-ray mammography images (XRM).
+
+                        A total of 787 patients were evaluated: Study 3 enrolled 390 female patients with an average age of 56 years and racial distribution of 74% White, 25% Asian, 0.5% Black or African American, and 0.5% other; Study 4 enrolled 396 female patients and 1 male patient with an average age of 57 years and racial distribution of 71% White, 24% Asian, 3% Black or African American, and 2% other.
+
+                        The readers assessed 5 regions per breast for the presence of malignancy using each reading modality. The readings were compared to an independent standard of truth (SoT) consisting of histopathology for all regions where excisions were made and tissue evaluated. XRM plus ultrasound was used for all other regions.
+
+                        The assessment of malignant disease was performed using a region based within-subject sensitivity. Sensitivity for each reading modality was defined as the mean of the percentage of malignant breast regions correctly interpreted for each subject. The within-subject sensitivity of GADAVIST BMR was superior to that of BMR. The lower bound of the 95% Confidence Interval (CI) for the difference in within-subject sensitivity ranged from 19% to 42% for Study 3 and from 12% to 27% for Study 4. The within-subject sensitivity for GADAVIST BMR and BMR as well as for GADAVIST BMR plus XRM and BMR plus XRM is presented in Table 9.
+
+                           Table 9: Sensitivity of GADAVIST BMR for Detection of Malignant Breast Disease
+
+                                 Study 3 |
+                                 Study 4 |
+
+                                 Sensitivity (%)
+
+ N=388 Patients |
+                                 Sensitivity (%)
+
+ N=390 Patients |
+
+                                 Reader |
+                                 BMR |
+                                 BMR + XRM |
+                                 GADAVIST BMR |
+                                 GADAVIST BMR +XRM |
+                                 Reader |
+                                 BMR |
+                                 BMR + XRM |
+                                 GADAVIST BMR |
+                                 GADAVIST BMR +XRM |
+
+                                 1 |
+                                 37 |
+                                 71 |
+                                 83 |
+                                 84 |
+                                 4 |
+                                 73 |
+                                 83 |
+                                 87 |
+                                 90 |
+
+                                 2 |
+                                 49 |
+                                 76 |
+                                 80 |
+                                 83 |
+                                 5 |
+                                 57 |
+                                 81 |
+                                 89 |
+                                 90 |
+
+                                 3 |
+                                 63 |
+                                 75 |
+                                 87 |
+                                 87 |
+                                 6 |
+                                 55 |
+                                 80 |
+                                 86 |
+                                 88 |
+
+                        Specificity was defined as the percentage of non-malignant breasts correctly identified as non-malignant. The lower limit of the 95% confidence interval for specificity of GADAVIST BMR was greater than 80% for 5 of 6 readers. (Table 10)
+
+                           Table 10: Specificity of GADAVIST BMR in Non-Malignant Breasts
+
+                                 Study 3 |
+                                 Study 4 |
+
+                                 Specificity (%)
+
+N=372 Patients |
+                                 Specificity (%)
+
+N=367 Patients |
+
+                                 Reader |
+                                 GADAVIST BMR |
+                                 Lower Limit
+
+ 95% CI |
+                                 Reader |
+                                 GADAVIST BMR |
+                                 Lower Limit
+
+ 95% CI |
+
+                                 1 |
+                                 86 |
+                                 82 |
+                                 4 |
+                                 92 |
+                                 89 |
+
+                                 2 |
+                                 95 |
+                                 93 |
+                                 5 |
+                                 84 |
+                                 80 |
+
+                                 3 |
+                                 89 |
+                                 85 |
+                                 6 |
+                                 83 |
+                                 79 |
+
+                        Three additional readers in each study read XRM alone. For these readers over both studies, sensitivity ranged from 68% to 73% and specificity in non-malignant breasts ranged from 86% to 94%.
+
+                        In breasts with malignancy, a false positive detection rate was calculated as the percentage of subjects for which the readers assessed a region as malignant which could not be verified by SoT. The false positive detection rates for GADAVIST BMR ranged from 39% to 53% (95% CI Upper Bounds ranged from 44% to 58%).

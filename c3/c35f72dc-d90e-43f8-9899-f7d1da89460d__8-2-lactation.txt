@@ -1,0 +1,11 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 8.2 Lactation
+
+Risk Summary
+
+                        The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+
+                        There are no data on the presence of maraviroc in human milk, the effects on the breastfed infant, or the effects on milk production. When administered to lactating rats, maraviroc was present in milk (see Data). Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving maraviroc tablets.
+
+                           Data
+
+                        Maraviroc (and related metabolites) was excreted into the milk of lactating rats following a single oral dose of maraviroc (100 mg per kg) on lactation Day 12, with a maximal milk concentration achieved one hour post-administration at a milk concentration approximately 2.5 times that of maternal plasma concentrations.

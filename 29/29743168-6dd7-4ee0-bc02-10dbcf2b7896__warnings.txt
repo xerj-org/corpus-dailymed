@@ -1,0 +1,28 @@
+DailyMed 29743168-6dd7-4ee0-bc02-10dbcf2b7896 | Foscarnet Sodium | WARNINGS
+
+Renal Impairment
+
+                  THE MAJOR TOXICITY OF FOSCARNET SODIUM INJECTION IS RENAL IMPAIRMENT (see ADVERSE REACTIONS section). Renal impairment is most likely to become clinically evident during the second week of induction therapy, but may occur at any time during foscarnet sodium injection treatment. Renal function should be monitored carefully during both induction and maintenance therapy (see PATIENT MONITORING section). Elevations in serum creatinine are usually, but not always, reversible following discontinuation or dose adjustment of foscarnet sodium injection. Safety and efficacy data for patients with baseline serum creatinine levels greater than 2.8 mg/dL or measured 24-hour creatinine clearances <50 mL/min are limited.
+
+                  SINCE FOSCARNET SODIUM INJECTION HAS THE POTENTIAL TO CAUSE RENAL IMPAIRMENT, DOSE ADJUSTMENT BASED ON SERUM CREATININE IS NECESSARY. Hydration may reduce the risk of nephrotoxicity. It is recommended that 750–1000 mL of normal saline or 5% dextrose solution should be given prior to the first infusion of foscarnet sodium injection to establish diuresis. With subsequent infusions, 750–1000 mL of hydration fluid should be given with 90–120 mg/kg of foscarnet sodium injection, and 500 mL with 40–60 mg/kg of foscarnet sodium injection. Hydration fluid may need to be decreased if clinically warranted.
+
+                  After the first dose, the hydration fluid should be administered concurrently with each infusion of foscarnet sodium injection.
+
+                     Mineral and Electrolyte Abnormalities
+
+                  Foscarnet sodium injection has been associated with changes in serum electrolytes including hypocalcemia, hypophosphatemia, hyperphosphatemia, hypomagnesemia, and hypokalemia (see ADVERSE REACTIONS section). Foscarnet sodium injection may also be associated with a dose-related decrease in ionized serum calcium which may not be reflected in total serum calcium. This effect is likely to be related to chelation of divalent metal ions such as calcium by foscarnet. Patients should be advised to report symptoms of low ionized calcium such as perioral tingling, numbness in the extremities and paresthesias. Particular caution and careful management of serum electrolytes is advised in patients with altered calcium or other electrolyte levels before treatment and especially in those with neurologic or cardiac abnormalities and those receiving other drugs known to influence minerals and electrolytes (see PATIENT MONITORING and Drug Interactions sections). Physicians should be prepared to treat these abnormalities and their sequelae such as tetany, seizures or cardiac disturbances. The rate of foscarnet sodium injection infusion may also affect the decrease in ionized calcium. Therefore, an infusion pump must be used for administration to prevent rapid
+                     intravenous infusion (see DOSAGE AND ADMINISTRATION section). Slowing the infusion rate may decrease or prevent symptoms.
+
+                     Seizures
+
+                  Seizures related to mineral and electrolyte abnormalities have been associated with foscarnet sodium injection treatment (see WARNING section; Mineral and Electrolyte Abnormalities). Several cases of seizures were associated with death. Cases of status epilepticus have been reported. Risk factors associated with seizures included impaired baseline renal function, low total serum calcium, and underlying CNS conditions.
+
+                     Hypersensitivity
+
+                  Serious acute hypersensitivity reactions (e.g., anaphylactic shock, urticaria, angioedema) have been reported postmarketing in patients receiving foscarnet sodium injection (see ADVERSE REACTIONS section). If such an acute reaction occurs, therapy should be discontinued and appropriate medical therapy immediately instituted.
+
+                     QT prolongation and torsade de pointes
+
+                  Foscarnet sodium injection has been associated with prolongation of the QT interval, an ECG abnormality that has been associated with torsades de pointes, which has been reported during postmarketing surveillance for foscarnet sodium injection (see ADVERSE REACTIONS section). Some of these patients had confounding risk factors such as underlying cardiac disease, electrolyte abnormalities and other concomitant medications.
+
+                  Use with caution in patients who have a history of QT prolongation, in patients who are taking medications known to prolong the QT interval (see PRECAUTIONS section), in patients with electrolyte disturbances, or in patients who have other risk factors for QT prolongation. Electrocardiograms (ECGs) and measurement of electrolytes should be obtained prior to treatment initiation and periodically during treatment with foscarnet sodium injection.

@@ -1,0 +1,7 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 5.3 Hepatotoxicity
+
+Elevations of alanine aminotransferase (ALT) or aspartate aminotransferase (AST) (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical trials. In addition, rare, sometimes fatal, cases of severe hepatic injury, including fulminant hepatitis, liver necrosis, and hepatic failure have been reported.
+
+                        Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs including piroxicam.
+
+                        Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms). If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash), discontinue Piroxicam Capsules immediately, and perform a clinical evaluation of the patient.

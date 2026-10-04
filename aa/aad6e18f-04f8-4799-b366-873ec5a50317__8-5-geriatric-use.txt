@@ -1,0 +1,3 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 8.5 Geriatric Use
+
+Geriatric patients treated with Lactated Ringer’s Injection are at increased risk of developing electrolyte imbalances. Lactated Ringer’s Injection is substantially excreted by the kidney, and the risk of adverse reactions to Lactated Ringer’s Injection may be greater in patients with renal impairment than in patients with normal renal function. Because geriatric patients are more likely to have decreased renal function, consider monitoring renal function in geriatric patients and consider starting the infusion at the low end of the dosing range.

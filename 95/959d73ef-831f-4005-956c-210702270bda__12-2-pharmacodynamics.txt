@@ -1,0 +1,9 @@
+DailyMed 959d73ef-831f-4005-956c-210702270bda | REVTORPYK | 12.2 Pharmacodynamics
+
+Exposure-Response Relationships
+
+                        The exposure-response relationship and time course of pharmacodynamic response for the effectiveness of gedatolisib have not been fully characterized. An increased incidence of stomatitis or mucositis (Grade 3 and 4), nausea, vomiting, hyperglycemia, and adverse reaction leading to dosage modification or discontinuation was observed with higher gedatolisib exposure at the dose range of 10 mg to 319 mg (0.06 to 1.8 times the approved recommended dose).
+
+                           Cardiac Electrophysiology
+
+                        At weekly doses up to 319 mg (1.8 times the recommended dose), clinically significant QTc interval prolongation was not observed.

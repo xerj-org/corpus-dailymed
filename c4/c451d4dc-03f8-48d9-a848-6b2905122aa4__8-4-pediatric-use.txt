@@ -1,0 +1,17 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.4 Pediatric Use
+
+The safety and effectiveness of Sugammadex Injection for reversal of neuromuscular blockade induced by rocuronium bromide or vecuronium bromide have been established in pediatric patients aged 2 years and older. Use of Sugammadex Injection in these age groups is supported by evidence from  adequate and well-controlled studies of Sugammadex Injection
+
+  [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].In pediatric patients , the safety profile is generally consistent with that observed in adults
+
+  [see Adverse Reactions (6.1)].
+
+                           Juvenile Animal Studies
+
+                        In a bone deposition study, sugammadex concentrations were significantly higher in juvenile rats compared to adult rats (13% vs. 3% of the administered dose, respectively) following a single intravenous (IV) dose at 30 mg/kg (0.3 times the MRHD based on adult AUC comparison).
+
+                        In a juvenile animal bone toxicity study, 7-day old rats were dosed intravenously once daily for 28 days with 0, 30, 120, and 500 mg/kg sugammadex (approximately 0.1, 0.6, and 3 times the MRHD, respectively, by adult AUC comparison). Sugammadex at 120 and 500 mg/kg decreased ulna and femur bone lengths by approximately 3%, which did not recover after an 8-week treatment-free period. Reversible whitish discoloration and disturbance of enamel formation were also observed in the incisors at these dose levels. In molars, this effect was only observed at 500 mg/kg. The no-observed-effect-level (NOEL) was 30 mg/kg.
+
+                        In a second juvenile animal bone toxicity study, 7-day old rats were dosed once weekly for 8 weeks with 0, 7.5, 30, and 120 mg/kg (up to 1.2 times the MRHD of 16 mg/kg based on adult AUC comparison). No adverse effects on bone or teeth were noted.
+
+                              Additional pediatric use information is approved for Merck Sharp & Dohme LLC's BRIDION® (sugammadex) injection. However, due to Merck Sharp & Dohme LLC's marketing exclusivity rights, this drug product is not labeled with that information.

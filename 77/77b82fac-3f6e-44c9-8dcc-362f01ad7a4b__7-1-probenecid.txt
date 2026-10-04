@@ -1,0 +1,3 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 7.1 Probenecid
+
+Probenecid decreases the renal tubular secretion of amoxicillin. Concurrent use with amoxicillin and clavulanate potassium may result in increased and prolonged blood levels of amoxicillin. Co-administration of probenecid is not recommended.

@@ -1,0 +1,19 @@
+DailyMed e9f4b344-b092-4eec-b49d-d8cfe8ebc05d | pentobarbital sodium | Pregnancy
+
+Teratogenic effects. Pregnancy Category D - See "
+                                 WARNINGS - Use in pregnancy
+                              " section.
+
+                               Nonteratogenic effects. Reports of infants suffering from long-term barbiturate exposure in utero included the acute withdrawal syndrome of seizures and hyperirritability from birth to a delayed onset of up to 14 days. (See "
+                                 DRUG ABUSE AND DEPENDENCE
+                              " section.)
+
+                              Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours. There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans.
+
+                              In a published study, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus. In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring. With respect to brain development, this time period corresponds to the third trimester of gestation in the human. The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see "
+                                    WARNINGS-Pediatric neurotoxicity
+                                 ", "
+                                    PRECAUTIONS-Pediatric use
+                                 ", and "
+                                    ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY
+                                 ").

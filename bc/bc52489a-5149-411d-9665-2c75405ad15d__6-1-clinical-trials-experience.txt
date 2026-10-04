@@ -1,0 +1,54 @@
+DailyMed bc52489a-5149-411d-9665-2c75405ad15d | Bijuva | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety of estradiol and progesterone capsules was assessed in a 1-year trial that included 1,835 postmenopausal women (1,684 were treated with estradiol and progesterone capsules once daily and 151 women received placebo). Most women (~70%) in the active treatment groups were treated for ≥ 326 days.
+
+                        Treatment related adverse reactions with an incidence of ≥ 3% in either BIJUVA (estradiol and progesterone) capsules group and numerically greater than those reported in the placebo group are listed in Table 1.
+
+                           Table 1:	Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 3% and Numerically More Common in Women Receiving BIJUVA (estradiol and progesterone) 0.5 mg/100 mg and 1 mg/100 mg
+
+                                 Preferred Term |
+                                 BIJUVA
+
+ 0.5 mg/100 mg
+
+ (N=424) |
+                                 BIJUVA
+
+ 1 mg/100 mg
+
+ (N=415) |
+                                 Placebo
+
+ (N=151) |
+
+                                 Breast tenderness |
+                                 17 (4.0) |
+                                 43 (10.4) |
+                                 1 (0.7) |
+
+                                 Headache |
+                                 17 (4.0) |
+                                 14 (3.4) |
+                                 1 (0.7) |
+
+                                 Nausea |
+                                 15 (3.5) |
+                                 9 (2.2) |
+                                 1 (0.7) |
+
+                                 Vaginal bleeding |
+                                 10 (2.4) |
+                                 14 (3.4) |
+                                 0 |
+
+                                 Vaginal discharge |
+                                 8 (1.9) |
+                                 14 (3.4) |
+                                 1 (0.7) |
+
+                                 Pelvic pain |
+                                 12 (2.8) |
+                                 13 (3.1) |
+                                 0 |

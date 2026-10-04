@@ -1,0 +1,65 @@
+DailyMed 41425352-2a59-43ef-bccc-f8cc69e72be4 | Piroxicam | 12.3 Pharmacokinetics
+
+General Pharmacokinetic Characteristics
+
+                        The pharmacokinetics of piroxicam have been characterized in healthy subjects, special populations and patients. The pharmacokinetics of piroxicam are linear. Proportional increase in exposure is observed with increasing doses. The prolonged half-life (50 hours) results in the maintenance of relatively stable plasma concentrations throughout the day on once daily doses and significant accumulation upon multiple dosing. Most patients approximate steady state plasma levels within 7 to 12 days. Higher levels, which approximate steady state at two to three weeks, have been observed in patients in whom longer plasma half-lives of piroxicam occurred.
+
+                           Absorption
+
+                        Piroxicam is well absorbed following oral administration. Drug plasma concentrations are proportional for 10 mg and 20 mg doses and generally peak within three to five hours after administration. A single 20 mg dose generally produces peak piroxicam plasma levels of 1.5 mcg/mL to 2 mcg/mL, while maximum drug plasma concentrations, after repeated daily administration of 20 mg piroxicam, usually stabilize at 3 mcg/mL to 8 mcg/mL.
+
+                        With food there is a slight delay in the rate but not the extent of absorption following oral administration. The concomitant administration of antacids (aluminum hydroxide or aluminum hydroxide with magnesium hydroxide) have been shown to have no effect on the plasma levels of orally administered piroxicam.
+
+                           Distribution
+
+                        The apparent volume of distribution of piroxicam is approximately 0.14 L/kg. Ninety nine percent of plasma piroxicam is bound to plasma proteins. Piroxicam is excreted into human milk. The presence in breast milk has been determined during initial and long term conditions (52 days). Piroxicam appeared in breast milk at approximately 1% to 3% of the maternal concentration. No accumulation of piroxicam occurred in milk relative to that in plasma during treatment.
+
+                           Elimination
+
+                           Metabolism
+
+                        Metabolism of piroxicam occurs by hydroxylation at the 5 position of the pyridyl side chain and conjugation of this product; by cyclodehydration; and by a sequence of reactions involving hydrolysis of the amide linkage, decarboxylation, ring contraction, and N-demethylation
+
+  .In vitro studies indicate cytochrome P4502C9 (CYP2C9) as the main enzyme involved in the formation to the 5′-hydroxy-piroxicam, the major metabolite
+
+  [see Clinical Pharmacology (12.5)].The biotransformation products of piroxicam metabolism are reported to not have any anti-inflammatory activity.
+
+                        Higher systemic exposure of piroxicam has been noted in subjects with CYP2C9 polymorphisms compared to normal metabolizer type subjects
+
+  [see Clinical Pharmacology (12.5)].
+
+                           Excretion
+
+                        Piroxicam and its biotransformation products are excreted in urine and feces, with about twice as much appearing in the urine as in the feces. Approximately 5% of a Piroxicam Capsules dose is excreted unchanged. The plasma half-life (t
+
+  ½) for piroxicam is approximately 50 hours.
+
+                           Specific Populations
+
+                           Pediatric
+
+                        Piroxicam has not been investigated in pediatric patients.
+
+                           Race
+
+                        Pharmacokinetic differences due to race have not been identified.
+
+                           Hepatic Impairment
+
+                        The effects of hepatic disease on piroxicam pharmacokinetics have not been established. However, a substantial portion of piroxicam elimination occurs by hepatic metabolism. Consequently, patients with hepatic disease may require reduced doses of piroxicam as compared to patients with normal hepatic function.
+
+                           Renal Impairment
+
+                        Piroxicam pharmacokinetics have been investigated in patients with renal insufficiency. Studies indicate patients with mild to moderate renal impairment may not require dosing adjustments. However, the pharmacokinetic properties of piroxicam in patients with severe renal insufficiency or those receiving hemodialysis are not known.
+
+                           Drug Interaction Studies
+
+                           Antacids
+
+                        Concomitant administration of antacids had no effect on piroxicam plasma levels.
+
+                           Aspirin
+
+                        When piroxicam was administered with aspirin, its protein binding was reduced, although the clearance of free Piroxicam Capsules was not altered. Plasma levels of piroxicam were decreased to approximately 80% of their normal values when Piroxicam Capsules was administered (20 mg/day) in conjunction with aspirin (3900 mg/day). The clinical significance of this interaction is not known
+
+  [see Drug Interactions (7)].

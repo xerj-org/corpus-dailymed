@@ -1,0 +1,64 @@
+DailyMed 5ca5b043-533e-2d1a-e063-6294a90a8d4a | Lacosamide | 2.2 Alternate Initial Dosage Information
+
+For monotherapy and adjunctive therapy for partial-onset seizures in patients 17 years of age and older and for adjunctive therapy for primary generalized tonic-clonic seizures in patients 17 years of age and older, an alternate initial dosing regimen for week 1 (e.g., including a loading dose and/or a higher initial dosage) may be administered in patients for whom achieving the recommended maintenance dosage in a shorter timeframe is clinically indicated (see Table 2). The alternate initial dosage regimen should be continued for one week. Lacosamide tablets may then be titrated based on clinical response and tolerability, no more frequently than once per week, if needed. The loading dose should be administered with medical supervision because of the possibility of increased incidence of adverse reactions, including central nervous system (CNS) and cardiovascular adverse reactions [
+
+  see Warnings and Precautions (5.2, 5.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)]. Titration increments should not exceed those shown in Table 2.
+
+                           Table 2: Alternate Initial Dosing Regimen to Achieve the Maintenance Dosage in a Shorter Timeframe if Clinically Indicated*
+
+                                    Age and Body Weight
+
+                                  |
+
+                                    Alternate Initial Dosage
+
+                                  |
+
+                                    Titration Regimen
+
+                                  |
+
+                                    Maintenance Dosage
+
+                                  |
+
+                                 Adults (17 years and older)
+
+                                  |
+
+                                    Single loading dose:
+
+  200 mg
+
+   
+
+                                    12 hours later initiate:100 mg twice daily
+
+  (200 mg per day)
+
+                                  |
+                                 Increase by 50 mg twice daily (100 mg per day)
+
+  at weekly intervals, if needed
+
+                                  |
+
+                                    Monotherapy**:
+
+  150 mg to 200 mg twice daily
+
+  (300 mg to 400 mg per day)
+
+   
+
+                                    Adjunctive Therapy:
+
+  100 mg to 200 mg twice daily
+
+  (200 mg to 400 mg per day)
+
+                                  |
+
+                        *when not specified, the dosage is the same for monotherapy for partial-onset seizures and adjunctive therapy for partial-onset seizures.
+
+  **Monotherapy for partial-onset seizures only

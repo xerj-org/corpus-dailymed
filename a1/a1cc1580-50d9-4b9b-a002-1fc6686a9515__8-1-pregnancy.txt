@@ -1,0 +1,32 @@
+DailyMed a1cc1580-50d9-4b9b-a002-1fc6686a9515 | Nelarabine | 8.1 Pregnancy
+
+Risk Summary
+
+                        Based on its mechanism of action and findings in animal studies, nelarabine injection can cause fetal harm when administered to a pregnant woman
+  [see
+
+                              Clinical Pharmacology (12.1)
+
+                           ]. Limited available data with nelarabine injection use in pregnant women are insufficient to determine a drug-associated risk for major birth defects, miscarriage or adverse maternal, or fetal outcomes. There are risks to the pregnant woman associated with untreated leukemia or lymphoma
+  (see Clinical Considerations). In animal reproduction studies, intravenous administration of nelarabine to pregnant rabbits during the period of organogenesis resulted in teratogenicity at maternal doses below the recommended human adult dose of 1500 mg/m
+  2/day
+  (see Data). Advise pregnant women of the potential risk to the fetus.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Disease-Associated Maternal and/or Embryo-fetal Risk
+
+                        There are risks to the mother from untreated leukemia or lymphoma, including anemia, thrombocytopenia, and death.
+
+                           Data
+
+                           Animal Data
+
+                        In an embryo-fetal development study in which pregnant rabbits were administered daily doses of nelarabine during organogenesis, increased incidences of fetal malformations, anomalies, and variations were observed at doses greater than or equal to 360 mg/m
+  2/day (8-hour IV infusion; approximately 25% of the recommended human adult dose compared on a mg/m
+  2 basis), which was the lowest dose tested. Cleft palate was seen in rabbits given 3600 mg/m
+  2/day (approximately 2-fold the adult dose), absent pollices (digits) in rabbits given greater than or equal to 1200 mg/m
+  2/day (approximately 75% of the recommended adult dose), while absent gall bladder, absent accessory lung lobes, fused or extra sternebrae, and delayed ossification was seen at all doses. Maternal body weight gain and fetal body weights were reduced in rabbits given 3600 mg/m
+  2/day (approximately 2-fold the adult dose), but could not account for the increased incidence of malformations seen at this or lower administered doses.

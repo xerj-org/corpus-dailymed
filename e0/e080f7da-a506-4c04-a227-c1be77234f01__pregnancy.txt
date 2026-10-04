@@ -1,0 +1,56 @@
+DailyMed e080f7da-a506-4c04-a227-c1be77234f01 | Ibuprofen | Pregnancy
+
+Risk Summary
+
+Use of NSAIDs, including ibuprofen tablets, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment. Because of these risks, limit dose and duration of ibuprofen tablets use between about 20 and 30 weeks of gestation, and avoid ibuprofen tablets use at about 30 weeks of gestation and later in pregnancy [see
+
+                              WARNINGS, Fetal Toxicity
+                           ].
+
+                           Premature Closure of Fetal Ductus Arteriosus
+
+Use of NSAIDs, including ibuprofen tablets, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+                           Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+
+                        Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive. Reproductive studies conducted in rats and rabbits have not demonstrated evidence of developmental abnormalities. However, animal reproduction studies are not always predictive of human response. Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization. In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen, resulted in increased pre- and post-implantation loss. Prostaglandins also have been shown to have an important role in fetal kidney development. In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
+                        Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization. In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen, resulted in increased pre- and post-implantation loss. Prostaglandins also have been shown to have an important role in fetal kidney development. In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Fetal/Neonatal Adverse Reactions
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including ibuprofen tablets, can cause premature closure of the fetal ductus arteriosus [see
+
+                              WARNINGS, Fetal Toxicity
+                           ].
+
+                           Oligohydramnios/Neonatal Renal Impairment
+
+If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible. If ibuprofen tablets treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios. If oligohydramnios occurs, discontinue ibuprofen tablets and follow up according to clinical practice [see
+
+                              WARNINGS, Fetal Toxicity
+                           ].
+
+                           Data
+
+                           Human Data
+
+There are no adequate, well-controlled studies in pregnant women. Ibuprofen tablets should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+                           Premature Closure of Fetal Ductus Arteriosus:
+
+Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+                           Oligohydramnios/Neonatal Renal Impairment:
+
+Published studies and post-marketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment. These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation. In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug. There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible. Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+                        Methodological limitations of these post-marketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications. These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use. Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.

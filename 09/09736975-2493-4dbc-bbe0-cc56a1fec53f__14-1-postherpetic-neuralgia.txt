@@ -1,0 +1,81 @@
+DailyMed 09736975-2493-4dbc-bbe0-cc56a1fec53f | Gabapentin | 14.1 Postherpetic Neuralgia
+
+Gabapentin capsules was evaluated for the management of postherpetic neuralgia (PHN) in two randomized, double-blind, placebo-controlled, multicenter studies. The intent-to-treat (ITT) population consisted of a total of 563 patients with pain for more than 3 months after healing of the herpes zoster skin rash (Table 6).
+
+                           TABLE 6. Controlled PHN Studies: Duration, Dosages, and Number of Patients
+
+                                 Study
+
+                                  |
+                                 Study Duration
+
+                                  |
+                                 Gabapentin (mg/day)
+
+     aTarget Dose
+
+                                  |
+                                 Patients Receiving Gabapentin
+
+                                  |
+                                 Patients Receiving Placebo
+
+                                  |
+
+                                 1
+
+                                  |
+                                 8 weeks
+
+                                  |
+                                 3600
+
+                                  |
+                                 113
+
+                                  |
+                                 116
+
+                                  |
+
+                                 2
+
+                                  |
+                                 7 weeks
+
+                                  |
+                                 1800, 2400
+
+                                  |
+                                 223
+
+                                  |
+                                 111
+
+                                  |
+
+                                 Total
+
+                                  |
+                                 336
+
+                                  |
+                                 227
+
+                                  |
+
+                           aGiven in 3 divided doses (TID)
+
+                        Each study included a 7- or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose). Patients initiated treatment with titration to a maximum of 900 mg/day gabapentin over 3 days. Dosages were then to be titrated in 600 to 1200 mg/day increments at 3- to 7-day intervals to the target dose over 3 to 4 weeks. Patients recorded their pain in a daily diary using an 11-point numeric pain rating scale ranging from 0 (no pain) to 10 (worst possible pain). A mean pain score during baseline of at least 4 was required for randomization. Analyses were conducted using the ITT population (all randomized patients who received at least one dose of study medication).
+
+                        Both studies demonstrated efficacy compared to placebo at all doses tested.
+
+                        The reduction in weekly mean pain scores was seen by Week 1 in both studies, and were maintained to the end of treatment. Comparable treatment effects were observed in all active treatment arms. Pharmacokinetic/pharmacodynamic modeling provided confirmatory evidence of efficacy across all doses. Figures 1 and 2 show pain intensity scores over time for Studies 1 and 2.
+
+                           Figure 1. Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 1
+
+                           Figure 2. Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2
+
+                        The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared to baseline) was calculated for each study (Figure 3).
+
+                           Figure 3. Proportion of Responders (patients with ≥ 50% reduction in pain score) at Endpoint: Controlled PHN Studies

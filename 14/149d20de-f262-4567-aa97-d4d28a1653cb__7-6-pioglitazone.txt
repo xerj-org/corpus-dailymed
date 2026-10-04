@@ -1,0 +1,9 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 7.6 Pioglitazone
+
+A decrease in the exposure of pioglitazone and its active metabolites were noted with the concurrent use of pioglitazone and topiramate in a clinical trial. The clinical relevance of these observations is unknown; however, when topiramate is added to pioglitazone therapy or pioglitazone is added to topiramate therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state
+
+  [see Clinical Pharmacology (
+
+   12.3)]
+
+  .

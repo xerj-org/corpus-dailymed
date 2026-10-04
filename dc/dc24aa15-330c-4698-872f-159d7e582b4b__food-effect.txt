@@ -1,0 +1,15 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | Food Effect
+
+Compared to the fasting state, administration of mycophenolic acid delayed release 720 mg with a high-fat meal (55 g fat, 1000 calories) had no effect on the systemic exposure (AUC) of MPA. However, there was a 33% decrease in the maximal concentration (C
+
+  max), a 3.5-hour delay in the T
+
+  lag(range, -6 to 18 hours), and 5.0-hour delay in the T
+
+  max(range, -9 to 20 hours) of MPA. To avoid the variability in MPA absorption between doses, mycophenolic acid delayed release should be taken on an empty stomach [see
+
+                                    Dosage and Administration
+
+    (2.3)
+
+                                 ]

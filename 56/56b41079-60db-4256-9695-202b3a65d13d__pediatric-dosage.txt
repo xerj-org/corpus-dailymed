@@ -1,0 +1,34 @@
+DailyMed 56b41079-60db-4256-9695-202b3a65d13d | Armour Thyroid | Pediatric Dosage —
+
+Pediatric dosage should follow the recommendations summarized in Table 1. In infants with congenital hypothyroidism, therapy with full doses should be instituted as soon as the diagnosis has been made.
+
+                           Table 1: Recommended Pediatric Dosage for Congenital Hypothyroidism
+
+                                 Age |
+                                 Armour Thyroid (thyroid tablets, USP) |
+
+                                  |
+                                 Dose per day |
+                                 Daily dose per kg of body weight |
+
+                                 0-6 months |
+                                 15-30 mg |
+                                 4.8-6 mg |
+
+                                 6-12 months |
+                                 30-45 mg |
+                                 3.6-4.8 mg |
+
+                                 1-5 years |
+                                 45-60 mg |
+                                 3-3.6 mg |
+
+                                 6-12 years |
+                                 60-90 mg |
+                                 2.4-3 mg |
+
+                                 Over 12 years |
+                                 Over 90 mg
+		     
+	 |
+                                 1.2-1.8 mg |

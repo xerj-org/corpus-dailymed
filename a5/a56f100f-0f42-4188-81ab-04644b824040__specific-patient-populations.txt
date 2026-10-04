@@ -1,0 +1,7 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Specific Patient Populations
+
+Glyburide is not recommended for use in pregnancy or for use in pediatric patients.
+
+                        In elderly patients, debilitated or malnourished patients, and patients with impaired renal or hepatic function, the initial and maintenance dosing should be conservative to avoid hypoglycemic reactions (see
+                              PRECAUTIONS
+                            section).

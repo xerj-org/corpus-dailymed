@@ -1,0 +1,5 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 6.1 Clinical Trial Experience in Adult Patients
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect rates observed in practice. The most common adverse reactions and laboratory abnormalities reported in at least 20% of patients were pyrexia, diarrhea, leukopenia, nausea, anemia, asthenia, headache, cough, decreased appetite, dyspnea, abdominal pain, sepsis, hyperhidrosis, and blood creatinine increased.
+
+                        Selected adverse reactions that occurred during clinical trials of ganciclovir for injection are summarized below, according to the participating study patient population.

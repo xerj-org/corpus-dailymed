@@ -1,0 +1,13 @@
+DailyMed 107eed24-d1a5-429e-b388-fad8879e9ca4 | Lidothol ES | NONCLINICAL TOXICOLOGY
+
+Carcinogenesis
+
+                  A minor metabolite, 2,6-xylidine, has been found to be carcinogenic in rats. The blood concentration of metabolite is negligible following application of Lidothol® ES.
+
+                     Mutagenesis
+
+                  Lidocaine is not mutagenic in Salmonella/mammalian microsome test nor clastogenic in chromosome aberration assay with human lymphocytes and mouse micronucleus test.
+
+                     Impairment of Fertility
+
+                  The effect of Lidothol® ES on fertility has not been studied.

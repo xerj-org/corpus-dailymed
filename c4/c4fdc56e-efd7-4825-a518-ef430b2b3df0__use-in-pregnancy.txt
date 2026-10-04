@@ -1,0 +1,15 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | Use in Pregnancy
+
+Cytarabine can cause fetal harm when administered to a pregnant woman. Cytarabine causes abnormal cerebellar development in the neonatal hamster and is teratogenic to the rat fetus. There are no adequate and well-controlled studies in pregnant women. Women of childbearing potential should be advised to avoid becoming pregnant.
+
+                        A review of the literature has shown 32 reported cases where cytarabine was given during pregnancy, either alone or in combination with other cytotoxic agents:
+
+                        Eighteen normal infants were delivered. Four of these had first trimester exposure. Five infants were premature or of low birth weight.  Twelve of the 18 normal infants were followed up at ages ranging from six weeks to seven years, and showed no abnormalities.  One apparently normal infant died at 90 days of gastroenteritis.
+
+                        Two cases of congenital abnormalities have been reported, one with upper and lower distal limb defects, and the other with extremity and ear deformities. Both of these cases had first trimester exposure.
+
+                        There were seven infants with various problems in the neonatal period, including pancytopenia, transient depression of WBC, hematocrit or platelets; electrolyte abnormalities; transient eosinophilia; and one case of increased IgM levels and hyperpyrexia possibly due to sepsis. Six of the seven infants were also premature. The child with pancytopenia died at 21 days of sepsis.
+
+                        Therapeutic abortions were done in five cases. Four fetuses were grossly normal, but one had an enlarged spleen and another showed Trisomy C chromosome abnormality in the chorionic tissue.
+
+                        Because of the potential for abnormalities with cytotoxic therapy, particularly during the first trimester, a patient who is or who may become pregnant while on cytarabine should be apprised of the potential risk to the fetus and the advisability of pregnancy continuation. There is a definite, but considerably reduced risk if therapy is initiated during the second or third trimester. Although normal infants have been delivered to patients treated in all three trimesters of pregnancy, follow-up of such infants would be advisable.

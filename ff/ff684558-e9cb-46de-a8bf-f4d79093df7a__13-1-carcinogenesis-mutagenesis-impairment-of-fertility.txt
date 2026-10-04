@@ -1,0 +1,13 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Carcinogenicity studies have not been conducted with sonrotoclax.
+
+                           Mutagenesis
+
+                        Sonrotoclax was not mutagenic in a bacterial mutagenicity (Ames) assay and not clastogenic in a chromosome aberration assay in mammalian cells or in an in vivo bone marrow micronucleus assay in mice.
+
+                           Impairment of Fertility
+
+                        Fertility studies in animals have not been conducted with sonrotoclax. In a repeat dose, 13-week toxicity study in mice treated with oral administration of sonrotoclax at 20, 100, or 300 mg/kg/day, changes were reported in female reproductive organs at all doses, including the development of ovarian cysts, vaginal mucification, and uterine atrophy. At the dose of 20 mg/kg/day in mice, exposures (AUC) were approximately the same as the human exposure at the recommended dose. In a repeat dose, 13-week toxicity study in dogs treated with oral administration of sonrotoclax at 10, 30, or 100 mg/kg/day, changes were reported in male reproductive organs at all doses, including atrophy, necrosis, and vacuolation of the epididymis with reduced sperm, and atrophy of the prostate and testis. At the dose of 10 mg/kg/day in dogs, exposures were approximately 2 times the human exposure at the recommended dose. Reversibility was noted in both species by the end of the recovery period.

@@ -1,0 +1,15 @@
+DailyMed 10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9 | Dapagliflozin and Metformin Hydrochloride | 2.6 Temporary Interruption for Surgery
+
+Withhold dapagliflozin and metformin HCl extended-release tablets for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting. Resume dapagliflozin and metformin HCl extended-release tablets when the patient is clinically stable and has resumed oral intake
+
+  [see
+
+   Warnings and Precautions (5.2) 
+
+  and
+
+    
+
+   Clinical Pharmacology (12.2)]
+
+  .

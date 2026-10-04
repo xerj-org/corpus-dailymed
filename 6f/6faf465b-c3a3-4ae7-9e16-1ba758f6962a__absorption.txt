@@ -1,0 +1,5 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | Absorption
+
+After administration of a single or multiple oral 40 mg doses of pantoprazole sodium delayed-release tablets, the peak plasma concentration of pantoprazole was achieved in approximately 2.5 hours, and Cmax was 2.5 µg/mL. Pantoprazole undergoes little first-pass metabolism, resulting in an absolute bioavailability of approximately 77%. Pantoprazole absorption is not affected by concomitant administration of antacids.
+
+                              Administration of pantoprazole sodium delayed-release tablets with food may delay their absorption up to 2 hours or longer; however, the Cmax and the extent of pantoprazole absorption (AUC) are not altered. Thus, pantoprazole sodium delayed-release tablets may be taken without regard to timing of meals.

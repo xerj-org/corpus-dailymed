@@ -1,0 +1,7 @@
+DailyMed fc726765-5d5a-4d6e-b037-b847bda9fb7c | Kerendia | 5.1 Hyperkalemia
+
+Kerendia can cause hyperkalemia [see Adverse Reactions (6.1)].
+
+                        The risk for developing hyperkalemia increases with decreasing kidney function and is greater in patients with higher baseline potassium levels or other risk factors for hyperkalemia. Measure serum potassium and eGFR in all patients before initiation of treatment with Kerendia and dose accordingly [see Dosage and Administration (2.1)]. Do not initiate Kerendia if serum potassium is > 5.0 mEq/L.
+
+                        Measure serum potassium periodically during treatment with Kerendia and adjust dose accordingly [see Dosage and Administration (2.3)]. More frequent monitoring may be necessary for patients at risk for hyperkalemia, including those on concomitant medications that impair potassium excretion or increase serum potassium [see Drug Interactions (7.1, 7.2)].

@@ -1,0 +1,3 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 7.3 Calcium Antagonists
+
+Caution should be used in the co-administration of beta-adrenergic blocking agents, such as brimonidine tartrate/timolol maleate ophthalmic solution, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension. In patients with impaired cardiac function, co-administration should be avoided.

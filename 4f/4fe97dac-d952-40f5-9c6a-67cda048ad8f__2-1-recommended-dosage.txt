@@ -1,0 +1,28 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 2.1 Recommended Dosage
+
+Primary Humoral Immunodeficiency (PI)
+
+                        As there are significant differences in the half-life of IgG among patients with primary humoral immunodeficiencies, the ideal frequency and amount of immunoglobulin therapy may vary from patient to patient. The proper amount can be determined by monitoring clinical response.
+
+                        The dose of GAMUNEX-C FlexBag for patients with PI is 300 mg/kg to 600 mg/kg body weight (3 mL/kg to 6 mL/kg) administered every 3 to 4 weeks. The dosage may be adjusted over time to achieve the desired trough levels and clinical responses.
+
+                        The recommended initial infusion rate is 1 mg/kg/min (0.01 mL/kg/min). If the infusion is well-tolerated, the rate may be gradually increased to a maximum of 8 mg/kg/min (0.08 mL/kg/min). For patients judged to be at risk for renal dysfunction or thrombosis, administer GAMUNEX-C FlexBag at the minimum infusion rate practicable. [see Warnings and Precautions (5.2,5.4)]
+
+                        If a patient routinely receives a dose of less than 400 mg/kg of GAMUNEX-C FlexBag every 3 to 4 weeks (less than 4 mL/kg), and is at risk of measles exposure (i.e., traveling to a measles endemic area), administer a dose of at least 400 mg/kg (4 mL/kg) just prior to the expected measles exposure. If a patient has been exposed to measles, a dose of 400 mg/kg (4 mL/kg) should be administered as soon as possible after exposure.
+
+                           Idiopathic Thrombocytopenic Purpura (ITP)
+
+                        GAMUNEX-C FlexBag may be administered at a total dose of 2 g/kg, divided in two doses of 1 g/kg (10 mL/kg) given on two consecutive days or into five doses of 0.4 g/kg (4 mL/kg) given on five consecutive days. If after administration of the first of two daily 1 g/kg (10 mL/kg) doses, an adequate increase in the platelet count is observed at 24 hours, the second dose of 1 g/kg (10 mL/kg) body weight may be withheld.
+
+                        The high dose regimen (1 g/kg × 1-2 days) is not recommended for individuals with expanded fluid volumes or where fluid volume may be a concern. [see Warnings and Precautions (5.8), Clinical Studies (14)]
+
+                        The recommended initial infusion rate is 1 mg/kg/min (0.01 mL/kg/min). If the infusion is well-tolerated, the rate may be gradually increased to a maximum of 8 mg/kg/min (0.08 mL/kg/min). For patients judged to be at risk for renal dysfunction or thrombosis, administer GAMUNEX-C FlexBag at the minimum infusion rate practicable. [see Warnings and Precautions (5.2,
+                              5.4)]
+
+                           Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+
+                        GAMUNEX-C FlexBag may be initially administered as a total loading dose of 2 g/kg (20 mL/kg) given in divided doses over two to four consecutive days. GAMUNEX-C FlexBag may be administered as a maintenance infusion of 1 g/kg (10 mL/kg) administered over 1 day or divided into two doses of 0.5 g/kg (5 mL/kg) given on two consecutive days, every 3 weeks.  Not all patients may require continued maintenance therapy beyond the initial 6 months of therapy in order to maintain their therapeutic response.
+
+                        The recommended initial infusion rate is 2 mg/kg/min (0.02 mL/kg/min). If the infusion is well tolerated, the rate may be gradually increased to a maximum of 8 mg/kg/min (0.08 mL/kg/min). For patients judged to be at risk for renal dysfunction or thrombosis, administer GAMUNEX-C FlexBag at the minimum infusion rate practicable.
+                              [see Warnings and Precautions (5.2,
+                                 5.4)]

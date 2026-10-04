@@ -1,0 +1,5 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Withdrawal Reactions
+
+Inform patients that the continued use of diazepam tablets may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of diazepam tablets may precipitate acute withdrawal reactions, which can be life-threatening. Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months. Instruct patients that discontinuation or dosage reduction of diazepam tablets may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
+
+                              Patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during diazepam tablets therapy. As is true of most CNS-acting drugs, patients receiving diazepam tablets should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.

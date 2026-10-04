@@ -1,0 +1,10 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 8.6 Renal Impairment
+
+Pregabalin is eliminated primarily by renal excretion and dose adjustment is recommended for adult patients with renal impairment
+
+  [see
+
+   Dosage and Administration (2.7)and
+
+                              Clinical Pharmacology (12.3)].
+                           The use of pregabalin in pediatric patients with compromised renal function has not been studied.

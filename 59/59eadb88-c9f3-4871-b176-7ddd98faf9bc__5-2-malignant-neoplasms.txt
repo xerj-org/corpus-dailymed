@@ -1,0 +1,25 @@
+DailyMed 59eadb88-c9f3-4871-b176-7ddd98faf9bc | Bijuva | 5.2 Malignant Neoplasms
+
+Breast Cancer
+
+                           BIJUVA is contraindicated in women with breast cancer, a history of breast cancer, or estrogen-dependent neoplasia [see Contraindications (4)].
+
+                           Discontinue BIJUVA if a hormone-sensitive malignancy is diagnosed.The use of estrogen plus progestin therapy has been reported to result in an increase in abnormal mammograms requiring further evaluation.
+
+                           Only daily oral CE 0.625 mg and MPA 2.5 mg were studied in the estrogen plus progestin trial of the WHI. Therefore, the relevance of the WHI findings regarding breast cancer to lower CE plus other MPA doses, other routes of administration, or other estrogen plus progestogen products is not known. Without such data, it is not possible to definitively exclude these risks or determine the extent of these risks for other products.
+
+                           In women 50-59 years of age, the WHI estrogen plus progestin trial reported a relative risk for invasive breast cancer of 1.21 (95% CI, 0.81-1.80) for CE/MPA compared to placebo, with a risk difference of 6 per 10,000 WYs (33 versus 27). In this age group, among those who reported no prior use of hormone therapy, the relative risk was 1.06 (95% CI, 0.67-1.67) for CE/MPA compared to placebo, with a risk difference of 2 per 10,000 WYs (33 versus 31) [see Clinical Studies (14.4)].
+
+                           In the overall study population of women aged 50-79 years (average 63.4 years), the WHI estrogen plus progestin trial reported a relative risk for invasive breast cancer of 1.24 (95% CI, 1.01-1.53) for CE/MPA compared to placebo, with a risk difference of 9 per 10,000 WYs (43 versus 35). In the overall study population, among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.85 (95% CI, 1.18-2.90) for CE/MPA compared to placebo, with a risk difference of 21 per 10,000 WYs (46 versus 25). Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09 (95% CI, 0.86-1.39), with a risk difference of 4 per 10,000 WYs (40 versus 36). Invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE/MPA group compared with the placebo group. Metastatic disease was rare, with no apparent difference between the two groups. Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups. Extension of the WHI trial also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy [see Clinical Studies (14.4)].1
+
+                           Consistent with the WHI trial, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy. A large meta-analysis including 24 prospective studies of postmenopausal women comparing current use of estrogen plus progestin products with use duration of 5 to 14 years (average of 9 years) versus never use reported a relative risk for breast cancer of 2.08 (95% CI, 2.02-2.15). These studies have not generally found the risk of breast cancer to be different among the various estrogen plus progestin combinations, doses, or routes of administration.4
+
+                           Regarding breast cancer mortality, the WHI estrogen plus progestin trial did not show a statistically significant difference between CE/MPA and placebo. The trial reported a relative risk of 1.35 (95% CI, 0.94-1.95) for CE/MPA compared to placebo, with a risk difference of 1 per 10,000 WYs (5 versus 4) after a median of 19 years of cumulative follow-up [see Clinical Studies (14.4)].
+
+                              Ovarian Cancer
+
+                           Comparing CE/MPA to placebo, women 50-59 years of age had a relative risk for ovarian cancer of 0.30 (95% CI, 0.06-1.47) and the risk difference was -3 per 10,000 WYs (1 versus 4) [see Clinical Studies (14.4)].
+
+                           In the overall WHI study population of women aged 50-79 years (average 63.4 years), the WHI estrogen plus progestin trial reported a relative risk for ovarian cancer of 1.41 (95% CI, 0.75-2.66) for CE/MPA versus placebo after an average follow-up of 5.6 years. The risk difference was 1 per 10,000 WYs (5 versus 4) [see Clinical Studies (14.4)].
+
+                           A large meta-analysis including 17 prospective studies of postmenopausal women compared current use of estrogen plus progestin products versus never use and reported a relative risk for ovarian cancer of 1.37 (95% CI, 1.26-1.48). The duration of hormone therapy use that was associated with an increased risk of ovarian cancer is unknown.5

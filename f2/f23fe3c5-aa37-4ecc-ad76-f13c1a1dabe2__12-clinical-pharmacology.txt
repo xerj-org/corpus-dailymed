@@ -1,0 +1,3 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 12 CLINICAL PHARMACOLOGY
+
+Propofol injectable emulsion is an intravenous general anesthetic and sedation drug for use in the induction and maintenance of anesthesia or sedation. Intravenous injection of a therapeutic dose of propofol induces anesthesia, with minimal excitation, usually within 40 seconds from the start of injection (the time for one arm-brain circulation). As with other rapidly acting intravenous anesthetic agents, the half-time of the blood-brain equilibration is approximately 1 to 3 minutes, accounting for the rate of induction of anesthesia.

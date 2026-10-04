@@ -1,0 +1,72 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 2.1 Recommended Dose
+
+The recommended dose of GADAVIST for adult and pediatric patients, including term neonates, is 0.1 mmol/kg actual body weight (equivalent to 0.1 mL/kg) administered intravenously.
+
+                        For CMRI, the dose is divided into two separate, equal injections [see Dosage and Administration (2.2)].
+
+                        Refer to Table 1 for volumes to be administered for example body weights.
+
+                           Table 1: Volume of GADAVIST for Example Body Weights
+
+                                 Body Weight (kg) |
+                                 Volume to be Administered (mL) |
+
+                                 2.5 |
+                                 0.25 |
+
+                                 5 |
+                                 0.5 |
+
+                                 10 |
+                                 1 |
+
+                                 15 |
+                                 1.5 |
+
+                                 20 |
+                                 2 |
+
+                                 25 |
+                                 2.5 |
+
+                                 30 |
+                                 3 |
+
+                                 35 |
+                                 3.5 |
+
+                                 40 |
+                                 4 |
+
+                                 45 |
+                                 4.5 |
+
+                                 50 |
+                                 5 |
+
+                                 60 |
+                                 6 |
+
+                                 70 |
+                                 7 |
+
+                                 80 |
+                                 8 |
+
+                                 90 |
+                                 9 |
+
+                                 100 |
+                                 10 |
+
+                                 110 |
+                                 11 |
+
+                                 120 |
+                                 12 |
+
+                                 130 |
+                                 13 |
+
+                                 140 |
+                                 14 |

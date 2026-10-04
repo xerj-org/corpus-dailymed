@@ -1,0 +1,9 @@
+DailyMed 5f603b0d-69e5-4c02-b6b3-b4705e243e9a | Butalbital, Acetaminophen and Caffeine | Treatment
+
+A single or multiple drug overdose with this combination product is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended. Immediate treatment includes support of cardiorespiratory function and measures to reduce drug absorption.
+
+                        Oxygen, intravenous fluids, vasopressors, and other supportive measures should be employed as indicated. Assisted or controlled ventilation should also be considered.
+
+                        Gastric decontamination with activated charcoal should be administered just prior to N-acetylcysteine (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have occurred within a few hours of presentation. Serum acetaminophen levels should be obtained immediately if the patient presents 4 hours or more after ingestion to assess potential risk of hepatotoxicity; acetaminophen levels drawn less than 4 hours post-ingestion may be misleading. To obtain the best possible outcome, NAC should be administered as soon as possible where impending or evolving liver injury is suspected. Intravenous NAC may be administered when circumstances preclude oral administration.
+
+                        Vigorous supportive therapy is required in severe intoxication. Procedures to limit the continuing absorption of the drug must be readily performed since the hepatic injury is dose dependent and occurs early in the course of intoxication.

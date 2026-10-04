@@ -1,0 +1,19 @@
+DailyMed 2d5a1b78-4aa6-537b-e063-6394a90a522f | Pitavastatin | 5.3 Hepatic Dysfunction
+
+Increases in serum transaminases have been reported with pitavastatin tablets
+
+  [see
+
+   Adverse Reactions (6)]
+
+  . In most cases, these changes appeared soon after initiation, were transient, were not accompanied by symptoms, and resolved or improved on continued therapy or after a brief interruption in therapy. There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pitavastatin.
+
+                        Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury.
+
+                        Consider liver enzyme testing before the initiation of pitavastatin tablets and when clinically indicated thereafter. Pitavastatin tablets is contraindicated in patients with acute liver failure or decompensated cirrhosis
+
+  [see
+
+   Contraindications (4)]
+
+  . If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs, promptly discontinue pitavastatin tablets.

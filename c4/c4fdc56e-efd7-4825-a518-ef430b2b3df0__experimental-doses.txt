@@ -1,0 +1,17 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | Experimental Doses
+
+Severe and at times fatal CNS, GI and pulmonary toxicity (different from that seen with conventional therapy regimens of cytarabine) has been reported following some experimental dose schedules of cytarabine. These reactions include reversible corneal toxicity and hemorrhagic conjunctivitis, which may be prevented or diminished by prophylaxis with a local corticosteroid eye drop; cerebral and cerebellar dysfunction, including personality changes, somnolence and coma, usually reversible; severe gastrointestinal ulceration, including pneumatosis cystoides intestinalis leading to peritonitis; sepsis and liver abscess; pulmonary edema, liver damage with increased hyperbilirubinemia; bowel necrosis; and necrotizing colitis. Rarely, severe skin rash, leading to desquamation has been reported. Complete alopecia is more commonly seen with experimental high dose therapy than with standard treatment programs using cytarabine. If experimental high dose therapy is used, do not use a preparation containing benzyl alcohol.
+
+                        Cases of cardiomyopathy with subsequent death have been reported following experimental high dose therapy with cytarabine in combination with cyclophosphamide when used for bone marrow transplant preparation.
+
+                           This cardiac toxicity may be schedule dependent.
+
+                        A syndrome of sudden respiratory distress, rapidly progressing to pulmonary edema and radiographically pronounced cardiomegaly has been reported following experimental high dose therapy with cytarabine used for the treatment of relapsed leukemia from one institution in 16/72 patients. The outcome of this syndrome can be fatal.
+
+                        Two patients with adult acute non-lymphocytic leukemia developed peripheral motor and sensory neuropathies after consolidation with high-dose cytarabine, daunorubicin, and asparaginase. Patients treated with high-dose cytarabine should be observed for neuropathy since dose schedule alterations may be needed to avoid irreversible neurologic disorders.
+
+                        Ten patients treated with experimental intermediate doses of cytarabine (1 g/m2) with and without other chemotherapeutic agents (meta-AMSA, daunorubicin, etoposide) at various dose regimes developed a diffuse interstitial pneumonitis without clear cause that may have been related to the cytarabine.
+
+                        Two cases of pancreatitis have been reported following experimental doses of cytarabine and numerous other drugs. Cytarabine could have been the causative agent.
+
+                           To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch

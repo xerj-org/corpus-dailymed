@@ -1,0 +1,5 @@
+DailyMed f957ea27-2906-40c7-ac03-eb2f742473a0 | Cephalexin | 8.6 Renal Impairment
+
+Cephalexin should be administered with careful monitoring in the presence of renal impairment (creatinine clearance < 30 mL/min, with or without dialysis). Under such conditions, careful clinical observation and laboratory studies including renal function monitoring should be conducted because safe dosage may be lower than that usually recommended [see Dosage and Administration (2.3)]. Monitor patients longer for toxicity and drug interactions due to delayed clearance.
+
+                        There is insufficient information to recommend dosage adjustment for pediatric patients younger than 15 years of age with renal impairment [see Dosage and Administration (2.4)].

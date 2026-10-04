@@ -1,0 +1,9 @@
+DailyMed c05ee6a5-c98b-45f4-83fd-40781639d653 | DigiFab | 1 INDICATIONS AND USAGE
+
+DIGIFAB is indicated for the treatment of patients with life-threatening or potentially life-threatening digoxin toxicity or overdose, including:
+
+                     Known suicidal or accidental consumption of fatal doses of digoxin: 10 mg or more of digoxin in healthy adults, or 4 mg (or more than 0.1 mg/kg) in healthy children, or ingestion of an amount that can cause steady state serum concentrations of ≥10 ng/mL;
+
+                     Chronic ingestions causing steady-state serum digoxin concentrations >6 ng/mL in adults or 4 ng/mL in children;
+
+                     Manifestations of life-threatening toxicity of digoxin overdose such as severe ventricular arrhythmias, progressive bradycardia, and second or third degree heart block not responsive to atropine, serum potassium levels exceeding 5.5 mEq/L in adults or 6 mEq/L in children with rapidly progressive signs and symptoms of digoxin toxicity.

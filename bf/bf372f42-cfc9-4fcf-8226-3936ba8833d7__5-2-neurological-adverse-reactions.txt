@@ -1,0 +1,11 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 5.2 Neurological Adverse Reactions
+
+Brivaracetam causes somnolence, fatigue, dizziness, and disturbance in coordination. Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on brivaracetam to gauge whether it adversely affects their ability to drive or operate machinery.
+
+                           Somnolence and Fatigue
+
+                        Brivaracetam causes dose-dependent increases in somnolence and fatigue-related adverse reactions (fatigue, asthenia, malaise, hypersomnia, sedation, and lethargy) [see Adverse Reactions (6.1)]. In the Phase 3 controlled adjunctive epilepsy trials, these events were reported in 25% of patients randomized to receive brivaracetam at least 50 mg/day (20% at 50 mg/day, 26% at 100 mg/day, and 27% at 200 mg/day) compared to 14% of patients who received placebo. The risk is greatest early in treatment but can occur at any time.
+
+                           Dizziness and Disturbance in Gait and Coordination
+
+                        Brivaracetam causes adverse reactions related to dizziness and disturbance in gait and coordination (dizziness, vertigo, balance disorder, ataxia, nystagmus, gait disturbance, and abnormal coordination) [see Adverse Reactions (6.1)]. In the Phase 3 controlled adjunctive epilepsy trials, these events were reported in 16% of patients randomized to receive brivaracetam at least 50 mg/day compared to 10% of patients who received placebo. The risk is greatest early in treatment but can occur at any time.

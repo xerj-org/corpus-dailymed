@@ -1,0 +1,11 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 6.11 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of tocilizumab products. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Hypersensitivity Reactions: Fatal anaphylaxis, Stevens-Johnson Syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6)]
+
+                           Pancreatitis
+
+                           Drug-induced liver injury, Hepatitis, Hepatic failure, Jaundice [see Warnings and Precautions (5.3)]
+
+                           Hypofibrinogenemia

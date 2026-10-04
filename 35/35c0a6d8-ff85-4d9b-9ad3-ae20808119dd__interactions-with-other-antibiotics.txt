@@ -1,0 +1,3 @@
+DailyMed 35c0a6d8-ff85-4d9b-9ad3-ae20808119dd | Nitrofurantoin (monohydrate/macrocrystals) | Interactions with Other Antibiotics
+
+Antagonism has been demonstrated in-vitro between nitrofurantoin and quinolone antimicrobials. The clinical significance of this finding is unknown.

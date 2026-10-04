@@ -1,0 +1,335 @@
+DailyMed 9d8fd052-b478-447e-a884-74fcd21275bb | Terazosin hydrochloride | Benign Prostatic Hyperplasia
+
+The incidence of treatment-emergent adverse events has been ascertained from clinical trials conducted worldwide. All adverse events reported during these trials were recorded as adverse reactions. The incidence rates presented below are based on combined data from six placebo-controlled trials involving once-a-day administration of terazosin at doses ranging from 1 to 20 mg. Table 1 summarizes those adverse events reported for patients in these trials when the incidence rate in the terazosin group was at least 1%, and was greater than that for the placebo group, or where the reaction is of clinical interest. Asthenia, postural hypotension, dizziness, somnolence, nasal congestion/rhinitis, and impotence were the only events that were significantly (p ≤ 0.05) more common in patients receiving terazosin than in patients receiving placebo. The incidence of urinary tract infection was significantly lower in the patients receiving terazosin than in patients receiving placebo. An analysis of the incidence rate of hypotensive adverse events (see
+                              PRECAUTIONS
+                           ) adjusted for the length of drug treatment has shown that the risk of the events is greatest during the initial seven days of treatment, but continues at all time intervals.
+
+                           TABLE 1. Adverse Reactions During Placebo-Controlled Trials Benign Prostatic Hyperplasia
+
+                                     Body System
+
+                                  |
+
+                                     Terazosin
+
+                                       (N = 636)
+
+                                  |
+
+                                     Placebo
+
+                                       (N = 360)
+
+                                  |
+
+                                     BODY AS A WHOLE
+
+                                       Includes weakness, tiredness, lassitude, and fatigue.
+
+Asthenia
+
+ Flu Syndrome
+
+ Headache
+
+                                  |
+
+                                      7.4%p ≤ 0.05 comparison between groups.
+
+ 2.4%
+
+ 4.9%
+
+                                  |
+
+                                      3.3%
+
+ 1.7%
+
+ 5.8%
+
+                                  |
+
+                                     CARDIOVASCULAR SYSTEM
+
+ Hypotension
+
+ Palpitations
+
+ Postural Hypotension
+
+ Syncope
+
+                                  |
+
+                                      0.6%
+
+ 0.9%
+
+ 3.9%
+
+ 0.6%
+
+                                  |
+
+                                      0.6%
+
+ 1.1%
+
+ 0.8%
+
+ 0.0%
+
+                                  |
+
+                                     DIGESTIVE SYSTEM
+
+ Nausea
+
+                                  |
+
+                                      1.7%
+
+                                  |
+
+                                      1.1%
+
+                                  |
+
+                                     METABOLIC AND NUTRITIONAL DISORDERS
+
+ Peripheral Edema
+
+ Weight Gain
+
+                                  |
+
+                                      0.9%
+
+ 0.5%
+
+                                  |
+
+                                      0.3%
+
+ 0.0%
+
+                                  |
+
+                                     NERVOUS SYSTEM
+
+ Dizziness
+
+ Somnolence
+
+ Vertigo
+
+                                  |
+
+                                      9.1%
+
+ 3.6%
+
+ 1.4%
+
+                                  |
+
+                                      4.2%
+
+ 1.9%
+
+ 0.3%
+
+                                  |
+
+                                     RESPIRATORY SYSTEM
+
+ Dyspnea
+
+ Nasal Congestion/Rhinitis
+
+                                  |
+
+                                      1.7%
+
+ 1.9%
+
+                                  |
+
+                                      0.8%
+
+ 0.0%
+
+                                  |
+
+                                     SPECIAL SENSES
+
+ Blurred Vision/Amblyopia
+
+                                  |
+
+                                      1.3%
+
+                                  |
+
+                                      0.6%
+
+                                  |
+
+                                     UROGENITAL SYSTEM
+
+ Impotence
+
+ Urinary Tract Infection
+
+                                  |
+
+                                      1.6%
+
+ 1.3%
+
+                                  |
+
+                                      0.6%
+
+ 3.9%
+
+                                  |
+
+                        Additional adverse events have been reported, but these are, in general, not distinguishable from symptoms that might have occurred in the absence of exposure to terazosin. The safety profile of patients treated in the long-term open-label study was similar to that observed in the controlled studies.
+
+                        The adverse events were usually transient and mild or moderate in intensity, but sometimes were serious enough to interrupt treatment. In the placebo-controlled clinical trials, the rates of premature termination due to adverse events were not statistically different between the placebo and terazosin groups. The adverse events that were bothersome, as judged by their being reported as reasons for discontinuation of therapy by at least 0.5% of the terazosin group and being reported more often than in the placebo group, are shown in Table 2.
+
+                           TABLE 2. Discontinuation During Placebo-Controlled Trials Benign Prostatic Hyperplasia
+
+                                     Body System
+
+                                  |
+
+                                     Terazosin
+
+                                       (N = 636)
+
+                                  |
+
+                                     Placebo
+
+                                       (N = 360)
+
+                                  |
+
+                                     BODY AS A WHOLE
+
+ Fever
+
+ Headache
+
+                                  |
+
+                                     0.5%
+
+1.1%
+
+                                  |
+
+                                     0.0%
+
+0.8%
+
+                                  |
+
+                                     CARDIOVASCULAR SYSTEM
+
+ Postural Hypotension
+
+ Syncope
+
+                                  |
+
+                                     0.5%
+
+0.5%
+
+                                  |
+
+                                     0.0%
+
+0.0%
+
+                                  |
+
+                                     DIGESTIVE SYSTEM
+
+ Nausea
+
+                                  |
+
+                                     0.5%
+
+                                  |
+
+                                     0.3%
+
+                                  |
+
+                                     NERVOUS SYSTEM
+
+ Dizziness
+
+ Vertigo
+
+                                  |
+
+                                     2.0%
+
+0.5%
+
+                                  |
+
+                                     1.1%
+
+0.0%
+
+                                  |
+
+                                     RESPIRATORY SYSTEM
+
+ Dyspnea
+
+                                  |
+
+                                     0.5%
+
+                                  |
+
+                                     0.3%
+
+                                  |
+
+                                     SPECIAL SENSES
+
+ Blurred Vision/Amblyopia
+
+                                  |
+
+                                     0.6%
+
+                                  |
+
+                                     0.0%
+
+                                  |
+
+                                     UROGENITAL SYSTEM
+
+ Urinary Tract Infection
+
+                                  |
+
+                                     0.5%
+
+                                  |
+
+                                     0.3%
+
+                                  |

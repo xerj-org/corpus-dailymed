@@ -1,0 +1,3 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 7.5 Interactions With Methotrexate
+
+Imatinib mesylate may delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (> 500 mg/m2). Refer to the prescribing information for methotrexate injection for recommendations on management of methotrexate concentrations.

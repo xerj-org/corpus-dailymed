@@ -1,0 +1,28 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 8.1 Pregnancy
+
+Ri
+                           sk Summary
+
+                        Available data from published epidemiologic studies and pharmacovigilance case reports over several decades of use with amoxicillin and clavulanate during pregnancy have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal outcomes. A study in women with preterm prelabor rupture of membranes (PPROM) reported that prophylactic treatment with amoxicillin and clavulanate may be associated with an increased risk of necrotizing enterocolitis in neonates
+
+  (see Data). Reproduction studies conducted in pregnant rats, given doses greater than or equal to 4 and 10 times the Maximum Recommended Human Dose (MRHD) of amoxicillin trihydrate and clavulanate respectively in amoxicillin and clavulanate potassium based on body surface area, revealed no evidence of fetal harm
+
+  (see Data).
+
+                            
+
+                        The background risk of major birth defects and miscarriage for the indicated populations is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Human Data
+
+                            
+
+                        One randomized, controlled trial included 4,826 pregnant women with premature rupture of fetal membranes who were randomly assigned to 250 mg erythromycin (n=1,197), 250 mg amoxicillin and 125 mg clavulanate (n=1,212), amoxicillin and clavulanate plus erythromycin (n=1,192), or placebo (n=1,225) four times daily for 10 days or until delivery. Amoxicillin and clavulanate was associated with a significantly increased rate of proven neonatal necrotizing enterocolitis: 1.9% (n=24) in the amoxicillin and clavulanate only group versus 0.5% (n=6) in the placebo group (p=0.001), and 1.8% (n=44) in the any amoxicillin and clavulanate group versus 0.7% (n=17) in the no amoxicillin and clavulanate group (p=0.0005).
+
+                           Animal Data
+
+                        In an embryofetal developmental study in pregnant rats, amoxicillin and clavulanate (2:1 ratio formulation of amoxicillin:clavulanate) were administered at oral doses up to 1,200 mg/kg/day during the period of organogenesis (gestation days (GD) 6 to 15). No evidence of fetal harm was observed. Based on body surface area comparisons, the dose corresponds to approximately 4 times the MRHD for amoxicillin trihydrate and 10 times the MRHD for clavulanate potassium.
+
+                        In a pre-and postnatal developmental study in pregnant rats, amoxicillin and clavulanate (2:1 ratio formulation of amoxicillin:clavulanate) were administered at oral doses up to 1,200 mg/kg/day beginning from GD 15 through Day 21 of lactation. No effects on maternal reproductive function or on developmental and reproductive parameters of the offspring were observed up to the highest dose, corresponding to approximately 4 times the MRHD for amoxicillin trihydrate and 10 times the MRHD for clavulanate potassium, based on body surface area comparisons.

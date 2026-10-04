@@ -1,0 +1,13 @@
+DailyMed ebf30894-41cf-480c-8bc3-56f592a13813 | Herceptin Hylecta | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of trastuzumab. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Administration-related reaction [see Warnings and Precautions (5.5)]
+
+                           Oligohydramnios or oligohydramnios sequence, including pulmonary hypoplasia, skeletal abnormalities, and neonatal death [see Warnings and Precautions (5.2)]
+
+                           Glomerulopathy [see Adverse Reactions (6.1)]
+
+                           Immune thrombocytopenia
+
+                           Tumor lysis syndrome (TLS): Cases of possible TLS have been reported in patients treated with trastuzumab. Patients with significant tumor burden (e.g. bulky metastases) may be at a higher risk. Patients could present with hyperuricemia, hyperphosphatemia, and acute renal failure which may represent possible TLS. Providers should consider additional monitoring and/or treatment as clinically indicated.

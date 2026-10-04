@@ -1,0 +1,4 @@
+DailyMed aea9a3ad-c244-42be-9cd3-5df83fe2b522 | DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE | 5.7 Tolerance and Tachyphylaxis
+
+Use of dexmedetomidine beyond 24 hours has been associated with tolerance and tachyphylaxis and a dose-related increase in adverse reactions [see Adverse Reactions (6.1)
+                           ].

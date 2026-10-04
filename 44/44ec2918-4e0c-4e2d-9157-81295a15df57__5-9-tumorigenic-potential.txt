@@ -1,0 +1,12 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 5.9 Tumorigenic Potential
+
+In standard preclinical
+
+  in vivolifetime carcinogenicity studies of pregabalin, an unexpectedly high incidence of hemangiosarcoma was identified in two different strains of mice
+
+  [see
+
+   Nonclinical Toxicology (13.1)]
+                           . The clinical significance of this finding is unknown. Clinical experience during pregabalin's premarketing development provides no direct means to assess its potential for inducing tumors in humans.
+
+                        In clinical studies across various patient populations, comprising 6396 patient-years of exposure in patients greater than 12 years of age, new or worsening-preexisting tumors were reported in 57 patients. Without knowledge of the background incidence and recurrence in similar populations not treated with pregabalin, it is impossible to know whether the incidence seen in these cohorts is or is not affected by treatment.

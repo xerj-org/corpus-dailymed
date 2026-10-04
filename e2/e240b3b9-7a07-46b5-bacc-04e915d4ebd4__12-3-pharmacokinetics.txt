@@ -1,0 +1,39 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 12.3 Pharmacokinetics
+
+Lanreotide acetate is thought to form a drug depot at the injection site due to the interaction of the formulation with physiological fluids. The most likely mechanism of drug release is a passive diffusion of the precipitated drug from the depot towards the surrounding tissues, followed by the absorption to the bloodstream.
+
+                        After a single, deep subcutaneous administration, the mean absolute bioavailability of lanreotide acetate in healthy subjects was 73.4%, 69%, and 78.4% for the 60 mg, 90 mg, and 120 mg doses, respectively. Mean Cmax values ranged from 4.3 ng/mL to 8.4 ng/mL during the first day. Single-dose linearity was demonstrated with respect to AUC and Cmax; and showed high inter-subject variability. Lanreotide acetate showed sustained release of lanreotide with a half-life of 23 days to 30 days. Mean serum concentrations were > 1 ng/mL throughout 28 days at 90 mg and 120 mg and > 0.9 ng/mL at 60 mg.
+
+                        In studies evaluating excretion, < 5% of lanreotide was excreted in urine and less than 0.5% was recovered unchanged in feces, indicative of some biliary excretion.
+
+                           Acromegaly
+
+                        In a repeat-dose administration pharmacokinetics (PK) study in acromegalic patients, rapid initial release was seen giving peak levels during the first day after administration. At doses of lanreotide acetate between 60 mg and 120 mg, linear pharmacokinetics were observed in acromegalic patients. At steady state, mean Cmax values were 3.8 ± 0.5 ng/mL, 5.7 ± 1.7 ng/mL, and 7.7 ± 2.5 ng/mL, increasing linearly with dose. The mean accumulation ratio index was 2.7, which is in line with the range of values for the half-life of lanreotide acetate. The steady-state trough serum lanreotide concentrations in patients receiving lanreotide acetate every 28 days were 1.8 ± 0.3 ng/mL; 2.5 ± 0.9 ng/mL and 3.8 ± 1 ng/mL at 60 mg, 90 mg, and 120 mg doses, respectively. A limited initial burst effect and a low peak-to-trough fluctuation (81% to 108%) of the serum concentration at the plateau were observed.
+
+                        For the same doses, similar values were obtained in clinical studies after at least four administrations (2.3 ± 0.9 ng/mL, 3.2 ± 1.1 ng/mL, and 4 ± 1.4 ng/mL, respectively).
+
+                        Pharmacokinetic data from studies evaluating extended dosing use of lanreotide injection 120 mg demonstrated mean steady-state, Cmin values between 1.6 ng/mL and 2.3 ng/mL for the 8- and 6-week treatment interval, respectively.
+
+                           Gastroenteropancreatic Neuroendocrine Tumors
+
+                        In patients with GEP-NETs treated with lanreotide injection 120 mg every 4 weeks, steady state concentrations were reached after 4 to 5 injections and the mean trough serum lanreotide concentrations at steady state ranged from 5.3 ng/mL to 8.6 ng/mL.
+
+                           Specific Populations
+
+                        Lanreotide injection has not been studied in specific populations. However, the pharmacokinetics of lanreotide in renal impaired, hepatic impaired, and geriatric subjects were evaluated after  intravenous administration of lanreotide immediate release formulation (IRF) at 7 mcg/kg dose.
+
+                           Geriatric
+
+                        Studies in healthy elderly subjects showed an 85% increase in half-life and a 65% increase in mean residence time (MRT) of lanreotide compared to those seen in healthy young subjects; however, there was no change in either AUC or Cmax of lanreotide in elderly as compared to healthy young subjects. Age has no effect on clearance of lanreotide based on population PK analysis in patients with GEP-NET which included 122 patients aged 65 years to 85 years with neuroendocrine tumors.
+
+                           Renal Impairment
+
+                        An approximate 2-fold decrease in total serum clearance of lanreotide, with a consequent 2-fold increase in half-life and AUC was observed. Patients with acromegaly and with moderate to severe renal impairment should begin treatment with lanreotide injection 60 mg. Caution should be exercised when considering patients with moderate or severe renal impairment for an extended dosing interval of lanreotide injection 120 mg every 6 or 8 weeks.
+
+                        Mild (CLcr 60 mL/min to 89 mL/min) or moderate (CLcr 30 mL/min to 59 mL/min) renal impairment has no effect on clearance of lanreotide in patients with GEP-NET based on population PK analysis which included 106 patients with mild and 59 patients with moderate renal impairment treated with lanreotide injection. GEP-NET patients with severe renal impairment (CLcr < 30 mL/min) were not studied.
+
+                           Hepatic Impairment
+
+                        In subjects with moderate to severe hepatic impairment, a 30% reduction in clearance of lanreotide was observed. Patients with acromegaly and with moderate to severe hepatic impairment should begin treatment with lanreotide injection 60 mg. Caution should be exercised when considering patients with moderate or severe hepatic impairment for an extended dosing interval of lanreotide injection 120 mg every 6 or 8 weeks.
+
+                        The effect of hepatic impairment on clearance of lanreotide has not been studied in patients with GEP-NET.

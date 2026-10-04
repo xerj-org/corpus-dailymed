@@ -1,0 +1,13 @@
+DailyMed a50eb0b4-1bee-4781-8eba-75e324540d36 | Ticagrelor | 2.2 Acute Coronary Syndrome or a History of Myocardial Infarction
+
+Initiate treatment with a 180 mg loading dose of ticagrelor tablets. Administer the first 90 mg maintenance dose of ticagrelor tablets, 6 to 12 hours after the loading dose. Administer 90 mg of ticagrelor tablets twice daily during the first year after an ACS event. After one year, administer 60 mg of ticagrelor tablets twice daily.
+
+                        Initiate ticagrelor tablets with a daily maintenance dose of aspirin of 75 mg to 100 mg. However, in patients who have undergone percutaneous coronary intervention (PCI), consider single antiplatelet therapy with ticagrelor tablets based on the evolving risk for thrombotic versus bleeding events
+
+  [see
+
+   Warnings and Precautions (5.1)
+
+                           and
+
+   Clinical Studies (14)].

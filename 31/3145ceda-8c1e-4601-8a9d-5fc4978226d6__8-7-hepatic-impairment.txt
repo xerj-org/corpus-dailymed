@@ -1,0 +1,11 @@
+DailyMed 3145ceda-8c1e-4601-8a9d-5fc4978226d6 | Sildenafil | 8.7 Hepatic Impairment
+
+In volunteers with hepatic impairment (Child-Pugh Class A and B), sildenafil clearance was reduced, resulting in higher plasma exposure of sildenafil (47% for C
+
+  maxand 85% for AUC). The pharmacokinetics of sildenafil in patients with severely impaired hepatic function (Child-Pugh Class C) have not been studied. A starting dose of 25 mg should be considered in patients with any degree of hepatic impairment
+
+  [see Dosage and Administration 
+
+   (2.5)and Clinical Pharmacology
+
+   (12.3)].

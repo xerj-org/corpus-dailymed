@@ -1,0 +1,5 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | WARNING: CYTOKINE RELEASE SYNDROME and NEUROLOGIC TOXICITY including IMMUNE EFFECTOR CELL-ASSOCIATED NEUROTOXICITY SYNDROME
+
+Cytokine release syndrome (CRS), including life-threatening or fatal reactions, can occur in patients receiving IMDELLTRA. Initiate IMDELLTRA using the step-up dosing schedule to reduce the incidence and severity of CRS. Withhold IMDELLTRA until CRS resolves or permanently discontinue based on severity [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].
+
+                     Neurologic toxicity and immune effector cell-associated neurotoxicity syndrome (ICANS), including life-threatening or fatal reactions, can occur in patients receiving IMDELLTRA. Monitor patients for signs and symptoms of neurologic toxicity, including ICANS, during treatment and treat promptly. Withhold IMDELLTRA until ICANS resolves or permanently discontinue based on severity [see Dosage and Administration (2.5) and Warnings and Precautions (5.2)].

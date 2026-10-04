@@ -1,0 +1,3 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Duodenal Ulcer
+
+Cimetidine has been shown to be effective in the treatment of active duodenal ulcer and, at reduced dosage, in maintenance therapy following healing of active ulcers.

@@ -1,0 +1,11 @@
+DailyMed e4ea0c09-cdd1-4708-962c-6ba28b989df3 | Metronidazole | Prophylaxis Indication
+
+The prophylactic administration of Metronidazole Injection preoperatively, intraoperatively, and postoperatively may reduce the incidence of postoperative infection in adult patients undergoing elective colorectal surgery which is classified as contaminated or potentially contaminated.
+
+                        Prophylactic use of Metronidazole Injection should be discontinued within 12 hours after surgery. If there are signs of infection, specimens for cultures should be obtained for the identification of the causative organism(s) so that appropriate therapy may be given (see
+                              DOSAGE AND ADMINISTRATION
+                           ).
+
+                           Usage
+
+                        To reduce the development of drug-resistant bacteria and maintain the effectiveness of metronidazole and other antibacterial drugs, metronidazole should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antimicrobial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

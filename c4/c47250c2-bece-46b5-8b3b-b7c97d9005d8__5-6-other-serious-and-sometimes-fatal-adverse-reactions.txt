@@ -1,0 +1,19 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.6 Other Serious and Sometimes Fatal Adverse Reactions
+
+Other serious and sometimes fatal adverse reactions, some due to hypersensitivity, and some due to uncertain etiology, have been reported in patients receiving therapy with quinolones, including ciprofloxacin.
+
+                        These events may be severe and generally occur following the administration of multiple doses. Clinical manifestations may include one or more of the following:
+
+                           Fever, rash, or severe dermatologic reactions (for example, toxic epidermal necrolysis, Stevens-Johnson syndrome);
+
+                           Vasculitis; arthralgia; myalgia; serum sickness;
+
+                           Allergic pneumonitis;
+
+                           Interstitial nephritis; acute renal insufficiency or failure;
+
+                           Hepatitis; jaundice; acute hepatic necrosis or failure;
+
+                           Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
+
+                        Discontinue ciprofloxacin immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Adverse Reactions (6.1, 6.2)].

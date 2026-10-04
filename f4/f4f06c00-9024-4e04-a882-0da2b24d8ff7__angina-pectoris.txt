@@ -1,0 +1,5 @@
+DailyMed f4f06c00-9024-4e04-a882-0da2b24d8ff7 | Atenolol | Angina Pectoris
+
+The initial dose of atenolol is 50 mg given as one tablet a day. If an optimal response is not achieved within one week, the dosage should be increased to atenolol 100 mg given as one tablet a day. Some patients may require a dosage of 200 mg once a day for optimal effect.
+
+                        Twenty-four hour control with once daily dosing is achieved by giving doses larger than necessary to achieve an immediate maximum effect. The maximum early effect on exercise tolerance occurs with doses of 50 mg to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.

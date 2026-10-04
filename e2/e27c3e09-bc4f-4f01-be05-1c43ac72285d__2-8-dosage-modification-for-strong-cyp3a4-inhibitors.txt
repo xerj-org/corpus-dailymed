@@ -1,0 +1,19 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 2.8 Dosage Modification for Strong CYP3A4 Inhibitors
+
+Avoid the concomitant use of strong CYP3A4 inhibitors. If concomitant use is required, reduce Nilotinib Capsules dosage to 300 mg once daily in patients with resistant or intolerant Ph+ CML or to 200 mg once daily in patients with newly diagnosed Ph+ CML-CP. If the strong inhibitor is discontinued, allow a washout period of 5 half-lives before adjusting Nilotinib Capsules dose upward to the indicated dose. For patients who cannot avoid use of strong CYP3A4 inhibitors, monitor closely for prolongation of the QT interval [see Boxed Warning, Warnings and Precautions (
+
+                              5.2
+
+                           ), Drug Interactions (
+
+                              7.1
+
+                           ,
+
+                              7.2
+
+                           ), Clinical Pharmacology (
+
+                              12.3
+
+                           )].

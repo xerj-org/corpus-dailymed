@@ -1,0 +1,7 @@
+DailyMed a50eb0b4-1bee-4781-8eba-75e324540d36 | Ticagrelor | 5.3 Dyspnea
+
+In clinical trials, about 14% (PLATO and PEGASUS) to 21% (THEMIS) of patients treated with ticagrelor developed dyspnea. Dyspnea was usually mild to moderate in intensity and often resolved during continued treatment but led to study drug discontinuation in 0.9% (PLATO), 1% (THALES), 4.3% (PEGASUS), and 6.9% (THEMIS) of patients.
+
+                        In a substudy of PLATO, 199 subjects underwent pulmonary function testing irrespective of whether they reported dyspnea. There was no indication of an adverse effect on pulmonary function assessed after one month or after at least 6 months of chronic treatment.
+
+                        If a patient develops new, prolonged, or worsened dyspnea that is determined to be related to ticagrelor, no specific treatment is required; continue ticagrelor without interruption if possible. In the case of intolerable dyspnea requiring discontinuation of ticagrelor, consider prescribing another antiplatelet agent.

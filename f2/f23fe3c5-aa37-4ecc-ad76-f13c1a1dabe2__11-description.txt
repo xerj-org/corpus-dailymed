@@ -1,0 +1,17 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 11 DESCRIPTION
+
+Propofol injectable emulsion, USP is an anesthetic available as a sterile, nonpyrogenic white or almost white homogeneous emulsion for intravenous administration. The structural formula is:
+
+                  Chemical name: 2,6 diisopropylphenol
+
+  Molecular formula: C
+
+  12H
+
+  18O
+
+  Molecular weight: 178.27
+
+                  Propofol is slightly soluble in water. The pKa is 11. The octanol/water partition coefficient for propofol is 6761:1 at a pH of 6 to 8.5.
+
+                  Each mL of propofol injectable emulsion (Propofol) injectable emulsion, USP contains 10 mg of propofol, 100 mg of soybean oil (100 mg/mL), 22.5 mg of glycerol (22.5 mg/mL), 12mg of purified egg phospholipids (12 mg/mL), 0.05 mg of disodium edetate anhydrous (equivalent to 0.055 mg of disodium edetate) (0.05 mg/mL) as microbial inhibitor, and sodium hydroxide to adjust pH, in water for injection. Propofol injectable emulsion is isotonic and has a pH range of 4.5 to 8.5.

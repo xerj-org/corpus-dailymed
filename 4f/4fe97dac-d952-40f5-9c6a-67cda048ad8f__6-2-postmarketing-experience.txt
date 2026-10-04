@@ -1,0 +1,23 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 6.2 Postmarketing Experience
+
+Because adverse reactions are voluntarily reported post-approval from a population of uncertain size, it is not always possible to reliably estimate their frequencies or establish a causal relationship to product exposure.
+
+                        The following adverse reactions have been identified during post-approval use of IGIV products, including GAMUNEX-C:
+
+                              Infusion Reactions:                  Hypersensitivity (e.g., anaphylaxis), tachycardia, malaise, flushing, or other skin reactions, chest discomfort, rigors, and changes in blood pressure
+
+                              Renal:                                       Acute renal dysfunction/failure, osmotic nephropathy
+
+                              Respiratory:                             Apnea, Acute Respiratory Distress Syndrome (ARDS), TRALI, cyanosis, hypoxemia, pulmonary edema, bronchospasm
+
+                              Cardiovascular:                       Cardiac arrest, thromboembolism, vascular collapse, hypotension
+
+                              Neurological:                           Coma, loss of consciousness, seizures/convulsions, tremor, aseptic meningitis
+
+                              Integumentary:                         Stevens-Johnson syndrome, epidermolysis, erythema multiforme, dermatitis (e.g., bullous dermatitis)
+
+                              Hematologic:                            Pancytopenia, leukopenia, hemolysis, hemolytic anemia, positive direct antiglobulin (Coombs test)
+
+                              General/Body as a Whole:       Rigors 
+
+                              Gastrointestinal:                      Hepatic dysfunction

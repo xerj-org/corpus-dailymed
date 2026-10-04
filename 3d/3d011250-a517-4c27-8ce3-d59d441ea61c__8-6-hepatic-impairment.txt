@@ -1,0 +1,3 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 8.6 Hepatic Impairment
+
+Haloperidol is extensively metabolized in the liver, therefore, haloperidol concentrations may be higher in patients with hepatic impairment compared to patients with normal hepatic function. In patients with hepatic impairment, consider starting at the low end of the recommended dosing range for the first haloperidol decanoate dose [see Dosage and Administration (2.1)].

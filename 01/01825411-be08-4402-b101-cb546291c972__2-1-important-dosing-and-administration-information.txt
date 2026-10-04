@@ -1,0 +1,7 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 2.1 Important Dosing and Administration Information
+
+Rocuronium bromide injection is for intravenous use only. This drug should only be administered by experienced clinicians or trained individuals supervised by an experienced clinician familiar with the use, actions, characteristics and complications of neuromuscular blocking agents. Doses of rocuronium bromide injection should be individualized and a peripheral nerve stimulator should be used to monitor drug effect, need for additional doses, adequacy of spontaneous recovery or antagonism, and to decrease the complications of overdosage if additional doses are administered.
+
+                        The dosage information which follows is derived from studies based upon units of drug per unit of body weight. It is intended to serve as an initial guide to clinicians familiar with other neuromuscular blocking agents to acquire experience with rocuronium bromide.
+
+                        In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.6), Warnings and Precautions (5.10, 5.13), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].

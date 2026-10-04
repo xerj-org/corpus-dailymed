@@ -1,0 +1,21 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 5.4 Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania
+
+A major depressive episode may be the initial presentation of Bipolar Disorder. It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for Bipolar Disorder. Whether any of the symptoms described for clinical worsening and suicide risk represent such a conversion is unknown. However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for Bipolar Disorder; such screening should include a detailed psychiatric history, including a family history of suicide, Bipolar Disorder, and depression. It should be noted that fluoxetine and olanzapine in combination is approved for the acute treatment of depressive episodes associated with Bipolar I Disorder
+
+  [see Warnings and Precautions section of the package insert for Symbyax]. Fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
+
+  In U.S. placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo. Activation of mania/hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of Major Depressive Disorder
+
+  [see
+
+   Use in Specific Populations (8.4)]
+
+  .
+
+  In U.S. placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo. No patients reported mania/hypomania in U.S. placebo-controlled clinical trials for bulimia. In U.S. fluoxetine clinical trials, 0.7% of 10,782 patients reported mania/hypomania
+
+  [see
+
+   Use in Specific Populations (8.4)]
+
+  .

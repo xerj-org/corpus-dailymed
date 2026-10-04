@@ -1,0 +1,13 @@
+DailyMed a9188951-3711-412c-89c6-e8db784dcb65 | ALBUTEROL SULFATE | Pregnancy Teratogenic Effects
+
+Albuterol sulfate has been shown to be teratogenic in mice. A study in CD-1 mice given albuterol sulfate subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose for adults on a mg/m2 basis) and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately 8 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis). The drug did not induce cleft palate formation at a dose of 0.025 mg/kg (less than the maximum recommended daily inhalation dose for adults on a mg/m2 basis). Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated subcutaneously with 2.5 mg/kg of isoproterenol (positive control).
+
+                        A reproduction study in Stride Dutch rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol sulfate was administered orally at 50 mg/kg dose (approximately 680 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
+
+                        In an inhalation reproduction study in SPRAGUE-DAWLEY rats, the albuterol sulfate/HFA-134a formulation did not exhibit any teratogenic effects at 10.5 mg/kg (approximately 70 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
+
+                        A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material is transferred from the maternal circulation to the fetus.
+
+                        There are no adequate and well-controlled studies of Albuterol sulfate inhalation aerosol or albuterol sulfate in pregnant women. Albuterol sulfate inhalation aerosol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+                        During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been reported in the offspring of patients being treated with albuterol. Some of the mothers were taking multiple medications during their pregnancies. Because no consistent pattern of defects can be discerned, a relationship between albuterol use and congenital anomalies has not been established.

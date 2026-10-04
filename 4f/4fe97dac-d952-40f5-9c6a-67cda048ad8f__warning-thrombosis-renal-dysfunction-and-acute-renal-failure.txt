@@ -1,0 +1,11 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | WARNING: THROMBOSIS, RENAL DYSFUNCTION, and ACUTE RENAL FAILURE
+
+Thrombosis may occur with immune globulin products, including GAMUNEX®-C FlexBag. Risk factors may include: advanced age, prolonged immobilization, hypercoagulable conditions, history of venous or arterial thrombosis, use of estrogens, indwelling central vascular catheters, hyperviscosity, and cardiovascular risk factors.  Thrombosis may occur in the absence of known risk factors. [see Warnings and Precautions (5.4),  Patient Counseling Information (17)]
+
+                         For patients at risk of thrombosis, administer GAMUNEX-C FlexBag at the minimum dose and infusion rate practicable. Ensure adequate hydration in patients before administration. Monitor for signs and symptoms of thrombosis and assess blood viscosity in patients at risk for hyperviscosity. [see Dosage and Administration (2.3),  Warnings and Precautions (5.4)]
+
+                         Renal dysfunction, acute renal failure, osmotic nephrosis, and death may occur with immune globulin intravenous (IGIV) products in predisposed patients. Patients predisposed to renal dysfunction include those with any degree of pre-existing renal insufficiency, diabetes mellitus, age greater than 65, volume depletion, sepsis, paraproteinemia, or patients receiving known nephrotoxic drugs.
+
+                         Renal dysfunction and acute renal failure occur more commonly in patients receiving IGIV products containing sucrose. GAMUNEX-C FlexBag does not contain sucrose.
+
+                         For patients at risk of renal dysfunction or failure, administer GAMUNEX-C FlexBag at the minimum concentration available and the minimum infusion rate practicable. [see Warnings and Precautions (5.2)]

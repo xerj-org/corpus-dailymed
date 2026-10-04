@@ -1,0 +1,62 @@
+DailyMed dc42ab17-cd30-4d1a-e053-2995a90a86ea | ACETAMINOPHEN | 8 USE IN SPECIFIC POPULATIONS
+
+8.1 Pregnancy
+
+                  Risk Summary
+
+                  Published epidemiological studies with oral acetaminophen use during pregnancy have not reported a clear association with acetaminophen use and birth defects, miscarriage, or adverse maternal or fetal outcomes [see Data]. Animal reproduction studies have not been conducted with IV acetaminophen. Reproductive and developmental studies in rats and mice from the published literature identified adverse events at clinically relevant doses with acetaminophen. Treatment of pregnant rats with doses of acetaminophen approximately equal to the maximum human daily dose (MHDD) showed evidence of fetotoxicity and increases in bone variations in the fetuses. In another study, necrosis was observed in the liver and kidney of both pregnant rats and fetuses at doses approximately equal to the MHDD. In mice and rats treated with acetaminophen at doses within the clinical dosing range, cumulative adverse effects on reproductive capacity were reported. In mice, a reduction in number of litters of the parental mating pair was observed as well as retarded growth, abnormal sperm in their offspring and reduced birth weight in the next generation. In rats, female fertility was decreased following in utero exposure to acetaminophen [see Data].
+
+                  The estimated background risk of major birth defects and miscarriages for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                  Data
+
+                  Human Data
+
+                  The results from a large population-based prospective cohort, including data from 26,424 women with live born singletons who were exposed to oral acetaminophen during the first trimester, indicate no increased risk for congenital malformations, compared to a control group of unexposed children. The rate of congenital malformations (4.3%) was similar to the rate in the general population. A population-based, case-control study from the National Birth Defects Prevention Study showed that 11,610 children with prenatal exposure to acetaminophen during the first trimester had no increased risk of major birth defects compared to 4,500 children in the control group. Other epidemiological data showed similar results. However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including recall bias.
+
+                  Animal Data
+
+                  Studies in pregnant rats that received oral acetaminophen during organogenesis at doses up to 0.85 times the maximum human daily dose (MHDD = 4 grams/day, based on a body surface area comparison) showed evidence of fetotoxicity (reduced fetal weight and length) and a dose-related increase in bone variations (reduced ossification and rudimentary rib changes). Offspring had no evidence of external, visceral, or skeletal malformations. When pregnant rats received oral acetaminophen throughout gestation at doses of 1.2 times the MHDD (based on a body surface area comparison), areas of necrosis occurred in both the liver and kidney of pregnant rats and fetuses. These effects did not occur in animals that received oral acetaminophen at doses 0.3 times the MHDD, based on a body surface area comparison.
+
+                  In a continuous breeding study, pregnant mice received 0.25, 0.5, or 1.0% acetaminophen via the diet (357, 715, or 1,430 mg/kg/day). These doses are approximately 0.43, 0.87, and 1.7 times the MHDD, respectively, based on a body surface area comparison. A dose related reduction in body weights of fourth and fifth litter offspring of the treated mating pair occurred during lactation and post-weaning at all doses. Animals in the high dose group had a reduced number of litters per mating pair, male offspring with an increased percentage of abnormal sperm, and reduced birth weights in the next generation pups.
+
+                  8.2 Lactation
+
+                  Risk Summary
+
+There is no information regarding the presence of acetaminophen in human milk, the effects on the breastfed infant, or the effects on milk production. However, limited published studies report that acetaminophen passes rapidly into human milk with similar levels in the milk and plasma. Average and maximum neonatal doses of 1% and 2%, respectively, of the weight-adjusted maternal dose are reported after a single oral administration of 1 gram APAP. There is one well-documented report of a rash in a breast-fed infant that resolved when the mother stopped acetaminophen use and recurred when she resumed acetaminophen use. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for acetaminophen and any potential adverse effects on the breastfed infant from acetaminophen or from the underlying maternal condition.
+
+                  8.3 Females and Males of Reproductive Potential
+
+                  Based on animal data use of acetaminophen may cause reduced fertility in males and females of reproductive potential. It is not known whether these effects on fertility are reversible. Published animal studies reported that oral acetaminophen treatment of male animals at doses that are 1.2 times the MHDD and greater (based on a body surface area comparison) result in decreased testicular weights, reduced spermatogenesis, and reduced fertility. In female animals given the same doses, reduced implantation sites were reported. Additional published animal studies indicate that acetaminophen exposure in utero adversely impacts reproductive capacity of both male and female offspring at clinically relevant exposures
+  [see NONCLINICAL TOXICOLOGY (13.1)].
+
+                  8.4 Pediatric Use
+
+                  Treatment of Acute Pain
+
+The safety and effectiveness of acetaminophen for the treatment of acute pain in pediatric patients ages 2 years and older is supported by evidence from adequate and well-controlled studies of acetaminophen in adults and safety and pharmacokinetic data from adult and 483 pediatric patients across all age groups
+  [see DOSAGE AND ADMINISTRATION (2.3) and
+  PHARMACOKINETICS (12.3)].
+
+                  The effectiveness of acetaminophen for the treatment of acute pain in pediatric patients younger than 2 years of age has not been established.
+
+In patients younger than 2 years, efficacy was not demonstrated in a double-blind, placebo-controlled study of 198 pediatric patients younger than 2 years. Pediatric patients less than 2 years of age, including neonates from 28 to 40 weeks gestational age at birth, were randomized to receive opioid plus acetaminophen or opioid plus placebo. No difference in analgesic effect of intravenous acetaminophen, measured by assessment of reduced need for additional opioid treatment for pain control was observed.
+
+Treatment of Fever
+
+The safety and effectiveness of acetaminophen for the treatment of fever in pediatric patients, including premature neonates born at ≥ 32 weeks gestational age is supported by adequate and well-controlled studies of acetaminophen in adults, clinical studies in 244 pediatric patients 2 years and older, and safety and pharmacokinetic data from 239 patients younger than 2 years including neonates ≥ 32 weeks gestational age.
+
+                  8.5 Geriatric Use
+
+                  Of the total number of subjects in clinical studies of acetaminophen, 15% were age 65 and over, while 5% were age 75 and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+                  8.6 Patients with Hepatic Impairment
+
+                  Acetaminophen is contraindicated in patients with severe hepatic impairment or severe active liver disease and should be used with caution in patients with hepatic impairment or active liver disease [
+  see WARNINGS AND PRECAUTIONS (5.1) and
+  CLINICAL PHARMACOLOGY (12)]. A reduced total daily dose of acetaminophen may be warranted.
+
+                  8.7 Patients with Renal Impairment
+
+                  In cases of severe renal impairment (creatinine clearance ≤ 30 mL/min), longer dosing intervals and a reduced total daily dose of acetaminophen may be warranted.

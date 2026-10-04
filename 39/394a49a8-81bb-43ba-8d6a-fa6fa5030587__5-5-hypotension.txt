@@ -1,0 +1,20 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 5.5 Hypotension
+
+General Considerations
+
+  Ramipril can cause symptomatic hypotension, after either the initial dose or a later dose when the dosage has been increased. Like other ACE inhibitors, ramipril, has been only rarely associated with hypotension in uncomplicated hypertensive patients. Symptomatic hypotension is most likely to occur in patients who have been volume- and/or salt-depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting. Correct volume- and salt-depletion before initiating therapy with ramipril.
+
+  If excessive hypotension occurs, place the patient in a supine position and, if necessary, treat with intravenous infusion of physiological saline. Ramipril  treatment usually can be continued following restoration of blood pressure and volume.
+
+                              Heart Failure
+                              Post-Myocardial Infarction
+
+  In patients with heart failure post-myocardial infarction who are currently being treated with a diuretic, symptomatic hypotension occasionally can occur following the initial dose of ramipril. If the initial dose of 2.5 mg ramipril cannot be tolerated, use an initial dose of 1.25 mg ramipril to avoid excessive hypotension. Consider reducing the dose of concomitant diuretic to decrease the incidence of hypotension. 
+
+                           Congestive Heart Failure 
+
+  In patients with congestive heart failure, with or without associated renal insufficiency, ACE inhibitor therapy may cause excessive hypotension, which may be associated with oliguria or azotemia and rarely, with acute renal failure and death. In such patients, initiate ramipril therapy under close medical supervision and follow patients closely for the first 2 weeks of treatment and whenever the dose of ramipril or diuretic is increased. 
+
+                           Surgery and Anesthesia 
+
+  In patients undergoing surgery or during anesthesia with agents that produce hypotension, ramipril may block angiotensin II formation that would otherwise occur secondary to compensatory renin release. Hypotension that occurs as a result of this mechanism can be corrected by volume expansion.

@@ -1,0 +1,3 @@
+DailyMed 698a46a6-29b5-4763-9442-ec9ad5eea86b | Nitroglycerin | 7. 3 Ergotamine
+
+Oral administration of nitroglycerin markedly decreases the first-pass metabolism of dihydroergotamine and subsequently increases its oral bioavailability. Ergotamine is known to precipitate angina pectoris. Therefore, patients receiving sublingual nitroglycerin should avoid ergotamine and related drugs or be monitored for symptoms of ergotism if this is not possible.

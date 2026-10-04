@@ -1,0 +1,12 @@
+DailyMed c49a7f23-2af0-4607-9f21-114970f8630d | OLMESARTAN MEDOXOMIL | 8.7 Renal Impairment
+
+Patients with renal insufficiency have elevated serum concentrations of olmesartan compared to subjects with normal renal function. After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min). No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min)
+
+                              [see Dosage and Administration (2.1)
+                           ,
+
+                              Warnings and Precautions (5.4)
+
+                           and
+
+                              Clinical Pharmacology (12.3)].

@@ -1,0 +1,3 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 5.8 Interaction with Monoamine Oxidase Inhibitors
+
+Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, including respiratory depression, coma, and confusion. Morphine sulfate extended-release capsules should not be used in patients taking MAOIs or within 14 days of stopping such treatment.

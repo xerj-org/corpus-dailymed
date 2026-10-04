@@ -1,0 +1,81 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 14.2 Active Benign Gastric Ulcer
+
+In a U.S. multicenter, double-blind study of omeprazole 40 mg once a day, 20 mg once a day, and placebo in 520 patients with endoscopically diagnosed gastric ulcer, the following results were obtained. (See
+                              Table 14.)
+
+                           Table 14: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
+
+                                  |
+                                 Omeprazole
+
+40 mg once daily
+
+(n=214) |
+                                 Omeprazole
+
+20 mg once daily
+
+(n=202) |
+                                 Palcebo
+
+(n=104) |
+
+                                 Week 4 |
+                                 55.6(p < 0.01) omeprazole 40 mg or 20 mg versus placebo
+
+                                  |
+                                 47.5
+                                  |
+                                 30.8 |
+
+                                 Week 8 |
+                                 82.7
+                                    ,
+                                    (p< 0.05) omeprazole 40 mg versus 20 mg
+
+                                  |
+                                 74.8
+                                  |
+                                 48.1 |
+
+                        For the stratified groups of patients with ulcer size less than or equal to 1 cm, no difference in healing rates between 40 mg and 20 mg was detected at either 4 or 8 weeks. For patients with ulcer size greater than 1 cm, 40 mg was significantly more effective than 20 mg at 8 weeks.
+
+                        In a foreign, multinational, double-blind study of 602 patients with endoscopically diagnosed gastric ulcer, omeprazole 40 mg once a day, 20 mg once a day, and ranitidine 150 mg twice a day were evaluated. (See
+                              Table 15.)
+
+                           Table 15: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
+
+                                  |
+                                 Omeprazole
+
+40 mg once daily
+
+(n=187) |
+                                 Omeprazole
+
+20 mg once daily
+
+(n=200) |
+                                 Ranitidine
+
+150 mg twice daily
+
+(n=199) |
+
+                                 Week 4 |
+                                 78.1(p < 0.01) omeprazole 40 mg versus ranitidine
+
+                                    ,
+                                    (p< 0.01) omeprazole 40 mg versus 20 mg
+
+                                  |
+                                 63.5 |
+                                 56.3 |
+
+                                 Week 8 |
+                                 91.4
+                                    ,
+
+                                  |
+                                 81.5 |
+                                 78.4 |

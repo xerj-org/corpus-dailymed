@@ -1,0 +1,11 @@
+DailyMed 5c2ac7cb-3a38-2174-e063-6394a90a95cc | Tramadol Hydrochloride | 5.9 Serotonin Syndrome Risk
+
+Cases of serotonin syndrome, a potentially life-threatening condition, have been reported with the use of tramadol, particularly during concomitant use with serotonergic drugs. Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue)
+
+  [see
+
+   Drug Interactions (7)]
+
+  . This may occur within the recommended dosage range.
+
+                        Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea). The onset of symptoms generally occurs within several hours to a few days of concomitant use, but may occur later than that. Discontinue tramadol hydrochloride tablets if serotonin syndrome is suspected.

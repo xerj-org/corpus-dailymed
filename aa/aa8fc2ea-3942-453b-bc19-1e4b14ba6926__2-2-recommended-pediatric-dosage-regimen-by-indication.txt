@@ -1,0 +1,88 @@
+DailyMed aa8fc2ea-3942-453b-bc19-1e4b14ba6926 | Omeprazole | 2.2 Recommended Pediatric Dosage Regimen by Indication
+
+Table 2 shows the recommended dosage of omeprazole in pediatric patients by indication. 
+
+                           Table 2: Recommended Dosage Regimen of Omeprazole in Pediatric Patients by Indication
+
+                                       Indication
+
+                                  |
+
+                                       Omeprazole Dosage Regimen and Duration
+
+                                  |
+
+                                       Patient Age
+
+                                  |
+
+                                       Weight-Based Dose (mg)
+
+                                  |
+
+                                       Regimen and Duration
+
+                                  |
+
+                                    Treatment of Symptomatic GERD
+
+                                  |
+
+                                    2 to 16 years
+
+                                  |
+
+                                    10 to less than 20 kg: 10 mg
+
+                                  |
+
+                                    Once daily for up to 4 weeks
+
+                                  |
+
+                                    20 kg and greater: 20 mg
+
+                                  |
+
+                                    Treatment of EE due to Acid- Mediated GERD
+
+                                  |
+
+                                    2 to 16 years
+
+                                  |
+
+                                    10 to less than 20 kg: 10 mg
+
+                                  |
+
+                                    Once daily for 4 to 8 weeks
+                                          1
+
+                                  |
+
+                                    20 kg and greater: 20 mg
+
+                                  |
+
+                                    Maintenance of Healing of EE due to Acid-Mediated GERD
+
+                                  |
+
+                                    2 to 16 years
+
+                                  |
+
+                                    10 to less than 20 kg: 10 mg
+
+                                  |
+
+                                    Once daily. Controlled studies do not extend beyond 12 months
+
+                                  |
+
+                                    20 kg and greater: 20 mg
+
+                                  |
+
+                           1 The efficacy of omeprazole used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of omeprazole may be considered.

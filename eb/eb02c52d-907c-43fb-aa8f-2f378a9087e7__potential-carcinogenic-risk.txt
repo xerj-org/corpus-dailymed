@@ -1,0 +1,5 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Potential Carcinogenic Risk
+
+Experimental data showed a potential risk of inducing gene mutations. There is insufficient evidence regarding the carcinogenicity of chloroquine in experimental animals (see
+                              PRECAUTIONS, Carcinogenesis, Mutagenesis, Impairment of Fertility
+                           ). In humans, there are insufficient data to rule out an increased risk of cancer in patients receiving long-term treatment.

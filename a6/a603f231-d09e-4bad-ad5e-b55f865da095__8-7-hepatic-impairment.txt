@@ -1,0 +1,5 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 8.7 Hepatic Impairment
+
+LEQSELVI is not recommended for use in patients with severe hepatic impairment (Child Pugh C). No adjustment of dosage is required in patients with mild (Child Pugh A) or moderate (Child Pugh B) hepatic impairment.
+
+                        The effect of severe hepatic impairment on deuruxolitinib pharmacokinetics is unknown [see Clinical Pharmacology (12.3)].

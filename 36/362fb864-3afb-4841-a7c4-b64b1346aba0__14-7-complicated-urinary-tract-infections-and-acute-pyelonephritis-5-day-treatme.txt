@@ -1,0 +1,123 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 14.7 Complicated Urinary Tract Infections and Acute Pyelonephritis: 5-day Treatment Regimen
+
+To evaluate the safety and efficacy of the higher dose and shorter course of levofloxacin, 1109 patients with cUTI and AP were enrolled in a randomized, double-blind, multicenter clinical trial conducted in the US from November 2004 to April 2006 comparing levofloxacin 750 mg IV or orally once daily for 5 days (546 patients) with ciprofloxacin 400 mg IV or 500 mg orally twice daily for 10 days (563 patients). Patients with AP complicated by underlying renal diseases or conditions such as complete obstruction, surgery, transplantation, concurrent infection or congenital malformation were excluded. Efficacy was measured by bacteriologic eradication of the baseline organism(s) at the post-therapy visit in patients with a pathogen identified at baseline. The post-therapy (test-of-cure) visit occurred 10 to 14 days after the last active dose of levofloxacin and 5 to 9 days after the last dose of active ciprofloxacin.
+
+                        The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC) visit for the group of all patients with a documented pathogen at baseline (modified intent to treat or mITT) and the group of patients in the mITT population who closely followed the protocol (Microbiologically Evaluable) are summarized in Table 16.
+
+                           Table 16: Bacteriological Eradication at Test-of-Cure
+
+                                  |
+                                  Levofloxacin
+
+ 750 mg orally
+
+ or IV once daily for 5 days |
+                                   |
+                                  Ciprofloxacin
+
+ 400 mg IV/500 mg orally twice daily for 10 days |
+                                  Overall Difference
+
+[95% CI]
+                                  |
+
+                                  |
+                                  n/N |
+                                  % |
+                                  n/N |
+                                  % |
+                                 Levofloxacin-Ciprofloxacin  |
+                                   |
+
+                                    mITT Population*
+                                     
+
+                                  |
+
+                                  Overall (cUTI or AP) |
+                                  252/333 |
+                                  75.7 |
+                                   239/318 |
+                                 75.2  |
+                                 0.5 (-6.1, 7.1) |
+                                  |
+
+                                  cUTI |
+                                  168/230 |
+                                  73.0 |
+                                  157/213 |
+                                  73.7 |
+                                  |
+                                   |
+
+                                  AP |
+                                  84/103 |
+                                  81.6 |
+                                  82/105 |
+                                  78.1 |
+                                   |
+                                  |
+
+                                    Microbiologically Evaluable 
+                                    Population†
+
+                                  |
+
+                                 Overall (cUTI or AP)  |
+                                  228/265 |
+                                  86.0 |
+                                  215/241 |
+                                 89.2  |
+                                 -3.2 [-8.9, 2.5] |
+                                   |
+
+                                  cUTI |
+                                  154/185 |
+                                   83.2  |
+                                  144/165 |
+                                 87.3  |
+                                  |
+                                  |
+
+                                  AP |
+                                  74/80 |
+                                  92.5 |
+                                  71/76 |
+                                  93.4 |
+                                   |
+                                  |
+
+                        * The mITT population included patients who received study medication and who had a positive (≥105 CFU/mL) urine culture with no more than 2 uropathogens at baseline. Patients with missing response were counted as failures in this analysis.
+
+                        † The Microbiologically Evaluable population included patients with a confirmed diagnosis of cUTI or AP, a causative organism(s) at baseline present at ≥105 CFU/mL, a valid test-of-cure urine culture, no pathogen isolated from blood resistant to study drug, no premature discontinuation or loss to follow-up, and compliance with treatment (among other criteria).
+
+                        Microbiologic eradication rates in the Microbiologically Evaluable population at TOC for individual pathogens recovered from patients randomized to levofloxacin treatment are presented in Table 17.
+
+                           Table 17: Bacteriological Eradication Rates for Individual Pathogens Recovered From Patients Randomized to Levofloxacin 750 mg QD for 5 Days Treatment
+
+                                  Pathogen
+                                  |
+                                  Bacteriological Eradication Rate
+
+ (n/N)
+                                  |
+                                  %
+                                  |
+
+                                  Escherichia coli*
+
+                                  |
+                                  155/172 |
+                                  90 |
+
+                                  Klebsiella pneumoniae
+                                  |
+                                  20/23 |
+                                  87 |
+
+                                  Proteus mirabilis
+                                  |
+                                  12/12 |
+                                  100 |
+
+                        * The predominant organism isolated from patients with AP was E. coli: 91% (63/69) eradication in AP and 89% (92/103) in patients with cUTI.

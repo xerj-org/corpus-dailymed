@@ -1,0 +1,213 @@
+DailyMed 1bda03a2-6c7d-4c9e-b98a-e5e01bebb3b1 | Amoxicillin and Clavulanate Potassium | 12.3 Pharmacokinetics
+
+Mean amoxicillin and clavulanate potassium pharmacokinetic parameters in normal adults following administration of amoxicillin and clavulanate potassium tablets are shown in Table 6 and following administration of amoxicillin and clavulanate potassium for oral suspension and chewable tablets are shown in Table 7.
+
+                           Table 6: Mean (±S.D.) Amoxicillin and Clavulanate Potassium Pharmacokinetic Parameters
+
+   a,bwith Amoxicillin and Clavulanate Potassium Tablets
+
+                                    aMean (± standard deviation) values of 14 normal adults (N equals 15 for clavulanate potassium in the low-dose regimens). Peak concentrations occurred approximately 1.5 hours after the dose.
+
+                                    bAmoxicillin and clavulanate potassium administered at the start of a light meal.
+
+     |
+
+                                    Dose and Regimen of Amoxicillin
+
+  and Clavulanate Potassium
+
+                                  |
+
+                                    C
+
+      max(mcg/mL)
+
+                                  |
+
+                                    AUC
+
+      0-24(mcg*h/mL)
+
+                                  |
+
+                                    Amoxicillin and Clavulanate Potassium
+
+                                  |
+
+                                    Amoxicillin
+
+                                  |
+
+                                    Clavulanate Potassium
+
+                                  |
+
+                                    Amoxicillin
+
+                                  |
+
+                                    Clavulanate Potassium
+
+                                  |
+
+                                 250 mg/125 mg every 8 hours
+
+                                  |
+                                 3.3 ± 1.12
+
+                                  |
+                                 1.5 ± 0.7
+
+                                  |
+                                 26.7 ± 4.56
+
+                                  |
+                                 12.6 ± 3.25
+
+                                  |
+
+                                 500 mg/125 mg every 12 hours
+
+                                  |
+                                 6.5 ± 1.41
+
+                                  |
+                                 1.8 ± 0.61
+
+                                  |
+                                 33.4 ± 6.76
+
+                                  |
+                                 8.6 ± 1.95
+
+                                  |
+
+                                 500 mg/125 mg every 8 hours
+
+                                  |
+                                 7.2 ± 2.26
+
+                                  |
+                                 2.4 ± 0.83
+
+                                  |
+                                 53.4 ± 8.87
+
+                                  |
+                                 15.7 ± 3.86
+
+                                  |
+
+                                 875 mg/125 mg every 12 hours
+
+                                  |
+                                 11.6 ± 2.78
+
+                                  |
+                                 2.2 ± 0.99
+
+                                  |
+                                 53.5 ± 12.31
+
+                                  |
+                                 10.2 ± 3.04
+
+                                  |
+
+                           Table 7: Mean (±S.D.) Amoxicillin and Clavulanate Potassium Pharmacokinetic Parameters
+
+   a,bwith Amoxicillin and Clavulanate Potassium for Oral Suspension and Chewable Tablets
+
+                                    a  Mean (± standard deviation) values of 28 normal adults. Peak concentrations occurred approximately 1 hour after the dose.
+
+                                    b  Amoxicillin and clavulanate potassium administered at the start of a light meal.
+
+     |
+
+                                    Dose
+
+      of  Amoxicillin and Clavulanate Potassium
+
+                                  |
+
+                                    C
+
+      max(mcg/mL)
+
+                                  |
+
+                                    AUC
+
+      0-24(mcg*h/mL)
+
+                                  |
+
+                                    Amoxicillin and Clavulanate Potassium
+
+                                  |
+
+                                    Amoxicillin
+
+                                  |
+
+                                    Clavulanate Potassium
+
+                                  |
+
+                                    Amoxicillin
+
+                                  |
+
+                                    Clavulanate Potassium
+
+                                  |
+
+                                 400 mg/57 mg (5 mL of suspension)
+
+                                  |
+                                 6.94 ± 1.24
+
+                                  |
+                                 1.1 ± 0.42
+
+                                  |
+                                 17.29 ± 2.28
+
+                                  |
+                                 2.34 ± 0.94
+
+                                  |
+
+                                 400 mg/57 mg (1 chewable tablet)
+
+                                  |
+                                 6.67 ± 1.37
+
+                                  |
+                                 1.03 ± 0.33
+
+                                  |
+                                 17.24 ± 2.64
+
+                                  |
+                                 2.17 ± 0.73
+
+                                  |
+
+                        Oral administration of 5 mL of the 250 mg/62.5 mg suspension of amoxicillin and clavulanate potassium or the equivalent dose of 10 mL of the 125 mg/31.25 mg suspension of amoxicillin and clavulanate potassium provides average peak serum concentrations approximately 1 hour after dosing of 6.9 mcg/mL for amoxicillin and 1.6 mcg/mL for clavulanic acid. The areas under the serum concentration curves obtained during the first 4 hours after dosing were 12.6 mcg*h/mL for amoxicillin and 2.9 mcg*h/mL for clavulanic acid when 5 mL of the 250 mg/62.5 mg suspension of amoxicillin and clavulanate potassium or equivalent dose of 10 mL of the 125 mg/31.25 mg suspension of amoxicillin and clavulanate potassium were administered to normal adults. One 250 mg/62.5 mg chewable tablet of  amoxicillin and clavulanate potassium or two 125 mg/31.25 mg chewable tablets of amoxicillin and clavulanate potassium are equivalent to 5 mL  of the 250 mg/62.5 mg suspension of amoxicillin and clavulanate potassium and provide similar serum concentrations of amoxicillin and clavulanic acid.
+
+  Amoxicillin serum concentrations achieved with amoxicillin and clavulanate potassium are similar to those produced by the oral administration of equivalent doses of amoxicillin alone. Time above the minimum inhibitory concentration of 1 mcg/mL for amoxicillin has been shown to be similar after corresponding every 12 hour and every 8-hour dosing regimens of amoxicillin and clavulanate potassium in adults and children.
+
+                           Absorption:Dosing in the fasted or fed state has minimal effect on the pharmacokinetics of amoxicillin. While amoxicillin and clavulanate potassium can be given without regard to meals, absorption of clavulanate potassium when taken with food is greater relative to the fasted state. In one study, the relative bioavailability of clavulanate was reduced when amoxicillin and clavulanate potassium was dosed at 30 and 150 minutes after the start of a high-fat breakfast.
+
+  Distribution:
+  Neither component in amoxicillin and clavulanate potassium is highly protein-bound; clavulanic acid is approximately 25% bound to human serum and amoxicillin approximately 18% bound.
+
+  Amoxicillin diffuses readily into most body tissues and fluids with the exception of the brain and spinal fluid.
+
+  Two hours after oral administration of a single 35 mg/kg dose of suspension of amoxicillin and clavulanate potassium to fasting children, average concentrations of 3 mcg/mL of amoxicillin and 0.5 mcg/mL of clavulanic acid were detected in middle ear effusions.
+
+  Metabolism and Excretion:
+  The half-life of amoxicillin after the oral administration of amoxicillin and clavulanate potassium is 1.3 hours and that of clavulanic acid is 1 hour.
+
+  Approximately 50% to 70% of the amoxicillin and approximately 25% to 40% of the clavulanic acid are excreted unchanged in urine during the first 6 hours after administration of a single 250 mg/125 mg or 500 mg/125 mg tablet of amoxicillin and clavulanate potassium.

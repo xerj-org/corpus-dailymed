@@ -1,0 +1,17 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 2.5 Combined P-gp and Strong CYP3A4 Inhibitors
+
+For patients receiving ELIQUIS doses of 5 mg or 10 mg twice daily, reduce the dose by 50% when ELIQUIS is coadministered with drugs that are combined P-glycoprotein (P-gp) and strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ketoconazole, itraconazole, ritonavir)
+
+  [see
+
+   Clinical Pharmacology (12.3)]
+
+  .
+
+                        In patients already taking 2.5 mg twice daily, avoid coadministration of ELIQUIS with combined P-gp and strong CYP3A4 inhibitors
+
+  [see
+
+                              Drug Interactions (7.1)
+
+                           ].

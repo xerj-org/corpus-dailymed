@@ -1,0 +1,4 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Oral Administration
+
+In one study, pediatric patients 6 to 58 months old were given rifampin suspended in simple syrup or as dry powder mixed with applesauce at a dose of 10 mg/kg body weight. Peak serum concentrations of 10.7 ± 3.7 and 11.5 ± 5.1 mcg/mL were obtained 1 hour after preprandial ingestion of the drug suspension and the applesauce mixture, respectively. After the administration of either preparation, the t
+  1/2 of rifampin averaged 2.9 hours. It should be noted that in other studies in pediatric populations, at doses of 10 mg/kg body weight, mean peak serum concentrations of 3.5 mcg/mL to 15 mcg/mL have been reported.

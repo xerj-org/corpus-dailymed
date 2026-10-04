@@ -1,0 +1,5 @@
+DailyMed 2141f08f-1623-4c88-a157-8dc4aebd3bda | Pentoxifylline | DESCRIPTION
+
+Pentoxifylline extended-release tablets for oral administration contain 400 mg of the active drug and the following inactive ingredients: FD&C Red No. 3, hydroxyethyl cellulose USP, hypromellose USP, magnesium stearate NF, polyethylene glycol NF, povidone USP, talc USP, titanium dioxide USP in an extended-release formulation. Pentoxifylline is a tri-substituted xanthine derivative designated chemically as 1-(5-oxohexyl)-3, 7 dimethylxanthine that, unlike theophylline, is a hemorrheologic agent, i.e. an agent that affects blood viscosity. Pentoxifylline is soluble in water and ethanol, and sparingly soluble in toluene. The CAS Registry Number is 6493-05-6.
+
+                  The chemical structure is:

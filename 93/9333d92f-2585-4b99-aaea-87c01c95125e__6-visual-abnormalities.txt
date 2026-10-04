@@ -1,0 +1,3 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | 6. Visual abnormalities
+
+Retinal vascular thrombosis has been reported in patients receiving estrogens. Discontinue medication pending examination if there is sudden partial or complete loss of vision, or a sudden onset of proptosis, diplopia or migraine. If examination reveals papilledema or retinal vascular lesions, estrogens should be permanently discontinued.

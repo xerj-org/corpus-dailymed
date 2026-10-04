@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 5.14 Photosensitivity/Phototoxicity
+
+Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure. Therefore, excessive exposure to these sources of light should be avoided. Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3); Patient Counseling Information (17)].

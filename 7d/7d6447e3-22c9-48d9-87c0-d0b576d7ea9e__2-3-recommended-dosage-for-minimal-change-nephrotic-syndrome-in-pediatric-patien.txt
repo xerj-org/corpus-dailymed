@@ -1,0 +1,5 @@
+DailyMed 7d6447e3-22c9-48d9-87c0-d0b576d7ea9e | Cyclophosphamide | 2.3 Recommended Dosage for Minimal Change Nephrotic Syndrome in Pediatric Patients
+
+The recommended dosage of cyclophosphamide capsules are 2 mg per kg orally once daily for 8 to 12 weeks (maximum cumulative dose 168 mg per kg). Treatment beyond 90 days increases the probability of sterility in males
+
+  [see USE IN SPECIFIC POPULATIONS (8.4)].

@@ -1,0 +1,11 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 5.6 Increased Risk of LEQSELVI-Associated Serious Adverse Reactions in CYP2C9 Poor Metabolizers or with Concomitant Use of Moderate or Strong CYP2C9 Inhibitors
+
+Higher plasma concentrations of deuruxolitinib, which may increase the risk of LEQSELVI-associated serious adverse reactions such as thrombosis, may occur when LEQSELVI is used in patients who:
+
+                           Are CYP2C9 poor metabolizers [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.5)].
+
+                           Are on a concomitant moderate or strong CYP2C9 inhibitor [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+
+                        Prior to LEQSELVI treatment, test patients for CYP2C9 variants to determine if they are poor metabolizers [see Dosage and Administration (2.1)]. An FDA-cleared or -approved test for the detection of CYP2C9 variants to direct the use of LEQSELVI is not currently available.
+
+                        LEQSELVI is contraindicated in patients who are CYP2C9 poor metabolizers or patients who are on concomitant moderate or strong CYP2C9 inhibitors [see Contraindications (4)].

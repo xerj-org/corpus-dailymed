@@ -1,0 +1,3 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | PRECAUTIONS
+
+Bioavailability studies have demonstrated that micronized glyburide tablets 3 mg provide serum glyburide concentrations that are not bioequivalent to those from nonmicronized glyburide tablets 5 mg. Therefore, patients should be retitrated when transferred from micronized glyburide tablets or other oral hypoglycemic agents.

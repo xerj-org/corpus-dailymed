@@ -1,0 +1,3 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 12.1 Mechanism of Action
+
+CADUET is a combination of two drugs, a dihydropyridine calcium channel blocker (amlodipine) and an HMG-CoA reductase inhibitor (atorvastatin). The amlodipine component of CADUET inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. The atorvastatin component of CADUET is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol.

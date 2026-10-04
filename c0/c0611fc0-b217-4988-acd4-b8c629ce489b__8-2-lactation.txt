@@ -1,0 +1,9 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 8.2 Lactation
+
+Risk Summary
+
+  Imatinib and its active metabolite are excreted into human milk. Because of the potential for serious adverse reactions in breastfed infants from imatinib mesylate, advise a lactating woman not to breastfeed during treatment and for 1 month after the last dose.
+
+                           Human Data
+
+  Based on data from 3 breastfeeding women taking imatinib mesylate, the milk: plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite. Considering the combined concentration of imatinib and active metabolite, a breastfed infant could receive up to 10% of the maternal therapeutic dose based on body weight.

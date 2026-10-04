@@ -1,0 +1,29 @@
+DailyMed f6efdc63-a9df-4bbd-acf8-75fc9d1b0347 | METOCLOPRAMIDE | Pediatric Use
+
+The safety and effectiveness of metoclopramide injection has been established as a single-dose to facilitate small bowel intubation in pediatric patients in whom the tube does not pass the pylorus with conventional maneuvers.
+
+                        The safety and effectiveness of metoclopramide injection has not been established in pediatric patients for the following:
+
+                              •
+
+relief of symptoms associated with diabetic gastroparesis
+
+                              •
+
+prevention of nausea and vomiting associated with emetogenic cancer chemotherapy
+
+                              •
+
+prevention of postoperative nausea and vomiting
+
+                              •
+
+to stimulate gastric emptying and intestinal transit of barium where delayed emptying interferes with radiological examination of the stomach and/or small intestine
+
+                        The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients. Neonates have reduced levels of NADH-cytochrome b5 reductase which, make neonates more susceptible to methemoglobinemia (see
+                              OVERDOSAGE
+                           ). Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults (see
+                              WARNINGS
+                            and
+                              ADVERSE REACTIONS – Extrapyramidal Reactions
+                           ).

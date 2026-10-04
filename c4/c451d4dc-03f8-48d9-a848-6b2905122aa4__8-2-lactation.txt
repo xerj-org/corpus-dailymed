@@ -1,0 +1,13 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.2 Lactation
+
+Risk Summary
+
+                        No data are available regarding the presence of sugammadex in human milk, the effects of sugammadex on the breast fed infant, or the effects of sugammadex on milk production. However, sugammadex is present in rat milk
+
+  (see Data). The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Sugammadex Injection and any potential adverse effects on the breastfed infant from Sugammadex Injection or from the underlying maternal condition.
+
+                           Data
+
+                        In a milk excretion study in rat dams following single intravenous dose of 20 mg/kg sugammadex on Postnatal Day 9, the maximum drug level was achieved at about 30 minutes after dosing with a ratio of milk to plasma level approximately 1:1. The oral exposure via milk did not induce effects on survival, body weight and physical or the behavioral developmental parameters monitored in rats in the prenatal and postnatal development studies
+
+  [see Use in Specific Populations (8.1)].

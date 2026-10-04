@@ -1,0 +1,3 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 5.13 Fracture Risk
+
+Epidemiological studies on fracture risk during exposure to some antidepressant drugs, including SSRIs, have reported an association between antidepressant drug treatment and fractures. There are multiple possible causes for this association, and it is unknown to what extent fracture risk is directly attributable to SSRI treatment.

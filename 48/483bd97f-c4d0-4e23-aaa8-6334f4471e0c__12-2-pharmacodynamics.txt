@@ -1,0 +1,7 @@
+DailyMed 483bd97f-c4d0-4e23-aaa8-6334f4471e0c | PAXIL CR | 12.2 Pharmacodynamics
+
+Studies at clinically relevant paroxetine dosage in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets. In vitro studies in animals also suggest that paroxetine is a potent and highly selective inhibitor of neuronal serotonin reuptake (SSRI) and has only very weak effects on norepinephrine and dopamine neuronal reuptake.
+
+                           Cardiac Electrophysiology  
+
+                        At the maximum recommended paroxetine dose, a mean increase in the QTc interval >20 milliseconds is unlikely.

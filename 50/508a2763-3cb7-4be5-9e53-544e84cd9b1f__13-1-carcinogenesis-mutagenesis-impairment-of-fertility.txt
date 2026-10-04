@@ -1,0 +1,5 @@
+DailyMed 508a2763-3cb7-4be5-9e53-544e84cd9b1f | Novolin70/30 | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenicity and fertility studies were not performed in animals.
+
+                        Human insulin is not mutagenic in the following in vitro tests: The chromosomal aberration assay in human lymphocytes, the micronucleus assay in mouse polychromatic erythrocytes, and the mutation frequency assay in Chinese hamster cells.

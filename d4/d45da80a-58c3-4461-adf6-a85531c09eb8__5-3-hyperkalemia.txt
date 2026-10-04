@@ -1,0 +1,3 @@
+DailyMed d45da80a-58c3-4461-adf6-a85531c09eb8 | Telmisartan | 5.3 Hyperkalemia
+
+Hyperkalemia may occur in patients on ARBs, particularly in patients with advanced renal impairment, heart failure, on renal replacement therapy, or on potassium supplements, potassium-sparing diuretics, potassium-containing salt substitutes or other drugs that increase potassium levels. Consider periodic determinations of serum electrolytes to detect possible electrolyte imbalances, particularly in patients at risk.

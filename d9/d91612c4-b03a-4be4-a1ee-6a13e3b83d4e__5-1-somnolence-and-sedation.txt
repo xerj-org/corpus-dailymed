@@ -1,0 +1,5 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 5.1 Somnolence and Sedation
+
+ZTALMY can cause somnolence and sedation. In Study 1 [see Clinical Studies (14)], the incidence of somnolence and sedation was 44% in patients treated with ZTALMY, compared with 24% in patients receiving placebo. Somnolence and sedation appeared early during treatment and were generally dose-related [see Adverse Reactions (6.1)].
+
+                        Other central nervous system (CNS) depressants, including opioids, antidepressants, and alcohol, could potentiate somnolence and sedation in patients receiving ZTALMY [see Clinical Pharmacology (12.3)]. Prescribers should monitor patients for somnolence and sedation, and advise patients not to drive or operate machinery until they have gained sufficient experience on ZTALMY to gauge whether it adversely affects their ability to drive or operate machinery.

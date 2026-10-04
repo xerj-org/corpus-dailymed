@@ -1,0 +1,5 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 8.1 Pregnancy
+
+Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose based upon relative body surface area, or at intravenous doses as high as 160 mg/kg/day corresponding to 1.9 times the highest recommended human dose based upon relative body surface area. The oral dose of 810 mg/kg/day to rats caused decreased fetal body weight and increased fetal mortality. No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
+
+                        There are, however, no adequate and well-controlled studies in pregnant women. Levofloxacin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

@@ -1,0 +1,5 @@
+DailyMed d69c2f0f-4e8b-422a-8aaf-a825998b04e0 | Omeprazole/Bicarbonate | 5.4 Clostridium difficile-Associated Diarrhea
+
+Published observational studies suggest that PPI therapy like omeprazole and sodium bicarbonate may be associated with an increased risk of Clostridium difficile-associated diarrhea, especially in hospitalized patients. This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
+
+                        Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.

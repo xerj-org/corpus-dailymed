@@ -1,0 +1,19 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 6 ADVERSE REACTIONS
+
+The following serious adverse reactions are described elsewhere in labeling:
+
+                     Serious Infections [see Warnings and Precautions (5.1)]
+
+                     Gastrointestinal Perforations [see Warnings and Precautions (5.2)]
+
+                     Laboratory Parameters [see Warnings and Precautions (5.4)]
+
+                     Immunosuppression [see Warnings and Precautions (5.5)]
+
+                     Hypersensitivity Reactions, Including Anaphylaxis [see Warnings and Precautions (5.6)]
+
+                     Demyelinating Disorders [see Warnings and Precautions (5.7)]
+
+                     Active Hepatic Disease and Hepatic Impairment [see Warnings and Precautions (5.8)]
+
+                  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.

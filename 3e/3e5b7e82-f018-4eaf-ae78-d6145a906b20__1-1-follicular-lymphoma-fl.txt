@@ -1,0 +1,9 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 1.1 Follicular Lymphoma (FL)
+
+RITUXAN HYCELA is indicated for the treatment of adult patients with:
+
+                           Relapsed or refractory, follicular lymphoma as a single agent.
+
+                           Previously untreated follicular lymphoma in combination with first line chemotherapy and, in patients achieving a complete or partial response to rituximab in combination with chemotherapy, as single-agent maintenance therapy.
+
+                           Non-progressing (including stable disease), follicular lymphoma as a single agent after first-line cyclophosphamide, vincristine, and prednisone (CVP) chemotherapy.

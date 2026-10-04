@@ -1,0 +1,5 @@
+DailyMed 26c3694b-d7ef-4068-95d3-4f7a9210e117 | Amoxicillin | 8.5 Geriatric Use
+
+An analysis of clinical studies of amoxicillin was conducted to determine whether subjects aged 65 and over respond differently from younger subjects. These analyses have not identified differences in responses between the elderly and younger patients, but a greater sensitivity of some older individuals cannot be ruled out.
+
+                        This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

@@ -1,0 +1,27 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 6.3 Clinical Laboratory Test Findings
+
+Creatinine and Blood Urea Nitrogen
+
+                           Increases in creatinine levels occurred in 1.2% of patients receiving ramipril alone, and in 1.5% of patients receiving ramipril and a diuretic. Increases in blood urea nitrogen levels occurred in 0.5% of patients receiving ramipril alone and in 3% of patients receiving ramipril with a diuretic. None of these increases required discontinuation of treatment. Increases in these laboratory values are more likely to occur in patients with renal insufficiency or those pretreated with a diuretic and, based on experience with other ACE inhibitors, would be expected to be especially likely in patients with renal artery stenosis
+
+  [see
+
+   Warnings and Precautions (5.3)]
+
+  . As ramipril decreases aldosterone secretion, elevation of serum potassium can occur. Use potassium supplements and potassium-sparing diuretics with caution, and monitor the patient’s serum potassium frequently
+
+  [see
+
+                                 Warnings and Precautions (5.8)
+
+                           ].
+
+   
+
+                           Hemoglobin and Hematocrit
+
+                           Decreases in hemoglobin or hematocrit (a low value and a decrease of 5 g/dL or 5%, respectively) were rare, occurring in 0.4% of patients receiving ramipril alone and in 1.5% of patients receiving ramipril plus a diuretic. No U.S. patients discontinued treatment because of decreases in hemoglobin or hematocrit.
+
+                           Other (causal relationships unknown)
+
+                           Clinically important changes in standard laboratory tests were rarely associated with ramipril administration. Elevations of liver enzymes, serum bilirubin, uric acid, and blood glucose have been reported, as have cases of hyponatremia and scattered incidents of leucopenia, eosinophilia, and proteinuria. In U.S. trials, less than 0.2% of patients discontinued treatment for laboratory abnormalities; all of these were cases of proteinuria or abnormal liver-function tests.

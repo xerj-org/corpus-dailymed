@@ -1,0 +1,25 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 12.2 Pharmacodynamics
+
+Pharmacodynamic properties of propofol are dependent upon the therapeutic blood propofol concentrations. Steady-state propofol blood concentrations are generally proportional to infusion rates. Undesirable side effects, such as cardiorespiratory depression, are likely to occur at higher blood concentrations which result from bolus dosing or rapid increases in infusion rates. An adequate interval (3 to 5 minutes) must be allowed between dose adjustments in order to assess clinical effects.
+
+                        The hemodynamic effects of propofol injectable emulsion during induction of anesthesia vary. If spontaneous ventilation is maintained, the major cardiovascular effect is arterial hypotension (sometimes greater than a 30% decrease) with little or no change in heart rate and no appreciable decrease in cardiac output. If ventilation is assisted or controlled (positive pressure ventilation), there is an increase in the incidence and the degree of depression of cardiac output. Addition of an opioid, used as a premedicant, further decreases cardiac output and respiratory drive.
+
+                        If anesthesia is continued by infusion of propofol injectable emulsion, the stimulation of endotracheal intubation and surgery may return arterial pressure towards normal. However, cardiac output may remain depressed. Comparative clinical studies have shown that the hemodynamic effects of propofol injectable emulsion during induction of anesthesia are generally more pronounced than with other intravenous induction agents.
+
+                        Induction of anesthesia with propofol injectable emulsion is frequently associated with apnea in both adults and pediatric patients. In adult patients who received propofol injectable emulsion (2 mg/kg to 2.5 mg/kg), apnea lasted less than 30 seconds in 7% of patients, 30 seconds to 60 seconds in 24% of patients, and more than 60 seconds in 12% of patients. In pediatric patients from birth through 16 years of age assessable for apnea who received bolus doses of propofol injectable emulsion (1 mg/kg to 3.6 mg/kg), apnea lasted less than 30 seconds in 12% of patients, 30 seconds to 60 seconds in 10% of patients, and more than 60 seconds in 5% of patients.
+
+                        During maintenance of general anesthesia, propofol injectable emulsion causes a decrease in spontaneous minute ventilation usually associated with an increase in carbon dioxide tension which may be marked depending upon the rate of administration and concurrent use of other medications (e.g., opioids, sedatives, etc.).
+
+                        During monitored anesthesia care (MAC) sedation, attention must be given to the cardiorespiratory effects of propofol injectable emulsion. Hypotension, oxyhemoglobin desaturation, apnea, and airway obstruction can occur, especially following a rapid bolus of propofol injectable emulsion. During initiation of MAC sedation, slow infusion or slow injection techniques are preferable over rapid bolus administration. During maintenance of MAC sedation, a variable rate infusion is preferable over intermittent bolus administration in order to minimize undesirable cardiorespiratory effects. In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation [see Warnings and Precautions (5.12)].
+
+                        Clinical and preclinical studies suggest that propofol injectable emulsion is rarely associated with elevation of plasma histamine levels.
+
+                        Preliminary findings in patients with normal intraocular pressure indicate that propofol injectable emulsion produces a decrease in intraocular pressure which may be associated with a concomitant decrease in systemic vascular resistance.
+
+                        Clinical studies indicate that propofol injectable emulsion when used in combination with hypocarbia increases cerebrovascular resistance and decreases cerebral blood flow, cerebral metabolic oxygen consumption, and intracranial pressure. Propofol injectable emulsion does not affect cerebrovascular reactivity to changes in arterial carbon dioxide tension [see Clinical Studies (14.2)].
+
+                        Clinical studies indicate that propofol injectable emulsion does not suppress the adrenal response to ACTH.
+
+                        Animal studies and limited experience in susceptible patients have not indicated any propensity of propofol injectable emulsion to induce malignant hyperthermia.
+
+                        Hemosiderin deposits have been observed in the livers of dogs receiving propofol injectable emulsion containing 0.005% disodium edetate over a four-week period; the clinical significance of this is unknown.

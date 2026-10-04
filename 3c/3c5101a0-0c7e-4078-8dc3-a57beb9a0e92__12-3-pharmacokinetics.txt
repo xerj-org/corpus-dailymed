@@ -1,0 +1,132 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 12.3 Pharmacokinetics
+
+After intravenous administration of 0.1 mmol/kg GADAVIST, average plasma levels of gadobutrol are 0.59 mmol/L at 2 minutes after injection and 0.3 mmol/L at 60 minutes after injection, with an AUC of 1,072 µmol∙h/L. Values for further PK parameters are given in Table 5 below.
+
+                           Distribution
+
+                        After intravenous administration, gadobutrol is distributed in the extracellular space. Gadobutrol does not display any particular protein binding. Following GBCA administration, gadolinium is present for months or years in brain, bone, skin, and other organs [see Warnings and Precautions (5.5)].
+
+                           Elimination
+
+                        The average elimination half-life (t1/2) of gadobutrol is 1.8 hours.
+
+                           Metabolism
+
+                        Gadobutrol is not metabolized.
+
+                           Excretion
+
+                        Gadobutrol is excreted in an unchanged form through the kidneys by glomerular filtration. In healthy subjects, renal clearance of gadobutrol is 1.1 to 1.7 mL/(min∙kg) and thus comparable to the renal clearance of inulin.
+
+                        Within 2 hours after intravenous administration more than 50% and within 12 hours more than 90% of the given dose is eliminated via the urine. Extra-renal elimination is negligible.
+
+                           Specific Populations
+
+                           Geriatric Patients
+
+                        A single intravenous dose of 0.1 mmol/kg GADAVIST was administered to 15 elderly and 16 non-elderly subjects. AUC was slightly higher (43%) and clearance slightly lower (31%) in elderly subjects as compared to non-elderly subjects [see Use in Specific Populations (8.5)].
+
+                           Pediatric Patients
+
+                        The pharmacokinetics of gadobutrol were evaluated in a total of 173 pediatric patients aged less than 18 years (including term neonates) who received a single intravenous dose of 0.1 mmol/kg of GADAVIST. Table 5 shows the pharmacokinetic parameters of gadobutrol by age group. The pharmacokinetic profile of gadobutrol in pediatric patients is similar to that in adults, resulting in similar values for AUC, body weight normalized plasma clearance, as well as elimination half-life. Approximately 99% (median value) of the dose was recovered in urine within 6 hours (this information was derived from the 2 to less than 18 year-old age group).
+
+                           Table 5: Pharmacokinetics by Age Group (Median [Range])
+
+                                  |
+                                 0 to < 2 years
+
+ N=43 |
+                                 2 to 6 years
+
+ N=45 |
+                                 7 to 11 years
+
+ N=39 |
+                                 12 to < 18 years
+
+ N=46 |
+                                 Adults
+
+ N=93 |
+
+                                 AUC (µmol∙h/L) |
+                                 781
+
+ [513, 1891] |
+                                 846
+
+ [412, 1331] |
+                                 1025
+
+ [623, 2285] |
+                                 1237
+
+ [946, 2211] |
+                                 1072
+
+ [667, 1992] |
+
+                                 CL (L/h/kg) |
+                                 0.128
+
+ [0.053, 0.195] |
+                                 0.119
+
+ [0.080, 0.215] |
+                                 0.099
+
+ [0.043, 0.165] |
+                                 0.081
+
+ [0.046, 0.103] |
+                                 0.094
+
+ [0.051, 0.150] |
+
+                                 t1/2 (h) |
+                                 2.91
+
+ [1.60, 12.4] |
+                                 1.91
+
+ [1.04, 2.70] |
+                                 1.66
+
+ [0.91, 2.71] |
+                                 1.68
+
+ [1.31, 2.48] |
+                                 1.80
+
+ [1.20, 6.55] |
+
+                                 C20 (µmol/L) |
+                                 367
+
+ [280, 427] |
+                                 421
+
+ [369, 673] |
+                                 462
+
+ [392, 760] |
+                                 511
+
+ [387, 1077] |
+                                 441
+
+ [281, 829] |
+
+                           Male and Female Patients
+
+                        Gender has no clinically relevant effect on the pharmacokinetics of gadobutrol.
+
+                           Patients with Renal Impairment
+
+                        In patients with renal impairment, the serum half-life of gadobutrol is prolonged and correlated with the reduction in creatinine clearance.
+
+                        After intravenous injection of GADAVIST 0.1 mmol/kg, the elimination half-life was 5.8 ± 2.4 hours in patients with mild to moderate renal impairment (80 > CLCR > 30 mL/min) and 17.6 ± 6.2 hours in patients with severe renal impairment not on dialysis (CLCR < 30 mL/min). The average AUC of gadobutrol in patients with normal renal function was 1.1 ± 0.1 mmol∙h/L, compared to 4.0 ± 1.8 mmol∙h/L in patients with mild to moderate renal impairment and 11.5 ± 4.3 mmol∙h/L in patients with severe renal impairment.
+
+                        Complete recovery in the urine was seen in patients with mild or moderate renal impairment within 72 hours. In patients with severely impaired renal function about 80% of the administered dose was recovered in the urine within 5 days.
+
+                        For patients receiving hemodialysis, 68% of gadobutrol is removed from the body after the first dialysis, 94% after the second dialysis, and 98% after the third dialysis session [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].

@@ -1,0 +1,9 @@
+DailyMed 37b19837-fcab-4536-abad-6f4f92dfe794 | BRINZOLAMIDE | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of brinzolamide containing products. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        Serious skin and subcutaneous tissue reactions such as Stevens-Johnson syndrome (SJS) and Toxic epidermal necrolysis (TEN) may occur with the use of brinzolamide due to its sulfonamide component
+
+  [see
+
+   Warnings and Precautions (5.1)]

@@ -1,0 +1,9 @@
+DailyMed b4b9b66e-87a1-4dbb-9eaf-71221bcb2265 | mirtazapine | 5.13 Transaminase Elevations
+
+Clinically significant ALT (SGPT) elevations (≥3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients treated with mirtazapine tablets in a pool of short-term, U.S. controlled trials, compared to 0.3% (1/328) of placebo patients. While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued mirtazapine tablets treatment. Mirtazapine tablets should be used with caution in patients with impaired hepatic function
+
+  [see Use in Specific Populations (
+
+   8.6), Clinical Pharmacology (
+
+   12.3)].

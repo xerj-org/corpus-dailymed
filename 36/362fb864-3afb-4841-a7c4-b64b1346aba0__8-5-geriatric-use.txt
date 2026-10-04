@@ -1,0 +1,22 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 8.5 Geriatric Use
+
+Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as levofloxacin. This risk is further increased in patients receiving concomitant corticosteroid therapy. Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported. Caution should be used when prescribing levofloxacin to elderly patients especially those on corticosteroids. Patients should be informed of this potential side effect and advised to discontinue levofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see
+
+                              Boxed Warning
+
+                           ; Warnings and Precautions (
+                              5.2); and Adverse Reactions (6.3)].
+
+                        In Phase 3 clinical trials, 1,945 levofloxacin-treated patients (26%) were ≥ 65 years of age. Of these, 1,081 patients (14%) were between the ages of 65 and 74 and 864 patients (12%) were 75 years or older. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
+
+                        Severe, and sometimes fatal, cases of hepatotoxicity have been reported post-marketing in association with levofloxacin. The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity. Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see
+                           Warnings and Precautions (5.8)].
+
+                        Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)
+                           ].
+
+                        Elderly patients may be more susceptible to drug-associated effects on the QT interval. Therefore, precaution should be taken when using levofloxacin with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see
+                           Warnings and Precautions (5.11)].
+
+                        The pharmacokinetic properties of levofloxacin in younger adults and elderly adults do not differ significantly when creatinine clearance is taken into consideration. However, since the drug is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see
+                           Clinical Pharmacology (12.3)].

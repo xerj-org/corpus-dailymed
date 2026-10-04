@@ -1,0 +1,95 @@
+DailyMed 014c93dc-5737-479c-a9f0-aaadac1ac298 | Tyrvaya | 14 CLINICAL STUDIES
+
+The efficacy of TYRVAYA for the treatment of dry eye disease was supported by two randomized, multi-center, double-masked, vehicle-controlled studies (ONSET-1 and ONSET-2).  In the ONSET-1 study, 182 patients were randomized in a 1:1:1:1 ratio to receive one spray in each nostril twice daily of varenicline solution 0.006 mg (N=47), TYRVAYA 0.03 mg (N=48), varenicline solution 0.06 mg (N=44), or vehicle (N=43). In the ONSET-2 study, 758 patients were randomized in a 1:1:1 ratio to receive one spray in each nostril twice daily of TYRVAYA 0.03 mg (N=260), varenicline solution 0.06 mg (N=246), or vehicle (N=252).
+
+                  The majority of patients were female (74%), the mean (standard deviation [SD]) age was 61 (12.5) years, the mean (SD) baseline anesthetized Schirmer’s score was 5.1 mm (2.9), and the mean (SD) baseline eye dryness score (EDS) was 59.3 (21.6). Use of artificial tears was allowed during the studies. Enrollment criteria included minimal signs [i.e., anesthetized Schirmer's test score (range, 0-10 mm) and corneal fluorescein staining (range, 2-14)] and was not limited by baseline EDS (range, 2-100). 
+
+                     Efficacy
+
+                  Tear film production was measured by anesthetized Schirmer’s score assessed using a Schirmer’s strip (0-35 mm). The average baseline Schirmer’s score was 5.0 mm in the ONSET-1 study and 5.1 mm in the ONSET-2 study. Of the patients treated with TYRVAYA, 52% achieved ≥10 mm increase in Schirmer’s score from baseline in the ONSET-1 study and 47% achieved ≥10 mm increase in Schirmer’s score from baseline in the ONSET-2 study, compared to 14% and 28% of vehicle-treated patients in the ONSET-1 study and the ONSET-2 study, respectively at Day 28 (see Table 1).   Of the patients treated with TYRVAYA, the mean change in Schirmer’s score was 11.7 mm and 11.3 mm as compared to 3.2 mm and 6.3 mm in the vehicle treated patients in the ONSET-1 study and ONSET-2 study, respectively at Day 28. 
+
+                     Table 1: Percent of Patients Achieving ≥10 mm Improvement from Baseline in Schirmer’s Score in 28-day Studies in Patients with Dry Eye Disease
+
+                            |
+
+                                 ONSET-1
+
+                            |
+
+                                 ONSET-2
+
+                            |
+
+                            |
+
+                                 TYRVAYA
+
+                                 N=48
+
+                            |
+
+                                 Vehicle
+
+                                 N=43
+
+                            |
+
+                                 TYRVAYA
+
+                                 N=260
+
+                            |
+
+                                 Vehicle
+
+                                 N=252
+
+                            |
+
+                              ≥ 10-mm increase in tear production (% of eyes) at Day 28
+
+                            |
+
+                              52%
+
+                            |
+
+                              14%
+
+                            |
+
+                              47%
+
+                            |
+
+                              28%
+
+                            |
+
+                              Proportion Difference (95% CI)
+
+                            |
+
+                              38% (21%, 56%)
+
+                            |
+
+                              20% (11%, 28%)
+
+                            |
+
+                              p-value versus control
+
+                            |
+
+                              <0.01
+
+                            |
+
+                              <0.01
+
+                            |
+
+                  Cochran-Mantel-Haenszel (CMH) test controlling for study site, baseline Schirmer’s test score (STS), and baseline EDS.
+
+All randomized and treated patients were included in the analysis and missing data were imputed using last-available data.

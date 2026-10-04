@@ -1,0 +1,9 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 5.13 Risk of Cardiac Arrhythmias with Concomitant Use of Potent Inhalation Anesthetics
+
+Serious dose-related cardiac arrhythmias may occur if preparations containing a vasoconstrictor such as epinephrine (e.g., Bupivacaine Hydrochloride and Epinephrine Injection) are used in patients during or following the administration of potent inhalation anesthetics
+
+  [see
+
+   Drug Interactions (7.6)]
+
+  . In deciding whether to concurrently use Bupivacaine Hydrochloride and Epinephrine Injection with potent inhalation anesthetics in the same patient, the combined action of both agents upon the myocardium, the concentration and volume of vasoconstrictor used, and the time since injection, when applicable, should be taken into account.

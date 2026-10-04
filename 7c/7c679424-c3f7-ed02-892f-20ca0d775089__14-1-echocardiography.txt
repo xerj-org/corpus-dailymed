@@ -1,0 +1,100 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 14.1 Echocardiography
+
+Adults
+
+                        A total of 191 patients with suspected cardiac disease and suboptimal non-contrast echocardiography received Lumason in three multi-center controlled clinical trials (76 patients in Study A, 62 patients in Study B, and 53 patients in Study C). Among these patients, there were 127 men and 64 women. The mean age was 59 years (range 22 to 96 years). The racial and ethnic representations were 79% White, 16% Black, 4% Hispanic, < 1% Asian, and < 1% other racial or ethnic groups. The mean weight was 204 lbs (range 92 to 405 lbs). Approximately 20% of the patients had a chronic pulmonary disorder and 30% had a history of heart failure. Of the 106 patients for whom a New York Heart Association (NYHA) classification of heart failure was assigned, 49% were Class I, 33% were Class II, and 18% were Class III. Patients with NYHA Class IV heart failure were not included in these studies.
+
+                        In Studies A and B, each patient received four intravenous bolus injections of Lumason (0.5, 1, 2, and 4 mL), in randomized order. In Study C, each patient received two doses of Lumason (1 mL and 2 mL) in randomized order. All three studies assessed endocardial border delineation and left ventricular opacification. For each patient in each study, echocardiography with Lumason was compared to non-contrast (baseline) echocardiography. A recording of 2D echocardiography was obtained from 30 seconds prior to each injection to at least 15 minutes after dosing or until the disappearance of the contrast effect, whichever was longer. Contrast and non-contrast echocardiographic images for each patient were evaluated by two independent reviewers, who were blinded to clinical information and the Lumason dose. Evaluation of left ventricular endocardial border consisted of segment based assessment involving six endocardial segments and using two apical views (2- and 4-chamber views).
+
+                           Endocardial Border Delineation and Duration of Useful Contrast Effect
+
+                        In all three studies, administration of Lumason improved left ventricular endocardial border delineation. The majority of the patients who received a 2.0 mL dose of Lumason had improvement in endocardial border delineation manifested as visualization of at least two additional endocardial border segments. Table 3 demonstrates the improvement in endocardial border delineation following Lumason administration as a reduction in percentage of patients with inadequate border delineation in at least one pair of adjacent segments (combined 2-chamber and 4-chamber view). The results are shown by reader.
+
+                                    Table 3. Reduction in Percentage of Patients with Inadequate Border Delineation
+                                  |
+
+                                 Reader |
+                                 Study A
+
+N = 76 |
+                                 Study B
+
+N = 62 |
+                                 Study C
+
+N = 53 |
+
+                                 Non-
+
+contrast |
+                                 Lumason |
+                                 Non-
+
+contrast |
+                                 Lumason |
+                                 Non-
+
+contrast |
+                                 Lumason |
+
+                                 A |
+                                 60 (79%) |
+                                 22 (33%) |
+                                 31 (50%) |
+                                 12 (19%) |
+                                 12 (23%) |
+                                 10 (19%) |
+
+                                 B |
+                                 62 (82%) |
+                                 29 (37%) |
+                                 54 (87%) |
+                                 6 (10%) |
+                                 45 (85%) |
+                                 20 (38%) |
+
+                        Following the first appearance of contrast within the left ventricle the mean duration of useful contrast effect ranged from 1.7 to 3.1 minutes.
+
+                           Left Ventricular Opacification
+
+                        In all three studies, complete left ventricular opacification was observed in 52% to 80% of the patients following administration of a 2.0 mL dose of Lumason. The studies did not sufficiently assess the effect of Lumason upon measures of left ventricular ejection fraction and wall motion.
+
+                           Pediatric patients:
+
+                        Twelve pediatric patients 9 to 17 years of age with suspected cardiac disease and suboptimal non-contrast echocardiography received Lumason in one prospective multicenter clinical trial. Patients received Lumason at a dose of 0.03 mL/kg (mean 1.83 mL). There were 7 female, 10 white, and 2 black patients.
+
+                        For both the non-contrast and contrast-enhanced images, standard apical 4-, 2-, and 3- chamber views with harmonic imaging were acquired. Contrast and non-contrast images for each patient were evaluated by three independent reviewers, who were blinded to clinical information.
+
+                           Endocardial Border Delineation
+
+                        Evaluation of left ventricular endocardial border delineation consisted of segment-based assessment of the left ventricle divided into 17 endocardial segments. The delineation of each segment’s endocardial border was rated as inadequate, sufficient, or good. An exam was considered suboptimal if any of the patient’s apical views had 2 or more adjacent segments with inadequate delineation scores.
+
+                        The majority of screened patients had adequate delineation of the left ventricular endocardial border without administration of contrast. The number of patients with inadequate left ventricular endocardial border delineation without contrast and after Lumason are shown for the 12 patients, by reader, in Table 4.
+
+                                    a Reader A had missing segment data with contrast echocardiography for one patient; b Reader B had missing segment data with non-contrast echocardiography for one patient; bb Reader B had missing segment data with contrast echocardiography for three patients; c Reader C had missing segment data with contrast echocardiography for one patient |
+
+                                    Table 4. Number of Pediatric Patients with Inadequate Border Delineation with and without Lumason
+                                  |
+
+                                   |
+                                 Reader A |
+                                 Reader B |
+                                 Reader C |
+
+                                 Non-contrast |
+                                 12/12 |
+                                 11/11b
+                                  |
+                                 12/12 |
+
+                                 Lumason |
+                                 1/11a
+                                  |
+                                 0/9bb
+                                  |
+                                 0/11c
+                                  |
+
+                           Left Ventricular Opacification
+
+                        Complete left ventricular opacification was observed in all the patients by all 3 readers following administration of Lumason.

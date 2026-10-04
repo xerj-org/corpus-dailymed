@@ -1,0 +1,7 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 5.2 Pancreatic Toxicity
+
+Pancreatitis occurred in 11 of 556 (2%) patients receiving SCEMBLIX, with Grade 3 pancreatitis occurring in 6 (1.1%) patients. SCEMBLIX was permanently discontinued in three (0.5%) patients, while it was temporarily withheld in 6 (1.1%) patients due to pancreatitis. Elevation of serum lipase and amylase occurred in 110 of 556 (20%) patients receiving SCEMBLIX, with Grade 3 and Grade 4 pancreatic enzyme elevations occurring in 41 (7%) and 11 (2%) patients, respectively. SCEMBLIX was permanently discontinued in 11 (2%) patients due to the elevation of serum lipase and amylase [see Adverse Reactions (6.1)].
+
+                        Assess serum lipase and amylase levels monthly during treatment with SCEMBLIX, or as clinically indicated. Monitor patients for signs and symptoms of pancreatic toxicity. Perform more frequent monitoring in patients with a history of pancreatitis. If lipase and amylase elevation are accompanied by abdominal symptoms, temporarily withhold SCEMBLIX and consider appropriate diagnostic tests to exclude pancreatitis [see Dosage and Administration (2.4)].
+
+                        Based on the severity of lipase and amylase elevation, reduce dose, temporarily withhold, or permanently discontinue SCEMBLIX [see Dosage and Administration (2.4)].

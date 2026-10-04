@@ -1,0 +1,283 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 12.4 Microbiology
+
+The following
+
+  in vitrodata are available but the clinical significance is unknown.
+
+                        Rabeprazole sodium, amoxicillin and clarithromycin as a three drug regimen has been shown to be active against most strains of
+
+  Helicobacter pylori in vitroand in clinical infections
+
+  [see Indications and Usage (1),
+
+  Clinical Studies (14.5)].
+
+                               
+
+                              Helicobacter pylori
+
+                        Susceptibility testing of
+
+  H. pyloriisolates was performed for amoxicillin and clarithromycin using agar dilution methodology
+
+  1, and minimum inhibitory concentrations (MICs) were determined.
+
+                        Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
+
+                            
+
+                           Incidence of Antibiotic-Resistant Organisms Among Clinical Isolates
+
+                           Pretreatment Resistance:Clarithromycin pretreatment resistance rate (MIC ≥1 mcg/mL) to
+
+  H. pyloriwas 9% (51/560) at baseline in all treatment groups combined. Greater than 99% (558/560) of patients had
+
+  H. pyloriisolates which were considered to be susceptible (MIC ≤0.25 mcg/mL) to amoxicillin at baseline. Two patients had baseline
+
+  H. pyloriisolates with an amoxicillin MIC of 0.5 mcg/mL.
+
+                        For susceptibility testing information about
+
+  Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
+
+                           Table 6: Clarithromycin Susceptibility Test Results and Clinical/ Bacteriologic Outcomes
+
+   a
+                               for a Three Drug Regimen (Rabeprazole sodium delayed-release tablets 20 mg Twice Daily, Amoxicillin 1000 mg Twice Daily, and Clarithromycin 500 mg Twice Daily for 7 or 10 Days)
+
+   
+
+                                 Days of RAC Therapy
+
+                                  |
+                                 Clarithromycin Pretreatment Results
+
+                                  |
+                                 Total Number
+
+                                  |
+
+                                    H. pyloriNegative (Eradicated)
+
+                                  |
+
+                                    H. pyloriPositive (Persistent) Post-Treatment Susceptibility Results
+
+   
+
+                                  |
+
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+                                 S
+
+     b
+
+                                  |
+                                 I
+
+     b
+
+                                  |
+                                 R
+
+     b
+
+                                  |
+                                 No MIC
+
+                                  |
+
+                                 7
+
+                                  |
+                                 Susceptible
+
+     b
+
+                                  |
+                                 129
+
+                                  |
+                                 103
+
+                                  |
+                                 2
+
+                                  |
+                                 0
+
+                                  |
+                                 1
+
+                                  |
+                                 23
+
+                                  |
+
+                                 7
+
+                                  |
+                                 Intermediate
+
+     b
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+
+                                 7
+
+                                  |
+                                 Resistant
+
+     b
+
+                                  |
+                                 16
+
+                                  |
+                                 5
+
+                                  |
+                                 2
+
+                                  |
+                                 1
+
+                                  |
+                                 4
+
+                                  |
+                                 4
+
+                                  |
+
+                                 10
+
+                                  |
+                                 Susceptible
+
+     b
+
+                                  |
+                                 133
+
+                                  |
+                                 111
+
+                                  |
+                                 3
+
+                                  |
+                                 1
+
+                                  |
+                                 2
+
+                                  |
+                                 16
+
+                                  |
+
+                                 10
+
+                                  |
+                                 Intermediate
+
+     b
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+
+                                 10
+
+                                  |
+                                 Resistant
+
+     b
+
+                                  |
+                                 9
+
+                                  |
+                                 1
+
+                                  |
+                                 0
+
+                                  |
+                                 0
+
+                                  |
+                                 5
+
+                                  |
+                                 3
+
+                                  |
+
+                           aIncludes only patients with pretreatment and post-treatment clarithromycin susceptibility test results.
+
+                           bSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg /mL, Resistant (R) MIC ≥ 1 mcg/mL
+
+                        Patients with persistent
+
+  H. pyloriinfection following rabeprazole, amoxicillin, and clarithromycin therapy will likely have clarithromycin resistant clinical isolates. Therefore, clarithromycin susceptibility testing should be done when possible. If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted.
+
+                            
+
+                           Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes:In the U.S. multicenter study, greater than 99% (558/560) of patients had
+
+  H. pyloriisolates which were considered to be susceptible (MIC ≤0.25 mcg/mL) to amoxicillin at baseline. The other 2 patients had baseline
+
+  H. pyloriisolates with an amoxicillin MIC of 0.5 mcg/mL, and both isolates were clarithromycin-resistant at baseline; in one case the
+
+  H. pyloriwas eradicated. In the 7-and 10-day treatment groups 75% (107/145) and 79% (112/142), respectively, of the patients who had pretreatment amoxicillin susceptible MICs (≤0.25 mcg/mL) were eradicated of
+
+                           H. pylori. No patients developed amoxicillin-resistant
+
+  H. pyloriduring therapy.

@@ -1,0 +1,31 @@
+DailyMed 70378eba-3904-4491-9f6d-00f5d1501c4a | Pantoprazole Sodium | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of pantoprazole sodium products. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        These adverse reactions are listed below by body system:
+
+                           General disorders and administration conditions: asthenia, fatigue, malaise
+
+                           Immune system disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus
+
+                           Investigations: weight changes
+
+                           Skin and subcutaneous tissue disorders: severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke's edema) and cutaneous lupus erythematosus
+
+                           Musculoskeletal disorders: rhabdomyolysis, bone fracture
+
+                           Renal and genitourinary disorders: acute tubulointerstitial nephritis, erectile dysfunction
+
+                           Hepatobiliary disorders: hepatocellular damage leading to jaundice and hepatic failure
+
+                           Psychiatric disorder: hallucinations, confusion, insomnia, somnolence
+
+                           Metabolism and nutritional disorders: hyponatremia, hypomagnesemia, hypocalcemia, hypokalemia, hyponatremia
+
+                           Infections and infestations: Clostridioides difficile associated diarrhea
+
+                           Hematologic: pancytopenia, agranulocytosis
+
+                           Nervous: ageusia, dysgeusia
+
+                           Gastrointestinal disorders: fundic gland polyps

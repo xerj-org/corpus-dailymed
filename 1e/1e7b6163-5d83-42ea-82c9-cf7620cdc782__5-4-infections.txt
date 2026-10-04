@@ -1,0 +1,7 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 5.4 Infections
+
+IMDELLTRA can cause serious infections, including life-threatening and fatal infections.
+
+                           In the pooled safety population [see Adverse Reactions (6.1)], infections including opportunistic infections occurred in 43% of patients who received IMDELLTRA, including 14% Grade 3 or 4. The most frequent infections were pneumonia (11%), urinary tract infection (9%), COVID-19 (6%), upper respiratory tract infection (4.7%), respiratory tract infection (4%), candida infection (2.1%), oral candidiasis (2.1%) and nasopharyngitis (2.1%).
+
+                        Monitor patients for signs and symptoms of infection prior to and during treatment with IMDELLTRA and treat as clinically indicated. Withhold or permanently discontinue IMDELLTRA based on severity [see Dosage and Administration (2.5)].

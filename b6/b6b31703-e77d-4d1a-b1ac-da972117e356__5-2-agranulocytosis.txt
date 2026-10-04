@@ -1,0 +1,7 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 5.2 Agranulocytosis
+
+In premarketing clinical trials, 2 (1 with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm
+
+  3with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm
+
+  3without any associated symptoms). For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively. All 3 patients recovered after mirtazapine tablets was stopped. If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low white blood cell (WBC) count, treatment with mirtazapine tablets should be discontinued and the patient should be closely monitored.

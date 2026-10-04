@@ -1,0 +1,3 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 8.7 Hepatic Impairment
+
+The safety and efficacy of ganciclovir have not been studied in patients with hepatic impairment.

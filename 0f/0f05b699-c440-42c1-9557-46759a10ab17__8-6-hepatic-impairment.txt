@@ -1,0 +1,7 @@
+DailyMed 0f05b699-c440-42c1-9557-46759a10ab17 | fulvestrant | 8.6 Hepatic Impairment
+
+Fulvestrant is metabolized primarily in the liver.
+
+                        The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n=7 subjects/group), using a shorter-acting intramuscular injection formulation. Subjects with mild hepatic impairment (Child-Pugh class A) had comparable mean AUC and clearance values to those with normal hepatic function. In subjects with moderate hepatic impairment (Child-Pugh class B), the average AUC of fulvestrant increased by 70% compared to patients with normal hepatic function. AUC was positively correlated with total bilirubin concentration (p=0.012). Fulvestrant injection has not been studied in patients with severe hepatic impairment (Child-Pugh class C).
+
+                        A dose of fulvestrant 250 mg is recommended in patients with moderate hepatic impairment (Child-Pugh class B) [see Dosage and Administration (2.2) and Warnings and Precautions (5.2)].

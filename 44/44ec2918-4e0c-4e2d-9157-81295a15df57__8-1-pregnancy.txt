@@ -1,0 +1,55 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to pregabalin during pregnancy. To provide information regarding the effects of
+
+  in uteroexposure to pregabalin, physicians are advised to recommend that pregnant patients taking pregabalin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry. This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+
+  Information on the registry can also be found at the website
+
+  http://www.aedpregnancyregistry.org/
+                           .
+
+                           Risk Summary
+
+                        Observational studies on the use of pregabalin during pregnancy suggest a possible small increase in the rate of overall major birth defects, but there was no consistent or specific pattern of major birth defects identified
+
+  (see Data). Available postmarketing data on miscarriage and other maternal, fetal, and long term developmental adverse effects were insufficient to identify risk associated with pregabalin.
+
+                        Postmarketing data suggest that extended gabapentinoid use with opioids close to delivery may increase the risk of neonatal withdrawal versus opioids alone (see Clinical Considerations).There are no comparative epidemiologic studies evaluating this association. Therefore, it is not known whether exposure to pregabalin alone late in pregnancy may cause withdrawal signs and symptoms.
+
+                        In animal reproduction studies, increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity, including skeletal malformations, retarded ossification, and decreased fetal body weight were observed in the offspring of rats and rabbits given pregabalin orally during organogenesis, at doses that produced plasma pregabalin exposures (AUC) greater than or equal to 16 times human exposure at the maximum recommended dose (MRD) of 600 mg/day
+
+  (
+                           see Data). In an animal development study, lethality, growth retardation, and nervous and reproductive system functional impairment were observed in the offspring of rats given pregabalin during gestation and lactation. The no-effect dose for developmental toxicity was approximately twice the human exposure at MRD.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population , the estimated background risk of major birth defects and miscarriage in  clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Fetal/Neonatal Adverse Reactions
+
+                        Neonatal withdrawal syndrome has been reported in newborns exposed to gabapentinoids in utero for an extended period of time when also exposed to opioids close to delivery. Neonatal withdrawal signs and symptoms reported have included tachypnea, vomiting, diarrhea, hypertonia, irritability, sneezing, poor feeding, hyperactivity, abnormal sleep pattern, and tremor. Reported signs and symptoms that may also be related to withdrawal include tongue thrusting, wandering eye movements while awake, back arching, and continuous extremity movements. Observe neonates exposed to pregabalin and opioids for signs and symptoms of neonatal withdrawal and manage accordingly.
+
+                           Data
+
+                           Human Data
+
+  One database study, which included over 2,700 pregnancies exposed to pregabalin (monotherapy) during the first trimester compared to 3,063,251 pregnancies unexposed to antiepileptics demonstrated prevalence ratios for major malformations overall of 1.14 (CI 95% 0.96 - 1.35) for pregabalin, 1.29 (CI 95% 1.01 -1.65) for lamotrigine, 1.39 (CI 95% 1.07 -1.82) for duloxetine, and 1.24 (CI 95% 1.00 -1.54) for exposure to either lamotrigine or duloxetine. Important study limitations include uncertainty of whether women who filled a prescription took the medication and inability to adequately control for the underlying disease and other potential confounders.
+
+  A published study included results from two separate databases. One database, which included 353 pregnancies exposed to pregabalin (monotherapy) during the first trimester compared to 368,489 pregnancies unexposed to antiepileptics, showed no increase in risk of major birth defects; adjusted relative risk 0.87 (CI 95% 0.53 -1.42). The second database, which included 118 pregnancies exposed to pregabalin (monotherapy) during the first trimester compared to 380,347 pregnancies unexposed to antiepileptics, suggested a small increase in risk of major birth defects; adjusted relative risk 1.26 (CI 95% 0.64 -2.49). The risk estimates crossed the null, and the study had limitations similar to the prior study.
+
+  Other published epidemiologic studies reported inconsistent findings. No specific pattern of birth defects was identified across studies. All of the studies had limitations due to their retrospective design.
+
+                           Animal Data
+
+                        When pregnant rats were given pregabalin (500, 1,250, or 2,500 mg/kg) orally throughout the period of organogenesis, incidences of specific skull alterations attributed to abnormally advanced ossification (premature fusion of the jugal and nasal sutures) were increased at greater than or equal to 1,250 mg/kg, and incidences of skeletal variations and retarded ossification were increased at all doses. Fetal body weights were decreased at the highest dose. The low dose in this study was associated with a plasma exposure (AUC) approximately 17 times human exposure at the MRD of 600 mg/day. A no-effect dose for rat embryo-fetal developmental toxicity was not established.
+
+                        When pregnant rabbits were given pregabalin (250, 500, or 1,250 mg/kg) orally throughout the period of organogenesis, decreased fetal body weight and increased incidences of skeletal malformations, visceral variations, and retarded ossification were observed at the highest dose. The no-effect dose for developmental toxicity in rabbits (500 mg/kg) was associated with a plasma exposure approximately 16 times human exposure at the MRD.
+
+                        In a study in which female rats were dosed with pregabalin (50, 100, 250, 1,250, or 2,500 mg/kg) throughout gestation and lactation, offspring growth was reduced at greater than or equal to 100 mg/kg and offspring survival was decreased at greater than or equal to 250 mg/kg. The effect on offspring survival was pronounced at doses greater than or equal to 1,250 mg/kg, with 100% mortality in high-dose litters. When offspring were tested as adults, neurobehavioral abnormalities (decreased auditory startle responding) were observed at greater than or equal to 250 mg/kg and reproductive impairment (decreased fertility and litter size) was seen at 1,250 mg/kg. The no-effect dose for pre-and postnatal developmental toxicity in rats (50 mg/kg) produced a plasma exposure approximately 2 times human exposure at the MRD.
+
+                        In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC
+
+  (0–24)of 123 mcg∙hr/mL) at the MRD.

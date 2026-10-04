@@ -1,0 +1,5 @@
+DailyMed 5b224d7f-fecb-4531-9d27-008347777c9d | MYCOPHENOLIC ACID | 7.9 Acyclovir (Valacyclovir), Ganciclovir (Valganciclovir), and Other Drugs That Undergo Renal Tubular Secretion
+
+The coadministration of MMF and acyclovir or ganciclovir may increase plasma concentrations of mycophenolic acid glucuronide (MPAG) and acyclovir/valacyclovir/ganciclovir/valganciclovir as their coexistence competes for tubular secretion. Both acyclovir/valacyclovir/ganciclovir/valganciclovir and MPAG concentrations will be also increased in the presence of renal impairment.
+
+                        Acyclovir/valacyclovir/ganciclovir/valganciclovir may be taken with mycophenolic acid delayed-release tablets; however, during the period of treatment, physicians should monitor blood cell counts [see Clinical Pharmacology (12.3)].

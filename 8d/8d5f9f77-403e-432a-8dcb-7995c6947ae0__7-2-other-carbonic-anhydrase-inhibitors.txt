@@ -1,0 +1,3 @@
+DailyMed 8d5f9f77-403e-432a-8dcb-7995c6947ae0 | Topiramate | 7.2 Other Carbonic Anhydrase Inhibitors
+
+Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide or acetazolamide) may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation. Patients should be monitored for the appearance or worsening of metabolic acidosis when topiramate extended-release capsules are given concomitantly with another carbonic anhydrase inhibitor [see Clinical Pharmacology (12.3)].

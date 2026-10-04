@@ -1,0 +1,55 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 2.5 Recommended Dosage in Adult Patients with Renal Impairment
+
+For patients with impairment of renal function, refer to Table 1 for recommended doses of ganciclovir for induction and maintenance dosage for treatment of CMV retinitis and prevention of CMV disease in transplant recipients. Carefully monitor serum creatinine or creatinine clearance before and during treatment to allow for dosage adjustments in patients with impaired renal function.
+
+                           Table 1. Recommended Induction and Maintenance Dosage for Adult Patients with Renal Impairment
+
+                                 Creatinine ClearanceCreatinine clearance can be related to serum creatinine by the formulas given below.
+
+  (mL/min) |
+
+                                    Ganciclovir Induction Dose
+
+                                    (mg/kg)
+
+                                  |
+                                 Dosing Interval (hours) for Induction |
+                                 Ganciclovir Maintenance Dose (mg/kg) |
+                                 Dosing Interval (hours) for Maintenance |
+
+                                 Greater than or equal to 70 |
+                                 5 |
+                                 12 |
+                                 5 |
+                                 24 |
+
+                                 50 to 69 |
+                                 2.5 |
+                                 12 |
+                                 2.5 |
+                                 24 |
+
+                                 25 to 49 |
+                                 2.5 |
+                                 24  |
+                                 1.25 |
+                                 24 |
+
+                                 10 to 24 |
+                                 1.25 |
+                                 24 |
+                                 0.625 |
+                                 24  |
+
+                                 Less than 10 |
+                                 1.25 |
+                                 3 times per week, following hemodialysis |
+                                 0.625 |
+                                 3 times per week, following hemodialysis |
+
+                                 Creatinine clearance for males = |
+                                 (140 - age [yrs]) (body wt [kg]) |
+
+                                 (72) (serum creatinine [mg/dL]) |
+
+                        Creatinine clearance for females = 0.85 × male value

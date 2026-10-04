@@ -1,0 +1,81 @@
+DailyMed bf372f42-cfc9-4fcf-8226-3936ba8833d7 | BRIVARACETAM | 14 CLINICAL STUDIES
+
+The effectiveness of brivaracetam in partial-onset seizures with or without secondary generalization was established in 3 fixed dose, randomized, double-blind, placebo-controlled, multicenter studies (Studies 1, 2, and 3), which included 1,550 patients. Patients enrolled had partial-onset seizures that were not adequately controlled with 1 to 2 concomitant antiepileptic drugs (AEDs). In each of these studies, 72% to 86% of patients were taking 2 or more concomitant AEDs with or without vagal nerve stimulation. The median baseline seizure frequency across the 3 studies was 9 seizures per 28 days. Patients had a mean duration of epilepsy of approximately 23 years.
+
+                  All trials had an 8-week baseline period, during which patients were required to have at least 8 partial-onset seizures. The baseline period was followed by a 12-week treatment period. There was no titration period in these studies. Study 1 compared doses of brivaracetam 50 mg/day and 100 mg/day with placebo. Study 2 compared a dose of brivaracetam 50 mg/day with placebo. Study 3 compared doses of brivaracetam 100 mg/day and 200 mg/day with placebo. Brivaracetam was administered in equally divided twice daily doses. Upon termination of brivaracetam treatment, patients were down-titrated over a 1-, 2-, and 4-week duration for patients receiving 25, 50, and 100 mg twice daily brivaracetam, respectively.
+
+                  The primary efficacy outcome in Study 1 and Study 2 was the percent reduction in 7-day partial-onset seizure frequency over placebo, while the primary outcome for Study 3 was the percent reduction in 28-day partial-onset seizure frequency over placebo. The criteria for statistical significance for all 3 studies was p<0.05. Table 6 presents the primary efficacy outcome of the percent change in seizure frequency over placebo, based upon each study’s protocol-defined 7- and 28-day seizure frequency efficacy outcome. 
+
+                     Table 6: Percent Reduction in Partial-Onset Seizure Frequency over Placebo (Studies 1, 2, and 3)
+
+                            |
+                           Percent Reduction Over Placebo
+
+(%) |
+
+                           *Statistically significant based on testing procedure with alpha = 0.05 aBased upon 7-day seizure frequency bBased upon 28-day seizure frequency |
+
+                                 STUDY 1a
+
+                            |
+                            |
+
+                              Placebo
+
+   (n=100) |
+                           ------- |
+
+                              50 mg/day
+
+   (n=99) |
+                           9.5 |
+
+                              100 mg/day
+
+   (n=100) |
+                           17.0 |
+
+                                 STUDY 2a
+
+                            |
+                            |
+
+                              Placebo
+
+   (n=96) |
+                           ------- |
+
+                              50 mg/day
+
+   (n=101) |
+                           16.9* |
+
+                                 STUDY 3b
+
+                            |
+                            |
+
+                              Placebo
+
+   (n=259) |
+                           ------- |
+
+                              100 mg/day
+
+   (n=252) |
+                           25.2* |
+
+                              200 mg/day
+
+   (n= 249) |
+                           25.7* |
+
+                     Figure 1 presents the percentage of patients by category of reduction from baseline in partial-onset seizure frequency per 28 days for all pooled patients in the 3 pivotal studies. Patients in whom the seizure frequency increased are shown at left as “worse.” Patients with an improvement in percent reduction from baseline partial-onset seizure frequency are shown in the 4 right-most categories.
+
+                     Figure 1: Proportion of Patients by Category of Seizure Response for Brivaracetam and Placebo Across all Three Double-Blind Trials
+
+                     Treatment with Levetiracetam
+
+                  In Studies 1 and 2, which evaluated brivaracetam tablets dosages of 50 mg and 100 mg daily, approximately 20% of the patients were on concomitant levetiracetam. Although the numbers of patients were limited, brivaracetam provided no added benefit when it was added to levetiracetam.
+
+                  Although patients on concomitant levetiracetam were excluded from Study 3, which evaluated 100 and 200 mg daily, approximately 54% of patients in this study had prior exposure to levetiracetam.

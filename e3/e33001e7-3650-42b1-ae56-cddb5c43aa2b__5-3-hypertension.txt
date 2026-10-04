@@ -1,0 +1,5 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 5.3 Hypertension
+
+Hypertension occurred in 98 of 556 (18%) patients receiving SCEMBLIX, with Grade 3 or 4 hypertension reported in 53 (10%) and 1 (0.2%) patients, respectively. Among the patients with Grade 3 or 4 hypertension, median time to first occurrence was 45 weeks (range, 0.1 to 365 weeks). SCEMBLIX was temporarily withheld in 5 (0.9%) patients due to hypertension [see Adverse Reactions (6.1)].
+
+                        Monitor and manage hypertension using standard antihypertensive therapy during treatment with SCEMBLIX as clinically indicated; for Grade 3 or higher hypertension, temporarily withhold, reduce dose, or permanently discontinue SCEMBLIX depending on persistence of hypertension [see Dosage and Administration (2.4)].

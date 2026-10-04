@@ -1,0 +1,3 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 12.3 Pharmacokinetics
+
+Celecoxib exhibits dose-proportional increase in exposure after oral administration up to 200 mg twice daily and less than proportional increase at higher doses. It has extensive distribution and high protein binding. It is primarily metabolized by CYP2C9 with a half-life of approximately 11 hours.

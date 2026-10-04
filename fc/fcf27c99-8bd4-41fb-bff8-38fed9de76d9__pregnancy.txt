@@ -1,0 +1,4 @@
+DailyMed fcf27c99-8bd4-41fb-bff8-38fed9de76d9 | RANITIDINE | Pregnancy:
+
+Teratogenic Effects:
+                           Reproduction studies have been performed in rats and rabbits at doses upto 160 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to Ranitidine Tablets. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

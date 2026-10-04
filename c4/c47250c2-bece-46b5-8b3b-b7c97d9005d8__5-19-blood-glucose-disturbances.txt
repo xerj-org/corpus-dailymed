@@ -1,0 +1,5 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.19 Blood Glucose Disturbances
+
+Fluoroquinolones, including ciprofloxacin, have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, glyburide) or with insulin. In these patients, careful monitoring of blood glucose is recommended.
+
+                        Severe cases of hypoglycemia resulting in coma or death have been reported. If a hypoglycemic reaction occurs in a patient being treated with ciprofloxacin, discontinue ciprofloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7)].

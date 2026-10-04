@@ -1,0 +1,288 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                           Hypertension
+
+                        Ramipril has been evaluated for safety in over 4000 patients with hypertension; of these, 1230 patients were studied in U.S. controlled trials, and 1107 were studied in foreign controlled trials. Almost 700 of these patients were treated for at least one year. The overall incidence of reported adverse events was similar in ramipril and placebo patients. The most frequent clinical side effects (possibly or probably related to study drug) reported by patients receiving ramipril in placebo-controlled trials were: headache (5.4%), dizziness (2.2%), and fatigue or asthenia (2%), but only the last one was more common in ramipril patients than in patients given placebo. Generally the side effects were mild and transient, and there was no relation to total dosage within the range of 1.25 mg to 20 mg. Discontinuation of therapy because of a side effect was required in approximately 3% of U.S. patients treated with ramipril. The most common reasons for discontinuation were: cough (1%), dizziness (0.5%), and impotence (0.4%).
+
+                        Of observed side effects considered possibly or probably related to study drug that occurred in U.S. placebo-controlled trials in more than 1% of patients treated with ramipril, only asthenia (fatigue) was more common on ramipril than placebo (2% [n=13/651] vs. 1% [n=2/286], respectively).
+
+                        In placebo-controlled trials, there was also an excess of upper respiratory infection and flu syndrome in the ramipril group, not attributed at that time to ramipril. As these studies were carried out before the relationship of cough to ACE inhibitors was recognized, some of these events may represent ramipril-induced cough. In a later 1-year study, increased cough was seen in almost 12% of ramipril patients, with about 4% of patients requiring discontinuation of treatment.
+
+                           Reduction in the Risk of Myocardial Infarction, Stroke, and Death from Cardiovascular Causes
+
+                              HOPE Study
+
+                        Safety data in the Heart Outcomes Prevention Evaluation (HOPE) study were collected as reasons for discontinuation or temporary interruption of treatment. The incidence of cough was similar to that seen in the Acute Infarction Ramipril Efficacy (AIRE) trial. The rate of angioedema was the same as in previous clinical trials
+
+  [see
+
+   Warnings and Precautions (5.1)].
+
+                           Table 1. Reasons for Discontinuation or Temporary Interruption of Treatment—HOPE Study
+
+                                  |
+
+                                    Placebo
+
+                                    (N=4652)
+
+                                  |
+
+                                    Ramipril
+
+                                    (N=4645)
+
+                                  |
+
+                                 Discontinuation at any time
+
+                                  |
+                                 32%
+
+                                  |
+                                 34%
+
+                                  |
+
+                                 Permanent discontinuation
+
+                                  |
+                                 28%
+
+                                  |
+                                 29%
+
+                                  |
+
+                                 Reasons for stopping
+
+                                  |
+                                  |
+
+                                 Cough
+
+                                  |
+                                 2%
+
+                                  |
+                                 7%
+
+                                  |
+
+                                 Hypotension or dizziness
+
+                                  |
+                                 1.5%
+
+                                  |
+                                 1.9%
+
+                                  |
+
+                                 Angioedema
+
+                                  |
+                                 0.1%
+
+                                  |
+                                 0.3%
+
+                                  |
+
+                           Heart Failure Post-Myocardial Infarction
+
+                              AIRE Study
+
+                            
+
+                        Adverse reactions (except laboratory abnormalities) considered possibly/probably related to study drug that occurred in more than 1% of patients and more frequently on ramipril are shown below. The incidences are from the AIRE study. The follow-up time was between 6 and 46 months for this study.
+
+                           Table 2. Percentage of Patients with Adverse Events Possibly/ Probably Related to Study Drug—Placebo-Controlled (AIRE) Mortality Study
+
+                                    Adverse Event
+
+                                  |
+
+                                    Placebo
+
+                                    (N=982)
+
+                                  |
+
+                                    Ramipril
+
+                                    (N=1004)
+
+                                  |
+
+                                 Hypotension
+
+                                  |
+                                 5%
+
+                                  |
+                                 11%
+
+                                  |
+
+                                 Cough increased
+
+                                  |
+                                 4%
+
+                                  |
+                                 8%
+
+                                  |
+
+                                 Dizziness
+
+                                  |
+                                 3%
+
+                                  |
+                                 4%
+
+                                  |
+
+                                 Angina pectoris
+
+                                  |
+                                 2%
+
+                                  |
+                                 3%
+
+                                  |
+
+                                 Nausea
+
+                                  |
+                                 1%
+
+                                  |
+                                 2%
+
+                                  |
+
+                                 Postural hypotension
+
+                                  |
+                                 1%
+
+                                  |
+                                 2%
+
+                                  |
+
+                                 Syncope
+
+                                  |
+                                 1%
+
+                                  |
+                                 2%
+
+                                  |
+
+                                 Vomiting
+
+                                  |
+                                 0.5%
+
+                                  |
+                                 2%
+
+                                  |
+
+                                 Vertigo
+
+                                  |
+                                 0.7%
+
+                                  |
+                                 2%
+
+                                  |
+
+                                 Abnormal kidney function
+
+                                  |
+                                 0.5%
+
+                                  |
+                                 1%
+
+                                  |
+
+                                 Diarrhea
+
+                                  |
+                                 0.4%
+
+                                  |
+                                 1%
+
+                                  |
+
+                           Other Adverse Reactions
+
+                        Other adverse reactions reported in controlled clinical trials (in less than 1% of ramipril patients), or rarer events seen in post-marketing experience, include the following (in some, a causal relationship to drug is uncertain):
+
+                              Body As a Whole:
+                           Anaphylactoid reactions
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .
+
+                              Cardiovascular:
+                           Symptomatic hypotension (reported in 0.5% of patients in U.S. trials)
+
+  [see
+
+   Warnings and Precautions (5.5)]
+
+  , syncope, and palpitations.
+
+                              Hematologic:
+                           Pancytopenia, hemolytic anemia, and thrombocytopenia.
+
+                        Decreases in hemoglobin or hematocrit (a low value and a decrease of 5 g/dL or 5%, respectively) were rare, occurring in 0.4% of patients receiving ramipril alone and in 1.5% of patients receiving ramipril plus a diuretic.
+
+                              Renal:
+                           Acute renal failure. Some hypertensive patients with no apparent pre-existing renal disease have developed minor, usually transient, increases in blood urea nitrogen and serum creatinine when taking ramipril, particularly when ramipril was given concomitantly with a diuretic
+
+  [see
+
+   Warnings and Precautions (5.3)]
+
+  .
+
+                              Angioneurotic Edema:
+                           Angioneurotic edema has been reported in 0.3% of patients in U.S. clinical trials of ramipril
+
+  [see
+
+   Warnings and Precautions (5.1)]
+
+  .
+
+                              Gastrointestinal:
+                           Hepatic failure, hepatitis, jaundice, pancreatitis, abdominal pain (sometimes with enzyme changes suggesting pancreatitis), anorexia, constipation, diarrhea, dry mouth, dyspepsia, dysphagia, gastroenteritis, increased salivation, and taste disturbance.
+
+                              Dermatologic:
+                           Apparent hypersensitivity reactions (manifested by urticaria, pruritus, or rash, with or without fever), photosensitivity, purpura, onycholysis, pemphigus, pemphigoid, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
+
+                              Neurologic and Psychiatric:
+                           Anxiety, amnesia, convulsions, depression, hearing loss, insomnia, nervousness, neuralgia, neuropathy, paresthesia, somnolence, tinnitus, tremor, vertigo, and vision disturbances.
+
+                              Miscellaneous:
+                           As with other ACE inhibitors, a symptom complex has been reported which may include a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia, fever, vasculitis, eosinophilia, photosensitivity, rash and other dermatologic manifestations. Additionally, as with other ACE inhibitors, eosinophilic pneumonitis has been reported.
+
+                              Other:
+                           Arthralgia, arthritis, dyspnea, edema, epistaxis, impotence, increased sweating, malaise, myalgia, and weight gain.

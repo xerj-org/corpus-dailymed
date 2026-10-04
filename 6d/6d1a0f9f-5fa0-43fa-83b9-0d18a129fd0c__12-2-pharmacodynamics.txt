@@ -1,0 +1,11 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 12.2 Pharmacodynamics
+
+Clinical experience with dopamine agonists, including ropinirole, suggests an association with impaired ability to regulate blood pressureresulting in orthostatic hypotension, especially during dose escalation. In some patients in clinical trials, blood pressure changes were associated with the emergence of orthostatic symptoms, bradycardia, and, in one case in a healthy volunteer, transient sinus arrest with syncope [see Warnings and Precautions (5.2, 5.3)].
+
+                        The mechanism of orthostatic hypotension induced by ropinirole is presumed to be due to a D2-mediated blunting of the noradrenergic response to standing and subsequent decrease in peripheral vascular resistance. Nausea is a common concomitant symptom of orthostatic signs and symptoms.
+
+                        At oral doses as low as 0.2 mg, ropinirole suppressed serum prolactin concentrations in healthy male volunteers.
+
+                        Ropinirole had no dose-related effect on electrocardiogram wave form and rhythm in young, healthy, male volunteers in the range of 0.01 to 2.5 mg.
+
+                        Ropinirole had no dose-or exposure-related effect on mean QT intervals in healthy male and female volunteers titrated to doses up to 4 mg/day. The effect of ropinirole on QTc intervals at higher exposures achieved either due to drug interactions, hepatic impairment, or at higher doses has not been systematically evaluated.

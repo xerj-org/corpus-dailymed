@@ -1,0 +1,71 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 2.2 Discontinuation of Treatment After a Sustained Molecular Response (MR4.5) on Nilotinib Capsules
+
+Patient Selection
+
+                           Eligibility for Discontinuation of Treatment
+
+                         
+
+                        Ph+ CML-CP patients with typical BCR-ABL transcripts, who have been taking Nilotinib Capsules for a minimum of 3 years and have achieved a sustained molecular response (MR4.5, corresponding to = BCR-ABL/ABL ≤ 0.0032% IS), may be eligible for treatment discontinuation [see Clinical Studies (
+
+                              14.3
+
+                           ,
+
+                              14.4
+
+                           )]. Information on FDA authorized tests for the detection and quantitation of BCR-ABL transcripts to determine eligibility for treatment discontinuation is available at http://www.fda.gov/CompanionDiagnostics.
+
+                         
+
+                        Patients with typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2), who achieve the sustained MR4.5 criteria, are eligible for discontinuation of Nilotinib Capsules. Patients must continue to be monitored for possible loss of molecular remission after treatment discontinuation. Use the same FDA-authorized test to consistently monitor molecular response levels while on and off treatment. 
+
+                         
+
+                        Consider discontinuation in patients with newly diagnosed Ph+ CML-CP who have: 
+
+                         
+
+                           been treated with Nilotinib Capsules for at least 3 years
+
+                           maintained a molecular response of at least MR4.0 (corresponding to = BCR-ABL/ABL ≤ 0.01% IS) for one year prior to discontinuation of therapy 
+
+                           achieved an MR4.5 for the last assessment taken immediately prior to discontinuation of therapy
+
+                           been confirmed to express the typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2)
+
+                           no history of accelerated phase or blast crisis
+
+                           no history of prior attempts of treatment-free remission discontinuation that resulted in relapse.
+
+                         
+
+                        Consider discontinuation in patients with Ph+ CML-CP that are resistant or intolerant to imatinib who have achieved a sustained molecular response (MR4.5) on Nilotinib Capsules who have: 
+
+                         
+
+                           been treated with Nilotinib Capsules for a minimum of 3 years 
+
+                           been treated with imatinib only prior to treatment with Nilotinib Capsules
+
+                           achieved a molecular response of MR4.5 (corresponding to = BCR-ABL/ABL ≤ 0.0032% IS)
+
+                           sustained an MR4.5 for a minimum of one year immediately prior to discontinuation of therapy 
+
+                           been confirmed to express the typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2)
+
+                           no history of accelerated phase or blast crisis
+
+                           no history of prior attempts of treatment-free remission discontinuation that resulted in relapse.
+
+                         
+
+                        Monitor BCR-ABL transcript levels and complete blood count (CBC) with differential in patients who have discontinued Nilotinib Capsules therapy monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter [see Warnings and Precautions (
+
+                              5.16
+
+                           )].
+
+                         
+
+                        Upon the loss of MR4.0 (corresponding to = BCR-ABL/ABL ≤ 0.01% IS) during the treatment-free phase, monitor BCR-ABL transcript levels every 2 weeks until BCR-ABL levels remain lower than major molecular response [(MMR), corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1% IS] for 4 consecutive measurements. The patient can then proceed to the original monitoring schedule.

@@ -1,0 +1,5 @@
+DailyMed c9bd730d-c06e-47ef-b003-4dde6336f8ae | Acetazolamide | Interference with Laboratory Tests
+
+Sulfonamides may give false negative or decreased values for urinary phenolsulfonphthalein and phenol red elimination values for urinary protein, serum non-protein and for serum uric acid. Acetazolamide may produce an increased level of crystals in the urine.
+
+                        Acetazolamide interferes with the HPLC method of assay for theophylline. Interference with the theophylline assay by acetazolamide depends on the solvent used in the extraction; acetazolamide may not interfere with other assay methods for theophylline.

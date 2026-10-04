@@ -1,0 +1,8 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 7.1 CYP2C19 Inducers
+
+Since clopidogrel is metabolized to its active metabolite partly by CYP2C19, use of drugs that induce the activity of this enzyme would be expected to result in increased drug levels of the active metabolite of clopidogrel.
+
+                        Rifampin strongly induces CYP2C19 resulting to both an increase level of clopidogrel active metabolite and platelet inhibition, which in particular might potentiate the risk of bleeding. As a precaution, avoid concomitant use of strong CYP2C19 inducers
+  [see
+   Warnings and Precautions (5.1) and
+   Clinical Pharmacology (12.3)].

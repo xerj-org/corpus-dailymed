@@ -1,0 +1,5 @@
+DailyMed 7a6967b3-5563-4bed-9eee-d400f800e799 | Clindamycin | Benzyl Alcohol Toxicity in Neonates (“Gasping Syndrome”)
+
+This product contains benzyl alcohol as a preservative. The administration of intravenous solutions containing the preservative benzyl alcohol has been associated with the “gasping syndrome”, and death in neonates. Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse. Although the normal therapeutic dose of this product delivers amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known and total daily benzyl alcohol exposure may be increased by concomitant medications.
+
+                        The risk of benzyl alcohol toxicity depends on the quantity administered and the liver and kidneys' capacity to detoxify the chemical. Premature and low birth weight infants may be more likely to develop toxicity.

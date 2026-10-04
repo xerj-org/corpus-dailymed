@@ -1,0 +1,5 @@
+DailyMed 5c52ea35-c2be-b462-e063-6294a90a19c1 | Trazodone Hydrochloride | 5.5 Increased Risk of Bleeding
+
+Drugs that interfere with serotonin reuptake inhibition, including trazodone, increase the risk of bleeding events. Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk. Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding. Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
+
+                        Inform patients about the risk of bleeding associated with the concomitant use of trazodone and antiplatelet agents or anticoagulants. For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing trazodone.

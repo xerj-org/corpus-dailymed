@@ -1,0 +1,9 @@
+DailyMed c0611fc0-b217-4988-acd4-b8c629ce489b | Imatinib Mesylate | 5.2 Hematologic Toxicity
+
+Treatment with imatinib mesylate is associated with anemia, neutropenia, and thrombocytopenia. Perform complete blood counts weekly for the first month, biweekly for the second month, and periodically thereafter as clinically indicated (for example, every 2 to 3 months). In CML, the occurrence of these cytopenias is dependent on the stage of disease and is more frequent in patients with accelerated phase CML or blast crisis than in patients with chronic phase CML. In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias, including neutropenia, thrombocytopenia, and anemia. These generally occur within the first several months of therapy
+
+  [see Dosage and Administration (
+
+   2.14)]
+
+  .

@@ -1,0 +1,32 @@
+DailyMed 5b0b19b1-4c3c-4ecb-8153-8c58ba29e5ee | METOPROLOL TARTRATE | 12.3 Pharmacokinetics
+
+Absorption:
+                           The estimated oral bioavailability of immediate release metoprolol is about 50% because of pre-systemic metabolism which is saturable leading to non-proportionate increase in the exposure with increased dose.
+
+                              Distribution:
+                           Metoprolol is extensively distributed with a reported volume of distribution of 3.2 to 5.6 L/kg. About 10% of metoprolol in plasma is bound to serum albumin. Metoprolol is known to cross the placenta and is found in breast milk. Metoprolol is also known to cross the blood brain barrier following oral administration and CSF concentrations close to that observed in plasma have been reported. Metoprolol is not a significant P-glycoprotein substrate.
+
+                              Elimination:
+                           Elimination of metoprolol tartrate is mainly by biotransformation in the liver. The mean elimination half-life of metoprolol is 3 to 4 hours; in poor CYP2D6 metabolizers the half-life may be 7 to 9 hours.
+
+                              Metabolism:
+                           Metoprolol tartrate is primarily metabolized by CYP2D6. Metoprolol is a racemic mixture of R-and S-enantiomers, and when administered orally, it exhibits stereoselective metabolism that is dependent on oxidation phenotype. CYP2D6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations. Poor CYP2D6 metabolizers exhibit several­fold higher plasma concentrations of metoprolol tartrate than extensive metabolizers with normal CYP2D6 activity thereby decreasing metoprolol tartrate’s cardioselectivity.
+
+                                 Excretion
+
+                        Approximately 95% of the dose can be recovered in urine. In most subjects (extensive metabolizers), less than 5% of an oral dose and less than 10% of an intravenous dose are excreted as unchanged drug in the urine. In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta-blocking activity. The renal clearance of the stereo-isomers does not exhibit stereo-selectivity in renal excretion.
+
+                              Specific populations
+
+                              Geriatric patients:
+                           The geriatric population may show slightly higher plasma concentrations of metoprolol as a combined result of a decreased metabolism of the drug in elderly population and a decreased hepatic blood flow. However, this increase is not clinically significant or therapeutically relevant.
+
+                              Renal impairment
+                           : The systemic availability and half-life of metoprolol tartrate in patients with renal failure do not differ to a clinically significant degree from those in normal subjects.
+
+                              Hepatic Impairment:
+                           Since the drug is primarily eliminated by hepatic metabolism, hepatic impairment may impact the pharmacokinetics of metoprolol.
+
+                        Drug Interactions
+
+                        Metoprolol is metabolized predominantly by CYP2D6. In healthy subjects with CYP2D6 extensive metabolizer phenotype, coadministration of quinidine 100 mg, a potent CYP2D6 inhibitor, and immediate-release metoprolol 200 mg tripled the concentration of S-metoprolol and doubled the metoprolol elimination half-life. In four patients with cardiovascular disease, coadministration of propafenone 150 mg t.i.d. with immediate-release metoprolol 50 mg t.i.d. increased the steady-state metoprolol concentration 2-to 5-fold compared to metoprolol alone. Extensive metabolizers who concomitantly use CYP2D6 inhibiting drugs will have increased (several-fold) metoprolol blood levels, decreasing metoprolol's cardioselectivity [see Drug Interactions (7.2)].

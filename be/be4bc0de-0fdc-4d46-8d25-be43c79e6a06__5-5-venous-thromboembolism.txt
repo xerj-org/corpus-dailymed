@@ -1,0 +1,5 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 5.5 Venous Thromboembolism
+
+Across four clinical trials in 3767 patients (monarchE, MONARCH 2, MONARCH 3, EMBER-3), venous thromboembolic (VTE) events occurred in 2% to 5% of patients treated with VERZENIO. VTE events included deep vein thrombosis, pulmonary embolism, pelvic venous thrombosis, cerebral venous sinus thrombosis, subclavian and axillary vein thrombosis, inferior vena cava thrombosis, jugular vein thrombosis, peripheral vein thrombosis and superficial vein thrombosis. In clinical trials, deaths due to VTE occurred in patients treated with VERZENIO.
+
+                        VERZENIO has not been studied in patients with early breast cancer who had a history of VTE. Monitor patients for signs and symptoms of venous thrombosis and pulmonary embolism and treat as medically appropriate. Dose interruption is recommended for early breast cancer patients with any grade VTE event and for advanced or metastatic breast cancer patients with a Grade 3 or 4 VTE event [see Dosage and Administration (2.2)].

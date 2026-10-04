@@ -1,0 +1,5 @@
+DailyMed ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e | PAXIL | 8.7 Hepatic Impairment
+
+Compared to those without hepatic impairment (HI), paroxetine plasma concentrations in patients with severe hepatic impairment (HI) were increased, which may increase the risk of paroxetine-associated adverse reactions.
+
+                        The recommended starting and maximum dosage of PAXIL is lower in patients with severe HI compared to those without HI [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].  The recommended dosage in patients with mild or moderate HI is the same as in those without HI.

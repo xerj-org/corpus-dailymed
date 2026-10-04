@@ -1,0 +1,7 @@
+DailyMed 5ca5b043-533e-2d1a-e063-6294a90a8d4a | Lacosamide | 8.7 Hepatic Impairment
+
+For adult and pediatric patients with mild to moderate hepatic impairment, a reduction of 25% of the maximum dosage is recommended. Patients with mild to moderate hepatic impairment should be observed closely for adverse reactions, and dose initiation and titration should be based on clinical response and tolerability [
+
+  see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+
+  The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment. Lacosamide use is not recommended in patients with severe hepatic impairment.

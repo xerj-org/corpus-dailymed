@@ -1,0 +1,15 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 6.2 Post-Marketing Experience
+
+The following additional adverse reactions have been identified during the post-approval use of Ertapenem for injection. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Gastrointestinal Disorders:teeth staining
+
+                           Immune System Disorders:anaphylaxis including anaphylactoid reactions
+
+                           Musculoskeletal and Connective Tissue Disorders:muscular weakness
+
+                           Nervous System Disorders:coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor, encephalopathy (recovery was prolonged in patients with renal impairment)
+
+                           Psychiatric Disorders:altered mental status (including aggression, delirium), hallucinations
+
+                           Skin and Subcutaneous Tissue Disorders:Acute Generalized Exanthematous Pustulosis (AGEP), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome), hypersensitivity vasculitis

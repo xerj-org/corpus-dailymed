@@ -1,0 +1,47 @@
+DailyMed ab73a6d8-2e33-4fdc-a896-6c68ab772da6 | Bisoprolol Fumarate and Hydrochlorothiazide | WARNINGS
+
+Cardiac Failure
+
+                  In general, beta-blocking agents should be avoided in patients with overt congestive failure. However, in some patients with compensated cardiac failure, it may be necessary to utilize these agents. In such situations, they must be used cautiously.
+
+                     Patients Without a History of Cardiac Failure
+
+                  Continued depression of the myocardium with beta-blockers can, in some patients, precipitate cardiac failure. At the first signs or symptoms of heart failure, discontinuation of bisoprolol fumarate and hydrochlorothiazide tablets should be considered. In some cases bisoprolol fumarate and hydrochlorothiazide tablets therapy can be continued while heart failure is treated with other drugs.
+
+                     Abrupt Cessation of Therapy
+
+                  Exacerbations of angina pectoris and, in some instances, myocardial infarction or ventricular arrhythmia, have been observed in patients with coronary artery disease following abrupt cessation of therapy with beta-blockers. Such patients should, therefore, be cautioned against interruption or discontinuation of therapy without the physician’s advice. Even in patients without overt coronary artery disease, it may be advisable to taper therapy with bisoprolol fumarate and hydrochlorothiazide tablets over approximately 1 week with the patient under careful observation. If withdrawal symptoms occur, beta-blocking agent therapy should be reinstituted, at least temporarily.
+
+                     Peripheral Vascular Disease
+
+                  Beta-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients with peripheral vascular disease. Caution should be exercised in such individuals.
+
+                     Bronchospastic Disease
+
+                     PATIENTS WITH BRONCHOSPASTIC PULMONARY DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS. Because of the relative beta1-selectivity of bisoprolol fumarate, bisoprolol fumarate and hydrochlorothiazide tablets may be used with caution in patients with bronchospastic disease who do not respond to, or who cannot tolerate other antihypertensive treatment.
+
+                     Since beta1-selectivity is not absolute, the lowest possible dose of bisoprolol fumarate and hydrochlorothiazide tablets should be used. A beta2 agonist (bronchodilator) should be made available.
+
+                     Major Surgery
+
+                  Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+                     Hypoglycemia
+
+                  Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting). Beta-blockers may further increase the risk of severe hypoglycemia when used concurrently with sulfonylureas. Diabetic patients should be advised to carefully monitor blood glucose levels (see PRECAUTIONS - Drug Interactions). If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment. Also, latent diabetes mellitus may become manifest and diabetic patients given thiazides may require adjustment of their insulin dose.
+
+                     Thyrotoxicosis
+
+                  Beta-adrenergic blockade may mask clinical signs of hyperthyroidism, such as tachycardia. Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the symptoms of hyperthyroidism or may precipitate thyroid storm.
+
+                     Renal Disease
+
+                  Cumulative effects of the thiazides may develop in patients with impaired renal function. In such patients, thiazides may precipitate azotemia. In subjects with creatinine clearance less than 40 mL/min, the plasma half-life of bisoprolol fumarate is increased up to threefold, as compared to healthy subjects. If progressive renal impairment becomes apparent, bisoprolol fumarate and hydrochlorothiazide tablets should be discontinued (See Pharmacokinetics and Metabolism).
+
+                     Hepatic Disease
+
+                  Bisoprolol fumarate and hydrochlorothiazide tablets should be used with caution in patients with impaired hepatic function or progressive liver disease. Thiazides may alter fluid and electrolyte balance, which may precipitate hepatic coma. Also, elimination of bisoprolol fumarate is significantly slower in patients with cirrhosis than in healthy subjects (See Pharmacokinetics and Metabolism).
+
+                     Acute Angle-Closure Glaucoma with or without Acute Myopia and Choroidal Effusions
+
+                  Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute angle-closure glaucoma and elevated intraocular pressure with or without a noticeable acute myopic shift and/or choroidal effusions. Symptoms may include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated, the acute angle-closure glaucoma may result in permanent visual field loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.

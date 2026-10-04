@@ -1,0 +1,31 @@
+DailyMed 9dff10ec-6a55-47b6-a458-b7c39e32dc55 | Temozolomide | 8.3 Females and Males of Reproductive Potential
+
+Temozolomide can cause fetal harm when administered to a pregnant woman
+
+  [see Use in Specific Populations (8.1)].
+
+                           Pregnancy Testing
+
+                        Verify pregnancy status in females of reproductive potential prior to initiating Temozolomide
+
+  [see Use in Specific Populations (8.1)].
+
+                           Contraception
+
+                           Females
+
+                        Advise females of reproductive potential to use effective contraception during treatment with Temozolomide and for 6 months after the last dose.
+
+                           Males
+
+                        Because of the potential for embryofetal toxicity and genotoxic effects on sperm cells, advise male patients with pregnant partners or female partners of reproductive potential to use condoms during treatment with Temozolomide and for 3 months after the last dose
+
+  [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.1)].
+
+                        Advise male patients not to donate semen during treatment with Temozolomide and for 3 months after the last dose.
+
+                           Infertility
+
+                        Temozolomide may impair male fertility
+
+  [see Nonclinical Toxicology (13.1)].Limited data from male patients show changes in sperm parameters during treatment with Temozolomide; however, no information is available on the duration or reversibility of these changes.

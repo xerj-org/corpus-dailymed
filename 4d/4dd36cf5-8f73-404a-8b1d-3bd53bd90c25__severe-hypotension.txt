@@ -1,0 +1,3 @@
+DailyMed 4dd36cf5-8f73-404a-8b1d-3bd53bd90c25 | PERCOCET | Severe Hypotension
+
+PERCOCET may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients. There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see PRECAUTIONS; Drug Interactions]. Regularly evaluate these patients for signs of hypotension after initiating or titrating the dosage of PERCOCET. In patients with circulatory shock PERCOCET may cause vasodilatation that can further reduce cardiac output and blood pressure. Avoid the use of PERCOCET with circulatory shock.

@@ -1,0 +1,17 @@
+DailyMed 6006df06-0448-462d-b81e-7add50a6d71b | GuanfacineExtended-Release | 8.2 Lactation
+
+Risk Summary
+
+                        There are no data on the presence of guanfacine in human milk or the effects on the breastfed infant. The effects on milk production are also unknown. Guanfacine is present in the milk of lactating rats (see
+
+  Data). If a drug is present in animal milk, it is likely that the drug will be present in human milk. If an infant is exposed to guanfacine through breastmilk, monitor for symptoms of hypotension and bradycardia such as sedation, lethargy and poor feeding (see
+
+  Clinical Considerations). The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for guanfacine extended-release tablets and any potential adverse effects on the breastfed child from guanfacine extended-release tablets or from the underlying maternal condition.
+
+                           Clinical Considerations
+
+                        Monitor breastfeeding infants exposed to guanfacine through breastmilk for sedation, lethargy, and poor feeding.
+
+                           Data
+
+                        Guanfacine was excreted in breast milk of lactating rats at a concentration comparable to that observed in blood, but slightly less than the concentration in plasma when administered following a single oral dose of 5 mg/kg. The concentration of drug in animal milk does not necessarily predict the concentration of drug in human milk.

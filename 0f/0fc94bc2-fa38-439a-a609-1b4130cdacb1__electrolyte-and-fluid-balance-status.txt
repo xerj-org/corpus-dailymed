@@ -1,0 +1,9 @@
+DailyMed 0fc94bc2-fa38-439a-a609-1b4130cdacb1 | Hydrochlorothiazide | Electrolyte and Fluid Balance Status
+
+In published studies, clinically significant hypokalemia has been consistently less common in patients who received 12.5 mg of hydrochlorothiazide than in patients who received higher doses. Nevertheless, periodic determination of serum electrolytes should be performed in patients who may be at risk for the development of hypokalemia. Patients should be observed for signs of fluid or electrolyte disturbances, i.e., hyponatremia, hypochloremic alkalosis, and hypokalemia and hypomagnesemia.
+
+                        Warning signs or symptoms of fluid and electrolyte imbalance include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+
+                        Hypokalemia may develop, especially with brisk diuresis when severe cirrhosis is present, during concomitant use of corticosteroid or adrenocorticotropic hormone (ACTH) or after prolonged therapy. Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia and hypomagnesemia can provoke ventricular arrhythmias or sensitize or exaggerate the response of the heart to the toxic effects of digitalis. Hypokalemia may be avoided or treated by potassium supplementation or increased intake of potassium rich foods.
+
+                        Dilutional hyponatremia is life-threatening and may occur in edematous patients in hot weather; appropriate therapy is water restriction rather than salt administration, except in rare instances when the hyponatremia is life-threatening. In actual salt depletion, appropriate replacement is the therapy of choice.

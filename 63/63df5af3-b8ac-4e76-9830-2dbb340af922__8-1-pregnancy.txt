@@ -1,0 +1,29 @@
+DailyMed 63df5af3-b8ac-4e76-9830-2dbb340af922 | Tivicay PD; Tivicay | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to TIVICAY or TIVICAY PD during pregnancy. Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
+
+                           Risk Summary
+
+                        Data from two, ongoing birth outcome surveillance studies in Botswana and Eswatini which together include over 14,000 individuals evaluated during pregnancy show similar prevalence of neural tube defects among infants born to individuals taking dolutegravir at the time of conception compared to those born to individuals taking non-dolutegravir-containing regimens at conception or infants born to HIV-negative individuals. (see Data).
+
+                        There are insufficient human data on the use of dolutegravir during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage. However, available human data from the APR do not indicate an increased risk of birth defects (see Data). The background risk for major birth defects for the indicated population is unknown. In the U.S. general population, the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                        In animal reproduction studies, no evidence of adverse developmental outcomes (including neural tube defects) was observed with dolutegravir at systemic exposures (AUC) less than (rabbits) and approximately 27 times (rats) the exposure in humans at the maximum recommended human dose (MRHD) of TIVICAY (see Data).
+
+                           Data
+
+                           Human Data:
+
+                                       Observational studies: The first interim analysis from an ongoing birth outcome surveillance study in Botswana identified an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy. A subsequent analysis was conducted based on a larger cohort from the birth outcome surveillance study in Botswana and included over 9,460 individuals exposed to dolutegravir at conception, 23,664 individuals exposed to non-dolutegravir-containing regimens, and 170,723 HIV-negative pregnant individuals. The prevalence of neural tube defects in infants delivered to individuals taking dolutegravir at conception was 0.11% (95% CI: 0.05-0.19%). The observed prevalence rate did not differ significantly from that of infants delivered to individuals taking non-dolutegravir-containing regimens (0.11%, 95% CI: 0.07-0.16%), or to HIV-negative individuals (0.06%, 95% CI: 0.05-0.08%).
+
+                        The Eswatini birth outcome surveillance study includes 9,743 individuals exposed to dolutegravir at conception, 1,838 individuals exposed to non-dolutegravir-containing regimens, and 32,259 HIV-negative pregnant individuals. The prevalence of neural tube defects in infants delivered to individuals taking dolutegravir at conception was 0.08% (95% CI: 0.04-0.16%). The observed prevalence rate did not differ significantly from that of infants delivered to individuals taking non-dolutegravir-containing regimens (0.22%, 95% CI: 0.06-0.56%) or to HIV-negative individuals (0.08%, 95% CI: 0.06-0.12%). The observed prevalence of neural tube defects in infants delivered to individuals taking non-dolutegravir-containing regimens had a wide confidence interval due to low sample size.
+
+                        Limitations of these birth outcome surveillance studies include insufficient data to determine if baseline characteristics were balanced between the study groups or to assess other factors such as the use of folic acid during the preconception or first trimester periods.
+
+                                       Antiretroviral Pregnancy Registry: Based on prospective reports to the APR, of 1,377 exposures to dolutegravir during pregnancy resulting in live births (including 874 exposed in the first trimester), the prevalence of defects in live births was 3.3% (95% CI: 2.2% to 4.7%) following first-trimester exposure to dolutegravir-containing regimens and 5.0% (95% CI: 3.2% to 7.3%) following second-/third-trimester exposure to dolutegravir-containing regimens. In the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP), the background birth defect rate was 2.7%.
+
+                        Dolutegravir has been shown to cross the placenta. In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51 to 2.11) (n = 15).
+
+                           Animal Data: Dolutegravir was administered orally at up to 1,000 mg/kg daily to pregnant rats and rabbits on Gestation Days 6 to 17 and 6 to 18, respectively, and to rats on Gestation Day 6 to Lactation/Postpartum Day 20. No adverse effects on embryo-fetal (rats and rabbits) or pre/postnatal (rats) development were observed at up to the highest dose tested. During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the MRHD and in rats were approximately 27 times the exposure in humans at the MRHD. In the rat pre/postnatal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 27 times human exposure at the MRHD).

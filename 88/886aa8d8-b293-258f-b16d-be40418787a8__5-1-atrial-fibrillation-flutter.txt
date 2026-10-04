@@ -1,0 +1,3 @@
+DailyMed 886aa8d8-b293-258f-b16d-be40418787a8 | Icosapent Ethyl | 5.1 Atrial Fibrillation/Flutter
+
+Icosapent ethyl capsules are associated with an increased risk of atrial fibrillation or atrial flutter requiring hospitalization. In a double-blind, placebo-controlled trial of 8,179 subjects, adjudicated atrial fibrillation or atrial flutter requiring hospitalization for 24 or more hours occurred in 127 (3%) patients treated with icosapent ethyl capsules compared to 84 (2%) patients receiving placebo [HR=1.5 (95% CI 1.14, 1.98)]. The incidence of atrial fibrillation was greater in patients with a previous history of atrial fibrillation or atrial flutter.

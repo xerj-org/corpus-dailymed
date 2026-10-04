@@ -1,0 +1,7 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 7.7 Other Antiplatelet Agents
+
+Coadministration of antiplatelet agents increase the risk of bleeding due to an additive effect. Promptly evaluate any signs or symptoms of blood loss if patients are treated concomitantly with other antiplatelet agents
+
+  [see
+
+   Warnings and Precautions (5.2)].

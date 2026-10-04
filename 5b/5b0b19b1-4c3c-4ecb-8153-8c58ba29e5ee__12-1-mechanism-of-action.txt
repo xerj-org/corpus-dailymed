@@ -1,0 +1,13 @@
+DailyMed 5b0b19b1-4c3c-4ecb-8153-8c58ba29e5ee | METOPROLOL TARTRATE | 12.1 Mechanism of Action
+
+Metoprolol is a beta1-selective (cardioselective) adrenergic receptor blocking agent. This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.
+
+                        Metoprolol has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at plasma concentrations much greater than required for beta-blockade. Animal and human experiments indicate that metoprolol slows the sinus rate and decreases AV nodal conduction.
+
+                        The relative beta1-selectivity of metoprolol has been confirmed by the following: (1) In normal subjects, metoprolol is unable to reverse the beta2-mediated vasodilating effects of epinephrine. This contrasts with the effect of nonselective beta-blockers, which completely reverse the vasodilating effects of epinephrine. (2) In asthmatic patients, metoprolol reduces FEV1 and FVC significantly less than a nonselective beta-blocker, propranolol, at equivalent beta1-receptor blocking doses.
+
+                           Hypertension: The mechanism of the antihypertensive effects of beta-blocking agents has not been elucidated. However, several possible mechanisms have been proposed: (1) competitive antagonism of catecholamines at peripheral (especially cardiac) adrenergic neuron sites, leading to decreased cardiac output; (2) a central effect leading to reduced sympathetic outflow to the periphery; and (3) suppression of renin activity.
+
+                           Angina Pectoris: By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction, and in blood pressure, metoprolol reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris.
+
+                           Heart Failure: The precise mechanism for the beneficial effects of beta-blockers in heart failure has not been elucidated.

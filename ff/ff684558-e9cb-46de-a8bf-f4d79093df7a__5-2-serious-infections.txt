@@ -1,0 +1,3 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 5.2 Serious Infections
+
+BEQALZI can cause fatal or serious infections [see Adverse Reactions (6.1)]. Among patients who received BEQALZI at the recommended dosage in the clinical trial, serious infections occurred in 14% of patients and Grade 3 or higher infections in 17%, with fatal infections in 2.6% of patients. The most common Grade 3 or greater infection was pneumonia (10%). Monitor for signs and symptoms of infection and treat appropriately. Consider prophylactic antimicrobials and immunoglobulins according to guidelines. Withhold or dose reduce BEQALZI based on severity [see Dosage and Administration (2.3)].

@@ -1,0 +1,5 @@
+DailyMed b07b5ac4-253e-4c83-91c3-3fdc46e91a0f | AMOXICILLIN | 7.2 Oral Anticoagulants
+
+Abnormal prolongation of prothrombin time (increased international normalized ratio [INR]) has been reported in patients receiving amoxicillin and oral anticoagulants.
+
+  ​​​​​​​Appropriate monitoring should be undertaken when anticoagulants are prescribed concurrently. Adjustments in the dose of oral anticoagulants may be necessary to maintain the desired level of anticoagulation.

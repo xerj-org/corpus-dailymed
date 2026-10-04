@@ -1,0 +1,7 @@
+DailyMed 6e02229e-262c-4e25-9240-9e9de4eb7c1d | ONSWIK KwikPen | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Standard 2-year carcinogenicity studies in animals have not been performed to evaluate the carcinogenic potential of insulin efsitora alfa-gobe. Insulin efsitora alfa-gobe did not demonstrate higher mitogenic potential compared to human insulin as determined through in vitro assessments of receptor binding, receptor activation and cell-based functional assays. In addition, in rat and dog repeat-dose toxicity studies of up to 26 weeks duration, there were no proliferative tissue changes noted in any tissue including the mammary gland. The available nonclinical data do not indicate an increase in carcinogenic potential of insulin efsitora alfa-gobe compared to human insulin.
+
+                        Genotoxicity testing of insulin efsitora alfa-gobe was not performed.
+
+                        In a fertility study in male rats, subcutaneous injections up to 75 units/kg/week insulin efsitora alfa-gobe (up to 0.5-fold the MRHD, based on AUC) prior to and through the mating had no effect on mating performance and fertility at clinically relevant exposures at the MRHD. Similarly, mating and fertility were not adversely affected in female rats given subcutaneous doses up to 75 units/kg/week insulin efsitora alfa-gobe (up to 0.4-fold the MRHD) prior to mating through early gestation at clinically relevant exposures at the MRHD.

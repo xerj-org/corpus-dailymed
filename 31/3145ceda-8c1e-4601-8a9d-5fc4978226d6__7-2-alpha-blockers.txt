@@ -1,0 +1,11 @@
+DailyMed 3145ceda-8c1e-4601-8a9d-5fc4978226d6 | Sildenafil | 7.2 Alpha-blockers
+
+Use caution when co-administering alpha-blockers with sildenafil tablets because of potential additive blood pressure-lowering effects. When sildenafil tablets are co-administered with an alpha-blocker, patients should be stable on alpha-blocker therapy prior to initiating sildenafil tablets treatment and sildenafil tablets should be initiated at the lowest dose
+
+  [see Dosage and Administration 
+
+   (2.3),Warnings and Precautions 
+
+   (5.5),Clinical Pharmacology
+
+   (12.2)].

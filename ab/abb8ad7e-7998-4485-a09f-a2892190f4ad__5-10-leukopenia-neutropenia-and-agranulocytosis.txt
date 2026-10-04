@@ -1,0 +1,7 @@
+DailyMed abb8ad7e-7998-4485-a09f-a2892190f4ad | ARIPIPRAZOLE | 5.10 Leukopenia, Neutropenia, and Agranulocytosis
+
+In clinical trials and/or postmarketing experience, events of leukopenia and neutropenia have been reported temporally related to antipsychotic agents, including aripiprazole. Agranulocytosis has also been reported.
+
+                        Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC)/absolute neutrophil count (ANC) and history of drug-induced leukopenia/neutropenia. In patients with a history of a clinically significant low WBC/ANC or drug-induced leukopenia/neutropenia, perform a complete blood count (CBC) frequently during the first few months of therapy. In such patients, consider discontinuation of aripiprazole at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+
+                        Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur. Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count <1,000/mm3) and follow their WBC counts until recovery.

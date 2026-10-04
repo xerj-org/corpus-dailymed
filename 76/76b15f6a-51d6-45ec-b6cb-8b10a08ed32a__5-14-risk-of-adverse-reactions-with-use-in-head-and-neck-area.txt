@@ -1,0 +1,7 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 5.14 Risk of Adverse Reactions with Use in Head and Neck Area
+
+Small doses of local anesthetics (e.g., Bupivacaine Hydrochloride Injection) injected into the head and neck area, including retrobulbar, dental, and stellate ganglion blocks, may produce adverse reactions similar to systemic toxicity seen with unintentional intravascular injections of larger doses. The injection procedures require the utmost care. Confusion, convulsions, respiratory depression, and/or respiratory arrest, and cardiovascular stimulation or depression have been reported. These reactions may be due to intra-arterial injection of the local anesthetic with retrograde flow to the cerebral circulation. They may also be due to puncture of the dural sheath of the optic nerve during retrobulbar block with diffusion of any local anesthetic along the subdural space to the midbrain. Monitor circulation and respiration and constantly observe patients receiving Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection blocks. Resuscitative equipment and drugs, and personnel for treating adverse reactions should be immediately available. Dosage recommendations should not be exceeded
+
+  [see
+
+   Dosage and Administration (2.2)].

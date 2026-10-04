@@ -1,0 +1,138 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | Pharmacokinetics in Renal Transplant Patients
+
+The mean pharmacokinetic parameters for MPA following the administration of mycophenolic acid delayed release in renal transplant patients on cyclosporine, USP MODIFIED based immunosuppression are shown in Table 6. Single-dose mycophenolic acid delayed release pharmacokinetics predicts multiple-dose pharmacokinetics. However, in the early post-transplant period, mean MPA AUC and C
+
+  maxwere approximately one-half of those measured 6 months post-transplant.
+
+                              After near equimolar dosing of mycophenolic acid delayed release 720 mg twice daily and MMF 1,000 mg twice daily (739 mg as MPA) in both the single- and multiple-dose crossover trials, mean systemic MPA exposure (AUC) was similar.
+
+                                 Table 6 Mean ± SD Pharmacokinetic Parameters for MPA Following the Oral Administration of Mycophenolic Acid Delayed Release to Renal Transplant Patients on Cyclosporine, USP MODIFIED Based Immunosuppression
+
+                                          amedian (range).
+
+                                          bAUC
+
+     inf.
+
+                                          cage range of 5 to 16 years.
+
+     |
+
+                                          Patient
+                                        |
+
+                                          Mycophenolic Acid Delayed Release
+                                           dosing
+                                        |
+
+                                          N
+                                        |
+
+                                          Dose (mg)
+                                        |
+
+                                          T
+
+                                             max
+
+                                             a(h)
+
+                                        |
+
+                                          C
+
+                                             max
+
+                                          (mcg/mL)
+                                        |
+
+                                          AUC
+
+                                             (0
+                                          to
+
+                                             12h)
+
+                                          (mcg*h/mL)
+                                        |
+
+                                       Adult |
+                                       Single |
+                                       24 |
+                                       720 |
+                                       2 (0.8 to 8) |
+                                       26.1 ± 12.0 |
+                                       66.5 ± 22.6
+
+     b
+                                        |
+
+                                       Pediatric
+
+     c
+                                        |
+                                       Single |
+                                       10 |
+                                       450 /m2 |
+                                       2.5 (1.5 to 24) |
+                                       36.3 ± 20.9 |
+                                       74.3 ± 22.5
+
+     b
+                                        |
+
+                                       Adult |
+                                       Multiple x 6 days, twice daily |
+                                       10 |
+                                       720 |
+                                       2 (1.5 to 3.0) |
+                                       37.0 ± 13.3 |
+                                       67.9 ± 20.3 |
+
+                                       Adult |
+                                       Multiple x 28 days, twice daily |
+                                       36 |
+                                       720 |
+                                       2.5 (1.5 to 8) |
+                                       31.2 ± 18.1 |
+                                       71.2 ± 26.3 |
+
+                                       Adult |
+                                       Chronic, multiple dose, twice daily |
+                                        |
+                                        |
+                                        |
+                                        |
+                                        |
+
+                                        |
+                                       2 weeks post-transplant |
+                                       12 |
+                                       720 |
+                                       1.8 (1.0 to 5.3) |
+                                       15.0 ± 10.7 |
+                                       28.6 ± 11.5 |
+
+                                        |
+                                       3 months post-transplant |
+                                       12 |
+                                       720 |
+                                       2 (0.5 to 2.5) |
+                                       26.2 ± 12.7 |
+                                       52.3 ± 17.4 |
+
+                                        |
+                                       6 months post-transplant |
+                                       12 |
+                                       720 |
+                                       2 (0 to 3) |
+                                       24.1 ± 9.6 |
+                                       57.2 ± 15.3 |
+
+                                       Adult |
+                                       Chronic, multiple-dose, twice daily |
+                                       18 |
+                                       720 |
+                                       1.5 (0 to 6) |
+                                       18.9 ± 7.9 |
+                                       57.4 ± 15.0 |

@@ -1,0 +1,9 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 5.10 Hypoglycemia
+
+Hydroxychloroquine sulfate tablets can cause severe and potentially life-threatening hypoglycemia, in the presence or absence of antidiabetic agents
+
+  [see
+
+   Drug Interactions (7)].
+
+    Measure blood glucose in patients presenting with clinical symptoms suggestive of hypoglycemia and as adjust the antidiabetic treatment as necessary. Warn hydroxychloroquine sulfate tablets-treated patients about the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia; diabetic patients should monitor their blood sugar levels. Advise patients to seek medical attention if they develop any signs and symptoms of hypoglycemia.

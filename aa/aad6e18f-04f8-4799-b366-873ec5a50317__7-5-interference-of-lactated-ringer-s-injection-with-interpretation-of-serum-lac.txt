@@ -1,0 +1,3 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 7.5 Interference of Lactated Ringer’s Injection with Interpretation of Serum Lactate Levels in Patients with Severe Metabolic Acidosis
+
+Because administration of Lactated Ringer’s Injection may interfere with the interpretation of serum lactate levels in patients with severe metabolic acidosis, assessment of the patient’s clinical status should not solely rely on the measurement of serum lactate.

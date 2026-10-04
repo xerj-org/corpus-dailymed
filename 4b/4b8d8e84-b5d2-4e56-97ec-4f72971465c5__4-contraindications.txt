@@ -1,0 +1,3 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 4. CONTRAINDICATIONS
+
+QNASL Nasal Aerosol is contraindicated in patients with a history of hypersensitivity to beclomethasone dipropionate and/or any other QNASL Nasal Aerosol ingredients [see Warnings and Precautions (5.3)].

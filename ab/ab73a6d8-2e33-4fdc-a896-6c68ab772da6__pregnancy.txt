@@ -1,0 +1,23 @@
+DailyMed ab73a6d8-2e33-4fdc-a896-6c68ab772da6 | Bisoprolol Fumarate and Hydrochlorothiazide | Pregnancy
+
+Teratogenic Effects
+
+                           Bisoprolol Fumarate and Hydrochlorothiazide Tablets
+
+                        In rats, the bisoprolol fumarate/hydrochlorothiazide (B/H) combination was not teratogenic at doses up to 51.4 mg/kg/day of bisoprolol fumarate in combination with 128.6 mg/kg/day of hydrochlorothiazide. Bisoprolol fumarate and hydrochlorothiazide doses used in the rat study are, as multiples of the MRHD in the combination, 129 and 514 times greater, respectively, on a body weight basis, and 26 and 106 times greater, respectively, on the basis of body surface area. The drug combination was maternotoxic (decreased body weight and food consumption) at B5.7/H14.3 (mg/kg/day) and higher, and fetotoxic (increased late resorptions) at B17.1/H42.9 (mg/kg/day) and higher. Maternotoxicity was present at 14/57 times the MRHD of B/H, respectively, on a body weight basis, and 3/12 times the MRHD of B/H doses, respectively, on the basis of body surface area. Fetotoxicity was present at 43/172 times the MRHD of B/H, respectively, on a body weight basis, and 9/35 times the MRHD of B/H doses, respectively, on the basis of body surface area. In rabbits, the B/H combination was not teratogenic at doses of B10/H25 (mg/kg/day). Bisoprolol fumarate and hydrochlorothiazide used in the rabbit study were not teratogenic at 25/100 times the B/H MRHD, respectively, on a body weight basis, and 10/40 times the B/H MRHD, respectively, on the basis of body surface area. The drug combination was maternotoxic (decreased body weight) at B1/H2.5 (mg/kg/day) and higher, and fetotoxic (increased resorptions) at B10/H25 (mg/kg/day). The multiples of the MRHD for the B/H combination that were maternotoxic are, respectively, 2.5/10 (on the basis of body weight) and 1/4 (on the basis of body surface area), and for fetotoxicity were, respectively 25/100 (on the basis of body weight) and 10/40 (on the basis of body surface area).
+
+                        There are no adequate and well-controlled studies with bisoprolol fumarate and hydrochlorothiazide tablets in pregnant women. Bisoprolol fumarate and hydrochlorothiazide tablets (bisoprolol fumarate and hydrochlorothiazide) should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
+
+                           Bisoprolol Fumarate
+
+                        In rats, bisoprolol fumarate was not teratogenic at doses up to 150 mg/kg/day, which were 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
+
+                        Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body weight gain) at 150 mg/kg/day. The fetotoxicity in rats occurred at 125 times the MRHD on a body weight basis and 26 times the MRHD on the basis of body surface area. The maternotoxicity occurred at 375 times the MRHD on a body weight basis and 77 times the MRHD on the basis of body surface area. In rabbits, bisoprolol fumarate was not teratogenic at doses up to 12.5 mg/kg/day, which is 31 and 12 times the MRHD based on body weight and body surface area, respectively, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day.
+
+                           Hydrochlorothiazide
+
+                        Hydrochlorothiazide was orally administered to pregnant mice and rats during respective periods of major organogenesis at doses up to 3000 and 1000 mg/kg/day, respectively. At these doses, which are multiples of the MRHD equal to 12,000 for mice and 4000 for rats, based on body weight, and equal to 1129 for mice and 824 for rats, based on body surface area, there was no evidence of harm to the fetus. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+                           Nonteratogenic Effects
+
+                        Thiazides cross the placental barrier and appear in the cord blood. The use of thiazides in pregnant women requires that the anticipated benefit be weighed against possible hazards to the fetus. These hazards include fetal or neonatal jaundice, pancreatitis, thrombocytopenia, and possibly other adverse reactions that have occurred in the adult.

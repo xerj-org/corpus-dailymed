@@ -1,0 +1,7 @@
+DailyMed cd6868b9-5824-442b-8d65-4db29ecb70a4 | ZEGERID | 12.5 Pharmacogenomics
+
+CYP2C19, a polymorphic enzyme, is involved in the metabolism of omeprazole. The CYP2C19*1 allele is fully functional while the CYP2C19*2 and *3 alleles are nonfunctional. There are other alleles associated with no or reduced enzymatic function. Patients carrying two fully functional alleles are extensive metabolizers and those carrying two loss-of-function alleles are poor metabolizers. In extensive metabolizers, omeprazole is primarily metabolized by CYP2C19.
+
+                        The systemic exposure to omeprazole varies with a patient’s metabolism status: poor metabolizers > intermediate metabolizers > extensive metabolizers. Approximately 3% of Caucasians and 15 to 20% of Asians are CYP2C19 poor metabolizers.
+
+                        In pharmacokinetic studies of single 20 mg omeprazole dose, the AUC of omeprazole in Asian subjects was approximately four-fold of that in Caucasians [see Use in Specific Populations (8.7)].

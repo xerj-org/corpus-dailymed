@@ -1,0 +1,5 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 12.3 Pharmacokinetics
+
+The pharmacokinetics of abemaciclib were characterized in patients with solid tumors, including breast cancer, and in healthy subjects.
+
+                        Following single and repeated twice daily dosing of 50 mg (0.3 times the approved recommended 150 mg dosage) to 200 mg of abemaciclib, the increase in plasma exposure (AUC) and Cmax was approximately dose proportional. Steady state was achieved within 5 days following repeated twice daily dosing, and the estimated geometric mean accumulation ratio was 2.3 (50% CV) and 3.2 (59% CV) based on Cmax and AUC, respectively.

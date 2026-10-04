@@ -1,0 +1,10 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 5.4 Hypertension
+
+NSAIDs, including celecoxib can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events. Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)
+                           ].
+
+                        See
+                              Clinical Studies (14.6, 14.7)
+                            for additional blood pressure data for celecoxib.
+
+                        Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.

@@ -1,0 +1,9 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 5.14 Discontinuation Syndrome
+
+There have been reports of adverse reactions upon the discontinuation of mirtazapine tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
+
+  A gradual reduction in the dosage, rather than an abrupt cessation, is recommended
+
+  [see Dosage and Administration (
+
+   2.6)].

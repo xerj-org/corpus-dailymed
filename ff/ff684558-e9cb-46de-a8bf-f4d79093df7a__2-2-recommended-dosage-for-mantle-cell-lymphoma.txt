@@ -1,0 +1,62 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 2.2 Recommended Dosage for Mantle Cell Lymphoma
+
+BEQALZI dosing begins with a 4-week ramp-up. The ramp-up dosing schedule is designed to gradually reduce tumor burden (debulk) and decrease the risk of TLS.
+
+                           4-Week Dose Ramp-Up Schedule
+
+                        Administer BEQALZI orally once daily, according to the ramp-up dosing schedule shown in Table 1.
+
+                           Table 1: Dosing Schedule for 4-Week Ramp-Up Phase
+
+                                 Week Number |
+                                 Days |
+                                 Daily Dose |
+                                 Number of Tablets per Dose |
+
+                                    Week 1
+                                  |
+                                 Days 1 to 3 |
+                                 1 mg |
+                                 One 1 mg tablet |
+
+                                 Days 4 to 7 |
+                                 2 mg |
+                                 Two 1 mg tablets |
+
+                                    Week 2
+                                  |
+                                 Days 1 to 3 |
+                                 5 mg |
+                                 One 5 mg tablet |
+
+                                 Days 4 to 7 |
+                                 10 mg |
+                                 Two 5 mg tablets |
+
+                                    Week 3
+                                  |
+                                 Days 1 to 3 |
+                                 20 mg |
+                                 One 20 mg tablet |
+
+                                 Days 4 to 7 |
+                                 40 mg |
+                                 Two 20 mg tablets |
+
+                                    Week 4
+                                  |
+                                 Days 1 to 3 |
+                                 80 mg |
+                                 One 80 mg tablet |
+
+                                 Days 4 to 7 |
+                                 160 mg |
+                                 Two 80 mg tablets |
+
+                        The Starter Pack provides the first 4 weeks of BEQALZI according to the ramp-up schedule [see How Supplied/Storage and Handling (16)].
+
+                           Target Dose Week 5 and Beyond
+
+                        After completion of the 4-week ramp-up phase, the recommended dosage of BEQALZI is 320 mg (four 80 mg tablets) taken orally once daily until disease progression or unacceptable toxicity.
+
+                        Dosing after treatment interruption greater than 7 days is described in Table 3 [see Dosage Modifications for Adverse Reactions (2.3)].

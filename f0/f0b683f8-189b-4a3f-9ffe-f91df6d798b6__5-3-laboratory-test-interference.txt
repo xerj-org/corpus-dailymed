@@ -1,0 +1,3 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 5.3 Laboratory Test Interference
+
+Ascorbic acid may interfere with laboratory tests based on oxidation-reduction reactions, including blood and urine glucose testing, nitrite and bilirubin levels, and leucocyte count testing.  If possible, laboratory tests based on oxidation-reduction reactions should be delayed until 24 hours after infusion of ascorbic acid injection [see Drug Interactions (7.4)].

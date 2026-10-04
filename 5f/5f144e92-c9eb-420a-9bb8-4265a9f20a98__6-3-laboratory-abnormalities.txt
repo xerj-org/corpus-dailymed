@@ -1,0 +1,20 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 6.3 Laboratory Abnormalities
+
+Adults
+
+  Clinically significant abnormalities (irrespective of drug relationship) occurring during the clinical trials were reported as follows: with an incidence of greater than 1%: decreased hemoglobin, hematocrit, lymphocytes, neutrophils, and blood glucose; elevated serum creatine phosphokinase, potassium, ALT, GGT, AST, BUN, creatinine, blood glucose, platelet count, lymphocytes, neutrophils, and eosinophils; with an incidence of less than 1%: leukopenia, neutropenia, decreased sodium, potassium, platelet count, elevated monocytes, basophils, bicarbonate, serum alkaline phosphatase, bilirubin, LDH, and phosphate. The majority of subjects with elevated serum creatinine also had abnormal values at baseline. When follow-up was provided, changes in laboratory tests appeared to be reversible.
+
+  In multiple-dose clinical trials involving more than 5000 patients, four patients discontinued therapy because of treatment-related liver enzyme abnormalities and one because of a renal function abnormality.
+
+                           Pediatric Patients
+                            
+
+                           One, Three, and Five-Day Regimens
+
+  Laboratory data collected from comparative clinical trials employing two 3-day regimens (30 mg/kg or 60 mg/kg in divided doses over 3 days), or two 5-day regimens (30 mg/kg or 60 mg/kg in divided doses over 5 days) were similar for regimens of azithromycin and all comparators combined, with most clinically significant laboratory abnormalities occurring at incidences of 1 to 5%. Laboratory data for patients receiving 30 mg/kg as a single dose were collected in one single center trial. In that trial, an absolute neutrophil count between 500 to 1500 cells/mm
+
+  3was observed in 10/64 patients receiving 30 mg/kg as a single dose, 9/62 patients receiving 30 mg/kg given over 3 days, and 8/63 comparator patients. No patient had an absolute neutrophil count <500 cells/mm
+
+  3.
+
+  In multiple-dose clinical trials involving approximately 4700 pediatric patients, no patients discontinued therapy because of treatment-related laboratory abnormalities.

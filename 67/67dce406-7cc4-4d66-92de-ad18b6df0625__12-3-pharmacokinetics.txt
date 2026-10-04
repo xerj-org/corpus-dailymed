@@ -1,0 +1,32 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 12.3 Pharmacokinetics
+
+Palovarotene exposure (AUC) increases proportionally from 0.02 to 50 mg (0.001 to 2.5 times the maximum recommended dosage). Steady-state is achieved by Day 3 following once daily dosing. Palovarotene exposures in patients with FOP are listed in Table 7.
+
+                           Table 7. Palovarotene Exposures in Patients with FOP
+
+                                 Palovarotene Dosage |
+                                 Cmax,ss
+
+ (ng/mL) |
+                                 AUC0-t
+
+ (ng*h/mL) |
+                                 Accumulation Ratio |
+
+                                    Pharmacokinetics parameters are presented as mean (± SD).
+                                  |
+
+                                 Chronic dose 5 mg or weight-based equivalent |
+                                 40.6 (± 16.2) |
+                                 264 (± 98.4) |
+                                 1.16 |
+
+                                 Flare-up dose 10 mg or weight-based equivalent |
+                                 78.4 (± 33.3) |
+                                 540 (± 226) |
+                                 1.14 |
+
+                                 Flare-up dose 20 mg or weight-based equivalent |
+                                 165 (± 72.7) |
+                                 1060 (± 449) |
+                                 1.04 |

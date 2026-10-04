@@ -1,0 +1,3 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | Fetal/Neonatal adverse reactions
+
+Metoprolol crosses the placenta. Neonates born to mothers who are receiving metoprolol during pregnancy, may be at risk for hypotension, hypoglycemia, bradycardia, and respiratory depression. Observe neonates and manage accordingly.

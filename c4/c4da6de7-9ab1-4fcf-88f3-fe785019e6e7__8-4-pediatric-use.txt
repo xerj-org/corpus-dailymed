@@ -1,0 +1,5 @@
+DailyMed c4da6de7-9ab1-4fcf-88f3-fe785019e6e7 | Estradiol | 8.4 Pediatric Use
+
+Estradiol transdermal system is not indicated for use in pediatric patients. Clinical studies have not been conducted in the pediatric population.
+
+                        If estrogen is administered to patients whose bone growth is not complete, periodic monitoring of bone maturation and effects on epiphyseal centers is recommended during estrogen administration.

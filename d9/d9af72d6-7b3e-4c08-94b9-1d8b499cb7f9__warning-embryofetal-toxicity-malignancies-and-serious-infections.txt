@@ -1,0 +1,7 @@
+DailyMed d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9 | MYHIBBIN | WARNING: EMBRYOFETAL TOXICITY, MALIGNANCIES, and SERIOUS INFECTIONS
+
+Use during pregnancy is associated with increased risks of first trimester pregnancy loss and congenital malformations. Avoid if safer treatment options are available. Females of reproductive potential must be counseled regarding pregnancy prevention and planning       [see Warnings and Precautions (5.1),         Use in Special Populations (8.1,         8.3)].
+
+                        Increased risk of development of lymphoma and other malignancies, particularly of the skin       [see         Warnings and Precautions (5.2)].
+
+                        Increased susceptibility to bacterial, viral, fungal and protozoal infections, including opportunistic infections and viral reactivation of hepatitis B and C, which may lead to hospitalizations and fatal outcomes       [see         Warnings and Precautions (5.3)].

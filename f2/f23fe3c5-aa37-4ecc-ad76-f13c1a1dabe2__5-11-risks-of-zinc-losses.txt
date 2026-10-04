@@ -1,0 +1,7 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 5.11 Risks of Zinc Losses
+
+EDTA is a strong chelator of trace metals – including zinc. Although with propofol injectable emulsion there are no reports of decreased zinc levels or zinc deficiency-related adverse events, propofol injectable emulsion should not be infused for longer than 5 days without providing a drug holiday to safely replace estimated or measured urine zinc losses.
+
+                        In clinical trials mean urinary zinc loss was approximately 2.5 mg/day to 3 mg/day in adult patients and 1.5 mg/day to 2 mg/day in pediatric patients.
+
+                        In patients who are predisposed to zinc deficiency, such as those with burns, diarrhea, and/or major sepsis, the need for supplemental zinc should be considered during prolonged therapy with propofol injectable emulsion.

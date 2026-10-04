@@ -1,0 +1,4 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 7.5 Theophylline
+
+No significant effect of levofloxacin on the plasma concentrations, AUC, and other disposition parameters for theophylline was detected in a clinical study involving healthy volunteers. Similarly, no apparent effect of theophylline on levofloxacin absorption and disposition was observed. However, concomitant administration of other fluoroquinolones with theophylline has resulted in prolonged elimination half-life, elevated serum theophylline levels, and a subsequent increase in the risk of theophylline-related adverse reactions in the patient population. Therefore, theophylline levels should be closely monitored and appropriate dosage adjustments made when levofloxacin is co-administered. Adverse reactions, including seizures, may occur with or without an elevation in serum theophylline levels [see
+                           Warnings and Precautions (5.4)].

@@ -1,0 +1,153 @@
+DailyMed 6a582db5-eb45-4320-98c1-55517d7d8c38 | Isosorbide Mononitrate | Pharmacokinetics and Metabolism
+
+After oral administration of ISMN as a solution or immediate-release tablets, maximum plasma concentrations of ISMN are achieved in 30 to 60 minutes, with an absolute bioavailability of approximately 100%. After intravenous administration, ISMN is distributed into total body water in about 9 minutes with a volume of distribution of approximately 0.6-0.7 L/kg. Isosorbide mononitrate is approximately 5% bound to human plasma proteins and is distributed into blood cells and saliva. Isosorbide mononitrate is primarily metabolized by the liver, but unlike oral isosorbide dinitrate, it is not subject to first-pass metabolism. Isosorbide mononitrate is cleared by denitration to isosorbide and glucuronidation as the mononitrate, with 96% of the administered dose excreted in the urine within 5 days and only about 1% eliminated in the feces. At least six different compounds have been detected in urine, with about 2% of the dose excreted as the unchanged drug and at least five metabolites. The metabolites are not pharmacologically active. Renal clearance accounts for only about 4% of total body clearance. The mean plasma elimination half-life of ISMN is approximately 5 hours.
+
+                        The disposition of ISMN in patients with various degrees of renal insufficiency, liver cirrhosis, or cardiac dysfunction was evaluated and found to be similar to that observed in healthy subjects. The elimination half-life of ISMN was not prolonged, and there was no drug accumulation in patients with chronic renal failure after multiple oral dosing.
+
+                        The pharmacokinetics and/or bioavailability of isosorbide mononitrate extended-release tablets have been studied in both normal volunteers and patients following single- and multiple-dose administration. Data from these studies suggest that the pharmacokinetics of ISMN administered as isosorbide mononitrate extended-release tablets are similar between normal healthy volunteers and patients with angina pectoris. In single- and multiple-dose studies, the pharmacokinetics of ISMN were dose proportional between 30 mg and 240 mg.
+
+                        In a multiple-dose study, the effect of age on the pharmacokinetic profile of isosorbide mononitrate extended-release tablets 60 mg and 120 mg (2 x 60 mg) was evaluated in subjects ≥45 years. The results of that study indicate that there are no significant differences in any of the pharmacokinetic variables of ISMN between elderly (≥65 years) and younger individuals (45–64 years) for the isosorbide mononitrate extended-release 60 mg dose. The administration of isosorbide mononitrate extended-release 120 mg (2 x 60 mg tablets every 24 hours for 7 days) produced a dose-proportional increase in C
+  max and AUC, without changes in T
+  max or the terminal half-life. The older group (65-74 years) showed 30% lower apparent oral clearance (Cl/F) following the higher dose, i.e., 120 mg, compared to the younger group (45-64 years); Cl/F was not different between the two groups following the 60 mg regimen. While Cl/F was independent of dose in the younger group, the older group showed slightly lower Cl/F following the 120 mg regimen compared to the 60 mg regimen. Differences between the two age groups, however, were not statistically significant. In the same study, females showed a slight (15%) reduction in clearance when the dose was increased. Females showed higher AUCs and C
+  max compared to males, but these differences were accounted for by differences in body weight between the two groups. When the data were analyzed using age as a variable, the results indicated that there were no significant differences in any of the pharmacokinetic variables of ISMN between older (≥65 years) and younger individuals (45-64 years). The results of this study, however, should be viewed with caution due to the small number of subjects in each age subgroup and consequently the lack of sufficient statistical power.
+
+                        The following table summarizes key pharmacokinetic parameters of ISMN after single- and multiple-dose administration of ISMN as an oral solution or isosorbide mononitrate extended-release tablets:
+
+                                  |
+
+                                    SINGLE-DOSE STUDIES
+                                  |
+
+                                    MULTIPLE-DOSE STUDIES
+                                  |
+
+                                    PARAMETER
+
+                                  |
+
+                                    ISMN
+
+                                    60 mg
+
+                                  |
+
+                                    ISMN Extended-Release Tablets
+
+                                    60 mg
+
+                                  |
+
+                                    ISMN Extended-Release Tablets
+
+                                    60 mg
+
+                                  |
+
+                                    ISMN Extended-Release Tablets
+
+                                    120 mg
+
+                                  |
+
+                                    C
+      max(ng/mL)
+
+                                  |
+
+                                    1242-1534
+
+                                  |
+
+                                    424-541
+
+                                  |
+
+                                    557-572
+
+                                  |
+
+                                    1151-1180
+
+                                  |
+
+                                    T
+      max (hr)
+
+                                  |
+
+                                    0.6-0.7
+
+                                  |
+
+                                    3.1-4.5
+
+                                  |
+
+                                    2.9-4.2
+
+                                  |
+
+                                    3.1-3.2
+
+                                  |
+
+                                    AUC (ng•hr/mL)
+
+                                  |
+
+                                    8189-8313
+
+                                  |
+
+                                    5990-7452
+
+                                  |
+
+                                    6625-7555
+
+                                  |
+
+                                    14241-16800
+
+                                  |
+
+                                    T
+      ½ (hr)
+
+                                  |
+
+                                    4.8-5.1
+
+                                  |
+
+                                    6.3-6.6
+
+                                  |
+
+                                    6.2-6.3
+
+                                  |
+
+                                    6.2-6.4
+
+                                  |
+
+                                    Cl/F (mL/min)
+
+                                  |
+
+                                    120-122
+
+                                  |
+
+                                    151-187
+
+                                  |
+
+                                    132-151
+
+                                  |
+
+                                    119-140
+
+                                  |

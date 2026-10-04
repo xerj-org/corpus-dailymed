@@ -1,0 +1,54 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 5.1 Serious Infections
+
+Serious and sometimes fatal infections may occur with tofacitinib tablets. Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving tofacitinib tablets. The most common serious infections reported with tofacitinib tablets included pneumonia, urinary tract infection, cellulitis, herpes zoster, bronchitis, septic shock, diverticulitis, gastroenteritis, appendicitis, and sepsis. Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, histoplasmosis, esophageal candidiasis, pneumocystosis, multi−dermatomal herpes zoster, cytomegalovirus infections, BK virus infection, and listeriosis were reported with tofacitinib tablets. Some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.
+
+  In the UC population, treatment with tofacitinib tablets 10 mg twice daily was associated with greater risk of serious infections compared to 5 mg twice daily. Additionally, opportunistic herpes zoster infections (including meningoencephalitis, ophthalmologic, and disseminated cutaneous) were seen in patients who were treated with tofacitinib tablets 10 mg twice daily.
+
+  Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
+
+  Avoid use of tofacitinib tablets in patients with an active, serious infection, including localized infections. The risks and benefits of treatment should be considered prior to initiating tofacitinib tablets in patients:
+
+                           with chronic or recurrent infection
+
+                           who have been exposed to tuberculosis
+
+                           with a history of a serious or an opportunistic infection
+
+                           who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
+
+                           with underlying conditions that may predispose them to infection.
+
+                        Closely monitor patients for the development of signs and symptoms of infection during and after treatment with tofacitinib tablets. Interrupt tofacitinib tablets if a patient develops a serious infection, an opportunistic infection, or sepsis. In patients who develop a new infection during treatment with tofacitinib tablets, promptly complete diagnostic testing appropriate for an immunocompromised patient; initiate appropriate antimicrobial therapy, and monitor the patients closely.
+
+  Caution is also recommended in patients with a history of chronic lung disease, or in those who develop interstitial lung disease, as they may be more prone to infections.
+
+  Risk of infection may be higher with increasing degrees of lymphopenia and consideration should be given to lymphocyte counts when assessing individual patient risk of infection. Discontinuation and monitoring criteria for lymphopenia are recommended
+
+  [see
+
+   Dosage and Administration (2.3,
+                              2.4,
+
+   2.5)].
+
+                            
+
+                           Tuberculosis
+
+  Evaluate and test patients for latent or active tuberculosis (TB) infection prior to and per applicable guidelines during administration of tofacitinib tablets.
+
+  Consider anti-TB therapy prior to administration of tofacitinib tablets in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent TB but who have risk factors for TB infection.
+
+  Consultation with a physician with expertise in the treatment of TB is recommended to aid in the decision about whether initiating anti-TB therapy is appropriate for an individual patient.
+
+  Monitor patients closely for the development of signs and symptoms of TB, including patients who tested negative for latent TB infection prior to initiating therapy.
+
+  Treat patients with latent TB with standard antimycobacterial therapy before administering tofacitinib tablets.
+
+                           Viral Reactivation
+
+  Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), were observed in clinical studies with tofacitinib tablets. Postmarketing cases of hepatitis B reactivation have been reported in patients treated with tofacitinib tablets. The impact of tofacitinib tablets on chronic viral hepatitis reactivation is unknown. Patients who screened positive for hepatitis B or C were excluded from clinical trials. Perform screening for viral hepatitis in accordance with clinical guidelines before starting therapy with tofacitinib tablets. The risk of herpes zoster is increased in patients treated with tofacitinib tablets and appears to be higher in patients treated with tofacitinib tablets in Japan and Korea.
+
+                           Progressive Multifocal Leukoencephalopathy (PML)
+
+  Postmarketing cases of PML have been reported during treatment with tofacitinib tablets; in some of these patients, immune reconstitution inflammatory syndrome (IRIS) occurred within several weeks after discontinuation of tofacitinib tablets. Consider PML in any patient presenting with new onset or worsening neurological symptoms. If PML is suspected, stop tofacitinib tablets and evaluate; if PML is confirmed, discontinue treatment and manage patients appropriately.

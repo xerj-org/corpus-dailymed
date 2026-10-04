@@ -1,0 +1,7 @@
+DailyMed 9471b7fb-29d3-4009-9d0f-f20c27351db5 | Carbamazepine | Serious Dermatologic Reactions
+
+Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS), have been reported with carbamazepine treatment. The risk of these events is estimated to be about 1 to 6 per 10,000 new users in countries with mainly Caucasian populations. However, the risk in some Asian countries is estimated to be about 10 times higher.
+
+                        Fixed drug eruption (FDE), which presents with single or multiple, circumscribed patches that occur in the same location with each exposure to an offending drug, has been reported with carbamazepine. With repeated exposure to carbamazepine, the skin lesions may progress to generalized bullous fixed drug eruption (GBFDE), a serious skin reaction which may resemble SJS/TEN.
+
+  Carbamazepine should be discontinued at the first sign of a rash, unless the rash is clearly not drug related. If signs or symptoms suggest SJS/TEN, FDE, or GBFDE, use of this drug should not be resumed, and alternative therapy should be considered.

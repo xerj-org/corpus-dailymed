@@ -1,0 +1,11 @@
+DailyMed b4b9b66e-87a1-4dbb-9eaf-71221bcb2265 | mirtazapine | 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported with postmarketing use of mirtazapine tablets. DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis. DRESS is sometimes fatal. Discontinue mirtazapine tablets immediately if DRESS is suspected and institute appropriate treatment
+
+  [see Contraindications (
+
+   4), Adverse Reactions (
+
+   6.2)]
+
+  .

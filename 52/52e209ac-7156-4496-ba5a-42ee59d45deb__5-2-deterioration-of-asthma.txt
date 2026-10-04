@@ -1,0 +1,3 @@
+DailyMed 52e209ac-7156-4496-ba5a-42ee59d45deb | Albuterol sulfate | 5.2 Deterioration of Asthma
+
+Asthma may deteriorate acutely over a period of hours or chronically over several days or longer. If the patient needs more doses of albuterol sulfate inhalation aerosol than usual, this may be a marker of destabilization of asthma and requires re-evaluation of the patient and treatment regimen, giving special consideration to the possible need for anti-inflammatory treatment, e.g., corticosteroids.

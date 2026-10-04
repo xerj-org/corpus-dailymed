@@ -1,0 +1,7 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Hepatic Dysfunction
+
+In patients with hepatic disease, the clearance of felodipine was reduced to about 60% of that seen in normal young volunteers.
+
+                              Renal impairment does not alter the plasma concentration profile of felodipine; although higher concentrations of the metabolites are present in the plasma due to decreased urinary excretion, these are inactive.
+
+                              Animal studies have demonstrated that felodipine crosses the blood-brain barrier and the placenta.

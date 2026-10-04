@@ -1,0 +1,7 @@
+DailyMed c05ee6a5-c98b-45f4-83fd-40781639d653 | DigiFab | 5.3 Use of DIGIFAB in Renal Failure
+
+The elimination half-life of DIGIFAB in renal failure has not been clearly defined. Monitor patients with severe renal failure who receive DIGIFAB for digitalis toxicity for a prolonged period for possible recurrence of toxicity.
+
+                        Monitoring of free (unbound) digoxin concentrations after the administration may be appropriate in order to establish recrudescent toxicity in renal failure patients.
+
+  5

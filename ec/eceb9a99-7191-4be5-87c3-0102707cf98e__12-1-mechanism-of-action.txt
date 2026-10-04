@@ -1,0 +1,5 @@
+DailyMed eceb9a99-7191-4be5-87c3-0102707cf98e | EVRYSDI | 12.1 Mechanism of Action
+
+Risdiplam is a survival of motor neuron 2 (SMN2) splicing modifier designed to treat patients with spinal muscular atrophy (SMA) caused by mutations in chromosome 5q that lead to SMN protein deficiency. Using in vitro assays and studies in transgenic animal models of SMA, risdiplam was shown to increase exon 7 inclusion in SMN2 messenger ribonucleic acid (mRNA) transcripts and production of full-length SMN protein in the brain.
+
+                        In vitro and in vivo data indicate that risdiplam may cause alternative splicing of additional genes, including FOXM1 and MADD. FOXM1 and MADD are thought to be involved in cell cycle regulation and apoptosis, respectively, and have been identified as possible contributors to adverse effects seen in animals.

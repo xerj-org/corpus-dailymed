@@ -1,0 +1,9 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 8.5 Geriatric Use
+
+Of the 2644 patients who received tocilizumab in Studies I to V [see Clinical Studies (14)], a total of 435 rheumatoid arthritis patients were 65 years of age and older, including 50 patients 75 years and older. Of the 1069 patients who received tocilizumab-SC in studies SC-I and SC-II there were 295 patients 65 years of age and older, including 41 patients 75 years and older. The frequency of serious infection among tocilizumab treated subjects 65 years of age and older was higher than those under the age of 65. As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly.
+
+                        Clinical studies that included tocilizumab for CRS did not include sufficient numbers of patients aged 65 and over to determine whether they respond differnetly from younger patients.
+
+                        In the EMPACTA, COVACTA, and REMDACTA studies, of the 974 COVID-19 patients in the tocilizumab arm, 375 (39%) were 65 years of age or older. No overall differences in safety or effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age of 65 years of age in these studies [see Adverse Reactions (6.1) and Clinical Studies (14.10)].
+
+                        In the RECOVERY study, of the 2022 COVID-19 patients in the tocilizumab arm, 930 (46%) were 65 years of age or older. No overall differences in effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age 65 years of age in this study [see Clinical Studies (14.10)].

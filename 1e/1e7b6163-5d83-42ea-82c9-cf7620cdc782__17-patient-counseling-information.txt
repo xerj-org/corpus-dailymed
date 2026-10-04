@@ -1,0 +1,43 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
+                     Cytokine Release Syndrome (CRS)
+
+                  Inform patients and their caregivers of the risk of CRS, and to immediately contact their healthcare provider for signs and symptoms associated with CRS including pyrexia, hypotension, fatigue, tachycardia, headache, hypoxia, nausea and vomiting [see Warnings and Precautions (5.1)].
+
+                  Advise patients that they should be monitored from the start of the IMDELLTRA infusion for 6 to 8 hours on Cycle 1 Day 1 and Cycle 1 Day 8 doses in an appropriate healthcare setting [see Warnings and Precautions (5.1)].
+
+                  Advise patients that an assessment including vital signs check will be performed on Cycle 1 Days 2 and 9.
+
+                  Advise patients to remain within 1 hour of an appropriate healthcare setting for a total of 48 hours from start of the infusion with IMDELLTRA following Cycle 1 Day 1 and Cycle 1 Day 8 doses, accompanied by a caregiver.
+
+                     Neurologic Toxicity Including Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS)
+
+                  Discuss the signs and symptoms associated with ICANS with patients and their caregivers. Advise patients to immediately contact their healthcare provider if they experience any signs or symptoms of ICANS, such as encephalopathy, confusion, delirium, seizure, ataxia, weakness or numbness of arms and legs, tremor, and headache.
+
+                  Advise patients who experience neurologic toxicity or symptoms of ICANS to refrain from driving, operating heavy or potentially dangerous machinery, and engaging in hazardous occupations or activities during treatment with IMDELLTRA [see Warnings and Precautions (5.2)].
+
+                     Cytopenias
+
+                  Discuss the signs and symptoms associated with cytopenias, including neutropenia and febrile neutropenia, anemia, and thrombocytopenia with patients and their caregivers [see Warnings and Precautions (5.3)]. Inform patients that they will need to undergo lab tests to monitor blood counts. Advise patients to immediately contact their healthcare provider if they experience any signs or symptoms of cytopenias.
+
+                     Infections
+
+                  Discuss the signs and symptoms of infections with patients and their caregivers. Advise patients of the risk of serious infections, and to immediately contact their healthcare provider for signs or symptoms of infections [see Warnings and Precautions (5.4)].
+
+                     Hepatotoxicity
+
+                  Discuss the signs and symptoms of hepatotoxicity and bilirubin with patients and their caregivers. Inform patients that they will need to undergo lab tests to monitor liver function. Advise patients to immediately contact their healthcare provider for signs and symptoms of liver dysfunction [see Warnings and Precautions (5.5)].
+
+                     Hypersensitivity
+
+                  Discuss the signs and symptoms of allergic reactions with patients and their caregivers. Advise patients to immediately seek medical attention for any signs and symptoms of severe reactions [see Warnings and Precautions (5.6)].
+
+                     Embryo-Fetal Toxicity
+
+                  Advise pregnant women and females of reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to inform their healthcare provider if they are pregnant or become pregnant. Advise females of reproductive potential to use effective contraception during treatment with IMDELLTRA and for 2 months after the last dose [see Warnings and Precautions (5.7), Use in Specific Populations (8.1, 8.3)].
+
+                     Lactation
+
+                  Advise women not to breastfeed during treatment with IMDELLTRA and for 2 months after the last dose [see Use in Specific Populations (8.2)].

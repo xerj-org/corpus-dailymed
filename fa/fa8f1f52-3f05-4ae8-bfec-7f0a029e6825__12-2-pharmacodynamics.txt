@@ -1,0 +1,5 @@
+DailyMed fa8f1f52-3f05-4ae8-bfec-7f0a029e6825 | Pemetrexed | 12.2 Pharmacodynamics
+
+Pemetrexed inhibited the in vitro growth of mesothelioma cell lines (MSTO-211H, NCI-H2052) and showed synergistic effects when combined with cisplatin.
+
+                        Based on population pharmacodynamic analyses, the depth of the absolute neutrophil counts (ANC) nadir correlates with the systemic exposure to pemetrexed and supplementation with folic acid and vitamin B12. There is no cumulative effect of pemetrexed exposure on ANC nadir over multiple treatment cycles.

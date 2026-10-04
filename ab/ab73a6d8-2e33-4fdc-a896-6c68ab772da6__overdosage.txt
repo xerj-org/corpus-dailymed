@@ -1,0 +1,35 @@
+DailyMed ab73a6d8-2e33-4fdc-a896-6c68ab772da6 | Bisoprolol Fumarate and Hydrochlorothiazide | OVERDOSAGE
+
+There are limited data on overdose with bisoprolol fumarate and hydrochlorothiazide tablets. However, several cases of overdose with bisoprolol fumarate have been reported (maximum: 2000 mg). Bradycardia and/or hypotension were noted. Sympathomimetic agents were given in some cases, and all patients recovered.
+
+                  The most frequently observed signs expected with overdosage of a beta-blocker are bradycardia and hypotension. Lethargy is also common, and with severe overdoses, delirium, coma, convulsions, and respiratory arrest have been reported to occur. Congestive heart failure, bronchospasm, and hypoglycemia may occur, particularly in patients with underlying conditions. With thiazide diuretics, acute intoxication is rare. The most prominent feature of overdose is acute loss of fluid and electrolytes. Signs and symptoms include cardiovascular (tachycardia, hypotension, shock), neuromuscular (weakness, confusion, dizziness, cramps of the calf muscles, paresthesia, fatigue, impairment of consciousness), gastrointestinal (nausea, vomiting, thirst), renal (polyuria, oliguria, or anuria [due to hemoconcentration]), and laboratory findings (hypokalemia, hyponatremia, hypochloremia, alkalosis, increased BUN [especially in patients with renal insufficiency]).
+
+                  If overdosage of bisoprolol fumarate and hydrochlorothiazide tablets is suspected, therapy with bisoprolol fumarate and hydrochlorothiazide tablets should be discontinued and the patient observed closely. Treatment is symptomatic and supportive; there is no specific antidote. Limited data suggest bisoprolol fumarate is not dialyzable; similarly, there is no indication that hydrochlorothiazide is dialyzable. Suggested general measures include induction of emesis and/or gastric lavage, administration of activated charcoal, respiratory support, correction of fluid and electrolyte imbalance, and treatment of convulsions. Based on the expected pharmacologic actions and recommendations for other beta- blockers and hydrochlorothiazide, the following measures should be considered when clinically warranted:
+
+                     Bradycardia
+
+                  Administer IV atropine. If the response is inadequate, isoproterenol or another agent with positive chronotropic properties may be given cautiously. Under some circumstances, transvenous pacemaker insertion may be necessary.
+
+                     Hypotension, Shock
+
+                  The patient’s legs should be elevated. IV fluids should be administered and lost electrolytes (potassium, sodium) replaced. Intravenous glucagon may be useful. Vasopressors should be considered.
+
+                     Heart Block (second or third degree)
+
+                  Patients should be carefully monitored and treated with isoproterenol infusion or transvenous cardiac pacemaker insertion, as appropriate.
+
+                     Congestive Heart Failure
+
+                  Initiate conventional therapy (ie, digitalis, diuretics, vasodilating agents, inotropic agents).
+
+                     Bronchospasm
+
+                  Administer a bronchodilator such as isoproterenol and/or aminophylline.
+
+                     Hypoglycemia
+
+                  Administer IV glucose.
+
+                     Surveillance
+
+                  Fluid and electrolyte balance (especially serum potassium) and renal function should be monitored until normalized.

@@ -1,0 +1,19 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 14.1 Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
+
+The efficacy of the maximum recommended dose of pregabalin for the management of neuropathic pain associated with diabetic peripheral neuropathy was established in three double-blind, placebo-controlled, multicenter studies with three times a day dosing, two of which studied the maximum recommended dose. Patients were enrolled with either Type 1 or Type 2 diabetes mellitus and a diagnosis of painful distal symmetrical sensorimotor polyneuropathy for 1 to 5 years. A total of 89% of patients completed Studies DPN 1 and DPN 2. The patients had a minimum mean baseline pain score of greater than or equal to 4 on an 11-point numerical pain rating scale ranging from 0 (no pain) to 10 (worst possible pain). The baseline mean pain scores across the two studies ranged from 6.1 to 6.7. Patients were permitted up to 4 grams of acetaminophen per day as needed for pain, in addition to pregabalin. Patients recorded their pain daily in a diary.
+
+                           Study DPN 1:This 5-week study compared pregabalin 25, 100, or 200 mg three times a day with placebo. Treatment with pregabalin 100 and 200 mg three times a day statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline. There was no evidence of a greater effect on pain scores of the 200 mg three times a day dose than the 100 mg three times a day dose, but there was evidence of dose dependent adverse reactions
+
+  [see
+
+   Adverse Reactions (6.1)]
+
+  . For a range of levels of improvement in pain intensity from baseline to study endpoint, Figure 1 shows the fraction of patients achieving that level of improvement. The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%. Patients who did not complete the study were assigned 0% improvement. Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
+
+                           Figure 1:Patients Achieving Various Levels of Improvement in Pain Intensity – Study DPN 1
+
+  Study DPN 2:
+
+  This 8-week study compared pregabalin 100 mg three times a day with placebo. Treatment with pregabalin 100 mg three times a day statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline. For various levels of improvement in pain intensity from baseline to study endpoint, Figure 2 shows the fraction of patients achieving that level of improvement. The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%. Patients who did not complete the study were assigned 0% improvement. Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
+
+                           Figure 2: Patients Achieving Various Levels of Improvement in Pain Intensity– Study DPN 2

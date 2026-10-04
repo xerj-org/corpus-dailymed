@@ -1,0 +1,4 @@
+DailyMed bc99e6af-7050-4653-a681-5b252305a970 | Diclofenac SodiumDelayed Release | Avoid Concomitant Use of NSAIDs
+
+Inform patients that the concomitant use of diclofenac with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy     (see
+                                 and       Drug Interactions).     Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.

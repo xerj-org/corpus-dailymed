@@ -1,0 +1,78 @@
+DailyMed 6d1a0f9f-5fa0-43fa-83b9-0d18a129fd0c | ROPINIROLE | 2.3 Dosing for Restless Legs Syndrome
+
+The recommended adult starting dose for RLS is 0.25 mg once daily 1 to 3 hours before bedtime. After 2 days, if necessary, the dose can be increased to 0.5 mg once daily, and to 1 mg once daily at the end of the first week of dosing, then as shown in Table 2 as needed to achieve efficacy. Titration should be based on individual patient therapeutic response and tolerability, up to a maximum recommended dose of 4 mg daily. For RLS, the safety and effectiveness of doses greater than 4 mg once daily have not been established.
+
+                           Table 2. Dose Titration Schedule of R
+                           opinirole Tablets for Restless Legs Syndrome
+
+                                     Day/Week
+
+                                  |
+
+                                    Dose to be taken once daily
+
+                                    1 to 3 hours before bedtime
+
+                                  |
+
+                                 Days 1 and 2
+
+                                  |
+                                 0.25 mg
+
+                                  |
+
+                                 Days 3 to 7
+
+                                  |
+                                 0.5 mg
+
+                                  |
+
+                                 Week 2
+
+                                  |
+                                 1 mg
+
+                                  |
+
+                                 Week 3
+
+                                  |
+                                 1.5 mg
+
+                                  |
+
+                                 Week 4
+
+                                  |
+                                 2 mg
+
+                                  |
+
+                                 Week 5
+
+                                  |
+                                 2.5 mg
+
+                                  |
+
+                                 Week 6
+
+                                  |
+                                 3 mg
+
+                                  |
+
+                                 Week 7
+
+                                  |
+                                 4 mg
+
+                                  |
+
+                        When discontinuing ropinirole tablets in patients with RLS, gradual reduction of the daily dose is recommended [see Warnings and Precautions (5.8, 5.9)].
+
+                           Renal Impairment
+
+                           No dose adjustment is necessary in patients with moderate renal impairment (creatinine clearance of 30 to 50 mL/min). The recommended initial dose of ropinirole for patients with end-stage renal disease on hemodialysis is 0.25 mg once daily. Further dose escalations should be based on tolerability and need for efficacy. The recommended maximum total daily dose is 3 mg/day in patients receiving regular dialysis. Supplemental doses after dialysis are not required. The use of ropinirole tablets in patients with severe renal impairment without regular dialysis has not been studied.

@@ -1,0 +1,3 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 5.10 Hepatotoxicity
+
+Clinical hepatitis has been reported with isotretinoin use. Additionally, mild to moderate elevations of liver enzymes have been observed in approximately 15% of individuals treated during clinical trials with isotretinoin capsules, some of which normalized with dosage reduction or continued administration of the drug. Discontinue isotretinoin if normalization does not readily occur or if hepatitis is suspected during treatment.

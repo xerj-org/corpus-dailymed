@@ -1,0 +1,11 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 12.1 Mechanism of Action
+
+PD-L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD-L1 to the PD-1 and B7.1 receptors found on T-cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production.
+
+                        Atezolizumab is a monoclonal antibody that binds to PD-L1 and blocks its interactions with both PD-1 and B7.1 receptors. This releases the PD-L1/PD-1 mediated inhibition of the immune response, including activation of the anti-tumor immune response without inducing antibody-dependent cellular cytotoxicity. In syngeneic mouse tumor models, blocking PD-L1 activity resulted in decreased tumor growth.
+
+                        In mouse models of cancer, dual inhibition of the PD-1/PD-L1 and MAPK pathways suppresses tumor growth and improves tumor immunogenicity through increased antigen presentation and T-cell infiltration and activation compared to targeted therapy alone.
+
+                        Hyaluronan is a polysaccharide found in the extracellular matrix of the subcutaneous tissue. It is depolymerized by the naturally occurring enzyme hyaluronidase. Unlike the stable structural components of the interstitial matrix, hyaluronan has a half-life of approximately 0.5 days.
+
+                        Hyaluronidase increases permeability of the subcutaneous tissue by depolymerizing hyaluronan. In the doses administered, hyaluronidase in TECENTRIQ HYBREZA acts transiently and locally. The effects of hyaluronidase are reversible and permeability of the subcutaneous tissue is restored within 24 to 48 hours.

@@ -1,0 +1,85 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | PRINCIPAL DISPLAY PANEL
+
+DRUG: Amoxicillin and Clavulanate Potassium
+
+                  GENERIC: Amoxicillin and Clavulanate Potassium
+
+                  DOSAGE: TABLET, FILM COATED
+
+                  ADMINSTRATION: ORAL
+
+                  NDC: 70518-2225-0
+
+                  NDC: 70518-2225-1
+
+                  NDC: 70518-2225-2
+
+                  NDC: 70518-2225-3
+
+                  NDC: 70518-2225-4
+
+                  NDC: 70518-2225-5
+
+                  NDC: 70518-2225-6
+
+                  NDC: 70518-2225-7
+
+                  NDC: 70518-2225-8
+
+                  COLOR: white
+
+                  SHAPE: CAPSULE
+
+                  SCORE: Two even pieces
+
+                  SIZE: 22 mm
+
+                  IMPRINT: X;3;2
+
+                  PACKAGING: 20 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 30 in 1 BLISTER PACK
+
+                  PACKAGING: 10 in 1 BOTTLE PLASTIC
+
+                  PACKAGING: 20 in 1 BLISTER PACK
+
+                  PACKAGING: 14 in 1 BLISTER PACK
+
+                  PACKAGING: 30 in 1 BLISTER PACK
+
+                  PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  PACKAGING: 14 in 1 BOTTLE PLASTIC
+
+                  ACTIVE INGREDIENT(S):
+
+                     CLAVULANATE POTASSIUM 125mg in 1
+
+                     AMOXICILLIN 875mg in 1
+
+                  INACTIVE INGREDIENT(S):
+
+                     SILICON DIOXIDE
+
+                     CROSPOVIDONE
+
+                     HYPROMELLOSE 2910 (5 MPA.S)
+
+                     HYPROMELLOSE 2910 (15000 MPA.S)
+
+                     MAGNESIUM STEARATE
+
+                     MICROCRYSTALLINE CELLULOSE
+
+                     POLYETHYLENE GLYCOL 4000
+
+                     POLYETHYLENE GLYCOL 6000
+
+                     SODIUM STARCH GLYCOLATE TYPE A POTATO
+
+                     ETHYLCELLULOSE, UNSPECIFIED
+
+                     TITANIUM DIOXIDE

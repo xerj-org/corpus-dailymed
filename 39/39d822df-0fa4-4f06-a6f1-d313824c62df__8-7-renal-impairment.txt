@@ -1,0 +1,7 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | 8.7 Renal Impairment
+
+The systemic availability and half-life of metoprolol in patients with renal failure do not differ to a clinically significant degree from those in normal subjects. No reduction in dosage is needed in patients with chronic renal failure
+
+  [see
+
+   Clinical Pharmacology (12.3)].

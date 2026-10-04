@@ -1,0 +1,3 @@
+DailyMed f6d762ea-fff0-43e8-b67d-bef19e883dd8 | Temozolomide | 5.4 Secondary Malignancies
+
+The incidence of secondary malignancies is increased in patients treated with Temozolomide-containing regimens. Cases of myelodysplastic syndrome and secondary malignancies, including myeloid leukemia, have been observed following Temozolomide administration.

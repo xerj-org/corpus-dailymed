@@ -1,0 +1,3 @@
+DailyMed 0fc94bc2-fa38-439a-a609-1b4130cdacb1 | Hydrochlorothiazide | Impaired Hepatic Function
+
+Thiazides should be used with caution in patients with impaired hepatic function. They can precipitate hepatic coma in patients with severe liver disease.

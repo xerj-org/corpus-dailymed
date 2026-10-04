@@ -1,0 +1,5 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 8.5 Geriatric Use
+
+In clinical studies of GADAVIST, 1,377 patients were 65 years of age and over, while 104 patients were 80 years of age and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences between the elderly and younger patients.
+
+                        This drug is known to be excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].

@@ -1,0 +1,15 @@
+DailyMed 80bef3fd-4f6f-4190-8865-9ac46c8947a3 | Amoxicillin and Clavulanate Potassium | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+  Long-term studies in animals have not been performed to evaluate carcinogenic potential.
+
+                           Mut
+                           agenesis
+                            
+
+                        Amoxicillin and clavulanate (4:1 ratio formulation of amoxicillin:clavulanate) was non-mutagenic in the Ames bacterial mutation assay, and the yeast gene conversion assay. Amoxicillin and clavulanate was weakly positive in the mouse lymphoma assay, but the trend toward increased mutation frequencies in this assay occurred at concentrations that were also associated with decreased cell survival. Amoxicillin and clavulanate was negative in the mouse micronucleus test, and in the dominant lethal assay in mice. Clavulanate potassium alone was tested in the Ames bacterial mutation assay and in the mouse micronucleus test and was negative in each of these assays.
+
+                           Impairment of Fertility
+
+                        Amoxicillin and clavulanate (2:1 ratio formulation of amoxicillin:clavulanate) at oral doses of up to 1,200 mg/kg/day was found to have no effect on fertility and reproductive performance in rats. Based on body surface area comparisons, these doses correspond to approximately 4 times the MRHD for adults for amoxicillin trihydrate and 10 times the MRHD for clavulanate potassium.

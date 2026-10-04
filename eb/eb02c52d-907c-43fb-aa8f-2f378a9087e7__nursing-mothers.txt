@@ -1,0 +1,7 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Nursing Mothers
+
+Because of the potential for serious adverse reactions in nursing infants from chloroquine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the potential clinical benefit of the drug to the mother.
+
+                        The excretion of chloroquine and the major metabolite, desethylchloroquine, in breast milk was investigated in eleven lactating mothers following a single oral dose of chloroquine (600 mg base). The maximum daily dose of the drug that the infant can receive from breastfeeding was about 0.7% of the maternal start dose of the drug in malaria chemotherapy. Separate chemoprophylaxis for the infant is required (see
+                              DOSAGE AND ADMINISTRATION
+                           ).

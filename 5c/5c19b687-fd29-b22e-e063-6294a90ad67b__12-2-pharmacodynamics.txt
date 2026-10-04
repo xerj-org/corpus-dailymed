@@ -1,0 +1,5 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 12.2 Pharmacodynamics
+
+The pharmacodynamics of imiquimod cream are unknown.
+
+                        Imiquimod is a Toll-like receptor 7 agonist that activates immune cells. Topical application to skin is associated with increases in markers for cytokines and immune cells.

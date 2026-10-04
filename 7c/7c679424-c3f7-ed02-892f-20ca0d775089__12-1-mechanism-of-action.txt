@@ -1,0 +1,13 @@
+DailyMed 7c679424-c3f7-ed02-892f-20ca0d775089 | LumaSon | 12.1 Mechanism of Action
+
+Within the blood, the acoustic impedance
+of Lumason microspheres is lower than that of the surrounding non-aqueous
+tissue. Therefore, an ultrasound beam is reflected from the interface
+between the microspheres and the surrounding tissue. The reflected
+ultrasound signal provides a visual image that shows a contrast between
+the blood and the surrounding tissues.
+
+                        For ultrasonography of the urinary tract
+in pediatric patients, the intravesically administered Lumason microspheres
+increase signal intensity of fluids within the urethra, bladder, ureters,
+and renal pelvis.

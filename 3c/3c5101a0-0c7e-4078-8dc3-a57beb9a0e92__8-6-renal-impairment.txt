@@ -1,0 +1,3 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 8.6 Renal Impairment
+
+In patients with renal impairment, the exposure of gadobutrol is increased compared to patients with normal renal function. This may increase the risk of adverse reactions such as NSF. Prior to administration of GADAVIST, screen all patients for renal dysfunction by obtaining a history and/or laboratory tests. For patients receiving hemodialysis, consider the prompt initiation of hemodialysis following the administration of GADAVIST in order to enhance elimination of gadobutrol [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].

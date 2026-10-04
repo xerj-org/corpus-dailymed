@@ -1,0 +1,21 @@
+DailyMed 10272dc1-657d-4798-a34a-b6341b92e560 | propofol | 1 INDICATIONS AND USAGE
+
+Propofol injectable emulsion is an intravenous general anesthetic and sedation drug indicated for:
+
+                     Induction of General Anesthesia for Patients Greater than or Equal to 3 Years of Age
+
+                     Maintenance of General Anesthesia for Patients Greater than or Equal to 2 Months of Age
+
+                     Initiation and Maintenance of Monitored Anesthesia Care (MAC) Sedation in Adult Patients
+
+                     Sedation for Adult Patients in Combination with Regional Anesthesia
+
+                     Intensive Care Unit (ICU) Sedation of Intubated, Mechanically Ventilated Adult Patients
+
+                     Limitations of Use
+
+                  Propofol injectable emulsion is not recommended for induction of anesthesia below the age of 3 years or for maintenance of anesthesia below the age of 2 months because its safety and effectiveness have not been established in those populations [see Pediatric Use (8.4)].
+
+                  Safety, effectiveness and dosing guidelines for propofol injectable emulsion have not been established for MAC sedation in the pediatric population; therefore, it is not recommended for this use [see Pediatric Use (8.4)].
+
+                  Propofol injectable emulsion is not indicated for use in Pediatric ICU sedation since the safety of this regimen has not been established [see Pediatric Use (8.4)].

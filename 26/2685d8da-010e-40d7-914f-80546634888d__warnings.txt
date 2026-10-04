@@ -1,0 +1,7 @@
+DailyMed 2685d8da-010e-40d7-914f-80546634888d | levocarnitine | WARNINGS
+
+Hypersensitivity Reactions
+
+                  Serious hypersensitivity reactions, including anaphylaxis, laryngeal edema, and bronchospasm have been reported following levocarnitine administration, mostly in patients with end stage renal disease who are undergoing dialysis. Some reactions occurred within minutes after intravenous administration of levocarnitine.
+
+                  If a severe hypersensitivity reaction occurs, discontinue levocarnitine treatment and initiate appropriate medical treatment. Consider the risks and benefits of re-administering levocarnitine to individual patients following a severe reaction. If the decision is made to re-administer the product, monitor patients for a reoccurrence of signs and symptoms of a severe hypersensitivity reaction.

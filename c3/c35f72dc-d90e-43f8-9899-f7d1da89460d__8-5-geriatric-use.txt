@@ -1,0 +1,3 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 8.5 Geriatric Use
+
+There were insufficient numbers of subjects aged 65 and over in the clinical trials to determine whether they respond differently from younger subjects. In general, caution should be exercised when administering maraviroc tablets in elderly patients, also reflecting the greater frequency of decreased hepatic and renal function, of concomitant disease and other drug therapies.

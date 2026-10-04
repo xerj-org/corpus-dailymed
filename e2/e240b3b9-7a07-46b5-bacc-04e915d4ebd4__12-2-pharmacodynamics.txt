@@ -1,0 +1,19 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 12.2 Pharmacodynamics
+
+Lanreotide has a high affinity for human somatostatin receptors (SSTR) 2 and 5 and a reduced binding affinity for human SSTR1, 3, and 4. Activity at human SSTR2 and 5 is the primary mechanism believed responsible for GH inhibition. Like somatostatin, lanreotide is an inhibitor of various endocrine, neuroendocrine, exocrine, and paracrine functions.
+
+                        The primary pharmacodynamic effect of lanreotide is a reduction of GH and/or IGF-1 levels enabling normalization of levels in acromegalic patients [see Clinical Studies (14.1)]. In acromegalic patients, lanreotide reduces GH levels in a dose-dependent way. After a single injection of lanreotide acetate, plasma GH levels fall rapidly and are maintained for at least 28 days.
+
+                        In Study 4, patients with carcinoid syndrome treated with lanreotide injection, 120 mg every 4 weeks had reduced levels of urinary 5-hydroxyindoleacetic acid (5-HIAA) compared with placebo [see Clinical Studies (14.3)].
+
+                        Lanreotide inhibits the basal secretion of motilin, gastric inhibitory peptide, and pancreatic polypeptide, but has no significant effect on the secretion of secretin. Lanreotide inhibits postprandial secretion of pancreatic polypeptide, gastrin, and cholecystokinin (CCK). In healthy subjects, lanreotide produces a reduction and a delay in postprandial insulin secretion, resulting in transient, mild glucose intolerance.
+
+                        Lanreotide inhibits meal-stimulated pancreatic secretions, and reduces duodenal bicarbonate and amylase concentrations, and produces a transient reduction in gastric acidity.
+
+                        Lanreotide has been shown to inhibit gallbladder contractility and bile secretion in healthy subjects [see Warnings and Precautions (5.1)].
+
+                        In healthy subjects, lanreotide inhibits meal-induced increases in superior mesenteric artery and portal venous blood flow, but has no effect on basal or meal-stimulated renal blood flow. Lanreotide has no effect on renal plasma flow or renal vascular resistance. However, a transient decrease in glomerular filtration rate (GFR) and filtration fraction has been observed after a single injection of lanreotide.
+
+                        In healthy subjects, non-significant reductions in glucagon levels were seen after lanreotide administration. In diabetic non-acromegalic subjects receiving a continuous infusion (21-day) of lanreotide, serum glucose concentrations were temporarily decreased by 20% to 30% after the start and end of the infusion. Serum glucose concentrations returned to normal levels within 24 hours. A significant decrease in insulin concentrations was recorded between baseline and Day 1 only [see Warnings and Precautions (5.2)].
+
+                        Lanreotide inhibits the nocturnal increase in thyroid-stimulating hormone (TSH) seen in healthy subjects. Lanreotide reduces prolactin levels in acromegalic patients treated on a long-term basis [see Warnings and Precautions (5.4)].

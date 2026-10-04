@@ -1,0 +1,3 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 5.6 Effect on Growth
+
+Corticosteroids may cause a reduction in growth velocity when administered to pediatric patients. Routinely monitor the growth of pediatric patients receiving QNASL Nasal Aerosol [see Use in Specific Populations (8.4)].

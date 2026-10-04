@@ -1,0 +1,3 @@
+DailyMed d91612c4-b03a-4be4-a1ee-6a13e3b83d4e | ZTALMY | 9.3 Dependence
+
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. During clinical studies with ZTALMY, it was not possible to assess physical dependence because abrupt discontinuation of an antiepileptic medication in patients with epilepsy presents a serious safety concern. It is recommended that ZTALMY be tapered according to the dosage recommendations, unless symptoms warrant immediate discontinuation [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].

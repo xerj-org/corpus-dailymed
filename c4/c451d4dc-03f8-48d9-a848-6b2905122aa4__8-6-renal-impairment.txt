@@ -1,0 +1,7 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.6 Renal Impairment
+
+This drug is known to be substantially excreted by the kidney. Effect of mild or moderate renal impairment (creatinine clearance ≥30 and ≤80 mL/min) on sugammadex PK and PD was obtained from a study in elderly patients
+
+  [see Use in Specific Populations (8.5)]. Although clearance of drug decreased in elderly subjects with mild and moderate renal impairment, there was no significant difference in the ability of sugammadex to reverse the pharmacodynamic effect of rocuronium. Hence, no dosage adjustment is necessary for mild and moderate renal impairment. Sugammadex Injection is not recommended for use in patients with severe renal impairment (creatinine clearance <30 mL/min) due to insufficient safety information combined with the prolonged and increased overall exposure in these patients
+
+  [see Warnings and Precautions (5.11), Clinical Pharmacology (12.3)].

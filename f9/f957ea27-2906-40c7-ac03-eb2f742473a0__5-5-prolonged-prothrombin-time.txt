@@ -1,0 +1,3 @@
+DailyMed f957ea27-2906-40c7-ac03-eb2f742473a0 | Cephalexin | 5.5 Prolonged Prothrombin Time
+
+Cephalosporins may be associated with prolonged prothrombin time. Those at risk include patients with renal or hepatic impairment, or poor nutritional state, as well as patients receiving a protracted course of antibacterial therapy, and patients receiving anticoagulant therapy. Monitor prothrombin time in patients at risk and manage as indicated.

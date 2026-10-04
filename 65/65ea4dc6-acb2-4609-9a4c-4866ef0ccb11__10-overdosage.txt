@@ -1,0 +1,5 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 10 OVERDOSAGE
+
+Platelet inhibition by clopidogrel is irreversible and will last for the life of the platelet. Overdose following clopidogrel administration may result in bleeding complications. A single oral dose of clopidogrel at 1,500 or 2,000 mg/kg was lethal to mice and to rats and at 3,000 mg/kg to baboons. Symptoms of acute toxicity were vomiting, prostration, difficult breathing, and gastrointestinal hemorrhage in animals.
+
+                  Based on biological plausibility, platelet transfusion may restore clotting ability.

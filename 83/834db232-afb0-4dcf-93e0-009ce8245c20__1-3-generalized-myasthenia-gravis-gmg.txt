@@ -1,0 +1,3 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 1.3 Generalized Myasthenia Gravis (gMG)
+
+UPLIZNA is indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) or anti-muscle specific tyrosine kinase (MuSK) antibody positive.

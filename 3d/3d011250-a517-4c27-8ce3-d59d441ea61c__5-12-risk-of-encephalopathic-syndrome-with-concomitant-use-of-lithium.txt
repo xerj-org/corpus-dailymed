@@ -1,0 +1,5 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 5.12 Risk of Encephalopathic Syndrome with Concomitant Use of Lithium
+
+An encephalopathic syndrome, characterized by weakness, lethargy, fever, tremulousness, confusion, extrapyramidal symptoms, leukocytosis and elevated serum enzymes (AST, ALT, GGT, alkaline phosphatase, CK and LDH), BUN and fasting blood sugar, followed by irreversible brain damage has occurred in a few patients treated with concomitant haloperidol and lithium.
+
+                        Monitor patients who concomitantly use haloperidol decanoate and lithium closely for early signs of neurological toxicity and discontinue haloperidol decanoate or both haloperidol decanoate and lithium promptly if such signs appear.

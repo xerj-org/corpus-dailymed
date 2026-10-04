@@ -1,0 +1,9 @@
+DailyMed 01bdc479-1f1f-af94-837c-12e7e861321a | Prednisone delayed release | 5.7 Ophthalmic Effects
+
+Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses.
+
+                        The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
+
+                        Intraocular pressure may become elevated in some individuals. If corticosteroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
+
+                        Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation. Corticosteroids should not be used in active ocular herpes simplex.

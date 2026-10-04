@@ -1,0 +1,6 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 5.1 Oxalate Nephropathy and Nephrolithiasis
+
+Acute and chronic oxalate nephropathy have been reported with prolonged administration of high doses of ascorbic acid.  Acidification of the urine by ascorbic acid may cause precipitation of cysteine, urate or oxalate stones.  Patients with renal disease including renal impairment, history of oxalate kidney stones, and geriatric patients may be at increased risk for oxalate nephropathy while receiving treatment with ascorbic acid.  Pediatric patients less than 2 years of age may be at increased risk for oxalate nephropathy during treatment with ascorbic acid because their kidneys are immature [see Use in Specific Populations (8.4, 8.5, 8.6)].  Monitor renal function in patients at increased risk receiving ascorbic acid injection. Discontinue ascorbic acid injection in patients who develop oxalate nephropathy and treat any suspected oxalate nephropathy. 
+
+                        Ascorbic acid injection is not indicated for prolonged administration (the maximum recommended duration is one week) [see Dosage and Administration (2.1
+                           )].

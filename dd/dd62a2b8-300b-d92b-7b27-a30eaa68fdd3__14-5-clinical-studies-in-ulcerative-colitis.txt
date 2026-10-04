@@ -1,0 +1,460 @@
+DailyMed dd62a2b8-300b-d92b-7b27-a30eaa68fdd3 | Tofacitinib | 14.5 Clinical Studies in Ulcerative Colitis
+
+The efficacy of XELJANZ tablets (referred to as “XELJANZ” in this subsection of labeling) was evaluated in two 12-week induction studies (UC-I and UC-II), a 52-week maintenance study (UC-III), and a long-term extension study (UC-IV).  
+
+                           Induction Trials (Study UC-I [NCT01465763] and Study UC-II [NCT01458951])
+
+                        In two identical induction trials (UC-I and UC-II), 1,139 adult patients were randomized (598 and 541 patients, respectively) to XELJANZ 10 mg twice daily or placebo with a 4:1 treatment allocation ratio. These trials included adult patients with moderately to severely active UC (total Mayo score of 6 to 12, with an endoscopy subscore of at least 2, and rectal bleeding subscore of at least 1) and who had failed or were intolerant to at least 1 of the following treatments: oral or intravenous corticosteroids, azathioprine, 6-MP or TNF blocker. XELJANZ and tofacitinib extended-release tablets are indicated only for use in patients who have had inadequate response or intolerance to one or more TNF blockers [see Indications and Usage (1.5)].   
+
+                         The disease activity was assessed by Mayo scoring index (0 to 12) which consists of four subscores (0 to 3 for each subscore): stool frequency, rectal bleeding, findings on endoscopy, and physician global assessment. An endoscopy subscore of 2 was defined by marked erythema, absent vascular pattern, any friability, and erosions; an endoscopy subscore of 3 was defined by spontaneous bleeding and ulceration.  
+
+                        Patients were permitted to use stable doses of oral aminosalicylates and corticosteroids (prednisone daily dose up to 25 mg equivalent). Concomitant immunosuppressants (oral immunomodulators or biologic therapies) were not permitted for UC patients during these studies.
+
+                           A total of 52%, 73% and 72% of patients had previously failed or were intolerant to TNF blockers (51% in Study UC-1 and 52% in Study UC-II), corticosteroids (75% in Study UC-I and 71% in Study UC-II), and/or immunosuppressants (74% in Study UC-I and 70% in Study UC-II), respectively.  
+
+                         Oral corticosteroids were received as concomitant treatment for UC by 47% of patients (45% in Study UC-I and 48% in Study UC-II) and 71% received concomitant aminosalicylates as treatment for UC (71% in Study UC-I, and 72% in Study UC-II). The baseline clinical characteristics were generally similar between the XELJANZ-treated patients and placebo-treated patients.  
+
+                         The primary endpoint of Study UC-I and Study UC-II was the proportion of patients in remission at Week 8, and the key secondary endpoint was the proportion of patients with improvement of endoscopic appearance of the mucosa at Week 8.  
+
+                        The efficacy results of Study UC-I and Study UC-II based on the centrally read endoscopy results are shown in Table 20.  
+
+                           Table 20: Proportion of Adult Patients with Moderately to Severely Active UC Who Met Primary and Key Secondary Efficacy Endpoints at Week 8 in Study UC-I and Study UC-II (Central Endoscopy Read)
+                            
+
+                                    Study UC-I
+                                  |
+
+                                    Endpoint
+                                  |
+                                    Placebo
+                                  |
+
+                                       XELJANZ 10 mg
+
+Twice Daily
+
+                                  |
+
+                                    Treatment Difference versus Placebo
+
+                                    (95% CI)
+                                  |
+
+                                    Remission at Week 8a
+
+                                  |
+                                     |
+                                     |
+                                     |
+
+                                  Total Population  |
+                                  N=122
+
+8%  |
+                                  N=476
+
+18%  |
+                                  10%* (4.3, 16.3)  |
+
+                                  With Prior TNF Blocker Failureb
+                                  |
+                                  N=64
+
+2%  |
+                                  N=243
+
+11%  |
+                                     |
+
+                                  Without Prior TNF Blocker Failurec,e
+                                  |
+                                  N=58
+
+ 16%  |
+                                  N=233
+
+ 26%  |
+                                     |
+
+                                    Improvement of Endoscopic Appearance of the Mucosa at Week 8d
+
+                                  |
+
+                                  Total Population  |
+                                  N=122
+
+ 16%  |
+                                  N=476
+
+31%  |
+                                  16%** (8.1, 23.4)  |
+
+                                  With Prior TNF Blocker Failureb
+                                  |
+                                  N=64
+
+6%  |
+                                  N=243
+
+ 23%  |
+                                     |
+
+                                  Without Prior TNF Blocker Failurec,e
+                                  |
+                                  N=58
+
+26%  |
+                                  N=233
+
+40%  |
+                                     |
+
+                                    Study UC-II
+                                  |
+
+                                    Endpoint
+                                  |
+                                    Placebo
+                                  |
+
+                                    XELJANZ
+                                    10 mg Twice Daily
+                                  |
+
+                                    Treatment
+                                    Difference
+
+ (95% CI)
+                                  |
+
+                                    Remission at Week 8a
+
+                                  |
+                                     |
+                                     |
+                                     |
+
+                                  Total Population  |
+                                  N=112
+
+4%  |
+                                  N=429
+
+17%  |
+                                  13%** (8.1, 17.9)  |
+
+                                  With Prior TNF Blocker Failureb
+                                  |
+                                  N=60
+
+0%  |
+                                  N=222
+
+12%  |
+                                     |
+
+                                  Without Prior TNF Blocker Failurec,e
+                                  |
+                                  N=52
+
+8%  |
+                                  N=207
+
+22%  |
+                                     |
+
+                                    Improvement of Endoscopic Appearance of the Mucosa at Week 8d
+
+                                  |
+
+                                  Total Population  |
+                                  N=112
+
+12%  |
+                                  N=429
+
+28%  |
+                                  17%** (9.5, 24.1)  |
+
+                                  With Prior TNF Blocker Failureb
+                                  |
+                                  N=60
+
+7%  |
+                                  N=222
+
+ 22%  |
+                                     |
+
+                                  Without Prior TNF Blocker Failurec,e
+                                  |
+                                  N=52
+
+ 17%  |
+                                  N=207
+
+36%  |
+                                     |
+
+                        * p-value <0.01, ** p-value <0.001. CI = Confidence interval; N = number of patients in the analysis set; TNF = tumor necrosis factor
+
+                           a Remission was defined as clinical remission (a Mayo score ≤2 with no individual subscore >1) and rectal bleeding subscore of 0.
+
+                            b Prior TNF blocker failure was defined in this program as inadequate response, loss of response, or intolerance to TNF blocker therapy.
+
+                           c Patients in this group had failed one or more conventional therapies (corticosteroid, azathioprine, 6-mercaptopurine) but did not have history of prior failure of TNF blocker therapy.
+
+                           d Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern).
+
+                           e XELJANZ and tofacitinib extended-release tablets are indicated only for use in patients who have had inadequate response or intolerance to one or more TNF blockers [see Indications and Usage (1.5)].
+
+                           Clinical Response at Week 8
+
+                         Clinical response was defined as a decrease from baseline in Mayo score of ≥3 points and ≥30%, with an accompanying decrease in the subscore for rectal bleeding of ≥1 point or absolute subscore for rectal bleeding of 0 or 1.  
+
+ Clinical response was observed in 60% of patients treated with XELJANZ 10 mg twice daily compared to 33% of patients treated with placebo in Study UC-I and 55% compared to 29% in Study UC-II.
+
+                           Normalization of the Endoscopic Appearance of the Mucosa at Week 8
+
+                        Normalization of endoscopic appearance of the mucosa was defined as a Mayo endoscopic subscore of 0 and was observed in 7% of patients treated with XELJANZ 10 mg twice daily compared to 2% of treated with placebo in both Studies UC-I and UC-II.  
+
+                           Rectal Bleeding and Stool Frequency
+
+                        Decreases in rectal bleeding and stool frequency subscores were observed as early as Week 2 in patients treated with XELJANZ.
+
+                           Maintenance Trial (Study UC-III [NCT01458574])
+
+                         A total of 593 adult patients who completed the induction trials (UC-I or UC-II) and achieved clinical response were re-randomized with 1:1:1 treatment allocation ratio to XELJANZ 5 mg twice daily, XELJANZ 10 mg twice daily, or placebo for 52 weeks in Study UC-III. XELJANZ 5 mg twice daily is the recommended dosage for maintenance therapy; limit use of XELJANZ 10 mg twice daily beyond induction to those with loss of response and should be used for the shortest duration [see Dosage and Administration (2.5)]. As in the induction trials, patients were permitted to use stable doses of oral aminosalicylates; however, corticosteroid tapering was required upon entrance into this study for patients who were receiving corticosteroids at baseline. Concomitant immunosuppressants (oral immunomodulators or biologic therapies) were not permitted.  
+
+                        At baseline of Study UC-III:
+
+                           179 (30%) patients were in remission
+
+                            289 (49%) patients were receiving oral corticosteroids
+
+                           265 (45%), 445 (75%), and 413 (70%) patients had previously failed or were intolerant to TNF blocker therapy, corticosteroids, and immunosuppressants, respectively. XELJANZ and tofacitinib extended-release tablets are indicated only for use in patients who have had inadequate response or intolerance to one or more TNF blockers [see Indications and Usage (1.5)].  
+
+                         In Study UC-III, the primary endpoint was the proportion of patients in remission at Week 52. There were two key secondary endpoints: the proportion of patients with improvement of endoscopic appearance at Week 52, and the proportion of patients with sustained corticosteroid-free remission at both Week 24 and Week 52 among patients in remission at baseline of Study UC-III.  
+
+ The efficacy results of Study UC-III based on the centrally read endoscopy results are summarized in Table 21.
+
+Table 21: Proportion of Adult Patients with Moderately to Severely Active UC Who Met Primary and Key Secondary Efficacy Endpoints in Study UC-III (Central Endoscopy Read)
+                         
+
+                                     
+                                  |
+
+                                    Treatment Difference versus Placebo
+
+(95% CI)
+                                  |
+
+                                    Endpoint
+                                  |
+                                    Placebo
+                                  |
+
+                                    XELJANZ
+                                    5 mg
+
+Twice Daily
+                                  |
+
+                                    XELJANZ
+                                    10 mg
+
+Twice Daily
+                                  |
+
+                                    XELJANZ
+                                    5 mg
+
+Twice Daily
+                                  |
+
+                                    XELJANZ
+                                    10 mg
+
+Twice Daily
+                                  |
+
+                                    Remission at Week 52a
+
+                                  |
+
+                                  Total Population  |
+                                  N=198
+
+11%  |
+                                  N=198
+
+34%  |
+                                  N=197
+
+41%  |
+                                  23%*
+
+ (15.3, 31.2)  |
+                                  30%*
+
+(21.4, 37.6)  |
+
+                                  With Prior TNF Blocker Failureb
+                                  |
+                                  N=89
+
+ 11%  |
+                                  N=83
+
+24%  |
+                                  N=93
+
+37%  |
+                                     |
+                                     |
+
+                                  Without Prior TNF Blocker
+
+ Failurec,f
+                                  |
+                                  N=109
+
+11%  |
+                                  N=115
+
+42%  |
+                                  N=104
+
+44%  |
+                                     |
+                                     |
+
+                                    Improvement of endoscopic appearance of the mucosa at Week 52d
+
+                                  |
+
+                                  Total Population  |
+                                  N=198
+
+13%  |
+                                  N=198
+
+37%  |
+                                  N=197
+
+46%  |
+                                  24%*
+
+(16.0, 32.5)  |
+                                  33%*
+
+ (24.2, 41.0)  |
+
+                                  With Prior TNF Blocker Failureb
+                                  |
+                                  N=89
+
+ 12%  |
+                                  N=83
+
+30%  |
+                                  N=93
+
+40%  |
+                                     |
+                                     |
+
+                                  Without Prior TNF Blocker Failurec,f
+                                  |
+                                  N=109
+
+14%  |
+                                  N=115
+
+ 43%  |
+                                  N=104
+
+51%  |
+                                     |
+                                     |
+
+                                    Sustained corticosteroid-free remission at both Week 24 and Week 52 among patients in remission at baselinee
+
+                                  |
+
+                                  Total Population  |
+                                  N=59
+
+ 5%  |
+                                  N=65
+
+ 35%  |
+                                  N=55
+
+ 47%  |
+                                  30%*
+
+(17.4, 43.2)  |
+                                  42%*
+
+ (27.9, 56.5)  |
+
+                                  With Prior TNF Blocker Failureb
+                                  |
+                                  N=21
+
+5%  |
+                                  N=18
+
+ 22%  |
+                                  N=18
+
+39%  |
+                                     |
+                                     |
+
+                                  Without Prior TNF Blocker Failurec,f
+                                  |
+                                  N=38
+
+ 5%  |
+                                  N=47
+
+40%  |
+                                  N=37
+
+ 51%  |
+                                     |
+                                     |
+
+                        * p-value <0.0001. CI = Confidence interval; N = number of patients in the analysis set; TNF = tumor necrosis factor.
+
+                           a Remission was defined as clinical remission (a Mayo score ≤2 with no individual subscore >1) and rectal bleeding subscore of 0.
+
+                           b Prior TNF blocker failure was defined in this program as inadequate response, loss of response, or intolerance to TNF blocker therapy.
+
+                           c Patients in this group had failed one or more conventional therapies (corticosteroid, azathioprine, 6-mercaptopurine) but did not have history of prior failure of TNF blocker therapy.
+
+                           d Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern).
+
+                           e Sustained corticosteroid-free remission was defined as being in remission and not taking corticosteroids for at least 4 weeks prior to the visit at both Week 24 and Week 52.
+
+                           f XELJANZ and tofacitinib extended-release tablets are indicated only for use in patients who have had inadequate response or intolerance to one or more TNF blockers [see Indications and Usage (1.5)].
+
+                           Maintenance of Clinical Response
+
+                        Maintenance of clinical response was defined as the proportion of patients who met the definition of clinical response (defined as a decrease from the induction study (UC-I, UC-II) baseline Mayo score of ≥3 points and ≥30%, with an accompanying decrease in the rectal bleeding subscore of ≥1 point or rectal bleeding subscore of 0 or 1) at both Baseline and Week 52 of Study UC-III. Maintenance of clinical response was observed in 20% in the placebo group, 52% in the XELJANZ 5 mg twice daily group, and 62% in the XELJANZ 10 mg twice daily group.
+
+                              Maintenance of Remission (Among Patients in Remission at Baseline)
+
+                         In the 179 patients who were in remission at baseline of Study UC-III (N = 59 for placebo, N = 65 for XELJANZ 5 mg twice daily, N = 55 for XELJANZ 10 mg twice daily), 10% in the placebo group, 46% in the XELJANZ 5 mg twice daily group and 56% in the XELJANZ 10 mg twice daily group maintained remission at Week 52.  
+
+                            Normalization of the Endoscopic Appearance of the Mucosa
+
+                        Normalization of endoscopic appearance of the mucosa was defined as a Mayo endoscopic subscore of 0 and was observed at Week 52 in 15% of patients in the XELJANZ 5 mg twice daily group and 17% of patients in the XELJANZ 10 mg twice daily group compared to 4% of placebo patients.  
+
+                           Open-label Extension Study (Study UC-IV [NCT01470612])
+
+                        In Study UC-IV, 914 patients were treated of which 156 received XELJANZ 5 mg twice daily and 758 received XELJANZ 10 mg twice daily.
+
+   Of the 905 patients who were assigned to XELJANZ 10 mg twice daily in the 8-week induction studies (Study UC-I or Study UC-II), 322 patients completed the induction studies but did not achieve clinical response. Of these 322 patients, 291 continued to receive XELJANZ 10 mg twice daily (unblinded) and had available data after an additional 8 weeks in Study UC-IV. After 8 additional weeks (a total of 16 weeks treatment), 148 patients achieved clinical response, and 25 patients achieved remission (based on central endoscopy read). Among those 143 patients who achieved clinical response by 16 weeks and had available data at Week 52, 66 patients achieved remission (based on local endoscopy read) after continued treatment with XELJANZ 10 mg twice daily for 52 weeks.

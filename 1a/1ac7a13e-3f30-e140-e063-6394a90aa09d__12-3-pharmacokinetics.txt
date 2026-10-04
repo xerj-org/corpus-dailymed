@@ -1,0 +1,3 @@
+DailyMed 1ac7a13e-3f30-e140-e063-6394a90aa09d | Valacyclovir | 12.3 Pharmacokinetics
+
+The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir tablets have been investigated in 14 volunteer trials involving 283 adults and in 3 trials involving 112 pediatric subjects aged 1 month to less than 12 years.

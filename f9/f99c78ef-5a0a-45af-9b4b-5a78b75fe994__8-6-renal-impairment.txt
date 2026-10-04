@@ -1,0 +1,3 @@
+DailyMed f99c78ef-5a0a-45af-9b4b-5a78b75fe994 | Desvenlafaxine | 8.6 Renal Impairment
+
+Adjust the maximum recommended dosage in patients with moderate or severe renal impairment (CLcr 15 to 50 mL/min, C-G), or end-stage renal disease (CLcr < 15 mL/min, C-G) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

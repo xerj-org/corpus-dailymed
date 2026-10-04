@@ -1,0 +1,5 @@
+DailyMed 0fc94bc2-fa38-439a-a609-1b4130cdacb1 | Hydrochlorothiazide | Drug/Laboratory Test Interactions
+
+Thiazides should be discontinued before carrying out tests for parathyroid function (see
+                           PRECAUTIONS
+                           , General).

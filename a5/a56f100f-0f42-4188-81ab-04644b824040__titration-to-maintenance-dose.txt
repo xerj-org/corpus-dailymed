@@ -1,0 +1,9 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Titration to Maintenance Dose
+
+The usual maintenance dose is in the range of 1.25 to 20 mg daily, which may be given as a single dose or in divided doses (see
+                              Dosage Interval
+                            section). Dosage increases should be made in increments of no more than 2.5 mg at weekly intervals based upon the patient’s blood glucose response.
+
+                        No exact dosage relationship exists between glyburide tablets and the other oral hypoglycemic agents. Although patients may be transferred from the maximum dose of other sulfonylureas, the maximum starting dose of 5 mg of glyburide tablets should be observed. A maintenance dose of 5 mg of glyburide tablets provides approximately the same degree of blood glucose control as 250 to 375 mg chlorpropamide, 250 to 375 mg tolazamide, 500 to 750 mg acetohexamide, or 1000 to 1500 mg tolbutamide.
+
+                        When transferring patients receiving more than 40 units of insulin daily, they may be started on a daily dose of glyburide tablets 5 mg concomitantly with a 50% reduction in insulin dose. Progressive withdrawal of insulin and increase of glyburide tablets in increments of 1.25 to 2.5 mg every 2 to 10 days is then carried out. During this conversion period when both insulin and glyburide tablets are being used, hypoglycemia may occur. During insulin withdrawal, patients should test their urine for glucose and acetone at least three times daily and report results to their physician. The appearance of persistent acetonuria with glycosuria indicates that the patient is a Type I diabetic who requires insulin therapy.

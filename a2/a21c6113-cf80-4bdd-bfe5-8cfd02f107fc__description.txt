@@ -1,0 +1,35 @@
+DailyMed a21c6113-cf80-4bdd-bfe5-8cfd02f107fc | CHLORZOXAZONE | DESCRIPTION
+
+Each 375 mg chlorzoxazone tablet contains: Chlorzoxazone USP 375 mg.
+
+                  Each 500 mg chlorzoxazone tablet contains: Chlorzoxazone USP 500 mg.
+
+                  Each 750 mg chlorzoxazone tablet contains: Chlorzoxazone USP 750 mg.
+
+                  Chemical Name: 5-Chloro-2-benzoxazolinone.
+
+                  Structural Formula:
+
+                  Molecular Formula: C
+
+  7H
+
+  4ClNO
+
+  2
+
+                  Molecular Weight: 169.56
+
+                  Chlorzoxazone, USP is a white or practically white, practically odorless, crystalline powder. Chlorzoxazone USP is slightly soluble in water; sparingly soluble in alcohol, in isopropyl alcohol, and in methanol; soluble in solutions of alkali hydroxides and ammonia.
+
+                  Inactive ingredients:
+
+                  375 mg contains colloidal silicon dioxide, corn starch, croscarmellose sodium, docusate sodium with sodium benzoate, lactose monohydrate, magnesium stearate and microcrystalline cellulose.
+
+                  500 mg contains D&C Red 27/Phloxine Aluminium lake, FD&C Yellow 6/Sunset Yellow FCF Aluminium lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polysorbate 80, pregelatinized starch, sodium starch glycolate.
+
+                  750 mg contains colloidal silicon dioxide, corn starch, croscarmellose sodium, docusate sodium with sodium benzoate, lactose monohydrate, magnesium stearate and microcrystalline cellulose.
+
+  Meets USP dissolution test 5 for 500 mg.
+
+  FDA approved dissolution method differs from that of the USP for 375 mg and 750 mg.

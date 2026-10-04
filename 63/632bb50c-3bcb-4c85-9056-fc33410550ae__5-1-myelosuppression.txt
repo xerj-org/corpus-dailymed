@@ -1,0 +1,13 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 5.1 Myelosuppression
+
+ZEPZELCA can cause severe and fatal myelosuppression including febrile neutropenia and sepsis, thrombocytopenia and anemia.
+
+                        Administer ZEPZELCA only to patients with baseline neutrophil count of at least 1,500 cells/mm3 and platelet count of at least 100,000/mm3. To reduce the risk of febrile neutropenia administer granulocyte colony-stimulating factor (G-CSF) [refer to Prescribing Information].
+
+                        Monitor blood counts including neutrophils, red blood cells and platelets prior to each ZEPZELCA administration. For neutrophil count less than 500 cells/mm3 or any value less than lower limit of normal, administer G-CSF. Withhold, reduce the dose, or permanently discontinue ZEPZELCA based on severity [see Dosage and Administration (2.2)].
+
+                           In the IMforte study [see Adverse Reactions (6.1)], primary prophylaxis of G-CSF was administered to 84% of patients. Based on laboratory values, decreased neutrophils occurred in 36%, including 18% Grade 3 or Grade 4 in patients who received ZEPZELCA in combination with atezolizumab. The median time to onset of Grade 3 and 4 decreased neutrophil cells was 31 days and a median duration of 10 days. Febrile neutropenia occurred in 1.7%. Sepsis occurred in 1%. There were 7 fatal infections: pneumonia (n=3), sepsis (n=3), and febrile neutropenia (n=1).
+
+                           Based on laboratory values, decreased platelets occurred in 54%, including 15% Grade 3 or Grade 4 in patients who received ZEPZELCA in combination with atezolizumab. The median time to onset of Grade 3 and 4 decreased platelet cells was 31 days and a median duration of 12 days.
+
+                           Based on laboratory values, decreased hemoglobin occurred in 51%, including 13% Grade 3 or Grade 4 in patients who received ZEPZELCA in combination with atezolizumab. The median time to onset of Grade 3 and 4 decreased hemoglobin was 64 days and a median duration of 8 days.

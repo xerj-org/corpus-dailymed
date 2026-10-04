@@ -1,0 +1,3 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 4.1 Advanced Aortic Stenosis
+
+Do not use nicardipine in patients with advanced aortic stenosis because of the afterload reduction effect of nicardipine. Reduction of diastolic pressure in these patients may worsen rather than improve myocardial oxygen balance.

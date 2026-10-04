@@ -1,0 +1,5 @@
+DailyMed 3a79b2ab-4131-4978-99a0-0119df57d5fe | Lisdexamfetamine Dimesylate | 8.6 Renal Impairment
+
+Due to reduced clearance in patients with severe renal impairment (GFR 15 to <30 mL/min/1.73 m2), the maximum dose should not exceed 50 mg/day. The maximum recommended dose in ESRD (GFR <15 mL/min/1.73 m2) patients is 30 mg/day [see Clinical Pharmacology (12.3)].
+
+                        Lisdexamfetamine and d-amphetamine are not dialyzable.

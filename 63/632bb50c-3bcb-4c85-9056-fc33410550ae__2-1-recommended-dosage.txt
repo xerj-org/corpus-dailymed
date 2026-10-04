@@ -1,0 +1,10 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 2.1 Recommended Dosage
+
+The recommended dosage of ZEPZELCA in combination with atezolizumab or atezolizumab and hyaluronidase-tqjs is 3.2 mg/m2 by intravenous infusion over 60 minutes every 21 days until disease progression or unacceptable toxicity.
+
+                        Initiate treatment with ZEPZELCA only if absolute neutrophil count (ANC) is at least 1,500 cells/mm3 and platelet count is at least 100,000/mm3
+                            [see Warnings and Precautions (5.1)].
+
+                           When administering ZEPZELCA on the same day as atezolizumab or atezolizumab and hyaluronidase-tqjs, administer the chosen atezolizumab drug first. For the recommended dosage of atezolizumab or atezolizumab and hyaluronidase-tqjs refer to the respective Prescribing Information.
+
+                           If discontinuation of atezolizumab or atezolizumab and hyaluronidase-tqjs is required due to an immune-related severe adverse event, treatment with ZEPZELCA may be continued at the same dose. If immune toxicity does not resolve or recurs despite discontinuation of atezolizumab, permanently discontinue ZEPZELCA.

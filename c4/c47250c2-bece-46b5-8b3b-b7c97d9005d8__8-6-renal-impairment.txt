@@ -1,0 +1,3 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 8.6 Renal Impairment
+
+Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine. These alternative pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment. Nonetheless, some modification of dosage is recommended, particularly for patients with severe renal dysfunction [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].

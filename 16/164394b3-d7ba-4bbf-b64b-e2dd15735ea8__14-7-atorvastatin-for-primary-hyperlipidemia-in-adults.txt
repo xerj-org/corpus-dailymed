@@ -1,0 +1,473 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 14.7 Atorvastatin for Primary Hyperlipidemia in Adults
+
+Atorvastatin reduces total-C, LDL-C, apo B, and TG, and increases HDL-C in patients with hyperlipidemia (heterozygous familial and nonfamilial) and mixed dyslipidemia. Therapeutic response is seen within 2 weeks, and maximum response is usually achieved within 4 weeks and maintained during chronic therapy.
+
+                        In two multicenter, placebo-controlled, dose-response trials in patients with hyperlipidemia, atorvastatin given as a single dose over 6 weeks significantly reduced total-C, LDL-C, apo B, and TG. (Pooled results are provided in Table 10).
+
+                           Table 10. Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
+
+                                    Dose
+                                  |
+
+                                    N
+                                  |
+
+                                     TC
+                                  |
+
+                                    LDL-C
+                                  |
+
+                                    Apo B
+                                  |
+
+                                    TG
+                                  |
+
+                                    HDL-C
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                    21
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    10
+
+                                  |
+
+                                    -3
+
+                                  |
+
+                                       10
+
+                                  |
+
+                                    22
+
+                                  |
+
+                                    -29
+
+                                  |
+
+                                    -39
+
+                                  |
+
+                                    -32
+
+                                  |
+
+                                    -19
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                       20
+
+                                  |
+
+                                    20
+
+                                  |
+
+                                    -33
+
+                                  |
+
+                                    -43
+
+                                  |
+
+                                    -35
+
+                                  |
+
+                                    -26
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                       40
+
+                                  |
+
+                                    21
+
+                                  |
+
+                                    -37
+
+                                  |
+
+                                    -50
+
+                                  |
+
+                                    -42
+
+                                  |
+
+                                    -29
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                       80
+
+                                  |
+
+                                    23
+
+                                  |
+
+                                    -45
+
+                                  |
+
+                                    -60
+
+                                  |
+
+                                    -50
+
+                                  |
+
+                                    -37
+
+                                  |
+
+                                    5
+
+                                  |
+
+                           a Results are pooled from 2 dose-response trials.
+
+                        In three multicenter, double-blind trials in patients with hyperlipidemia, atorvastatin was compared to other statins. After randomization, patients were treated for 16 weeks with either atorvastatin 10 mg per day or a fixed dose of the comparative agent (Table 11).
+
+                           Table 11. 	Mean Percentage Change from Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
+
+                                    Treatment
+
+                                    (Daily Dosage)
+                                  |
+
+                                    N
+                                  |
+
+                                    Total-C
+                                  |
+
+                                    LDL-C
+                                  |
+
+                                    Apo B
+                                  |
+
+                                    TG
+                                  |
+
+                                    HDL-C
+                                  |
+
+                                          Trial 1
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                       Atorvastatin 10 mg
+
+                                  |
+
+                                    707
+
+                                  |
+
+                                    -27
+
+                                  |
+
+                                    -36A negative value for the 95% CI for the difference between treatments favors atorvastatin for all except HDL C, for which a positive value favors atorvastatin. If the range does not include 0, this indicates a statistically significant difference.
+
+                                  |
+
+                                    -28
+
+                                  |
+
+                                    -17
+
+                                  |
+
+                                    +7
+
+                                  |
+
+                                       Lovastatin 20 mg
+
+                                  |
+
+                                    191
+
+                                  |
+
+                                    -19
+
+                                  |
+
+                                    -27
+
+                                  |
+
+                                    -20
+
+                                  |
+
+                                    -6
+
+                                  |
+
+                                    +7
+
+                                  |
+
+                                       95% CI for Diff
+
+                                  |
+                                  |
+
+                                    -9.2, -6.5
+
+                                  |
+
+                                    -10.7, -7.1
+
+                                  |
+
+                                    -10.0, -6.5
+
+                                  |
+
+                                    -15.2, -7.1
+
+                                  |
+
+                                    -1.7, 2.0
+
+                                  |
+
+                                          Trial 2
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                       Atorvastatin 10 mg
+
+                                  |
+
+                                    222
+
+                                  |
+
+                                    -25Significantly different from pravastatin, ANCOVA, p ≤ 0.05
+
+                                  |
+
+                                    -35
+
+                                  |
+
+                                    -27
+
+                                  |
+
+                                    -17
+
+                                  |
+
+                                    +6
+
+                                  |
+
+                                       Pravastatin 20 mg
+
+                                  |
+
+                                    77
+
+                                  |
+
+                                    -17
+
+                                  |
+
+                                    -23
+
+                                  |
+
+                                    -17
+
+                                  |
+
+                                    -9
+
+                                  |
+
+                                    +8
+
+                                  |
+
+                                       95% CI for Diff
+                                       Significantly different from lovastatin, ANCOVA, p ≤ 0.05
+
+                                  |
+                                  |
+
+                                    -10.8, -6.1
+
+                                  |
+
+                                    -14.5, -8.2
+
+                                  |
+
+                                    -13.4, -7.4
+
+                                  |
+
+                                    -14.1, -0.7
+
+                                  |
+
+                                    -4.9, 1.6
+
+                                  |
+
+                                          Trial 3
+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+                                       Atorvastatin 10 mg
+
+                                  |
+
+                                    132
+
+                                  |
+
+                                    -29Significantly different from simvastatin, ANCOVA, p ≤ 0.05
+
+                                  |
+
+                                    -37
+
+                                  |
+
+                                    -34
+
+                                  |
+
+                                    -23
+
+                                  |
+
+                                    +7
+
+                                  |
+
+                                       Simvastatin 10 mg
+
+                                  |
+
+                                    45
+
+                                  |
+
+                                    -24
+
+                                  |
+
+                                    -30
+
+                                  |
+
+                                    -30
+
+                                  |
+
+                                    -15
+
+                                  |
+
+                                    +7
+
+                                  |
+
+                                       95% CI for Diff
+
+                                  |
+                                  |
+
+                                    -8.7, -2.7
+
+                                  |
+
+                                    -10.1, -2.6
+
+                                  |
+
+                                    -8.0, -1.1
+
+                                  |
+
+                                    -15.1, -0.7
+
+                                  |
+
+                                    -4.3, 3.9
+
+                                  |
+
+                        Table 11 does not contain data comparing the effects of atorvastatin 10 mg and higher dosage of lovastatin, pravastatin, and simvastatin. The drugs compared in the trials summarized in the table are not necessarily exchangeable.

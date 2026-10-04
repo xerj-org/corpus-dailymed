@@ -1,0 +1,5 @@
+DailyMed c3dfa8a1-d10a-4a1a-8eba-5f4e2a5a2949 | Metformin Hydrochloride; METFORMIN HYDROCHLORIDE | 8.7 Hepatic Impairment
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis. Metformin hydrochloride tablets/Metformin hydrochloride extended-release tablets are not recommended in patients with hepatic impairment. [see
+                              Warnings and Precautions (5.1)
+                           ].

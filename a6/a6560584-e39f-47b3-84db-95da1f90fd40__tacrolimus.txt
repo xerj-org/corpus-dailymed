@@ -1,0 +1,3 @@
+DailyMed a6560584-e39f-47b3-84db-95da1f90fd40 | Felodipine; Felopdipine | Tacrolimus
+
+Felodipine may increase the blood concentration of tacrolimus. When given concomitantly with felodipine, the tacrolimus blood concentration should be followed and the tacrolimus dose may need to be adjusted.

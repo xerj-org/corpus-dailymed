@@ -1,0 +1,3 @@
+DailyMed b5c12c9a-62eb-481a-8099-7ad35242f7bf | Bupropion Hydrochloride | 12.1 Mechanism of Action
+
+The exact mechanism of the antidepressant action of bupropion is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine and does not inhibit the reuptake of serotonin. Bupropion does not inhibit monoamine oxidase.

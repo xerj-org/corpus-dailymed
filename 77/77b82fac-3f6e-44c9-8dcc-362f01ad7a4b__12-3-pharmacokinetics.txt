@@ -1,0 +1,138 @@
+DailyMed 77b82fac-3f6e-44c9-8dcc-362f01ad7a4b | Amoxicillin and Clavulanate Potassium | 12.3 Pharmacokinetics
+
+Absorption
+
+                           Amoxicillin and Clavulanate Potassium Tablets
+
+                        Dosing in the fasted or fed state has minimal effect on the pharmacokinetics of amoxicillin. While amoxicillin and clavulanate potassium can be given without regard to meals, absorption of clavulanate potassium when taken with food is greater relative to the fasted state. In one study, the relative bioavailability of clavulanate was reduced when amoxicillin and clavulanate potassium was dosed at 30 and 150 minutes after the start of a high‑fat breakfast.
+
+                        Mean amoxicillin and clavulanate potassium pharmacokinetic parameters in healthy adult subjects following administration of amoxicillin and clavulanate potassium tablets are shown in Table 7.
+
+                           Table 7: Mean (±S.D.) Amoxicillin and Clavulanate Potassium Pharmacokinetic Parameters
+
+   a,b  with
+
+                           Amoxicillin and Clavulanate Potassium
+                           Tablets
+
+                                    Dosing Regimen
+
+                                  |
+
+                                    C
+
+      max(mcg/mL)
+
+                                  |
+
+                                    AUC
+
+      0-24(mcg*h/mL)
+
+                                  |
+
+                                  |
+                                 Amoxicillin
+
+                                  |
+                                 Clavulanate potassium
+
+                                  |
+                                 Amoxicillin
+
+                                  |
+                                 Clavulanate potassium
+
+                                  |
+
+                                 250 mg/125 mg every 8 hours
+
+                                  |
+                                 3.3 ± 1.12
+
+                                  |
+                                 1.5 ± 0.70
+
+                                  |
+                                 26.7 ± 4.56
+
+                                  |
+                                 12.6 ± 3.25
+
+                                  |
+
+                                 500 mg/125 mg every 12 hours
+
+                                  |
+                                 6.5 ± 1.41
+
+                                  |
+                                 1.8 ± 0.61
+
+                                  |
+                                 33.4 ± 6.76
+
+                                  |
+                                 8.6 ± 1.95
+
+                                  |
+
+                                 500 mg/125 mg every 8 hours
+
+                                  |
+                                 7.2 ± 2.26
+
+                                  |
+                                 2.4 ± 0.83
+
+                                  |
+                                 53.4 ± 8.87
+
+                                  |
+                                 15.7 ± 3.86
+
+                                  |
+
+                                 875 mg/125 mg every 12 hours
+
+                                  |
+                                 11.6 ± 2.78
+
+                                  |
+                                 2.2 ± 0.99
+
+                                  |
+                                 53.5 ± 12.31
+
+                                  |
+                                 10.2 ± 3.04
+
+                                  |
+
+                           aMean (± standard deviation) values of 14 healthy adult subjects (n= 15 for clavulanate in the low-dose regimens). Peak concentrations occurred ~1.5 hours after the dose.
+
+                           bAdministered at the start of a light meal.
+
+                           Distribution
+
+  The protein binding of amoxicillin and clavulanic acid to human serum is approximately 18% and 25%, respectively. Amoxicillin diffuses readily into most body tissues and fluids, with the exception of the brain and spinal fluid.
+
+                           Metabolism and Excretion
+
+  The half-life of amoxicillin after the oral administration of amoxicillin and clavulanate potassium is approximately 1.3 hours and that of clavulanic acid is approximately 1 hour.
+
+                           Amoxicillin and Clavulanate Potassium Tablets
+
+                        Following administration of a single 250 mg/125 mg or 500 mg/125 mg tablet, approximately 50 to 70% of amoxicillin and approximately 25 to 40% of clavulanic acid are excreted unchanged in urine during the first 6 hours.
+
+                           Drug Interaction Studies
+
+                           Clinical Studies
+
+                        Concurrent administration of probenecid delays amoxicillin excretion but does not delay renal excretion of clavulanic acid
+
+  [see
+
+   Drug Interactions (7.1)]
+
+  .

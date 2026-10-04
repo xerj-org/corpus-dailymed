@@ -1,0 +1,11 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | DOSAGE AND ADMINISTRATION:
+
+Cytarabine Injection is not active orally.  The schedule and method of administration varies with the program of therapy to be used. Cytarabine Injection may be given by intravenous infusion or injection, subcutaneously, or intrathecally (preservative free preparation only).
+
+                  Thrombophlebitis has occurred at the site of drug injection or infusion in some patients, and rarely patients have noted pain and inflammation at subcutaneous injection sites. In most instances, however, the drug has been well tolerated.
+
+                  Patients can tolerate higher total doses when they receive the drug by rapid intravenous injection as compared with slow infusion. This phenomenon is related to the drug's rapid inactivation and brief exposure of susceptible normal and neoplastic cells to significant levels after rapid injection. Normal and neoplastic cells seem to respond in somewhat parallel fashion to these different modes of administration and no clear-cut clinical advantage has been demonstrated for either.
+
+                  In the induction therapy of acute non-lymphocytic leukemia, the usual cytarabine dose in combination with other anticancer drugs is 100 mg/m2/day by continuous IV infusion (Days 1 to 7) or 100 mg/m2 IV every 12 hours (Days 1 to 7).
+
+                  The literature should be consulted for the current recommendations for use in acute lymphocytic leukemia.

@@ -1,0 +1,28 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Microbiology
+
+Mechanism of Action: Chloroquine, a 4-aminoquinoline, is an anti-protozoal agent. The precise mechanism by which chloroquine exhibits activity is not known. Chloroquine, may exert its effect against Plasmodium species by concentrating in the acid vesicles of the parasite and by inhibiting polymerization of heme. It can also inhibit certain enzymes by its interaction with DNA.
+
+                        Activity in Vitro and in Clinical Infections: Chloroquine is active against the erythrocytic forms of susceptible strains of Plasmodium falciparum, Plasmodium malariae, Plasmodium 
+                           ovale, and Plasmodium vivax. Chloroquine is not active against the gametocytes and the exoerythrocytic forms including the hypnozoite stage (P. vivax and P. ovale) of the Plasmodium parasites.
+
+                           In vitro studies with Chloroquine demonstrated that it is active against the trophozoites of Entamoeba histolytica.
+
+                        Drug Resistance: Resistance of Plasmodium parasites to chloroquine is widespread (see
+
+                                 INDICATIONS AND USAGE
+
+                              , 
+
+                                 Limitations of Use in Malaria
+
+                            and
+                              WARNINGS
+                           ).
+
+                           Plasmodium parasites exhibiting reduced susceptibility to hydroxychloroquine also show reduced susceptibility to chloroquine.
+
+                        Patients in whom chloroquine or hydroxychloroquine have failed to prevent or cure clinical malaria or parasitemia, or patients who acquired malaria in a geographic area where chloroquine resistance is known to occur should be treated with another form of antimalarial therapy (see
+                              WARNINGS
+                            and
+                              INDICATIONS AND USAGE, Limitations of Use
+                           ).

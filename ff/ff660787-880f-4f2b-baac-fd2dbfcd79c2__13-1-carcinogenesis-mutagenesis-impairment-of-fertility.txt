@@ -1,0 +1,8 @@
+DailyMed ff660787-880f-4f2b-baac-fd2dbfcd79c2 | Selexipag; Selexipag TITRATION PACK | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis: In the 2-year carcinogenicity studies, chronic oral administration of selexipag revealed no evidence of carcinogenic potential in rats at 100 mg/kg/day and mice at 500 mg/kg/day which resulted in the exposures to the active metabolite more than 25 times the human exposure at the maximum recommended human oral dose of 1,600 mcg twice daily on an AUC basis.
+
+                           Mutagenesis
+                           : Selexipag and the active metabolite are not genotoxic on the basis of the overall evidence of conducted genotoxicity studies.
+
+                           Fertility: In rats administered with selexipag orally, the no effect dose for effects on fertility was 60 mg/kg/day which resulted in the exposure to the active metabolite approximately 175 times the human exposure at the maximum recommended human oral dose of 1,600 mcg twice daily on an AUC basis.

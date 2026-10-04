@@ -1,0 +1,3 @@
+DailyMed f99c78ef-5a0a-45af-9b4b-5a78b75fe994 | Desvenlafaxine | 7.4 Drug-Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking desvenlafaxine. This is due to lack of specificity of the screening tests. False positive test results may be expected for several days following discontinuation of desvenlafaxine therapy. Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish desvenlafaxine from PCP and amphetamine.

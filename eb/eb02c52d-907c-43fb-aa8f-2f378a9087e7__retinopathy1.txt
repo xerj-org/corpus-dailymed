@@ -1,0 +1,13 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Retinopathy1
+
+Irreversible retinal damage has been observed in some patients who had received chloroquine. Significant risk factors for retinal damage include daily doses of chloroquine phosphate greater than 2.3 mg/kg of actual body weight, durations of use greater than five years, subnormal glomerular filtration, use of some concomitant drug products such as tamoxifen citrate (see
+                              PRECAUTIONS
+                           ), and concurrent macular disease.
+
+                        A baseline ophthalmological examination should be performed within the first year of starting chloroquine phosphate tablets. The baseline exam should include: best corrected distance visual acuity (BCVA), an automated threshold visual field (VF) of the central 10 degrees (with retesting if an abnormality is noted), and spectral domain optical coherence tomography (SD-OCT).
+
+                        For individuals with significant risk factors (daily dose of chloroquine phosphate greater than 2.3 mg/kg of actual body weight, subnormal glomerular filtration, use of tamoxifen citrate or concurrent macular disease) monitoring should include annual examinations which include BCVA, VF and SD-OCT. For individuals without significant risk factors, annual exams (including BCVA, VF and SD-OCT) can usually be deferred until five years of treatment.
+
+                        In individuals of Asian descent, retinal toxicity may first be noticed outside the macula. In patients of Asian descent, it is recommended that visual field testing be performed in the central 24 degrees instead of the central 10 degrees.
+
+                        It is recommended that chloroquine be discontinued if ocular toxicity is suspected and the patient should be closely observed given that retinal changes (and visual disturbances) may progress even after cessation of therapy.

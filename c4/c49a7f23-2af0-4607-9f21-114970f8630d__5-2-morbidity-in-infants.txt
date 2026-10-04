@@ -1,0 +1,7 @@
+DailyMed c49a7f23-2af0-4607-9f21-114970f8630d | OLMESARTAN MEDOXOMIL | 5.2 Morbidity in Infants
+
+Use of Olmesartan medoxomil in children <1 year of age is not recommended. Drugs that act directly on the renin-angiotensin aldosterone system (RAAS) can have effects on the development of immature kidneys
+
+  [see
+
+   Use in specific Populations (8.4)].

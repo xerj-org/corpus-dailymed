@@ -1,0 +1,3 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 8.5 Geriatric Use
+
+Clinical trials of hydroxychloroquine sulfate tablets did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients. Nevertheless, this drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. In general, dose selection in geriatric patients should start with the lowest recommended dose, taking into consideration the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.

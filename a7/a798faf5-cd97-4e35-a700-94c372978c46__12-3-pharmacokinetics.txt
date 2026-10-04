@@ -1,0 +1,263 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 12.3 Pharmacokinetics
+
+The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 8.
+
+                           Table 8: Mean (CV%) Piperacillin and Tazobactam PK Parameters
+
+                                    a Piperacillin and tazobactam were given in combination, infused over 30 minutes.
+
+                                    b Numbers in []parentheses are coefficients of variation [CV%].
+
+Cmax : maximum observed concentration, AUC: Area under the curve, CL= clearance, CLR= Renal clearance V=volume of distribution, T1/2= elimination half-life  |
+
+                                       Piperacillin
+
+                                  |
+
+                                    Piperacillin and
+
+Tazobactam
+
+Dosea
+
+                                  |
+
+Cmax (mcg/mL)
+
+                                  |
+
+AUCb (mcg•h/mL)
+
+                                  |
+
+                                    CL
+
+(mL/min)
+
+                                  |
+
+V
+
+(L)
+
+                                  |
+
+T1/2
+
+(h)
+
+                                  |
+
+                                    CLR (mL/min)
+
+                                  |
+
+                                    2.25 g
+
+                                  |
+
+                                    134
+
+                                  |
+
+                                    131 [14]
+
+                                  |
+
+                                    257
+
+                                  |
+
+                                    17.4
+
+                                  |
+
+                                    0.79
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    3.375 g
+
+                                  |
+
+                                    242
+
+                                  |
+
+                                    242 [10]
+
+                                  |
+
+                                    207
+
+                                  |
+
+                                    15.1
+
+                                  |
+
+                                    0.84
+
+                                  |
+
+                                    140
+
+                                  |
+
+                                    4.5 g
+
+                                  |
+
+                                    298
+
+                                  |
+
+                                    322 [16]
+
+                                  |
+
+                                    210
+
+                                  |
+
+                                    15.4
+
+                                  |
+
+                                    0.84
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                       Tazobactam
+
+                                  |
+
+                                    Piperacillin and Tazobactam
+
+Dosea
+
+                                  |
+
+                                    Cmax (mcg/mL)
+
+                                  |
+
+                                    AUCb (mcg•h/mL)
+
+                                  |
+
+                                    CL
+
+(mL/min)
+
+                                  |
+
+V
+
+(L)
+
+                                  |
+
+                                    T1/2
+
+(h)
+
+                                  |
+
+                                    CLR (mL/min)
+
+                                  |
+
+                                    2.25 g
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    16.0 [21]
+
+                                  |
+
+                                    258
+
+                                  |
+
+                                    17.0
+
+                                  |
+
+                                    0.77
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    3.375 g
+
+                                  |
+
+                                    24
+
+                                  |
+
+                                    25.0 [8]
+
+                                  |
+
+                                    251
+
+                                  |
+
+                                    14.8
+
+                                  |
+
+                                    0.68
+
+                                  |
+
+                                    166
+
+                                  |
+
+                                    4.5 g
+
+                                  |
+
+                                    34
+
+                                  |
+
+                                    39.8 [15]
+
+                                  |
+
+                                    206
+
+                                  |
+
+                                    14.7
+
+                                  |
+
+                                    0.82
+
+                                  |
+
+                                    --
+
+                                  |
+
+                        Peak plasma concentrations of piperacillin and tazobactam are attained immediately after completion of an intravenous infusion of piperacillin and tazobactam for injection. Piperacillin plasma concentrations, following a 30-minute infusion of piperacillin and tazobactam for injection, were similar to those attained when equivalent doses of piperacillin were administered alone. Steady-state plasma concentrations of piperacillin and tazobactam were similar to those attained after the first dose due to the short half-lives of piperacillin and tazobactam.

@@ -1,0 +1,15 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 8.1 Pregnancy
+
+Risk Summary
+
+                        Based on animal data and its mechanism of action [see Clinical Pharmacology (12.1)], ZEPZELCA can cause fetal harm when administered to a pregnant woman. There are no available data to inform the risk of ZEPZELCA use in pregnant women. Intravenous administration of a single lurbinectedin dose (approximately 0.2 times the 3.2 mg/m2 clinical dose) to pregnant rats during the period of organogenesis caused embryolethality (see Data).
+
+                        Advise pregnant women of the potential risk to a fetus.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+                        In a reproductive toxicity study, administration of a single lurbinectedin dose of 0.6 mg/m2 (approximately 0.2 times of the human dose of 3.2 mg/m2) to pregnant rats on Gestation Day 10 resulted in 100% post-implantation loss.

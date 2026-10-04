@@ -1,0 +1,13 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Drug Interactions
+
+Drug-drug interactions can be pharmacodynamic (combined pharmacologic effects) or pharmacokinetic (alteration of plasma levels). The risks of using haloperidol in combination with other drugs have been evaluated as described below.
+
+                        Pharmacodynamic Interactions
+
+                        Since QTc interval-prolongation has been observed during haloperidol treatment, caution is advised when prescribing to a patient with QT-prolongation conditions or to patients receiving medications known to prolong the QTc-interval (see WARNINGS, Cardiovascular Effects). Examples include (but are not limited to): Class 1A antiarrhythmics (e.g., procainamide, quinidine, disopyramide); Class 3 antiarrhythmics (e.g., amiodarone, sotalol); and other drugs such as citalopram, erythromycin, levofloxacin, methadone, and ziprasidone.
+
+                        Caution is advised when haloperidol is used in combination with drugs known to cause electrolyte imbalance (e.g., diuretics or corticosteroids) because hypokalemia, hypomagnesemia, and hypocalcemia are risk factors for QT prolongation.
+
+                        Haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists. If concomitant antiparkinson medication is required, it may have to be continued after haloperidol is discontinued because of the difference in excretion rates. If both are discontinued simultaneously, extrapyramidal symptoms may occur. The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with haloperidol.
+
+                        As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opioids, and alcohol.

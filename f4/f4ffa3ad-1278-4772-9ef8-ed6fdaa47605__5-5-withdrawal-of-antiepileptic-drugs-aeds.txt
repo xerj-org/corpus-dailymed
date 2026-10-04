@@ -1,0 +1,3 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 5.5 Withdrawal of Antiepileptic Drugs (AEDs)
+
+As with all AEDs, lacosamide should be withdrawn gradually (over a minimum of 1 week) to minimize the potential of increased seizure frequency in patients with seizure disorders.

@@ -1,0 +1,84 @@
+DailyMed a9cfc301-3c7f-4910-8813-41dcb0b4ca69 | Imatinib Mesylate | 14.3 Acute Lymphoblastic Leukemia
+
+A total of 48 Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) patients with relapsed/refractory disease were studied, 43 of whom received the recommended imatinib mesylate dose of 600 mg/day. In addition 2 patients with relapsed/refractory Ph+ ALL received imatinib mesylate 600 mg/day in a Phase 1 study.
+
+                        Confirmed and unconfirmed hematologic and cytogenetic response rates for the 43 relapsed/refractory Ph+ ALL Phase 2 study patients and for the 2 Phase 1 patients are shown in Table 21. The median duration of hematologic response was 3.4 months and the median duration of MCyR was 2.3 months.
+
+                           Table 21: Effect of Imatinib Mesylate on Relapsed/Refractory Ph+ ALL
+
+                                  |
+
+                                       Phase 2 Study
+
+ (N = 43)
+
+ n (%)
+
+                                  |
+
+                                       Phase 1 Study
+
+ (N = 2)
+
+ n (%)
+
+                                  |
+
+                                       CHR
+
+                                  |
+
+                                    8 (19)
+
+                                  |
+
+                                    2 (100)
+
+                                  |
+
+                                       NEL
+
+                                  |
+
+                                    5 (12)
+
+                                  |
+                                  |
+
+                                       RTC/PHR
+
+                                  |
+
+                                    11 (26)
+
+                                  |
+                                  |
+
+                                       MCyR
+
+                                  |
+
+                                    15 (35)
+
+                                  |
+                                  |
+
+                                       CCyR
+
+                                  |
+
+                                    9 (21)
+
+                                  |
+                                  |
+
+                                       PCyR
+
+                                  |
+
+                                    6 (14)
+
+                                  |
+                                  |
+
+                                  Abbreviations: CCyR, complete cytogenetic response; CHR, complete hematologic response; MCyR, major cytogenetic response; NEL, no evidence of leukemia; PCyR, partial cytogenic response; Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia; PHR, partial hematologic response; RTC, return to chronic phase. |

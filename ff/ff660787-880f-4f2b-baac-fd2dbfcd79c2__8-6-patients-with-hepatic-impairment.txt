@@ -1,0 +1,7 @@
+DailyMed ff660787-880f-4f2b-baac-fd2dbfcd79c2 | Selexipag; Selexipag TITRATION PACK | 8.6 Patients with Hepatic Impairment
+
+No adjustment to the dosing regimen is needed in patients with mild hepatic impairment (Child-Pugh class A).
+
+                        A once-daily regimen is recommended in adult patients with moderate hepatic impairment (Child-Pugh class B) due to the increased exposure to selexipag and its active metabolite. There is no experience with selexipag in patients with severe hepatic impairment (Child-Pugh class C). Avoid use of selexipag in patients with severe hepatic impairment [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+
+                           Pediatric use information is approved for Actelion Pharmaceuticals US, Inc.'s Uptravi® (Selexipag) Tablets. However, due to Actelion Pharmaceuticals US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

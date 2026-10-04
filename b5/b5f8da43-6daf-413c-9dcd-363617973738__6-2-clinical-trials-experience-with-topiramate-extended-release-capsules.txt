@@ -1,0 +1,244 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 6.2 Clinical Trials Experience with Topiramate Extended-Release Capsules
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. In the topiramate extended-release capsules study, a dose of 200 mg per day was administered to a limited number of patients; therefore, these results cannot be directly compared to immediate-release topiramate experience.
+
+                        The safety data presented below are from 249 patients with partial epilepsy on concomitant AEDs who participated in the topiramate extended-release capsules study [see Clinical Studies (14.4)].
+
+                        Table 10 displays the incidence of adverse reactions that occurred in ≥2% of patients and numerically greater than placebo.
+
+                           Table 2: Incidence (≥2%) of Adverse Reactions in Placebo-Controlled Adjunctive Therapy Clinical Trial in Patients With Partial-Onset Seizures
+
+                                    Body System/
+
+                                    Adverse Reaction
+                                  |
+
+                                    Placebo
+
+                                    (N=125)
+                                  |
+
+                                    Topiramate Extended-Release Capsules
+
+                                    (200 mg)
+
+                                    (N=124)
+                                  |
+
+                                       General Disorders
+
+                                  |
+
+                                           
+
+ Fatigue
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                           
+
+ Asthenia
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                           
+
+ Irritability
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                       Nervous System Disorders
+
+                                  |
+
+                                           
+
+ Somnolence
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                           
+
+ Dizziness
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                           
+
+ Paresthesia
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                           
+
+ Aphasia
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                           
+
+ Dysarthria
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                           
+
+ Memory impairment
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                       Psychiatric Disorder
+
+                                  |
+
+                                           
+
+ Psychomotor retardation
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                       Cardiovascular Disorders, General
+
+                                  |
+
+                                           
+
+ Hypertension
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                       Metabolic and Nutritional Disorders
+
+                                  |
+
+                                           
+
+ Weight decrease
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                           
+
+ Decreased appetite
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                           
+
+ Anorexia
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    2
+
+                                  |
+
+                        In the controlled clinical study using topiramate extended-release capsules, 8.9% of patients who received topiramate extended-release capsules and 4% who received placebo discontinued as a result of adverse reactions.

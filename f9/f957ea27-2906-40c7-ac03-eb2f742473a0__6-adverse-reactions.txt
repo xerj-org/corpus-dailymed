@@ -1,0 +1,15 @@
+DailyMed f957ea27-2906-40c7-ac03-eb2f742473a0 | Cephalexin | 6 ADVERSE REACTIONS
+
+The following serious events are described in greater detail in the Warning and Precautions section:
+
+                     Hypersensitivity Reactions [see Warning and Precautions (5.1)]
+
+                           Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.2)]
+
+                     Direct Coombs’ Test Seroconversion [see Warnings and Precautions (5.3)]
+
+                     Seizure Potential [see Warnings and Precautions (5.4)]
+
+                     Prolonged Prothrombin Time [see Warnings and Precautions (5.5)]
+
+                     Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.6)]

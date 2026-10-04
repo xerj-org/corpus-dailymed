@@ -1,0 +1,59 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 14.3 Chronic Lymphocytic Leukemia (CLL)
+
+The SAWYER study [NCT01292603] was a randomized, two-part, open-label, multicenter study that enrolled a total of 176 patients with previously untreated CLL. Patients were randomized (1:1) to receive either a rituximab product by intravenous infusion, 375 mg/m2, in Cycle 1 followed by up to 5 cycles of rituximab, 500 mg/m2, or rituximab, 375 mg/m2, in Cycle 1 followed by subsequent cycles (2–6) of RITUXAN HYCELA 1,600 mg/26,800 Units (1,600 mg rituximab and 26,800 Units hyaluronidase human), both in combination with fludarabine and cyclophosphamide (FC) chemotherapy. The main outcome measure was the non-inferiority of the pharmacokinetic profile of RITUXAN HYCELA compared to rituximab. An additional outcome measure in Part 2 was investigator-assessed response rate.
+
+                        The median age was 60 years (range: 25 to 78); 65% were males and 96% were White. The median BSA was 1.9 m2, 62% had Binet Stage B disease and 93% had typical CLL characterization.
+
+                        The pharmacokinetic results demonstrated that RITUXAN HYCELA 1,600 mg/26,800 Units serum rituximab Ctrough level was non-inferior compared with rituximab at 500 mg/m2 in patients receiving combination treatment with chemotherapy [see Clinical Pharmacology (12.3)].
+
+                        The efficacy results for Part 2 are presented in Table 8.
+
+                           Table 8: Efficacy in Patients with Previously Untreated CLL (SAWYER Study)
+
+                                  |
+                                 Part 2 |
+
+                                 RITUXAN HYCELA
+
+  (N = 88) |
+                                 Rituximab
+
+  (N = 88) |
+
+                                 ORR – Overall Response Rate |
+
+                                 CRR – Complete Response Rate |
+
+                                 PFS – Progression-Free Survival |
+
+                                    ORRAt 3 month follow-up visit (Part 2). Investigator-assessed.
+
+                                  |
+                                 Point estimate |
+                                 85.2% (n = 75) |
+                                 80.7% (n = 71) |
+
+                                 95% CI |
+                                 [76.1%, 91.9%] |
+                                 [70.9%, 88.3%] |
+
+                                    CRR
+
+                                  |
+                                 Point estimate |
+                                 27.3% (n = 24) |
+                                 31.8% (n = 28) |
+
+                                 95% CI |
+                                 [18.3%, 37.8%] |
+                                 [22.3%, 42.6%] |
+
+                                    PFSAt time of final analysis (median follow-up 4.4 years). Investigator-assessed.
+
+                                  |
+                                 Proportion with PFS event |
+                                 34.1% (n = 30) |
+                                 42.0% (n = 37) |
+
+                                 HR 95% CI |
+                                 0.76 [0.47%, 1.23%] |

@@ -1,0 +1,11 @@
+DailyMed 90e65b83-32d6-40bc-be5d-19fbec051bdf | AZITHROMYCIN | 1.2 Mycobacterial Infections
+
+Azithromycin tablets are indicated for the treatment of adult patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below:
+
+                           Prophylaxis of Disseminated Mycobacterium avium complex (MAC) Disease
+
+                        Azithromycin tablets taken alone or in combination with rifabutin at its approved dose, are indicated for the prevention of disseminated MAC disease in persons with advanced HIV infection [see Dosage and Administration (2)].
+
+                           Treatment of Disseminated MAC Disease
+
+                        Azithromycin tablets taken in combination with ethambutol, are indicated for the treatment of disseminated MAC infections in persons with advanced HIV infection [see Use in Specific Populations (8.4) and Clinical Studies (14.1)].

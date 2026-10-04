@@ -1,0 +1,9 @@
+DailyMed 0961f83e-25e9-4ffc-8669-44e4e9169978 | Bupropion Hydrochloride | 8.2 Lactation
+
+Risk Summary
+
+ Data from published literature report the presence of bupropion and its metabolites in human milk (see Data). There are no data on the effects of bupropion or its metabolites on milk production. Limited data from postmarketing reports have not identified a clear association of adverse reactions in the breastfed infant. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for bupropion and any potential adverse effects on the breastfed child from bupropion or from the underlying maternal condition.
+
+                           Data
+
+                        In a lactation study of 10 women, levels of orally dosed bupropion and its active metabolites were measured in expressed milk. The average daily infant exposure (assuming 150 mL/kg daily consumption) to bupropion and its active metabolites was 2% of the maternal weight-adjusted dose. Postmarketing reports have described seizures in breastfed infants. The relationship of bupropion exposure and these seizures is unclear.

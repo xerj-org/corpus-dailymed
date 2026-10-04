@@ -1,0 +1,17 @@
+DailyMed 39d822df-0fa4-4f06-a6f1-d313824c62df | Metoprolol Tartrate | 12.2 Pharmacodynamics
+
+Clinical pharmacology studies have confirmed the beta-blocking activity of metoprolol in man, as shown by (1) reduction in heart rate and cardiac output at rest and upon exercise, (2) reduction of systolic blood pressure upon exercise, (3) inhibition of isoproterenol-induced tachycardia, and (4) reduction of reflex orthostatic tachycardia.
+
+                        The relationship between plasma metoprolol levels and reduction in exercise heart rate is independent of the pharmaceutical formulation. Beta
+
+  1-blocking effects in the range of 30-80% of the maximal effect (approximately 8 to 23% reduction in exercise heart rate) correspond to metoprolol plasma concentrations from 30 to 540 nmol/L. The relative beta
+
+  1-selectivity of metoprolol diminishes and blockade of beta
+
+  2-adrenoceptors increases at plasma concentration above 300 nmol/L.
+
+                        Significant beta-blocking effect (as measured by reduction of exercise heart rate) occurs within 1 hour after oral administration, and its duration is dose-related. For example, a 50% reduction of the maximum effect after single oral doses of 20, 50, and 100 mg occurred at 3.3, 5.0, and 6.4 hours, respectively, in normal subjects. After repeated oral dosages of 100 mg twice daily, a significant reduction in exercise systolic blood pressure was evident at 12 hours. When the drug was infused over a 10-minute period, in normal volunteers, maximum beta-blockade was achieved at approximately 20 minutes. Equivalent maximal beta-blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2.5:1.
+
+                        There is a linear relationship between the log of plasma levels and reduction of exercise heart rate. However, antihypertensive activity does not appear to be related to plasma levels. Because of variable plasma levels attained with a given dose and lack of a consistent relationship of antihypertensive activity to dose, selection of proper dosage requires individual titration.
+
+                        In several studies of patients with acute myocardial infarction, intravenous followed by oral administration of metoprolol tartrate tablets caused a reduction in heart rate, systolic blood pressure and cardiac output. Stroke volume, diastolic blood pressure and pulmonary artery end diastolic pressure remained unchanged.

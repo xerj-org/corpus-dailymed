@@ -1,0 +1,13 @@
+DailyMed a1cc1580-50d9-4b9b-a002-1fc6686a9515 | Nelarabine | 8.6 Renal Impairment
+
+Ara-G clearance decreased as renal function decreased
+  [see
+
+                              Clinical Pharmacology (12.3)
+
+                           ]. Because the risk of adverse reactions to this drug may be greater in patients with moderate (CLCr 30 to 50 mL/min) or severe (CLCr less than 30 mL/min) renal impairment, these patients should be closely monitored for toxicities when treated with nelarabine injection
+  [see
+
+                              Dosage and Administration (2.3)
+
+                           ].

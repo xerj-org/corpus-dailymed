@@ -1,0 +1,193 @@
+DailyMed 9e375c07-70db-458c-9336-22a7037b0a5f | montelukast sodium | 14.1 Asthma
+
+Adults and Adolescents 15 Years of Age and Older with Asthma
+
+                        Clinical trials in adults and adolescents 15 years of age and older demonstrated there is no additional clinical benefit to montelukast doses above 10 mg once daily.
+
+                        The efficacy of montelukast sodium for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two (U.S. and Multinational) similarly designed, randomized, 12-week, double-blind, placebo-controlled trials in 1576 patients (795 treated with montelukast sodium, 530 treated with placebo, and 251 treated with active control). The median age was 33 years (range 15 to 85); 56.8% were females and 43.2% were males. The ethnic/racial distribution in these studies was 71.6% Caucasian, 17.7% Hispanic, 7.2% other origins and 3.5% Black. Patients had mild or moderate asthma and were non-smokers who required approximately 5 puffs of inhaled β-agonist per day on an "as-needed" basis. The patients had a mean baseline percent of predicted forced expiratory volume in 1 second (FEV1) of 66% (approximate range, 40 to 90%). The co-primary endpoints in these trials were FEV1 and daytime asthma symptoms. In both studies after 12 weeks, a random subset of patients receiving montelukast sodium was switched to placebo for an additional 3 weeks of double-blind treatment to evaluate for possible rebound effects.
+
+                        The results of the U.S. trial on the primary endpoint, morning FEV1, expressed as mean percent change from baseline averaged over the 12-week treatment period, are shown in FIGURE 2. Compared with placebo, treatment with one montelukast sodium 10-mg tablet daily in the evening resulted in a statistically significant increase in FEV1 percent change from baseline (13.0%-change in the group treated with montelukast sodium vs. 4.2%-change in the placebo group, p<0.001); the change from baseline in FEV1 for montelukast sodium was 0.32 liters compared with 0.10 liters for placebo, corresponding to a between-group difference of 0.22 liters (p<0.001, 95% CI 0.17 liters, 0.27 liters). The results of the Multinational trial on FEV1 were similar.
+
+                           Figure 2: FEV1 Mean Percent Change from Baseline
+
+                           (U.S. Trial: Monteluakst sodium N=406; Placebo N=270)
+
+                           (ANOVA Model)
+
+                        The effect of montelukast sodium on other primary and secondary endpoints, represented by the Multinational study is shown in TABLE 6. Results on these endpoints were similar in the US study.
+
+                               Table 6: Effect of Montelukast Sodium on Primary and Secondary Endpoints in a Multinational Placebo-controlled Trial (ANOVA Model)     
+
+                                       * p<0.001, compared with placebo
+
+                                  |
+
+                                  |
+                                  Montelukast sodium
+
+                                  |
+                                  Placebo
+
+                                  |
+
+                                  Endpoint
+
+                                  |
+                                  N
+
+                                  |
+                                  Baseline
+
+                                  |
+                                  Mean Change from Baseline
+
+                                  |
+                                  N
+
+                                  |
+                                  Baseline
+
+                                  |
+                                  Mean Change from Baseline
+
+                                  |
+
+                                  Daytime Asthama Symptoms (0 to 6 scale)
+
+                                  |
+                                  372
+
+                                  |
+                                  2.35
+
+                                  |
+                                  -0.49*
+
+                                  |
+                                  245
+
+                                  |
+                                  2.40
+
+                                  |
+                                  -0.26
+
+                                  |
+
+                                  β-agonist (puffs per day)
+
+                                  |
+                                  371
+
+                                  |
+                                  5.35
+
+                                  |
+                                  -1.65*
+
+                                  |
+                                  241
+
+                                  |
+                                  5.78
+
+                                  |
+                                  -0.42
+
+                                  |
+
+                                  AM PEFR (L/min)
+
+                                  |
+                                  372
+
+                                  |
+                                  339.57
+
+                                  |
+                                  25.03*
+
+                                  |
+                                  244
+
+                                  |
+                                  335.24
+
+                                  |
+                                  1.83
+
+                                  |
+
+                                  PM PEFR (L/min)
+
+                                  |
+                                  372
+
+                                  |
+                                  355.23
+
+                                  |
+                                  20.13*
+
+                                  |
+                                  244
+
+                                  |
+                                  354.02
+
+                                  |
+                                  -0.49
+
+                                  |
+
+                                  Nocturnal Awakenings (#/week)
+
+                                  |
+                                  285
+
+                                  |
+                                  5.46
+
+                                  |
+                                  -2.03*
+
+                                  |
+                                  195
+
+                                  |
+                                  5.57
+
+                                  |
+                                  -0.78
+
+                                  |
+
+                        Both studies evaluated the effect of montelukast sodium on secondary outcomes, including asthma attack (utilization of health-care resources such as an unscheduled visit to a doctor's office, emergency room, or hospital; or treatment with oral, intravenous, or intramuscular corticosteroid), and use of oral corticosteroids for asthma rescue. In the Multinational study, significantly fewer patients (15.6% of patients) on montelukast sodium experienced asthma attacks compared with patients on placebo (27.3%, p<0.001). In the US study, 7.8% of patients on montelukast sodium and 10.3% of patients on placebo experienced asthma attacks, but the difference between the two treatment groups was not significant (p=0.334). In the Multinational study, significantly fewer patients (14.8% of patients) on montelukast sodium were prescribed oral corticosteroids for asthma rescue compared with patients on placebo (25.7%, p<0.001). In the US study, 6.9% of patients on montelukast sodium and 9.9% of patients on placebo were prescribed oral corticosteroids for asthma rescue, but the difference between the two treatment groups was not significant (p=0.196).
+
+                           Onset of Action and Maintenance of Effects
+
+                        In each placebo-controlled trial in adults, the treatment effect of montelukast sodium, measured by daily diary card parameters, including symptom scores, "as-needed" β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours). No significant change in treatment effect was observed during continuous once-daily evening administration in non-placebo-controlled extension trials for up to one year. Withdrawal of montelukast sodium in asthmatic patients after 12 weeks of continuous use did not cause rebound worsening of asthma.
+
+                           Pediatric Patients 6 to 14 Years of Age with Asthma
+
+                        The efficacy of montelukast sodium in pediatric patients 6 to 14 years of age was demonstrated in one 8-week, double-blind, placebo-controlled trial in 336 patients (201 treated with montelukast sodium and 135 treated with placebo) using an inhaled β-agonist on an "as-needed" basis. The patients had a mean baseline percent predicted FEV1 of 72% (approximate range, 45 to 90%) and a mean daily inhaled β-agonist requirement of 3.4 puffs of albuterol. Approximately 36% of the patients were on inhaled corticosteroids. The median age was 11 years (range 6 to 15); 35.4% were females and 64.6% were males. The ethnic/racial distribution in this study was 80.1% Caucasian, 12.8% Black, 4.5% Hispanic, and 2.7% other origins.
+
+                        Compared with placebo, treatment with one 5-mg montelukast sodium chewable tablet daily resulted in a significant improvement in mean morning FEV1 percent change from baseline (8.7% in the group treated with montelukast sodium vs. 4.2% change from baseline in the placebo group, p<0.001). There was a significant decrease in the mean percentage change in daily "as-needed" inhaled β-agonist use (11.7% decrease from baseline in the group treated with montelukast sodium vs. 8.2% increase from baseline in the placebo group, p<0.05). This effect represents a mean decrease from baseline of 0.56 and 0.23 puffs per day for the montelukast and placebo groups, respectively. Subgroup analyses indicated that younger pediatric patients aged 6 to 11 had efficacy results comparable to those of the older pediatric patients aged 12 to 14.
+
+                        Similar to the adult studies, no significant change in the treatment effect was observed during continuous once-daily administration in one open-label extension trial without a concurrent placebo group for up to 6 months.
+
+                           Pediatric Patients 2 to 5 Years of Age with Asthma
+
+                        The efficacy of montelukast sodium for the chronic treatment of asthma in pediatric patients 2 to 5 years of age was explored in a 12-week, placebo-controlled safety and tolerability study in 689 patients, 461 of whom were treated with montelukast sodium. The median age was 4 years (range 2 to 6); 41.5% were females and 58.5% were males. The ethnic/racial distribution in this study was 56.5% Caucasian, 20.9% Hispanic, 14.4% other origins, and 8.3% Black.
+
+                        While the primary objective was to determine the safety and tolerability of montelukast sodium in this age group, the study included exploratory efficacy evaluations, including daytime and overnight asthma symptom scores, β-agonist use, oral corticosteroid rescue, and the physician's global evaluation. The findings of these exploratory efficacy evaluations, along with pharmacokinetics and extrapolation of efficacy data from older patients, support the overall conclusion that montelukast sodium is efficacious in the maintenance treatment of asthma in patients 2 to 5 years of age.
+
+                           Effects in Patients on Concomitant Inhaled Corticosteroids
+
+                        Separate trials in adults evaluated the ability of montelukast sodium to add to the clinical effect of inhaled corticosteroids and to allow inhaled corticosteroid tapering when used concomitantly.
+
+                        One randomized, placebo-controlled, parallel-group trial (n=226) enrolled adults with stable asthma with a mean FEV1 of approximately 84% of predicted who were previously maintained on various inhaled corticosteroids (delivered by metered-dose aerosol or dry powder inhalers). The median age was 41.5 years (range 16 to 70); 52.2% were females and 47.8% were males. The ethnic/racial distribution in this study was 92.0% Caucasian, 3.5% Black, 2.2% Hispanic, and 2.2% Asian. The types of inhaled corticosteroids and their mean baseline requirements included beclomethasone dipropionate (mean dose, 1203 mcg/day), triamcinolone acetonide (mean dose, 2004 mcg/day), flunisolide (mean dose, 1971 mcg/day), fluticasone propionate (mean dose, 1083 mcg/day), or budesonide (mean dose, 1192 mcg/day). Some of these inhaled corticosteroids were non-U.S.-approved formulations, and doses expressed may not be ex-actuator. The pre-study inhaled corticosteroid requirements were reduced by approximately 37% during a 5-to 7-week placebo run-in period designed to titrate patients toward their lowest effective inhaled corticosteroid dose. Treatment with montelukast sodium resulted in a further 47% reduction in mean inhaled corticosteroid dose compared with a mean reduction of 30% in the placebo group over the 12-week active treatment period (p≤0.05). It is not known whether the results of this study can be generalized to patients with asthma who require higher doses of inhaled corticosteroids or systemic corticosteroids.
+
+                        In another randomized, placebo-controlled, parallel-group trial (n=642) in a similar population of adult patients previously maintained, but not adequately controlled, on inhaled corticosteroids (beclomethasone 336 mcg/day), the addition of montelukast sodium to beclomethasone resulted in statistically significant improvements in FEV1 compared with those patients who were continued on beclomethasone alone or those patients who were withdrawn from beclomethasone and treated with montelukast or placebo alone over the last 10 weeks of the 16-week, blinded treatment period. Patients who were randomized to treatment arms containing beclomethasone had statistically significantly better asthma control than those patients randomized to montelukast sodium alone or placebo alone as indicated by FEV1, daytime asthma symptoms, PEFR, nocturnal awakenings due to asthma, and "as-needed" β-agonist requirements.
+
+                        In adult patients with asthma with documented aspirin sensitivity, nearly all of whom were receiving concomitant inhaled and/or oral corticosteroids, a 4-week, randomized, parallel-group trial (n=80) demonstrated that montelukast sodium, compared with placebo, resulted in significant improvement in parameters of asthma control. The magnitude of effect of montelukast sodium in aspirin-sensitive patients was similar to the effect observed in the general population of asthma patients studied. The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.4)].

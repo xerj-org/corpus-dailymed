@@ -1,0 +1,9 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 5.15 Use in Patients with Concomitant Illness
+
+Mirtazapine tablets have not been systematically evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or other significant heart disease. Mirtazapine tablets were associated with significant orthostatic hypotension in early clinical pharmacology trials with normal volunteers. Orthostatic hypotension was infrequently observed in clinical trials with depressed patients
+
+  [see Adverse Reactions (
+
+   6.1)]
+
+  . Mirtazapine tablets should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).

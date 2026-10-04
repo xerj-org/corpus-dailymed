@@ -1,0 +1,85 @@
+DailyMed 9e92ccc3-d81c-461d-a19f-7e9b582be357 | dextroamphetamine sulfate | Drug Interactions
+
+Acidifying Agents
+
+                        Lower blood levels and efficacy of amphetamines. Increase dose based on clinical response. Examples of acidifying agents include gastrointestinal acidifying agents (e.g., guanethidine, reserpine, glutamic acid HCl, ascorbic acid) and urinary acidifying agents (e.g., ammonium chloride, sodium acid phosphate, methenamine salts).
+
+                              Adrenergic Blockers
+
+                        Adrenergic blockers are inhibited by amphetamines.
+
+                              Alkalinizing Agents
+
+                        Increase blood levels and potentiate the action of amphetamine. Coadministration of dextroamphetamine sulfate extended-release and gastrointestinal alkalinizing agents should be avoided. Examples of alkalinizing agents include gastrointestinal alkalinizing agents (e.g., sodium bicarbonate) and urinary alkalinizing agents (e.g. acetazolamide, some thiazides).
+
+                              Tricyclic Antidepressants
+
+                        May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated. Monitor frequently and adjust or use alternative therapy based on clinical response. Examples of tricyclic antidepressants include desipramine, Protriptyline.
+
+                              CYP2D6 Inhibitors
+
+                        The concomitant use of dextroamphetamine sulfate extended-release and CYP2D6 inhibitors may increase the exposure of dextroamphetamine sulfate extended-release compared to the use of the drug alone and increase the risk of serotonin syndrome. Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during dextroamphetamine sulfate extended-release initiation and after a dosage increase. If serotonin syndrome occurs, discontinue dextroamphetamine sulfate extended-release and the CYP2D6 inhibitor [see Warnings, Overdosage]. Examples of CYP2D6 Inhibitors include paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir.
+
+                              Serotonergic Drugs
+
+                        The concomitant use of dextroamphetamine sulfate extended-release and serotonergic drugs increases the risk of serotonin syndrome. Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during dextroamphetamine sulfate extended-release initiation or dosage increase. If serotonin syndrome occurs, discontinue dextroamphetamine sulfate extended-release and the concomitant serotonergic drug(s) [see Warnings and Precautions]. Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort.
+
+                              MAO Inhibitors
+
+                        Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure. Do not administer dextroamphetamine sulfate extended-release concomitantly or within 14 days after discontinuing MAOI [see Contraindications and Warnings]. Examples of MAOIs include selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue.
+
+                              Proton Pump Inhibitors
+
+                        Time to maximum concentration (Tmax) of amphetamine is decreased compared to when administered alone. Monitor patients for changes in clinical effect and adjust therapy based on clinical response. An example of a proton pump inhibitor is omeprazole.
+
+                              Antihistamines
+
+                        Amphetamines may counteract the sedative effect of antihistamines.
+
+                              Antihypertensives
+
+                        Amphetamines may antagonize the hypotensive effects of antihypertensives.
+
+                              Chlorpromazine
+
+                        Chlorpromazine blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines, and can be used to treat amphetamine poisoning.
+
+                              Ethosuximide
+
+                        Amphetamines may delay intestinal absorption of ethosuximide.
+
+                              Haloperidol
+
+                        Haloperidol blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines.
+
+                              Lithium Carbonate
+
+                        The stimulatory effects of amphetamines may be inhibited by lithium carbonate.
+
+                              Meperidine
+
+                        Amphetamines potentiate the analgesic effect of meperidine.
+
+                              Methenamine Therapy
+
+                        Urinary excretion of amphetamines is increased, and efficacy is reduced, by acidifying agents used in methenamine therapy.
+
+                              Norepinephrine
+
+                        Amphetamines enhance the adrenergic effect of norepinephrine.
+
+                              Phenobarbital
+
+                        Amphetamines may delay intestinal absorption of phenobarbital; coadministration of phenobarbital may produce a synergistic anticonvulsant action.
+
+                              Phenytoin
+
+                        Amphetamines may delay intestinal absorption of phenytoin; coadministration of phenytoin may produce a synergistic anticonvulsant action.
+
+                              Propoxyphene
+
+                        In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
+
+                              Veratrum Alkaloids
+
+                        Amphetamines inhibit the hypotensive effect of veratrum alkaloids.

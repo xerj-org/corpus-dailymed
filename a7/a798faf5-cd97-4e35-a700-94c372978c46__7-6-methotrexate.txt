@@ -1,0 +1,3 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 7.6 Methotrexate
+
+Limited data suggests that co-administration of methotrexate and piperacillin may reduce the clearance of methotrexate due to competition for renal secretion. The impact of tazobactam on the elimination of methotrexate has not been evaluated. If concurrent therapy is necessary, serum concentrations of methotrexate as well as the signs and symptoms of methotrexate toxicity should be frequently monitored.

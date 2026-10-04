@@ -1,0 +1,19 @@
+DailyMed 0961f83e-25e9-4ffc-8669-44e4e9169978 | Bupropion Hydrochloride | 2.5 Use of Bupropion Hydrochloride Tablets with Reversible MAOIs Such as Linezolid or Methylene Blue
+
+Do not start bupropion hydrochloride tablets in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue. Drug interactions can increase the risk of hypertensive reactions. In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered [
+
+                              see Contraindications (4)
+
+                           ,
+
+                              Drug Interactions (7.6)
+
+                           ].
+
+ In some cases, a patient already receiving therapy with bupropion hydrochloride tablets may require urgent treatment with linezolid or intravenous methylene blue. If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, bupropion hydrochloride tablets should be stopped promptly, and linezolid or intravenous methylene blue can be administered. The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first. Therapy with bupropion hydrochloride tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
+
+ The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with bupropion hydrochloride tablets is unclear. The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [
+                                 see Contraindications (4)
+                              ,
+                                 Drug Interactions (7.6)
+                              ].

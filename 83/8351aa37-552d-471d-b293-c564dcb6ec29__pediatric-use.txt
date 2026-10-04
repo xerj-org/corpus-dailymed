@@ -1,0 +1,7 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Pediatric Use
+
+Safety and effectiveness of ceftriaxone in neonates, infants and pediatric patients have been established for the dosages described in the 
+                              DOSAGE AND ADMINISTRATION
+                            section. In vitro studies have shown that ceftriaxone, like some other cephalosporins, can displace bilirubin from serum albumin. Ceftriaxone should not be administered to hyperbilirubinemic neonates, especially prematures (see
+                              CONTRAINDICATIONS
+                           ).

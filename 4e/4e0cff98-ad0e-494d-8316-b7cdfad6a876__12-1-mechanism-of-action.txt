@@ -1,0 +1,5 @@
+DailyMed 4e0cff98-ad0e-494d-8316-b7cdfad6a876 | Bupivacaine Hydrochloride | 12.1 Mechanism of Action
+
+Bupivacaine blocks the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination, and conduction velocity of affected nerve fibers. Clinically, the order of loss of nerve function is as follows: (1) pain, (2) temperature, (3) touch, (4) proprioception, and (5) skeletal muscle tone.
+
+                        Epinephrine is a vaso constrictor added to bupivacaine to slow absorption into the general circulation and thus prolong maintenance of an active tissue concentration.

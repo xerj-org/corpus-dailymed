@@ -1,0 +1,61 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+                        The safety of GADAVIST was evaluated in 7,713 subjects (including 184 pediatric population, ages 0 to 17 years) who received GADAVIST in clinical trials. Approximately 52% of the subjects were male and the racial and ethnic distribution was 62% White, 28% Asian, 5% Hispanic or Latino, 2.5% Black or African American, and 2.5% other ethnic groups. The average age was 56 years (range from 1 week to 93 years).
+
+                        Table 2 lists adverse reactions that occurred in ≥ 0.1% subjects who received GADAVIST.
+
+                           Table 2: Adverse Reactions Reported in ≥0.1% Subjects who Received GADAVIST in Clinical Trials
+
+                                 Adverse Reaction |
+                                 GADAVIST
+
+ n=7,713
+
+ Rate (%) |
+
+                                 Headache |
+                                 1.7 |
+
+                                 Nausea |
+                                 1.2 |
+
+                                 Dizziness |
+                                 0.5 |
+
+                                 Dysgeusia |
+                                 0.4 |
+
+                                 Feeling Hot |
+                                 0.4 |
+
+                                 Injection site reactions |
+                                 0.4 |
+
+                                 Vomiting |
+                                 0.4 |
+
+                                 Rash (includes generalized, macular, papular, pruritic) |
+                                 0.3 |
+
+                                 Erythema |
+                                 0.2 |
+
+                                 Paresthesia |
+                                 0.2 |
+
+                                 Pruritus (includes generalized) |
+                                 0.2 |
+
+                                 Dyspnea |
+                                 0.1 |
+
+                                 Urticaria |
+                                 0.1 |
+
+                        Adverse reactions that occurred with a frequency of < 0.1% in subjects who received GADAVIST include: hypersensitivity/anaphylactic reaction, loss of consciousness, convulsion, parosmia, tachycardia, palpitation, dry mouth, malaise and feeling cold.
+
+                           Adverse Reactions in Pediatric Patients
+
+                        The frequency, type, and severity of adverse reactions observed in pediatric patients from the clinical studies were similar to adverse reactions in adults [see Use in Specific Populations (8.4)].

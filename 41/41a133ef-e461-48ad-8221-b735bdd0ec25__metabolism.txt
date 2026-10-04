@@ -1,0 +1,5 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Metabolism
+
+Approximately 25% of an orally administered apixaban dose is recovered in urine and feces as metabolites. Apixaban is metabolized mainly via CYP3A4 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2. O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major sites of biotransformation.
+
+                              Unchanged apixaban is the major drug-related component in human plasma; there are no active circulating metabolites.

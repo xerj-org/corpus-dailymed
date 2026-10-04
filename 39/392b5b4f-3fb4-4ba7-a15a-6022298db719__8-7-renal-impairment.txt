@@ -1,0 +1,7 @@
+DailyMed 392b5b4f-3fb4-4ba7-a15a-6022298db719 | EXEMESTANE | 8.7 Renal Impairment
+
+The AUC of exemestane was increased in subjects with moderate or severe renal impairment (creatinine clearance <35 mL/min/1.73 m
+  2)
+  [see Clinical Pharmacology (
+   12.3)].
+  However, based on experience with exemestane at repeated doses up to 200 mg daily that demonstrated a moderate increase in non life-threatening adverse reactions, dosage adjustment does not appear to be necessary.

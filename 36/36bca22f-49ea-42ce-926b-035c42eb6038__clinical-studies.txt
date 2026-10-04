@@ -1,0 +1,137 @@
+DailyMed 36bca22f-49ea-42ce-926b-035c42eb6038 | Fosfomycin Tromethamine | CLINICAL STUDIES
+
+In controlled, double-blind studies of acute cystitis performed in the United States, a single-dose of fosfomycin tromethamine was compared to three other oral antibiotics (See table below). The study population consisted of patients with symptoms and signs of acute cystitis of less than 4 days duration, no manifestations of upper tract infection (e.g., flank pain, chills, fever), no history of recurrent urinary tract infections (20% of patients in the clinical studies had a prior episode of acute cystitis within the preceding year), no known structural abnormalities, no clinical or laboratory evidence of hepatic dysfunction, and no known or suspected CNS disorders, such as epilepsy, or other factors which would predispose to seizures. In these studies, the following clinical success (resolution of symptoms) and microbiologic eradication rates were obtained.
+
+                               Treatment
+                              Arm
+                                
+                            |
+
+                              Treatment Duration (Days)
+
+                            |
+
+                              Microbiologic Eradication Rate
+                            |
+
+                               Clinical Success Rate
+                            |
+
+                               Outcome (based on difference in microbiologic eradication rates 5-11 days post therapy)
+                            |
+
+                              5-11 days post  therapy
+
+                            |
+
+                               Study d
+                              ay
+                              12-21
+                            |
+
+Fosfomycin |
+
+1 |
+
+630/771 (82%) |
+
+591/771 (77%) |
+
+542/771(70%) |
+
+  |
+
+Ciprofloxacin |
+
+  7 |
+
+219/222 (98%) |
+
+219/222 (98%) |
+
+213/222 (96%) |
+
+Fosfomycin inferior to ciprofloxacin |
+
+Trimethoprim/ sulfamethoxazole |
+
+10 |
+
+194/197 (98%) |
+
+194/197 (98%) |
+
+186/197 (94%) |
+
+Fosfomycin inferior to trimethoprim/ sulfamethoxazole |
+
+Nitrofurantoin |
+
+ 7 |
+
+180/238 (76%) |
+
+180/238 (76%) |
+
+183/238 (77%) |
+
+Fosfomycin equivalent to nitrofurantoin |
+
+                               Pathogen
+                            |
+
+                              Fosfomycin
+
+                              3 gm single dose
+                            |
+
+                              Ciprofloxacin
+
+                              250 mg bid x 7days
+                            |
+
+                              Trimethoprim/sulfamethoxazole 160 mg/ 800 mg bid x 10 days
+                            |
+
+                              Nitrofurantin
+
+                               
+
+                              100 mg bid x 7days
+                            |
+
+                               E.coli
+
+                               
+
+                            |
+
+509/644 (79%) |
+
+184/187 (98%) |
+
+171/174 (98%) |
+
+146/187 (78%) |
+
+                              E.faecalis
+
+                            |
+
+10/10 (100%) |
+
+0/0 |
+
+4/4 (100%) |
+
+1/2 (50%) |
+
+                  Distributed by:
+
+                     ANI Pharmaceuticals, Inc.
+
+                     Baudette, MN 56623
+
+                     Issued: 08/2026
+
+                  LB4931-00

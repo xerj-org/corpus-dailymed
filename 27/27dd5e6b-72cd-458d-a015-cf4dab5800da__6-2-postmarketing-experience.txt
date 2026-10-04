@@ -1,0 +1,9 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified with the use of intravenous trastuzumab. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Glomerulopathy
+
+                           Immune thrombocytopenia
+
+                           Tumor lysis syndrome (TLS): Patients with significant tumor burden (e.g. bulky metastases) may be at a higher risk. Patients could present with hyperuricemia, hyperphosphatemia, and acute renal failure which may represent possible TLS. Providers should consider additional monitoring and/or treatment as clinically indicated.

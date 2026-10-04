@@ -1,0 +1,3 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Laboratory Tests
+
+Therapeutic response to glyburide tablets should be monitored by frequent urine glucose tests and periodic blood glucose tests. Measurement of glycosylated hemoglobin levels may be helpful in some patients.

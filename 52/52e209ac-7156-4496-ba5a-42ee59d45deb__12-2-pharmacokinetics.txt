@@ -1,0 +1,19 @@
+DailyMed 52e209ac-7156-4496-ba5a-42ee59d45deb | Albuterol sulfate | 12.2 Pharmacokinetics
+
+The systemic levels of albuterol are low after inhalation of recommended doses. In a crossover study conducted in healthy male and female volunteers, high cumulative doses of albuterol sulfate inhalation aerosol (1,080 mcg of albuterol base administered over one hour) yielded mean peak plasma concentrations (Cmax) and systemic exposure (AUCinf) of approximately 4,100 pg/mL and 28,426 pg/mL*hr, respectively compared to approximately 3,900 pg/mL and 28,395 pg/mL*hr, respectively following the same dose of an active HFA-134a albuterol inhaler comparator. The terminal plasma half-life of albuterol delivered by albuterol sulfate inhalation aerosol was approximately 6 hours. Comparison of the pharmacokinetic parameters demonstrated no differences between the products.
+
+                        The pharmacokinetic profile of albuterol sulfate inhalation aerosol was evaluated in a two-way cross-over study in 11 healthy pediatric volunteers, 4 to 11 years of age. A single dose administration of albuterol sulfate (180 mcg albuterol base) yielded a least square mean (SE) Cmax and AUC0 to ∞ of 1,100 (1.18) pg/mL and 5,120 (1.15) pg/mL*hr, respectively. The least square mean (SE) terminal plasma half-life of albuterol delivered by albuterol sulfate was 166 (7.8) minutes.
+
+                              Metabolism and Elimination
+
+                        Information available in the published literature suggests that the primary enzyme responsible for the metabolism of albuterol in humans is SULTIA3 (sulfotransferase). When racemic albuterol was administered either intravenously or via inhalation after oral charcoal administration, there was a 3- to 4-fold difference in the area under the concentration-time curves between the (R)- and (S)-albuterol enantiomers, with (S)-albuterol concentrations being consistently higher. However, without charcoal pretreatment, after either oral or inhalation administration the differences were 8- to 24-fold, suggesting that the (R)- albuterol is preferentially metabolized in the gastrointestinal tract, presumably by SULTIA3.
+
+                        The primary route of elimination of albuterol is through renal excretion (80% to 100%) of either the parent compound or the primary metabolite. Less than 20% of the drug is detected in the feces. Following intravenous administration of racemic albuterol, between 25% and 46% of the (R)-albuterol fraction of the dose was excreted as unchanged (R)-albuterol in the urine.
+
+                              Geriatric, Pediatric, Hepatic/Renal Impairment
+
+                        No pharmacokinetic studies for albuterol sulfate inhalation aerosol have been conducted in neonates or elderly subjects.
+
+                        The effect of hepatic impairment on the pharmacokinetics of albuterol sulfate inhalation aerosol has not been evaluated.
+
+                        The effect of renal impairment on the pharmacokinetics of albuterol was evaluated in 5 subjects with creatinine clearance of 7 to 53 mL/min, and the results were compared with those from healthy volunteers. Renal disease had no effect on the half-life, but there was a 67% decline in albuterol clearance. Caution should be used when administering high doses of albuterol sulfate inhalation aerosol to patients with renal impairment [see USE IN SPECIFIC POPULATIONS (8.5)].

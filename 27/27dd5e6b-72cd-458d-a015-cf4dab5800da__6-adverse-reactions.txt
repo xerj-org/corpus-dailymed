@@ -1,0 +1,13 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in greater detail in other sections of the label:
+
+                     Cardiomyopathy [see Warnings and Precautions (5.1)]
+
+                     Embryo-Fetal Toxicity [see Warnings and Precautions (5.2)]
+
+                     Pulmonary Toxicity [see Warnings and Precautions (5.3)]
+
+                     Exacerbation of Chemotherapy-Induced Neutropenia [see Warnings and Precautions (5.4)]
+
+                     Hypersensitivity and Administration-Related Reactions [see Warnings and Precautions (5.5)]

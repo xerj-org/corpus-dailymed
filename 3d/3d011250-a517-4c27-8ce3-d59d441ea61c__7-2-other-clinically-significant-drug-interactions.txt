@@ -1,0 +1,165 @@
+DailyMed 3d011250-a517-4c27-8ce3-d59d441ea61c | Haloperidol decanoate | 7.2 Other Clinically Significant Drug Interactions
+
+Table 3 describes other clinically significant drug interactions of haloperidol decanoate.
+
+                           Table 3: Other Clinically Significant Drugs Interactions
+
+   1
+
+                                       CNS Depressants
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+
+                                    Haloperidol may potentiate CNS depressants.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+
+                                    Avoid concomitant use of haloperidol decanoate with CNS depressants such as anesthetics, opioids and alcohol.
+
+                                  |
+
+                                       CYP3A4 and/or CYP2D6 Inhibitors
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+
+                                    CYP3A4 and/or CYP2D6 inhibitors increase haloperidol exposure (haloperidol is a CYP3A4 and CYP2D6 substrate) [see Clinical Pharmacology (
+
+      12.3)]. Concomitant use of haloperidol decanoate and CYP3A4 and/or CYP2D6 inhibitors may increase the risk of haloperidol-associated adverse reactions.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+
+                                    Monitor for signs or symptoms of increased or prolonged pharmacologic effects of haloperidol. Decrease the dosage of haloperidol decanoate as clinically necessary.
+
+                                  |
+
+                                       CYP3A4 Inducers
+
+                                  |
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+
+                                    CYP3A4 inducers decrease haloperidol exposure (haloperidol is a CYP3A4 substrate) [see Clinical Pharmacology (
+
+      12.3)].
+
+                                    Concomitant use of haloperidol decanoate with CYP3A4 inducers may reduce the effectiveness of haloperidol decanoate.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+
+                                    Monitor patients and if necessary, increase the dosage of haloperidol decanoate.
+
+                                  |
+
+                                       CYP2D6 Substrates
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+
+                                    Haloperidol is a CYP2D6 inhibitor. Plasma concentrations of CYP2D6 substrates may increase when they are concomitantly administered with haloperidol decanoate.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+
+                                    Monitor plasma concentrations of the CYP2D6 substrate, if possible. Consider reducing the dosage of the CYP2D6 substrate, if necessary. Refer to the Prescribing Information of the CYP2D6 substrate.
+
+                                  |
+
+                                       Dopaminergic Drugs
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+
+                                    Haloperidol may antagonize the effects of levodopa, dopamine agonists and other drugs intended to increase dopamine levels.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+
+                                    haloperidol decanoate is contraindicated in patients with Parkinson’s disease and dementia with Lewy bodies. For conditions other than Parkinson’s disease and dementia with Lewy bodies, when possible, avoid concomitant use of haloperidol decanoate with dopaminergic drugs [see Warnings and Precautions (
+
+      5.7)].
+
+                                  |
+
+                                       Anticholinergic Drugs
+
+                                  |
+
+                                  |
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+
+                                    The healthcare provider should keep in mind the possible increase in intraocular pressure when anticholinergic drugs are administered concomitantly with haloperidol decanoate.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+
+                                    Monitor and manage patients as clinically appropriate.
+
+                                  |
+
+                                       Lithium
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+
+                                    Concomitant use of haloperidol decanoate with lithium may cause an encephalopathic syndrome followed by irreversible brain damage [see Warnings and Precautions (
+
+      5.12)].
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+
+                                    Monitor patients who concomitantly use haloperidol decanoate with lithium closely for early signs of neurological toxicity and discontinue haloperidol decanoate or both haloperidol decanoate and lithium promptly if such signs appear.
+
+                                  |
+
+                           1See
+
+  www.fda.gov/CYPandTransporterInteractingDrugsfor examples of CYP3A4 and/or CYP2D6 inhibitors, CYP3A4 inducers and CYP2D6 substrates.

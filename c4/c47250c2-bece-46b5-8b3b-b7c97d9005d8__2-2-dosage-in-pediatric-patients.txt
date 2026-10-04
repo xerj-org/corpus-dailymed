@@ -1,0 +1,35 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 2.2 Dosage in Pediatric Patients
+
+Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephritis should be determined by the severity of the infection. Ciprofloxacin should be administered as described in Table 3.
+
+                           Table 3: Pediatric Dosage Guidelines
+
+                                 Infection |
+                                 Dose |
+                                 Frequency |
+                                 Total Duration |
+
+                                 Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) |
+                                 10mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing more than 51 kg) |
+                                 Every 12 hours |
+                                 10 to 21 daysThe total duration of therapy for cUTI and pyelonephritis in the clinical trail was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days).
+
+                                  |
+
+                                 Inhalational Anthrax
+
+ (Post-Exposure)Begin drug administration as soon as possible after suspected or confirmed exposure.
+
+                                  |
+                                 15 mg/kg maximum 500 mg per dose) |
+                                 Every 12 hours |
+                                 60 days |
+
+                                 Plague
+                                    ,
+                                    Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis.
+
+                                  |
+                                 15 mg/kg (maximum 500 mg per dose) |
+                                 Every 8 to 12 hours |
+                                 14 days |

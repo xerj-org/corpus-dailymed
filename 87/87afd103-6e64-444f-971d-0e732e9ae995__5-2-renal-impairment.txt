@@ -1,0 +1,5 @@
+DailyMed 87afd103-6e64-444f-971d-0e732e9ae995 | Ganciclovir | 5.2 Renal Impairment
+
+Ganciclovir should be used with caution in patients with impaired renal function because the half-life and plasma/serum concentrations of ganciclovir will be increased due to reduced renal clearance. If renal function is impaired, dosage adjustments are recommended [see Dosage and Administration (2.5), Use in Specific Populations (8.5, 8.6)].
+
+                        Increased serum creatinine levels have been reported in elderly patients and in transplant recipients receiving concomitant nephrotoxic medications (i.e., cyclosporine and amphotericin B).  Monitoring renal function during therapy with ganciclovir is essential, especially for elderly patients and those patients receiving concomitant agents that may cause nephrotoxicity [see Dosage and Administration (2.5), Drug Interactions (7), Use in Specific Populations (8.5)].

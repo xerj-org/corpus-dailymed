@@ -1,0 +1,7 @@
+DailyMed 650daa9f-aeec-49ce-95b9-5fa20b988afd | AMELUZ | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term studies to evaluate the carcinogenic potential of AMELUZ or aminolevulinic acid have not been performed.
+
+                        Aminolevulinic acid revealed no evidence of mutagenic or clastogenic potential based on the results of three in vitro genotoxicity tests (Ames assay, HPRT test in V79 cells, and Human lymphocyte chromosomal aberration assay) and one in vivo genotoxicity test (mouse micronucleus assay). These genotoxicity studies were conducted without exposure to light. There is a literature report that indicates that aminolevulinic acid may cause genotoxic effects in the presence and in the absence of activating light. These genotoxic effects are likely caused by the formation of reactive oxygen species.
+
+                        Animal fertility studies have not been conducted with aminolevulinic acid because of the negligible systemic absorption of aminolevulinic acid in humans following topical administration of AMELUZ under maximal clinical use conditions.

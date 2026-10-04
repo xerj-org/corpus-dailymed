@@ -1,0 +1,7 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis: Considering the maximum duration of treatment and the class of the compound, carcinogenicity studies with ceftriaxone in animals have not been performed. The maximum duration of animal toxicity studies was 6 months.
+
+                           Mutagenesis: Genetic toxicology tests included the Ames test, a micronucleus test and a test for chromosomal aberrations in human lymphocytes cultured in vitro with ceftriaxone. Ceftriaxone showed no potential for mutagenic activity in these studies.
+
+                           Impairment of Fertility: Ceftriaxone produced no impairment of fertility when given intravenously to rats at daily doses up to 586 mg/kg/day, approximately 20 times the recommended clinical dose of 2 gm/day.

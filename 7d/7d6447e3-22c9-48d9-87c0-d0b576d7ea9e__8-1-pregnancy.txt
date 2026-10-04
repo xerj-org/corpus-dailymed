@@ -1,0 +1,23 @@
+DailyMed 7d6447e3-22c9-48d9-87c0-d0b576d7ea9e | Cyclophosphamide | 8.1 Pregnancy
+
+Risk Summary
+
+                        Based on its mechanism of action and published reports of effects in pregnant patients or animals, cyclophosphamide capsules can cause fetal harm when administered to a pregnant woman
+
+  [see CLINICAL PHARMACOLOGY (12.1) and NONCLINICAL TOXICOLOGY (13.1)]. Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn
+
+  [see Data]. Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys
+
+  [see Data]. Advise pregnant women and females of reproductive potential of the potential risk to the fetus.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
+
+                           Data
+
+                              Human Data
+
+                        Malformations of the skeleton, palate, limbs and eyes as well as miscarriage have been reported after exposure to cyclophosphamide in the first trimester. Fetal growth retardation and toxic effects manifesting in the newborn, including leukopenia, anemia, pancytopenia, severe bone marrow hypoplasia, and gastroenteritis have been reported after exposure to cyclophosphamide.
+
+                              Animal Data
+
+                        Administration of cyclophosphamide to pregnant mice, rats, rabbits and monkeys during the period of organogenesis at doses at or below the dose in patients based on body surface area resulted in various malformations, which included neural tube defects, limb and digit defects and other skeletal anomalies, cleft lip and palate, and reduced skeletal ossification.

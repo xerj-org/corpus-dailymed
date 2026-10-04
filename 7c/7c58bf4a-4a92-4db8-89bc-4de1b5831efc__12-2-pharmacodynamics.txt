@@ -1,0 +1,9 @@
+DailyMed 7c58bf4a-4a92-4db8-89bc-4de1b5831efc | Atorvastatin calcium | 12.2 Pharmacodynamics
+
+Atorvastatin calcium, as well as some of its metabolites, are pharmacologically active in humans. The liver is the primary site of action and the principal site of cholesterol synthesis and LDL clearance. Drug dosage, rather than systemic drug concentration, correlates better with LDL-C reduction. Individualization of drug dosage should be based on therapeutic response
+
+  [see Dosage and Administration (
+
+   2)]
+
+  .

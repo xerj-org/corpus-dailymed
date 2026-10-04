@@ -1,0 +1,21 @@
+DailyMed 085e0809-6b7f-447e-976e-8276c29daad6 | Terbinafine | 12.4 Microbiology
+
+Terbinafine, an allylamine antifungal, inhibits biosynthesis of ergosterol, an essential component of fungal cell membrane, via inhibition of squalene epoxidase enzyme. This results in fungal cell death primarily due to the increased membrane permeability mediated by the accumulation of high concentrations of squalene but not due to ergosterol deficiency. Depending on the concentration of the drug and the fungal species test in vitro, terbinafine hydrochloride may be fungicidal. However, the clinical significance of in vitro data is unknown.
+
+Terbinafine has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections:
+
+                            Trichophyton mentagrophytes
+
+                           Trichophyton rubrum
+
+The following in vitro data are available, but their clinical significance is unknown. In vitro, terbinafine exhibits satisfactory MIC’s against most strains of the following microorganisms; however, the safety and efficacy of terbinafine in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials:
+
+                            Candida albicans
+
+                           Epidermophyton floccosum
+
+                           Scopulariopsis brevicaulis
+
+                           Susceptibility Testing
+
+                        For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

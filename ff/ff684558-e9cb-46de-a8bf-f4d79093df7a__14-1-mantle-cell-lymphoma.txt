@@ -1,0 +1,43 @@
+DailyMed ff684558-e9cb-46de-a8bf-f4d79093df7a | BEQALZI | 14.1 Mantle Cell Lymphoma
+
+The efficacy of BEQALZI was evaluated in a single-arm, multicenter clinical trial, BGB-11417-201 (NCT05471843). Efficacy was based on 103 adults with relapsed or refractory MCL who previously received anti-CD20–based therapy and a BTK inhibitor. The trial required an ANC ≥1000/mm3, platelets ≥75,000/mm3, and AST and ALT ≤3 × upper limit of normal (ULN). The trial excluded patients with central nervous system lymphoma, prior BCL-2 inhibitor, or an ECOG performance status >2.
+
+                        Following completion of the ramp-up dosing schedule, patients received BEQALZI at 320 mg orally once daily.
+
+                        The median age was 68 years (range: 39 to 85 years); 74% were male; 58% were White, 33% Asian, and 3% Black or African American. Most patients (93%) had an ECOG performance of 0 to 1.
+
+                        Patients had a median of 3 prior lines of therapy (range: 1 to 8), with 89% having at least 2 and 60% having at least 3 prior lines of therapy. All patients were exposed to at least one covalent or noncovalent BTK inhibitor, most commonly ibrutinib (53%), zanubrutinib (27%), and pirtobrutinib (14%). Other prior therapies included lenalidomide in 19%, autologous HSCT in 17%, and CAR-T therapy in 2%. The simplified Mantle Cell Lymphoma International Prognostic Index (sMIPI) score was low in 35%, intermediate in 36%, and high in 29% of patients. High ≥30%) Ki-67 expression was detected in 35% of patients.
+
+                        Efficacy was established based on overall response rate (ORR) and duration of response (DOR), as assessed by an independent review committee (IRC) using 2014 Lugano criteria. Efficacy results are shown in Table 9. The median time to response was 1.9 months (range: 1.6 to 6.2). The estimated median follow-up for DOR was 11.9 months.
+
+                           Table 9: Efficacy Results per IRC in Patients with Previously Treated MCL
+
+                                 Outcome |
+                                 BEQALZI
+
+ (N=103) |
+
+                                 Abbreviations: CI: confidence interval; DOR: duration of response; NE: not estimable |
+
+                                    Overall Response Rate
+                                  |
+
+                                 Overall response, n |
+                                 54 (52%) |
+
+                                   (95% CI, %) |
+                                 42, 62 |
+
+                                 Complete response, n |
+                                 16 (16%) |
+
+                                 Partial response, n |
+                                 38 (37%) |
+
+                                    Duration of Response
+                                  |
+
+                                 Median DOR (95% CI), monthsKaplan-Meier estimate.
+
+                                  |
+                                 15.8 (7.4, NE) |

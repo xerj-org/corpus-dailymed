@@ -1,0 +1,7 @@
+DailyMed 5b224d7f-fecb-4531-9d27-008347777c9d | MYCOPHENOLIC ACID | 2.3 Administration
+
+Mycophenolic acid delayed-release tablets should be taken on an empty stomach, 1 hour before or 2 hours after food intake [see Clinical Pharmacology (12.3)].
+
+                        Mycophenolic acid delayed-release tablets should not be crushed, chewed, or cut prior to ingesting. The tablets should be swallowed whole in order to maintain the integrity of the enteric coating.
+
+                        Pediatric patients with a BSA of 1.19 m2 to 1.58 m2 may be dosed either with three mycophenolic acid delayed-release tablets 180 mg, or one 180 mg tablet plus one 360 mg tablet twice daily (1,080 mg daily dose). Patients with a BSA of > 1.58 m2 may be dosed either with four mycophenolic acid delayed-release tablets 180 mg, or two mycophenolic acid delayed-release tablets 360 mg twice daily (1,440 mg daily dose). Pediatric doses for patients with BSA < 1.19 m2 cannot be accurately administered using currently available formulations of mycophenolic acid delayed-release tablets.

@@ -1,0 +1,3 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | 5.9 Low Sensitivity for Significant Arterial Stenosis
+
+The performance of GADAVIST MRA for detecting arterial segments with significant stenosis (>50% renal, >70% supra-aortic) has not been shown to exceed 55%. Therefore, a negative MRA study alone should not be used to rule out significant stenosis [see Clinical Studies (14.3)].

@@ -1,0 +1,15 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 5.15 Risk of Respiratory Arrest with Use in Ophthalmic Surgery
+
+Clinicians who perform retrobulbar blocks should be aware that there have been reports of respiratory arrest following local anesthetic injection. Prior to retrobulbar block (e.g., with Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection), as with all other regional procedures, resuscitative equipment and drugs, and personnel to manage respiratory arrest or depression, convulsions, and cardiac stimulation or depression should be immediately available
+
+  [see
+
+   Warnings and Precautions (5.14)].
+
+  As with other anesthetic procedures, patients should be constantly monitored following ophthalmic blocks for signs of these adverse reactions, which may occur following relatively low total doses.
+
+                        A concentration of 0.75% bupivacaine is indicated for retrobulbar block; however, this concentration is not indicated for any other peripheral nerve block, including the facial nerve, and not indicated for local infiltration, including the conjunctiva
+
+  [see
+
+   Indications and Usage (1)].

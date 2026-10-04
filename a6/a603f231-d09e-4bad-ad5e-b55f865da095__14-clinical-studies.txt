@@ -1,0 +1,351 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 14 CLINICAL STUDIES
+
+Two multicenter, randomized, double-blind, placebo-controlled phase 3 clinical trials (AA-1 [
+                        NCT04518995
+                     ] and AA-2 [
+                        NCT04797650
+                     ]), evaluated a total of 1,209 adult subjects with alopecia areata (AA), who had at least 50% scalp hair loss as measured by the Severity of Alopecia Tool (SALT) for more than six months. In both trials, subjects received LEQSELVI 8 mg twice daily, deuruxolitinib 12 mg twice daily, or placebo twice daily for 24 weeks.
+
+                  Deuruxolitinib 12 mg is not approved.
+
+                  The trial population ranged from 18 to 65 years of age. Among the subjects enrolled, 64% were female, 74% were White, 9% were Black or African American, and 6% were Asian; 8% identified as Hispanic or Latino. At baseline, subjects had average current episode of hair loss of approximately 4 years, with 59% of subjects having complete or near complete scalp hair loss (defined as ≥ 95% scalp hair loss). The mean pooled baseline SALT scores across treatment groups ranged from 85.9 to 88.6 with a mean duration of current episode of hair loss of ranging 3.7 to 3.9 years. Approximately 73% of subjects had eyebrow hair involvement and 70% of subjects had eyelash hair involvement.
+
+                  The primary endpoint for both trials assessed the proportion of subjects who achieved at least 80% scalp hair coverage (SALT score of ≤ 20) at Week 24. Key secondary outcomes included the percentage of responders (defined as “satisfied” or “very satisfied”) at Week 24 on the Satisfaction of Hair Patient-Reported Outcome (SPRO) and the percentage of subjects achieving an absolute SALT score of ≤ 20 at Week 20, 16, 12, and 8.
+
+                  Upon completion of the 24-week trials, subjects were eligible to enroll in a long-term extension trial.
+
+                     Clinical Response
+
+                  Assessment of scalp hair loss was based on the SALT score. At Week 24, a greater proportion of subjects had a SALT ≤ 20 response (80% or more scalp hair) and SALT ≤ 10 response (90% or more scalp hair) with LEQSELVI 8 mg twice daily compared to placebo (
+                        Table 3
+                     ).
+
+                     Table 3: Clinical Response at Week 24 in Adult Subjects with Severe AA in Trials AA-1 and AA-2
+
+                            |
+
+                              Trial AA-1
+
+                            |
+
+                              Trial AA-2
+
+                            |
+
+                                 a Not adjusted for multiplicity.
+
+                            |
+
+                            |
+
+                              Placebo
+
+(N=140)
+
+                            |
+
+                              LEQSELVI
+
+8 mg twice daily
+
+(N=351)
+
+                            |
+
+                              Placebo
+
+(N=127)
+
+                            |
+
+                              LEQSELVI
+
+8 mg twice daily
+
+(N=249)
+
+                            |
+
+                              SALT scores ≤ 20
+
+  Common risk difference from Placebo
+
+  (95% CI)
+
+                            |
+
+                              1%
+
+                            |
+
+                              29%
+
+28%
+
+(23%, 33%)
+
+                            |
+
+                              1%
+
+                            |
+
+                              32%
+
+31%
+
+(25%, 37%)
+
+                            |
+
+                              SALT scores ≤ 10
+
+  Common risk difference from Placebo
+
+  (95% CI)
+
+                            |
+
+                              0%a
+
+                            |
+
+                              20%
+
+21%
+
+(16%, 25%)a
+
+                            |
+
+                              0%a
+
+                            |
+
+                              24%
+
+24%
+
+(19%, 30%)a
+
+                            |
+
+                     Table 4: Evaluation of Patient Satisfaction with Scalp Hair Coverage at Weeks 24 in Adult Subjects with Severe AA in Trials AA-1 and AA-2
+
+                            |
+
+                              Trial AA-1
+
+                            |
+
+                              Trial AA-2
+
+                            |
+
+                                 a In Trial AA-1, the proportion of responders (defined as subjects who were “satisfied” or “very satisfied”) on LEQSELVI was 42% compared to 5% on placebo. In Trial AA-2, the proportion of responders on LEQSELVI was 46% compared to 2% on placebo.
+
+                            |
+
+                            |
+
+                              Placebo
+
+(N=140)
+
+                            |
+
+                              LEQSELVI
+
+8 mg twice daily
+
+(N=351)
+
+                            |
+
+                              Placebo
+
+(N=127)
+
+                            |
+
+                              LEQSELVI
+
+8 mg twice daily
+
+(N=249)
+
+                            |
+
+                              “Very Satisfied”a
+
+                            |
+
+                              2%
+
+                            |
+
+                              19%
+
+                            |
+
+                              0%
+
+                            |
+
+                              18%
+
+                            |
+
+                              “Satisfied”a
+
+                            |
+
+                              3%
+
+                            |
+
+                              23%
+
+                            |
+
+                              2%
+
+                            |
+
+                              28%
+
+                            |
+
+                              “Neither Satisfied nor Dissatisfied”
+
+                            |
+
+                              16%
+
+                            |
+
+                              19%
+
+                            |
+
+                              13%
+
+                            |
+
+                              15%
+
+                            |
+
+                              “Dissatisfied”
+
+                            |
+
+                              25%
+
+                            |
+
+                              18%
+
+                            |
+
+                              18%
+
+                            |
+
+                              16%
+
+                            |
+
+                              “Very Dissatisfied”
+
+                            |
+
+                              54%
+
+                            |
+
+                              21%
+
+                            |
+
+                              67%
+
+                            |
+
+                              23%
+
+                            |
+
+                     Figure 1: Clinical Response over Time in Adult Subjects with Severe AA in Trials AA- 1 and AA-2
+
+                  The efficacy of LEQSELVI was generally comparable across multiple subgroups including age, gender, and body weight among these subgroups. The results for SALT score ≤ 20 at Week 24 by baseline scalp hair loss severity are presented in
+                        Table 5
+                     .
+
+                     Table 5: Adult Subjects with Severe AA with Absolute SALT Scores ≤ 20 at Week 24 by Baseline Scalp Hair Loss Severity in Trials AA-1 and AA-2
+
+                            |
+
+                              Trials AA-1 and AA-2
+
+                            |
+
+                            |
+
+                              Placebo
+
+                            |
+
+                              LEQSELVI
+
+8 mg BID
+
+                            |
+
+                              50% to 94% Scalp Hair Loss
+
+                            |
+
+                                N
+
+  SALT ≤ 20
+
+                            |
+
+                              110
+
+2%
+
+                            |
+
+                              248
+
+46%
+
+                            |
+
+                              95% to 100% Scalp Hair Loss
+
+                            |
+
+                                N
+
+  SALT ≤ 20
+
+                            |
+
+                              157
+
+0%
+
+                            |
+
+                              352
+
+20%
+
+                            |
+
+                              BID = twice-daily
+
+                            |

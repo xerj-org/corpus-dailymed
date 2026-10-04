@@ -1,0 +1,3 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 6.2 Post-Marketing Experience
+
+In addition to adverse reactions reported from clinical trials, there have been rare reports of hypoglycemia reported during ramipril therapy when given to patients concomitantly taking oral hypoglycemic agents or insulin. The causal relationship is unknown.

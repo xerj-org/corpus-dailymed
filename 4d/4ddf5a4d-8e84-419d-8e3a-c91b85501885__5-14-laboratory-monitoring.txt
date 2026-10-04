@@ -1,0 +1,3 @@
+DailyMed 4ddf5a4d-8e84-419d-8e3a-c91b85501885 | Meloxicam | 5.14 Laboratory Monitoring
+
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].

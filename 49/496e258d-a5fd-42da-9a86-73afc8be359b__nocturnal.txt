@@ -1,0 +1,3 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | Nocturnal
+
+Cimetidine 800 mg orally at bedtime reduces mean hourly H+ activity by greater than 85% over an eight-hour period in duodenal ulcer patients, with no effect on daytime acid secretion. Cimetidine 1600 mg orally at bedtime produces 100% inhibition of mean hourly H+ activity over an eight-hour period in duodenal ulcer patients, but also reduces H+ activity by 35% for an additional five hours into the following morning. Cimetidine 400 mg twice daily and 300 mg four times daily decrease nocturnal acid secretion in a dose-related manner, i.e., 47% to 83% over a six- to eight-hour period and 54% over a nine-hour period, respectively.

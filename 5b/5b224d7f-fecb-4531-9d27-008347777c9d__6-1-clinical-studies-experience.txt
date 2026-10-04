@@ -1,0 +1,636 @@
+DailyMed 5b224d7f-fecb-4531-9d27-008347777c9d | MYCOPHENOLIC ACID | 6.1 Clinical Studies Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The data described below derive from two randomized, comparative, active-controlled, double-blind, double-dummy trials in prevention of acute rejection in de novo and converted stable kidney transplant patients.
+
+                        In the de novo trial, patients were administered either mycophenolic acid delayed-release tablets 1.44 grams per day (N = 213) or MMF 2 grams per day (N = 210) within 48 hours post-transplant for 12 months in combination with cyclosporine, USP MODIFIED and corticosteroids. Forty-one percent of patients also received antibody therapy as induction treatment. In the conversion trial, renal transplant patients who were at least 6 months post-transplant and receiving 2 grams per day MMF in combination with cyclosporine USP MODIFIED, with or without corticosteroids for at least two weeks prior to entry in the trial were randomized to mycophenolic acid delayed-release tablets 1.44 grams per day (N = 159) or MMF 2 grams per day (N = 163) for 12 months.
+
+                        The average age of patients in both studies was 47 years and 48 years (de novo study and conversion study, respectively), ranging from 22 to 75 years. Approximately 66% of patients were male; 82% were white, 12% were black, and 6% other races. About 40% of patients were from the United States and 60% from other countries.
+
+                        In the de novo trial, the overall incidence of discontinuation due to adverse reactions was 18% (39/213) and 17% (35/210) in the mycophenolic acid delayed-release tablets and MMF arms, respectively. The most common adverse reactions leading to discontinuation in the mycophenolic acid delayed-release tablets arm were graft loss (2%), diarrhea (2%), vomiting (1%), renal impairment (1%), CMV infection (1%), and leukopenia (1%). The overall incidence of patients reporting dose reduction at least once during the 0- to 12-month study period was 59% and 60% in the mycophenolic acid delayed-release tablets and MMF arms, respectively. The most frequent reasons for dose reduction in the mycophenolic acid delayed-release tablets arm were adverse reactions (44%), dose reductions according to protocol guidelines (17%), dosing errors (11%) and missing data (2%).
+
+                        The most common adverse reactions (≥ 20%) associated with the administration of mycophenolic acid delayed-release tablets were anemia, leukopenia, constipation, nausea, diarrhea, vomiting, dyspepsia, urinary tract infection, CMV infection, insomnia, and postoperative pain.
+
+                        The adverse reactions reported in ≥ 10% of patients in the de novo trial are presented in Table 2 below.
+
+                            Table 2: Adverse Reactions (%) Reported in ≥ 10% of De novo Kidney Transplant Patients in Either Treatment Group
+
+                                  
+
+                                  |
+
+                                       De novo
+
+                                    Renal Trial**
+
+                                  |
+
+                                    System organ class
+
+                                    adverse drug reactions
+
+                                  |
+
+                                    Mycophenolic acid delayed-release tablets
+
+                                    1.44 grams per day
+
+                                     (n = 213)
+
+                                    (%)
+
+                                  |
+
+                                     Mycophenolate mofetil (MMF)
+
+             2 grams per day
+
+                                    (n = 210)
+
+                                    (%)
+
+                                  |
+
+                                     Blood and lymphatic system disorders
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Anemia
+
+                                  |
+                                 22
+
+                                  |
+                                 22
+
+                                  |
+
+                                 Leukopenia
+
+                                  |
+                                 19
+
+                                  |
+                                 21
+
+                                  |
+
+                                    Gastrointestinal system disorders
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Constipation
+
+                                  |
+                                 38
+
+                                  |
+                                 40
+
+                                  |
+
+                                 Nausea
+
+                                  |
+                                 29
+
+                                  |
+                                 27
+
+                                  |
+
+                                 Diarrhea
+
+                                  |
+                                 24
+
+                                  |
+                                 25
+
+                                  |
+
+                                 Vomiting
+
+                                  |
+                                 23
+
+                                  |
+                                 20
+
+                                  |
+
+                                 Dyspepsia
+
+                                  |
+                                 23
+
+                                  |
+                                 19
+
+                                  |
+
+                                 Abdominal pain upper
+
+                                  |
+                                 14
+
+                                  |
+                                 14
+
+                                  |
+
+                                 Flatulence
+
+                                  |
+                                 10
+
+                                  |
+                                 13
+
+                                  |
+
+                                    General and administrative site disorders
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Edema
+
+                                  |
+                                 17
+
+                                  |
+                                 18
+
+                                  |
+
+                                 Edema lower limb
+
+                                  |
+                                 16
+
+                                  |
+                                 17
+
+                                  |
+
+                                 Pyrexia
+
+                                  |
+                                 13
+
+                                  |
+                                 19
+
+                                  |
+
+                                     Investigations
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Increased blood creatinine
+
+                                  |
+                                 15
+
+                                  |
+                                 10
+
+                                  |
+
+                                    Infections and infestations
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Urinary tract infection
+
+                                  |
+                                 29
+
+                                  |
+                                 33
+
+                                  |
+
+                                 CMV infection
+
+                                  |
+                                 20
+
+                                  |
+                                 18
+
+                                  |
+
+                                    Metabolism and nutrition disorders
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Hypocalcemia
+
+                                  |
+                                 11
+
+                                  |
+                                 15
+
+                                  |
+
+                                 Hyperuricemia
+
+                                  |
+                                 13
+
+                                  |
+                                 13
+
+                                  |
+
+                                 Hyperlipidemia
+
+                                  |
+                                 12
+
+                                  |
+                                 10
+
+                                  |
+
+                                 Hypokalemia
+
+                                  |
+                                 13
+
+                                  |
+                                 9
+
+                                  |
+
+                                 Hypophosphatemia
+
+                                  |
+                                 11
+
+                                  |
+                                 9
+
+                                  |
+
+                                    Musculoskeletal, connective tissue and bone disorders
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Back pain
+
+                                  |
+                                 12
+
+                                  |
+                                 6
+
+                                  |
+
+                                 Arthralgia
+
+                                  |
+                                 7
+
+                                  |
+                                 11
+
+                                  |
+
+                                    Nervous system disorder
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Insomnia
+
+                                  |
+                                 24
+
+                                  |
+                                 24
+
+                                  |
+
+                                 Tremor
+
+                                  |
+                                 12
+
+                                  |
+                                 14
+
+                                  |
+
+                                 Headache
+
+                                  |
+                                 13
+
+                                  |
+                                 11
+
+                                  |
+
+                                    Vascular disorders
+
+                                  |
+                                  
+
+                                  |
+                                  
+
+                                  |
+
+                                 Hypertension
+
+                                  |
+                                 18
+
+                                  |
+                                 18
+
+                                  |
+
+                        **The trial was not designed to support comparative claims for mycophenolic acid delayed-release tablets for the adverse reactions reported in this table.  
+
+                        Table 3 summarizes the incidence of opportunistic infections in de novo transplant patients.
+
+                           Table 3: Viral and Fungal Infections (%) Reported Over 0 to 12 Months
+
+                                  |
+
+                                       De novo
+
+                                    Renal Trial
+
+                                  |
+
+                                  |
+
+                                    Mycophenolic acid delayed-release tablets
+
+                                    1.44 grams per day
+
+                                    (n = 213)
+
+                                    (%)
+
+                                  |
+
+                                     Mycophenolate mofetil (MMF)
+
+             2 grams per day
+
+                                    (n = 210)
+
+                                    (%)
+
+                                  |
+
+                                 Any cytomegalovirus
+
+                                  |
+                                 22
+
+                                  |
+                                 21
+
+                                  |
+
+                                 - Cytomegalovirus disease
+
+                                  |
+                                 5
+
+                                  |
+                                 4
+
+                                  |
+
+                                 Herpes simplex
+
+                                  |
+                                 8
+
+                                  |
+                                 6
+
+                                  |
+
+                                 Herpes zoster
+
+                                  |
+                                 5
+
+                                  |
+                                 4
+
+                                  |
+
+                                 Any fungal infection
+
+                                  |
+                                 11
+
+                                  |
+                                 12
+
+                                  |
+
+                                    - Candida NOS
+
+                                  |
+                                 6
+
+                                  |
+                                 6
+
+                                  |
+
+                                    - Candida albicans
+
+                                  |
+                                 2
+
+                                  |
+                                 4
+
+                                  |
+
+                        Lymphoma developed in 2 de novo patients (1%), (1 diagnosed 9 days after treatment initiation) and in 2 conversion patients (1%) receiving mycophenolic acid delayed-release tablets with other immunosuppressive agents in the 12-month controlled clinical trials.
+
+                        Nonmelanoma skin carcinoma occurred in 1% de novo and 12% conversion patients. Other types of malignancy occurred in 1% de novo and 1% conversion patients [see Warnings and Precautions (5.3)].
+
+                        The adverse reactions reported in less than 10% of de novo or conversion patients treated with mycophenolic acid delayed-release tablets in combination with cyclosporine and corticosteroids are listed in Table 4.
+
+                           Table 4: Adverse Reactions Reported in < 10% of Patients Treated With Mycophenolic Acid Delayed-Release Tablets in Combination With Cyclosporine* and Corticosteroids
+
+                                 Blood and lymphatic disorders
+
+                                  |
+                                 Lymphocele, thrombocytopenia
+
+                                  |
+
+                                 Cardiac disorder
+
+                                  |
+                                 Tachycardia
+
+                                  |
+
+                                 Eye disorder
+
+                                  |
+                                 Vision blurred
+
+                                  |
+
+                                 Gastrointestinal disorders
+
+                                  |
+                                 Abdominal pain, abdominal distension, gastroesophageal reflux disease, gingival hyperplasia
+
+                                  |
+
+                                 General disorders and administration-site conditions
+
+                                  |
+                                 Fatigue, peripheral edema
+
+                                  |
+
+                                 Infections and infestations
+
+                                  |
+                                 Nasopharyngitis, herpes simplex, upper respiratory infection, oral candidiasis, herpes zoster, sinusitis, influenza, wound infection, implant infection, pneumonia, sepsis
+
+                                  |
+
+                                 Investigations
+
+                                  |
+                                 Hemoglobin decrease, liver function tests abnormal
+
+                                  |
+
+                                 Metabolism and nutrition disorders
+
+                                  |
+                                 Hypercholesterolemia, hyperkalemia, hypomagnesemia, diabetes mellitus, hyperglycemia
+
+                                  |
+
+                                 Musculoskeletal and connective tissue disorders
+
+                                  |
+                                 Arthralgia, pain in limb, peripheral swelling, muscle cramps, myalgia
+
+                                  |
+
+                                 Nervous system disorders
+
+                                  |
+                                 Dizziness (excluding vertigo)
+
+                                  |
+
+                                 Psychiatric disorders
+
+                                  |
+                                 Anxiety
+
+                                  |
+
+                                 Renal and urinary disorders
+
+                                  |
+                                 Renal tubular necrosis, renal impairment, hematuria, urinary retention
+
+                                  |
+
+                                 Respiratory, thoracic and mediastinal disorders
+
+                                  |
+                                 Cough, dyspnea, dyspnea exertional
+
+                                  |
+
+                                 Skin and subcutaneous tissue disorders
+
+                                  |
+                                 Acne, pruritus, rash
+
+                                  |
+
+                                 Vascular disorders
+
+                                  |
+                                 Hypertension aggravated, hypotension
+
+                                  |
+
+                        *USP MODIFIED.
+
+                        The following additional adverse reactions have been associated with the exposure to MPA when administered as a sodium salt or as mofetil ester:
+
+                              Gastrointestinal:
+                           Intestinal perforation, gastrointestinal hemorrhage, gastric ulcers, duodenal ulcers [see Warnings and Precautions (5.7)], colitis (including CMV colitis), pancreatitis, esophagitis, and ileus.
+
+                               Infections
+
+                           : Serious life-threatening infections, such as meningitis and infectious endocarditis, tuberculosis, and atypical mycobacterial infection [see Warnings and Precautions (5.4)].
+
+                              Respiratory:
+                           Interstitial lung disorders, including fatal pulmonary fibrosis.

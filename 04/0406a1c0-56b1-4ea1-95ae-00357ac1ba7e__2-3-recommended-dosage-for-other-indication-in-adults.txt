@@ -1,0 +1,12 @@
+DailyMed 0406a1c0-56b1-4ea1-95ae-00357ac1ba7e | DAPAGLIFLOZIN | 2.3 Recommended Dosage for Other Indication in Adults
+
+The recommended dosage of dapagliflozin tablets is 10 mg orally once daily in adults for the following indication:
+
+                           To reduce the risk of hHF in patients with type 2 diabetes mellitus and either established CV disease or multiple CV risk factors.
+
+                           For Adults with Renal Impairment Receiving Dapagliflozin Tablets
+                            for Indication Other than Glycemic Control:
+
+                           The recommended dosage of dapagliflozin tablets in patients with an eGFR greater than or equal to 25 mL/min/1.73 m2 is the same as the recommended dosage in patients with normal renal function.
+
+                           Initiation with dapagliflozin tablets is not recommended in patients with an eGFR less than 25 mL/min/1.73 m2.

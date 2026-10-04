@@ -1,0 +1,27 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 7.3 CRESTOR Effects on Other Drugs
+
+Table 7 presents CRESTOR’s effect on other drugs and instructions for preventing or managing them.
+
+                           Table 7: CRESTOR Effects on Other Drugs
+
+                                           
+
+                                          Warfarin
+
+                                  |
+
+                                       Prevention or Management:
+
+                                  |
+
+                                    In patients taking warfarin, obtain an INR before starting CRESTOR and frequently enough after initiation, dosage titration or discontinuation to ensure that no significant alteration in INR occurs. Once the INR is stable, monitor INR at regularly recommended intervals.
+
+                                  |
+
+                                       Mechanism and Clinical Effect(s):
+
+                                  |
+
+                                    Rosuvastatin significantly increased the INR in patients receiving warfarin [see Clinical Pharmacology (12.3)].
+
+                                  |

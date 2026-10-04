@@ -1,0 +1,19 @@
+DailyMed 60f656ff-97b1-4a89-99af-8100483c2bac | Acetazolamide | Information for Patients
+
+Adverse reactions common to all sulfonamide derivatives may occur: anaphylaxis, fever, rash (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), crystalluria, renal calculus, bone marrow depression, thrombocytopenic purpura, hemolytic anemia, leukopenia, pancytopenia, and agranulocytosis. Caution is advised for early detection of such reactions and the drug should be discontinued and appropriate therapy instituted.
+
+                        In patients with pulmonary obstruction or emphysema where alveolar ventilation may be impaired, acetazolamide, which may precipitate or aggravate acidosis, should be used with caution.
+
+                        Gradual ascent is desirable to try to avoid acute mountain sickness. If rapid ascent is undertaken and acetazolamide is used, it should be noted that such use does not obviate the need for prompt descent if severe forms of high altitude sickness occur, i.e, high altitude pulmonary edema (HAPE) or high altitude cerebral edema.
+
+                        Caution is advised for patients receiving concomitant high-dose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, metabolic acidosis, coma, and death have been reported (see
+                              WARNINGS
+                           ).
+
+                        Both increases and decreases in blood glucose levels have been described in patients treated with acetazolamide. This should be taken into consideration in patients with impaired glucose tolerance or diabetes mellitus.
+
+                        Acetazolamide treatment may cause electrolyte imbalances, including hyponatremia and hypokalemia, as well as metabolic acidosis. Therefore, periodic monitoring of serum electrolytes is recommended. Particular caution is recommended in patients with conditions that are associated with, or predispose a patient to, electrolyte and acid/base imbalances, such as patients with impaired renal function (including elderly patients; see
+                              PRECAUTIONS, Geriatric Use
+                           ), patients with diabetes mellitus, and patients with impaired alveolar ventilation.
+
+                        Some adverse reactions to acetazolamide, such as drowsiness, fatigue, and myopia, may impair the ability to drive and operate machinery.

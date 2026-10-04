@@ -1,0 +1,15 @@
+DailyMed 5ca5b043-533e-2d1a-e063-6294a90a8d4a | Lacosamide | 8.6 Renal Impairment
+
+No dose adjustment is necessary in patients with mild to moderate renal impairment (CL
+
+  CR≥30 mL/min). In CR patients with severe renal impairment (CL<30 mL/min as estimated by the Cockcroft-Gault equation for adults; CL
+
+  CRless than 30 mL/min/1.73m
+
+  2as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [
+
+  see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+
+  In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
+
+  Lacosamide is effectively removed from plasma by hemodialysis. Dosage supplementation of up to 50% following hemodialysis should be considered.

@@ -1,0 +1,133 @@
+DailyMed e082a024-7850-400b-a5c2-2a140612562a | Zortress | 12.8 Cyclosporine Concentrations Observed in Kidney Transplant Patients
+
+In the kidney transplant clinical trial [
+                           s
+                           ee
+                           Clinical
+                           Studies
+                           (14.1)
+                           ], the target cyclosporine whole blood trough concentration for the Zortress treatment arm of 0.75 mg twice daily were 100 to 200 ng/mL through Month 1 posttransplant, 75 to 150 ng/mL at Months 2 and 3 posttransplant, 50 to 100 ng/mL at Month 4 posttransplant, and 25 to 50 ng/mL from Month 6 through Month 12 posttransplant. Table 5 below provides a summary of the observed cyclosporine whole blood trough concentrations during the study.
+
+                           Table 5. Cyclosporine Trough Concentrations Over 12 Months Posttransplant – Kidney Study Median Values (ng/mL) With 10th and 90th Percentiles
+
+                                    Treatment Group
+                                  |
+
+                                    Visit
+                                  |
+
+                                    N
+                                  |
+
+                                    Target
+
+(ng/mL)
+                                  |
+
+                                    Median
+                                  |
+
+                                    10
+
+                                       th
+
+                                     percentile
+                                  |
+
+                                    9
+                                    0
+
+                                       th
+
+                                     percentile
+                                  |
+
+                                 Zortress
+
+0.75 mg twice daily |
+                                 Day 3 |
+                                 242 |
+                                 100-200 |
+                                 172 |
+                                 46 |
+                                 388 |
+
+                                  |
+                                 Day 7 |
+                                 265 |
+                                 100-200 |
+                                 185 |
+                                 75 |
+                                 337 |
+
+                                  |
+                                 Day 14 |
+                                 243 |
+                                 100-200 |
+                                 182 |
+                                 97 |
+                                 309 |
+
+                                  |
+                                 Month 1 |
+                                 245 |
+                                 100-200 |
+                                 161 |
+                                 85 |
+                                 274 |
+
+                                  |
+                                 Month 2 |
+                                 232 |
+                                 75-150 |
+                                 140 |
+                                 84 |
+                                 213 |
+
+                                  |
+                                 Month 3 |
+                                 220 |
+                                 75-150 |
+                                 111 |
+                                 68 |
+                                 187 |
+
+                                  |
+                                 Month 4 |
+                                 208 |
+                                 50-100 |
+                                 99 |
+                                 56 |
+                                 156 |
+
+                                  |
+                                 Month 6 |
+                                 200 |
+                                 25-50 |
+                                 75 |
+                                 43 |
+                                 142 |
+
+                                  |
+                                 Month 7 |
+                                 199 |
+                                 25-50 |
+                                 59 |
+                                 36 |
+                                 117 |
+
+                                  |
+                                 Month 9 |
+                                 194 |
+                                 25-50 |
+                                 49 |
+                                 28 |
+                                 91 |
+
+                                  |
+                                 Month 12 |
+                                 186 |
+                                 25-50 |
+                                 46 |
+                                 25 |
+                                 100 |

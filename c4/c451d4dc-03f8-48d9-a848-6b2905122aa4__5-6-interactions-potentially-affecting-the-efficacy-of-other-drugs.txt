@@ -1,0 +1,5 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.6 Interactions Potentially Affecting the Efficacy of Other Drugs
+
+Due to the administration of Sugammadex Injection, certain drugs, including hormonal contraceptives, could become less effective due to a lowering of the (free) plasma concentrations. In this situation, consider the re- administration of the other drug, the administration of a therapeutically equivalent drug (preferably from a different chemical class), and/or non-pharmacological interventions as appropriate
+
+  [see Drug Interactions (7.3)].

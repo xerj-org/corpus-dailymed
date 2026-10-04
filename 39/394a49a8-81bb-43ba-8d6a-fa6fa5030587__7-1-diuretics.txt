@@ -1,0 +1,10 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 7.1 Diuretics
+
+Patients on diuretics, especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with ramipril. The possibility of hypotensive effects with ramipril can be minimized by either decreasing or discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with ramipril. If this is not possible, reduce the starting dose
+
+  [see
+
+                                 Dosage and Administration (2)
+                              ]
+
+  .

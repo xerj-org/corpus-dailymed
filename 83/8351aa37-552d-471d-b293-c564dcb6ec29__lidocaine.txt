@@ -1,0 +1,3 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Lidocaine
+
+Intravenous administration of ceftriaxone solutions containing lidocaine is contraindicated. When lidocaine solution is used as a solvent with ceftriaxone for intramuscular injection, exclude all contraindications to lidocaine. Refer to the prescribing information of lidocaine.

@@ -1,0 +1,5 @@
+DailyMed d68b79ab-3104-410e-a63f-9919a23625af | Ticagrelor | 1.1 Acute Coronary Syndrome or a History of Myocardial Infarction
+
+Ticagrelor tablets are indicated to reduce the risk of cardiovascular (CV) death, myocardial infarction (MI), and stroke in patients with acute coronary syndrome (ACS) or a history of MI. For at least the first 12 months following ACS, it is superior to clopidogrel.
+
+                        Ticagrelor tablet also reduces the risk of stent thrombosis in patients who have been stented for treatment of ACS [see Clinical Studies (14.1)].

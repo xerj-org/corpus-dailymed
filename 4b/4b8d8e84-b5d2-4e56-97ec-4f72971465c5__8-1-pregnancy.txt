@@ -1,0 +1,23 @@
+DailyMed 4b8d8e84-b5d2-4e56-97ec-4f72971465c5 | QNASL | 8.1 Pregnancy
+
+Risk Summary
+
+                        There are no adequate and well-controlled studies with QNASL Nasal Aerosol or beclomethasone dipropionate in pregnant women. No published studies, including studies of large birth registries, have to date related the use of inhaled corticosteroids (ICS) or intranasal corticosteroids to any increases in congenital malformations or other adverse perinatal outcomes.  Thus, available human data do not establish the presence or absence of drug‑associated risk to the fetus.  In animal reproduction studies, beclomethasone dipropionate resulted in adverse developmental effects in mice and rabbits at subcutaneous doses equal to or greater than approximately 1.5 times the maximum recommended human dose (MRHD) in adults (0.32 mg/day) (see Data).  In rats exposed to beclomethasone dipropionate by inhalation, dose‑related gross injury to the fetal adrenal glands was observed at doses greater than 350 times the MRHD, but there was no evidence of external or skeletal malformations or embryolethality at inhalation doses of up to 860 times the MRHD.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.  In the US general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2‑4% and 15‑20%, respectively.
+
+                        Clinical Considerations
+
+                           Labor or Delivery
+
+                        There are no specific human data regarding any adverse effects of intranasal beclomethasone dipropionate on labor and delivery.
+
+                           Data
+
+                           Animal Data
+
+                        In an embryofetal development study in pregnant rats, beclomethasone dipropionate administration during organogenesis from gestation days 6 to 15 at inhaled doses 350 times the MRHD in adults and higher (on a mg/m2 basis at maternal doses of 11.5 and 28.3 mg/kg/day) produced dose‑dependent gross injury (characterized by red foci) of the adrenal glands in fetuses.  There were no findings in the adrenal glands of rat fetuses at an inhaled dose that was 75 times the MRHD in adults (on a mg/m2 basis at a maternal dose of 2.4 mg/kg/day).  There was no evidence of external or skeletal malformations or embryolethality in rats at inhaled doses up to 860 times the MRHD (on a mg/m2 basis at maternal doses up to 28.3 mg/kg/day).
+
+                        In an embryofetal development study in pregnant mice, beclomethasone dipropionate administration from gestation days 1 to 18 at subcutaneous doses equal to and greater than 1.5 times the MRHD in adults (on a mg/m2 basis at maternal doses of 0.1 mg/kg/day and higher) produced adverse developmental effects (increased incidence of cleft palate).  A no-effect dose in mice was not identified. In a second embryofetal development study in pregnant mice, beclomethasone dipropionate administration from gestation days 1 to 13 at subcutaneous doses equal to and greater than 5 times the MRHD in adults (on a mg/m2 basis at a maternal dose of 0.3 mg/kg/day) produced embryolethal effects (increased fetal resorptions) and decreased pup survival.
+
+                         In an embryofetal development study in pregnant rabbits, beclomethasone dipropionate administration during organogenesis from gestation days 7 to 16 at subcutaneous doses  equal to and greater than 1.5 times the MRHD in adults (on a mg/m2 basis at maternal doses of 0.025 mg/kg/day and higher) produced external and skeletal malformations and embryolethal effects (increased fetal resorptions).  There were no effects in fetuses of pregnant rabbits administered a subcutaneous dose 0.4 times the MRHD in adults (on a mg/m2 basis at a maternal dose of 0.006 mg/kg/day).

@@ -1,0 +1,5 @@
+DailyMed 3eb584dc-f72d-4545-96fa-ab3d47be41ce | Mycophenolate mofetil | 5.7 Acute Inflammatory Syndrome Associated with Mycophenolate Products
+
+Acute inflammatory syndrome (AIS) has been reported with the use of MMF and mycophenolate products, and some cases have resulted in hospitalization. AIS is a paradoxical pro-inflammatory reaction characterized by fever, arthralgias, arthritis, muscle pain and elevated inflammatory markers including, C-reactive protein and erythrocyte sedimentation rate, without evidence of infection or underlying disease recurrence. Symptoms occur within weeks to months of initiation of treatment or a dose increase. After discontinuation, improvement of symptoms and inflammatory markers are usually observed within 24 to 48 hours.
+
+                        Monitor patients for symptoms and laboratory parameters of AIS when starting treatment with mycophenolate products or when increasing the dosage. Discontinue treatment and consider other treatment alternatives based on the risk and benefit for the patient.

@@ -1,0 +1,642 @@
+DailyMed e240b3b9-7a07-46b5-bacc-04e915d4ebd4 | LANREOTIDE ACETATE | 14.1 Acromegaly
+
+The effect of lanreotide injection on reducing GH and IGF-levels and control of symptoms in patients with acromegaly was studied in 2 long-term, multiple-dose, randomized, multicenter studies.
+
+                           Study 1
+
+                        This 1-year study included a 4-week, double-blind, placebo-controlled phase; a 16-week single-blind, fixed-dose phase; and a 32-week, open-label, dose-titration phase. Patients with active acromegaly, based on biochemical tests and medical history, entered a 12-week washout period if there was previous treatment with a somatostatin analog or a dopaminergic agonist.
+
+                        Upon entry, patients were randomly allocated to receive a single, deep subcutaneous injection of lanreotide injection 60 mg, 90 mg, or 120 mg or placebo. Four weeks later, patients entered a fixed-dose phase where they received 4 injections of lanreotide injection followed by a dose-titration phase of 8 injections for a total of 13 injections over 52 weeks (including the placebo phase). Injections were given at 4-week intervals. During the dose-titration phase of the study, the dose was titrated twice (every fourth injection), as needed, according to individual GH and IGF-1 levels.
+
+                        A total of 108 patients (51 males, 57 females) were enrolled in the initial placebo-controlled phase of the study. Half (54/108) of the patients had never been treated with a somatostatin analog or dopamine agonist, or had stopped treatment for at least 3 months prior to their participation in the study and were required to have a mean GH level greater than 5 ng/mL at their first visit. The other half of the patients had received prior treatment with a somatostatin analog or a dopamine agonist before study entry and at study entry were required to have a mean GH concentration greater than 3 ng/mL and at least a 100% increase in mean GH concentration after washout of medication.
+
+                        One hundred and seven (107) patients completed the placebo-controlled phase, 105 patients completed the fixed-dose phase, and 99 patients completed the dose-titration phase. Patients not completing withdrew due to adverse events (5) or lack of efficacy (4).
+
+                        In the double-blind phase of Study 1, a total of 52 (63%) of the 83 lanreotide-treated patients had a greater than 50% decrease in mean GH from baseline to Week 4, including 52%, 44%, and 90% of patients in the 60 mg, 90 mg, and 120 mg groups, respectively, compared to placebo (0%, 0/25). In the fixed-dose phase at Week 16, 72% of all 107 lanreotide-treated patients had a decrease from baseline in mean GH of greater than 50%, including 68% (23/34), 64% (23/36), and 84% (31/37) of patients in the 60 mg, 90 mg, and 120 mg lanreotide treatment groups, respectively. Efficacy achieved in the first 16 weeks was maintained for the duration of the study (see Table 4).
+
+                           Table 4: Overall Efficacy Results Based on GH and IGF-1 Levels by Treatment Phase in Study 1
+
+                                  |
+                                  |
+                                 Baseline
+
+            N=107 |
+                                 Before Titration 1
+
+            (16 weeks)
+
+            N=107 |
+                                 BeforeTitration 2
+
+            (32 weeks)
+
+            N=105 |
+                                 Last Value Available*
+
+            N=107 |
+
+                                       GH
+
+                                  |
+
+                                       ≤ 5 ng/mL
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    20
+
+                                    (19%)
+
+                                  |
+
+                                    72
+
+                                    (67%)
+
+                                  |
+
+                                    76
+
+                                    (72%)
+
+                                  |
+
+                                    74
+
+                                    (69%)
+
+                                  |
+
+                                       ≤ 2.5 ng/mL
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    0
+
+                                    (0%)
+
+                                  |
+
+                                    52
+
+                                    (49%)
+
+                                  |
+
+                                    59
+
+                                    (56%)
+
+                                  |
+
+                                    55
+
+                                    (51%)
+
+                                  |
+
+                                       ≤ 1 ng/mL
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    0
+
+                                    (0%)
+
+                                  |
+
+                                    15
+
+                                    (14%)
+
+                                  |
+
+                                    18
+
+                                    (17%)
+
+                                  |
+
+                                    17
+
+                                    (16%)
+
+                                  |
+
+                                       Median GH
+
+                                  |
+
+                                    ng/mL
+
+                                  |
+
+                                    10.27
+
+                                  |
+
+                                    2.53
+
+                                  |
+
+                                    2.20
+
+                                  |
+
+                                    2.43
+
+                                  |
+
+                                       GH Reduction
+
+                                  |
+
+                                    Median %
+
+                                    Reduction
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    75.5
+
+                                  |
+
+                                    78.2
+
+                                  |
+
+                                    75.5
+
+                                  |
+
+                                       IGF-1
+
+                                  |
+
+                                       Normal3
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    9
+
+                                    (8%)
+
+                                  |
+
+                                    58
+
+                                    (54%)
+
+                                  |
+
+                                    57
+
+                                    (54%)
+
+                                  |
+
+                                    62
+
+                                    (58%)
+
+                                  |
+
+                                       Median IGF-1
+
+                                  |
+
+                                    ng/mL
+
+                                  |
+
+                                    775
+
+                                  |
+
+                                    3321
+
+                                  |
+
+                                    316.52
+
+                                  |
+
+                                    326
+
+                                  |
+
+                                       IGF-1 Reduction
+
+                                  |
+
+                                    Median %
+
+                                    Reduction
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    52.31
+
+                                  |
+
+                                    54.52
+
+                                  |
+
+                                    55.4
+
+                                  |
+
+                                       IGF-1 Normal3 +
+
+                                       GH ≤ 2.5 ng/mL
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    0
+
+                                    (0%)
+
+                                  |
+
+                                    41
+
+                                    (38%)
+
+                                  |
+
+                                    46
+
+                                    (44%)
+
+                                  |
+
+                                    44
+
+                                    (41%)
+
+                                  |
+
+                                       1 n=105, 2 n=102, 3 Age-adjusted
+
+                                       *Last Observation Carried Forward
+
+                                  |
+
+                           Study 2
+
+                        This was a 48-week, open-label, uncontrolled, multicenter study that enrolled patients who had an IGF-1 concentration 1.3 times or greater than the upper limit of the normal age-adjusted range. Patients receiving treatment with a somatostatin analog (other than lanreotide injection) or a dopaminergic agonist had to attain this IGF-1 concentration after a washout period of up to 3 months.
+
+                        Patients were initially enrolled in a 4-month, fixed-dose phase where they received 4 deep subcutaneous injections of lanreotide injection 90 mg, at 4-week intervals. Patients then entered a dose-titration phase where the dose of lanreotide injection was adjusted based on GH and IGF-1 levels at the beginning of the dose-titration phase and, if necessary, again after another 4 injections. Patients titrated up to the maximum dose (120 mg) were not allowed to titrate down again.
+
+                        A total of 63 patients (38 males, 25 females) entered the fixed-dose phase of the trial and 57 patients completed 48 weeks of treatment. Six patients withdrew due to adverse reactions (3), other reasons (2), or lack of efficacy (1).
+
+                        After 48 weeks of treatment with lanreotide injection at 4-week intervals, 43% (27/63) of the acromegalic patients in this study achieved normal age-adjusted IGF-1 concentrations. Mean IGF-1 concentrations after treatment completion were 1.3 ± 0.7 times the upper limit of normal compared to 2.5 ± 1.1 times the upper limit of normal at baseline.
+
+                        The reduction in IGF-1 concentrations over time correlated with a corresponding marked decrease in mean GH concentrations. The proportion of patients with mean GH concentrations less than 2.5 ng/mL increased significantly from 35% to 77% after the fixed-dose phase and 85% at the end of the study. At the end of treatment, 24/63 (38%) of patients had both normal IGF-1 concentrations and a GH concentration of less than or equal to 2.5 ng/mL (see Table 5) and 17/63 patients (27%) had both normal IGF-1 concentrations and a GH concentration of less than 1 ng/mL.
+
+                           Table 5: Overall Efficacy Results Based on GH and IGF-1 Levels by Treatment Phase in Study 2
+
+                                  |
+                                 Baseline
+
+            N=63 |
+                                 Before Titration 1
+
+            (12 wks)
+
+            N=63 |
+                                 Before Titration 2
+
+            (28 wks)
+
+            N=59 |
+                                 Last Value Available*
+
+            N=63 |
+
+                                       IGF-1
+
+                                  |
+
+                                       Normal1
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    0
+
+                                    (0%)
+
+                                  |
+
+                                    17
+
+                                    (27%)
+
+                                  |
+
+                                    22
+
+                                    (37%)
+
+                                  |
+
+                                    27
+
+                                    (43%)
+
+                                  |
+
+                                       Median IGF-1
+
+                                  |
+
+                                    ng/mL
+
+                                  |
+
+                                    689
+
+                                  |
+
+                                    382
+
+                                  |
+
+                                    334
+
+                                  |
+
+                                    317
+
+                                  |
+
+                                       IGF-1 Reduction
+
+                                  |
+
+                                    Median %
+
+                                    Reduction
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    41
+
+                                  |
+
+                                    51
+
+                                  |
+
+                                    50.3
+
+                                  |
+
+                                       GH
+
+                                  |
+
+                                       ≤ 5 ng/mL
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    40
+
+                                    (64%)
+
+                                  |
+
+                                    59
+
+                                    (94%)
+
+                                  |
+
+                                    57
+
+                                    (97%)
+
+                                  |
+
+                                    62
+
+                                    (98%)
+
+                                  |
+
+                                       ≤ 2.5 ng/mL
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    21
+
+                                    (33%)
+
+                                  |
+
+                                    47
+
+                                    (75%)
+
+                                  |
+
+                                    47
+
+                                    (80%)
+
+                                  |
+
+                                    54
+
+                                    (86 %)
+
+                                  |
+
+                                       ≤ 1 ng/mL
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    8
+
+                                    (13%)
+
+                                  |
+
+                                    19
+
+                                    (30%)
+
+                                  |
+
+                                    18
+
+                                    (31%)
+
+                                  |
+
+                                    28
+
+                                    (44%)
+
+                                  |
+
+                                       Median GH
+
+                                  |
+
+                                    ng/mL
+
+                                  |
+
+                                    3.71
+
+                                  |
+
+                                    1.65
+
+                                  |
+
+                                    1.48
+
+                                  |
+
+                                    1.13
+
+                                  |
+
+                                       GH Reduction
+
+                                  |
+
+                                    Median %
+
+                                    Reduction
+
+                                  |
+
+                                    --
+
+                                  |
+
+                                    63.2
+
+                                  |
+
+                                    66.7
+
+                                  |
+
+                                    78.62
+
+                                  |
+
+                                       IGF-1 normal1 +
+
+                                       GH ≤ 2.5 ng/mL
+
+                                  |
+
+                                    Number of
+
+                                    Responders (%)
+
+                                  |
+
+                                    0
+
+                                    (0%)
+
+                                  |
+
+                                    14
+
+                                    (22%)
+
+                                  |
+
+                                    20
+
+                                    (34%)
+
+                                  |
+
+                                    24
+
+                                    (38%)
+
+                                  |
+
+                                       1 Age-adjusted, 2 N= 62,
+
+                                       * Last Observation Carried Forward
+
+                                  |
+
+                        Examination of age and gender subgroups did not identify differences in response to lanreotide injection among these subgroups. The limited number of patients in the different racial subgroups did not raise any concerns regarding efficacy of lanreotide injection in these subgroups.

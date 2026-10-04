@@ -1,0 +1,8 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+A few cases of accelerated growth of lung carcinoma have been reported in humans, but a causal relationship with the drug has not been established. Hepatomas were increased in female (C3Hf/DP) mice dosed for 60 weeks with rifampin followed by an observation period of 46 weeks, at 20 to 120 mg/kg (equivalent to 0.1 to 0.5 times the maximum dosage used clinically, based on body surface area comparisons). There was no evidence of tumorigenicity in male C3Hf/DP mice or in similar studies in BALB/c mice, or in two year studies in Wistar rats.
+
+                        Data from published literature report that rifampin shows mutagenic potential in the Ames test and is considered to be aneugenic as well as clastogenic
+  in vivo in mice after oral administration. Increased frequency of chromosomal aberrations was observed
+  in vitro in lymphocytes obtained from patients treated with combinations of rifampin, isoniazid, and pyrazinamide and combinations of streptomycin, rifampin, isoniazid, and pyrazinamide. The clinical relevance of the nonclinical and
+  in vitro findings is unclear as there is insufficient evidence of carcinogenicity, mutagenicity or impairment of fertility in humans after decades of use of rifampin.

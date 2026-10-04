@@ -1,0 +1,9 @@
+DailyMed 362034e9-2830-19a5-e063-6394a90a8dfb | ANASTROZOLE | 8.7 Hepatic Impairment
+
+The plasma anastrozole concentrations in the subjects with hepatic cirrhosis were within the range of concentrations seen in normal subjects across all clinical trials. Therefore, dosage adjustment is also not necessary in patients with stable hepatic cirrhosis. Anastrozole tablets have not been studied in patients with severe hepatic impairment
+
+  [see
+
+   Dosage and Administration (2.2)and
+
+   Clinical Pharmacology (12.3)].

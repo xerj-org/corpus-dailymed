@@ -1,0 +1,13 @@
+DailyMed fa128d4b-bd30-413e-aa0a-0292315f3bc9 | Thiamine Hydrochloride | WARNINGS
+
+WARNING: This product contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum.
+
+                  Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration.
+
+                  Serious hypersensitivity/anaphylactic reactions can occur, especially after repeated administration. Deaths have resulted from IV or IM administration of thiamine (see ADVERSE REACTIONS).
+
+                  Routine testing for hypersensitivity, in many cases, may not detect hypersensitivity. Nevertheless, a skin test should be performed on patients who are suspected of drug allergies or previous reactions to thiamine, and any positive responders should not receive thiamine by injection.
+
+                  If hypersensitivity to thiamine is suspected (based on history of drug allergy or occurrence of adverse reactions after thiamine administration), administer one-hundredth of the dose intradermally and observe for 30 minutes. If no reaction occurs, full dose can be given; the patient should be observed for at least 30 minutes after injection. Be prepared to treat anaphylactic reactions regardless of the precautions taken.
+
+                  Treatment of anaphylactic reactions includes maintaining a patent airway and the use of epinephrine, oxygen, vasopressors, steroids and antihistamines.

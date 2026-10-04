@@ -1,0 +1,3 @@
+DailyMed aa533cde-4b32-450e-b080-127351524678 | Glimepiride | 5.2 Hypersensitivity Reactions
+
+There have been postmarketing reports of hypersensitivity reactions in patients treated with glimepiride, including serious reactions such as anaphylaxis, angioedema, and Stevens-Johnson Syndrome [see Adverse Reactions (6.2)]. If a hypersensitivity reaction is suspected, promptly discontinue glimepiride, assess for other potential causes for the reaction, and institute alternative treatment for diabetes.

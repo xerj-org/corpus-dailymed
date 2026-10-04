@@ -1,0 +1,5 @@
+DailyMed 1b2e5656-9da9-4fab-bf01-ed75896b836a | Glipizide | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+A twenty month study in rats and an eighteen month study in mice at doses up to 75 times the maximum human dose revealed no evidence of drug-related carcinogenicity. Bacterial and
+
+  in vivomutagenicity tests were uniformly negative. Studies in rats of both sexes at doses up to 75 times the human dose showed no effects on fertility.

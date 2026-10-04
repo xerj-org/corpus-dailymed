@@ -1,0 +1,9 @@
+DailyMed f6291230-7598-407a-aef0-ec1f09277d2a | celecoxib | 5.10 Premature Closure of Fetal Ductus Arteriosus
+
+Celecoxib may cause premature closure of the ductus arteriosus. Avoid use of NSAIDs, including celecoxib capsules, in pregnant women starting at 30 weeks of gestation (third trimester) [
+
+  see Use in Specific Populations (
+
+   8.1)
+
+  ].

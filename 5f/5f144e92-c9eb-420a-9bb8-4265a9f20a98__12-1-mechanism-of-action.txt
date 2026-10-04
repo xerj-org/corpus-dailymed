@@ -1,0 +1,7 @@
+DailyMed 5f144e92-c9eb-420a-9bb8-4265a9f20a98 | Azithromycin | 12.1 Mechanism of Action
+
+Azithromycin is a macrolide antibacterial drug.
+
+  [see
+
+   Microbiology (12.4)]

@@ -1,0 +1,5 @@
+DailyMed 3357af32-f91b-4663-8f86-a2bcee7855ea | ExcenelRTU EZ | Cattle:
+
+A radiolabeled residue metabolism study established tolerances for ceftiofur residues in cattle kidney, liver and muscle. A separate study established the tolerance for ceftiofur residues in milk. The tolerances for ceftiofur residues are 0.4 ppm in kidney, 2 ppm in liver, 1 ppm in muscle and 0.1 ppm in milk.
+
+                        Two pivotal tissue residue decline studies were conducted in cattle. Cattle received either a subcutaneous injection or intramuscular injection of 1 mg of ceftiofur per lb body weight (2.2 mg per kg body weight). In both studies, ceftiofur residues in tissues were less than the tolerances for ceftiofur residues in tissues such as the kidney and muscle by 4 days after dosing. These data collectively support a 4-day pre-slaughter withdrawal period when used according to label directions.

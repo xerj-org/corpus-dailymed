@@ -1,0 +1,34 @@
+DailyMed f6291230-7598-407a-aef0-ec1f09277d2a | celecoxib | 8.4 Pediatric Use
+
+Celecoxib capsules are approved for relief of the signs and symptoms of Juvenile Rheumatoid Arthritis in patients 2 years and older. Safety and efficacy have not been studied beyond six months in children. The long-term cardiovascular toxicity in children exposed to celecoxib capsules has not been evaluated and it is unknown if long-term risks may be similar to that seen in adults exposed to celecoxib capsules or other COX-2 selective and non-selective NSAIDs [
+
+  see Boxed Warning, Warnings and Precautions (
+
+   5.12), and Clinical Studies (
+
+   14.3
+                           )].
+
+                        The use of celecoxib in patients 2 years to 17 years of age with pauciarticular, polyarticular course JRA or in patients with systemic onset JRA was studied in a 12-week, double-blind, active controlled, pharmacokinetic, safety and efficacy study, with a 12-week open-label extension. Celecoxib has not been studied in patients under the age of 2 years, in patients with body weight less than 10 kg (22 lbs), and in patients with active systemic features. Patients with systemic onset JRA (without active systemic features) appear to be at risk for the development of abnormal coagulation laboratory tests. In some patients with systemic onset JRA, both celecoxib and naproxen were associated with mild prolongation of activated partial thromboplastin time (APTT) but not prothrombin time (PT). When NSAIDs including celecoxib are used in patients with systemic onset JRA, monitor patients for signs and symptoms of abnormal clotting or bleeding, due to the risk of disseminated intravascular coagulation. Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [
+
+  see Dosage and Administration (
+
+   2.4), Warnings and Precautions (
+
+   5.12), Adverse Reactions (
+
+   6.3), Animal Toxicology (
+
+   13.2), Clinical Studies (
+
+   14.3)
+
+  ].
+
+                        Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [
+
+  see Poor Metabolizers of CYP2C9 substrates (
+
+   8.8)
+
+  ].

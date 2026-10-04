@@ -1,0 +1,3 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 12.5 Pharmacogenomics
+
+In a clinical study in evaluating rabeprazole sodium delayed-release tablets in Japanese adult patients categorized by CYP2C19 genotype (n=6 per genotype category), gastric acid suppression was higher in poor metabolizers as compared to extensive metabolizers. This could be due to higher rabeprazole plasma levels in poor metabolizers. The clinical relevance of this is not known. Whether or not interactions of rabeprazole sodium with other drugs metabolized by CYP2C19 would be different between extensive metabolizers and poor metabolizers has not been studied.

@@ -1,0 +1,15 @@
+DailyMed 9d8fd052-b478-447e-a884-74fcd21275bb | Terazosin hydrochloride | Syncope and “First-dose” Effect
+
+Terazosin capsules, like other alpha-adrenergic blocking agents, can cause marked lowering of blood pressure, especially postural hypotension, and syncope in association with the first dose or first few days of therapy. A similar effect can be anticipated if therapy is interrupted for several days and then restarted. Syncope has also been reported with other alpha-adrenergic blocking agents in association with rapid dosage increases or the introduction of another antihypertensive drug. Syncope is believed to be due to an excessive postural hypotensive effect, although occasionally the syncopal episode has been preceded by a bout of severe supraventricular tachycardia with heart rates of 120 to 160 beats per minute. Additionally, the possibility of the contribution of hemodilution to the symptoms of postural hypotension should be considered.
+
+                           To decrease the likelihood of syncope or excessive hypotension, treatment should always be initiated with a 1 mg dose of terazosin capsules, given at bedtime. The 2 mg, 5 mg and 10 mg capsules are not indicated as initial therapy. Dosage should then be increased slowly, according to recommendations in the Dosage and Administration section and additional antihypertensive agents should be added with caution. The patient should be cautioned to avoid situations, such as driving or hazardous tasks, where injury could result should syncope occur during initiation of therapy.
+
+                        In early investigational studies, where increasing single doses up to 7.5 mg were given at 3 day intervals, tolerance to the first dose phenomenon did not necessarily develop and the “first-dose” effect could be observed at all doses. Syncopal episodes occurred in 3 of the 14 subjects given terazosin at doses of 2.5, 5 and 7.5 mg, which are higher than the recommended initial dose; in addition, severe orthostatic hypotension (blood pressure falling to 50/0 mmHg) was seen in two others and dizziness, tachycardia, and lightheadedness occurred in most subjects. These adverse effects all occurred within 90 minutes of dosing.
+
+                        In three placebo-controlled BPH studies 1, 2, and 3 (see
+                              CLINICAL PHARMACOLOGY
+                           ), the incidence of postural hypotension in the terazosin treated patients was 5.1%, 5.2%, and 3.7% respectively.
+
+                        In multiple dose clinical trials involving nearly 2000 hypertensive patients treated with terazosin capsules, syncope was reported in about 1% of patients. Syncope was not necessarily associated only with the first dose.
+
+                           If syncope occurs, the patient should be placed in a recumbent position and treated supportively as necessary. There is evidence that the orthostatic effect of terazosin  is greater, even in chronic use, shortly after dosing. The risk of the events is greatest during the initial seven days of treatment, but continues at all time intervals.

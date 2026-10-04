@@ -1,0 +1,17 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 2.1 Assessments Prior to First Dose of UPLIZNA
+
+Hepatitis B Virus Screening
+
+                        Prior to initiating UPLIZNA, perform Hepatitis B virus (HBV) screening. UPLIZNA is contraindicated in patients with active HBV confirmed by positive results for surface antigen [HBsAg] and anti-HBV tests. For patients who are negative for HBsAg and positive for HB core antibody [HBcAb+] or are carriers of HBV [HBsAg+], consult liver disease experts before starting and during treatment with UPLIZNA [see Contraindications (4) and Warnings and Precautions (5.2)].
+
+                           Serum Immunoglobulins
+
+                        Prior to initiating UPLIZNA, perform testing for quantitative serum immunoglobulins. For patients with low serum immunoglobulins, consult immunology experts before initiating treatment with UPLIZNA [see Warnings and Precautions (5.3)].
+
+                           Tuberculosis Screening
+
+                        Prior to initiating UPLIZNA, evaluate for active tuberculosis and test for latent infection. For patients with active tuberculosis or positive tuberculosis screening without a history of appropriate treatment, consult infectious disease experts before initiating treatment with UPLIZNA [see Contraindications (4) and Warnings and Precautions (5.2)].
+
+                           Vaccinations
+
+                        Because vaccination with live-attenuated or live vaccines is not recommended during treatment and after discontinuation until B-cell repletion, administer all immunizations according to immunization guidelines at least 4 weeks prior to initiation of UPLIZNA for live or live-attenuated vaccines [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].

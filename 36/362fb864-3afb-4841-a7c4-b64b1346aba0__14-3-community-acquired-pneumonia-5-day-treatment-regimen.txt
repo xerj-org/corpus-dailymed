@@ -1,0 +1,27 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 14.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
+
+To evaluate the safety and efficacy of the higher dose and shorter course of levofloxacin, 528 outpatient and hospitalized adults with clinically and radiologically determined mild to severe community-acquired pneumonia were evaluated in a double-blind, randomized, prospective, multicenter study comparing levofloxacin 750 mg, IV or orally, every day for five days or levofloxacin 500 mg IV or orally, every day for 10 days.
+
+                        Clinical success rates (cure plus improvement) in the clinically evaluable population were 90.9% in the levofloxacin 750 mg group and 91.1% in the levofloxacin 500 mg group. The 95% CI for the difference of response rates (levofloxacin 750 minus levofloxacin 500) was [-5.9, 5.4]. In the clinically evaluable population (31–38 days after enrollment) pneumonia was observed in 7 out of 151 patients in the levofloxacin 750 mg group and 2 out of 147 patients in the levofloxacin 500 mg group. Given the small numbers observed, the significance of this finding cannot be determined statistically. The microbiological efficacy of the 5-day regimen was documented for infections listed in Table 13.
+
+                           Table 13: Bacteriological Eradication Rates (Community-Acquired Pneumonia)
+
+                                  S. pneumoniae
+                                  |
+                                  19/20 (95%) |
+
+                                  Haemophilus influenzae
+                                  |
+                                  12/12 (100%) |
+
+                                  Haemophilus parainfluenzae
+                                  |
+                                  10/10 (100%) |
+
+                                  Mycoplasma pneumoniae
+                                  |
+                                  26/27 (96%) |
+
+                                  Chlamydophila pneumoniae
+                                  |
+                                  13/15 (87%) |

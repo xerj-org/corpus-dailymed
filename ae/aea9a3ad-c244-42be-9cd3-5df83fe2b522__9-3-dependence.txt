@@ -1,0 +1,4 @@
+DailyMed aea9a3ad-c244-42be-9cd3-5df83fe2b522 | DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE | 9.3 Dependence
+
+The dependence potential of dexmedetomidine hydrochloride in 0.9% sodium chloride injection has not been studied in humans.  However, since studies in rodents and primates have demonstrated that dexmedetomidine hydrochloride in 0.9% sodium chloride injection exhibits pharmacologic actions similar to those of clonidine, it is possible that dexmedetomidine hydrochloride in 0.9% sodium chloride injection may produce a clonidine-like withdrawal syndrome upon abrupt discontinuation [see Warnings and Precautions (5.5)
+                           ].

@@ -1,0 +1,5 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 5.6 Embryo-Fetal Toxicity
+
+Based on findings from animal studies and the mechanism of action, VERZENIO can cause fetal harm when administered to a pregnant woman. In animal reproduction studies, administration of abemaciclib to pregnant rats during the period of organogenesis caused teratogenicity and decreased fetal weight at maternal exposures that were similar to the human clinical exposure based on area under the curve (AUC) at the maximum recommended human dose.
+
+                        Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with VERZENIO and for 3 weeks after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].

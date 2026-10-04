@@ -1,0 +1,3 @@
+DailyMed a4ae481f-9e47-470a-b4d1-5a33c0df8761 | Cyclobenzaprine Hydrochloride | Use in the Elderly
+
+The plasma concentration of cyclobenzaprine is increased in the elderly (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Elderly.) The elderly may also be more at risk for CNS adverse events such as hallucinations and confusion, cardiac events resulting in falls or other sequelae, drug-drug and drug-disease interactions. For these reasons, in the elderly, cyclobenzaprine should be used only if clearly needed. In such patients cyclobenzaprine should be initiated with a 5 mg dose and titrated slowly upward.

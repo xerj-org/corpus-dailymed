@@ -1,0 +1,3 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 5.11 Inflammatory Bowel Disease
+
+Isotretinoin has been associated with inflammatory bowel disease (including regional ileitis) in patients without a prior history of intestinal disorders. In some instances, symptoms have been reported to persist after isotretinoin treatment has been stopped. Discontinue isotretinoin immediately if patients experience abdominal pain, rectal bleeding or severe diarrhea [see Adverse Reactions (6)].

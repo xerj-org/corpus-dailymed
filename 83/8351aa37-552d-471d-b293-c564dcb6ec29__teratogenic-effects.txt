@@ -1,0 +1,5 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Teratogenic Effects
+
+Reproductive studies have been performed in mice and rats at doses up to 20 times the usual human dose and have no evidence of embryotoxicity, fetotoxicity or teratogenicity. In primates, no embryotoxicity or teratogenicity was demonstrated at a dose approximately 3 times the human dose.
+
+                              There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.

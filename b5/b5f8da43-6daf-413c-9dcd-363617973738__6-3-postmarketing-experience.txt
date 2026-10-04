@@ -1,0 +1,15 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of topiramate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Body as a Whole-General Disorders: immediate hypersensitivity reactions (including anaphylaxis and angioedema [see Warnings and Precautions (5.13)], delayed hypersensitivity reactions (including facial swelling, lip swelling, periorbital swelling, tongue swelling), oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.14)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.16)]
+
+                           Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
+
+                           Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.12)], pemphigus, urticaria
+
+                           Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)]
+
+                           Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
+
+                           Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with Vitamin K antagonist anticoagulant medications such as warfarin.

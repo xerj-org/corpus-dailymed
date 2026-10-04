@@ -1,0 +1,5 @@
+DailyMed 10272dc1-657d-4798-a34a-b6341b92e560 | propofol | 8.6 Hepatic Impairment
+
+The long-term administration of propofol injectable emulsion to patients with hepatic insufficiency has not been evaluated.
+
+                        The pharmacokinetics of propofol do not appear to be different in people with chronic hepatic cirrhosis compared to adults with normal hepatic function. The effects of acute hepatic failure on the pharmacokinetics of propofol have not been studied.

@@ -1,0 +1,11 @@
+DailyMed 09736975-2493-4dbc-bbe0-cc56a1fec53f | Gabapentin | 5.4 Somnolence/Sedation and Dizziness
+
+During the controlled epilepsy trials in patients older than 12 years of age receiving doses of gabapentin capsules up to 1800 mg daily, somnolence, dizziness, and ataxia were reported at a greater rate in patients receiving gabapentin capsules compared to placebo: i.e., 19% in drug versus 9% in placebo for somnolence, 17% in drug versus 7% in placebo for dizziness, and 13% in drug versus 6% in placebo for ataxia. In these trials somnolence, ataxia and fatigue were common adverse reactions leading to discontinuation of gabapentin capsules in patients older than 12 years of age, with 1.2%, 0.8% and 0.6% discontinuing for these events, respectively.
+
+                        During the controlled trials in patients with post-herpetic neuralgia, somnolence, and dizziness were reported at a greater rate compared to placebo in patients receiving gabapentin capsules, in dosages up to 3600 mg per day: i.e., 21% in gabapentin capsules-treated patients versus 5% in placebo-treated patients for somnolence and 28% in gabapentin capsules-treated patients versus 8% in placebo-treated patients for dizziness. Dizziness and somnolence were among the most common adverse reactions leading to discontinuation of gabapentin capsules.
+
+                        Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence and sedation, when gabapentin capsules is used with other drugs with sedative properties because of potential synergy. In addition, patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations and may require dose adjustment
+
+  [see
+
+   Drug Interactions (7.1)].

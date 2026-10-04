@@ -1,0 +1,23 @@
+DailyMed b6b31703-e77d-4d1a-b1ac-da972117e356 | mirtazapine | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis 
+
+  Carcinogenicity studies were conducted with mirtazapine given in the diet at doses of 2, 20, and 200 mg/kg/day to mice and 2, 20, and 60 mg/kg/day to rats. The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day, based on body surface area (mg/m
+
+  2) in mice and rats, respectively. There was an increased incidence of hepatocellular adenoma and carcinoma in male mice at the high dose. In rats, there was an increase in hepatocellular adenoma in females at the mid and high doses and in hepatocellular tumors and thyroid follicular adenoma/cystadenoma and carcinoma in males at the high dose. 
+
+                           Mutagenesis 
+
+  Mirtazapine was not mutagenic or clastogenic and did not induce general DNA damage as determined in several genotoxicity tests: Ames test,
+
+  in vitrogene mutation assay in Chinese hamster V 79 cells,
+
+  in vitrosister chromatid exchange assay in cultured rabbit lymphocytes,
+
+  in vivobone marrow micronucleus test in rats, and unscheduled DNA synthesis assay in HeLa cells. 
+
+                           Impairment of Fertility 
+
+  In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD), based on body surface area (mg/m
+
+  2)]. Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and pre-implantation losses occurred at 20 times the MRHD.

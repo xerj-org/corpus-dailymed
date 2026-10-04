@@ -1,0 +1,17 @@
+DailyMed 8d5f9f77-403e-432a-8dcb-7995c6947ae0 | Topiramate | 5.14 Hyperammonemia and Encephalopathy (without and with Concomitant Valproic Acid Use)
+
+Topiramate treatment can cause hyperammonemia with or without encephalopathy [see Adverse Reactions (6.2)]. The risk for hyperammonemia with topiramate appears dose-related. Hyperammonemia has been reported more frequently when topiramate is used concomitantly with valproic acid. Post-marketing cases of hyperammonemia with or without encephalopathy have been reported with topiramate and valproic acid in patients who previously tolerated either drug alone [see Drug Interactions (7.1)].
+
+                        Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting. In most cases, hyperammonemic encephalopathy abated with discontinuation of treatment.
+
+                        The incidence of hyperammonemia in pediatric patients 12 to 17 years of age in the preventive treatment of migraine trials was 26% in patients taking topiramate monotherapy at 100 mg/day, and 14% in patients taking topiramate at 50 mg/day, compared to 9% in patients taking placebo. There was also an increased incidence of markedly increased hyperammonemia at the 100 mg dose.
+
+                        Dose-related hyperammonemia was also seen in pediatric patients 1 to 24 months of age treated with topiramate and concomitant valproic acid for partial-onset epilepsy and this was not due to a pharmacokinetic interaction.
+
+                        In some patients, hyperammonemia can be asymptomatic.
+
+                           Monitoring for Hyperammonemia
+
+                        Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy. Although not studied, topiramate treatment or an interaction of concomitant topiramate and valproic acid treatment may exacerbate existing defects or unmask deficiencies in susceptible persons.
+
+                        In patients who develop unexplained lethargy, vomiting or changes in mental status associated with any topiramate treatment, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.

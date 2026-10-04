@@ -1,0 +1,5 @@
+DailyMed 3e5b7e82-f018-4eaf-ae78-d6145a906b20 | Rituxan Hycela | 1.4 Limitations of Use
+
+Initiate treatment with RITUXAN HYCELA only after patients have received at least one full dose of a rituximab product by intravenous infusion [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)].
+
+                           RITUXAN HYCELA is not indicated for the treatment of non-malignant conditions.

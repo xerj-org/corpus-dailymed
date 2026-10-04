@@ -1,0 +1,9 @@
+DailyMed 5dc0e9df-3b45-4469-93fe-3d2eddbfe2b7 | Dapagliflozin | 5.3 Urosepsis and Pyelonephritis
+
+Serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization have been reported in patients receiving SGLT2 inhibitors, including dapagliflozin. Treatment with SGLT2 inhibitors increases the risk for urinary tract infections. Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated
+
+  [see Adverse Reactions (
+
+   6)]
+
+  .

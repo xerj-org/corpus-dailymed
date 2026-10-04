@@ -1,0 +1,14 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 8.6 Renal Impairment
+
+Renal impairment can significantly alter the disposition of tolterodine immediate release and its metabolites. In a study conducted in patients with creatinine clearance between 10 and 30 mL/min, tolterodine and 5-HMT levels were approximately 2 to 3 fold higher in patients with renal impairment than in healthy volunteers. Exposure levels of other metabolites of tolterodine (e.g., tolterodine acid,
+  N-dealkylated tolterodine acid,
+  N-dealkylated tolterodine, and
+  N-dealkylated hydroxy tolterodine) were significantly higher (10 to 30 fold) in renally impaired patients as compared to the healthy volunteers. The recommended dose for patients with severe renal impairment (CCr: 10 to 30 mL/min) is tolterodine tartrate extended-release capsules 2 mg daily. Patients with CCr<10 mL/min have not been studied and use of tolterodine tartrate extended-release capsules in this population is not recommended
+  [see
+
+                                 DOSAGE AND ADMINISTRATION (2.2)
+                               and
+
+                                 WARNINGS AND PRECAUTIONS (5.6)
+                              ].
+   Tolterodine tartrate extended-release capsules have not been studied in patients with mild to moderate renal impairment [CCr 30 to 80 mL/min].

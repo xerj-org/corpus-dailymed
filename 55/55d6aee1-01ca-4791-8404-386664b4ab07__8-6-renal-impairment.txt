@@ -1,0 +1,3 @@
+DailyMed 55d6aee1-01ca-4791-8404-386664b4ab07 | Olmesartan Medoxomil and Hydrochlorothiazide | 8.6 Renal Impairment
+
+Safety and effectiveness of olmesartan medoxomil and hydrochlorothiazide tablets in patients with severe renal impairment (CrCl ≤ 30 mL/min) have not been established. No dose adjustment is required in patients with mild (CrCl 60-90 mL/min) or moderate (CrCl 30-60) renal impairment.

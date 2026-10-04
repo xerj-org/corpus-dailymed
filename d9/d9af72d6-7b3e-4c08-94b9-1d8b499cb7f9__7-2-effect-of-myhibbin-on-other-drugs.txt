@@ -1,0 +1,46 @@
+DailyMed d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9 | MYHIBBIN | 7.2 Effect of MYHIBBIN on Other Drugs
+
+Table 4 Drug Interactions with MYHIBBIN that Affect Other Drugs
+
+                                    Drugs that Undergo Renal Tubular Secretion
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+                                 When concomitantly used with MYHIBBIN, its metabolite MPAG, may compete with drugs eliminated by renal tubular secretion which may increase plasma concentrations and/or adverse reactions associated with these drugs.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+                                 Monitor for drug-related adverse reactions in patients with renal impairment.
+
+                                  |
+
+                                    Examples
+
+                                  |
+                                 Acyclovir, ganciclovir, probenecid, valacyclovir, valganciclovir
+
+                                  |
+
+                                    Combination Oral Contraceptives
+
+                                  |
+
+                                    Clinical Impact
+
+                                  |
+                                 Concomitant use with mycophenolate mofetil decreased the systemic exposure to levonorgestrel, but did not affect the systemic exposure to ethinylestradiol         [see           Clinical Pharmacology (12.3)], which may result in reduced combination oral contraceptive effectiveness.
+
+                                  |
+
+                                    Prevention or Management
+
+                                  |
+                                 Use additional barrier contraceptive methods.
+
+                                  |

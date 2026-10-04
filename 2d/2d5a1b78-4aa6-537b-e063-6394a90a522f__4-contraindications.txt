@@ -1,0 +1,27 @@
+DailyMed 2d5a1b78-4aa6-537b-e063-6394a90a522f | Pitavastatin | 4 CONTRAINDICATIONS
+
+Pitavastatin tablets is contraindicated in the following conditions:
+
+                     Concomitant use of cyclosporine
+
+   [see
+
+    Drug Interactions (7)]
+
+   .
+
+                     Acute liver failure or decompensated cirrhosis
+
+   [see
+
+    Warnings and Precautions (5.3)]
+
+   .
+
+                     Hypersensitivity to pitavastatin or any excipients in pitavastatin tablets. Hypersensitivity reactions including angioedema, rash, pruritus, and urticaria have been reported with pitavastatin tablets
+
+   [see
+
+    Adverse Reactions (6)]
+
+   .

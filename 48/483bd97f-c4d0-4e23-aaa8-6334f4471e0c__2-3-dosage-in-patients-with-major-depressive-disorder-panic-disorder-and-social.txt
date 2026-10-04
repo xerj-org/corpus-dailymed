@@ -1,0 +1,26 @@
+DailyMed 483bd97f-c4d0-4e23-aaa8-6334f4471e0c | PAXIL CR | 2.3 Dosage in Patients with Major Depressive Disorder, Panic Disorder, and Social Anxiety Disorder
+
+The recommended starting dosage and maximum dosage of PAXIL CR in patients with MDD, PD, and SAD are presented in Table 1. In patients with an inadequate response, may increase the PAXIL CR dosage by 12.5 mg/day at weekly intervals (e.g., if the starting dosage is 12.5 mg/day may increase the dosage the next week to 25 mg/day), depending on tolerability, up to the maximum recommended dosage.
+
+                           Table 1: Recommended Daily Dosage of PAXIL CR in Patients with MDD, PD, and SAD
+
+                                    Indication
+                                  |
+
+                                    Starting Dosage
+                                  |
+
+                                    Maximum Dosage
+                                  |
+
+                                 MDD |
+                                 25 mg |
+                                 62.5 mg |
+
+                                 PD |
+                                 12.5 mg |
+                                 75 mg |
+
+                                 SAD |
+                                 12.5 mg |
+                                 37.5 mg |

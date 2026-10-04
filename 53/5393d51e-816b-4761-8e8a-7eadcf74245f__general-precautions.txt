@@ -1,0 +1,25 @@
+DailyMed 5393d51e-816b-4761-8e8a-7eadcf74245f | Prednisone | General Precautions
+
+Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted. Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
+
+                        There is an enhanced effect of corticosteroids on patients with hypothyroidism and in those with cirrhosis.
+
+                        Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation.
+
+                        The lowest possible dose of corticosteroid should be used to control the condition under treatment, and when reduction in dosage is possible, the reduction should be gradual.
+
+                        Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression, to frank psychotic manifestations. Also existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
+
+                        Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
+
+                        Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess or other pyogenic infection: diverticulitis; fresh intestinal anastomoses; active or latent peptic ulcer; renal insufficiency; hypertension; osteoporosis: and myasthenia gravis.
+
+                        Growth and development of infants and children on prolonged corticosteroid therapy should be carefully observed.
+
+                        Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that corticosteroids affect the ultimate outcome or natural history of the disease. The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect (See
+
+  DOSAGE AND ADMINISTRATION).
+
+                        Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
+
+                        Convulsions have been reported with concurrent use of methylprednisolone and cyclosporine. Since concurrent use of these agents results in a mutual inhibition of metabolism, it is possible that adverse events associated with the individual use of either drug may be more apt to occur.

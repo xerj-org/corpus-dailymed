@@ -1,0 +1,227 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 14.3 MRA
+
+The effectiveness of GADAVIST for the ability to evaluate known or suspected supra-aortic or renal artery disease was evaluated in two clinical trials (i.e., Studies 5 and 6). Study 5 enrolled patients with known or suspected disease of the supra-aortic arteries (for evaluation up to but excluding the basilar artery), and Study 6 enrolled patients with known or suspected disease of the renal arteries. In both studies, non-contrast, 2D time-of-flight (ToF) magnetic resonance angiography (MRA) was performed prior to GADAVIST MRA using a single intravenous injection of 0.1 mmol/kg. The injection rate of 1.5 mL/second was selected to extend the injection duration to at least half of the imaging duration. Imaging was performed with parallel-channel, 1.5T MRI devices and an automatic bolus tracking technique to trigger the image acquisition following GADAVIST administration using elliptically encoded, T1-weighted, 3D gradient-echo image acquisition and single breath hold. Three central readers blinded to clinical information interpreted the ToF and GADAVIST MRA images. Three additional central readers interpreted separately acquired computed tomographic angiography (CTA) images, which were used as the standard of reference (SoR) in each study.
+
+                        A total of 749 patients were evaluated. The 457 patients in Study 5 had an average age of 68 years (range 25 to 93 years) and were 64% male with a racial distribution of 80% White, 28% Black or African American, and 16% Asian. The 292 patients in Study 6 had an average age of 55 years (range 18 to 88 years) and were 54% male with a racial distribution of 68% White, 7% Black or African American, and 22% Asian.
+
+                        Efficacy was evaluated based on anatomical visualization and performance for distinguishing between normal and abnormal anatomy. The visualization metric depended on whether readers selected, "Yes, it can be visualized along its entire length..." when responding to the question, "Is this segment assessable?" Twenty-one segments in Study 5 and six segments in Study 6 were presented per subject to each reader. The performance metrics, sensitivity and specificity, depended on digital caliper-based quantitation of arterial narrowing in visualized, non-occluded, abnormal-appearing segments. Significant stenosis was defined as at least 70% in Study 5 and 50% in Study 6. Performance of GADAVIST MRA compared to ToF MRA was calculated using an imputation method for non-visualized segments by assigning them as a 50% match with SoR and a 50% mismatch. Performance of GADAVIST MRA compared to a pre-specified threshold of 50% was calculated after excluding non-visualized segments. Measurement variability and visualization of accessory renal arteries was also evaluated.
+
+                        Results were analyzed for each of the three central readers.
+
+                           Table 11: Visualization, Sensitivity, Specificity
+
+                                 STUDY 5: SUPRA-AORTIC ARTERIES (457 patients)
+
+ Performance at the segment level
+
+ 9597Number of segments varied between readers; number for majority-reader shown.
+
+ segments of which 158 were positive for stenosis  by SoRStandard of Reference based on aggregate interpretation of three central CTA readers.
+
+                                  |
+
+                                  |
+                                 VISUALIZATION (%) |
+                                 SENSITIVITY (%) |
+                                 SPECIFICITY (%) |
+
+                                 READER |
+                                 GAD
+
+ MRA |
+                                 ToF
+
+ MRA |
+                                 GAD − ToF
+
+ (CI95.1/95% (Study 5/6) confidence interval for two-sided comparison.
+
+) |
+                                 GAD
+
+ MRA |
+                                 ToF
+
+ MRA |
+                                 GAD − ToF
+
+ (CI90.1/90% (Study 5/6) confidence interval for one-sided comparison against non-inferiority margin of -7.5.
+
+) |
+                                 GAD
+
+ MRA |
+                                 ToF
+
+ MRA |
+                                 GAD − ToF
+
+ (CI) |
+
+                                 1 |
+                                 88 |
+                                 24 |
+                                 64
+
+ (61, 67) |
+                                 60 |
+                                 54 |
+                                 6
+
+ (-4, 14) |
+                                 92 |
+                                 62 |
+                                 30
+
+ (29, 32) |
+
+                                 2 |
+                                 95 |
+                                 75 |
+                                 20
+
+ (18, 21) |
+                                 60 |
+                                 54 |
+                                 6
+
+ (-3, 14) |
+                                 95 |
+                                 85 |
+                                 10
+
+ (9, 11) |
+
+                                 3 |
+                                 97 |
+                                 82 |
+                                 15
+
+ (13, 17) |
+                                 58 |
+                                 55 |
+                                 3
+
+ (-4, 11) |
+                                 97 |
+                                 89 |
+                                 8
+
+ (7, 9) |
+
+                                    STUDY 6: RENAL ARTERIES (292 patients)
+
+Performance at the segment level
+
+ 1752 segments of which 133 were positive for stenosis by SoR
+
+                                  |
+
+                                 4 |
+                                 98 |
+                                 82 |
+                                 16
+
+ (13, 20) |
+                                 52 |
+                                 51 |
+                                 1
+
+ (-9, 11) |
+                                 94 |
+                                 83 |
+                                 11
+
+ (9, 14) |
+
+                                 5 |
+                                 96 |
+                                 72 |
+                                 24
+
+ (21, 28) |
+                                 54 |
+                                 39 |
+                                 15
+
+ (6, 24) |
+                                 95 |
+                                 85 |
+                                 10
+
+ (8, 12) |
+
+                                 6 |
+                                 96 |
+                                 78 |
+                                 17
+
+ (14, 21) |
+                                 53 |
+                                 50 |
+                                 3
+
+ (-6, 12) |
+                                 94 |
+                                 81 |
+                                 13
+
+ (11, 16) |
+
+                        GAD MRA = Post-contrast GADAVIST Magnetic Resonance Angiography, ToF = Non-contrast 2D-Time of Flight.
+
+                        For all three supra-aortic artery readers in Study 5, the lower bound of confidence for the sensitivity of GADAVIST MRA did not exceed 54%. For all three renal artery readers in Study 6, the lower bound of confidence for the sensitivity of GADAVIST MRA did not exceed 46%.
+
+                           Measurement Variability
+
+                        For both MRA and CTA, readers varied in the quantity of narrowing they assigned to the same arterial segments. Table 12 shows the percentage of patients in whom the measurement range was 30% or greater for the left or right internal carotid and proximal renal artery segments. There were approximately four measurements per patient segment, one from the site and three central readers. Measurement variability was high for both CTA and MRA, but numerically lower for GADAVIST compared to non-contrast ToF MRA.
+
+                           Table 12: Percent of Patients with Range ≥ 30%, ≥ 50%, ≥ 70% for Measurement of Stenoses and Normal Vessel Diameters
+
+                                  |
+                                 Internal Carotid |
+                                 Proximal Main Renal |
+
+                                  |
+                                 N |
+                                 ≥ 30% |
+                                 ≥ 50% |
+                                 ≥ 70% |
+                                 N |
+                                 ≥ 30% |
+                                 ≥ 50% |
+                                 ≥ 70% |
+
+                                 CTA |
+                                 456 |
+                                 40 |
+                                 11 |
+                                 4 |
+                                 292 |
+                                 59 |
+                                 33 |
+                                 9 |
+
+                                 ToF MRA |
+                                 443 |
+                                 55 |
+                                 22 |
+                                 9 |
+                                 270 |
+                                 44 |
+                                 22 |
+                                 9 |
+
+                                 GADAVIST MRA |
+                                 454 |
+                                 47 |
+                                 13 |
+                                 4 |
+                                 286 |
+                                 34 |
+                                 14 |
+                                 4 |
+
+                           Visualization of Accessory Renal Arteries for Surgical Planning and Renal Donor Evaluation (Study 6 only)
+
+                        Of 1,752 main arteries visualized by the central CTA readers, 266 (15%) were also associated with positive visualization of at least one accessory (duplicate) artery. With the central MRA readers, the comparable rates were 232 of 1752 (13%) for GADAVIST MRA compared to 53 of 1,752 (3%) for ToF MRA.

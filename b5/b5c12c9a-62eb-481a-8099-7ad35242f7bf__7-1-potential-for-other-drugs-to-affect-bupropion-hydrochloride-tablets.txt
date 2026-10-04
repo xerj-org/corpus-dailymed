@@ -1,0 +1,31 @@
+DailyMed b5c12c9a-62eb-481a-8099-7ad35242f7bf | Bupropion Hydrochloride | 7.1 Potential for Other Drugs to Affect Bupropion Hydrochloride Tablets
+
+Bupropion is primarily metabolized to hydroxybupropion by CYP2B6. Therefore, the potential exists for drug interactions between bupropion hydrochloride tablets and drugs that are inhibitors or inducers of CYP2B6.
+
+                           Inhibitors of CYP2B6
+
+                           Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposure but decrease hydroxybupropion exposure. Based on clinical response, dosage adjustment of bupropion hydrochloride tablets may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel)
+
+  [see Clinical Pharmacology (
+
+   12.3)].
+
+                           Inducers of CYP2B6
+
+                           Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure. Dosage increase of bupropion hydrochloride tablets may be necessary when coadministered with ritonavir, lopinavir, or efavirenz
+
+  [see Clinical Pharmacology (
+
+   12.3)]
+
+  but should
+
+  not exceed the maximum recommended dose.
+
+                           Carbamazepine, Phenobarbital, Phenytoin:While not systematically studied, these drugs may induce the metabolism of bupropion and may decrease bupropion exposure
+
+  [see Clinical Pharmacology (
+
+   12.3)]
+
+  . If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.

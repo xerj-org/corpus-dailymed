@@ -1,0 +1,5 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 1.10 Complicated Urinary Tract Infections: 10-day Treatment Regimen
+
+Levofloxacin is indicated for the treatment of complicated urinary tract infections (mild to moderate) due to Enterococcus faecalis, Enterobacter cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, or Pseudomonas aeruginosa
+                           [see
+                            Clinical Studies (14.8)].

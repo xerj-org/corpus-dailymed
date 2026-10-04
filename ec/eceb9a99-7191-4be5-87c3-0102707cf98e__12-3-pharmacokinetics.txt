@@ -1,0 +1,5 @@
+DailyMed eceb9a99-7191-4be5-87c3-0102707cf98e | EVRYSDI | 12.3 Pharmacokinetics
+
+Pharmacokinetics of EVRYSDI have been characterized in healthy adult subjects and in patients with SMA.
+
+                        After administration of EVRYSDI as an oral solution, pharmacokinetics of risdiplam were approximately linear between 0.6 and 18 mg in a single-ascending-dose study in healthy adult subjects, and between 0.02 and 0.25 mg/kg once daily in a multiple-ascending-dose study in patients with SMA. Following once-daily oral administration of risdiplam in healthy subjects, approximately 3-fold accumulation of peak plasma concentrations (Cmax) and area under the plasma concentration-time curve (AUC0-24h) was observed. Risdiplam exposures reach steady state 7 to 14 days after once daily administration. EVRYSDI tablet (swallowed whole or dispersed in water) demonstrated comparable bioavailability to EVRYSDI for oral solution in adult healthy volunteers under fasted and fed states.

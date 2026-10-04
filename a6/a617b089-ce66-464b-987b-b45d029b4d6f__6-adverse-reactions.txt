@@ -1,0 +1,9 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+                     Severe and Fatal Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)]
+
+                     Infusion-Related Reactions [see Warnings and Precautions (5.2)]
+
+                     Complications of Allogeneic HSCT after PD-1/PD-L1 Inhibitors [see Warnings and Precautions (5.3)]

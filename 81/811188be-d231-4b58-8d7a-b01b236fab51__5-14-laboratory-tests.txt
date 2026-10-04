@@ -1,0 +1,9 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 5.14 Laboratory Tests
+
+False-Positive Drug Test Results
+
+                        Lamotrigine has been reported to interfere with the assay used in some rapid urine drug screens, which can result in false-positive readings, particularly for phencyclidine (PCP). A more specific analytical method should be used to confirm a positive result.
+
+                           Plasma Concentrations of Lamotrigine
+
+                        The value of monitoring plasma concentrations of lamotrigine in patients treated with lamotrigine has not been established. Because of the possible pharmacokinetic interactions between lamotrigine and other drugs, including AEDs (see Table 13), monitoring of the plasma levels of lamotrigine and concomitant drugs may be indicated, particularly during dosage adjustments. In general, clinical judgment should be exercised regarding monitoring of plasma levels of lamotrigine and other drugs and whether or not dosage adjustments are necessary.

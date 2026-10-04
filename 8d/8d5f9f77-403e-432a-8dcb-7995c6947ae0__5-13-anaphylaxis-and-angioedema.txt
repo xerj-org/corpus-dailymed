@@ -1,0 +1,4 @@
+DailyMed 8d5f9f77-403e-432a-8dcb-7995c6947ae0 | Topiramate | 5.13 Anaphylaxis and Angioedema
+
+Hypersensitivity reactions, including anaphylaxis and angioedema, have occurred in patients treated with topiramate in the postmarketing setting. If a hypersensitivity reaction occurs, discontinue topiramate extended-release capsules and initiate appropriate therapy [see Contraindications (4)]
+                           .

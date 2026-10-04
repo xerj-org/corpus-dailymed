@@ -1,0 +1,3 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 7.6 Tacrolimus
+
+Concomitant administration of intravenous nicardipine and tacrolimus may result in elevated plasma tacrolimus levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4. Closely monitor plasma concentrations of tacrolimus during nicardipine administration, and adjust the dose of tacrolimus accordingly.

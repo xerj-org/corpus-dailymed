@@ -1,0 +1,5 @@
+DailyMed 8351aa37-552d-471d-b293-c564dcb6ec29 | Ceftriaxone | Hypersensitivity Reactions
+
+Before therapy with ceftriaxone is instituted, careful inquiry should be made to determine whether the patient has had previous hypersensitivity reactions to cephalosporins, penicillins and other beta-lactam agents or other drugs. This product should be given cautiously to penicillin and other beta-lactam agent‑sensitive patients. Antibacterial drugs should be administered with caution to any patient who has demonstrated some form of allergy, particularly to drugs. Serious acute hypersensitivity reactions may require the use of subcutaneous epinephrine and other emergency measures.
+
+                        As with all beta-lactam antibacterial agents, serious and occasionally fatal hypersensitivity reactions (i.e., anaphylaxis) have been reported. In case of severe hypersensitivity reactions, treatment with ceftriaxone must be discontinued immediately and adequate emergency measures must be initiated.

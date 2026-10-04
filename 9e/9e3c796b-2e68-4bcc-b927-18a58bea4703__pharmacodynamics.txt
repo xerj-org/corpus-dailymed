@@ -1,0 +1,11 @@
+DailyMed 9e3c796b-2e68-4bcc-b927-18a58bea4703 | Carbidopa-levodopa | Pharmacodynamics
+
+When levodopa is administered orally, it is rapidly decarboxylated to dopamine in extracerebral tissues so that only a small portion of a given dose is transported unchanged to the central nervous system. For this reason, large doses of levodopa are required for adequate therapeutic effect, and these may often be accompanied by nausea and other adverse reactions, some of which are attributable to dopamine formed in extracerebral tissues.
+
+                        Since levodopa competes with certain amino acids for transport across the gut wall, the absorption of levodopa may be impaired in some patients on a high protein diet.
+
+                        Carbidopa inhibits decarboxylation of peripheral levodopa. It does not cross the blood-brain barrier and does not affect the metabolism of levodopa within the central nervous system.
+
+                        The incidence of levodopa-induced nausea and vomiting is less with carbidopa and levodopa than with levodopa. In many patients, this reduction in nausea and vomiting will permit more rapid dosage titration.
+
+                        Since its decarboxylase inhibiting activity is limited to extracerebral tissues, administration of carbidopa with levodopa makes more levodopa available for transport to the brain.

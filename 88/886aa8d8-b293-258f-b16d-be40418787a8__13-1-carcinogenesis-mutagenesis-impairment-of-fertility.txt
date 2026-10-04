@@ -1,0 +1,9 @@
+DailyMed 886aa8d8-b293-258f-b16d-be40418787a8 | Icosapent Ethyl | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In a 2-year rat carcinogenicity study with oral gavage doses of 0.09, 0.27, and 0.91 g/kg/day icosapent ethyl, respectively, males did not exhibit drug-related neoplasms. Hemangiomas and hemangiosarcomas of the mesenteric lymph node, the site of drug absorption, were observed in females at clinically relevant exposures based on body surface area comparisons across species relative to the maximum clinical dose of 4 g/day. Overall incidence of hemangiomas and hemangiosarcomas in all vascular tissues did not increase with treatment.
+
+                        In a 6-month carcinogenicity study in Tg.rasH2 transgenic mice with oral gavage doses of 0.5, 1, 2, and 4.6 g/kg/day icosapent ethyl, drug-related incidences of benign squamous cell papilloma in the skin and subcutis of the tail was observed in high dose male mice. The papillomas were considered to develop secondary to chronic irritation of the proximal tail associated with fecal excretion of oil and therefore not clinically relevant. Drug-related neoplasms were not observed in female mice.
+
+                        Icosapent ethyl was not mutagenic with or without metabolic activation in the bacterial mutagenesis (Ames) assay or in the in vivo mouse micronucleus assay. A chromosomal aberration assay in Chinese Hamster Ovary (CHO) cells was positive for clastogenicity with and without metabolic activation.
+
+                        In an oral gavage rat fertility study, ethyl-EPA, administered at doses of 0.3, 1, and 3 g/kg/day to male rats for 9 weeks before mating and to female rats for 14 days before mating through day 7 of gestation, increased anogenital distance in female pups and increased cervical ribs were observed at 3 g/kg/day (7 times human systemic exposure with 4 g/day clinical dose based on a body surface area comparison).

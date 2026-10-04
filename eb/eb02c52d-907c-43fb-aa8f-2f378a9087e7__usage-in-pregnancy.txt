@@ -1,0 +1,11 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Usage in Pregnancy
+
+In animal studies, embryo-fetal developmental toxicity was shown at doses ranging from 250 mg/kg to 1,500 mg/kg body weight; approximately 3 to 16 times the maximum recommended therapeutic dose based on a body surface area comparison (see
+                              PRECAUTIONS, Animal Pharmacology and/or Animal Toxicology
+                           ). Preclinical data showed a potential risk of genotoxicity in some test systems (
+                              PRECAUTIONS, Carcinogenesis, Mutagenesis, Impairment of Fertility
+                           ).
+
+                        In humans, at recommended doses for prophylaxis and treatment of malaria, observational studies as well as a meta-analysis, including a small number of prospective studies with chloroquine exposure during pregnancy, have shown no increase in the rate of birth defects or spontaneous abortions.
+
+                        The individual benefit-risk balance should be reviewed before prescribing chloroquine in pregnant women.

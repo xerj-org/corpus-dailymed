@@ -1,0 +1,7 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 12.3 Pharmacokinetics
+
+After subcutaneous administration of 920 mg ocrelizumab, the estimated mean exposure (AUC over the 24-week dosing interval) was 3730 µg/mL∙day. The mean Cmax was 132 µg/mL and tmax was reached after approximately 4 days (range 2 – 13 days). The estimated absolute bioavailability following subcutaneous administration was 81%.
+
+                        In Study 4, the differences in pharmacokinetic exposures following the administration of OCREVUS ZUNOVO subcutaneously at 920 mg/23,000 units and ocrelizumab intravenously at 600 mg in MS patients were not clinically significant.
+
+                        Pharmacokinetics (PK) of ocrelizumab in MS clinical studies fit a two-compartment model with time-dependent clearance.

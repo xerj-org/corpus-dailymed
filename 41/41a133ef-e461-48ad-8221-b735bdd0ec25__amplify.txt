@@ -1,0 +1,130 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | AMPLIFY
+
+The primary objective of AMPLIFY was to determine whether ELIQUIS was noninferior to enoxaparin/warfarin for the incidence of recurrent VTE (venous thromboembolism) or VTE-related death. Patients with an objectively confirmed symptomatic DVT and/or PE were randomized to treatment with ELIQUIS 10 mg twice daily orally for 7 days followed by ELIQUIS 5 mg twice daily orally for 6 months, or enoxaparin 1 mg/kg twice daily subcutaneously for at least 5 days (until INR ≥2) followed by warfarin (target INR range 2.0-3.0) orally for 6 months. Patients who required thrombectomy, insertion of a caval filter, or use of a fibrinolytic agent, and patients with creatinine clearance <25 mL/min, significant liver disease, an existing heart valve or atrial fibrillation, or active bleeding were excluded from the AMPLIFY study. Patients were allowed to enter the study with or without prior parenteral anticoagulation (up to 48 hours).
+
+                              A total of 5244 patients were evaluable for efficacy and were followed for a mean of 154 days in the ELIQUIS group and 152 days in the enoxaparin/warfarin group. The mean age was 57 years. The AMPLIFY study population was 59% male, 83% Caucasian, 8% Asian, and 4% Black. For patients randomized to warfarin, the mean percentage of time in therapeutic range (INR 2.0-3.0) was 60.9%.
+
+                              Approximately 90% of patients enrolled in AMPLIFY had an unprovoked DVT or PE at baseline. The remaining 10% of patients with a provoked DVT or PE were required to have an additional ongoing risk factor in order to be randomized, which included previous episode of DVT or PE, immobilization, history of cancer, active cancer, and known prothrombotic genotype.
+
+                              ELIQUIS was shown to be noninferior to enoxaparin/warfarin in the AMPLIFY study for the primary endpoint of recurrent symptomatic VTE (nonfatal DVT or nonfatal PE) or VTE-related death over 6 months of therapy (Table 13).
+
+                                 Table 13:     Efficacy Results in the AMPLIFY Study
+
+                                        |
+                                       ELIQUIS
+
+  N=2609
+
+  n
+     |
+                                       Enoxaparin/Warfarin
+
+  N=2635
+
+  n
+     |
+                                       Relative Risk
+
+  (95% CI)
+     |
+
+                                       *   Noninferior compared to enoxaparin/warfarin (P-value <0.0001).
+
+                                          †   Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints.
+
+     |
+
+                                          VTE or VTE-related death*
+
+                                        |
+
+                                          59 (2.3%)
+
+                                        |
+
+                                          71 (2.7%)
+
+                                        |
+
+                                          0.84 (0.60, 1.18)
+
+                                        |
+
+                                             DVT
+
+      †
+
+                                        |
+
+                                          22 (0.8%)
+
+                                        |
+
+                                          35 (1.3%)
+
+                                        |
+                                        |
+
+                                             PE
+
+      †
+
+                                        |
+
+                                          27 (1.0%)
+
+                                        |
+
+                                          25 (0.9%)
+
+                                        |
+                                        |
+
+                                             VTE-related death
+
+      †
+
+                                        |
+
+                                          12 (0.4%)
+
+                                        |
+
+                                          16 (0.6%)
+
+                                        |
+                                        |
+
+                                          VTE or all-cause death
+
+                                        |
+
+                                          84 (3.2%)
+
+                                        |
+
+                                          104 (4.0%)
+
+                                        |
+
+                                          0.82 (0.61, 1.08)
+
+                                        |
+
+                                          VTE or CV-related death
+
+                                        |
+
+                                          61 (2.3%)
+
+                                        |
+
+                                          77 (2.9%)
+
+                                        |
+
+                                          0.80 (0.57, 1.11)
+
+                                        |
+
+                              In the AMPLIFY study, patients were stratified according to their index event of PE (with or without DVT) or DVT (without PE). Efficacy in the initial treatment of VTE was consistent between the two subgroups.

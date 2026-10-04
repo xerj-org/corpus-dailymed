@@ -1,0 +1,9 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 5.1 Diarrhea
+
+Severe diarrhea associated with dehydration and infection occurred in patients treated with VERZENIO.
+
+                        Across five clinical trials in 3899 patients, diarrhea occurred in 81% to 90% of patients who received VERZENIO. Grade 3 diarrhea occurred in 8% to 20% of patients receiving VERZENIO [see Adverse Reactions (6.1)].
+
+                        Most patients experienced diarrhea during the first month of VERZENIO treatment. The median time to onset of the first diarrhea event ranged from 6 to 8 days; and the median duration of Grade 2 and Grade 3 diarrhea ranged from 6 to 11 days and 5 to 8 days, respectively. Across trials, 19% to 26% of patients with diarrhea required a VERZENIO dose interruption and 13% to 23% required a dose reduction.
+
+                        Instruct patients to start antidiarrheal therapy such as loperamide at the first sign of loose stools, increase oral fluids, and notify their healthcare provider for further instructions and appropriate follow up [see Patient Counseling Information (17)]. For Grade 3 or 4 diarrhea, or diarrhea that requires hospitalization, withhold VERZENIO until resolution to ≤Grade 1, and then resume VERZENIO at the next lower dose [see Dosage and Administration (2.2)].

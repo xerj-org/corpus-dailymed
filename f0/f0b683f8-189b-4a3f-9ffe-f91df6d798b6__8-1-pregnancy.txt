@@ -1,0 +1,21 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 8.1 Pregnancy
+
+Risk Summary
+
+                        There are no available data on use of ascorbic acid injection in pregnant women to inform a drug-associated risk of adverse developmental outcomes; however, use of ascorbic acid (vitamin C) has been used during pregnancy for several decades and no adverse developmental outcomes are reported in the published literature [see Data]. There are dose adjustments for ascorbic acid (vitamin C) use during pregnancy [ see Clinical Considerations].
+
+                        Animal reproduction studies have not been conducted with ascorbic acid injection.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                              Clinical Considerations
+
+                           Dose Adjustments During Pregnancy and Post-Partum Period
+
+                        Follow the U.S. Recommended Dietary Allowances (RDA) for pregnant women when considering use of ascorbic acid injection for treatment of scurvy [see Dosage and Administration (2.3)].
+
+                              Data
+
+                           Human Data
+
+                        There are no available data on use of ascorbic acid injection or another ascorbic acid injection in pregnant women. However, a published meta–analysis of randomized studies evaluating a large number of pregnant women who took oral ascorbic acid (vitamin C) (through diet and supplementation) at doses ranging from 500 mg/day to 1,000 mg/day (2.5 to 5 times the recommended daily intravenous dose, respectively) [ see Dosage and Administration (2.3)] between the 9th and 16th weeks of pregnancy showed no increased risk of adverse pregnancy outcomes such as miscarriage, preterm premature rupture of membranes, preterm delivery or pregnancy induced hypertension when compared to placebo. These data cannot definitively establish or exclude the absence of a risk with ascorbic acid (vitamin C) during pregnancy.

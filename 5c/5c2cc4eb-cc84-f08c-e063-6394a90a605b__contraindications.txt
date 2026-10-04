@@ -1,0 +1,7 @@
+DailyMed 5c2cc4eb-cc84-f08c-e063-6394a90a605b | Lorazepam | CONTRAINDICATIONS
+
+Lorazepam is contraindicated in patients with:
+
+                     hypersensitivity to benzodiazepines or to any components of the formulation.
+
+                     acute narrow-angle glaucoma.

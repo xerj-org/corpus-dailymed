@@ -1,0 +1,37 @@
+DailyMed 2da87bfa-11fd-43e3-8fef-d16ebeb15680 | Morphine sulfate | 2.3 Initial Dosage
+
+It is safer to underestimate a patient's 24-hour oral morphine dosage and provide rescue medication (e.g. immediate-release morphine) than to overestimate the 24-hour oral morphine dosage and manage an adverse reaction due to an overdose. While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and formulations. Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to morphine sulfate extended-release capsules.
+
+                           Use of morphine sulfate extended-release capsules in Patients who are not Opioid Tolerant 
+
+The starting dose of morphine sulfate extended-release capsules for patients who are not opioid tolerant is 30 mg orally every 24 hours.
+
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)]. 
+
+                           Conversion from Other Oral Morphine Formulations to morphine sulfate extended-release capsules
+
+Patients receiving other oral morphine formulations may be converted to morphine sulfate extended-release capsules by administering the patient's total daily oral morphine dose as morphine sulfate extended-release capsules once-daily. Morphine sulfate extended-release capsules should not be given more frequently than every 24 hours.
+
+                           Conversion from Parenteral Morphine or Other Parenteral Opioid Analgesics to morphine sulfate extended-release capsules
+
+When converting from parenteral morphine or other parenteral non-morphine opioids to morphine sulfate extended-release capsules, consider the following general points:
+
+                   Parenteral to oral morphine ratio:
+
+                   Between 2 to 6 mg of oral morphine may be required to provide analgesia equivalent to 1 mg of parenteral morphine. Typically, a dose of morphine that is                                         approximately three times the previous daily parenteral morphine requirement is sufficient.
+
+                  Other parenteral non-morphine opioid analgesics to oral morphine sulfate:
+
+                  Specific recommendations are not available because of a lack of systematic evidence for these types of analgesic substitutions. Published relative potency data are                        available, but such ratios are approximations. In general, begin with half of the estimated daily morphine requirement as the initial dose, managing inadequate                                  analgesia by supplementation with immediate-release morphine.
+
+                           Conversion from Methadone to morphine sulfate extended-release capsules
+
+Regular evaluation is of particular importance when converting from methadone to other opioid agonists. The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure. Methadone has a long half-life and can accumulate in the plasma.
+
+                           Conversion from Other Oral Opioid Analgesics to morphine sulfate extended-release capsules
+
+When Morphine sulfate extended-release capsules therapy is initiated, discontinue all opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate. 
+
+There are no established conversion ratios from other opioid analgesics to morphine sulfate extended-release capsules defined by clinical trials. Initiate dosing using morphine sulfate extended-release capsules 30 mg orally every 24 hours. 
+
+The first dose of morphine sulfate extended-release capsules may be taken with the last dose of any immediate-release opioid medication due to the extended-release characteristics of the morphine sulfate extended-release capsules formulation.

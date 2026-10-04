@@ -1,0 +1,7 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 5.4 Embryo-Fetal Toxicity
+
+Based on findings from animals and mechanism of action, TRUQAP can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)]. In an animal reproduction study, oral administration of capivasertib to pregnant rats during the period of organogenesis caused adverse developmental outcomes, including embryo-fetal mortality, and reduced fetal weights at maternal exposures 0.7 times the human exposure (AUC) at the recommended dosage of 400 mg twice daily.
+
+                        Advise pregnant women and females of reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with TRUQAP and for 1 month after the last dose. Advise male patients with female partners of reproductive potential to use effective contraception during treatment with TRUQAP and for 4 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
+
+                        TRUQAP is used in combination with fulvestrant or abiraterone. Refer to the Full Prescribing Information of fulvestrant or abiraterone for pregnancy and contraception information.

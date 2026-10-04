@@ -1,0 +1,26 @@
+DailyMed a1cc1580-50d9-4b9b-a002-1fc6686a9515 | Nelarabine | 5.1 Neurologic Adverse Reactions
+
+Nervous system adverse reactions of any grade were reported for 223 (76%) adult patients across the Phase I and Phase II trials, and Grade 3 or higher (severe, life-threatening, or fatal) adverse reactions were reported for 55 (19%) patients following initiation of nelarabine injection therapy
+  [see
+
+                              Adverse Reactions (6.1)]
+  . Based on patients with complete data, the median time to onset of first event is 5 days from start of first infusion (range: 1-166), and the median duration is 6 days (range: 1-393 days).
+
+                        Nervous system adverse reactions of any grade were reported for 69 (42%) pediatric patients across the Phase I and Phase II trials, and Grade 3 or higher (severe, life-threatening, or fatal) adverse reactions were reported for 25 (15%) patients following initiation of nelarabine injection therapy
+  [see
+   Adverse Reactions (6.1)]
+  . Based on patients with complete data, the median time to onset of first event is 8 days from start of first infusion (range: 1-269), and the median duration is 2 days (range: 1-82 days).
+
+                        Common signs and symptoms of nelarabine injection-related neurotoxicity include somnolence, headache, paresthesia and dysesthesia, dizziness, neuropathy (sensory and motor), cerebellar disturbances and tremor. Severe neurologic toxicity can manifest as coma, status epilepticus, craniospinal demyelination, or ascending neuropathy similar in presentation to Guillain-Barré syndrome.
+
+                        Full recovery from these adverse reactions has not always occurred with cessation of therapy with nelarabine injection. Patients treated previously or concurrently with intrathecal chemotherapy or previously with craniospinal irradiation may be at increased risk for neurologic adverse events.
+
+                        Monitor patients frequently for signs and symptoms of neurologic toxicity during and for at least 24 hours after completion of treatment with nelarabine injection. Discontinue nelarabine injection for neurologic adverse reactions of NCI CTCAE Grade 2 or greater and provide supportive care
+  [see
+
+                              Dosage and Administration (2.2)
+
+                           ,
+
+                              Adverse Reactions (6.1)]
+  .

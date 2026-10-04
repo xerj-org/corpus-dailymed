@@ -1,0 +1,3 @@
+DailyMed 8fac192f-48ab-4def-9c3a-f1cd50b3e2b7 | POTASSIUM CHLORIDE | 8.7 Renal Impairment
+
+Patients with renal impairment have reduced urinary excretion of potassium and are at substantially increased risk of hyperkalemia. Patients with impaired renal function, particularly if the patient is on ACE inhibitors, ARBs, or nonsteroidal anti-inflammatory drugs should usually be started at the low end of the dosing range because of the potential for development of hyperkalemia. The serum potassium level should be monitored frequently. Renal function should be assessed periodically.

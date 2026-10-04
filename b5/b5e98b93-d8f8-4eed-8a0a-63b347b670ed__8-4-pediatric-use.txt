@@ -1,0 +1,19 @@
+DailyMed b5e98b93-d8f8-4eed-8a0a-63b347b670ed | Sertraline Hydrochloride | 8.4 Pediatric Use
+
+The safety and efficacy of sertraline hydrochloride have been established in the treatment of OCD in pediatric patients aged 6 to 17 [See Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)]. Safety and effectiveness in pediatric patients in patients with OCD below the age of 6 have not been established. Safety and effectiveness have not been established in pediatric patients for indications other than OCD. Two placebo-controlled trials were conducted in pediatric patients with MDD, but the data were not sufficient to support an indication for use in pediatric patients.
+
+                              Monitoring Pediatric Patients Treated with Sertraline Hydrochloride
+
+                        Monitor all patients being treated with antidepressants for clinical worsening, suicidal thoughts, and unusual changes in behavior, especially during the initial few months of treatment, or at times of dose increases or decreases [See Boxed Warning, Warnings and Precautions (5.1)]. Decreased appetite and weight loss have been observed with the use of SSRIs. Monitor weight and growth in pediatric patients treated with an SSRI such as sertraline hydrochloride.
+
+                              Weight Loss in Studies in Pediatric Patients with MDD
+
+                        In a pooled analysis of two 10-week, double-blind, placebo-controlled, flexible dose (50 to 200 mg) outpatient trials for MDD (n=373), there was a difference in weight change between sertraline hydrochloride and placebo of roughly 1 kg, for both children (ages 6 to 11) and adolescents (ages 12 to 17), in both age groups representing a slight weight loss for the sertraline hydrochloride group compared to a slight gain for the placebo group. For children, about 7% of the sertraline hydrochloride-treated patients had a weight loss greater than 7% of body weight compared to 0% of the placebo-treated patients; for adolescents, about 2% of sertraline hydrochloride-treated patients had a weight loss > 7% of body weight compared to about 1% of placebo-treated patients.
+
+                        A subset of patients who completed the randomized controlled trials in patients with MDD (sertraline hydrochloride n=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study. Those subjects who completed 34 weeks of sertraline hydrochloride treatment (10 weeks in a placebo-controlled trial + 24 weeks open-label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers. However, there are no studies that directly evaluate the long-term effects of sertraline hydrochloride on the growth, development, and maturation in pediatric patients.
+
+                              Juvenile Animal Data
+
+                        A study conducted in juvenile rats at clinically relevant doses showed delay in sexual maturation, but there was no effect on fertility in either males or females.
+
+                        In this study in which juvenile rats were treated with oral doses of sertraline at 0, 10, 40 or 80 mg/kg/day from postnatal day 21 to 56, a delay in sexual maturation was observed in males treated with 80 mg/kg/day and females treated with doses ≥10 mg/kg/day. There was no effect on male and female reproductive endpoints or neurobehavioral development up to the highest dose tested (80 mg/kg/day), except a decrease in auditory startle response in females at 40 and 80 mg/kg/day at the end of treatment but not at the end of the drug–free period. The highest dose of 80 mg/kg/day produced plasma levels (AUC) of sertraline 5 times those seen in pediatric patients (6 to 17 years of age) receiving the maximum recommended dose of sertraline (200 mg/day).

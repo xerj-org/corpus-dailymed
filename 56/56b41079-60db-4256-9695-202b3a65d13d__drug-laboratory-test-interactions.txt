@@ -1,0 +1,11 @@
+DailyMed 56b41079-60db-4256-9695-202b3a65d13d | Armour Thyroid | Drug/Laboratory Test Interactions —
+
+The following drugs or moieties are known to interfere with laboratory tests performed in patients on thyroid hormone therapy: androgens, corticosteroids, estrogens, oral contraceptives containing estrogens, iodine-containing preparations, and the numerous preparations containing salicylates.
+
+                        1. Changes in TBg concentration should be taken into consideration in the interpretation of levothyroxine (T4) and liothyronine (T3) values. In such cases, the unbound (free) hormone should be measured. Pregnancy, estrogens, and estrogen-containing oral contraceptives increase TBg concentrations. TBg may also be increased during infectious hepatitis. Decreases in TBg concentrations are observed in nephrosis, acromegaly, and after androgen or corticosteroid therapy. Familial hyper- or hypo-thyroxine-binding-globulinemias have been described. The incidence of TBg deficiency approximates 1 in 9000. The binding of levothyroxine by TBPA is inhibited by salicylates.
+
+                        2. Biotin supplementation is known to interfere with thyroid hormone immunoassays that are based on a biotin and streptavidin interaction, which may result in erroneous thyroid hormone test results. Stop biotin and biotin-containing supplements for at least 2 days prior to thyroid testing.
+
+                        3. Medicinal or dietary iodine interferes with all in vivo tests of radio-iodine uptake, producing low uptakes which may not be relative of a true decrease in hormone synthesis.
+
+                        4. The persistence of clinical and laboratory evidence of hypothyroidism in spite of adequate dosage replacement indicates either poor patient compliance, poor absorption, excessive fecal loss, or inactivity of the preparation. Intracellular resistance to thyroid hormone is quite rare.

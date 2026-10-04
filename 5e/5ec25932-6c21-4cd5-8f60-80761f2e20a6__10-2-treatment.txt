@@ -1,0 +1,5 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 10.2 Treatment
+
+If overdosage occurs, propofol injectable emulsion administration should be discontinued immediately.
+
+                        Respiratory depression should be treated by artificial ventilation with oxygen. Cardiovascular depression may require repositioning of the patient by raising the patient's legs, increasing the flow rate of intravenous fluids, and administering pressor agents and/or anticholinergic agents.

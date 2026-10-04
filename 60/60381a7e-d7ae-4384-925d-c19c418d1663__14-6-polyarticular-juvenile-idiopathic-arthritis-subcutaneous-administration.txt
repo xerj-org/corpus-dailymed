@@ -1,0 +1,7 @@
+DailyMed 60381a7e-d7ae-4384-925d-c19c418d1663 | Tocilizumab-anoh | 14.6 Polyarticular Juvenile Idiopathic Arthritis – Subcutaneous Administration
+
+Subcutaneously administered tocilizumab in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) was assessed in WA28117 (NCT01904279), a 52-week, open-label, multicenter, PK-PD and safety study to determine the appropriate subcutaneous dose of tocilizumab that achieved comparable PK/PD profiles to the tocilizumab-IV regimen. PJIA patients aged 1 to 17 years with an inadequate response or inability to tolerate MTX, including patients with well-controlled disease on treatment with tocilizumab-IV and tocilizumab-naïve patients with active disease, were treated with subcutaneous tocilizumab based on body weight.
+
+                        Patients weighing at or above 30 kg (n = 25) were treated with 162 mg of tocilizumab-SC every 2 weeks and patients weighing less than 30 kg (n = 27) received 162 mg of tocilizumab-SC every 3 weeks for 52 weeks. Of these 52 patients, 37 (71%) were naive to tocilizumab and 15 (29%) had been receiving tocilizumab-IV and switched to tocilizumab-SC at baseline.
+
+                        The efficacy of subcutaneous tocilizumab in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous tocilizumab in polyarticular JIA patients and subcutaneous tocilizumab in patients with RA [see Clinical Pharmacology (12.3) and Clinical Studies (14.2 and 14.5)].

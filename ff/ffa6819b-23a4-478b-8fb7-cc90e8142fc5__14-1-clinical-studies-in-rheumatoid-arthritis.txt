@@ -1,0 +1,649 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 14.1 Clinical Studies in Rheumatoid Arthritis
+
+The rheumatoid arthritis (RA) clinical development program with tofacitinib tablets included six randomized controlled trials in adults with moderate to severe active RA.
+
+                           Trial Design
+
+                           Study RA-I (NCT00814307) was a 6-month monotherapy trial in which 610 patients with moderate to severe active RA who had an inadequate response to a DMARD (nonbiologic or biologic) received tofacitinib tablets 5 mg or 10 mg twice daily or placebo added to their background DMARD. At the Month 3 visit, all patients randomized to placebo treatment were switched in a blinded fashion to a second predetermined treatment of tofacitinib tablets 5 mg or 10 mg twice daily. The primary endpoints at Month 3 were the proportion of patients who achieved an ACR20 response, changes in Health Assessment Questionnaire – Disability Index (HAQ-DI), and rates of Disease Activity Score DAS28-4(ESR) less than 2.6.
+
+                           Study RA-II (NCT00856544) was a 12-month trial in which 792 patients with moderate to severe active RA who had an inadequate response to a nonbiologic DMARD received tofacitinib tablets 5 mg or 10 mg twice daily or placebo added to background DMARD treatment (excluding potent immunosuppressive treatments such as azathioprine or cyclosporine). At the Month 3 visit, nonresponding patients were switched in a blinded fashion to a second predetermined treatment of tofacitinib tablets 5 mg or 10 mg twice daily. At the end of Month 6, all patients treated with placebo were switched to their second predetermined tofacitinib tablets treatment in a blinded fashion. The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, changes in HAQ-DI at Month 3, and rates of DAS28-4(ESR) less than 2.6 at Month 6.
+
+                           Study RA-III (NCT00853385) was a 12-month trial in 717 patients with moderate to severe active RA who had an inadequate response to methotrexate (MTX). Patients received tofacitinib tablets 5 mg or 10 mg orally twice daily, adalimumab 40 mg subcutaneously every other week, or placebo added to background MTX. Patients treated with placebo were switched as in Study RA-II. The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, HAQ-DI at Month 3, and DAS28-4(ESR) less than 2.6 at Month 6.
+
+                           Study RA-IV (NCT00847613) was a 2-year trial with a planned analysis at 1 year in which 797 patients with moderate to severe active RA who had an inadequate response to MTX received tofacitinib tablets 5 mg or 10 mg twice daily or placebo added to background MTX. Patients treated with placebo were switched as in Study RA-II. The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, mean change from baseline in van der Heijde-modified total Sharp Score (mTSS) at Month 6, HAQ-DI at Month 3, and DAS28-4(ESR) less than 2.6 at Month 6.
+
+                           Study RA-V (NCT00960440) was a 6-month trial in which 399 patients with moderate to severe active RA who had an inadequate response to at least one approved TNF blocking biological product received tofacitinib tablets 5 mg or 10 mg twice daily or placebo added to background MTX. At the Month 3 visit, all patients randomized to placebo treatment were switched in a blinded fashion to a second predetermined treatment of tofacitinib tablets 5 or 10 mg twice daily. The primary endpoints at Month 3 were the proportion of patients who achieved an ACR20 response, HAQ-DI, and DAS28-4(ESR) less than 2.6.
+
+                           Study RA-VI (NCT01039688) was a 2-year monotherapy trial with a planned analysis at 1 year in which 952 MTX-naïve patients with moderate to severe active RA received tofacitinib tablets 5 or 10 mg twice daily or MTX dose-titrated over 8 weeks to 20 mg weekly. The primary endpoints were mean change from baseline in van der Heijde-modified Total Sharp Score (mTSS) at Month 6 and the proportion of patients who achieved an ACR70 response at Month 6.
+
+                        Although other dosages have been studied, the recommended dosage of tofacitinib tablets are 5 mg twice daily. Tofacitinib tablets 10 mg twice daily is not recommended for the treatment of RA
+
+  [see
+
+   Dosage and Administration (2.3)].
+
+                           Clinical Response
+
+  The percentages of tofacitinib tablets-treated patients who achieved ACR20, ACR50, and ACR70 responses in Studies RA-I, IV, and V are shown in Table 10. Similar results were observed with Studies RA-II and III. In trials RA-I through V, patients treated with 5 mg twice daily tofacitinib tablets had higher ACR20, ACR50, and ACR70 response rates versus patients treated with placebo, with or without background DMARD treatment, at Month 3 and Month 6. Higher ACR20 response rates were observed within 2 weeks compared to placebo. In the 12-month trials, ACR response rates in tofacitinib tablets-treated patients were consistent at 6 and 12 months.
+
+                           Table 10: Proportion of Adults with Moderate to Severe Active RA with an ACR Response at Months 3 and 6 in Studies RA-I, IV, and V
+
+                                  |
+
+                                    Monotherapy in Nonbiologic or Biologic DMARD Inadequate Responders
+
+      c
+
+                                  |
+
+                                    MTX Inadequate Responders
+
+      d
+
+                                  |
+
+                                    TNF Blocker Inadequate Responders
+
+      e
+
+                                  |
+
+                                    Study RA-I
+
+                                  |
+
+                                    Study RA-IV
+
+                                  |
+
+                                    Study RA-V
+
+                                  |
+
+                                 N
+
+     a
+
+                                  |
+                                 Placebo + Background DMARD
+
+  122
+
+                                  |
+                                 Tofacitinib Tablets 5 mg Twice Daily + Background DMARD
+
+  243
+
+                                  |
+                                 Placebo + Background MTX
+
+  160
+
+                                  |
+                                 Tofacitinib Tablets 5 mg Twice Daily + Background MTX
+
+  321
+
+                                  |
+                                 Placebo + Background MTX
+
+  132
+
+                                  |
+                                 Tofacitinib Tablets 5 mg Twice Daily + Background MTX
+
+  133
+
+                                  |
+
+                                 ACR20
+
+  Month 3
+
+  Month 6
+
+                                  |
+                                 26%
+
+  NA
+
+     b
+
+                                  |
+                                 59%
+
+  69%
+
+                                  |
+                                 27%
+
+  25%
+
+                                  |
+                                 55%
+
+  50%
+
+                                  |
+                                 24%
+
+  NA
+
+                                  |
+                                 41%
+
+  51%
+
+                                  |
+
+                                 ACR50
+
+  Month 3
+
+  Month 6
+
+                                  |
+                                 12%
+
+  NA
+
+                                  |
+                                 31%
+
+  42%
+
+                                  |
+                                 8%
+
+  9%
+
+                                  |
+                                 29%
+
+  32%
+
+                                  |
+                                 8%
+
+  NA
+
+                                  |
+                                 26%
+
+  37%
+
+                                  |
+
+                                 ACR70
+
+  Month 3
+
+  Month 6
+
+                                  |
+                                 6%
+
+  NA
+
+                                  |
+                                 15%
+
+  22%
+
+                                  |
+                                 3%
+
+  1%
+
+                                  |
+                                 11%
+
+  14%
+
+                                  |
+                                 2%
+
+  NA
+
+                                  |
+                                 14%
+
+  16%
+
+                                  |
+
+                           aN is number of randomized and treated patients.
+
+                           bNA (not applicable), as data for placebo treatment is not available beyond 3 months in Studies RA-I and RA-V due to placebo advancement.
+
+                           cInadequate response to at least one DMARD (biologic or nonbiologic) due to lack of efficacy or toxicity.
+
+                           dInadequate response to MTX defined as the presence of sufficient residual disease activity to meet the entry criteria.
+
+                           eInadequate response to at least one TNF blocker due to lack of efficacy and/or intolerance.
+
+  In Study RA-IV, a greater proportion of patients treated with tofacitinib tablets 5 mg twice daily plus MTX achieved a low level of disease activity as measured by a DAS28-4(ESR) less than 2.6 at 6 months compared to those treated with MTX alone (Table 11).
+
+                            
+
+                           Table 11: Proportion and Numbers of Adults with Moderate to Severe Active RA with DAS28-4(ESR) Less Than 2.6 with Number of Residual Active Joints at Month 6 in Study RA-IV
+
+                                  |
+
+                                    Study RA-IV
+
+                                  |
+
+                                    DAS28-4(ESR) Less Than 2.6
+
+                                  |
+
+                                    Placebo + MTX
+
+                                    160
+
+                                  |
+
+                                    Tofacitinib Tablets
+
+                                    5 mg Twice
+
+                                    Daily + MTX
+
+                                    321
+
+                                  |
+
+                                 Proportion of responders at Month 6 (n)
+
+                                  |
+                                 1% (2)
+
+                                  |
+                                 6% (19)
+
+                                  |
+
+                                 Of responders, proportion with 0 active joints (n)
+
+                                  |
+                                 50% (1)
+
+                                  |
+                                 42% (8)
+
+                                  |
+
+                                 Of responders, proportion with 1 active joint (n)
+
+                                  |
+                                 0
+
+                                  |
+                                 5% (1)
+
+                                  |
+
+                                 Of responders, proportion with 2 active joints (n)
+
+                                  |
+                                 0
+
+                                  |
+                                 32% (6)
+
+                                  |
+
+                                 Of responders, proportion with 3 or more active joints (n)
+
+                                  |
+                                 50% (1)
+
+                                  |
+                                 21% (4)
+
+                                  |
+
+                        The results of the components of the ACR response criteria for Study RA-IV are shown in Table 12. Similar results were observed for tofacitinib tablets in Studies RA-I, II, III, V, and VI.
+
+                           Table 12: Components of ACR Response in Adults with Moderate to Severe Active RA at Baseline and Month 3 in Study RA-IV
+
+                                  |
+
+                                    Study RA-IV
+
+                                  |
+
+                                  |
+
+                                    Placebo + MTX
+
+                                    N=160
+
+                                  |
+
+                                    Tofacitinib Tablets
+
+                                    5 mg
+
+                                    Twice Daily + MTX
+
+                                    N=321
+
+                                  |
+
+                                 Component (mean)
+
+     a
+
+                                  |
+                                 Baseline
+
+                                  |
+                                 Month 3
+
+     a
+
+                                  |
+                                 Baseline
+
+                                  |
+                                 Month 3
+
+     a
+
+                                  |
+
+                                 Number of tender joints (0 to 68)
+
+                                  |
+                                 23 (13)
+
+                                  |
+                                 18 (14)
+
+                                  |
+                                 24 (14)
+
+                                  |
+                                 13 (14)
+
+                                  |
+
+                                 Number of swollen joints (0 to 66)
+
+                                  |
+                                 14 (9)
+
+                                  |
+                                 10 (9)
+
+                                  |
+                                 14 (8)
+
+                                  |
+                                 6 (8)
+
+                                  |
+
+                                 Pain
+
+     b
+
+                                  |
+                                 55 (24)
+
+                                  |
+                                 47 (24)
+
+                                  |
+                                 58 (23)
+
+                                  |
+                                 34 (23)
+
+                                  |
+
+                                 Patient global assessment
+
+     b
+
+                                  |
+                                 54 (23)
+
+                                  |
+                                 47 (24)
+
+                                  |
+                                 58 (24)
+
+                                  |
+                                 35 (23)
+
+                                  |
+
+                                 Disability index (HAQ-DI)
+
+     c
+
+                                  |
+                                 1.32 (0.67)
+
+                                  |
+                                 1.19 (0.68)
+
+                                  |
+                                 1.41 (0.68)
+
+                                  |
+                                 0.99 (0.65)
+
+                                  |
+
+                                 Physician global assessment
+
+     b
+
+                                  |
+                                 56 (18)
+
+                                  |
+                                 43 (22)
+
+                                  |
+                                 59 (16)
+
+                                  |
+                                 30 (19)
+
+                                  |
+
+                                 CRP (mg/L)
+
+                                  |
+                                 13.7 (14.9)
+
+                                  |
+                                 14.6 (18.7)
+
+                                  |
+                                 15.3 (19.0)
+
+                                  |
+                                 7.1 (19.1)
+
+                                  |
+
+                           aData shown is mean (Standard Deviation) at Month 3.
+
+                           bVisual analog scale: 0 = best, 100 = worst.
+
+                           cHealth Assessment Questionnaire Disability Index: 0 = best, 3 = worst; 20 questions; categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities.
+
+  The percent of ACR20 responders by visit for Study RA-IV is shown in Figure 4. Similar responses were observed for tofacitinib tablets in Studies RA-I, II, III, V, and VI.
+
+                           Figure 4: Percentage of ACR20 Responders by Visit Through Month 6 in Study RA-IV
+
+                           Radiographic Response
+
+  Two studies were conducted to evaluate the effect of tofacitinib tablets on structural joint damage. In Study RA-IV and Study RA-VI, progression of structural joint damage was assessed radiographically and expressed as change from baseline in mTSS and its components, the erosion score and joint space narrowing score, at Months 6 and 12. The proportion of patients with no radiographic progression (mTSS change less than or equal to 0) was also assessed.
+
+  In Study RA-IV, tofacitinib tablets 5 mg twice daily reduced the mean progression of structural damage (not statistically significant) as shown in Table 13. Analyses of erosion and joint space narrowing scores were consistent with the overall results.
+
+  In the placebo plus MTX group, 74% of patients experienced no radiographic progression at Month 6 compared to 84% of patients treated with tofacitinib tablets plus MTX 5 mg twice daily.
+
+  In Study RA-VI, tofacitinib tablets monotherapy inhibited the progression of structural damage compared to MTX at Months 6 and 12 as shown in Table 13. Analyses of erosion and joint space narrowing scores were consistent with the overall results.
+
+  In the MTX group, 55% of patients experienced no radiographic progression at Month 6 compared to 73% of patients treated with tofacitinib tablets 5 mg twice daily.
+
+                           Table 13: Radiographic Changes in Adults with Moderate to Severe Active RA at Months 6 and 12 in Studies RA-IV and VI
+
+                                  |
+
+                                    Study RA-IV
+
+                                  |
+
+                                  |
+
+                                    Placebo
+
+                                    N=139
+
+                                    Mean (SD)
+
+      a
+
+                                  |
+
+                                    Tofacitinib Tablets 5 mg Twice Daily
+
+                                    N=277
+
+                                    Mean (SD)
+
+      a
+
+                                  |
+
+                                    Tofacitinib Tablets 5 mg Twice
+
+                                    Daily
+
+                                    Mean Difference from Placebo
+
+      b(CI)
+
+                                  |
+
+                                 mTSS
+
+     c
+
+  Baseline
+
+  Month 6
+
+                                  |
+                                 33 (42)
+
+  0.5 (2.0)
+
+                                  |
+                                 31 (48)
+
+  0.1 (1.7)
+
+                                  |
+                                 -
+
+  -0.3 (-0.7, 0.0)
+
+                                  |
+
+                                    Study RA-VI
+
+                                  |
+
+                                  |
+
+                                    MTX
+
+                                    N=166
+
+                                    Mean (SD)
+
+      a
+
+                                  |
+
+                                    Tofacitinib Tablets 5 mg Twice
+
+                                    Daily
+
+                                    N=346
+
+                                    Mean (SD)
+
+      a
+
+                                  |
+
+                                    Tofacitinib Tablets 5 mg Twice
+
+                                    Daily
+
+                                    Mean Difference from MTX
+
+      b(CI)
+
+                                  |
+
+                                 mTSS
+
+     c
+
+  Baseline
+
+  Month 6
+
+  Month 12
+
+                                  |
+                                 17 (29)
+
+  0.8 (2.7)
+
+  1.3 (3.7)
+
+                                  |
+                                 20 (40)
+
+  0.2 (2.3)
+
+  0.4 (3.0)
+
+                                  |
+                                 -
+
+  -0.7 (-1.0, -0.3)
+
+  -0.9 (-1.4, -0.4)
+
+                                  |
+
+                           aSD = Standard Deviation
+
+                           bDifference between least squares means tofacitinib tablets minus placebo or MTX (95% CI = 95% confidence interval)
+
+                           cMonth 6 and Month 12 data are mean change from baseline.
+
+                           Physical Function Response
+
+                        Improvement in physical functioning was measured by the HAQ-DI. Patients who received tofacitinib tablets 5 mg twice daily demonstrated greater improvement from baseline in physical functioning compared to patients who received placebo at Month 3.
+
+                        The mean (95% CI) difference from placebo in HAQ-DI improvement from baseline at Month 3 in Study RA-III was -0.22 (-0.35, -0.10) in patients who received 5 mg tofacitinib tablets twice daily. Similar results were obtained in Studies RA-I, II, IV and V. In the 12-month trials, HAQ-DI results in tofacitinib-treated patients were consistent at 6 and 12 months.
+
+                           Other Health-Related Outcomes
+
+                        General health status was assessed by the Short Form health survey (SF-36). In Studies RA-I, IV, and V, patients who received tofacitinib tablets 5 mg twice daily demonstrated greater improvement from baseline compared to placebo in physical component summary (PCS), mental component summary (MCS) scores and in all 8 domains of the SF-36 at Month 3.

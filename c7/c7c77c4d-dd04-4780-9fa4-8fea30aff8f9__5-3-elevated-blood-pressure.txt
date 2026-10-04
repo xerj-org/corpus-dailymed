@@ -1,0 +1,5 @@
+DailyMed c7c77c4d-dd04-4780-9fa4-8fea30aff8f9 | Desvenlafaxine | 5.3 Elevated Blood Pressure
+
+Patients receiving desvenlafaxine should have regular monitoring of blood pressure since increases in blood pressure were observed in clinical studies [see Adverse Reactions (6.1)]. Pre-existing hypertension should be controlled before initiating treatment with desvenlafaxine. Caution should be exercised in treating patients with pre-existing hypertension, cardiovascular, or cerebrovascular conditions that might be compromised by increases in blood pressure. Cases of elevated blood pressure requiring immediate treatment have been reported with desvenlafaxine.
+
+                        Sustained blood pressure increases could have adverse consequences. For patients who experience a sustained increase in blood pressure while receiving desvenlafaxine, either dose reduction or discontinuation should be considered [see Adverse Reactions (6.1)].

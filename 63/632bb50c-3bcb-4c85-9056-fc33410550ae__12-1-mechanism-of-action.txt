@@ -1,0 +1,5 @@
+DailyMed 632bb50c-3bcb-4c85-9056-fc33410550ae | ZEPZELCA | 12.1 Mechanism of Action
+
+Lurbinectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death.
+
+                        Lurbinectedin inhibited human monocyte activity in vitro and reduced macrophage infiltration in implanted tumors in mice.

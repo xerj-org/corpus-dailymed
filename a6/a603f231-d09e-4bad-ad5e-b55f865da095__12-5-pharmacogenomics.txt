@@ -1,0 +1,7 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 12.5 Pharmacogenomics
+
+Deuruxolitinib is primarily metabolized by CYP2C9 (76%) and CYP3A4 (21%). CYP2C9 activity is reduced in patients with genetic variants in CYP2C9, such as the CYP2C9∗2 and CYP2C9∗3 alleles. The impact of CYP2C9 genetic variants on the pharmacokinetics of deuruxolitinib has not been directly evaluated. Based on drug-drug interaction modeling data, CYP2C9 poor metabolizers (e.g., ∗2/∗3, ∗3/∗3) may have up to 2-fold higher concentrations of deuruxolitinib, when compared to normal metabolizers [see Warnings and Precautions (5.6)].
+
+                        The pharmacokinetics of deuruxolitinib were not evaluated in individuals who are intermediate metabolizers (e.g., individuals with ∗1/∗3 genotype).
+
+                        The prevalence of the CYP2C9 poor metabolizer phenotype is approximately 2 to 3% in White populations, 0.5 to 4% in Asian populations, and <1% in Black or African American populations. Other decreased or nonfunctional CYP2C9 alleles (e.g., ∗5, ∗6, ∗8, ∗11) are more prevalent in Black or African American populations.

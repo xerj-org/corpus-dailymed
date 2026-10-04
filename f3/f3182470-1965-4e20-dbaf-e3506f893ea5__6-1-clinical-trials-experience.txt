@@ -1,0 +1,819 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a vaccine cannot be directly compared with rates in the clinical trials of another vaccine and may not reflect the rates observed in practice.
+
+                        Two formulations of ROTARIX were studied in clinical trials: a reconstituted lyophilized formulation (previously supplied in a vial and oral dosing applicator presentation) and a liquid formulation (supplied in an oral dosing applicator) [see Description (11)]. The reconstituted lyophilized formulation has been discontinued and is no longer marketed. The safety data accrued with the discontinued lyophilized formulation is relevant to the liquid formulation as both contain the same live, attenuated rotavirus strain and both formulations are manufactured using a similar process.
+
+                        Common (≥5%) solicited adverse reactions included fussiness/irritability, cough/runny nose, fever, loss of appetite, and vomiting.
+
+                        Solicited adverse reactions, unsolicited adverse events, serious adverse events (SAEs), and cases of intussusception were collected in 7 clinical studies (Studies 1 to 7; NCT00729001, NCT00385320, NCT00429481, NCT00757770, NCT00140686, NCT00169455, NCT00137930). Cases of intussusception and SAEs were collected in an additional large safety study (Study 8; NCT00140673) that compared ROTARIX (reconstituted lyophilized formulation) to placebo. Solicited adverse reactions, unsolicited adverse events, and SAEs were collected in 3 clinical studies (Studies 9 to 11; NCT02914184, NCT03207750, NCT03954743) that compared the two ROTARIX formulations.
+
+                           Clinical Trials Experience with ROTARIX (Reconstituted Lyophilized Formulation)
+
+                        Studies 1 to 8 evaluated a total of 71,209 infants who received ROTARIX (n = 36,755) or placebo (n = 34,454). The racial distribution for these studies was as follows: Hispanic 73.4%, White 16.2%, Black 1.0%, and other 9.4%; 51% were male.
+
+                           Solicited Adverse Reactions: In 7 clinical studies (Studies 1 to 7), detailed safety information was collected by parents/guardians for 8 consecutive days following vaccination with ROTARIX (i.e., day of vaccination and the next 7 days). A diary card was completed to record fussiness/irritability, cough/runny nose, the infant’s temperature, loss of appetite, vomiting, or diarrhea on a daily basis during the first week following each dose of ROTARIX or placebo. Adverse reactions among recipients of ROTARIX and placebo occurred at similar rates (Table 1).
+
+                           Table 1. Solicited Adverse Reactions within 8 Days following Doses 1 and 2 of ROTARIX or Placebo (Total Vaccinated Cohort)
+
+                                 Total vaccinated cohort = All vaccinated infants for whom safety data were available.
+
+n = Number of infants for whom at least one symptom sheet was completed.
+
+                                    a Defined as crying more than usual.
+
+                                    b Data not collected in 1 of 7 studies; Dose 1: ROTARIX n = 2,583; placebo n = 1,897; Dose 2: ROTARIX n = 2,522; placebo n = 1,863.
+
+                                    c Defined as temperature ≥100.4°F (≥38.0°C) rectally or ≥99.5°F (≥37.5°C) orally.
+
+                                    d Defined as eating less than usual. |
+
+                                       Adverse Reaction
+
+                                  |
+
+                                       Dose 1
+
+                                  |
+
+                                       Dose 2
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       n = 3,284
+
+                                  |
+
+                                       n = 2,013
+
+                                  |
+
+                                       n = 3,201
+
+                                  |
+
+                                       n = 1,973
+
+                                  |
+
+                                       %
+
+                                  |
+
+                                       %
+
+                                  |
+
+                                       %
+
+                                  |
+
+                                       %
+
+                                  |
+
+                                    Fussiness/irritabilitya
+
+                                  |
+
+                                    52
+
+                                  |
+
+                                    52
+
+                                  |
+
+                                    42
+
+                                  |
+
+                                    42
+
+                                  |
+
+                                    Cough/runny noseb
+
+                                  |
+
+                                    28
+
+                                  |
+
+                                    30
+
+                                  |
+
+                                    31
+
+                                  |
+
+                                    33
+
+                                  |
+
+                                    Feverc
+
+                                  |
+
+                                    25
+
+                                  |
+
+                                    33
+
+                                  |
+
+                                    28
+
+                                  |
+
+                                    34
+
+                                  |
+
+                                    Loss of appetited
+
+                                  |
+
+                                    25
+
+                                  |
+
+                                    25
+
+                                  |
+
+                                    21
+
+                                  |
+
+                                    21
+
+                                  |
+
+                                    Vomiting
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    Diarrhea
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    3
+
+                                  |
+
+                           Unsolicited Adverse Reactions: Infants were monitored for unsolicited serious and non-SAEs that occurred in the 31-day period following vaccination in 7 clinical studies (Studies 1 to 7). The following adverse reactions occurred at a statistically higher incidence (95% Confidence Interval [CI] of Relative Risk [RR] excluding 1) among recipients of ROTARIX (n = 5,082) as compared with placebo recipients (n = 2,902): irritability (ROTARIX 11.4%, placebo 8.7%) and flatulence (ROTARIX 2.2%, placebo 1.3%).
+
+                           Serious Adverse Reactions: Infants were monitored for SAEs that occurred in the 31-day period following vaccination in 8 clinical studies (Studies 1 to 8). Serious adverse reactions occurred in 1.7% of recipients of ROTARIX (n = 36,755) as compared with 1.9% of placebo recipients (n = 34,454). Among placebo recipients, diarrhea (placebo 0.07%, ROTARIX 0.02%), dehydration (placebo 0.06%, ROTARIX 0.02%), and gastroenteritis (placebo 0.3%, ROTARIX 0.2%) occurred at a statistically higher incidence (95% CI of RR excluding 1) as compared with recipients of ROTARIX.
+
+                           Deaths: During the entire course of 8 clinical studies (Studies 1 to 8), there were 68 (0.19%) deaths following administration of ROTARIX (n = 36,755) and 50 (0.15%) deaths following placebo administration (n = 34,454). The most commonly reported cause of death following vaccination was pneumonia, which was observed in 19 (0.05%) recipients of ROTARIX and 10 (0.03%) placebo recipients (RR: 1.74, 95% CI: 0.76, 4.23).
+
+                           Intussusception: In a controlled safety study (Study 8) conducted in Latin America and Finland, the risk of intussusception was evaluated in 63,225 infants (31,673 received ROTARIX and 31,552 received placebo). Infants were monitored by active surveillance including independent, complementary methods (prospective hospital surveillance and parent reporting at scheduled study visits) to identify potential cases of intussusception within 31 days after vaccination and, in a subset of 20,169 infants (10,159 received ROTARIX and 10,010 received placebo), up to one year after the first dose.
+
+                        No increased risk of intussusception following administration of ROTARIX was observed within a 31-day period following any dose, and rates were comparable to the placebo group after a median of 100 days (Table 2). In a subset of 20,169 infants (10,159 received ROTARIX and 10,010 received placebo) followed up to one year after Dose 1, there were 4 cases of intussusception with ROTARIX compared with 14 cases of intussusception with placebo (RR: 0.28 [95% CI: 0.10, 0.81]). All of the infants who developed intussusception recovered without sequelae.
+
+                           Table 2. Intussusception and Relative Risk with ROTARIX Compared with Placebo
+
+                                 CI = Confidence Interval.
+
+                                    a Median duration after Dose 1 (follow-up visit at 30 to 90 days after Dose 2). |
+
+                                       Confirmed Cases of Intussusception
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       n = 31,673
+
+                                  |
+
+                                       n = 31,552
+
+                                  |
+
+                                       Within 31 days following diagnosis after any dose
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                         Relative Risk (95% CI)
+
+                                  |
+
+                                    0.85 (0.30, 2.42)
+
+                                  |
+
+                                       Within 100 days following Dose 1a
+
+                                  |
+
+                                    9
+
+                                  |
+
+                                    16
+
+                                  |
+
+                                         Relative Risk (95% CI)
+
+                                  |
+
+                                    0.56 (0.25, 1.24)
+
+                                  |
+
+                        Among vaccine recipients, there were no confirmed cases of intussusception within the 0- to 14-day period after the first dose (Table 3), which was the period of highest risk for the previously licensed oral live rhesus rotavirus-based vaccine.1
+
+                           Table 3. Intussusception Cases by Day Range in Relation to Dose
+
+                                       Day Range
+
+                                  |
+
+                                       Dose 1
+
+                                  |
+
+                                       Dose 2
+
+                                  |
+
+                                       Any Dose
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       n = 31,673
+
+                                  |
+
+                                       n = 31,552
+
+                                  |
+
+                                       n = 29,616
+
+                                  |
+
+                                       n = 29,465
+
+                                  |
+
+                                       n = 31,673
+
+                                  |
+
+                                       n = 31,552
+
+                                  |
+
+                                    0-7
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    8-14
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    15-21
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    22-30
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                       Total (0-30)
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    7
+
+                                  |
+
+                           Kawasaki Disease − Results from Controlled and Uncontrolled Clinical Studies: Kawasaki disease has been reported in 18 (0.035%) recipients of ROTARIX and 9 (0.021%) placebo recipients from 16 completed or ongoing clinical trials (Studies 1 to 8; Studies 12 to 14, NCT00425737, NCT00346892, NCT00139347; Studies 15 to 17, NCT00197210 for the 3 studies; Studies 18 and 19, NCT00334607, NCT00382772). Of the 27 cases, 5 occurred following ROTARIX in clinical trials that were either not placebo-controlled or 1:1 randomized. In placebo-controlled trials, Kawasaki disease was reported in 17 recipients of ROTARIX and 9 placebo recipients (RR: 1.71 [95% CI: 0.71, 4.38]). Three of the 27 cases were reported within 30 days post-vaccination: 2 cases (ROTARIX = 1, placebo = 1) were from placebo-controlled trials (RR: 1.00 [95% CI: 0.01, 78.35]) and one case following ROTARIX was from a non–placebo-controlled trial. Among recipients of ROTARIX, the time of onset after study dose ranged 3 days to 19 months.
+
+                           Clinical Trials Comparing the Two ROTARIX Formulations
+
+                        The safety of the ROTARIX liquid formulation was evaluated in 3 randomized clinical studies (Studies 9 to 11). A total of 4,223 infants received ROTARIX (liquid formulation, n = 2,507; reconstituted lyophilized formulation, n = 1,716). The racial distribution for these 3 studies was as follows: Asian 24.4%, White 63.2%, Black or African American 5.1%, and other 7.3%; 49.7% were male.
+
+                        In Study 10, a concomitant vaccine administration study conducted in United States, 1,272 infants received ROTARIX (liquid formulation, n = 632; reconstituted lyophilized formulation, n = 640). The racial distribution for this study was as follows: Asian 3.3%, White 73.8%, Black or African American 11.9%, and other 10.9%; 51.5% were male.
+
+                        In Studies 9 to 11, solicited general adverse reactions (cough/runny nose, diarrhea, fever, irritability/fussiness, loss of appetite and vomiting) were recorded by the parent on diary cards during the 8 days after each vaccination (day of vaccination and 7 following days). Unsolicited adverse events were assessed within 31 days following each vaccination (day of vaccination and 30 following days). SAEs were assessed through 6 months after the last dose.
+
+                           Solicited Adverse Reactions: In Study 10, solicited adverse reactions among recipients of the two ROTARIX formulations are presented in the Table 4:
+
+                           Table 4. Solicited Adverse Reactions within 8 Days following Doses 1 and 2 of ROTARIX (Liquid or Reconstituted Lyophilized Formulation), Study 10 Total Vaccinated Cohort
+
+                                 G3 = Grade 3.
+
+Total vaccinated cohort = All vaccinated infants for whom safety data were available.
+
+n = Number of infants who received the specified dose.
+
+                                    a Overall: Defined as crying more than usual. Grade 3: Crying that could not be comforted/prevented normal activity.
+
+                                    b Grade 3 cough/runny nose: cough/runny nose that prevented daily activity.
+
+                                    c Overall: Defined as temperature ≥100.4°F (≥38.0°C). Grade 3: Defined as temperature >103.1 F (>39.5°C).
+
+                                    d Overall: Defined as eating less than usual. Grade 3: Defined as not eating at all.
+
+                                    e Overall: Defined as 1 or more episodes of forceful emptying of partially digested stomach contents ≥1 hour after feeding within a day. Grade 3: ≥3 episodes of vomiting/day.
+
+                                    f Overall: Defined as passage of 3 or more looser than normal stools within a day. Grade 3: ≥6 looser than normal stools/day. |
+
+                                       Adverse Reactions
+
+                                  |
+
+                                       Dose 1
+
+                                  |
+
+                                       Dose 2
+
+                                  |
+
+                                       ROTARIX (Liquid Formulation)
+
+                                       n = 632
+
+                                  |
+
+                                       ROTARIX (Reconstituted Lyophilized Formulation)
+
+                                       n = 640
+
+                                  |
+
+                                       ROTARIX
+
+                                       (Liquid Formulation)
+
+                                       n = 607
+
+                                  |
+
+                                       ROTARIX (Reconstituted Lyophilized Formulation)
+
+                                       n = 609
+
+                                  |
+
+                                       Overall%
+
+                                  |
+
+                                       G3%
+
+                                  |
+
+                                       Overall%
+
+                                  |
+
+                                       G3%
+
+                                  |
+
+                                       Overall%
+
+                                  |
+
+                                       G3%
+
+                                  |
+
+                                       Overall%
+
+                                  |
+
+                                       G3%
+
+                                  |
+
+                                    Fussiness/irritabilitya
+
+                                  |
+
+                                    70.9
+
+                                  |
+
+                                    9.2
+
+                                  |
+
+                                    71.6
+
+                                  |
+
+                                    8.8
+
+                                  |
+
+                                    72.5
+
+                                  |
+
+                                    13.7
+
+                                  |
+
+                                    70.1
+
+                                  |
+
+                                    11.8
+
+                                  |
+
+                                    Cough/runny noseb
+
+                                  |
+
+                                    27.2
+
+                                  |
+
+                                    0.5
+
+                                  |
+
+                                    28.1
+
+                                  |
+
+                                    1.3
+
+                                  |
+
+                                    36.9
+
+                                  |
+
+                                    3.8
+
+                                  |
+
+                                    36.5
+
+                                  |
+
+                                    3.6
+
+                                  |
+
+                                    Feverc
+
+                                  |
+
+                                    5.7
+
+                                  |
+
+                                    0.3
+
+                                  |
+
+                                    5.0
+
+                                  |
+
+                                    0.3
+
+                                  |
+
+                                    10.5
+
+                                  |
+
+                                    0.3
+
+                                  |
+
+                                    12.3
+
+                                  |
+
+                                    0.7
+
+                                  |
+
+                                    Loss of appetited
+
+                                  |
+
+                                    32.3
+
+                                  |
+
+                                    0.2
+
+                                  |
+
+                                    33.4
+
+                                  |
+
+                                    0.9
+
+                                  |
+
+                                    29.5
+
+                                  |
+
+                                    1.2
+
+                                  |
+
+                                    29.2
+
+                                  |
+
+                                    1.8
+
+                                  |
+
+                                    Vomitinge
+
+                                  |
+
+                                    17.4
+
+                                  |
+
+                                    2.8
+
+                                  |
+
+                                    16.4
+
+                                  |
+
+                                    3.4
+
+                                  |
+
+                                    13.7
+
+                                  |
+
+                                    4.0
+
+                                  |
+
+                                    12.8
+
+                                  |
+
+                                    3.3
+
+                                  |
+
+                                    Diarrheaf
+
+                                  |
+
+                                    6.2
+
+                                  |
+
+                                    0.2
+
+                                  |
+
+                                    5.6
+
+                                  |
+
+                                    0.8
+
+                                  |
+
+                                    5.6
+
+                                  |
+
+                                    0.5
+
+                                  |
+
+                                    4.3
+
+                                  |
+
+                                    0.3
+
+                                  |
+
+                           Unsolicited Adverse Events: Infants were monitored for unsolicited serious and non-SAEs that occurred in the 31-day period following vaccination in Studies 9 to 11. There were no notable differences in the occurrence and frequency of unsolicited adverse events between the groups.
+
+                           Serious Adverse Events: During the entire course of Studies 9 to 11, SAEs occurred in 4.7% of recipients of ROTARIX liquid formulation (n = 2,507) as compared with 4.4% of ROTARIX reconstituted lyophilized formulation recipients (n = 1,716).
+
+                        During the entire course of Studies 9 to 11, there was 1 fatal SAE (with diagnosis of sudden infant death syndrome) following administration of ROTARIX liquid formulation (Study 10). The SAE was assessed as not causally related to the vaccination.
+
+                        Among infants in Studies 9 to 11, 2 intussusception cases were reported. One infant from Study 10 experienced intussusception 8 days after receiving the second dose of ROTARIX (reconstituted lyophilized formulation). The event was considered possibly related to ROTARIX. One infant from Study 9 experienced intussusception 133 days after receiving the second dose of ROTARIX (liquid formulation); the event was not considered related to ROTARIX. Both infants were hospitalized, and the outcome of intussusception was reported as resolved.

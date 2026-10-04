@@ -1,0 +1,17 @@
+DailyMed 761dc0f8-2f65-4615-ab49-a4bcffd40ce9 | Tadalafil | 8.1 Pregnancy
+
+Risk Summary
+
+                        Tadalafil is not indicated for use in females.
+
+                        There are no data with the use of tadalafil in pregnant women to inform any drug-associated risks for adverse developmental outcomes. In animal reproduction studies, no adverse developmental effects were observed with oral administration of tadalafil to pregnant rats or mice during organogenesis at exposures up to 11 times the maximum recommended human dose (MRHD) of 20 mg/day (see Data).
+
+                           Data
+
+                           Animal Data
+
+                        Animal reproduction studies showed no evidence of teratogenicity, embryotoxicity, or fetotoxicity when tadalafil was given orally to pregnant rats or mice at exposures up to 11 times the maximum recommended human dose (MRHD) of 20 mg/day during organogenesis. In a prenatal/postnatal developmental studies in rats, postnatal pup survival decreased following maternal exposure to tadalafil doses greater than 10 times the MRHD based on AUC. Signs of maternal toxicity occurred at doses greater than 16 times the MRHD based on AUC. Surviving offspring had normal development and reproductive performance.
+
+                        In another rat prenatal and postnatal development study at doses of 60 mg/kg, 200 mg/kg, and 1000 mg/kg, a reduction in postnatal survival of pups was observed. The no observed effect level (NOEL) for maternal toxicity was 200 mg/kg/day and for developmental toxicity was 30 mg/kg/day. This gives approximately 16 and 10 fold exposure multiples, respectively, of the human AUC for the MRHD of 20 mg.
+
+                        Tadalafil and/or its metabolites cross the placenta, resulting in fetal exposure in rats.

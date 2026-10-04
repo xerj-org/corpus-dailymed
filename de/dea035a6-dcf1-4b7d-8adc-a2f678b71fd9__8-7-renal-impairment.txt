@@ -1,0 +1,4 @@
+DailyMed dea035a6-dcf1-4b7d-8adc-a2f678b71fd9 | Celecoxib | 8.7 Renal Impairment
+
+Celecoxib is not recommended in patients with severe renal insufficiency [see Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)
+                           ].

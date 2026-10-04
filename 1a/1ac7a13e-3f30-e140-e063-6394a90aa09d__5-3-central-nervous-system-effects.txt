@@ -1,0 +1,11 @@
+DailyMed 1ac7a13e-3f30-e140-e063-6394a90aa09d | Valacyclovir | 5.3 Central Nervous System Effects
+
+Central nervous system adverse reactions, including agitation, hallucinations, confusion, delirium, seizures, and encephalopathy, have been reported in both adult and pediatric patients with or without reduced renal function and in patients with underlying renal disease who received higher-than-recommended doses of valacyclovir tablets for their level of renal function. Elderly patients are more likely to have central nervous system adverse reactions. Valacyclovir tablets should be discontinued if central nervous system adverse reactions occur
+
+  [see
+
+   Adverse Reactions (6.3),
+
+   Use in Specific Populations (8.5,
+
+   8.6)].

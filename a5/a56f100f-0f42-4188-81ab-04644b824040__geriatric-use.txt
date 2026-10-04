@@ -1,0 +1,9 @@
+DailyMed a56f100f-0f42-4188-81ab-04644b824040 | Glyburide | Geriatric Use
+
+Elderly patients are particularly susceptible to the hypoglycemic action of glucose lowering drugs. Hypoglycemia may be difficult to recognize in the elderly (see
+                              PRECAUTIONS
+                           ). The initial and maintenance dosing should be conservative to avoid hypoglycemic reactions (see
+                              DOSAGE AND ADMINISTRATION
+                           ).
+
+                        Elderly patients are prone to develop renal insufficiency, which may put them at risk of hypoglycemia. Dose selection should include assessment of renal function.

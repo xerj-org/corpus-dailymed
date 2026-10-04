@@ -1,0 +1,3 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 7.5 Cyclosporine
+
+Concomitant administration of oral or intravenous nicardipine and cyclosporine results in elevated plasma cyclosporine levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4. Monitor closely plasma concentrations of cyclosporine during nicardipine hydrochloride injection administration, and adjust the dose of cyclosporine accordingly.

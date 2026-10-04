@@ -1,0 +1,5 @@
+DailyMed 6faf465b-c3a3-4ae7-9e16-1ba758f6962a | Pantoprazole Sodium | Male and Female Patients
+
+There is a modest increase in pantoprazole AUC and Cmax in women compared to men. However, weight-normalized clearance values are similar in women and men.
+
+                                    In pediatric patients ages 1 through 16 years there were no clinically relevant effects of gender on clearance of pantoprazole, as shown by population pharmacokinetic analysis.

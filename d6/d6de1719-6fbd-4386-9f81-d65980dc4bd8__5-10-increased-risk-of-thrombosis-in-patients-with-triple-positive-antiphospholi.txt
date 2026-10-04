@@ -1,0 +1,3 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 5.10 Increased Risk of Thrombosis in Patients with Triple Positive Antiphospholipid Syndrome
+
+Direct-acting oral anticoagulants (DOACs), including rivaroxaban, are not recommended for use in patients with triple-positive antiphospholipid syndrome (APS). For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardiolipin, and anti-beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.

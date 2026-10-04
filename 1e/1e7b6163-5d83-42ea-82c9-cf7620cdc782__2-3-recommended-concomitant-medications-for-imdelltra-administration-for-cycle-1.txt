@@ -1,0 +1,18 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 2.3 Recommended Concomitant Medications for IMDELLTRA Administration for Cycle 1 Day 1 and Cycle 1 Day 8
+
+Administer recommended concomitant medications for IMDELLTRA during Cycle 1 Day 1 and Cycle 1 Day 8 as presented in Table 3 to reduce the risk of CRS [see Warnings and Precautions (5.1)].
+
+                           Table 3. Recommended Concomitant Medications for IMDELLTRA Administration for Cycle 1 Day 1 and Cycle 1 Day 8
+
+                                    Treatment Day
+                                  |
+                                 Medication |
+                                 Administration |
+
+                                    Cycle 1 Day 1 and Cycle 1 Day 8
+                                  |
+                                 Administer dexamethasone 8 mg intravenously (or equivalent) |
+                                 Within 1 hour prior to IMDELLTRA administration |
+
+                                 Administer 1 liter of normal saline intravenously over 2 to 4 hours |
+                                 Immediately after completion of IMDELLTRA infusion |

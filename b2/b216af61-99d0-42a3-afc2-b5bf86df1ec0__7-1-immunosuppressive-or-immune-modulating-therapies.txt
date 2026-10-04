@@ -1,0 +1,3 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 7.1 Immunosuppressive or Immune-Modulating Therapies
+
+The concomitant use of OCREVUS ZUNOVO and other immune-modulating or immunosuppressive therapies, including immunosuppressant doses of corticosteroids, is expected to increase the risk of immunosuppression. Consider the risk of additive immune system effects when coadministering immunosuppressive therapies with OCREVUS ZUNOVO. When switching from drugs with prolonged immune effects, such as daclizumab, fingolimod, natalizumab, teriflunomide, or mitoxantrone, consider the duration and mode of action of these drugs because of additive immunosuppressive effects when initiating OCREVUS ZUNOVO [see Warnings and Precautions (5.2)].

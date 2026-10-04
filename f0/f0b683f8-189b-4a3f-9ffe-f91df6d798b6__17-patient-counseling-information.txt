@@ -1,0 +1,7 @@
+DailyMed f0b683f8-189b-4a3f-9ffe-f91df6d798b6 | Ascorbic acid | 17 PATIENT COUNSELING INFORMATION
+
+Inform patients that treatment with ascorbic acid injection may increase their risk of oxalate nephropathy [see Warnings and Precautions (5.1)].
+
+                     Inform patients that treatment with ascorbic acid injection may impact laboratory results, including blood and urine glucose tests, up to 24 hours after infusion [see Warnings and Precautions (5.3)].
+
+                     Inform patients with glucose-6-phosphate dehydrogenase deficiency that treatment with ascorbic acid injection may increase their risk of hemolysis [see Warnings and Precautions (5.2)].

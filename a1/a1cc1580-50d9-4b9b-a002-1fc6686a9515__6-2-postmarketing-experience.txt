@@ -1,0 +1,11 @@
+DailyMed a1cc1580-50d9-4b9b-a002-1fc6686a9515 | Nelarabine | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of nelarabine injection. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Infections and Infestations: Fatal opportunistic infections
+
+                           Metabolism and Nutrition Disorders: Tumor lysis syndrome
+
+                           Nervous System Disorders: Demyelination and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome
+
+                           Musculoskeletal and Connective Disorders: Rhabdomyolysis, blood creatine phosphokinase increased

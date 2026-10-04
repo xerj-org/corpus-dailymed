@@ -1,0 +1,21 @@
+DailyMed a50eb0b4-1bee-4781-8eba-75e324540d36 | Ticagrelor | 8.1 Pregnancy
+
+Risk Summary
+
+Available data from case reports with ticagrelor use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Ticagrelor given to pregnant rats and pregnant rabbits during organogenesis caused structural abnormalities in the offspring at maternal doses about 5 to 7 times the maximum recommended human dose (MRHD) based on body surface area. When ticagrelor was given to rats during late gestation and lactation, pup death and effects on pup growth were seen at approximately 10 times the MRHD (see Data).
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+                           Animal Data
+
+In reproductive toxicology studies, pregnant rats received ticagrelor during organogenesis at doses from 20 to 300 mg/kg/day. 20 mg/kg/day is approximately the same as the MRHD of 90 mg twice daily for a 60 kg human on a mg/m
+  2 basis. Adverse outcomes in offspring occurred at doses of 300 mg/kg/day (16.5 times the MRHD on a mg/m
+  2 basis) and included supernumerary liver lobe and ribs, incomplete ossification of sternebrae, displaced articulation of pelvis, and misshapen/misaligned sternebrae. At the mid-dose of 100 mg/kg/day (5.5 times the MRHD on a mg/m
+  2 basis), delayed development of liver and skeleton was seen. When pregnant rabbits received ticagrelor during organogenesis at doses from 21 to 63 mg/kg/day, fetuses exposed to the highest maternal dose of 63 mg/kg/day (6.8 times the MRHD on a mg/m
+  2 basis) had delayed gall bladder development and incomplete ossification of the hyoid, pubis and sternebrae occurred.
+
+                        In a prenatal/postnatal study, pregnant rats received ticagrelor at doses of 10 to 180 mg/kg/day during late gestation and lactation. Pup death and effects on pup growth were observed at 180 mg/kg/day (approximately 10 times the MRHD on a mg/m
+  2 basis). Relatively minor effects such as delays in pinna unfolding and eye opening occurred at doses of 10 and 60 mg/kg (approximately one-half and 3.2 times the MRHD on a mg/m
+  2 basis).

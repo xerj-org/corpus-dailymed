@@ -1,0 +1,44 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety profile of ADZYNMA was evaluated in one, prospective, randomized, active-controlled, open-label, multicenter, two-period crossover study (Study 1) that treated 48 patients who had been previously exposed to ADAMTS13 through plasma-based products. Patients received ADZYNMA at the dose of 40 IU/kg/dose. The adverse drug reactions (ADR) are listed in
+                              Table 2
+                           .
+
+                           Table 2: Adverse Reactions Reported in >5% of Patients Treated with ADZYNMA
+
+                                 Adverse Reaction |
+                                 ADZYNMA (N= 48)
+
+n (%)Percentages by patient were calculated using the number of all subjects who had the listed adverse event.
+
+                                  |
+
+                                 N = Total number of patients treated with ADZYNMA in Study 1.
+
+n = Number of patients who had at least one event in the category. |
+
+                                 Headache |
+                                 15 (31.3) |
+
+                                 Diarrhea |
+                                 8 (16.7) |
+
+                                 Migraine |
+                                 7 (14.6) |
+
+                                 Abdominal pain |
+                                 6 (12.5) |
+
+                                 Nausea |
+                                 6 (12.5) |
+
+                                 Upper respiratory tract infection |
+                                 6 (12.5) |
+
+                                 Dizziness |
+                                 5 (10.4) |
+
+                                 Vomiting |
+                                 5 (10.4) |

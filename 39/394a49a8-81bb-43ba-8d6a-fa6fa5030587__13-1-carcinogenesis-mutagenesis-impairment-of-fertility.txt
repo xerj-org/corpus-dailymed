@@ -1,0 +1,5 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No evidence of a tumorigenic effect was found when ramipril was given by gavage to rats for up to 24 months at doses of up to 500 mg/kg/day or to mice for up to 18 months at doses of up to 1000 mg/kg/day. (For either species, these doses are about 200 times the maximum recommended human dose when compared on the basis of body surface area.) No mutagenic activity was detected in the Ames test in bacteria, the micronucleus test in mice, unscheduled DNA synthesis in a human cell line, or a forward gene-mutation assay in a Chinese hamster ovary cell line. Several metabolites and degradation products of ramipril were also negative in the Ames test. A study in rats with dosages as great as 500 mg/kg/day did not produce adverse effects on fertility.
+
+  No teratogenic effects of ramipril were seen in studies of pregnant rats, rabbits, and cynomolgus monkeys. On a body surface area basis, the doses used were up to approximately 400 times (in rats and monkeys) and 2 times (in rabbits) the recommended human dose.

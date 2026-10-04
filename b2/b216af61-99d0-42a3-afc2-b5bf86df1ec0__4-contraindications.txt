@@ -1,0 +1,9 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 4 CONTRAINDICATIONS
+
+OCREVUS ZUNOVO is contraindicated in patients with:
+
+                     Active HBV infection [see Dosage and Administration (2.2) and Warnings and Precautions (5.2)]
+
+                     A history of life-threatening administration reaction to ocrelizumab [see Warnings and Precautions (5.1)]
+
+                     A history of hypersensitivity to ocrelizumab, hyaluronidase, or any component of OCREVUS ZUNOVO [see Warnings and Precautions (5.1)].

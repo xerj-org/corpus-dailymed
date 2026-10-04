@@ -1,0 +1,3 @@
+DailyMed ddab5235-1188-3866-e053-2a95a90a7a31 | Medline | Change to Uses section
+
+Added word to Uses section that was inadvertently missed, but present on current labeling.

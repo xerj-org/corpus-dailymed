@@ -1,0 +1,5 @@
+DailyMed 2f94f711-14c4-48ec-c5a3-c5ec4b8e8729 | Lidocaine Hydrochloride and Epinephrine | 12.1 Mechanism of Action
+
+Lidocaine hydrochloride stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses thereby effecting local anesthetic action.
+
+                        Epinephrine is a vasoconstrictor added to lidocaine to slow absorption into the general circulation and thus prolong maintenance of an active tissue concentration.

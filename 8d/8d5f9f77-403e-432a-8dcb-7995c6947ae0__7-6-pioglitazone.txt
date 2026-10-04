@@ -1,0 +1,3 @@
+DailyMed 8d5f9f77-403e-432a-8dcb-7995c6947ae0 | Topiramate | 7.6 Pioglitazone
+
+A decrease in the exposure of pioglitazone and its active metabolites were noted with the concurrent use of pioglitazone and immediate-release topiramate in a clinical trial. The clinical relevance of these observations is unknown; however, when topiramate extended-release capsules are added to pioglitazone therapy or pioglitazone is added to topiramate extended-release capsules therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state [see Clinical Pharmacology (12.3)].

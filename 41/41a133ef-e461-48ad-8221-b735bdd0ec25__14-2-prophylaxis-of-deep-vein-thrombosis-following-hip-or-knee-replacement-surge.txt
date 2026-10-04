@@ -1,0 +1,579 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | 14.2 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+
+The clinical evidence for the effectiveness of ELIQUIS is derived from the ADVANCE-1, ADVANCE-2, and ADVANCE-3 clinical trials in adult patients undergoing elective hip (ADVANCE-3) or knee (ADVANCE-2 and ADVANCE-1) replacement surgery. A total of 11,659 patients were randomized in 3 double-blind, multi-national studies. Included in this total were 1866 patients age 75 or older, 1161 patients with low body weight (≤60 kg), 2528 patients with Body Mass Index ≥33 kg/m
+
+  2, and 625 patients with severe or moderate renal impairment.
+
+                        In the ADVANCE-3 study, 5407 patients undergoing elective hip replacement surgery were randomized to receive either ELIQUIS 2.5 mg orally twice daily or enoxaparin 40 mg subcutaneously once daily. The first dose of ELIQUIS was given 12 to 24 hours post surgery, whereas enoxaparin was started 9 to 15 hours prior to surgery. Treatment duration was 32 to 38 days.
+
+                        In patients undergoing elective knee replacement surgery, ELIQUIS 2.5 mg orally twice daily was compared to enoxaparin 40 mg subcutaneously once daily (ADVANCE-2, N=3057) or enoxaparin 30 mg subcutaneously every 12 hours (ADVANCE-1, N=3195). In the ADVANCE-2 study, the first dose of ELIQUIS was given 12 to 24 hours post surgery, whereas enoxaparin was started 9 to 15 hours prior to surgery. In the ADVANCE-1 study, both ELIQUIS and enoxaparin were initiated 12 to 24 hours post surgery. Treatment duration in both ADVANCE-2 and ADVANCE-1 was 10 to 14 days.
+
+                        In all 3 studies, the primary endpoint was a composite of adjudicated asymptomatic and symptomatic DVT, nonfatal PE, and all-cause death at the end of the double-blind intended treatment period. In ADVANCE-3 and ADVANCE-2, the primary endpoint was tested for noninferiority, then superiority, of ELIQUIS to enoxaparin. In ADVANCE-1, the primary endpoint was tested for noninferiority of ELIQUIS to enoxaparin.
+
+                        The efficacy data are provided in Tables 11 and 12.
+
+                           Table 11:      Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Hip Replacement Surgery*
+
+                                 *   Events associated with each endpoint were counted once per subject but subjects may have contributed events to multiple endpoints.
+
+                                    †   Total VTE includes symptomatic and asymptomatic DVT and PE.
+
+                                    ‡   Includes symptomatic and asymptomatic DVT.
+
+     |
+
+                                  |
+
+                                       ADVANCE-3
+
+                                  |
+                                  |
+
+                                    Events During 35-Day Treatment Period
+
+                                  |
+
+                                    ELIQUIS
+
+  2.5 mg po bid
+
+                                  |
+
+                                    Enoxaparin
+
+  40 mg sc qd
+
+                                  |
+
+                                    Relative Risk
+
+  (95% CI)
+
+  P-value
+
+                                  |
+
+                                       Number of Patients
+
+                                  |
+
+                                       N=1949
+
+                                  |
+
+                                       N=1917
+
+                                  |
+                                  |
+
+                                    Total VTE
+
+      †/All-cause death
+
+                                  |
+
+                                    27 (1.39%)
+
+  (0.95, 2.02)
+
+                                  |
+
+                                    74 (3.86%)
+
+  (3.08, 4.83)
+
+                                  |
+
+                                    0.36
+
+  (0.22, 0.54)
+
+  p<0.0001
+
+                                  |
+
+                                       Number of Patients
+
+                                  |
+
+                                       N=2708
+
+                                  |
+
+                                       N=2699
+
+                                  |
+                                  |
+
+                                      All-cause death
+
+                                  |
+
+                                    3 (0.11%)
+
+  (0.02, 0.35)
+
+                                  |
+
+                                    1 (0.04%)
+
+  (0.00, 0.24)
+
+                                  |
+                                  |
+
+                                      PE
+
+                                  |
+
+                                    3 (0.11%)
+
+  (0.02, 0.35)
+
+                                  |
+
+                                    5 (0.19%)
+
+  (0.07, 0.45)
+
+                                  |
+                                  |
+
+                                      Symptomatic DVT
+
+                                  |
+
+                                    1 (0.04%)
+
+  (0.00, 0.24)
+
+                                  |
+
+                                    5 (0.19%)
+
+  (0.07, 0.45)
+
+                                  |
+                                  |
+
+                                       Number of Patients
+
+                                  |
+
+                                       N=2196
+
+                                  |
+
+                                       N=2190
+
+                                  |
+                                  |
+
+                                      Proximal DVT
+
+      ‡
+
+                                  |
+
+                                    7 (0.32%)
+
+  (0.14, 0.68)
+
+                                  |
+
+                                    20 (0.91%)
+
+  (0.59, 1.42)
+
+                                  |
+                                  |
+
+                                       Number of Patients
+
+                                  |
+
+                                       N=1951
+
+                                  |
+
+                                       N=1908
+
+                                  |
+                                  |
+
+                                      Distal DVT
+
+      ‡
+
+                                  |
+
+                                    20 (1.03%)
+
+  (0.66, 1.59)
+
+                                  |
+
+                                    57 (2.99%)
+
+  (2.31, 3.86)
+
+                                  |
+                                  |
+
+                           Table 12:     Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Knee Replacement Surgery*
+
+                                  |
+
+                                    ADVANCE-1
+                                  |
+
+                                    ADVANCE-2
+                                  |
+
+                                 *   Events associated with each endpoint were counted once per subject but subjects may have contributed events to multiple endpoints.
+
+                                    †   Total VTE includes symptomatic and asymptomatic DVT and PE.
+
+                                    ‡   Includes symptomatic and asymptomatic DVT.
+
+     |
+
+                                    Events during
+
+  12-day treatment period
+
+                                  |
+
+                                    ELIQUIS
+
+  2.5 mg po bid
+
+                                  |
+
+                                    Enoxaparin
+
+  30 mg sc q12h
+
+                                  |
+
+                                    Relative Risk
+
+  (95% CI)
+
+  P-value
+
+                                  |
+
+                                    ELIQUIS
+
+  2.5 mg po bid
+
+                                  |
+
+                                    Enoxaparin
+
+  40 mg sc
+
+                                    qd
+
+                                  |
+
+                                    Relative Risk
+
+  (95% CI)
+
+                                    P-value
+
+                                  |
+
+                                       Number of Patients
+
+                                  |
+
+                                       N=1157
+
+                                  |
+
+                                       N=1130
+
+                                  |
+                                  |
+
+                                       N=976
+
+                                  |
+
+                                       N=997
+
+                                  |
+                                  |
+
+                                    Total VTE
+
+      †/All-cause death
+
+                                  |
+
+                                    104 (8.99%)
+
+  (7.47, 10.79)
+
+                                  |
+
+                                    100 (8.85%)
+
+  (7.33, 10.66)
+
+                                  |
+
+                                    1.02
+
+  (0.78, 1.32)
+
+  NS
+
+                                  |
+
+                                    147 (15.06%)
+
+  (12.95, 17.46)
+
+                                  |
+
+                                    243 (24.37%)
+
+  (21.81, 27.14)
+
+                                  |
+
+                                    0.62
+
+  (0.51, 0.74)
+
+  p<0.0001
+
+                                  |
+
+                                       Number of Patients
+
+                                  |
+
+                                       N=1599
+
+                                  |
+
+                                       N=1596
+
+                                  |
+                                  |
+
+                                       N=1528
+
+                                  |
+
+                                       N=1529
+
+                                  |
+                                  |
+
+                                      All-cause death
+
+                                  |
+
+                                    3 (0.19%)
+
+  (0.04, 0.59)
+
+                                  |
+
+                                    3 (0.19%)
+
+  (0.04, 0.59)
+
+                                  |
+                                  |
+
+                                    2 (0.13%)
+
+  (0.01, 0.52)
+
+                                  |
+
+                                    0 (0%)
+
+  (0.00, 0.31)
+
+                                  |
+                                  |
+
+                                      PE
+
+                                  |
+
+                                    16 (1.0%)
+
+  (0.61, 1.64)
+
+                                  |
+
+                                    7 (0.44%)
+
+  (0.20, 0.93)
+
+                                  |
+                                  |
+
+                                    4 (0.26%)
+
+  (0.08, 0.70)
+
+                                  |
+
+                                    0 (0%)
+
+  (0.00, 0.31)
+
+                                  |
+                                  |
+
+                                      Symptomatic
+
+    DVT
+
+                                  |
+
+                                    3 (0.19%)
+
+  (0.04, 0.59)
+
+                                  |
+
+                                    7 (0.44%)
+
+  (0.20, 0.93)
+
+                                  |
+                                  |
+
+                                    3 (0.20%)
+
+  (0.04, 0.61)
+
+                                  |
+
+                                    7 (0.46%)
+
+  (0.20, 0.97)
+
+                                  |
+                                  |
+
+                                       Number of Patients
+
+                                  |
+
+                                       N=1254
+
+                                  |
+
+                                       N=1207
+
+                                  |
+                                  |
+
+                                       N=1192
+
+                                  |
+
+                                       N=1199
+
+                                  |
+                                  |
+
+                                      Proximal DVT
+
+      ‡
+
+                                  |
+
+                                    9 (0.72%)
+
+  (0.36, 1.39)
+
+                                  |
+
+                                    11 (0.91%)
+
+  (0.49, 1.65)
+
+                                  |
+                                  |
+
+                                    9 (0.76%)
+
+  (0.38, 1.46)
+
+                                  |
+
+                                    26 (2.17%)
+
+  (1.47, 3.18)
+
+                                  |
+                                  |
+
+                                       Number of Patients
+
+                                  |
+
+                                       N=1146
+
+                                  |
+
+                                       N=1133
+
+                                  |
+                                  |
+
+                                       N=978
+
+                                  |
+
+                                       N=1000
+
+                                  |
+                                  |
+
+                                      Distal DVT
+
+      ‡
+
+                                  |
+
+                                    83 (7.24%)
+
+  (5.88, 8.91)
+
+                                  |
+
+                                    91 (8.03%)
+
+  (6.58, 9.78)
+
+                                  |
+                                  |
+
+                                    142 (14.52%)
+
+  (12.45, 16.88)
+
+                                  |
+
+                                    239 (23.9%)
+
+  (21.36, 26.65)
+
+                                  |
+                                  |
+
+                        The efficacy profile of ELIQUIS was generally consistent across subgroups of interest for this indication (e.g., age, gender, race, body weight, renal impairment).

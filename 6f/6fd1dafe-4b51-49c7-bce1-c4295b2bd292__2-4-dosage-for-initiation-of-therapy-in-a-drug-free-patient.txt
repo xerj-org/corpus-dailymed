@@ -1,0 +1,5 @@
+DailyMed 6fd1dafe-4b51-49c7-bce1-c4295b2bd292 | Nicardipine Hydrochloride | 2.4 Dosage for Initiation of Therapy in a Drug-Free Patient
+
+The time course of blood pressure decrease is dependent on the initial rate of infusion and the frequency of dosage adjustment. Nicardipine hydrochloride injection is administered by slow continuous infusion at a concentration of 0.1 mg/mL. With constant infusion, blood pressure begins to fall within minutes. It reaches about 50% of its ultimate decrease in about 45 minutes.
+
+                        When treating acute hypertensive episodes in patients with chronic hypertension, discontinuation of infusion is followed by a 50% offset of action in 30 minutes plus/minus 7 minutes but plasma levels of drug and gradually decreasing antihypertensive effects exist for many hours.

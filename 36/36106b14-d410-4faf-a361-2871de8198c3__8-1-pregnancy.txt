@@ -1,0 +1,37 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy exposure registry that monitors outcomes in women who become pregnant while taking UBRELVY. Patients should be encouraged to enroll by calling 1-833-277-0206 or visiting
+
+  http://empresspregnancyregistry.com.
+
+                           Risk Summary
+
+                        There are no adequate data on the developmental risk associated with the use of UBRELVY in pregnant women. In animal studies, adverse effects on embryofetal development were observed following administration of ubrogepant during pregnancy (increased embryofetal mortality in rabbits) or during pregnancy and lactation (decreased body weight in offspring in rats) at doses greater than those used clinically and which were associated with maternal toxicity
+
+                           (
+                           see
+
+                              Data
+
+                           ). 
+
+                        In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2-4% and 15-20%, respectively. The estimated rate of major birth defects (2.2% -2.9%) and miscarriage (17%) among deliveries to women with migraine are similar to rates reported in women without migraine.
+
+                           Clinical Considerations
+
+                           Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+                        Published data have suggested that women with migraine may be at increased risk of preeclampsia and gestational hypertension during pregnancy.
+
+                           Data
+
+                           Animal
+                           Data
+
+                        Oral administration of ubrogepant (0, 1.5, 5, 25, 125 mg/kg/day) to pregnant rats during the period of organogenesis resulted in no adverse effects on embryofetal development. Plasma exposure (AUC) at the highest dose tested is approximately 45 times that in humans at the maximum recommended human dose  (MRHD) of 200 mg/day.
+
+                        In pregnant rabbits, ubrogepant (0, 15, 45, 75, or 250 mg/kg/day) was administered orally throughout organogenesis in two separate studies. In both studies, the highest dose tested (250 mg/kg/day) was associated with maternal toxicity. In the first study, ubrogepant produced abortion and increased embryofetal mortality in surviving litters at the high dose (250 mg/kg/day). In the second study, excessive maternal toxicity at the high dose (250 mg/kg/day) resulted in early termination and lack of fetal data for that dose group. Plasma exposure (AUC) at the highest no-effect dose (75 mg/kg/day) for adverse effects on embryofetal development in rabbit is approximately 8 times that in humans at the MRHD.
+
+                        Oral administration of ubrogepant (0, 25, 60, or 160 mg/kg/day) to rats throughout gestation and lactation resulted in decreased body weight in offspring at birth and during the lactation period at the mid and high doses, which were associated with maternal toxicity. Plasma exposure (AUC) at the no-effect dose for adverse effects on pre- and postnatal development in rats (25 mg/kg/day) is approximately 15 times that in humans at the MRHD.

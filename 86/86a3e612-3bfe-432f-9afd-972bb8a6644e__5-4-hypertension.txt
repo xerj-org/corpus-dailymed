@@ -1,0 +1,9 @@
+DailyMed 86a3e612-3bfe-432f-9afd-972bb8a6644e | Naproxen | 5.4 Hypertension
+
+NSAIDs, including naproxen tablets and naproxen sodium tablets, can lead to new onset of hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events. Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs
+
+  [see
+
+   Drug Interactions (7)].
+
+                        Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.

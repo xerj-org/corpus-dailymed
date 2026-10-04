@@ -1,0 +1,5 @@
+DailyMed b4b9b66e-87a1-4dbb-9eaf-71221bcb2265 | mirtazapine | 12.1 Mechanism of Action
+
+The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear. However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α
+
+  2-adrenergic inhibitory autoreceptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity.

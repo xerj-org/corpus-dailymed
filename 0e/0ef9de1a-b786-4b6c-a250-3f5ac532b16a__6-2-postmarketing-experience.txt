@@ -1,0 +1,5 @@
+DailyMed 0ef9de1a-b786-4b6c-a250-3f5ac532b16a | METFORMIN HYDROCHLORIDE | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of metformin hydrochloride extended-release tablets. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        Cholestatic, hepatocellular, and mixed hepatocellular liver injury have been reported with postmarketing use of metformin.

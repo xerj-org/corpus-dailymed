@@ -1,0 +1,7 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 10 OVERDOSAGE
+
+No specific information is available on the treatment of overdosage with Ertapenem for injection. Intentional overdosing of Ertapenem for injection is unlikely. Intravenous administration of Ertapenem for injection at a dose of 2 g over 30 min or 3 g over 1-2h in healthy adult volunteers resulted in an increased incidence of nausea. In clinical trials in adults, inadvertent administration of three 1 g doses of Ertapenem for injection in a 24 hour period resulted in diarrhea and transient dizziness in one patient. In pediatric clinical trials, a single intravenous dose of 40 mg/kg up to a maximum of 2 g did not result in toxicity.
+
+                  In the event of an overdose, Ertapenem for injection should be discontinued and general supportive treatment given until renal elimination takes place.
+
+                  Ertapenem for injection can be removed by hemodialysis; the plasma clearance of the total fraction of ertapenem was increased 30% in subjects with end-stage renal disease when hemodialysis (4 hour session) was performed immediately following administration. However, no information is available on the use of hemodialysis to treat overdosage.

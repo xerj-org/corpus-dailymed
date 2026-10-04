@@ -1,0 +1,5 @@
+DailyMed eceb9a99-7191-4be5-87c3-0102707cf98e | EVRYSDI | 2.3 Missed Dose
+
+If a dose of EVRYSDI is missed, EVRYSDI should be administered as soon as possible if still within 6 hours of the missed dose, and the usual dosing schedule can be resumed on the next day. Otherwise, the missed dose should be skipped, and the next dose should be taken at the regularly scheduled time on the next day.
+
+                        If a dose is not fully swallowed or vomiting occurs after taking a dose of EVRYSDI, another dose should not be administered to make up for the lost dose. The patient should wait until the next day to take the next dose at the regularly scheduled time.

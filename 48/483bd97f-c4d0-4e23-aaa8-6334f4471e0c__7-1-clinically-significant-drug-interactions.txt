@@ -1,0 +1,99 @@
+DailyMed 483bd97f-c4d0-4e23-aaa8-6334f4471e0c | PAXIL CR | 7.1 Clinically Significant Drug Interactions
+
+Table 6 includes clinically significant drug interactions with PAXIL CR.
+
+                           Table 6: Clinically Significant Drug Interactions with PAXIL CR
+
+                                    Monoamine Oxidase Inhibitors (MAOIs)
+                                  |
+
+                                    Mechanism and Clinical Effect (s)
+                                  |
+                                 The concomitant use of SSRIs, including PAXIL CR, and MAOIs increases the risk of serotonin syndrome. |
+
+                                    Prevention or Management
+                                  |
+                                 PPAXIL CR is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.6), Warnings and Precautions (5.2)].
+                                  |
+
+                                       CYP2D6 Substrates that Prolong the QTc Interval
+
+                                  |
+
+                                    Mechanism and Clinical Effect(s)
+                                  |
+                                 PAXIL CR is a CYP2D6 inhibitor.  Concomitant use of PAXIL CR with CYP2D6 substrates that prolong the QTc interval can increase the concentration of those CYP2D6 substrates and may result in a greater increase in the QTc interval and adverse reactions associated with QTc interval prolongation [see Warnings and Precautions (5.3)].
+                                  |
+
+                                    Prevention or Management
+                                  |
+                                 PAXIL CR use is contraindicated in patients who receive drugs that can prolong QTc interval and are CYP2D6 substrates. |
+
+                                    Other Serotonergic Drugs
+                                  |
+
+                                    Mechanism and Clinical Effect(s)
+                                  |
+                                 The concomitant use of serotonergic drugs with PAXIL CR increases the risk of serotonin syndrome. |
+
+                                    Prevention or Management
+                                  |
+                                 Monitor patients for signs and symptoms of serotonin syndrome with concomitant use of PAXIL and other serotonergic drugs, If serotonin syndrome occurs, immediately discontinue   treatment with PAXIL CR and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)].
+                                  |
+
+                                    Drugs that Interfere with Hemostasis (antiplatelet drugs and anticoagulants)
+                                  |
+
+                                    Mechanism and Clinical Effect(s)
+                                  |
+                                 The concomitant use of an antiplatelet drug or anticoagulant with PAXIL CR may potentiate the risk of bleeding. |
+
+                                    Prevention or Management
+                                  |
+                                 Inform patients of the increased risk of bleeding associated with the concomitant use of PAXIL CR and antiplatelet drugs and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio when initiating, titrating, or discontinuing PAXIL CR [see Warnings and Precautions (5.5)].
+                                  |
+
+                                    Drugs Highly Bound to Plasma Protein
+                                  |
+
+                                    Mechanism and Clinical Effect(s)
+                                  |
+                                 Paroxetine is highly bound to plasma protein. The concomitant use of PAXIL CR with another drug that is highly bound to plasma protein may increase free concentrations of paroxetine or other tightly-bound drugs in plasma. |
+
+                                    Prevention or Management
+                                  |
+                                 Monitor for adverse reactions and reduce dosage of PAXIL CR or other protein-bound drugs as warranted. |
+
+                                    CYP2D6 Substrates
+                                  |
+
+                                    Mechanism and Clinical Effect(s)
+                                  |
+                                 PAXIL CR is a strong CYP2D6 inhibitor [see Clinical Pharmacology (12.3)]. The concomitant use of PAXIL CR with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate and increase the risk of CYP2D6 substrate-associated adverse reactions. |
+
+                                    Prevention or Management
+                                  |
+                                 With concomitant use with PAXIL CR, decrease the dosage of a CYP2D6 substrate if needed.  |
+
+                                    Tamoxifen
+                                  |
+
+                                    Mechanism and Clinical Effect(s)
+                                  |
+                                 Concomitant use of tamoxifen with PAXIL CR may lead to reduced plasma concentrations of the active metabolite of tamoxifen (i.e., endoxifen) and reduced efficacy of tamoxifen. |
+
+                                    Prevention or Management
+                                  |
+                                 Consider use of an alternative antidepressant with little or no CYP2D6 inhibition when tamoxifen is used for the treatment or prevention of breast cancer [see Warnings and Precautions (5.11)].
+                                  |
+
+                                    Fosamprenavir/Ritonavir
+                                  |
+
+                                    Mechanism and Clinical Effect(s)
+                                  |
+                                 Concomitant use of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine. |
+
+                                    Prevention or Management
+                                  |
+                                 Any PAXIL CR dosage modification should be guided by clinical effect (tolerability and efficacy). |

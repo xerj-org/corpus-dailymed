@@ -1,0 +1,207 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 12.5 Pharmacogenomics
+
+CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite. Clopidogrel active metabolite pharmacokinetics and antiplatelet effects, as measured by
+  ex vivo platelet aggregation assays, differ according to CYP2C19 genotype. Patients who are homozygous for nonfunctional alleles of the CYP2C19 gene are termed "CYP2C19 poor metabolizers". Approximately 2% of White and 4% of Black patients are poor metabolizers; the prevalence of poor metabolism is higher in Asian patients (e.g., 14% of Chinese). Tests are available to identify patients who are CYP2C19 poor metabolizers.
+
+                        A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metabolizer groups, evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg per day and 600 mg followed by 150 mg per day, each for a total of 5 days. Decreased active metabolite exposure and diminished inhibition of platelet aggregation were observed in the poor metabolizers as compared to the other groups.
+
+                           Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status
+
+                                  |
+
+                                       Dose
+
+                                  |
+
+                                       Poor
+
+                                       (n=10)
+
+                                  |
+
+                                       Intermediate
+                                       Intermediate metabolizers have one but not two nonfunctional alleles.
+
+                                       (n=10)
+
+                                  |
+
+                                       Normal
+
+                                       (n=10)
+
+                                  |
+
+                                       Ultrarapid
+                                       Ultrarapid metabolizers have at least one gain-of-function allele.
+
+                                       (n=10)
+
+                                  |
+
+                                    C
+      max (ng/mL)
+
+                                  |
+
+                                    300 mg (24 h)
+
+                                    600 mg (24 h)
+
+                                    75 mg (Day 5)
+
+                                    150 mg (Day 5)
+
+                                  |
+
+                                    11 (4)
+
+                                    17 (6)
+
+                                    4 (1)
+
+                                    7 (2)
+
+                                  |
+
+                                    23 (11)
+
+                                    39 (23)
+
+                                    12 (5)
+
+                                    18 (7)
+
+                                  |
+
+                                    32 (21)
+
+                                    44 (27)
+
+                                    13 (7)
+
+                                    19 (5)
+
+                                  |
+
+                                    24 (10)
+
+                                    36 (13)
+
+                                    12 (6)
+
+                                    16 (9)
+
+                                  |
+
+                                    IPA (%)
+      Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition.
+
+                                  |
+
+                                    300 mg (24 h)
+
+                                    600 mg (24 h)
+
+                                    75 mg (Day 5)
+
+                                    150 mg (Day 5)
+
+                                  |
+
+                                    24 (26)
+
+                                    32 (25)
+
+                                    37 (23)
+
+                                    61 (14)
+
+                                  |
+
+                                    37 (21)
+
+                                    56 (22)
+
+                                    60 (18)
+
+                                    74 (14)
+
+                                  |
+
+                                    39 (28)
+
+                                    49 (23)
+
+                                    58 (19)
+
+                                    73 (9)
+
+                                  |
+
+                                    40 (21)
+
+                                    51 (28)
+
+                                    56 (13)
+
+                                    68 (18)
+
+                                  |
+
+                                    VASP-PRI (%)
+      Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition.
+
+                                  |
+
+                                    300 mg (24 h)
+
+                                    600 mg (24 h)
+
+                                    75 mg (Day 5)
+
+                                    150 mg (Day 5)
+
+                                  |
+
+                                    91 (12)
+
+                                    85 (14)
+
+                                    83 (13)
+
+                                    61 (18)
+
+                                  |
+
+                                    78 (12)
+
+                                    56 (26)
+
+                                    50 (16)
+
+                                    29 (11)
+
+                                  |
+
+                                    68 (16)
+
+                                    48 (20)
+
+                                    39 (14)
+
+                                    24 (10)
+
+                                  |
+
+                                    73 (12)
+
+                                    51 (20)
+
+                                    40 (9)
+
+                                    20 (10)
+
+                                  |
+
+                        Values are mean (SD)

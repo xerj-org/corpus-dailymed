@@ -1,0 +1,16 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 8.5 Geriatric Use
+
+There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately determine whether they respond differently from younger patients.
+
+                        No lacosamide dose adjustment based on age is necessary. In elderly patients, dose titration should be performed with caution, usually starting at the lower end of the dosing range, reflecting the greater frequency of decreased hepatic function, decreased renal function, increased cardiac conduction abnormalities, and polypharmacy [
+
+  see
+
+   Dosage and Administration (2.1,
+
+   2.4,
+
+   2.5), and
+
+   Clinical Pharmacology (12.3)
+                           ].

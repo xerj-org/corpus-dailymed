@@ -1,0 +1,3 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 5.11 Interference with Laboratory Tests
+
+After infusion of IgG, the transitory rise of the various passively transferred antibodies in the patient’s blood may yield positive serological testing results, with the potential for misleading interpretation. Passive transmission of antibodies to erythrocyte antigens (e.g., A, B, and D) may cause a positive direct or indirect antiglobulin (Coombs) test.

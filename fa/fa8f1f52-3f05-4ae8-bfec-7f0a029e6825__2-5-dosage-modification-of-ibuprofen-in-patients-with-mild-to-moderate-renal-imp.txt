@@ -1,0 +1,7 @@
+DailyMed fa8f1f52-3f05-4ae8-bfec-7f0a029e6825 | Pemetrexed | 2.5 Dosage Modification of Ibuprofen in Patients with Mild to Moderate Renal Impairment Receiving Pemetrexed for Injection
+
+In patients with creatinine clearances between 45 mL/min and 79 mL/min, modify administration of ibuprofen as follows [see Warnings and Precautions (5.6), Drug Interactions (7) and Clinical Pharmacology (12.3)]:
+
+                           Avoid administration of ibuprofen for 2 days before, the day of, and 2 days following administration of pemetrexed for injection.
+
+                           Monitor patients more frequently for myelosuppression, renal, and gastrointestinal toxicity, if concomitant administration of ibuprofen cannot be avoided.

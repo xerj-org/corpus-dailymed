@@ -1,0 +1,108 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 12.2 Pharmacodynamics
+
+Exposure-Response Relationship in Treatment-Experienced Adult Subjects
+
+                        The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 9 samples per subject taken on up to 7 visits), and virologic response was evaluated in 973 treatment-experienced HIV-1-infected subjects with varied optimized background antiretroviral regimens in Trials A4001027 and A4001028. The Cmin, baseline viral load, baseline CD4+ cell count, and overall sensitivity score (OSS) were found to be important predictors of virologic success (defined as viral load less than 400 copies per mL at 24 weeks). Table 9 illustrates the proportions of subjects with virologic success (%) within each Cmin quartile for 150-mg twice-daily and 300-mg twice-daily groups.
+
+                           Table 9. Treatment-Experienced Subjects with Virologic Success by Cmin Quartile (Q1 to Q4)
+
+                                  |
+                                 150 mg Twice Daily
+
+ (with CYP3A Inhibitors) |
+                                 300 mg Twice Daily
+
+ (without CYP3A Inhibitors) |
+
+                                 n |
+                                 Median
+
+Cmin
+                                  |
+                                 % Subjects with Virologic Success |
+                                 n |
+                                 Median
+
+Cmin
+                                  |
+                                 % Subjects with Virologic Success |
+
+                                 Placebo |
+                                 160 |
+                                 - |
+                                 30.6 |
+                                 35 |
+                                 - |
+                                 28.6 |
+
+                                 Q1 |
+                                 78 |
+                                 33 |
+                                 52.6 |
+                                 22 |
+                                 13 |
+                                 50.0 |
+
+                                 Q2 |
+                                 77 |
+                                 87 |
+                                 63.6 |
+                                 22 |
+                                 29 |
+                                 68.2 |
+
+                                 Q3 |
+                                 78 |
+                                 166 |
+                                 78.2 |
+                                 22 |
+                                 46 |
+                                 63.6 |
+
+                                 Q4 |
+                                 78 |
+                                 279 |
+                                 74.4 |
+                                 22 |
+                                 97 |
+                                 68.2 |
+
+                           Exposure-Response Relationship in Treatment-Naive Adult Subjects
+
+                        The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 12 samples per subject taken on up to 8 visits), and virologic response was evaluated in 294 treatment-naive HIV-1-infected subjects receiving maraviroc 300 mg twice daily in combination with lamivudine/zidovudine in Trial A4001026. Table 10 illustrates the proportion (%) of subjects with virologic success less than 50 copies per mL at 48 weeks within each Cmin quartile for the 300-mg twice-daily dose.
+
+                           Table 10. Treatment-Naive Subjects with Virologic Success by Cmin Quartile (Q1 to Q4)
+
+                                  |
+                                 300 mg Twice Daily |
+
+                                 n |
+                                 Median Cmin
+                                  |
+                                 % Subjects with Virologic Success |
+
+                                 Q1 |
+                                 75 |
+                                 23 |
+                                 57.3 |
+
+                                 Q2 |
+                                 72 |
+                                 39 |
+                                 72.2 |
+
+                                 Q3 |
+                                 73 |
+                                 56 |
+                                 74.0 |
+
+                                 Q4 |
+                                 74 |
+                                 81 |
+                                 83.8 |
+
+                        Eighteen of 75 (24%) subjects in Q1 had no measurable maraviroc concentration on at least one occasion versus 1 of 73 and 1 of 74 in Q3 and Q4, respectively.
+
+                           Effects on Electrocardiogram
+
+                        A placebo-controlled, randomized, crossover trial to evaluate the effect on the QT interval of healthy male and female volunteers was conducted with 3 single oral doses of maraviroc and moxifloxacin. The placebo-adjusted mean maximum (upper 1-sided 95% CI) increases in QTc from baseline after 100, 300, and 900 mg of maraviroc were -2 (0), -1 (1), and 1 (3) msec, respectively, and 13 (15) msec for moxifloxacin 400 mg. No subject in any group had an increase in QTc of greater than or equal to 60 msec from baseline. No subject experienced an interval exceeding the potentially clinically relevant threshold of 500 msec.

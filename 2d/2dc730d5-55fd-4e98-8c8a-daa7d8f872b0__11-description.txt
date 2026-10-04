@@ -1,0 +1,11 @@
+DailyMed 2dc730d5-55fd-4e98-8c8a-daa7d8f872b0 | Menveo | 11 DESCRIPTION
+
+MENVEO [Meningococcal (Groups A, C, Y, and W-135) Oligosaccharide Diphtheria CRM197 Conjugate Vaccine] is a sterile liquid vaccine administered by intramuscular injection that contains N. meningitidis serogroup A, C, Y, and W-135 oligosaccharides conjugated individually to Corynebacterium diphtheriae CRM197 protein. The polysaccharides are produced by bacterial fermentation of N. meningitidis (serogroups A, C, Y, or W-135). N. meningitidis strains A, C, Y, and W-135 are each cultured and grown on Franz Complete medium and treated with formaldehyde. MenA, MenW-135, and MenY polysaccharides are purified by several extraction and precipitation steps. MenC polysaccharide is purified by a combination of chromatography and precipitation steps.
+
+                  The protein carrier (CRM197) is produced by bacterial fermentation and is purified by a series of chromatography and ultrafiltration steps. C. diphtheriae is cultured and grown on CY medium containing yeast extracts and amino acids.
+
+                  The oligosaccharides are prepared for conjugation from purified polysaccharides by hydrolysis, sizing, and reductive amination. After activation, each oligosaccharide is covalently linked to the CRM197 protein. The resulting glycoconjugates are purified to yield the 4 drug substances, which compose the final vaccine. The vaccine contains no preservative or adjuvant. Each dose of vaccine contains 10 mcg MenA oligosaccharide; 5 mcg of each of MenC, MenY, and MenW-135 oligosaccharides; and 25.9 to 64.1 mcg CRM197 protein. Residual formaldehyde per dose is estimated to be not more than 0.30 mcg.
+
+                  The vials in which the vaccine components are contained are composed of Type I glass, USP.
+
+                  The container closures (synthetic rubber stoppers) are not made with natural rubber latex.

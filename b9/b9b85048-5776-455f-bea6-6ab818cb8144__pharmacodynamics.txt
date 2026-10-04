@@ -1,0 +1,5 @@
+DailyMed b9b85048-5776-455f-bea6-6ab818cb8144 | hydrochlorothiazide | Pharmacodynamics
+
+Acute antihypertensive effects of thiazides are thought to result from a reduction in blood volume and cardiac output, secondary to a natriuretic effect, although a direct vasodilatory mechanism has also been proposed. With chronic administration, plasma volume returns toward normal, but peripheral vascular resistance is decreased. The exact mechanism of the antihypertensive effect of hydrochlorothiazide is not known.
+
+                        Thiazides do not affect normal blood pressure. Onset of action occurs within 2 hours of dosing, peak effect is observed at about 4 hours, and activity persists for up to 24 hours.

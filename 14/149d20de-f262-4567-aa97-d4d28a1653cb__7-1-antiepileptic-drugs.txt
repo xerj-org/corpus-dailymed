@@ -1,0 +1,23 @@
+DailyMed 149d20de-f262-4567-aa97-d4d28a1653cb | topiramate | 7.1 Antiepileptic Drugs
+
+Concomitant administration of phenytoin or carbamazepine with topiramate resulted in a clinically significant decrease in plasma concentrations of topiramate when compared to topiramate given alone. A dosage adjustment may be needed
+
+  [see Dosage and Administration (
+
+   2.1), Clinical Pharmacology (
+
+   12.3)].
+
+                        Concomitant administration of valproic acid and topiramate
+
+   has been associated with hypothermia and hyperammonemia with and without encephalopathy. Examine blood ammonia levels in patients in whom the onset of hypothermia has been reported
+
+  [see Warnings and Precautions (
+
+   5.14,
+
+   5.16), Clinical Pharmacology (
+
+   12.3)]
+
+  .

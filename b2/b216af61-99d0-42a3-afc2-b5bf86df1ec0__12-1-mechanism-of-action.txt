@@ -1,0 +1,5 @@
+DailyMed b216af61-99d0-42a3-afc2-b5bf86df1ec0 | Ocrevus Zunovo | 12.1 Mechanism of Action
+
+The precise mechanism by which ocrelizumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ocrelizumab results in antibody-dependent cellular cytolysis and complement-mediated lysis.
+
+                        Hyaluronan is a polysaccharide found in the extracellular matrix of the subcutaneous tissue. It is depolymerized by the naturally occurring enzyme hyaluronidase. Unlike the stable structural components of the interstitial matrix, hyaluronan has a half-life of approximately 0.5 days. Hyaluronidase increases permeability of the subcutaneous tissue by depolymerizing hyaluronan. In the doses administered, hyaluronidase in OCREVUS ZUNOVO acts transiently and locally. The effects of hyaluronidase are reversible and permeability of the subcutaneous tissue is restored within 24 to 48 hours.

@@ -1,0 +1,31 @@
+DailyMed bc52489a-5149-411d-9665-2c75405ad15d | Bijuva | 5.1 Cardiovascular Disorders
+
+BIJUVA is contraindicated in females with active DVT, PE, arterial thromboembolic disease (e.g., stroke, MI) disease, or a history of these conditions [see Contraindications (4)]. Immediately discontinue BIJUVA if a PE, DVT, stroke, or MI occurs or is suspected.
+
+                           If feasible, discontinue BIJUVA at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
+
+                           The safety and efficacy of BIJUVA for the prevention of cardiovascular disorders has not been established [see Clinical Studies (14.4)].
+
+                           The Women's Health Initiative (WHI) estrogen plus progestin trial reported increased risks of PE, DVT, stroke, and MI in postmenopausal women (50 to 79 years of age, average age 63.4 years) during the 5.6 years of treatment with daily oral conjugated estrogens (CE) [0.625 mg] combined with medroxyprogesterone acetate (MPA) [2.5 mg], relative to placebo. Analyses were also conducted in women aged 50-59 years, a group of women more likely to present with new onset of moderate to severe VMS compared to women in other age groups in the trial [see Clinical Studies (14.4)].
+
+                           Only daily oral 0.625 mg CE and 2.5 mg MPA were studied in the estrogen plus progestin trial of the WHI. Therefore, the relevance of the WHI findings regarding adverse cardiovascular events to lower CE plus other MPA doses, other routes of administration, or other estrogen plus progestogen products is not known. Without such data, it is not possible to definitively exclude these risks or determine the extent of these risks for other products.
+
+                              Venous Thromboembolism
+
+                           In women aged 50-59 years, the WHI estrogen plus progestin trial reported a relative risk for PE of 2.05 (95% confidence interval [CI], 0.89-4.71) for CE/MPA compared to placebo, with a risk difference of 6 per 10,000 women-years (WYs; 11 versus 5). The relative risk for DVT was 3.01 (95% CI, 1.36-6.66) in those receiving CE/MPA compared to placebo, with a risk difference of 10 per 10,000 WYs (15 versus 5) [see Clinical Studies (14.4)].
+
+                           In the overall study population of women aged 50-79 years (average 63.4 years), the trial reported a relative risk for PE of 1.98 (95% CI, 1.36-2.87) for CE/MPA compared to placebo, with a risk difference of 9 per 10,000 WYs (18 versus 9). The relative risk for DVT was 1.87 (95% CI, 1.37-2.54) for CE/MPA compared to placebo, with a risk difference of 12 per 10,000 WYs (25 versus 14) [see Clinical Studies (14.4)].
+
+                              Stroke
+
+                           In women aged 50-59 years, the WHI estrogen plus progestin trial reported a relative risk for stroke of 1.51 (95% CI, 0.81-2.82) for CE/MPA compared to placebo, with a risk difference of 5 per 10,000 WYs (15 versus 10) [see Clinical Studies (14.4)].
+
+                           In the overall study population of women aged 50-79 years (average 63.4 years), the WHI estrogen plus progestin trial reported relative risk for stroke of 1.37 (95% CI, 1.07-1.76) for CE/MPA compared to placebo, with a risk difference of 9 per 10,000 WYs (33 versus 24) [see Clinical Studies (14.4)].
+
+                              Coronary Heart Disease
+
+                           In women 50 to 59 years of age, the WHI estrogen plus progestin trial reported a relative risk for coronary heart disease (CHD) events (defined as nonfatal MI, silent MI, or CHD death) of 1.34 (95% CI, 0.82-2.19) for CE/MPA compared placebo, with a risk difference of 5 per 10,000 WYs (23 versus 17).
+
+                           In the overall study population of women aged 50-79 years (average 63.4 years), the trial reported a relative risk of CHD of 1.18 (95% CI, 0.95-1.45) for CE/MPA compared to placebo, with a risk difference of 6 per 10,000 WYs (41 versus 35) [see Clinical Studies (14.4)].
+
+                           In the Heart and Estrogen/Progestin Replacement Study (HERS) and open label extension (HERS II), postmenopausal women with documented heart disease (n=2,763, average age 66.7 years) received daily CE (0.625 mg) plus MPA or placebo. In Year 1, there were more CHD events in the CE plus MPA-treated group than placebo; however, rates of CHD events were comparable among both groups for the remainder of the duration of the studies (average total follow-up of 6.8 years).2, 3

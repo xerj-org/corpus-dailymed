@@ -1,0 +1,17 @@
+DailyMed 76b15f6a-51d6-45ec-b6cb-8b10a08ed32a | Physicians EZ Use M-pred | 2.4 Test Dose for Caudal and Lumbar Epidural Blocks
+
+Three mL of Bupivacaine Hydrochloride and Epinephrine Injection without antimicrobial preservative (0.5% bupivacaine with 1:200,000 epinephrine) is recommended for use as a test dose prior to caudal and lumbar epidural blocks when clinical conditions permit. This test dose may serve as a warning of unintended intravascular or intrathecal injection. Closely monitor for early clinical signs of toxicity following each test dose
+
+  [see
+
+   Warnings and Precautions (5.9)]
+
+  . Allot adequate time for onset of spinal block to detect possible intrathecal injection. An intravascular or intrathecal injection is still possible even if results of the test dose are negative. The test dose itself may produce a systemic toxic reaction, high spinal, or cardiovascular effects from the epinephrine
+
+  [see
+
+   Warnings and Precautions (5.2,
+
+   5.9),
+
+   Overdosage (10)].

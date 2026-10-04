@@ -1,0 +1,5 @@
+DailyMed c4fdc56e-efd7-4825-a518-ef430b2b3df0 | Cytarabine | Expected Reactions
+
+Because cytarabine is a bone marrow suppressant, anemia, leukopenia, thrombocytopenia, megaloblastosis and reduced reticulocytes can be expected as a result of administration with cytarabine. The severity of these reactions are dose and schedule dependent.  Cellular changes in the morphology of bone marrow and peripheral smears can be expected.
+
+                        Following 5-day constant infusions or acute injections of 50 mg/m2 to 600 mg/m2, white cell depression follows a biphasic course. Regardless of initial count, dosage level, or schedule, there is an initial fall starting the first 24 hours with a nadir at days 7 to 9.  This is followed by a brief rise which peaks around the twelfth day.  A second and deeper fall reaches nadir at days 15 to 24. Then there is a rapid rise to above baseline in the next 10 days. Platelet depression is noticeable at 5 days with a peak depression occurring between days 12 to 15. Thereupon, a rapid rise to above baseline occurs in the next 10 days.

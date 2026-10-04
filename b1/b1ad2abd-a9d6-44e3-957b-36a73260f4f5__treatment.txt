@@ -1,0 +1,7 @@
+DailyMed b1ad2abd-a9d6-44e3-957b-36a73260f4f5 | Haloperidol | Treatment
+
+Since there is no specific antidote, treatment is primarily supportive.  Dialysis is not recommended in the treatment of overdose because it removes only very small amounts of haloperidol.  A patent airway must be established by use of an oropharyngeal airway or endotracheal tube or, in prolonged cases of coma, by tracheostomy. Respiratory depression may be counteracted by artificial respiration and mechanical respirators.  Hypotension and circulatory collapse may be counteracted by use of intravenous fluids, plasma, or concentrated albumin, and vasopressor agents such as metaraminol, phenylephrine and norepinephrine.  Epinephrine must not be used. In case of severe extrapyramidal reactions, antiparkinson medication should be administered.  ECG and vital signs should be monitored especially for signs of QTc-interval prolongation or dysrhythmias and monitoring should continue until the ECG is normal.
+
+                        Severe arrhythmias should be treated with appropriate anti-arrhythmic measures.
+
+                        In  case of an overdose, consult a Certified Poison Control Center (1-800-222-1222).

@@ -1,0 +1,43 @@
+DailyMed 5c19b687-fd29-b22e-e063-6294a90ad67b | Imiquimod | 14.1 Actinic Keratosis
+
+In two double-blind, randomized, vehicle-controlled clinical trials, 479 subjects with AK were treated with imiquimod cream, 3.75%, imiquimod cream, 2.5%, or vehicle (Studies AK1 and AK2). Trials enrolled subjects 18 years of age or older with 5 to 20 typical visible or palpable AK lesions of the face or scalp. Imiquimod cream or vehicle was applied to either the entire face (excluding ears) or balding scalp once daily for two 2-week treatment cycles separated by a 2-week no-treatment period. Subjects then continued in the trial for an 8-week follow-up period during which they returned for clinical observations and safety monitoring. Trial subjects ranged from 36 to 90 years of age and 54% had Fitzpatrick skin type I or II. All imiquimod cream-treated subjects were White.
+
+                        On a scheduled dosing day, up to two packets of the trial cream were applied to the entire treatment area prior to normal sleeping hours and left on for approximately 8 hours. Efficacy was assessed by AK lesion counts at the 8-week post-treatment visit. All AKs in the treatment area were counted, including baseline lesions as well as lesions which appeared during therapy.
+
+  Complete clearance required absence of any lesions including those that appeared during therapy in the treatment area. Complete and partial clearance rates are shown in Tables 5 and 6 below. Partial clearance rate was defined as the percentage of subjects in whom the number of baseline AKs was reduced by 75% or more. The partial clearance rate was measured relative to the numbers of AK lesions at baseline.
+
+                           Table 5: Rate of Subjects with Complete Clearance of AK at 8 Weeks Post-Treatment
+
+                                  |
+                                 Imiquimod Cream, 3.75% |
+                                 Imiquimod Cream, 2.5% |
+                                 Vehicle Cream |
+
+                                 Study AK1 |
+                                 26% (21/81) |
+                                 23% (19/81) |
+                                 3% (2/80) |
+
+                                 Study AK2 |
+                                 46% (36/79) |
+                                 38% (30/79) |
+                                 10% (8/79) |
+
+                           Table 6: Rate of Subjects with Partial Clearance (≥75%) of AK at 8 Weeks Post-Treatment
+
+                                  |
+                                 Imiquimod Cream, 3.75% |
+                                 Imiquimod Cream, 2.5% |
+                                 Vehicle Cream |
+
+                                 Study AK1 |
+                                 46% (37/81) |
+                                 42% (34/81) |
+                                 19% (15/80) |
+
+                                 Study AK2 |
+                                 73% (58/79) |
+                                 54% (43/79) |
+                                 27% (21/79) |
+
+                        During treatment, 86% (138/160) of imiquimod Cream, 3.75% subjects and 84% (135/160) of imiquimod cream, 2.5% subjects experienced a transient increase in lesions evaluated as AK relative to the number present at baseline within the treatment area.

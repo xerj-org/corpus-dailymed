@@ -1,0 +1,3 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | 8.5 Geriatric Use
+
+Clinical studies of ADZYNMA did not include patients 65 years of age and older to determine whether they respond differently from younger patients. Based on the results from population pharmacokinetics analysis, no dose adjustment is required for elderly patients [see Clinical Pharmacology (12.3)].

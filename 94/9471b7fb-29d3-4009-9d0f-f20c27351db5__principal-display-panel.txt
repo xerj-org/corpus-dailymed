@@ -1,0 +1,55 @@
+DailyMed 9471b7fb-29d3-4009-9d0f-f20c27351db5 | Carbamazepine | PRINCIPAL DISPLAY PANEL
+
+DRUG: Carbamazepine
+
+                  GENERIC: Carbamazepine
+
+                  DOSAGE: TABLET, CHEWABLE
+
+                  ADMINSTRATION: ORAL
+
+                  NDC: 70518-2426-0
+
+                  NDC: 70518-2426-1
+
+                  NDC: 70518-2426-2
+
+                  COLOR: white
+
+                  FLAVOR: CHERRY
+
+                  SHAPE: ROUND
+
+                  SCORE: Two even pieces
+
+                  SIZE: 11 mm
+
+                  IMPRINT: TARO;16
+
+                  PACKAGING: 1 in 1 POUCH
+
+                  OUTER PACKAGING: 100 in 1 BOX
+
+                  PACKAGING: 30 in 1 BLISTER PACK
+
+                  ACTIVE INGREDIENT(S):
+
+                     CARBAMAZEPINE 100mg in 1
+
+                  INACTIVE INGREDIENT(S):
+
+                     CROSCARMELLOSE SODIUM
+
+                     DIETHYL PHTHALATE
+
+                     FD&C RED NO. 40
+
+                     MAGNESIUM STEARATE
+
+                     MICROCRYSTALLINE CELLULOSE
+
+                     STARCH, CORN
+
+                     SORBITOL
+
+                     AMMONIO METHACRYLATE COPOLYMER TYPE B

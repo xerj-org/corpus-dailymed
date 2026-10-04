@@ -1,0 +1,19 @@
+DailyMed 2354c3e2-7b5f-4fdd-bbf2-7fa3c57686f8 | Tadalafil | 7.2 Potential for Other Drugs to Affect Tadalafil
+
+[See Dosage and Administration (2.7) and Warnings and Precautions (5.10)].
+
+                           Antacids — Simultaneous administration of an antacid (magnesium hydroxide/aluminum hydroxide) and tadalafil reduced the apparent rate of absorption of tadalafil without altering exposure (AUC) to tadalafil.
+
+                           H2 Antagonists (e.g. Nizatidine) — An increase in gastric pH resulting from administration of nizatidine had no significant effect on pharmacokinetics.
+
+                           Cytochrome P450 Inhibitors — Tadalafil is a substrate of and predominantly metabolized by CYP3A4. Studies have shown that drugs that inhibit CYP3A4 can increase tadalafil exposure.
+
+ CYP3A4 (e.g., Ketoconazole) — Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A4, increased tadalafil 20 mg single-dose exposure (AUC) by 312% and Cmax by 22%, relative to the values for tadalafil 20 mg alone. Ketoconazole (200 mg daily) increased tadalafil 10-mg single-dose exposure (AUC) by 107% and Cmax by 15%, relative to the values for tadalafil 10 mg alone [see Dosage and Administration (2.7)].
+
+ Although specific interactions have not been studied, other CYP3A4 inhibitors, such as erythromycin, itraconazole, and grapefruit juice, would likely increase tadalafil exposure.
+
+ HIV Protease inhibitor — Ritonavir (500 mg or 600 mg twice daily at steady state), an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil 20-mg single-dose exposure (AUC) by 32% with a 30% reduction in C max , relative to the values for tadalafil 20 mg alone. Ritonavir (200 mg twice daily), increased tadalafil 20-mg single-dose exposure (AUC) by 124% with no change in Cmax , relative to the values for tadalafil 20 mg alone. Although specific interactions have not been studied, other HIV protease inhibitors would likely increase tadalafil exposure [see Dosage and Administration (2.7)].
+
+                           Cytochrome P450 Inducers — Studies have shown that drugs that induce CYP3A4 can decrease tadalafil exposure.
+
+ CYP3A4 (e.g., Rifampin) — Rifampin (600 mg daily), a CYP3A4 inducer, reduced tadalafil 10-mg single-dose exposure (AUC) by 88% and Cmax by 46%, relative to the values for tadalafil 10 mg alone. Although specific interactions have not been studied, other CYP3A4 inducers, such as carbamazepine, phenytoin, and phenobarbital, would likely decrease tadalafil exposure. No dose adjustment is warranted. The reduced exposure of tadalafil with the coadministration of rifampin or other CYP3A4 inducers can be anticipated to decrease the efficacy of tadalafil for once daily use; the magnitude of decreased efficacy is unknown.

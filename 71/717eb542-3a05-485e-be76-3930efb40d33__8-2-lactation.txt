@@ -1,0 +1,19 @@
+DailyMed 717eb542-3a05-485e-be76-3930efb40d33 | Levocetirizine Dihydrochloride | 8.2 Lactation
+
+Risk Summary
+
+                        There are no data on the presence of levocetirizine in human milk, the effects on the breastfed infant, or the effects on milk production. However, cetirizine has been reported to be present in human breast milk. In mice and beagle dogs, studies indicated that cetirizine was excreted in milk
+
+  [see Data].When a drug is present in animal milk, it is likely the drug will be present in human milk. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for levocetirizine dihydrochloride and any potential adverse effects on the breastfed child from levocetirizine dihydrochloride or from the underlying maternal condition.
+
+                           Data
+
+                        Animal data
+
+                        Cetirizine was detected in the milk of mice. No adverse developmental effects on pups were seen when cetirizine was administered orally to dams during lactation at a dose that was approximately 25 times the MRHD in adults
+
+  [see
+
+                              Use in Specific Populations (8.1)
+
+                           ].Studies in beagle dogs indicated that approximately 3% of the dose of cetirizine was excreted in milk. The concentration of drug in animal milk does not necessarily predict the concentration of drug in human milk.

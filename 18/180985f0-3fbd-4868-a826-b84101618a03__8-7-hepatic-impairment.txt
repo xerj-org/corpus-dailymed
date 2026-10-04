@@ -1,0 +1,3 @@
+DailyMed 180985f0-3fbd-4868-a826-b84101618a03 | Tizanidine | 8.7 Hepatic Impairment
+
+Tizanidine hydrochloride should be used with caution in patients with hepatic impairment. The influence of hepatic impairment on the pharmacokinetics of tizanidine has not been evaluated. Because tizanidine is extensively metabolized in the liver, hepatic impairment would be expected to have significant effects on pharmacokinetics of tizanidine [see Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)]. In patients with hepatic impairment, dosage reduction is recommended [see Dosage and Administration (2.4)].

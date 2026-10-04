@@ -1,0 +1,5 @@
+DailyMed eb02c52d-907c-43fb-aa8f-2f378a9087e7 | Chloroquine Phosphate | Auditory Effects
+
+In patients with preexisting auditory damage, chloroquine should be administered with caution. In case of any defects in hearing, chloroquine should be immediately discontinued, and the patient closely observed (see
+                              ADVERSE REACTIONS
+                           ).

@@ -1,0 +1,57 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 14.5 Alveolar Soft Part Sarcoma
+
+The efficacy of TECENTRIQ HYBREZA as monotherapy for the treatment of adult patients and pediatric patients 12 years of age or older with unresectable or metastatic alveolar soft part sarcoma (ASPS) has been established in adequate and well-controlled studies of intravenous atezolizumab for ASPS. Below is a description of the efficacy results of intravenous atezolizumab in this adequate and well-controlled ASPS trial.
+
+                        The efficacy of intravenous atezolizumab was evaluated in study ML39345 (NCT03141684), an open-label, single-arm study, in 49 adult and pediatric patients aged 2 years and older with unresectable or metastatic ASPS. Eligible patients were required to have histologically or cytologically confirmed ASPS that was not curable by surgery, and an ECOG performance status of ≤ 2.
+
+                        Patients were excluded if they had known primary central nervous system (CNS) malignancy or symptomatic CNS metastases, known clinically significant liver disease, or history of idiopathic pulmonary fibrosis, pneumonitis, organizing pneumonia, or evidence of active pneumonitis on screening chest computed tomography (CT) scan.
+
+                        Adult patients received 1200 mg intravenously and pediatric patients received 15 mg/kg (up to a maximum of 1200 mg) intravenously once every 21 days until disease progression or unacceptable toxicity.
+
+                        The major efficacy outcomes were Overall Response Rate (ORR) and Duration of Response (DOR) by Independent Review Committee according to Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.
+
+                        A total of 49 patients were enrolled. The median age of patients was 31 years (range: 12–70); 2% of adult patients (n = 47) were ≥ 65 years of age and the pediatric patients (n = 2) were ≥ 12 years of age; 51% of patients were female, 55% White, 29% Black or African American, 10% Asian; 53% had an ECOG performance status of 0 and 45% had an ECOG performance status of 1. All patients had prior surgery for ASPS and 55% received at least one prior line of treatment for ASPS; 55% received radiotherapy and 53% received chemotherapy. Of the patients who reported staging at initial diagnosis, all were Stage IV.
+
+                        Efficacy results of this study are summarized in Table 36.
+
+                           Table 36:	Efficacy Results from Study ML39345
+
+                                 Endpoint |
+                                 All Patients
+
+(N=49) |
+
+                                 CI: confidence interval; N: number of patients; +: Censored |
+
+                                    Overall Response Rate (95% CI)95% CI based on Clopper-Pearson exact method.
+
+                                  |
+                                 24% (13, 39) |
+
+                                   Complete responses, n |
+                                 0 |
+
+                                   Partial responses, n (%) |
+                                 12 (24) |
+
+                                    Duration of Response
+                                  |
+                                  |
+
+                                   Median, month |
+                                 NE |
+
+                                   (95% CI) |
+                                 (17.0, NE) |
+
+                                   Range |
+                                 1+, 41+ |
+
+                                   Durability of response |
+                                  |
+
+                                   ≥ 6 months, n (%) |
+                                 8 (67%) |
+
+                                   ≥ 12 months, n (%) |
+                                 5 (42%) |

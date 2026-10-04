@@ -1,0 +1,30 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 2.4 Dosage Information for Patients with Renal Impairment
+
+For patients with mild to moderate renal impairment, no dosage adjustment is necessary.
+
+                        For patients with severe renal impairment [creatinine clearance (CL
+
+  CR) less than 30 mL/min as estimated by the Cockcroft-Gault equation for adults; CL
+
+  CRless than 30 mL/min/1.73m
+
+  2as estimated by the Schwartz equation for pediatric patients] or end-stage renal disease, a reduction of 25% of the maximum dosage is recommended.
+
+                        In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
+
+                           Hemodialysis
+
+                        Lacosamide is effectively removed from plasma by hemodialysis. Following a 4-hour hemodialysis treatment, dosage supplementation of up to 50% should be considered.
+
+                           Concomitant Strong CYP3A4 or CYP2C9 Inhibitors
+
+                        Dose reduction may be necessary in patients with renal impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 [
+
+  see
+
+   Drug Interactions (7.1),
+
+   Use in Specific Populations (8.6), and
+
+   Clinical Pharmacology (12.3)
+                           ].

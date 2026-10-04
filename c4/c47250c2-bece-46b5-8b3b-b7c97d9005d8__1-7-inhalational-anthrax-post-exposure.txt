@@ -1,0 +1,5 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 1.7 Inhalational Anthrax (Post-Exposure)
+
+Ciprofloxacin tablets are indicated in adults and pediatric patients from birth to 17 years of age for inhalational anthrax (post-exposure) to reduse the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
+
+                        Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.1 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioerror attacks of October 2001 [see Clinical Studies (14.2)].

@@ -1,0 +1,5 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Effect of other drugs on rifampin
+
+Concomitant antacid administration may reduce the absorption of rifampin. Daily doses of rifampin should be given at least 1 hour before the ingestion of antacids.
+
+                              Concomitant use with probenecid and cotrimoxazole increases the concentration of rifampin which may increase the risk of rifampin toxicities. Monitor for adverse reactions associated with rifampin during coadministration.

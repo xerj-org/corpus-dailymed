@@ -1,0 +1,120 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 2.2 Alternate Initial Dosage Information to Achieve the Maintenance Dosage in a Shorter Timeframe
+
+For monotherapy and adjunctive therapy for partial-onset seizures in patients 1 month of age and older, and for adjunctive therapy for primary generalized tonic-clonic seizures in patients 4 years of age and older, an alternate initial dosing regimen for week 1 (e.g., including a loading dose and/or a higher initial dosage) may be administered in patients for whom achieving the recommended maintenance dosage in a shorter timeframe is clinically indicated (see Table 2). The alternate initial dosage regimen should be continued for one week. Lacosamide may then be titrated based on clinical response and tolerability, no more frequently than once per week, if needed. The loading dose should be administered with medical supervision because of the possibility of increased incidence of adverse reactions, including central nervous system (CNS) and cardiovascular adverse reactions
+
+   [see Warnings and Precautions (5.2, 5.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)]. Titration increments should not exceed those shown in Table 2.
+
+                           Table 2: Alternate Initial Dosing Regimen to Achieve the Maintenance Dosage in a Shorter Timeframe if Clinically Indicated*
+
+                                    Age and Body Weight
+                                  |
+
+                                    Alternate Initial Dosage
+                                  |
+
+                                    Titration Regimen
+                                  |
+
+                                    Maintenance Dosage
+                                  |
+
+                                    * when not specified, the dosage is the same for monotherapy for partial-onset seizures and adjunctive therapy for partial-onset seizures or primary generalized tonic-clonic seizures.
+                                  |
+
+                                    **Monotherapy for partial-onset seizures only
+                                  |
+
+                                    ± indicated only for partial-onset seizures
+                                  |
+
+                                 Adults (17 years and older) |
+
+                                    Single loading dose:
+
+200 mg
+
+                                    12 hours later initiate:
+
+100 mg twice daily (200 mg per day)  |
+                                 Increase by 50 mg twice daily (100 mg per day) at weekly intervals, if needed |
+
+                                    Monotherapy**:
+
+150 mg to 200 mg twice daily (300 mg to 400 mg per day)
+
+                                    Adjunctive Therapy:
+
+  100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
+
+                                    Pediatric patients weighing at least 50 kg
+                                  |
+
+                                    Single loading dose:
+
+200 mg
+
+                                    12 hours later initiate:
+
+100 mg twice daily (200 mg per day)  |
+
+                                    Increase by 50 mg twice daily (100 mg per day) at weekly intervals, if needed
+                                  |
+
+                                    Monotherapy**:
+
+150 mg to 200 mg twice daily (300 mg to 400 mg per day)
+
+                                    Adjunctive Therapy:
+
+  100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
+
+                                    Pediatric patients weighing 30 kg to less than 50 kg
+                                  |
+
+                                    Single loading dose:
+
+4 mg/kg
+
+                                    12 hours later initiate:
+
+2 mg/kg twice daily (4 mg/kg/day) |
+
+                                    Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed
+                                  |
+
+                                    2 mg/kg to 4 mg/kg twice daily (4 mg/kg/day to 8 mg/kg/day)
+                                  |
+
+                                    Pediatric patients weighing 11 kg to less than 30 kg
+                                  |
+
+                                    Single loading dose:
+
+4.5 mg/kg |
+                                  |
+                                  |
+
+                                    Pediatric patients weighing 6 kg to less than 11 kg ±
+
+                                  |
+
+                                    12 hours later initiate:
+
+3 mg/kg twice daily (6 mg/kg/day) |
+
+                                    Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed
+                                  |
+
+                                    3 mg/kg to 6 mg/kg twice daily (6 mg/kg/day to 12 mg/kg/day)
+                                  |
+
+                                    Pediatric patients weighing less than 6 kg ±
+
+                                  |
+                                 No loading dose required 3.75 mg/kg twice daily (7.5 mg/kg/day) |
+
+                                    Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed
+                                  |
+
+                                    3.75 mg/kg to 7.5 mg/kg twice daily (7.5 mg/kg/day to 15 mg/kg/day)
+                                  |

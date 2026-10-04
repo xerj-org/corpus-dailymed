@@ -1,0 +1,23 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 8.1 Pregnancy
+
+Risk Summary
+
+                        Following oral or intravenous (IV) administration, MMF is metabolized to mycophenolic acid (MPA), the active ingredient in mycophenolic acid delayed release and the active form of the drug. Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of multiple congenital malformations in multiple organ systems
+
+  [see Human Data].Oral administration of mycophenolate to rats and rabbits during the period of organogenesis produced congenital malformations and pregnancy loss at doses less than the recommended clinical dose (0.05 and 1.1 times exposure at the recommended clinical doses in kidney transplant patients for rats and rabbits, respectively)
+
+  (see Animal Data).
+
+                        Risks and benefits of mycophenolic acid delayed release should be discussed with the patient. When appropriate, consider alternative immunosuppressants with less potential for embryo-fetal toxicity.
+
+                        The estimated background risk of pregnancy loss and congenital malformations in organ transplant populations is not clear. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Data
+
+                           Human Data
+
+                        A spectrum of congenital malformations (including multiple malformations in individual newborns) has been reported in 23% to 27% of live births in MMF exposed pregnancies, based on published data from pregnancy registries. Malformations that have been documented include external ear, eye, and other facial abnormalities, including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney, and nervous system. Based on published data from pregnancy registries, the risk of first trimester pregnancy loss has been reported at 45% to 49% following MMF exposure.
+
+                           Animal Data
+
+                        In animal reproductive toxicology studies, congenital malformations and pregnancy loss occurred when pregnant rats and rabbits received mycophenolate at dose multiples equivalent to and less than the recommended human dose. Oral administration of mycophenolate sodium to pregnant rats from Gestational Day 7 to Day 16 at a dose as low as 1 mg per kg resulted in malformations including anophthalmia, exencephaly, and umbilical hernia. The systemic exposure at this dose represents 0.05 times the clinical exposure at the human dose of 1,440 mg per day of mycophenolic acid delayed release. Oral administration of mycophenolate to pregnant rabbits from Gestational Day 7 to Day 19 resulted in embryofetal lethality and malformations, including ectopia cordis, ectopic kidneys, diaphragmatic hernia, and umbilical hernia at doses equal to or greater than 80 mg per kg per day, in the absence of maternal toxicity. This corresponds to about 1.1 times the recommended clinical dose based on BSA.

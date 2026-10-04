@@ -1,0 +1,3 @@
+DailyMed f8b01c77-620d-4734-a771-b8524b65bcca | KETAMINE HYDROCHLORIDE | 5.6 Drug-Induced Liver Injury
+
+Ketamine administration is associated with hepatobiliary dysfunction (most often a cholestatic pattern), with recurrent use (e.g., misuse/abuse or medically supervised unapproved indications). Biliary duct dilatation with or without evidence of biliary obstruction has also been reported with recurrent use. Obtain baseline LFTs, including alkaline phosphatase and gamma glutamyl transferase, in patients receiving ketamine as part of a treatment plan that utilizes recurrent dosing. Monitor those receiving recurrent ketamine at periodic intervals during treatment.

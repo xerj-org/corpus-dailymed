@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Distribution
+
+Diazepam and its metabolites are highly bound to plasma proteins (diazepam 98%). Diazepam and its metabolites cross the blood-brain and placental barriers and are also found in breast milk in concentrations approximately one tenth of those in maternal plasma (days 3 to 9 post-partum). In young healthy males, the volume of distribution at steady-state is 0.8 to 1.0 L/kg. The decline in the plasma concentration-time profile after oral administration is biphasic. The initial distribution phase has a half-life of approximately 1 hour, although it may range up to > 3 hours.

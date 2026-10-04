@@ -1,0 +1,9 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 14.6 Risk Reduction of DU Recurrence
+
+Two randomized, double-blind, multicenter trials in patients with endoscopically confirmed healed DUs demonstrated that patients receiving treatment with orally administered famotidine 20 mg at bedtime had lower rates of DU recurrence, as compared with placebo:
+
+                           In the U.S. trial, DU recurrence within 12 months was 2.4 times greater in patients treated with placebo than in the patients treated with famotidine. The 89 famotidine-treated patients had a cumulative observed DU recurrence rate of 23%, compared to a 57% in the 89 patients receiving placebo (p<0.01).
+
+                           In the international trial, the cumulative observed DU recurrence within 12 months in the 307 famotidine-treated patients was 36%, compared to 76% in the 325 patients who received placebo (p<0.01).
+
+                        Controlled trials have not extended beyond 1 year.

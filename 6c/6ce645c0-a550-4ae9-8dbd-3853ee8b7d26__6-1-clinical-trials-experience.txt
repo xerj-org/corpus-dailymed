@@ -1,0 +1,34 @@
+DailyMed 6ce645c0-a550-4ae9-8dbd-3853ee8b7d26 | Imvexxy | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+                        The safety of IMVEXXY 4 mcg and 10 mcg was assessed in a single, double-blind, parallel-group, placebo-controlled trial (N = 382). The duration of treatment in this trial was 12 weeks (dosing occurred every day for 14 days and then twice weekly thereafter for maintenance).
+
+                        Adverse reactions with an incidence of ≥ 3% in any IMVEXXY group and numerically greater than those reported in the placebo group are listed in Table 1.
+
+                           Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 3% and Numerically More Common in Women Receiving IMVEXXY
+
+                                 Preferred Term |
+                                 IMVEXXY
+
+4 mcg
+
+(N=191) |
+                                 IMVEXXY
+
+10 mcg
+
+(N=191) |
+                                 Placebo
+
+(N=192) |
+
+                                 Nervous system disorders, n (%) |
+                                  |
+                                  |
+                                  |
+
+                                 Headache |
+                                 7 (3.7) |
+                                 5 (2.6) |
+                                 6 (3.1) |

@@ -1,0 +1,20 @@
+DailyMed 3145ceda-8c1e-4601-8a9d-5fc4978226d6 | Sildenafil | 8.5 Geriatric Use
+
+Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil resulting in approximately 84% and 107% higher plasma AUC values of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy young volunteers (18 to 45 years)
+
+  [see Clinical Pharmacology
+
+                              (12.3)].
+                            Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively
+
+  [see Clinical Pharmacology 
+
+                                 (12.3)].
+
+  Of the total number of subjects in clinical studies of sildenafil tablets, 18% were 65 years and older, while 2% were 75 years and older. No overall differences in safety or efficacy were observed between older (≥ 65 years of age) and younger (< 65 years of age) subjects.
+
+  However, since higher plasma levels may increase the incidence of adverse reactions, a starting dose of 25 mg should be considered in older subjects due to the higher systemic exposure
+
+  [see Dosage and Administration
+
+                                 (2.5)].

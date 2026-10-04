@@ -1,0 +1,3 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Distribution
+
+Plasma protein binding in humans is approximately 87%. The volume of distribution (Vss) is approximately 21 liters.

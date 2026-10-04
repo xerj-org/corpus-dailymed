@@ -1,0 +1,21 @@
+DailyMed 1b2e5656-9da9-4fab-bf01-ed75896b836a | Glipizide | DESCRIPTION
+
+Glipizide is an oral blood-glucose-lowering drug of the sulfonylurea class.
+
+                  The Chemical Abstracts name of glipizide is 1-cyclohexyl-3-[[p-[2-(5-methylpyrazine-carboxamido)ethyl]phenyl]sulfonyl]urea. The molecular formula is C
+
+  21H
+
+  27N
+
+  5O
+
+  4S; the molecular weight is 445.55; the structural formula is shown below:
+
+                  Glipizide is a whitish, odorless powder with a pKa of 5.9. It is insoluble in water and alcohols, but soluble in 0.1
+
+  NNaOH; it is freely soluble in dimethylformamide. Glipizide tablets, USP for oral use are available in 5 and 10 mg strengths.
+
+                  Inert ingredients are: anhydrous lactose; colloidal silicon dioxide; magnesium stearate; sodium starch glycolate.
+
+                  Meets USP Dissolution Test 2.

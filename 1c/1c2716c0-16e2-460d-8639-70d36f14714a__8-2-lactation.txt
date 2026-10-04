@@ -1,0 +1,13 @@
+DailyMed 1c2716c0-16e2-460d-8639-70d36f14714a | Paroxetine | 8.2 Lactation
+
+Risk Summary
+
+                        Data from the published literature report the presence of paroxetine in human milk (see Data). There are reports of agitation, irritability, poor feeding and poor weight gain in infants exposed to paroxetine through breast milk (see Clinical Considerations). There are no data on the effect of paroxetine on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for paroxetine tablets and any potential adverse effects on the breastfed child from paroxetine tablets or from underlying maternal condition.
+
+                           Clinical Considerations
+
+                        Infants exposed to paroxetine tablets should be monitored for agitation, irritability, poor feeding and poor weight gain.
+
+                           Data
+
+                        Published literature suggests the presence of paroxetine in human milk with relative infant doses ranging between 0.4% to 2.2%, and a milk/plasma ratio of <1. No significant amounts were detected in the plasma of infants after breastfeeding.

@@ -1,0 +1,3 @@
+DailyMed 37b19837-fcab-4536-abad-6f4f92dfe794 | BRINZOLAMIDE | 7.2 High-Dose Salicylate Therapy
+
+Carbonic anhydrase inhibitors may produce acid-base and electrolyte alterations. These alterations were not reported in the clinical trials with brinzolamide. However, in patients treated with oral carbonic anhydrase inhibitors, rare instances of acid-base alterations have occurred with high-dose salicylate therapy. Therefore, the potential for such drug interactions should be considered in patients receiving brinzolamide ophthalmic suspension.

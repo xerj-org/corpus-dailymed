@@ -1,0 +1,15 @@
+DailyMed 698a46a6-29b5-4763-9442-ec9ad5eea86b | Nitroglycerin | 8.1 Pregnancy
+
+Risk summary
+
+  Limited published data on the use of nitroglycerin are insufficient to determine a drug associated risk of major birth defects or miscarriage. In animal reproduction studies, there were no adverse developmental effects when nitroglycerin was administered intravenously to rabbits or intraperitoneally to rats during organogenesis at doses greater than 64-times the human dose
+
+  [see Data].
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 – 4% and 15 – 20%, respectively.
+
+                        Data
+
+                           Animal Data
+
+  No embryotoxic or postnatal development effects were observed with transdermal application in pregnant rabbits and rats at doses up to 240 mg/kg/day for 13 days, at intraperitoneal doses in pregnant rats up to 20 mg/kg/day for 11 days, and at intravenous doses in pregnant rabbits up to 4 mg/kg/day for 13 days.

@@ -1,0 +1,15 @@
+DailyMed 5c2ac7cb-3a38-2174-e063-6394a90a95cc | Tramadol Hydrochloride | 8.5 Geriatric Use
+
+A total of 455 elderly (65 years of age or older) subjects were exposed to tramadol hydrochloride tablets in controlled clinical trials. Of those, 145 subjects were 75 years of age and older.
+
+                        In studies including geriatric patients, treatment-limiting adverse events were higher in subjects over 75 years of age compared to those under 65 years of age. Specifically, 30% of those over 75 years of age had gastrointestinal treatment-limiting adverse events compared to 17% of those under 65 years of age. Constipation resulted in discontinuation of treatment in 10% of those over 75.
+
+                        Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration. Titrate the dosage of tramadol hydrochloride tablets slowly in geriatric patients starting at the low end of the dosing range and frequently reevaluate the patient for signs of central nervous system and respiratory depression
+
+  [see
+
+   Warnings and Precautions (5.12)]
+
+  .
+
+                        Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.

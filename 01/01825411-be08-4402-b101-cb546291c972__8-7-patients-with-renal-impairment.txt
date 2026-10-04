@@ -1,0 +1,3 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 8.7 Patients with Renal Impairment
+
+Due to the limited role of the kidney in the excretion of rocuronium bromide, usual dosing guidelines should be followed. In patients with renal dysfunction, the duration of neuromuscular blockade was not prolonged; however, there was substantial individual variability (range: 22 to 90 minutes) [see Clinical Pharmacology (12.3)].

@@ -1,0 +1,11 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 8.2 Lactation
+
+Risk Summary
+
+                        There are no data on the presence of tebipenem in human milk, the effects on the breastfed infant, or the effects on milk production. Tebipenem and/or its metabolites were detected in the milk of lactating rats (see Data). When a drug is present in animal milk, it is likely that the drug will be present in human milk.
+
+                        The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for UTEBZI and any potential adverse effects on the breastfed child from UTEBZI or from the underlying maternal conditions.
+
+                           Data
+
+                        In rats, after oral administration of tebipenem pivoxil, the maximum concentration (Cmax) of tebipenem in milk was approximately 13% of that in plasma. The concentration of tebipenem in animal milk does not necessarily predict the concentration of drug in human milk.

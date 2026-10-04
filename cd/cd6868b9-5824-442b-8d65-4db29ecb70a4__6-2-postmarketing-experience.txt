@@ -1,0 +1,37 @@
+DailyMed cd6868b9-5824-442b-8d65-4db29ecb70a4 | ZEGERID | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of omeprazole and sodium bicarbonate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Omeprazole
+
+                           Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, urticaria (see also Skin below), fever, pain, fatigue, malaise, and systemic lupus erythematosus.
+
+                           Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitation, elevated blood pressure, and peripheral edema.
+
+                           Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis, abdominal swelling and fundic gland polyps. Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term treatment with omeprazole. This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
+
+                           Hepatic: Mild and, rarely, marked elevations of liver function tests [ALT (SGPT), AST (SGOT), ᵞ-glutamyl transpeptidase, alkaline phosphatase, and bilirubin (jaundice)]. In rare instances, overt liver disease has occurred, including hepatocellular, cholestatic, or mixed hepatitis, liver necrosis (some fatal), hepatic failure (some fatal), and hepatic encephalopathy.
+
+                           Infections and Infestations: Clostridium difficile-associated diarrhea.
+
+                           Metabolism and Nutritional Disorders: Hypomagnesemia, hypocalcemia, hypokalemia [see Warnings and Precautions (5.10)], hyponatremia, hypoglycemia, and weight gain.
+
+                           Musculoskeletal: Muscle cramps, myalgia, muscle weakness, joint pain, bone fracture, and leg pain.
+
+                           Nervous System/Psychiatric: Psychic disturbances including depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, tremors, apathy, somnolence, anxiety, dream abnormalities; vertigo; paresthesia; and hemifacial dysesthesia.
+
+                           Respiratory: Epistaxis, pharyngeal pain.
+
+                           Skin: Severe generalized skin reactions including TEN (some fatal), SJS, DRESS, AGEP, cutaneous lupus erythematosus and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
+
+                           Special Senses: Tinnitus, taste perversion.
+
+                           Ocular: Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, anterior ischemic optic neuropathy, optic neuritis, and double vision.
+
+                           Urogenital: Tubulointerstitial nephritis, urinary tract infection, microscopic pyuria, urinary frequency, elevated serum creatinine, proteinuria, hematuria, glycosuria, testicular pain, gynecomastia, and erectile dysfunction.
+
+                           Hematologic: Rare instances of pancytopenia, agranulocytosis (some fatal), thrombocytopenia, neutropenia, leukopenia, anemia, leukocytosis, and hemolytic anemia have been reported.
+
+                           Sodium Bicarbonate
+
+                        Metabolic alkalosis, seizures, and tetany.

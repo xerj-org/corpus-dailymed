@@ -1,0 +1,7 @@
+DailyMed b9b85048-5776-455f-bea6-6ab818cb8144 | hydrochlorothiazide | Pregnancy
+
+Teratogenic Effects: Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3,000 and 1,000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+                           Nonteratogenic Effects: Thiazides cross the placental barrier and appear in cord blood. There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+
+                           Nursing Mothers: Thiazides are excreted in breast milk. Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue hydrochlorothiazide, taking into account the importance of the drug to the mother.

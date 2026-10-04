@@ -1,0 +1,5 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | Specific Populations
+
+Renal impairment:Anti-FXa activity adjusted for exposure to apixaban was similar across renal function categories.
+
+                                 Hepatic impairment:Changes in anti-FXa activity were similar in patients with mild-to-moderate hepatic impairment and healthy subjects. However, in patients with moderate hepatic impairment, there is no clear understanding of the impact of this degree of hepatic function impairment on the coagulation cascade and its relationship to efficacy and bleeding. Patients with severe hepatic impairment were not studied.

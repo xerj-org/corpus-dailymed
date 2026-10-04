@@ -1,0 +1,111 @@
+DailyMed e4ea0c09-cdd1-4708-962c-6ba28b989df3 | Metronidazole | Recommended Dosage for the Treatment of Anaerobic Bacterial Infections
+
+The recommended dosage schedule for adults for the treatment of anaerobic infections is presented in Table 1:
+
+                           Table 1: Recommended Dosage Schedule for the Treatment of Anaerobic Bacterial Infections in Adults
+
+                                    Loading Dose
+
+                                  |
+
+                                    15 mg/kg infused over one hour (approximately 1 g for a 70-kg adult).
+
+                                  |
+
+                                    Maintenance Dose
+
+                                  |
+
+                                    7.5 mg/kg infused over one hour every six hours (approximately 500 mg for a 70-kg adult). The first maintenance dose should be instituted six hours following the initiation of the loading dose.
+
+                                  |
+
+                        Parenteral therapy may be changed to oral metronidazole therapy when conditions warrant, based upon the severity of the disease and the response of the patient to treatment with Metronidazole Injection. The usual adult oral dosage is 7.5 mg/kg every six hours.
+
+                        A maximum of 4 grams should not be exceeded during a 24-hour period.
+
+                        The usual duration of therapy is 7 to 10 days; however, infections of the bone and joint, lower respiratory tract, and endocardium may require longer treatment.
+
+                           Recommended Dosage for the Treatment of Intra-Abdominal Infections in Pediatric Patients Less than 4 Months of Age:
+
+                        The recommended dosage schedule for pediatric patients less than 4 months of age for the treatment of intra-abdominal infections is described in Table 2 below.
+
+                        These dosage schedules achieve drug exposures in pediatric patients similar to adults treated with Metronidazole Injection for this indication.
+
+                           Table 2: Recommended Dosage Schedule for the Treatment of Intra-Abdominal Infections in Pediatric Patients Less than 4 months of Age
+
+                                       Post-menstrual age (Completed weeks)
+
+                                  |
+
+                                       Loading Dose (mg/kg)
+
+                                  |
+
+                                       Maintenance Dose* (mg/kg)
+
+                                  |
+
+                                       Dosing interval (hours)
+
+                                  |
+
+                                    23 to < 34
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    7.5
+
+                                  |
+
+                                    12
+
+                                  |
+
+                                    34 to 40
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    7.5
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    >40 to 48
+
+                                  |
+
+                                    15
+
+                                  |
+
+                                    7.5
+
+                                  |
+
+                                    6
+
+                                  |
+
+                           *The first maintenance dose is given 24 hours after the start of the loading dose.
+
+                        Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in the plasma. Accordingly, for such patients, doses below those usually recommended should be administered cautiously. Close monitoring of plasma metronidazole levels and toxicity is recommended.1
+
+                        In patients receiving Metronidazole Injection in whom gastric secretions are continuously removed by nasogastric aspiration, sufficient metronidazole may be removed in the aspirate to cause a reduction in serum levels.
+
+                        The dose of Metronidazole Injection should not be specifically reduced in anuric patients since accumulated metabolites may be rapidly removed by dialysis.
+
+                           Dosage Considerations in Geriatric Patients
+
+                        In elderly patients the pharmacokinetics of metronidazole may be altered and, therefore, monitoring of serum levels may be necessary to adjust the Metronidazole Injection dosage accordingly.

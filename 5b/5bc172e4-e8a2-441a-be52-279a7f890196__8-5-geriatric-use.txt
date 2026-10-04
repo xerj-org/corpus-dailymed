@@ -1,0 +1,5 @@
+DailyMed 5bc172e4-e8a2-441a-be52-279a7f890196 | Inluriyo | 8.5 Geriatric Use
+
+Of 327 patients who received INLURIYO monotherapy in the EMBER-3 study, 118 patients were ≥ 65 years of age and 37 patients were ≥ 75 years of age. No overall differences in safety or effectiveness of INLURIYO monotherapy have been observed between patients 65 years of age and older and younger adult patients.
+
+                        Of the 208 patients who received INLURIYO in combination with abemaciclib in the EMBER-3 study, 90 patients were ≥65 years of age and 27 patients were ≥75 years of age. There was a higher rate of nausea in patients aged 65 years or older (59%) compared with younger patients (44%). The EMBER-3 study did not include sufficient numbers of patients 65 years of age and older with ESR1 mutations treated with INLURIYO in combination with abemaciclib to determine whether they respond differently than younger patients.

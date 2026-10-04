@@ -1,0 +1,5 @@
+DailyMed 394a49a8-81bb-43ba-8d6a-fa6fa5030587 | Ramipril | 8.6 Renal Impairment
+
+A single-dose pharmacokinetic study was conducted in hypertensive patients with varying degrees of renal impairment who received a single 10 mg dose of ramipril. Patients were stratified into four groups based on initial estimates of creatinine clearance: normal (>80 mL/min), mild impairment (40 to 80 mL/min), moderate impairment (15 to 40 mL/min), and severe impairment (<15 mL/min). On average, the AUC
+
+  0-24hfor ramiprilat was approximately 1.7-fold higher, 3-fold higher, and 3.2-fold higher in the groups with mild, moderate, and severe renal impairment, respectively, compared to the group with normal renal function. Overall, the results suggest that the starting dose of ramipril should be adjusted downward in patients with moderate-to-severe renal impairment.

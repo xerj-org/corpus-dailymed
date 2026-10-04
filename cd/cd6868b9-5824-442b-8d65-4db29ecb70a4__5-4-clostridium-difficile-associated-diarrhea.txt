@@ -1,0 +1,5 @@
+DailyMed cd6868b9-5824-442b-8d65-4db29ecb70a4 | ZEGERID | 5.4 Clostridium difficile-Associated Diarrhea
+
+Published observational studies suggest that PPI therapy like ZEGERID may be associated with an increased risk of Clostridium difficile-associated diarrhea, especially in hospitalized patients. This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
+
+                        Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.

@@ -1,0 +1,33 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 14.4 Clinical Studies in Polyarticular Course Juvenile Idiopathic Arthritis
+
+The efficacy of tofacitinib tablets for pcJIA was assessed in Study pcJIA-I (NCT02592434). This was a 44-week, two-part study (that consisted of an 18-week, open-label, run-in phase, followed by a 26-week double-blind, placebo-controlled, randomized withdrawal phase) in pediatric patients 2 years to 17 years of age with active rheumatoid factor (RF) negative polyarthritis, RF positive polyarthritis, extended oligoarthritis, and systemic JIA without systemic manifestations who had an inadequate response or intolerance to at least one DMARD which could have included MTX or biologic agents. This study also included patients ages 2 years to 17 years of age with active juvenile psoriatic arthritis (jPsA) and enthesitis-­related arthritis (ERA) who had an inadequate response to NSAIDs. Although the clinical studies included some patients who are TNF blocker-naïve, tofacitinib is not approved for use in TNF blocker-naïve patients
+
+  [see
+
+   Indications and Usage (1.4)]
+
+  .
+
+                        Patients received tofacitinib tablets dosed at 5 mg twice daily or body weight-based equivalent twice daily) for 18 weeks (run-in phase) followed by randomization to either tofacitinib tablets (dosed at 5 mg twice daily or body weight-based equivalent twice daily) or placebo for 26 weeks (double-blind phase). Only patients who achieved at least a JIA ACR30 response at the end of the run-in phase were randomized (1:1) to the double-blind phase. Treatment with a stable dose of MTX was permitted but was not required during the study. Concurrent use of biologics or DMARDs other than MTX was not permitted in the study.
+
+                           Baseline Disease Characteristics
+
+                        A total of 225 pediatric patients with JIA (56 male and 169 female) with active polyarthritis were enrolled in the run-in phase including RF negative (104), RF positive (39), extended oligoarthritis (28), systemic JIA without systemic manifestations (13), jPsA (20), and ERA (21). Patients had a mean (SD) disease duration of 3.8 ± 3.5 years, and a mean (SD) number of active joints of 12.2 ± 8.1.
+
+                           Efficacy Results
+
+                        Of the 225 patients, 173 (77%) patients achieved JIA ACR30 response at Week 18 and were randomized into the double-blind phase to either tofacitinib tablets (n=88) or placebo (n=85). At the conclusion of the 18-week, open-label, run-in phase, pediatric ACR 30/50/70 responses were 77%, 70%, and 49%, respectively.
+
+                        In both the run-in and double-blind phases, approximately one-third of the patients were taking concomitant oral corticosteroids, and approximately two-thirds were taking concomitant MTX.
+
+                        The primary endpoint was the occurrence of disease flare at Week 44 relative to the double-blind phase baseline at Week 18. Disease flare was defined (according to Pediatric Rheumatology Collaborative Study Group (PRCSG)/Pediatric Rheumatology International Trials Organization (PRINTO) Disease Flare criteria) as worsening of ≥30% in 3 or more of the 6 JIA core response variables with no more than 1 of the remaining JIA core response variables improving by ≥30%.
+
+                        Tofacitinib tablets-treated patients experienced significantly fewer disease flares at Week 44 compared to placebo-treated patients (31% [27/88] vs. 55% [47/85]; difference in proportions -25% [95% CI: -39%, -10%]; p=0.0007). The occurrence of disease flare by visit in Study pcJIA-I is shown in Figure 7.
+
+                           Figure 7: Occurrence of Disease Flare in Pediatric Patients 2 Years of Age and Older with JIA by Visit from Week 18 to Week 44 in the Double-Blind Phase in Study pcJIA-I
+
+                            
+
+                            
+
+                        BID = twice daily; SE = standard error; N = total number of patients. The 26-week double-blind phase is from Week 18 through Week 44 on and after randomization day.

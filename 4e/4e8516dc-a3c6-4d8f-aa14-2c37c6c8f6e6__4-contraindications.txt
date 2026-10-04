@@ -1,0 +1,7 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 4 CONTRAINDICATIONS
+
+Isotretinoin capsules are contraindicated in:
+
+                     Pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+
+                     Patients with hypersensitivity to isotretinoin (or Vitamin A, given the chemical similarity to isotretinoin) or to any of its components (anaphylaxis and other allergic reactions have occurred) [see Warnings and Precautions (5.14)].

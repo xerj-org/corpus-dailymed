@@ -1,0 +1,15 @@
+DailyMed e27c3e09-bc4f-4f01-be05-1c43ac72285d | Nilotinib | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of nilotinib. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                         
+
+                           Blood and Lymphatic System Disorders: thrombotic microangiopathy
+
+                         
+
+                           Nervous System Disorders: facial paralysis
+
+                         
+
+                           Musculoskeletal and Connective Tissue Disorders: osteonecrosis

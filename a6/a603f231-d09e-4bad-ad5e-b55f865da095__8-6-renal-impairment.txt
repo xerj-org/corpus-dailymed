@@ -1,0 +1,5 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 8.6 Renal Impairment
+
+LEQSELVI is not recommended for use in patients with severe renal impairment or end-stage renal disease (eGFR < 30 ml/min). No adjustment of dosage is required in patients with mild or moderate renal impairment.
+
+                        The effect of severe renal impairment on deuruxolitinib pharmacokinetics is unknown [see Clinical Pharmacology (12.3)].

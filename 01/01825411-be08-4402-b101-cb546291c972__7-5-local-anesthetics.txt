@@ -1,0 +1,3 @@
+DailyMed 01825411-be08-4402-b101-cb546291c972 | Rocuronium Bromide | 7.5 Local Anesthetics
+
+Local anesthetics have been shown to increase the duration of neuromuscular block and decrease infusion requirements of neuromuscular blocking agents [see Warnings and Precautions (5.10)].

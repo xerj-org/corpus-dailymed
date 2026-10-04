@@ -1,0 +1,44 @@
+DailyMed dc24aa15-330c-4698-872f-159d7e582b4b | Mycophenolic Acid | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of mycophenolic acid delayed release or other MPA derivatives. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+
+                           Congenital malformations, including ear, facial, cardiac and nervous system malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to MMF during pregnancy [see
+
+                                 Boxed Warning, Warnings and Precautions (
+
+    5.1)
+
+   ].
+
+                           Infections [see
+
+   Warnings and Precautions (
+
+    5.4,
+
+    5.5
+                              )]
+
+                                 Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal.
+
+                                 Polyomavirus associated nephropathy (PVAN), especially due to BK virus infection associated with serious outcomes, including deteriorating renal function and renal graft loss.
+
+                                 Viral reactivation in patients infected with HBV or HCV.
+
+                           Cases of pure red cell aplasia (PRCA) have been reported in patients treated with MPA derivatives in combination with other immunosuppressive agents [see
+
+   Warnings and Precautions (
+
+    5.6)
+
+   ].
+
+                           Hypersensitivity reactions, including anaphylaxis and angioedema
+
+   [see
+
+    Warnings and Precautions (5.9)]
+
+                        The following additional adverse reactions have been identified during post-approval use of mycophenolic acid delayed release: agranulocytosis, asthenia, osteomyelitis, lymphadenopathy, lymphopenia, wheezing, dry mouth, gastritis, peritonitis, anorexia, alopecia, pulmonary edema, Kaposi’s sarcoma,
+
+  de novopurine synthesis inhibitors-associated acute inflammatory syndrome.

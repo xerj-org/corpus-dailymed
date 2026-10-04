@@ -1,0 +1,10 @@
+DailyMed 50f706f9-5003-4e15-bece-85b6213b1f5c | Rifampin | Drug Interactions
+
+Pharmacodynamic Interactions
+
+Healthy subjects who received rifampin 600 mg once daily concomitantly with saquinavir 1000 mg/ritonavir 100 mg twice daily (ritonavir-boosted saquinavir) developed severe hepatocellular toxicity. Therefore, concomitant use of these medications is contraindicated. (See
+
+                              CONTRAINDICATIONS
+                           ).
+
+                        When rifampin is given concomitantly with other hepatotoxic medications such as halothane or isoniazid, the potential for hepatotoxicity is increased. The concomitant use of rifampin and halothane should be avoided. Patients receiving both rifampin and isoniazid should be monitored closely for hepatotoxicity.

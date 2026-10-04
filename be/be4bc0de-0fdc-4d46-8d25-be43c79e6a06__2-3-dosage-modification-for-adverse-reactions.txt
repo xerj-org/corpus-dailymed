@@ -1,0 +1,249 @@
+DailyMed be4bc0de-0fdc-4d46-8d25-be43c79e6a06 | Verzenio | 2.3 Dosage Modification for Adverse Reactions
+
+The recommended VERZENIO dose reductions for adverse reactions are provided in Table 1. Permanently discontinue VERZENIO for patients unable to tolerate 50 mg twice daily.
+
+                           Table 1: Recommended VERZENIO Dose Reductions for Adverse Reactions
+
+                                    Dosage Level
+                                  |
+
+                                    VERZENIO Dose in
+
+                                    Combination with Fulvestrant, Tamoxifen, Imlunestrant or an Aromatase Inhibitor
+                                  |
+
+                                    VERZENIO Dose
+
+                                    for Monotherapy
+                                  |
+
+                                 Recommended starting dosage
+ |
+                                 150 mg twice daily
+ |
+                                 200 mg twice daily
+ |
+
+                                 First dosage reduction
+ |
+                                 100 mg twice daily
+ |
+                                 150 mg twice daily
+ |
+
+                                 Second dosage reduction
+ |
+                                 50 mg twice daily
+ |
+                                 100 mg twice daily
+ |
+
+                                 Third dosage reduction
+ |
+                                 not applicable
+ |
+                                 50 mg twice daily
+ |
+
+                        The recommended VERZENIO dosage modifications for adverse reactions are provided in Tables 2-7.
+
+                           Table 2: VERZENIO Dosage Modifications and Management — Hematologic Toxicitiesa
+
+                                    Abbreviation: CTCAE = Common Terminology Criteria for Adverse Events.
+
+                                  |
+
+                                       a If blood cell growth factors are required, withhold VERZENIO dosage for at least 48 hours after the last dose of blood cell growth factor and until toxicity resolves to ≤Grade 2. Resume at next lower dose unless already performed for the toxicity that led to the use of the growth factor. Growth factor use as per current treatment guidelines.
+
+                                  |
+
+                                 Monitor complete blood counts prior to the start of VERZENIO therapy, every 2 weeks for the first 2 months, monthly for the next 2 months, and as clinically indicated.
+ |
+
+                                    CTCAE Grade
+                                  |
+
+                                    VERZENIO Dosage Modifications
+                                  |
+
+                                 Grade 1 or 2
+ |
+                                 No dosage modification is required.
+ |
+
+                                 Grade 3
+ |
+                                 Withhold until toxicity resolves to ≤Grade 2.
+
+Dosage reduction is not required.
+ |
+
+                                 Grade 3 recurrent, or Grade 4
+ |
+                                 Withhold until toxicity resolves to ≤Grade 2.
+
+Resume at next lower dose.
+ |
+
+                           Table 3: VERZENIO Dosage Modifications and Management — Diarrhea
+
+                                 At the first sign of loose stools, start treatment with antidiarrheal agents and increase intake of oral fluids.
+ |
+
+                                    CTCAE Grade
+                                  |
+
+                                    VERZENIO Dosage Modifications
+                                  |
+
+                                 Grade 1
+ |
+                                 No dosage modification is required.
+ |
+
+                                 Grade 2
+ |
+                                 If toxicity does not resolve within 24 hours to ≤Grade 1, Withhold until resolution. No dosage reduction is required.
+ |
+
+                                 Grade 2 that persists or recurs after resuming the same dose despite maximal supportive measures
+ |
+                                 Withhold until toxicity resolves to ≤Grade 1.
+
+Resume at next lower dose.
+ |
+
+                                 Grade 3 or 4 or requires hospitalization
+ |
+                                 Withhold until toxicity resolves to ≤Grade 1.
+
+Resume at next lower dose.
+ |
+
+                           Table 4: VERZENIO Dosage Modifications and Management — Hepatotoxicity
+
+                                    Abbreviations: ALT = alanine aminotransferase, AST = aspartate aminotransferase, ULN = upper limit of normal.
+
+                                  |
+
+                                 Monitor ALT, AST, and serum bilirubin prior to the start of VERZENIO therapy, every 2 weeks for the first 2 months, monthly for the next 2 months, and as clinically indicated.
+ |
+
+                                    CTCAE Grade for ALT and AST
+                                  |
+
+                                    VERZENIO Dosage Modifications
+                                  |
+
+                                 Grade 1 (>ULN-3.0 x ULN)
+
+Grade 2 (>3.0-5.0 x ULN),
+
+WITHOUT increase in total bilirubin above 2 x ULN
+ |
+                                 No dosage modification is required.
+ |
+
+                                 Persistent or Recurrent Grade 2, or Grade 3 (>5.0-20.0 x ULN), WITHOUT increase in total bilirubin above 2 x ULN
+ |
+                                 Withhold until toxicity resolves to baseline or Grade 1.
+
+Resume at next lower dose.
+ |
+
+                                 Elevation in AST and/or ALT >3 x ULN WITH total bilirubin >2 x ULN, in the absence of cholestasis
+ |
+                                 Discontinue VERZENIO.
+ |
+
+                                 Grade 4 (>20.0 x ULN)
+ |
+                                 Discontinue VERZENIO.
+ |
+
+                           Table 5: VERZENIO Dosage Modifications and Management — Interstitial Lung Disease/Pneumonitis
+
+                                    CTCAE Grade
+                                  |
+
+                                    VERZENIO Dosage Modifications
+                                  |
+
+                                 Grade 1 or 2
+ |
+                                 No dosage modification is required.
+ |
+
+                                 Persistent or recurrent Grade 2 toxicity that does not resolve with maximal supportive measures within 7 days to baseline or Grade 1
+ |
+                                 Withhold until toxicity resolves to baseline or ≤Grade 1.
+
+Resume at next lower dose.
+ |
+
+                                 Grade 3 or 4
+ |
+                                 Discontinue VERZENIO.
+ |
+
+                           Table 6: VERZENIO Dosage Modifications and Management — Venous Thromboembolic Events (VTEs)
+
+                                    CTCAE Grade
+                                  |
+
+                                    VERZENIO Dosage Modifications
+                                  |
+
+                                    Early Breast Cancer
+                                  |
+
+                                 Any Grade
+ |
+                                 Withhold and treat as clinically indicated. Resume VERZENIO when the patient is clinically stable.
+ |
+
+                                    Advanced or Metastatic Breast Cancer
+                                  |
+
+                                 Grade 1 or 2
+ |
+                                 No dosage modification is required.
+ |
+
+                                 Grade 3 or 4
+ |
+                                 Withhold and treat as clinically indicated. Resume VERZENIO when the patient is clinically stable.
+ |
+
+                           Table 7: VERZENIO Dosage Modifications and Management — Other Toxicitiesa
+
+                                       a Excluding diarrhea, hematologic toxicity, hepatotoxicity, ILD/pneumonitis, and VTEs.
+
+                                  |
+
+                                    CTCAE Grade
+                                  |
+
+                                    VERZENIO Dosage Modifications
+                                  |
+
+                                 Grade 1 or 2
+ |
+                                 No dosage modification is required.
+ |
+
+                                 Persistent or recurrent Grade 2 toxicity that does not resolve with maximal supportive measures within 7 days to baseline or Grade 1
+ |
+                                 Withhold until toxicity resolves to baseline or ≤Grade 1.
+
+Resume at next lower dose.
+ |
+
+                                 Grade 3 or 4
+ |
+                                 Withhold until toxicity resolves to baseline or ≤Grade 1.
+
+Resume at next lower dose.
+ |
+
+                        Refer to the Prescribing Information for coadministered fulvestrant, tamoxifen, imlunestrant or an aromatase inhibitor for dose modifications and other relevant safety information.

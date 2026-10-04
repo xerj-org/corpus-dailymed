@@ -1,0 +1,11 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 2.4 Dosing in Asian Patients
+
+Initiate rosuvastatin tablets at 5 mg once daily due to increased rosuvastatin plasma concentrations. Consider the risks and benefits of rosuvastatin tablets when treating Asian patients not adequately controlled at doses up to 20 mg once daily
+
+  [see
+
+   Warnings and Precautions (5.1),
+
+   Use in Specific Populations (8.8), and
+
+   Clinical Pharmacology (12.3)].

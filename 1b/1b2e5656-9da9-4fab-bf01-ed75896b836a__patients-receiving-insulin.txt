@@ -1,0 +1,9 @@
+DailyMed 1b2e5656-9da9-4fab-bf01-ed75896b836a | Glipizide | Patients Receiving Insulin
+
+As with other sulfonylurea-class hypoglycemics, many stable non-insulin-dependent diabetic patients receiving insulin may be safely placed on glipizide. When transferring patients from insulin to glipizide, the following general guidelines should be considered:
+
+                        For patients whose daily insulin requirement is 20 units or less, insulin may be discontinued and glipizide therapy may begin at usual dosages. Several days should elapse between glipizide titration steps.
+
+                        For patients whose daily insulin requirement is greater than 20 units, the insulin dose should be reduced by 50% and glipizide therapy may begin at usual dosages. Subsequent reductions in insulin dosage should depend on individual patient response. Several days should elapse between glipizide titration steps.  
+
+                        During the insulin withdrawal period, the patient should test urine samples for sugar and ketone bodies at least three times daily. Patients should be instructed to contact the prescriber immediately if these tests are abnormal. In some cases, especially when patient has been receiving greater than 40 units of insulin daily, it may be advisable to consider hospitalization during the transition period.

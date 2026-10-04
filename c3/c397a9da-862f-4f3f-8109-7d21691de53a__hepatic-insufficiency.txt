@@ -1,0 +1,3 @@
+DailyMed c397a9da-862f-4f3f-8109-7d21691de53a | Diazepam | Hepatic Insufficiency
+
+In mild and moderate cirrhosis, average half-life is increased. The average increase has been variously reported from 2-fold to 5-fold, with individual half-lives over 500 hours reported. There is also an increase in volume of distribution, and average clearance decreases by almost half. Mean half-life is also prolonged with hepatic fibrosis to 90 hours (range 66-104 hours), with chronic active hepatitis to 60 hours (range 26-76 hours), and with acute viral hepatitis to 74 hours (range 49-129). In chronic active hepatitis, clearance is decreased by almost half.

@@ -1,0 +1,250 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 14 CLINICAL STUDIES
+
+Primary Humoral Immunodeficiency (PI)
+
+                  In a randomized, double-blind, parallel group clinical trial with 172 subjects with primary humoral immunodeficiencies GAMUNEX-C was demonstrated to be at least as efficacious as GAMIMUNE N, 10% in the prevention of any infection, i.e., validated plus clinically defined, non-validated infections of any organ system, during a nine month treatment period. Twenty-six subjects were excluded from the Per Protocol analysis (2 due to non-compliance and 24 due to protocol violations).  The analysis for efficacy was based on the annual rate of bacterial infections, pneumonia, acute sinusitis and acute exacerbations of chronic sinusitis.
+
+                     Table 9: Efficacy Results Per Protocol Analysis
+
+                              |
+                           No. of Subjects with at Least One Infection (%) |
+                              |
+                              |
+
+                             |
+                           GAMUNEX®-C
+
+(n=73) |
+                           GAMIMUNE® N, 10%
+
+(n=73) |
+                           Mean Difference
+
+(90% Confidence Interval) |
+                           p-Value |
+
+                           Validated Infections |
+                           9 (12%) |
+                           17 (23%) |
+                           -0.117
+
+(-0.220, -0.015) |
+                           0.06 |
+
+                           Acute Sinusitis |
+                           4 (5%) |
+                           10 (14%) |
+                            |
+                            |
+
+                           Exacerbation of
+
+Chronic Sinusitis |
+                           5 (7%) |
+                           6 (8%) |
+                            |
+                            |
+
+                           Pneumonia |
+                           0 (0%) |
+                           2 (3%) |
+                            |
+                            |
+
+                           Any InfectionValidated infections plus clinically defined, non-validated infections.
+
+                            |
+                           56 (77%) |
+                           57 (78%) |
+                           -0.020
+
+(-0.135, 0.096) |
+                           0.78 |
+
+                  The annual rate of validated infections (Number of Infections/year/subject) was 0.18 in the group treated with GAMUNEX-C and 0.43 in the group treated with GAMIMUNE N, 10% (p=0.023). The annual rates for any infection (validated plus clinically defined, non-validated infections of any organ system) were 2.88 and 3.38, respectively (p=0.300).
+
+                     Primary Humoral Immunodeficiency (ITP)
+
+                  A double-blind, randomized, parallel group clinical trial with 97 ITP subjects was carried out to test the hypothesis that GAMUNEX-C was at least as effective as GAMIMUNE N, 10% in raising platelet counts from less than or equal to 20 x109/L to more than 50 x109/L within 7 days after treatment with 2 g/kg IGIV. Twenty-four percent of the subjects were less than or equal to 16 years of age.
+
+                  GAMUNEX-C was demonstrated to be at least as effective as GAMIMUNE N, 10% in the treatment of adults and children with acute or chronic ITP.
+
+                     Table 10: Platelet Response of Per Protocol Analysis
+
+                             |
+                            Number of Responders  (percent of all subjects)  |
+                             |
+
+                             |
+                            GAMUNEX®-C
+
+ (n=39)  |
+                            GAMIMUNE® N,  10%
+
+ (n=42)  |
+                            Mean Difference
+
+ (90% Confidence Interval)  |
+
+                            By  Day 7  |
+                            35 (90%)  |
+                            35 (83%)  |
+                            0.075
+
+ (-0.037, 0.186)  |
+
+                            By  Day 23  |
+                            35 (90%)  |
+                            36 (86%)  |
+                            0.051
+
+ (-0.058, 0.160)  |
+
+                            Sustained  for 7 days  |
+                            29 (74%)  |
+                            25 (60%)  |
+                            0.164
+
+ (0.003, 0.330)  |
+
+                  A trial was conducted to evaluate the clinical response to rapid infusion of GAMUNEX-C in patients with ITP. The study involved 28 chronic ITP subjects, wherein the subjects received 1 g/kg GAMUNEX-C on three occasions for treatment of relapses. The infusion rate was randomly assigned to 0.08, 0.11, or 0.14 mL/kg/min (8, 11 or 14 mg/kg/min). Pre-medication with corticosteroids to alleviate infusion-related intolerability was not permitted. Pre-treatment with antihistamines, anti-pyretics and analgesics was permitted.  The average dose was approximately 1 g/kg body weight at all three prescribed rates of infusion (0.08, 0.11 and 0.14 mL/kg/min).  All patients were administered each of the three planned infusions except seven subjects. Based on 21 patients per treatment group, the a posteriori power to detect twice as many drug-related adverse events between groups was 23%. Of the seven subjects that did not complete the study, five did not require additional treatment, one withdrew because he refused to participate without concomitant medication (prednisone) and one experienced an adverse event (hives); however, this was at the lowest dose rate level (0.08 mL/kg/min).
+
+                     Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+
+                  A multi-center, randomized, double-blind, Placebo-controlled trial (The Immune Globulin Intravenous (Human), 10% Caprylate/Chromatography Purified CIDP Efficacy or ICE study) was conducted with GAMUNEX-C. This study included two separately randomized periods to assess whether GAMUNEX-C was more effective than Placebo for the treatment of CIDP (assessed in the Efficacy Period for up to 24 weeks) and whether long-term administration of GAMUNEX-C could maintain long-term benefit (assessed in the 24 week Randomized Withdrawal Period).
+
+                  In the Efficacy Period, there was a requirement for Rescue (crossover) to the alternate study drug if the subject did not improve and maintain this improvement until the end of the 24 week treatment period. Subjects entering the Rescue phase followed the same dosing and schedule as in the Efficacy period. Any subject who was rescued (crossed over) and did not improve and maintain this improvement was withdrawn from the study.
+
+                  Subjects who completed 24 weeks treatment in the Efficacy period or Rescue phase and responded to therapy were eligible for entry into a double-blind Randomized Withdrawal Period. Eligible subjects were re-randomized to GAMUNEX-C or Placebo. Any subject who relapsed was withdrawn from the study.
+
+                  The Efficacy Period and the Rescue treatment started with a loading dose of 2 g/kg body weight of GAMUNEX-C or equal volume of Placebo given over 2-4 consecutive days. All other infusions (including the first infusion of the Randomized Withdrawal Period) were given as maintenance doses of 1 g/kg body weight (or equivalent volume of Placebo) every three weeks.
+
+                  The Responder rates of the GAMUNEX-C and Placebo treatment groups were measured by the INCAT score. The INCAT (Inflammatory Neuropathy Cause and Treatment) scale is used to assess functional disability of both upper and lower extremities in demyelinating polyneuropathy. The INCAT scale has upper and lower extremity components (maximum of 5 points for upper (arm disability) and maximum of 5 points for lower (leg disability)) that add up to a maximum of 10-points (0 is normal and 10 is severely incapacitated). At the start of the efficacy portion of the study, the INCAT scores were as follows: Upper Extremity mean was 2.2 ± 1.0, and median was 2.0 with a range of 0 to 5; Lower Extremity mean was 1.9 ± 0.9, and median was 2.0 with a range of 1 to 5; Total Overall Score mean was 4.2 ± 1.4, and median was 4.0 with a range of 2 to 9. A Responder was defined as a subject with at least 1-point improvement from baseline in the adjusted INCAT score that was maintained through 24 weeks.
+
+                  More subjects with CIDP responded to GAMUNEX-C: 28 of 59 subjects (47.5%) responded to GAMUNEX-C compared with 13 of 58 subjects (22.4%) administered Placebo (25% difference; 95% CI 7%-43%; p=0.006). The study included both subjects who were IGIV naïve and subjects who had previous IGIV experience. The outcome was influenced by the group of subjects who experienced prior therapy with IGIV, as shown by the outcomes table, below.
+
+                  Time to relapse for the subset of 57 subjects who previously responded to GAMUNEX-C was evaluated: 31 were randomly reassigned to continue to receive GAMUNEX-C and 26 subjects were randomly reassigned to Placebo in the Randomized Withdrawal Period. Subjects who continued to receive GAMUNEX-C experienced a longer time to relapse versus subjects treated with Placebo (p=0.011). The probability of relapse was 13% with GAMUNEX-C versus 45% with Placebo (hazard ratio, 0.19; 95% confidence interval, 0.05, 0.70).
+
+                     Table 11: Outcomes in Intent-to-Treat Population Efficacy Period
+
+                           Efficacy Period |
+                           GAMUNEX®-C |
+                           Placebo |
+                           p-valuep-value based on Fisher's exact method
+
+                            |
+
+                           Responder |
+                           Non-Responder |
+                           Responder |
+                           Non-Responder |
+
+                           All Subjects |
+                           28/59 (47.5%) |
+                           31/59 (52.5%) |
+                           13/58 (22.4%) |
+                           45/58 (77.6%) |
+                           0.006 |
+
+                           IGIV -
+
+Naïve Subjects |
+
+17/39 (43.6%) |
+
+22/39 (56.4%) |
+
+13/46 (28.3%) |
+
+33/46 (71.7%) |
+
+0.174 |
+
+                           IGIV -
+
+Experienced Subjects |
+
+11/20 (55.0%) |
+
+9/20 (45.0%) |
+
+0/12 (0%) |
+
+12/12 (100%) |
+
+0.002 |
+
+                  The following table shows outcomes for the Rescue Phase (which are supportive data):
+
+                     Table 12: Outcomes in Rescue Phase
+
+                           Rescue Phase |
+                           GAMUNEX®-C |
+                           Placebo |
+                           p-valuep-value based on Fisher's exact method
+
+                            |
+
+                           Success |
+                           Failure |
+                           Success |
+                           Failure |
+
+                           All Subjects |
+                           25/45
+
+(55.6%) |
+                           20/45
+
+(44.4%) |
+                           6/23
+
+(26.1%) |
+                           17/23
+
+(73.9%) |
+                           0.038 |
+
+                           IGIV - Naïve Subjects |
+                           19/33
+
+(57.6%) |
+                           14/33
+
+(42.4%) |
+                           6/18
+
+(33.3%) |
+                           12/18
+
+(66.7%) |
+                           0.144 |
+
+                           IGIV - Experienced Subjects |
+                           6/12
+
+(50%) |
+                           6/12
+
+(50%) |
+                           0/5
+
+(0%) |
+                           5/5
+
+(100%) |
+                           0.102 |
+
+                  The following Kaplan-Meier curves show the outcomes for the Randomized Withdrawal Period:
+
+                     Figure 5: Outcome for Randomized Withdrawal Period
+
+                           Secondary Endpoint
+
+Randomized Withdrawal Period |
+                           Time to Relapse |
+                           p-valuep-value based on log-rank test
+
+p= 0.011 |
+
+                            |

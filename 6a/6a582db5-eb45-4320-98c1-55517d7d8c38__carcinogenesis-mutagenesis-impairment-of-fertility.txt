@@ -1,0 +1,7 @@
+DailyMed 6a582db5-eb45-4320-98c1-55517d7d8c38 | Isosorbide Mononitrate | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No evidence of carcinogenicity was observed in rats exposed to isosorbide mononitrate in their diets at doses of up to 900 mg/kg/day for the first 6 months and 500 mg/kg/day for the remaining duration of a study in which males were dosed for up to 121 weeks and females were dosed for up to 137 weeks. No evidence of carcinogenicity was observed in mice exposed to isosorbide mononitrate in their diets for up to 104 weeks at doses of up to 900 mg/kg/day.
+
+                        Isosorbide mononitrate did not produce gene mutations (Ames test, mouse lymphoma test) or chromosome aberrations (human lymphocyte and mouse micronucleus tests) at biologically relevant concentrations.
+
+                        No effects on fertility were observed in a study in which male and female rats were administered doses of up to 750 mg/kg/day beginning, in males, 9 weeks prior to mating, and in females, 2 weeks prior to mating.

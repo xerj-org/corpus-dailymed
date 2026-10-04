@@ -1,0 +1,35 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 12.3 Pharmacokinetics
+
+The pharmacokinetics of inebilizumab-cdon in patients with NMOSD, IgG4-RD, and gMG was similar, and was biphasic with a mean terminal half-life of 18 days.
+
+                        In patients with NMOSD, the mean maximum concentration was 108 µg/mL (following the second 300 mg dose on day 15), and the cumulative AUC of the 26-week treatment period in which NMOSD patients received two intravenous administrations 2 week apart was 2980 µg×d/mL.
+
+                        In patients with IgG4-RD, the mean maximum concentration was 127 µg/mL (following the second 300 mg dose on day 15), and the cumulative AUC of the 52-week treatment period in which IgG4-RD patients received two intravenous administrations 2 weeks apart, followed by a third dose at week 26 was 4290 µg×d/mL.
+
+                        In patients with gMG, the mean maximum concentration was 139 µg/mL (following the second 300 mg dose on day 15) for the overall population. The cumulative AUC of the 52-week treatment period in which anti-AChR antibody positive patients (n = 84) received two intravenous administrations 2 weeks apart, followed by a third dose at week 26 was 4240 µg×d/mL. The cumulative AUC of the 26-week treatment period in which anti-MuSK antibody positive patients (n = 17) received two intravenous administrations 2 weeks apart was 3740 µg×d/mL.
+
+                           Distribution
+
+                        Based on population pharmacokinetic analysis, the estimated typical central and peripheral volume of distribution of inebilizumab-cdon was 2.95 L and 2.57 L, respectively.
+
+                           Metabolism
+
+                        Inebilizumab-cdon is a humanized IgG1 monoclonal antibody that is degraded by proteolytic enzymes widely distributed in the body.
+
+                           Elimination
+
+                        The results of population pharmacokinetic analysis indicated that the estimated inebilizumab-cdon systemic clearance of the first-order elimination pathway was 0.19 L/day. At low exposure levels, inebilizumab-cdon was likely subject to the receptor (CD19)-mediated clearance, which decreased with time presumably because of the depletion of B-cells by UPLIZNA treatment.
+
+                           Specific Populations
+
+                           Gender, Race, Geriatric Use
+
+                        A population pharmacokinetic analysis indicated that there was no significant effect of gender, race, and age on inebilizumab-cdon clearance.
+
+                           Renal/Hepatic Impairment
+
+                        No formal clinical studies have been conducted to investigate the effect of renal impairment or hepatic impairment on inebilizumab-cdon pharmacokinetic parameters.
+
+                           Drug Interaction Studies
+
+                        Cytochrome P450 enzymes and transporters are not involved in the clearance of inebilizumab-cdon; therefore, the potential risk of interactions between UPLIZNA and concomitant medications that are substrates, inducers, or inhibitors of cytochrome P450 enzymes and transporters is low.

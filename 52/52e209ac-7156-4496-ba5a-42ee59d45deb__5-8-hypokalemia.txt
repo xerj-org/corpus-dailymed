@@ -1,0 +1,3 @@
+DailyMed 52e209ac-7156-4496-ba5a-42ee59d45deb | Albuterol sulfate | 5.8 Hypokalemia
+
+As with other beta-agonists, albuterol sulfate inhalation aerosol may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects. The decrease is usually transient, not requiring supplementation.

@@ -1,0 +1,17 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 5.15 Laboratory Abnormalities and Laboratory Monitoring for Adverse Reactions
+
+Laboratory Monitoring
+
+                           Pregnancy Testing: Obtain a screening and confirmatory pregnancy test prior to treatment initiation. Repeat a pregnancy test prior to each prescription, at the end of the entire course of isotretinoin treatment, and 1 month after the discontinuation of isotretinoin [see Use in Specific Populations (8.3)].
+
+                           Lipid Tests: Obtain pretreatment and follow-up fasting lipid tests under fasting conditions. Wait 36 hours after consumption of alcohol before testing is performed. It is recommended that these tests be performed periodically until the lipid response to isotretinoin is known. The incidence of hypertriglyceridemia is 25% in patients treated with isotretinoin capsules [see Warnings and Precautions (5.8)].
+
+                           Liver Function Tests: As elevations of liver enzymes have been observed during clinical trials, and hepatitis has been reported in patients on isotretinoin capsules, perform pretreatment and follow-up liver function tests periodically until the response to isotretinoin is known [see Warnings and Precautions (5.10)].
+
+                           Additional Laboratory Abnormalities
+
+                           Glucose: With isotretinoin use, some patients have experienced problems in the control of their blood sugar. In addition, new cases of diabetes have been diagnosed during isotretinoin use.
+
+                        CPK: Some patients undergoing vigorous physical activity while taking isotretinoin have experienced elevated CPK levels; however, the clinical significance is unknown. There have been rare postmarketing reports of rhabdomyolysis with isotretinoin use, some associated with strenuous physical activity. In a clinical trial of 924 subjects, marked elevations in CPK (≥350 U/L) were observed in approximately 24% of subjects treated with isotretinoin capsules.
+
+                        In another clinical trial of 217 pediatric subjects 12 years of age and older elevations in CPK were observed in 12% of subjects, including those undergoing strenuous physical activity in association with reported musculoskeletal adverse events such as back pain, arthralgia, limb injury, or muscle sprain. In these subjects, approximately half of the CPK elevations returned to normal within 2 weeks and half returned to normal within 4 weeks. No cases of rhabdomyolysis were reported in this clinical trial.

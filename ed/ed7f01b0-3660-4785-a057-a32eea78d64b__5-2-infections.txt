@@ -1,0 +1,7 @@
+DailyMed ed7f01b0-3660-4785-a057-a32eea78d64b | Everolimus | 5.2 Infections
+
+Everolimus tablets for oral suspension have immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoal infections, including infections with opportunistic pathogens [see Adverse Reactions (6.1)]. Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections (e.g., aspergillosis, candidiasis, or PJP), and viral infections (e.g., reactivation of hepatitis B virus) have occurred. Some of these infections have been severe (e.g., sepsis, septic shock, or resulting in multisystem organ failure) or fatal. The incidence of Grade 3 and 4 infections was up to 10% and up to 3%, respectively. The incidence of serious infections was reported at a higher frequency in patients < 6 years of age [see Use in Specific Populations (8.4)].
+
+                        Complete treatment of preexisting invasive fungal infections prior to starting treatment. Monitor for signs and symptoms of infection. Withhold or permanently discontinue everolimus tablets for oral suspension based on severity of infection [see Dosage and Administration (2.9)].
+
+                        Administer prophylaxis for PJP when concomitant use of corticosteroids or other immunosuppressive agents are required.

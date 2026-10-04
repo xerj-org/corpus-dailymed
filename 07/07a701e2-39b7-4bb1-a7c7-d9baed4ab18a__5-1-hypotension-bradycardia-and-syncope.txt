@@ -1,0 +1,11 @@
+DailyMed 07a701e2-39b7-4bb1-a7c7-d9baed4ab18a | Guanfacine Extended-Release | 5.1 Hypotension, Bradycardia, and Syncope
+
+Treatment with guanfacine extended-release tablets can cause dose-dependent decreases in blood pressure and heart rate. Decreases were less pronounced over time of treatment. Orthostatic hypotension and syncope have been reported [see
+                           Adverse Reactions (
+
+                              6.1
+
+                           )
+                           ] .
+
+                        Measure heart rate and blood pressure prior to initiation of therapy, following dose increases, and periodically while on therapy. Titrate guanfacine extended-release tablets slowly in patients with a history of hypotension, and those with underlying conditions that may be worsened by hypotension and bradycardia; e.g., heart block, bradycardia, cardiovascular disease, vascular disease, cerebrovascular disease, or chronic renal failure. In patients who have a history of syncope or may have a condition that predisposes them to syncope, such as hypotension, orthostatic hypotension, bradycardia, or dehydration, advise patients to avoid becoming dehydrated or overheated. Monitor blood pressure and heart rate, and adjust dosages accordingly in patients treated concomitantly with antihypertensives or other drugs that can reduce blood pressure or heart rate or increase the risk of syncope.

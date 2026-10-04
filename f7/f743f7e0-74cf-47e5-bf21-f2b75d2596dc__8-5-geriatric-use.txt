@@ -1,0 +1,11 @@
+DailyMed f743f7e0-74cf-47e5-bf21-f2b75d2596dc | Temozolomide | 8.5 Geriatric Use
+
+In MK-7365-051, 15% of patients with newly diagnosed glioblastoma were 65 years and older. This study did not include sufficient numbers of patients aged 65 years and older to determine differences in effectiveness from younger patients. No overall differences in safety were observed between patients ≥65 years and younger patients.
+
+                        The CATNON trial did not include sufficient numbers of patients aged 65 years and older to determine differences in safety or effectiveness when compared to younger patients.
+
+                        In MK-7365-006, 4% of patients with refractory anaplastic astrocytoma were 70 years and older. This study did not include sufficient numbers of patients aged 70 years and older to determine differences in effectiveness from younger patients. Patients 70 years and older had a higher incidence of Grade 4 neutropenia (25%) and Grade 4 thrombocytopenia (20%) in the first cycle of therapy than patients less than 70 years of age
+
+  [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
+
+                        In the entire safety database for which hematologic data exist (N=932), 7% (4/61) and 10% (6/63) of patients >70 years experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively. For patients ≤70 years, 7% (62/871) and 6% (48/879) experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively. Pancytopenia, leukopenia, and anemia also occurred.

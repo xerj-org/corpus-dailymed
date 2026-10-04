@@ -1,0 +1,13 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        No evidence of carcinogenic potential was observed when doxepin was administered orally to hemizygous Tg.rasH2 mice for 26 weeks at doses of 25, 50, 75 and 100 mg/kg/day.
+
+                           Mutagenesis
+
+                        Doxepin was negative in in vitro (bacterial reverse mutation, chromosomal aberration in human lymphocytes) and in vivo (rat micronucleus) assays.
+
+                           Impairment of Fertility
+
+                        When doxepin (10, 30 and 100 mg/kg/day) was orally administered to male and female rats prior to, during and after mating, adverse effects on fertility (increased copulatory interval and decreased corpora lutea, implantation, viable embryos and litter size) and sperm parameters (increased percentages of abnormal sperm and decreased sperm motility) were observed. The plasma exposures (AUC) for doxepin and nordoxepin at the no-effect dose for adverse effects on reproductive performance and fertility in rats (10 mg/kg/day) are less than those in humans at the maximum recommended human dose of 6 mg/day.

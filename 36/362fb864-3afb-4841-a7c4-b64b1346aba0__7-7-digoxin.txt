@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 7.7 Digoxin
+
+No significant effect of levofloxacin on the peak plasma concentrations, AUC, and other disposition parameters for digoxin was detected in a clinical study involving healthy volunteers. Levofloxacin absorption and disposition kinetics were similar in the presence or absence of digoxin. Therefore, no dosage adjustment for levofloxacin or digoxin is required when administered concomitantly.

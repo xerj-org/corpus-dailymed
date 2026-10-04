@@ -1,0 +1,70 @@
+DailyMed b8666383-462d-4a21-8f49-1d572da386d1 | Fluoxetine | 8.1 Pregnancy
+
+Pregnancy Exposure Registry
+
+                        There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research­programs/pregnancyregistry/antidepressants/.
+
+                           Risk Summary
+
+  Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage
+
+  [see 
+
+   Warnings and Precautions (5.7)and Clinical Considerations].
+
+  Available data from published epidemiologic studies and postmarketing reports over several decades have not established an increased risk of major birth defects or miscarriage. Some studies have reported an increased incidence of cardiovascular malformations; however, these studies results do not establish a causal relationship
+
+  (see Data). There are risks associated with untreated depression in pregnancy and risks of persistent pulmonary hypertension of the newborn (PPHN)
+
+  (see Data)and poor neonatal adaptation with exposure to selective serotonin reuptake inhibitors (SSRIs), including fluoxetine, during pregnancy
+
+  (see Clinical Considerations).
+
+                        In rats and rabbits treated with fluoxetine during the period of organogenesis, there was no evidence of developmental effects at doses up to 1.6 and 3.9 times, respectively, the maximum recommended human dose (MRHD) of 60 mg/day given to adolescents on a mg/m
+
+  2basis. However, in other reproductive studies in rats, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths early after birth occurred at doses that are 1.5 times (during gestation) and 0.97 time (during gestation and lactation) the MRHD given to adolescents on a mg/m
+
+  2basis.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Clinical Considerations
+
+  Disease-associated maternal and/or embryo/fetal risk
+
+                        Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants. This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy. Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+  Maternal Adverse Reactions
+
+  Use of fluoxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage
+
+  [see
+
+   Warnings and Precautions (5.7)].
+
+  Fetal/Neonatal adverse reactions
+
+                        Neonates exposed to fluoxetine and other SSRI or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding. Such complications can arise immediately upon delivery. Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremors, jitteriness, irritability, and constant crying. These findings are consistent with either a direct toxic effect of SSRIs and SNRIs or possibly a drug discontinuation syndrome. It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome
+
+  [see
+
+   Warnings and Precautions (5.2)]
+
+  .
+
+                           Data
+
+                           Human Data
+                           —It has been shown that SSRIs (including fluoxetine) can cross the placenta. Published epidemiological studies of pregnant women exposed to fluoxetine have not established an increased risk of major birth defects, miscarriage, and other adverse developmental outcomes. Several publications reported an increased incidence of cardiovascular malformations in children with in utero exposure to fluoxetine. However, these studies results do not establish a causal relationship. Methodologic limitations of these observational studies include possible exposure and outcome misclassification, lack of adequate controls, adjustment for confounders and confirmatory studies. However, these studies cannot definitely establish or exclude any drug-associated risk during pregnancy.
+
+                        Exposure to SSRIs, particularly later in pregnancy, may have an increased risk for PPHN. PPHN occurs in 1 to 2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+
+                           Animal Data— In embryofetal development studies in rats and rabbits, there was no evidence of malformations or developmental variations following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.6 and 3.9 times, respectively, the MRHD of 60 mg given to adolescents on a mg/m
+
+  2basis) throughout organogenesis. However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD given to adolescents on a mg/m
+
+  2basis) during gestation or 7.5 mg/kg/day (0.97 time the MRHD given to adolescents on a mg/m
+
+  2basis) during gestation and lactation. There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg/kg/day during gestation. The no-effect dose for rat pup mortality was 5 mg/kg/day (0.65 time the MRHD given to adolescents on a mg/m
+
+  2basis).

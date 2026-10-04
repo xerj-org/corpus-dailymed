@@ -1,0 +1,9 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 4 CONTRAINDICATIONS
+
+Tolterodine tartrate extended-release capsules are contraindicated in patients with urinary retention, gastric retention, or uncontrolled narrow-angle glaucoma. Tolterodine tartrate extended-release capsules are also contraindicated in patients with known hypersensitivity to the drug or its ingredients, or to fesoterodine fumarate extended-release tablets which, like tolterodine tartrate extended-release capsules, are metabolized to 5-hydroxymethyl tolterodine
+  [see
+
+                           WARNINGS AND PRECAUTIONS (5.2),
+    (5.3),
+    (5.4)
+                        ].

@@ -1,0 +1,137 @@
+DailyMed 41a133ef-e461-48ad-8221-b735bdd0ec25 | ELIQUIS | AMPLIFY-EXT
+
+Patients who had been treated for DVT and/or PE for 6 to 12 months with anticoagulant therapy without having a recurrent event were randomized to treatment with ELIQUIS 2.5 mg orally twice daily, ELIQUIS 5 mg orally twice daily, or placebo for 12 months. Approximately one-third of patients participated in the AMPLIFY study prior to enrollment in the AMPLIFY-EXT study.
+
+                              A total of 2482 patients were randomized to study treatment and were followed for a mean of approximately 330 days in the ELIQUIS group and 312 days in the placebo group. The mean age in the AMPLIFY-EXT study was 57 years. The study population was 57% male, 85% Caucasian, 5% Asian, and 3% Black.
+
+                              The AMPLIFY-EXT study enrolled patients with either an unprovoked DVT or PE at baseline (approximately 92%) or patients with a provoked baseline event and one additional risk factor for recurrence (approximately 8%). However, patients who had experienced multiple episodes of unprovoked DVT or PE were excluded from the AMPLIFY-EXT study. In the AMPLIFY-EXT study, both doses of ELIQUIS were superior to placebo in the primary endpoint of symptomatic, recurrent VTE (nonfatal DVT or nonfatal PE), or all-cause death (Table 14).
+
+                                 Table 14:     Efficacy Results in the AMPLIFY-EXT Study
+
+                                        |
+                                        |
+                                        |
+                                        |
+                                       Relative Risk (95% CI) |
+
+                                        |
+                                       ELIQUIS
+
+  2.5 mg bid
+
+  N=840
+     |
+                                       ELIQUIS
+
+  5 mg bid
+
+  N=813
+     |
+                                       Placebo
+
+  N=829
+     |
+                                       ELIQUIS
+
+  2.5 mg bid
+
+  vs Placebo
+     |
+                                       ELIQUIS
+
+  5 mg bid
+
+  vs Placebo
+     |
+
+                                       *   Patients with more than one event are counted in multiple rows. |
+
+                                        |
+
+                                          n (%)
+
+                                        |
+                                        |
+                                        |
+
+                                          Recurrent VTE or all-cause death
+
+                                        |
+
+                                          32 (3.8)
+
+                                        |
+
+                                          34 (4.2)
+
+                                        |
+
+                                          96 (11.6)
+
+                                        |
+
+                                          0.33 (0.22, 0.48)
+
+  p<0.0001
+
+                                        |
+
+                                          0.36 (0.25, 0.53)
+
+  p<0.0001
+
+                                        |
+
+                                             DVT*
+
+                                        |
+
+                                          19 (2.3)
+
+                                        |
+
+                                          28 (3.4)
+
+                                        |
+
+                                          72 (8.7)
+
+                                        |
+                                        |
+                                        |
+
+                                             PE*
+
+                                        |
+
+                                          23 (2.7)
+
+                                        |
+
+                                          25 (3.1)
+
+                                        |
+
+                                          37 (4.5)
+
+                                        |
+                                        |
+                                        |
+
+                                             All-cause death
+
+                                        |
+
+                                          22 (2.6)
+
+                                        |
+
+                                          25 (3.1)
+
+                                        |
+
+                                          33 (4.0)
+
+                                        |
+                                        |
+                                        |

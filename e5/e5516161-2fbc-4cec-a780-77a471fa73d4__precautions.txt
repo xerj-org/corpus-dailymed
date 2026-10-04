@@ -1,0 +1,15 @@
+DailyMed e5516161-2fbc-4cec-a780-77a471fa73d4 | OstiCoxib EQ | Precautions:
+
+Horses should undergo a thorough history and physical examination before initiation of NSAID therapy. Appropriate laboratory tests should be conducted to establish hematological and serum biochemical baseline data before and periodically during administration of any NSAID. Clients should be advised to observe for signs of potential drug toxicity and be given a Client Information Sheet with each prescription. See Information for Owner or Person Treating Horse section of this package insert.
+
+                  Treatment with OstiCoxib EQ should be terminated if signs such as inappetence, colic, abnormal feces, or lethargy are observed.
+
+                  As a class, cyclooxygenase inhibitory NSAIDs may be associated with gastrointestinal, renal, and hepatic toxicity.
+
+ Sensitivity to drug-associated adverse events varies with the individual patient. Horses that have experienced adverse reactions from one NSAID may experience adverse reactions from another NSAID. Patients at greatest risk for adverse events are those that are dehydrated, on diuretic therapy, or those with existing renal, cardiovascular, and/or hepatic dysfunction. Concurrent administration of potentially nephrotoxic drugs should be carefully approached or avoided. NSAIDs may inhibit the prostaglandins that maintain normal homeostatic function. Such anti-prostaglandin effects may result in clinically significant disease in patients with underlying or pre-existing disease that has not been previously diagnosed. Since many NSAIDs possess the potential to produce gastrointestinal ulcerations and/or gastrointestinal perforation, concomitant use of OstiCoxib EQ with other anti-inflammatory drugs, such as NSAIDs or corticosteroids, should be avoided.
+
+                  The concomitant use of protein bound drugs with OstiCoxib EQ has not been studied in horses. The influence of concomitant drugs that may inhibit the metabolism of OstiCoxib EQ has not been evaluated. Drug compatibility should be monitored in patients requiring adjunctive therapy.
+
+                  The safe use of OstiCoxib EQ less than one year in age, horses used for breeding, or in pregnant or lactating mares has not been evaluated.
+
+                  Consider appropriate washout times when switching from one NSAID to another NSAID or corticosteroid.

@@ -1,0 +1,27 @@
+DailyMed ce15ad07-3286-478f-9f30-1db6a45ed402 | Pravastatin Sodium | 5.1 Myopathy and Rhabdomyolysis
+
+Pravastatin  may cause myopathy and rhabdomyolysis. Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred as a result of rhabdomyolysis in patients treated with statins, including pravastatin. Myopathy, defined as muscle aching or muscle weakness in conjunction with increases in creatine phosphokinase (CK) to greater than 10 times the upper limit of normal (ULN), occurred <0.1% in pravastatin treated patients in clinical trials.
+
+                               
+
+                              Risk Factors for Myopathy
+
+                               
+
+Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher pravastatin dosage [see Drug Interactions (7.1)].
+
+                               
+
+                              Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
+
+                               
+
+Pravastatin is not recommended in patients taking gemfibrozil [see Drug Interactions (7)]. There are pravastatin dosage restrictions for patients taking cyclosporin and select macrolide antibiotics [see Dosage and Administration (2.5)]. The following drugs when used concomitantly with pravastatin may also increase the risk of myopathy and rhabdomyolysis: niacin, fibrates, and colchicine [see Drug Interactions (7)].
+
+                               
+
+Discontinue pravastatin if markedly elevated CK levels occur or myopathy is diagnosed or suspected. Muscle symptoms and CK increases may resolve if pravastatin is discontinued. Temporarily discontinue pravastatin in patients experiencing an acute or serious condition at high risk of developing renal failure secondary to rhabdomyolysis, e.g., sepsis; shock; severe hypovolemia; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
+
+                               
+
+Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the pravastatin dosage. Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.

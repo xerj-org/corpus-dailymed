@@ -1,0 +1,476 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 14.3 Efficacy against Specific Rotavirus Types
+
+The type-specific efficacy against any grade of severity and severe rotavirus gastroenteritis caused by G1P[8], G3P[8], G4P[8], G9P[8], and combined non-G1 (G2, G3, G4, G9) types was statistically significant through one year. Additionally, type-specific efficacy against any grade of severity and severe rotavirus gastroenteritis caused by G1P[8], G2P[4], G3P[8], G4P[8], G9P[8], and combined non-G1 (G2, G3, G4, G9) types was statistically significant through two years (Table 7).
+
+                           Table 7. Type-Specific Efficacy of ROTARIX against Any Grade of Severity and Severe Rotavirus Gastroenteritis (According to Protocol)
+
+                                 CI = Confidence Interval; NS = Not significant.
+
+                                    a Statistical analyses done by G type; if more than one rotavirus type was detected from a rotavirus gastroenteritis episode, the episode was counted in each of the detected rotavirus type categories.
+
+                                    b Statistically significant versus placebo (P <0.05).
+
+                                    c The P genotype was not typeable for one episode.
+
+                                    d P[8] genotype was not detected in one episode.
+
+                                    e Two cases of G12P[8] were isolated in the second season (one in each group). |
+
+                                       Type Identified
+                                       a
+
+                                  |
+
+                                       Through One Rotavirus Season
+
+                                  |
+
+                                       Through Two Rotavirus Seasons
+
+                                  |
+
+                                       Number of Cases
+
+                                  |
+                                  |
+
+                                       Number of Cases
+
+                                  |
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       % Efficacy
+
+                                  |
+
+                                       ROTARIX
+
+                                  |
+
+                                       Placebo
+
+                                  |
+
+                                       % Efficacy
+
+                                  |
+
+                                       n = 2,572
+
+                                  |
+
+                                       n = 1,302
+
+                                  |
+
+                                       (95% CI)
+
+                                  |
+
+                                       n = 2,572
+
+                                  |
+
+                                       n = 1,302
+
+                                  |
+
+                                       (95% CI)
+
+                                  |
+
+                                       Any Grade of Severity
+
+                                  |
+
+                                    G1P[8]
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    46
+
+                                  |
+
+                                    95.6%b
+
+                                    (87.9, 98.8)
+
+                                  |
+
+                                    18
+
+                                  |
+
+                                    89c,d
+
+                                  |
+
+                                    89.8%b
+
+                                    (82.9, 94.2)
+
+                                  |
+
+                                    G2P[4]
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    4c
+
+                                  |
+
+                                    NS
+
+                                  |
+
+                                    14
+
+                                  |
+
+                                    17c
+
+                                  |
+
+                                    58.3%b
+
+                                    (10.1, 81.0)
+
+                                  |
+
+                                    G3P[8]
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    89.9%b
+
+                                    (9.5, 99.8)
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    10
+
+                                  |
+
+                                    84.8%b
+
+                                    (41.0, 97.3)
+
+                                  |
+
+                                    G4P[8]
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    88.3%b
+
+                                    (57.5, 97.9)
+
+                                  |
+
+                                    6
+
+                                  |
+
+                                    18
+
+                                  |
+
+                                    83.1%b
+
+                                    (55.6, 94.5)
+
+                                  |
+
+                                    G9P[8]
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    27
+
+                                  |
+
+                                    75.6%b
+
+                                    (51.1, 88.5)
+
+                                  |
+
+                                    38
+
+                                  |
+
+                                    71d
+
+                                  |
+
+                                    72.9%b
+
+                                    (59.3, 82.2)
+
+                                  |
+
+                                    Combined non-G1 (G2, G3, G4, G9, G12) typese
+
+                                  |
+
+                                    20
+
+                                  |
+
+                                    49
+
+                                  |
+
+                                    79.3%b
+
+                                    (64.6, 88.4)
+
+                                  |
+
+                                    62
+
+                                  |
+
+                                    116
+
+                                  |
+
+                                    72.9%b
+
+                                    (62.9, 80.5)
+
+                                  |
+
+                                       Severe
+
+                                  |
+
+                                    G1P[8]
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    28
+
+                                  |
+
+                                    96.4%b
+
+                                    (85.7, 99.6)
+
+                                  |
+
+                                    4
+
+                                  |
+
+                                    57
+
+                                  |
+
+                                    96.4%b
+
+                                    (90.4, 99.1)
+
+                                  |
+
+                                    G2P[4]
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    2c
+
+                                  |
+
+                                    NS
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    7c
+
+                                  |
+
+                                    85.5%b
+
+                                    (24.0, 98.5)
+
+                                  |
+
+                                    G3P[8]
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    5
+
+                                  |
+
+                                    100%b
+
+                                    (44.8, 100)
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    8
+
+                                  |
+
+                                    93.7%b
+
+                                    (52.8, 99.9)
+
+                                  |
+
+                                    G4P[8]
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                    7
+
+                                  |
+
+                                    100%b
+
+                                    (64.9, 100)
+
+                                  |
+
+                                    1
+
+                                  |
+
+                                    11
+
+                                  |
+
+                                    95.4%b
+
+                                    (68.3, 99.9)
+
+                                  |
+
+                                    G9P[8]
+
+                                  |
+
+                                    2
+
+                                  |
+
+                                    19
+
+                                  |
+
+                                    94.7%b
+
+                                    (77.9, 99.4)
+
+                                  |
+
+                                    13
+
+                                  |
+
+                                    44d
+
+                                  |
+
+                                    85.0%b
+
+                                    (71.7, 92.6)
+
+                                  |
+
+                                    Combined non-G1 (G2, G3, G4, G9, G12) typese
+
+                                  |
+
+                                    3
+
+                                  |
+
+                                    33
+
+                                  |
+
+                                    95.4%b
+
+                                    (85.3, 99.1)
+
+                                  |
+
+                                    17
+
+                                  |
+
+                                    70
+
+                                  |
+
+                                    87.7%b
+
+                                    (78.9, 93.2)
+
+                                  |

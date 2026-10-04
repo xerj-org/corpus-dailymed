@@ -1,0 +1,7 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 5.10 Interaction with Methotrexate
+
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose;
+
+  see methotrexate prescribing information) may elevate and prolong serum concentrations of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities. In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [
+
+  see Drug Interactions (7)].

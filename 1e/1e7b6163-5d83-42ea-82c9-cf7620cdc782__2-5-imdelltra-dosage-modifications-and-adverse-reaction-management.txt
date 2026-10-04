@@ -1,0 +1,271 @@
+DailyMed 1e7b6163-5d83-42ea-82c9-cf7620cdc782 | IMDELLTRA (AMG757) | 2.5 IMDELLTRA Dosage Modifications and Adverse Reaction Management
+
+No dose reduction for IMDELLTRA is recommended. See Table 5 and Table 6 for recommended management of CRS, neurologic toxicity including ICANS, respectively, and Table 7 for cytopenias, infections and other adverse reactions.
+
+                              Cytokine Release Syndrome (CRS)
+
+                           Diagnose CRS based on clinical presentation [see Warnings and Precautions (5.1)]. Evaluate for and treat other causes of fever, hypoxia, and hypotension.
+
+                           If CRS is suspected, manage according to the recommendations in Table 5. Monitor patients who experience Grade 2 or higher CRS (e.g., hypotension not responsive to fluids, or hypoxia requiring supplemental oxygen) with continuous cardiac telemetry and pulse oximetry.
+
+                        For severe or life-threatening CRS, recommend administering tocilizumab and intensive monitoring (e.g., ICU) for supportive therapy. Perform laboratory testing to monitor for disseminated intravascular coagulation (DIC), hematology parameters, as well as pulmonary, cardiac, renal, and hepatic function. Table 5 provides the guidelines for grading and dosage modification and management of cytokine release syndrome.
+
+                           Table 5. Guidelines for Grading and Dosage Modification and Management of Cytokine Release SyndromeCRS based on American Society for Transplantation and Cellular Therapy (ASTCT) Consensus
+
+Grading (2019).
+
+                                 CRS Grade |
+                                 Defining Symptoms |
+                                 IMDELLTRA Dosage Modification |
+                                 Management |
+
+                                 Grade 1 |
+                                 Symptoms require symptomatic treatment only (e.g., fever ≥ 100.4°F without hypotension or hypoxia). |
+                                 Withhold IMDELLTRA until event resolves, then resume IMDELLTRA at the next scheduled doseSee Table 4 for recommendations on restarting IMDELLTRA after dose delays [see Dosage and Administration (2.4)].
+
+. |
+
+                                       Administer symptomatic treatment (e.g., acetaminophen) for fever.
+
+                                       Consider dexamethasone 4 mg to 10 mg oral or IV (or equivalent)Taper steroids per standard of care guidelines.
+
+.
+
+                                  |
+
+                                    Grade 2
+                                  |
+                                 Symptoms require and respond to moderate intervention. Fever ≥ 100.4°F,
+                                       Hypotension responsive to fluids not requiring vasopressors and/or
+
+                                       Hypoxia requiring low flow nasal cannula or blow-by.
+
+                                  |
+                                 Withhold IMDELLTRA until event resolves, then resume IMDELLTRA at the next scheduled dose. |
+
+                                       Recommend hospitalization for a minimum of 24 hours with cardiac telemetry and pulse oximetry.
+
+                                       Administer symptomatic treatment (e.g., acetaminophen) for fever.
+
+                                       Administer supplemental oxygen and intravenous fluids when indicated.
+
+                                       Consider dexamethasone (or equivalent) 8 mg oral or IV.When resuming the next planned dose, monitor patients from the start of the IMDELLTRA infusion for 6 to 8 hours in an appropriate healthcare setting.
+
+                                       Consider tocilizumab.
+
+                                  |
+
+                                 Grade 3 |
+                                 Severe symptoms defined as temperature ≥ 100.4°F with:
+                                       Hemodynamic instability requiring a vasopressor (with or without vasopressin) and/or
+
+                                       Worsening hypoxia or respiratory distress requiring high flow nasal cannula (> 6 L/min oxygen) or face mask.
+
+                                  |
+                                 Withhold IMDELLTRA until the event resolves, then resume IMDELLTRA at the next scheduled dose.
+
+For recurrent Grade 3 events, permanently discontinue IMDELLTRA. |
+
+                                       In addition to Grade 2 treatment:
+
+Recommend intensive monitoring, e.g., ICU care. Administer dexamethasone (or equivalent) 8 mg IV every 8 hours up to 3 doses.
+                                       Vasopressor support as needed.
+
+                                       High flow oxygen support as needed.
+
+                                       Recommend tocilizumab.
+
+Prior to the next dose, administer concomitant medications as recommended for Cycle 1 Day 1 and Cycle 1 Day 8 (see Table 3).
+
+ When resuming the next planned dose, monitor patients from the start of the IMDELLTRA infusion for 22 to 24 hours in an appropriate healthcare setting. |
+
+                                 Grade 4 |
+                                 Life-threatening symptoms defined as temperature ≥ 100.4°F with:
+                                       Hemodynamic instability requiring multiple vasopressors (excluding vasopressin).
+
+and/or
+
+Worsening hypoxia or respiratory distress despite oxygen administration requiring positive pressure.
+
+                                  |
+                                 Permanently discontinue IMDELLTRA. |
+
+                                       ICU care.
+
+                                       Per Grade 3 treatment.
+
+                                       Recommend tocilizumab.
+
+                                  |
+
+                           Neurologic Toxicity including ICANS
+
+                        At the first sign of neurologic toxicity, including ICANS, withhold IMDELLTRA and consider neurology evaluation. Rule out other causes of neurologic symptoms. Provide supportive therapy, which may include intensive care, for severe or life-threatening neurologic toxicities, including ICANS [see Warnings and Precautions (5.2)]. Manage ICANS and neurologic toxicity according to the recommendations in Table 6 and consider further management per current practice guidelines.
+
+                           Table 6. Guidelines for Management of Neurologic Toxicity including Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS)ICANS based on American Society for Transplantation and Cellular Therapy (ASTCT) Consensus Grading (2019)
+
+                                 ICANS Grade
+                                  |
+                                 Defining Symptoms |
+                                 IMDELLTRA Dosage Modifications |
+                                 Management |
+
+                                    Grade 1
+                                  |
+                                 ICE score 7-9If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (names 3 objects, e.g., point to clock, pen, button = 3 points); Following commands (e.g., "show me 2 fingers" or "close your eyes and stick out your tongue" = 1 point); Writing (ability to write a standard sentence = 1 point); and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points
+
+ with no depressed level of consciousness. |
+
+                                       Withhold IMDELLTRA until ICANS resolves, then resume IMDELLTRA at the next scheduled doseSee
+                                                Table 4
+                                              for recommendations on restarting IMDELLTRA after dose delays [see Dosage and Administration (2.4)]
+
+.
+
+                                  |
+
+                                       Supportive care.
+
+                                  |
+
+                                    Grade 2
+                                  |
+                                 ICE score 3-6 and/or mild somnolence awaking to voice. |
+
+                                       Withhold IMDELLTRA until ICANS resolves, then resume IMDELLTRA at the next scheduled dose.
+
+                                  |
+
+                                       Supportive care.
+
+                                       DexamethasoneTaper steroids per standard of care guidelines
+
+ (or equivalent) 8 to 10 mg oral or IV. Can repeat every 12 hours or methylprednisolone (or equivalent) 1 mg/kg IV every 12 hours if symptoms worsen.
+
+                                       Monitor neurologic symptoms and consider consultation with neurologist and other specialists for further evaluation and management.
+
+                                       Monitor patients from the start of the IMDELLTRA infusion for 22 to 24 hours following the next dose of IMDELLTRA.
+
+                                  |
+
+                                    Grade 3
+                                  |
+                                 ICE score 0-2 and/or depressed level of consciousness awakening only to tactile stimulus and/or any clinical seizure focal or generalized that resolves rapidly or nonconvulsive seizures on EEG that resolve with intervention and/or
+
+Focal or local edema on neuroimaging. |
+
+                                       Withhold IMDELLTRA until the ICANS resolves, then resume IMDELLTRA at the next scheduled dose.
+
+                                       If there is no improvement to Grade ≤ 1 within 7 days permanently discontinue IMDELLTRA.
+
+                                       For recurrent Grade 3 events, permanently discontinue IMDELLTRA.
+
+                                  |
+
+                                       Recommend intensive monitoring, e.g., ICU care.
+
+                                       Consider mechanical ventilation for airway protection. Dexamethasone (or equivalent) 10 mg IV every 6 hours or methylprednisolone (or equivalent) 1 mg/kg IV every 12 hours.
+
+                                       Consider repeat neuroimaging (CT or MRI) every 2-3 days if patient has persistent Grade ≥ 3 neurotoxicity.
+
+Monitor patients from the start of the IMDELLTRA infusion for 22 to 24 hours following the next dose of IMDELLTRA.
+
+                                  |
+
+                                    Grade 4
+                                  |
+                                 ICE score 0 (patient is unarousable and unable to perform ICE) and/or Stupor or coma and/or Life-threatening prolonged seizure (> 5 minutes) or repetitive clinical or electrical seizures without return to baseline in between and/or diffuse cerebral edema on neuroimaging, decerebrate or decorticate posturing or papilledema, cranial nerve VI palsy, or Cushing's triad. |
+
+                                       Permanently discontinue IMDELLTRA.
+
+                                  |
+
+                                       ICU care.
+
+                                       Consider mechanical ventilation for airway protection.
+
+                                       High dose corticosteroids (e.g., methylprednisolone 1000 mg/day in divided doses IV for 3 days).
+
+                                       Consider repeat neuroimaging (CT or MRI) every 2-3 days if patient has persistent Grade ≥ 3 neurotoxicity.
+
+                                       Treat convulsive status epilepticus per institutional guidelines.
+
+                                  |
+
+                           Table 7. Recommended Treatment Interruptions of IMDELLTRA for the Management of Cytopenias, Infections, and Other Adverse Reactions
+
+                                 Adverse Reactions |
+                                 SeveritySeverity based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version 5.0.
+
+                                  |
+                                 Dosage ModificationRefer to Table 4 for dose restarting guidance.
+
+                                  |
+
+                                 Cytopenias [see Warnings and Precautions (5.3)]
+                                  |
+                                 Grade 3 Neutropenia |
+                                 Withhold IMDELLTRA until recovery to Grade ≤ 2.
+
+Consider administration of granulocyte colony stimulating factor (G-CSF).
+
+Permanently discontinue if recovery to Grade ≤ 2 does not occur within 3 weeks. |
+
+                                 Grade 4 Neutropenia |
+                                 Withhold IMDELLTRA until recovery to Grade ≤ 2.
+
+Consider administration of granulocyte colony stimulating factor (G-CSF).
+
+Permanently discontinue if recovery to Grade ≤ 2 does not occur within 1 week. |
+
+                                 Recurrent Grade 4 Neutropenia |
+                                 Permanently discontinue IMDELLTRA |
+
+                                 Febrile neutropenia |
+                                 Withhold IMDELLTRA until neutropenia recovers to Grade ≤ 2 and fever resolves. |
+
+                                 Hemoglobin <8 g/dL |
+                                 Withhold IMDELLTRA until hemoglobin is ≥8 g/dL. |
+
+                                 Grade 3 or Grade 4 Decreased platelet count |
+                                 Withhold IMDELLTRA until platelet count is Grade ≤ 2 and no evidence of bleeding.
+
+Permanently discontinue if recovery to Grade ≤ 2 does not occur within 3 weeks. |
+
+                                 Recurrent Grade 4 Decreased platelet count |
+                                 Permanently discontinue IMDELLTRA. |
+
+                                 Infections [see Warnings and Precautions (5.4)]
+                                  |
+                                 All Grades |
+                                 Withhold IMDELLTRA in the step-up phase in patients until infection resolves. |
+
+                                 Grade 3 |
+                                 Withhold IMDELLTRA during the treatment phase until infection improves to Grade ≤ 1. |
+
+                                 Grade 4 |
+                                 Permanently discontinue IMDELLTRA. |
+
+                                 Hepatotoxicity [see Warnings and Precautions (5.5)]
+                                  |
+                                 Grade 3
+
+Increased ALT or AST or bilirubin |
+                                 Withhold IMDELLTRA until improved to Grade ≤ 1. |
+
+                                 Grade 4
+
+Increased ALT or AST or bilirubin |
+                                 Permanently discontinue IMDELLTRA. |
+
+                                 AST or ALT > 3 × ULN with total bilirubin > 2 × ULN in the absence of alternative causes |
+                                 Permanently discontinue IMDELLTRA. |
+
+                                 Other Adverse Reactions [see Adverse Reactions (6.1)]
+                                  |
+                                 Grade 3 or 4 |
+                                 Withhold IMDELLTRA until recovery to Grade ≤ 1 or baseline.
+
+Consider permanently discontinuing if adverse reaction does not resolve within 28 days.
+
+Consider permanent discontinuation for Grade 4 events. |

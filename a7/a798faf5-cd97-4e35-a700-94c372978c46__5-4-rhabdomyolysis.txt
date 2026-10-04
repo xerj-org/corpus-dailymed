@@ -1,0 +1,4 @@
+DailyMed a798faf5-cd97-4e35-a700-94c372978c46 | Piperacillin and Tazobactam | 5.4 Rhabdomyolysis
+
+Rhabdomyolysis has been reported with the use of Piperacillin and tazobactam for injection [see Adverse Reactions (6.2)]. If signs or symptoms of rhabdomyolysis such as muscle pain, tenderness or weakness, dark urine, or elevated creatine phosphokinase are observed, discontinue Piperacillin and tazobactam for injection and initiate appropriate
+                           therapy.

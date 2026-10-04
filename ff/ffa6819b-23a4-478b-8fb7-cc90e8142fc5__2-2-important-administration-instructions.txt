@@ -1,0 +1,30 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 2.2 Important Administration Instructions
+
+Tofacitinib extended-release tablets is not substitutable with tofacitinib tablets. Switching between tofacitinib tablets and tofacitinib extended-release tablets should be made by the healthcare provider.
+
+                           Dose interruption is recommended for management of lymphopenia, neutropenia, and anemia
+
+   [see
+
+    Warnings and Precautions (5.9)
+                              and
+
+                                 Adverse Reactions (6.1)]
+
+   .
+
+                           Interrupt use of tofacitinib tablets if a patient develops a serious infection until the infection is controlled
+
+   [see
+
+    Warnings and Precautions (5.1)]
+
+   .
+
+                           Take tofacitinib tablets with or without food
+
+   [see
+
+    Clinical Pharmacology (12.3)]
+
+   .

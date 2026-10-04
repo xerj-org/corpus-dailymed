@@ -1,0 +1,151 @@
+DailyMed e9f4b344-b092-4eec-b49d-d8cfe8ebc05d | pentobarbital sodium | OVERDOSAGE
+
+The toxic dose of barbiturates varies considerably. In general, an oral dose of 1 gram of most barbiturates produces serious poisoning in an adult. Death commonly occurs after 2 to 10 grams of ingested barbiturate. Barbiturate intoxication may be confused with alcoholism, bromide intoxication, and with various neurological disorders.
+
+                  Acute overdosage with barbiturates is manifested by CNS and respiratory depression which may progress to Cheyne-Stokes respiration, areflexia, constriction of the pupils to a slight degree (though in severe poisoning they may show paralytic dilation), oliguria, tachycardia, hypotension, lowered body temperature, and coma. Typical shock syndrome (apnea, circulatory collapse, respiratory arrest, and death) may occur.
+
+                  In extreme overdose, all electrical activity in the brain may cease, in which case a "flat" EEG normally equated with clinical death cannot be accepted. This effect is fully reversible unless hypoxic damage occurs. Consideration should be given to the possibility of barbiturate intoxication even in situations that appear to involve trauma.
+
+                  Complications such as pneumonia, pulmonary edema, cardiac arrhythmias, congestive heart failure, and renal failure may occur. Uremia may increase CNS sensitivity to barbiturates. Differential diagnosis should include hypoglycemia, head trauma, cerebrovascular accidents, convulsive states, and diabetic coma. Blood levels from acute overdosage for some barbiturates are listed in Table 1.
+
+                     Table 1. Concentration of Barbiturate in the Blood Versus Degree of CNS Depression
+
+                              * Categories of degree of depression in nontolerant persons:
+
+                            |
+
+                              1. Under the influence and appreciably impaired for purposes of driving a motor vehicle or performing tasks requiring alertness and unimpaired judgment and reaction time.
+
+                            |
+
+                              2.  Sedated, therapeutic range, calm, relaxed, and easily aroused.
+
+                            |
+
+                              3.  Comatose, difficult to arouse, significant depression of respiration.
+
+                            |
+
+                              4.  Compatible with death in aged or ill persons or in presence of obstructed airway, other toxic agents, or exposure to cold.
+
+                            |
+
+                              5.  Usual lethal level, the upper end of the range includes those who received some supportive treatment.
+
+                            |
+
+                           Blood barbiturate level in ppm (mcg/mL)
+									 |
+
+                            |
+
+                              Degree of depression in nontolerant persons*
+                            |
+
+                           Barbiturate
+ |
+                           Onset/duration
+ |
+                           1
+ |
+                           2
+ |
+                           3
+ |
+                           4
+ |
+                           5
+ |
+
+                           Pentobarbital
+ |
+                           Fast/short
+ |
+                           ≤ 2
+ |
+                           0.5 to 3
+ |
+                           10 to 15
+ |
+                           12 to 25
+ |
+                           15 to 40
+ |
+
+                           Secobarbital
+ |
+                           Fast/short
+ |
+                           ≤ 2
+ |
+                           0.5 to 5
+ |
+                           10 to 15
+ |
+                           15 to 25
+ |
+                           15 to 40
+ |
+
+                           Amobarbital
+ |
+                           Intermediate/intermediate
+ |
+                           ≤ 3
+ |
+                           2 to 10
+ |
+                           30 to 40
+ |
+                           30 to 60
+ |
+                           40 to 80
+ |
+
+                           Butabarbital
+ |
+                           Intermediate/intermediate
+ |
+                           ≤ 5
+ |
+                           3 to 25
+ |
+                           40 to 60
+ |
+                           50 to 80
+ |
+                           60 to 100
+ |
+
+                           Phenobarbital
+ |
+                           Slow/long
+ |
+                           ≤ 10
+ |
+                           5 to 40
+ |
+                           50 to 80
+ |
+                           70 to 120
+ |
+                           100 to 200
+ |
+
+                  Treatment of overdosage is mainly supportive and consists of the following:
+
+                     Maintenance of an adequate airway, with assisted respiration and oxygen administration as necessary.
+
+                      Monitoring of vital signs and fluid balance.
+
+                     Fluid therapy and other standard treatment for shock, if needed.
+
+                     If renal function is normal, forced diuresis may aid in the elimination of the barbiturate. Alkalinization of the urine increases renal excretion of some barbiturates, especially phenobarbital, also aprobarbital and mephobarbital (which is metabolized to phenobarbital).
+
+                     Although not recommended as a routine procedure, hemodialysis may be used in severe barbiturate intoxications or if the patient is anuric or in shock.
+
+                      Patient should be rolled from side to side every 30 minutes.
+
+                     Antibiotics should be given if pneumonia is suspected.
+
+                     Appropriate nursing care to prevent hypostatic pneumonia, decubiti, aspiration, and other complications of patients with altered states of consciousness.

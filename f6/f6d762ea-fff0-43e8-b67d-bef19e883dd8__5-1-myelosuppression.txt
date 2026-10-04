@@ -1,0 +1,15 @@
+DailyMed f6d762ea-fff0-43e8-b67d-bef19e883dd8 | Temozolomide | 5.1 Myelosuppression
+
+Myelosuppression, including pancytopenia, leukopenia and anemia, some with fatal outcomes, have occurred with Temozolomide
+
+  [see Adverse Reactions (6.1, 6.2)].
+
+                        In MK-7365-006, myelosuppression usually occurred during the first few cycles of therapy and was generally not cumulative. The median nadirs occurred at 26 days for platelets (range: 21 to 40 days) and 28 days for neutrophils (range: 1 to 44 days). Approximately 10% of patients required hospitalization, blood transfusion, or discontinuation of therapy due to myelosuppression. Geriatric patients and women have been shown in clinical trials to have a higher risk of developing myelosuppression.
+
+                        Obtain a complete blood count and monitor ANC and platelet counts before initiation of treatment and as clinically indicated during treatment. When TEMOZOLOMIDE is used in combination with radiotherapy, obtain a complete blood count prior to initiation of treatment, weekly during treatment, and as clinically indicated
+
+  [see Dosage and Administration (2.1, 2.2, 2.3)].
+
+                        For severe myelosuppression, withhold TEMOZOLOMIDE and then resume at same or reduced dose, or permanently discontinue, based on occurrence
+
+  [see Dosage and Administration (2.1, 2.2, 2.3)].

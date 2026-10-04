@@ -1,0 +1,17 @@
+DailyMed 27dd5e6b-72cd-458d-a015-cf4dab5800da | Phesgo | 2.2 Important Dosage and Administration Information
+
+PHESGO is for subcutaneous use only in the thigh. Do not administer intravenously.
+
+                           PHESGO has different dosage and administration instructions than intravenous pertuzumab, intravenous trastuzumab, and subcutaneous trastuzumab when administered alone.
+
+                           Do not substitute PHESGO for or with pertuzumab, trastuzumab, ado-trastuzumab emtansine, or fam-trastuzumab deruxtecan.
+
+                        PHESGO must always be administered by a healthcare professional.
+
+                        In patients receiving an anthracycline-based regimen for early breast cancer, administer PHESGO following completion of the anthracycline.
+
+                        In patients receiving PHESGO for early breast cancer with docetaxel or paclitaxel, administer docetaxel or paclitaxel after PHESGO.
+
+                        In patients receiving PHESGO for metastatic breast cancer with docetaxel, administer docetaxel after PHESGO.
+
+                        Observe patients for a minimum of 30 minutes after initial dose of PHESGO and 15 minutes after each maintenance dose of PHESGO for signs or hypersensitivity symptoms or administration-related reactions. Medications to treat such reactions, as well as emergency equipment, should be available for immediate use [see Warnings and Precautions (5.5)].

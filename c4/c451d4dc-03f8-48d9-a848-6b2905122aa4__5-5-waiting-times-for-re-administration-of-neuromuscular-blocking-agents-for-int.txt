@@ -1,0 +1,37 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 5.5 Waiting Times for Re-Administration of Neuromuscular Blocking Agents for Intubation Following Reversal with Sugammadex Injection
+
+A minimum waiting time is necessary before administration of a steroidal neuromuscular blocking agent after administration of Sugammadex Injection.
+
+                           Table 1: Re-administration of Rocuronium or Vecuronium after Reversal (up to 4 mg/kg Sugammadex Injection)
+
+                                    Minimum Waiting Time
+
+                                  |
+
+                                    NMBA and Dose to be Administered
+
+                                  |
+
+                                 5 minutes
+
+                                  |
+                                 1.2 mg/kg rocuronium
+
+                                  |
+
+                                 4 hours
+
+                                  |
+                                 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium
+
+                                  |
+
+                        When rocuronium 1.2 mg/kg is administered within 30 minutes after reversal with Sugammadex Injection, the onset of neuromuscular blockade may be delayed up to approximately 4 minutes and the duration of neuromuscular blockade may be shortened up to approximately 15 minutes.
+
+                        The recommended waiting time in patients with mild or moderate renal impairment for re-use of 0.6 mg/kg rocuronium or 0.1 mg/kg vecuronium after reversal with up to 4 mg/kg Sugammadex Injection should be 24 hours. If a shorter waiting time is required, the rocuronium dose for a new neuromuscular blockade should be 1.2 mg/kg.
+
+                        For re-administration of rocuronium or administration of vecuronium after reversal of rocuronium with 16 mg/kg Sugammadex Injection, a waiting time of 24 hours is suggested.
+
+                        If neuromuscular blockade is required before the recommended waiting time has elapsed, use a
+
+  nonsteroidal neuromuscular blocking agent. The onset of a depolarizing neuromuscular blocking agent might be slower than expected, because a substantial fraction of postjunctional nicotinic receptors can still be occupied by the neuromuscular blocking agent.

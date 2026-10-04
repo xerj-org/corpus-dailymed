@@ -1,0 +1,11 @@
+DailyMed f4ffa3ad-1278-4772-9ef8-ed6fdaa47605 | LACOSAMIDE | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of lacosamide. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                        Blood and lymphatic system disorders: Agranulocytosis
+
+                        Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic disorder
+
+                        Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria, Stevens-Johnson syndrome, toxic epidermal necrolysis.
+
+                        Neurologic disorders: Dyskinesia, new or worsening seizures

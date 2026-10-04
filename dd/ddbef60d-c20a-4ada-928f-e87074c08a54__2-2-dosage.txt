@@ -1,0 +1,5 @@
+DailyMed ddbef60d-c20a-4ada-928f-e87074c08a54 | NOREPINEPHRINE BITARTRATE IN SODIUM CHLORIDE | 2.2 Dosage
+
+After an initial dosage of 8 to 12 mcg per minute via intravenous infusion, assess patient response and adjust dosage to maintain desired hemodynamic effect. Monitor blood pressure every two minutes until the desired hemodynamic effect is achieved, and then monitor blood pressure every five minutes for the duration of the infusion.
+
+                        Typical maintenance intravenous dosage is 2 to 4 mcg per minute.

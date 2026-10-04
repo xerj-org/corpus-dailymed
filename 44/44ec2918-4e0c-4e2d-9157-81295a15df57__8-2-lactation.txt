@@ -1,0 +1,23 @@
+DailyMed 44ec2918-4e0c-4e2d-9157-81295a15df57 | Pregabalin | 8.2 Lactation
+
+Risk Summary
+
+  Small amounts of pregabalin have been detected in the milk of lactating women. A pharmacokinetic study in lactating women detected pregabalin in breast milk at average steady state concentrations approximately 76% of those in maternal plasma. The estimated average daily infant dose of pregabalin from breast milk (assuming mean milk consumption of 150 mL/kg/day) was 0.31 mg/kg/day, which on a mg/kg basis would be approximately 7% of the maternal dose (
+
+  see Data). The study did not evaluate the effects of pregabalin on milk production or the effects of pregabalin on the breastfed infant.
+
+                        Based on animal studies, there is a potential risk of tumorigenicity with pregabalin exposure via breast milk to the breastfed infant [
+
+                              see Nonclinical Toxicology (13.1 )]
+                           . Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [
+
+  see 
+
+                                 Warnings and Precautions (5.9)]
+
+                              .
+                           Because of the potential risk of tumorigenicity, breastfeeding is not recommended during treatment with pregabalin.
+
+                           Data
+
+  A pharmacokinetic study in ten lactating women, who were at least 12 weeks postpartum, evaluated the concentrations of pregabalin in plasma and breast milk. Pregabalin 150 mg oral capsule was given every 12 hours (300 mg daily dose) for a total of four doses. Pregabalin was detected in breast milk at average steady-state concentrations approximately 76% of those in maternal plasma. The estimated average daily infant dose of pregabalin from breast milk (assuming mean milk consumption of 150 mL/kg/day) was 0.31 mg/kg/day, which on a mg/kg basis would be approximately 7% of the maternal dose. The study did not evaluate the effects of pregabalin on milk production. Infants did not receive breast milk obtained during the dosing period, therefore, the effects of pregabalin on the breast fed infant were not evaluated.

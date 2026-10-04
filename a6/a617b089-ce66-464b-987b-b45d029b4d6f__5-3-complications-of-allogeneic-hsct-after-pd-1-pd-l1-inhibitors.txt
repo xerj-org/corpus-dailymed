@@ -1,0 +1,5 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 5.3 Complications of Allogeneic HSCT after PD-1/PD-L1 Inhibitors
+
+Fatal and other serious complications can occur in patients who receive allogeneic hematopoietic stem cell transplantation (HSCT) before or after being treated with a PD-1/PD-L1 blocking antibody. Transplant-related complications include hyperacute graft-versus-host disease (GVHD), acute GVHD, chronic GVHD, hepatic veno-occlusive disease after reduced intensity conditioning, and steroid-requiring febrile syndrome (without an identified infectious cause). These complications may occur despite intervening therapy between PD-1/PD-L1 blockage and allogeneic HSCT.
+
+                        Follow patients closely for evidence of transplant-related complications and intervene promptly. Consider the benefits versus risks of treatment with a PD-1/PD-L1 blocking antibody prior to or after an allogeneic HSCT.

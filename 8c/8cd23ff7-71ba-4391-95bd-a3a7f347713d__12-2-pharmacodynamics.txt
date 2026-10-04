@@ -1,0 +1,13 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 12.2 Pharmacodynamics
+
+Tolterodine has a pronounced effect on bladder function. Effects on urodynamic parameters before and 1 and 5 hours after a single 6.4 mg dose of tolterodine immediate release were determined in healthy volunteers. The main effects of tolterodine at 1 and 5 hours were an increase in residual urine, reflecting an incomplete emptying of the bladder, and a decrease in detrusor pressure. These findings are consistent with an antimuscarinic action on the lower urinary tract.
+
+                              Cardiac Electrophysiology
+
+The effect of 2 mg BID and 4 mg BID of tolterodine tartrate immediate release (tolterodine IR) tablets on the QT interval was evaluated in a 4-way crossover, double-blind, placebo- and active-controlled (moxifloxacin 400 mg QD) study in healthy male (N=25) and female (N=23) volunteers aged 18 to 55 years. Study subjects [approximately equal representation of CYP2D6 extensive metabolizers (EMs) and poor metabolizers (PMs)] completed sequential 4-day periods of dosing with moxifloxacin 400 mg QD, tolterodine 2 mg BID, tolterodine 4 mg BID, and placebo. The 4 mg BID dose of tolterodine IR (two times the highest recommended dose) was chosen because this dose results in tolterodine exposure similar to that observed upon coadministration of tolterodine 2 mg BID with potent CYP3A4 inhibitors in patients who are CYP2D6 poor metabolizers
+  [see
+
+                                 DRUG INTERACTIONS (7.2)
+                              ].
+   QT interval was measured over a 12-hour period following dosing, including the time of peak plasma concentration (T
+  max) of tolterodine and at steady state (Day 4 of dosing).

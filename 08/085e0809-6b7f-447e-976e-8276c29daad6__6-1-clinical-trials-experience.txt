@@ -1,0 +1,247 @@
+DailyMed 085e0809-6b7f-447e-976e-8276c29daad6 | Terbinafine | 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The most frequently reported adverse events observed in the 3 U.S./Canadian placebo-controlled trials are listed in the Table 1. The adverse events reported encompass gastrointestinal symptoms (including diarrhea, dyspepsia, and abdominal pain), liver test abnormalities, rashes, urticaria, pruritus, and taste disturbances. Changes in the ocular lens and retina have been reported following the use of terbinafine tablets in controlled trials. The clinical significance of these changes is unknown. In general, the adverse events were mild, transient, and did not lead to discontinuation from study participation.
+
+Table 1. Most frequently reported adverse events observed in the 3 U.S./Canadian placebo-controlled trials
+
+                                  |
+
+                                    Adverse Event
+                                  |
+
+                                    Discontinuation
+                                  |
+
+                                    Terbinafine
+
+                                    Tablets (%)
+
+                                    n=465
+                                  |
+
+                                    Placebo
+
+                                    (%)
+
+                                    n=137
+                                  |
+
+                                    Terbinafine
+
+                                    Tablets (%)
+
+                                    n=465
+                                  |
+
+                                    Placebo
+
+                                                  (%)
+
+                                    n=137
+                                  |
+
+                                 * Liver enzyme abnormalities greater than or equal to 2 times the upper limit of normal range.
+
+                                  |
+
+                                     Headache
+
+                                  |
+
+                                    12.9
+
+                                  |
+
+                                    9.5
+
+                                  |
+
+                                    0.2
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                     Gastrointestinal Symptoms:
+
+     Diarrhea
+
+     Dyspepsia
+
+     Abdominal Pain
+
+     Nausea
+
+     Flatulence
+
+                                  |
+
+                                     
+
+5.6
+
+4.3
+
+2.4
+
+2.6
+
+2.2
+
+                                  |
+
+                                     
+
+2.9
+
+2.9
+
+1.5
+
+2.9
+
+2.2
+
+                                  |
+
+                                     
+
+0.6
+
+0.4
+
+0.4
+
+0.2
+
+0
+
+                                  |
+
+                                     
+
+0
+
+0
+
+0
+
+0
+
+0
+
+                                  |
+
+                                     Dermatological Symptoms:
+
+     Rash
+
+     Pruritus
+
+     Urticaria
+
+                                  |
+
+                                     
+
+5.6
+
+2.8
+
+1.1
+
+                                  |
+
+                                     
+
+2.2
+
+1.5
+
+0
+
+                                  |
+
+                                     
+
+0.9
+
+0.2
+
+0
+
+                                  |
+
+                                     
+
+0.7
+
+0
+
+0
+
+                                  |
+
+                                     Liver Enzyme Abnormalities*
+
+                                  |
+
+                                    3.3
+
+                                  |
+
+                                    1.4
+
+                                  |
+
+                                    0.2
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                     Taste Disturbance
+
+                                  |
+
+                                    2.8
+
+                                  |
+
+                                    0.7
+
+                                  |
+
+                                    0.2
+
+                                  |
+
+                                    0
+
+                                  |
+
+                                     Visual Disturbance
+
+                                  |
+
+                                    1.1
+
+                                  |
+
+                                    1.5
+
+                                  |
+
+                                    0.9
+
+                                  |
+
+                                    0
+
+                                  |

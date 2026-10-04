@@ -1,0 +1,3 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 1.1 Nosocomial Pneumonia
+
+Levofloxacin is indicated for the treatment of nosocomial pneumonia due to methicillin-susceptible Staphylococcus aureus, Pseudomonas aeruginosa, Serratia marcescens, Escherichia coli, Klebsiella pneumoniae, Haemophilus influenzae, or Streptococcus pneumoniae. Adjunctive therapy should be used as clinically indicated. Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combination therapy with an anti-pseudomonal β-lactam is recommended [see Clinical Studies (14.1)].

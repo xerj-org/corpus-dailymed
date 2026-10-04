@@ -1,0 +1,5 @@
+DailyMed 65ea4dc6-acb2-4609-9a4c-4866ef0ccb11 | Clopidogrel | 14.3 No Demonstrated Benefit of Clopidogrel plus Aspirin in Patients with Multiple Risk Factors or Established Vascular Disease
+
+CHARISMA
+
+  The CHARISMA trial was a 15,603 subject, randomized, double-blind, parallel group study comparing clopidogrel (75 mg daily) to placebo for prevention of ischemic events in patients with vascular disease or multiple risk factors for atherosclerosis. All subjects were treated with aspirin 75 to 162 mg daily. The mean duration of treatment was 23 months. The study failed to demonstrate a reduction in the occurrence of the primary endpoint, a composite of CV death, MI, or stroke. A total of 534 (6.9%) patients in the clopidogrel group versus 573 (7.4%) patients in the placebo group experienced a primary outcome event (p=0.22). Bleeding of all severities was more common in the subjects randomized to clopidogrel.

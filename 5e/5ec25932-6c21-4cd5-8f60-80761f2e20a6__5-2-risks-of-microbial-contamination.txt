@@ -1,0 +1,7 @@
+DailyMed 5ec25932-6c21-4cd5-8f60-80761f2e20a6 | propofol | 5.2 Risks of Microbial Contamination
+
+Strict aseptic technique must always be maintained during handling. Propofol injectable emulsion is a single-dose parenteral product (single patient infusion vial) which contains 0.005% disodium edetate (EDTA) to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination. However, propofol injectable emulsion can still support the growth of microorganisms, as it is not an antimicrobially preserved product under USP standards. Do not use if contamination is suspected. Discard unused drug product as directed within the required time limits. There have been reports in which failure to use aseptic technique when handling propofol injectable emulsion was associated with microbial contamination of the product and with fever, infection/sepsis, other life-threatening illness, and/or death.
+
+                        Propofol injectable emulsion vials are never to be accessed more than once or used on more than one person.
+
+                        There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, and HIV) from unsafe injection practices, and of the use of propofol vials intended for single use on multiple persons.

@@ -1,0 +1,7 @@
+DailyMed c35f72dc-d90e-43f8-9899-f7d1da89460d | Maraviroc | 5.5 Potential Risk of Infection
+
+Maraviroc tablets antagonize the CCR5 co-receptor located on some immune cells, and therefore could potentially increase the risk of developing infections. The overall incidence and severity of infection, as well as AIDS-defining category C infections, were comparable in the treatment groups during the Phase 3 adult treatment-experienced trials of maraviroc tablets. While there was a higher rate of certain upper respiratory tract infections reported in the treatment arm receiving maraviroc tablets compared with placebo (23% versus 13%), there was a lower rate of pneumonia (2% versus 5%) reported in subjects receiving maraviroc tablets. A higher incidence of Herpes virus infections (11 per 100 patient-years) was also reported in the treatment arm receiving maraviroc tablets when adjusted for exposure compared with placebo (8 per 100 patient-years).
+
+                        In the Phase 2b/3 trial in treatment-naive adult subjects, the incidence of AIDS-defining Category C events when adjusted for exposure was 1.8 for maraviroc tablets compared with 2.4 for efavirenz per 100 patient-years of exposure.
+
+                        Patients should be monitored closely for evidence of infections while receiving maraviroc tablets.

@@ -1,0 +1,7 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 2.6 Administration Options
+
+For adult patients who are unable to swallow whole tablets, rivaroxaban tablets may be crushed and mixed with applesauce immediately prior to use and administered orally. Administration with food is not required for the 2.5 mg tablets [see Clinical Pharmacology (12.3)].
+
+                           Administration of rivaroxaban tablets via nasogastric (NG) tube or gastric feeding tube: After confirming gastric placement of the tube, rivaroxaban tablets may be crushed and suspended in 50 mL of water and administered via an NG tube or gastric feeding tube. Since rivaroxaban absorption is dependent on the site of drug release, avoid administration of rivaroxaban tablets distal to the stomach which can result in reduced absorption and thereby, reduced drug exposure. Enteral feeding is not required following administration of the 2.5 mg tablets [see Clinical Pharmacology (12.3)].
+
+                        Crushed rivaroxaban tablets are stable in water and in applesauce for up to 4 hours. An in vitro compatibility study indicated that there is no adsorption of rivaroxaban from a water suspension of a crushed rivaroxaban tablet to PVC or silicone nasogastric (NG) tubing.

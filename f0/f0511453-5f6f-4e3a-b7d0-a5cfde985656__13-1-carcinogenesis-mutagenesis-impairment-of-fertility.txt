@@ -1,0 +1,19 @@
+DailyMed f0511453-5f6f-4e3a-b7d0-a5cfde985656 | Utebzi | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
+
+                        Carcinogenicity studies in animals have not been conducted with tebipenem pivoxil hydrobromide, tebipenem pivoxil, or tebipenem.
+
+                           Mutagenesis
+
+                        Results of bacterial reverse mutation assays (Ames tests) conducted with tebipenem pivoxil and tebipenem were inconclusive due to cytotoxicity.
+
+                        Tebipenem pivoxil was mutagenic in a gene mutation assay in cultured mammalian cells and induced chromosomal aberration in Chinese hamster ovary cells. However, tebipenem pivoxil was not clastogenic in an in vivo bone marrow micronucleus study in mice and did not induce unscheduled DNA synthesis in hepatocytes cultured from rats following single oral administration of tebipenem pivoxil up to 2000 mg/kg. Tebipenem pivoxil did not cause DNA single strand breaks in the GI tract of rats following a single oral administration of up to 500 mg/kg. Tebipenem pivoxil hydrobromide was not clastogenic in an in vivo bone marrow micronucleus assay in rats.
+
+                        Tebipenem was not mutagenic in a gene mutation assay in cultured mammalian cells and did not induce chromosomal aberrations in Chinese hamster ovary cells.
+
+                        Given the totality of available data and the rapid conversion to tebipenem (non-mutagenic active moiety), tebipenem pivoxil is not considered to pose a significant mutagenic risk following oral administration.
+
+                           Impairment of Fertility
+
+                        Following oral administration of tebipenem pivoxil at up to 1,000 mg/kg/day to male rats for 28 days prior to and during mating, and to female rats for 14 days prior to mating through gestation Day 14, no effects on fertility, mating, or reproductive performance were noted at tebipenem exposures (based on AUC) that were approximately 4 times the human exposure at the MRHD.

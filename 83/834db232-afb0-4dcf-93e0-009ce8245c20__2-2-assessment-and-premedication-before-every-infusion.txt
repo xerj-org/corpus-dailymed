@@ -1,0 +1,31 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 2.2 Assessment and Premedication Before Every Infusion
+
+Infection Assessment
+
+                        Prior to every infusion of UPLIZNA, determine whether there is an active infection. In case of active infection, delay infusion of UPLIZNA until the infection resolves [see Warnings and Precautions (5.2)].
+
+                           Premedication
+
+                        Table 1 shows premedication to administer prior to each infusion of UPLIZNA to reduce the frequency and severity of infusion reactions [see Warnings and Precautions (5.1)].
+
+                           Table 1. Premedication Prior to Each UPLIZNA Infusion
+
+                                 Type of Premedication |
+                                 Route of Administration |
+                                 Examples (or Equivalent) |
+                                 Administration Time Prior to UPLIZNA Infusion |
+
+                                 corticosteroid |
+                                 intravenous |
+                                 methylprednisolone 80 mg to 125 mg |
+                                 30 minutes  |
+
+                                 antihistamine |
+                                 oral |
+                                 diphenhydramine 25 mg to 50 mg |
+                                 30 to 60 minutes  |
+
+                                 antipyretic |
+                                 oral |
+                                 acetaminophen 500 mg to 650 mg |
+                                 30 to 60 minutes  |

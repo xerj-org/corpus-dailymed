@@ -1,0 +1,25 @@
+DailyMed e76f35a5-711c-c511-9fd8-b8c4c0b43b85 | Deflazacort Oral Suspension | 2.5 Dosage Modification for Use with CYP3A4 Inhibitors and Inducers
+
+CYP3A4 Inhibitors
+
+                        Give one third of the recommended dosage when deflazacort oral suspension is administered with moderate or strong CYP3A4 inhibitors. For example, a 36 mg per day dose would be reduced to a 12 mg per day dose when used with moderate or strong CYP3A4 inhibitors [see Drug Interactions (
+
+                              7.1
+
+                           ) and Clinical Pharmacology (
+
+                              12.3
+
+                           )].
+
+                           CYP3A4 Inducers
+
+                        Avoid use with moderate or strong CYP3A4 inducers with deflazacort oral suspension [see Drug Interactions (
+
+                              7.1
+
+                           ) and Clinical Pharmacology (
+
+                              12.3
+
+                           )].

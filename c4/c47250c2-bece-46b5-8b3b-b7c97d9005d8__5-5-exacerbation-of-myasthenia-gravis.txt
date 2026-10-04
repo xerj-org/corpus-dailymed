@@ -1,0 +1,3 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 5.5 Exacerbation of Myasthenia Gravis
+
+Fluoroquinolones, including ciprofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in patients with myasthenia gravis. Postmarking serious adverse reactions, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in patients with myasthenia gravis. Avoid ciprofloxacin in patients with known history of myasthenia gravis [see Adverse Reactions (6.2)].

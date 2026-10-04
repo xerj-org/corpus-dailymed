@@ -1,0 +1,3 @@
+DailyMed 0a36a6de-40d5-41ba-bb5f-39d36c267b7f | Lidocaine hydrochloride | Teratogenic Effects.
+
+Reproduction studies have been performed in rats at doses up to 6.6 times the human dose and have revealed no evidence of harm to the fetus caused by lidocaine. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used in pregnancy only if clearly needed.

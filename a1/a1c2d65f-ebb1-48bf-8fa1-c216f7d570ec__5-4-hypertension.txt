@@ -1,0 +1,5 @@
+DailyMed a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec | Zybic | 5.4 Hypertension
+
+NSAIDs, including Zybic™, can lead to new onset or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events. Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
+
+                        Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.

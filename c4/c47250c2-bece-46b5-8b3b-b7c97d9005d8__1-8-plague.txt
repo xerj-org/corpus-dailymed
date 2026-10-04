@@ -1,0 +1,3 @@
+DailyMed c47250c2-bece-46b5-8b3b-b7c97d9005d8 | Ciprofloxacin Hydrochloride | 1.8 Plague
+
+Ciprofloxacin tablets are indicated for treatment of plague, including pheumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients from birth to 17 years of age. Efficacy studies of ciprofloxacin could not be conducted in humans with plague for feasibility reasons. Therefore this indication is based on an efficacy study conducted in animals only [see Clinical Studies (14.3)].

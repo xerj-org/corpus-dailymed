@@ -1,0 +1,5 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 5.4 Embryo-Fetal Toxicity
+
+Based on its mechanism of action, TECENTRIQ HYBREZA can cause fetal harm when administered to a pregnant woman. There are no available data on the use of TECENTRIQ HYBREZA in pregnant women. Animal studies have demonstrated that inhibition of the PD-L1/PD-1 pathway can lead to increased risk of immune-related rejection of the developing fetus resulting in fetal death.
+
+                        Verify pregnancy status of females of reproductive potential prior to initiating TECENTRIQ HYBREZA. Advise females of reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with TECENTRIQ HYBREZA and for 5 months after the last dose [see Use in Specific Populations (8.1, 8.3)].

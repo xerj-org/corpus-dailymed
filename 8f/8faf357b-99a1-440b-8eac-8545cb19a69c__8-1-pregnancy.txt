@@ -1,0 +1,21 @@
+DailyMed 8faf357b-99a1-440b-8eac-8545cb19a69c | Mycophenolate Mofetil | 8.1 Pregnancy
+
+Risk Summary
+
+Use of mycophenolate mofetil (MMF) during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of multiple congenital malformations in multiple organ systems [see Human Data]. Oral administration of mycophenolate to rats and rabbits during the period of organogenesis produced congenital malformations and pregnancy loss at doses less than the recommended clinical dose (0.01 to 0.05 times the recommended clinical doses in kidney and heart transplant patients) [see Animal Data].
+
+ Consider alternative immunosuppressants with less potential for embryofetal toxicity. Risks and benefits of mycophenolate mofetil should be discussed with the pregnant woman.
+
+ The estimated background risk of pregnancy loss and congenital malformations in organ transplant populations is not clear. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+                           Data
+
+ Human Data
+
+ A spectrum of congenital malformations (including multiple malformations in individual newborns) has been reported in 23 to 27% of live births in MMF exposed pregnancies, based on published data from pregnancy registries. Malformations that have been documented include external ear, eye, and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney, and nervous system.
+
+Based on published data from pregnancy registries, the risk of first trimester pregnancy loss has been reported at 45 to 49% following MMF exposure.
+
+ Animal Data
+
+In animal reproductive toxicology studies, there were increased rates of fetal resorptions and malformations in the absence of maternal toxicity. Oral administration of MMF to pregnant rats from Gestational Day 7 to Day 16 produced increased embryofetal lethality and fetal malformations including anophthalmia, agnathia, and hydrocephaly at doses equivalent to 0.015 and 0.01 times the recommended human doses for renal and cardiac transplant patients, respectively, when corrected for BSA. Oral administration of MMF to pregnant rabbits from Gestational Day 7 to Day 19 produced increased embryofetal lethality and fetal malformations included ectopia cordis, ectopic kidneys, diaphragmatic hernia, and umbilical hernia at dose equivalents as low as 0.05 and 0.03 times the recommended human doses for renal and cardiac transplant patients, respectively, when corrected for BSA.

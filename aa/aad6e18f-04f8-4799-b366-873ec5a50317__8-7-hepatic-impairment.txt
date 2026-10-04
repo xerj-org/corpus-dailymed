@@ -1,0 +1,3 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 8.7 Hepatic Impairment
+
+In patients with severe hepatic impairment, lactate metabolism may be impaired and Lactated Ringer’s Injection may not produce alkalinization. Closely monitor serum lactate levels and acid-base status in such patients.

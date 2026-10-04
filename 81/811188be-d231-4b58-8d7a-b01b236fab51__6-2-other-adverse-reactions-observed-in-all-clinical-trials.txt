@@ -1,0 +1,81 @@
+DailyMed 811188be-d231-4b58-8d7a-b01b236fab51 | Lamotrigine | 6.2 Other Adverse Reactions Observed in All Clinical Trials
+
+Lamotrigine has been administered to 6,694 individuals for whom complete adverse reaction data was captured during all clinical trials, only some of which were placebo controlled. During these trials, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing. To provide a meaningful estimate of the proportion of individuals having adverse reactions, similar types of adverse reactions were grouped into a smaller number of standardized categories using modified COSTART dictionary terminology. The frequencies presented represent the proportion of the 6,694 individuals exposed to lamotrigine who experienced an event of the type cited on at least 1 occasion while receiving lamotrigine. All reported adverse reactions are included except those already listed in the previous tables or elsewhere in the labeling, those too general to be informative, and those not reasonably associated with the use of the drug.
+
+                        Adverse reactions are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions:
+
+  frequentadverse reactions are defined as those occurring in at least 1/100 patients;
+
+  infrequentadverse reactions are those occurring in 1/100 to 1/1,000 patients;
+
+  rareadverse reactions are those occurring in fewer than 1/1,000 patients.
+
+                           Body as a Whole
+
+                           Infrequent:Allergic reaction, chills, malaise.
+
+                           Cardiovascular System
+
+                           Infrequent:Flushing, hot flashes, hypertension, palpitations, postural hypotension, syncope, tachycardia, vasodilation.
+
+                           Dermatological
+
+                           Infrequent:Acne, alopecia, hirsutism, maculopapular rash, skin discoloration, urticaria.
+
+                           Rare:Angioedema, erythema, exfoliative dermatitis, fungal dermatitis, herpes zoster, leukoderma, multiforme erythema, petechial rash, pustular rash, Stevens-Johnson syndrome, vesiculobullous rash.
+
+                           Digestive System
+
+                           Infrequent:Dysphagia, eructation, gastritis, gingivitis, increased appetite, increased salivation, liver function tests abnormal, mouth ulceration.
+
+                           Rare:Gastrointestinal hemorrhage, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hemorrhagic colitis, hepatitis, melena, stomach ulcer, stomatitis, tongue edema.
+
+                           Endocrine System
+
+                           Rare:Goiter, hypothyroidism.
+
+                           Hematologic and Lymphatic System
+
+                           Infrequent:Ecchymosis, leukopenia.
+
+                           Rare:Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, petechia, thrombocytopenia.
+
+                           Metabolic and Nutritional Disorders
+
+                           Infrequent:Aspartate transaminase increased.
+
+                           Rare:Alcohol intolerance, alkaline phosphatase increase, alanine transaminase increase, bilirubinemia, general edema, gamma glutamyl transpeptidase increase, hyperglycemia.
+
+                           Musculoskeletal System
+
+                           Infrequent:Arthritis, leg cramps, myasthenia, twitching.
+
+                           Rare:Bursitis, muscle atrophy, pathological fracture, tendinous contracture.
+
+                           Nervous System
+
+                           Frequent:Confusion, paresthesia.
+
+                           Infrequent:Akathisia, apathy, aphasia, central nervous system depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, suicidal ideation.
+
+                           Rare:Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, faintness, grand mal convulsions, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, muscle spasm, neuralgia, neurosis, paralysis, peripheral neuritis.
+
+                           Respiratory System
+
+                           Infrequent:Yawn.
+
+                           Rare:Hiccup, hyperventilation.
+
+                           Special Senses
+
+                           Frequent:Amblyopia.
+
+                           Infrequent:Abnormality of accommodation, conjunctivitis, dry eyes, ear pain, photophobia, taste perversion, tinnitus.
+
+                           Rare:Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus, taste loss, uveitis, visual field defect.
+
+                           Urogenital System
+
+                           Infrequent:Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, urinary incontinence.
+
+                           Rare:Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, kidney failure, kidney pain, nocturia, urinary retention, urinary urgency.

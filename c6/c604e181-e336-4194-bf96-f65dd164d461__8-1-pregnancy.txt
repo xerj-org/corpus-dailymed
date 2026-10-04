@@ -1,0 +1,23 @@
+DailyMed c604e181-e336-4194-bf96-f65dd164d461 | Selexipag; Selexipag TITRATION PACK | 8.1 Pregnancy
+
+Risk Summary
+
+                        There are no adequate and well-controlled studies with selexipag in pregnant women. Animal reproduction studies performed with selexipag showed no clinically relevant effects on embryofetal development and survival. A slight reduction in maternal as well as in fetal body weight was observed when pregnant rats were administered selexipag during organogenesis at a dose producing an exposure to the active metabolite approximately 47 times that in humans at the maximum recommended human dose. No adverse developmental outcomes were observed with oral administration of selexipag to pregnant rabbits during organogenesis at exposures to the active metabolite up to 50 times the human exposure at the maximum recommended human dose.
+
+                        The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+                           Clinical Considerations
+
+                           Disease-associated maternal and/or embryo/fetal risk
+
+                        In patients with pulmonary arterial hypertension, pregnancy is associated with an increased rate of maternal and fetal morbidity and mortality, including heart failure, stroke, spontaneous abortion, intrauterine growth restriction, premature labor, and preterm birth.
+
+                           Data
+
+                           Animal Data
+
+                        Pregnant rats were treated with selexipag using oral doses of 2 mg/kg/day, 6 mg/kg/day, and 20 mg/kg/day (up to 47 times the exposure to the active metabolite at the maximum recommended human oral dose of 1,600 mcg twice daily on an area under the curve [AUC] basis) during the period of organogenesis (gestation days 7 to 17). Selexipag did not cause adverse developmental effects to the fetus in this study. A slight reduction in fetal body weight was observed in parallel with a slight reduction in maternal body weight at the high dose.
+
+                        Pregnant rabbits were treated with selexipag using oral doses of 3 mg/kg, 10 mg/kg, and 30 mg/kg (up to 50 times the exposure to the active metabolite at the maximum recommended human oral dose of 1,600 mcg twice daily on an AUC basis) during the period of organogenesis (gestation days 6 to 18). Selexipag did not cause adverse developmental effects to the fetus in this study.
+
+                        In a pre-and post-natal development study, pregnant rats were treated with selexipag from gestation day 7 through lactation day 20 at oral doses of 2, 6, and 20 mg/kg/day (up to 35 times the exposure to the active metabolite at the maximum recommended human dose of 1,600 mcg twice daily on an AUC basis). Treatment with selexipag did not cause adverse developmental effects in this study at any dose.

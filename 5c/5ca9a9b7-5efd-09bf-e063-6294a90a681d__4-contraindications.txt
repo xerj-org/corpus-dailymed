@@ -1,0 +1,21 @@
+DailyMed 5ca9a9b7-5efd-09bf-e063-6294a90a681d | COLESEVELAM HYDROCHLORIDE | 4 CONTRAINDICATIONS
+
+Colesevelam hydrochloride is contraindicated in patients with:
+
+                     Serum TG concentrations > 500 mg/dL
+
+   [see
+
+    Warnings and Precautions (5.1)]
+
+                     History of hypertriglyceridemia-induced pancreatitis
+
+   [see
+
+    Warnings and Precautions (5.1)]
+
+                     A history of bowel obstruction
+
+   [see
+
+    Warnings and Precautions (5.2)]

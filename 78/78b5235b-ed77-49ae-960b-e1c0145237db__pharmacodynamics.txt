@@ -1,0 +1,3 @@
+DailyMed 78b5235b-ed77-49ae-960b-e1c0145237db | Salicor | Pharmacodynamics
+
+Triethanolamine salicylate is an external analgesic that functions by inhibiting cyclooxygenase (COX) enzymes, which are involved in the production of pro-inflammatory factors such as prostaglandins and thromboxanes. These enzymes play a crucial role in generating pain and inflammation in conditions like arthritis, muscle strains, and sprains. While salicylates, such as aspirin, are known to inhibit COX enzymes, the specific mechanism of triethanolamine salicylate in topical applications may differ slightly. It is generally believed to act similarly to topical NSAIDs, reducing inflammation and pain locally. However, the evidence regarding its selectivity towards COX-2 enzymes is less clear.

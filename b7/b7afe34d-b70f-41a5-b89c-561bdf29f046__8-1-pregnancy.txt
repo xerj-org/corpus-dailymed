@@ -1,0 +1,27 @@
+DailyMed b7afe34d-b70f-41a5-b89c-561bdf29f046 | Gadavist | 8.1 Pregnancy
+
+Risk Summary
+
+                        GBCAs cross the placenta and result in fetal exposure. In human placental imaging studies, contrast was visualized in the placenta and fetal tissues after maternal GBCA administration. Based on animal studies, use of GBCAs during pregnancy may result in fetal gadolinium retention.
+
+                        Published epidemiological studies on the association between GBCAs and adverse fetal outcomes have reported inconsistent findings and have important methodological limitations (see Data).
+
+                        In animal reproduction studies, although teratogenicity was not observed, embryolethality was observed in monkeys, rabbits and rats receiving intravenous gadobutrol during organogenesis at doses 8 times and above the recommended human dose. Retardation of embryonal development was observed in rabbits and rats receiving intravenous gadobutrol during organogenesis at doses 8 and 12 times, respectively, the recommended human dose (see Data). Because of the potential risks of gadolinium to the fetus, use GADAVIST only if imaging is essential during pregnancy and cannot be delayed.
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and is 15% to 20%, respectively.
+
+                           Data
+
+                           Human Data
+
+                        Available data regarding exposure to GBCAs during pregnancy from published epidemiological studies are not sufficient to assess the risk of adverse fetal and neonatal effects that may be associated with GBCAs. A retrospective cohort study of over 1.4 million pregnancies in Ontario, Canada, comparing pregnant women who had a GBCA MRI to pregnant women who did not have an MRI, reported a higher occurrence of stillbirths and neonatal deaths in the group receiving GBCA MRI. Limitations of this study include a lack of comparison with non-contrast MRI and lack of information about the maternal indication for MRI. Another retrospective cohort study of over 11 million pregnancies in the Medicaid database found no increased risk of fetal or neonatal death or Neonatal Intensive Care Unit admission when comparing pregnancies exposed to GBCA MRI versus non-contrast MRI.  These two retrospective observational studies assessed a limited number of potential pregnancy outcomes and did not evaluate the full spectrum of potential fetal risk.
+
+                           Animal Data
+
+                           Gadolinium Retention
+
+                        GBCAs administered to pregnant non-human primates (0.1 mmol/kg on gestational days 85 and 135) result in measurable gadolinium concentration in the offspring in bone, brain, skin, liver, kidney, and spleen for at least 7 months.  GBCAs administered to pregnant mice (2 mmol/kg daily on gestational days 16 through 19) result in measurable gadolinium concentrations in the pups in bone, brain, kidney, liver, blood, muscle, and spleen at one month postnatal age.
+
+                           Reproductive Toxicology
+
+                        Embryolethality was observed when gadobutrol was administered intravenously to monkeys during organogenesis at doses 8 times the recommended single human dose (based on body surface area); gadobutrol was not maternally toxic or teratogenic at this dose. Embryolethality and retardation of embryonal development also occurred in pregnant rats receiving maternally toxic doses of gadobutrol (≥ 7.5 mmol/kg body weight; equivalent to 12 times the human dose based on body surface area) and in pregnant rabbits (≥ 2.5 mmol/kg body weight; equivalent to 8 times the recommended human dose based on body surface area). In rabbits, this finding occurred without evidence of pronounced maternal toxicity and with minimal placental transfer (0.01% of the administered dose detected in the fetuses). Because pregnant animals received repeated daily doses of GADAVIST, their overall exposure was significantly higher than that achieved with the standard single dose administered to humans.

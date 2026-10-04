@@ -1,0 +1,22 @@
+DailyMed 325a5d0e-9a72-4015-9fcd-1655fb504cee | Crestor | 5.1 Myopathy and Rhabdomyolysis
+
+CRESTOR may cause myopathy [muscle pain, tenderness, or weakness associated with elevated creatine kinase (CK)] and rhabdomyolysis. Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred as a result of rhabdomyolysis with statins, including CRESTOR.
+
+                           Risk Factors for Myopathy
+
+                        Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher CRESTOR dosage. Asian patients on CRESTOR may be at higher risk for myopathy [see Drug Interactions (7.1) and Use in Specific Populations (8.8)]. The myopathy risk is greater in patients taking CRESTOR 40 mg daily compared with lower CRESTOR dosages.
+
+                           Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
+
+                           CRESTOR dosage modifications are recommended for patients taking certain medications; concomitant use with certain other medications should be avoided [see
+
+                              Dosage and Administration (2.6)
+                              ,
+                              Drug Interactions (7.1)
+                              ]
+
+                           .
+
+                        Discontinue CRESTOR if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected. Muscle symptoms and CK elevations may resolve if CRESTOR is discontinued. Temporarily discontinue CRESTOR in patients experiencing an acute or serious condition at high risk of developing renal failure secondary to rhabdomyolysis (e.g., sepsis; shock; severe hypovolemia; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy).
+
+                        Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the CRESTOR dosage. Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.

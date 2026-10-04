@@ -1,0 +1,11 @@
+DailyMed f3182470-1965-4e20-dbaf-e3506f893ea5 | Rotarix | 14.2 Efficacy through Two Rotavirus Seasons
+
+The efficacy of ROTARIX persisting through two rotavirus seasons was evaluated in two studies.
+
+                        In the European study (Study 5), the efficacy of ROTARIX against any grade of severity of rotavirus gastroenteritis through two rotavirus seasons was 78.9% (95% CI: 72.7, 83.8). Efficacy in preventing any grade of severity of rotavirus gastroenteritis cases occurring only during the second season post-vaccination was 71.9% (95% CI: 61.2, 79.8). The efficacy of ROTARIX against severe rotavirus gastroenteritis through two rotavirus seasons was 90.4% (95% CI: 85.1, 94.1). Efficacy in preventing severe rotavirus gastroenteritis cases occurring only during the second season post-vaccination was 85.6% (95% CI: 75.8, 91.9).
+
+                        The efficacy of ROTARIX in reducing hospitalizations for rotavirus gastroenteritis through two rotavirus seasons was 96.0% (95% CI: 83.8, 99.5).
+
+                        In the Latin American study (Study 8), the efficacy of ROTARIX against severe rotavirus gastroenteritis through two years was 80.5% (95% CI: 71.3, 87.1). Efficacy in preventing severe rotavirus gastroenteritis cases occurring only during the second year post-vaccination was 79.0% (95% CI: 66.4, 87.4). The efficacy of ROTARIX in reducing hospitalizations for rotavirus gastroenteritis through two years was 83.0% (95% CI: 73.1, 89.7).
+
+                        The efficacy of ROTARIX beyond the second season post-vaccination was not evaluated.

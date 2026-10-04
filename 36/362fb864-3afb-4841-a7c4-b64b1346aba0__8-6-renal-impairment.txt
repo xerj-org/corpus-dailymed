@@ -1,0 +1,4 @@
+DailyMed 362fb864-3afb-4841-a7c4-b64b1346aba0 | Levofloxacin | 8.6 Renal Impairment
+
+Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in patients with impaired renal function (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation. Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [see
+                           Dosage and Administration (2.3)].

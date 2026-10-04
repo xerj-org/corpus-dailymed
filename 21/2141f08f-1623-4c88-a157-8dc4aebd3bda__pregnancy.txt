@@ -1,0 +1,3 @@
+DailyMed 2141f08f-1623-4c88-a157-8dc4aebd3bda | Pentoxifylline | Pregnancy
+
+Category C. Teratogenicity studies have been performed in rats and rabbits using oral doses up to 576 and 264 mg/kg, respectively. On a weight basis, these doses are 24 and 11 times the maximum recommended human daily dose (MRHD); on a body-surface-area basis, they are 4.2 and 3.5 times the MRHD. No evidence of fetal malformation was observed. Increased resorption was seen in rats of the 576 mg/kg group. There are no adequate and well controlled studies in pregnant women. pentoxifylline extended-release tablet should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

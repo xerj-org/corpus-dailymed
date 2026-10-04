@@ -1,0 +1,42 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 12.3 Pharmacokinetics
+
+Absorption 
+
+ Systemic absorption of brimonidine and timolol was assessed in healthy volunteers and patients following topical dosing with brimonidine tartrate/timolol maleate ophthalmic solution. Normal volunteers dosed with one drop of brimonidine tartrate/timolol maleate ophthalmic solution twice daily in both eyes for seven days showed peak plasma brimonidine and timolol concentrations of 30 pg/mL and 400 pg/mL, respectively. Plasma concentrations of brimonidine peaked at 1 to 4 hours after ocular dosing. Peak plasma concentrations of timolol occurred approximately 1 to 3 hours post-dose.
+
+ In a crossover study of brimonidine tartrate/timolol maleate ophthalmic solution, brimonidine tartrate 0.2%, and timolol 0.5% administered twice daily for 7 days in healthy volunteers, the mean brimonidine area-under-the-plasma-concentration-time curve (AUC) for brimonidine tartrate/timolol maleate ophthalmic solution was 128 ± 61 pg•hr/mL versus 141 ± 106 pg•hr/mL for the respective monotherapy treatments; mean Cmax values of brimonidine were comparable following brimonidine tartrate/timolol maleate ophthalmic solution treatment versus monotherapy (32.7 ± 15 pg/mL versus 34.7 ± 22.6 pg/mL, respectively). Mean timolol AUC for brimonidine tartrate/timolol maleate ophthalmic solution was similar to that of the respective monotherapy treatment (2919 ± 1679 pg•hr/mL versus 2909 ± 1231 pg•hr/mL, respectively); mean Cmax of timolol was approximately 20% lower following brimonidine tartrate/timolol maleate ophthalmic solution treatment versus monotherapy.
+
+                        In a parallel study in patients dosed twice daily with brimonidine tartrate/timolol maleate ophthalmic solution, twice daily with timolol 0.5%, or three times daily with brimonidine tartrate 0.2%, one-hour post dose plasma concentrations of timolol and brimonidine were approximately 30% to 40% lower with brimonidine tartrate/timolol maleate ophthalmic solution than their respective monotherapy values. The lower plasma brimonidine concentrations with brimonidine tartrate/timolol maleate ophthalmic solution appears to be due to twice-daily dosing for brimonidine tartrate/timolol maleate ophthalmic solution versus three-times dosing with brimonidine tartrate 0.2%.
+
+                           Distribution 
+
+ The protein binding of timolol is approximately 60%. The protein binding of brimonidine is approximately 29%.
+
+                           Elimination
+
+                            Metabolism
+
+ In humans, brimonidine is extensively metabolized by the liver. Timolol is partially metabolized by the liver.
+
+                           Excretion 
+
+ In the crossover study in healthy volunteers, the plasma concentration of brimonidine declined with a systemic half-life of approximately 3 hours. The apparent systemic half-life of timolol was about 7 hours after ocular administration.
+
+                        Urinary excretion is the major route of elimination of brimonidine and its metabolites. Approximately 87% of an orally-administered radioactive dose of brimonidine was eliminated within 120 hours, with 74% found in the urine. Unchanged timolol and its metabolites are excreted by the kidney.
+
+                           Special Populations 
+                            
+
+                           Patients with Renal Impairment
+
+                        Brimonidine tartrate/timolol maleate ophthalmic solution has not been studied in patients with renal impairment.
+
+ Brimonidine tartrate/timolol maleate ophthalmic solution has not been studied in patients with renal impairment.
+
+ A study of patients with renal failure showed that timolol was not readily removed by dialysis. The effect of dialysis on brimonidine pharmacokinetics in patients with renal failure is not known.
+
+ Following oral administration of timolol maleate, the plasma half-life of timolol is essentially unchanged in patients with moderate renal insufficiency.
+
+                           Patients with Hepatic Impairment
+
+                           Brimonidine tartrate/timolol maleate ophthalmic solution has not been studied in patients with hepatic impairment.

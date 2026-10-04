@@ -1,0 +1,3 @@
+DailyMed be282a72-0797-449d-ae07-fb8d4bdcc0a5 | Brimonidine tartrate and Timolol maleate | 4.2 Sinus Bradycardia, AV Block, Cardiac Failure, Cardiogenic Shock
+
+Brimonidine tartrate/timolol maleate ophthalmic solution is contraindicated in patients with sinus bradycardia; second or third degree atrioventricular block; overt cardiac failure [see Warnings and Precautions (5.2)]; cardiogenic shock.

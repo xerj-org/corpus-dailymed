@@ -1,0 +1,7 @@
+DailyMed 362034e9-2830-19a5-e063-6394a90a8dfb | ANASTROZOLE | 12.1 Mechanism of Action
+
+The growth of many cancers of the breast is stimulated or maintained by estrogens.
+
+                        In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol. The suppression of estrogen biosynthesis in peripheral tissues and in the cancer tissue itself can therefore be achieved by specifically inhibiting the aromatase enzyme.
+
+                        Anastrozole is a selective non-steroidal aromatase inhibitor. It significantly lowers serum estradiol concentrations and has no detectable effect on formation of adrenal corticosteroids or aldosterone.

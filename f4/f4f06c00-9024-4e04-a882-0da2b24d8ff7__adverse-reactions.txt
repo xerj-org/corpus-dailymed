@@ -1,0 +1,411 @@
+DailyMed f4f06c00-9024-4e04-a882-0da2b24d8ff7 | Atenolol | ADVERSE REACTIONS
+
+Most adverse effects have been mild and transient.
+
+                  The frequency estimates in the following table were derived from controlled studies in hypertensive patients in which adverse reactions were either volunteered by the patient (U.S. studies) or elicited, e.g., by checklist (foreign studies). The reported frequency of elicited adverse effects was higher for both atenolol tablets and placebo-treated patients than when these reactions were volunteered. Where frequency of adverse effects of atenolol tablets and placebo is similar, causal relationship to atenolol tablets is uncertain.
+
+                            |
+
+                              Volunteered
+
+  (U.S. Studies)
+
+                            |
+
+                              Total-Volunteered and Elicited
+
+                              (Foreign + U.S. Studies)
+
+                            |
+
+                            |
+
+                              Atenolol
+
+                              (n = 164)
+
+                              %
+
+                            |
+
+                              Placebo
+
+                              (n = 206)
+
+                              %
+
+                            |
+
+                              Atenolol
+
+                              (n = 399)
+
+                              %
+
+                            |
+
+                              Placebo
+
+                              (n = 407)
+
+                              %
+
+                            |
+
+                              CARDIOVASCULAR
+
+                            |
+
+                                   Bradycardia
+
+                            |
+
+                              3
+
+                            |
+
+                              0
+
+                            |
+
+                              3
+
+                            |
+
+                              0
+
+                            |
+
+                                   Cold Extremities
+
+                            |
+
+                              0
+
+                            |
+
+                              0.5
+
+                            |
+
+                              12
+
+                            |
+
+                              5
+
+                            |
+
+                                   Postural Hypotension
+
+                            |
+
+                              2
+
+                            |
+
+                              1
+
+                            |
+
+                              4
+
+                            |
+
+                              5
+
+                            |
+
+                                   Leg Pain
+
+                            |
+
+                              0
+
+                            |
+
+                              0.5
+
+                            |
+
+                              3
+
+                            |
+
+                              1
+
+                            |
+
+                              CENTRAL NERVOUS SYSTEM/NEUROMUSCULAR
+
+                            |
+
+                                   Dizziness
+
+                            |
+
+                              4
+
+                            |
+
+                              1
+
+                            |
+
+                              13
+
+                            |
+
+                              6
+
+                            |
+
+                                   Vertigo
+
+                            |
+
+                              2
+
+                            |
+
+                              0.5
+
+                            |
+
+                              2
+
+                            |
+
+                              0.2
+
+                            |
+
+                                   Light-headedness
+
+                            |
+
+                              1
+
+                            |
+
+                              0
+
+                            |
+
+                              3
+
+                            |
+
+                              0.7
+
+                            |
+
+                                   Tiredness
+
+                            |
+
+                              0.6
+
+                            |
+
+                              0.5
+
+                            |
+
+                              26
+
+                            |
+
+                              13
+
+                            |
+
+                                   Fatigue
+
+                            |
+
+                              3
+
+                            |
+
+                              1
+
+                            |
+
+                              6
+
+                            |
+
+                              5
+
+                            |
+
+                                   Lethargy
+
+                            |
+
+                              1
+
+                            |
+
+                              0
+
+                            |
+
+                              3
+
+                            |
+
+                              0.7
+
+                            |
+
+                                   Drowsiness
+
+                            |
+
+                              0.6
+
+                            |
+
+                              0
+
+                            |
+
+                              2
+
+                            |
+
+                              0.5
+
+                            |
+
+                                   Depression
+
+                            |
+
+                              0.6
+
+                            |
+
+                              0.5
+
+                            |
+
+                              12
+
+                            |
+
+                              9
+
+                            |
+
+                                   Dreaming
+
+                            |
+
+                              0
+
+                            |
+
+                              0
+
+                            |
+
+                              3
+
+                            |
+
+                              1
+
+                            |
+
+                              GASTROINTESTINAL
+
+                            |
+
+                                   Diarrhea
+
+                            |
+
+                              2
+
+                            |
+
+                              0
+
+                            |
+
+                              3
+
+                            |
+
+                              2
+
+                            |
+
+                                   Nausea
+
+                            |
+
+                              4
+
+                            |
+
+                              1
+
+                            |
+
+                              3
+
+                            |
+
+                              1
+
+                            |
+
+                              RESPIRATORY (See
+
+      WARNINGS)
+
+                            |
+
+                                   Wheeziness
+
+                            |
+
+                              0
+
+                            |
+
+                              0
+
+                            |
+
+                              3
+
+                            |
+
+                              3
+
+                            |
+
+                                   Dyspnea
+
+                            |
+
+                              0.6
+
+                            |
+
+                              1
+
+                            |
+
+                              6
+
+                            |
+
+                              4
+
+                            |

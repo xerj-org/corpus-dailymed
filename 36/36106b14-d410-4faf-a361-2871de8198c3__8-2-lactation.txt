@@ -1,0 +1,13 @@
+DailyMed 36106b14-d410-4faf-a361-2871de8198c3 | UBRELVY | 8.2 Lactation
+
+Risk Summary
+
+                        Data from a lactation study in twelve healthy adult females indicate that ubrogepant is excreted in breast milk in low amounts. The estimated relative infant dose is approximately 0.15% of the maternal weight-adjusted dose, and the milk-to-plasma ratio is 0.23
+
+  (see
+                           Data
+                           ). There are no data on the effects of ubrogepant on the breastfed infant or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for UBRELVY and any potential adverse effects on the breastfed infant from UBRELVY or from the underlying maternal condition.
+
+                           Data
+
+                        A study was conducted in twelve healthy adult lactating females who were between 24 and 34 years of age and between 1 month and 6 months postpartum. Each subject was administered a single oral dose of ubrogepant 100 mg. Maternal plasma and breast milk were collected for 24 hours after dosing. Using a 150 mL/kg/day estimated infant milk intake, the mean estimated relative infant dose was approximately 0.15% of the maternal weight-adjusted dose. The mean milk-to-plasma ratio was 0.23. All subjects had detectable levels of ubrogepant in breast milk during the study; by 16 to 24 hours after dosing, 17% of females in the study had detectable levels of ubrogepant in breast milk. The mean cumulative amount of ubrogepant excreted in breast milk over 24 hours was less than 0.02 mg of a 100 mg dose.

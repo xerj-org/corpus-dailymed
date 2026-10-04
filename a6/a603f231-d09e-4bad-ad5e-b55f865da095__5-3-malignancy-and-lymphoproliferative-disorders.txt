@@ -1,0 +1,11 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 5.3 Malignancy and Lymphoproliferative Disorders
+
+Malignancies were observed in clinical trials of LEQSELVI [see Adverse Reactions 6.1)].
+
+                        In a large, randomized, postmarketing safety trial of another JAK inhibitor in subjects with RA, a higher rate of malignancies (excluding non-melanoma skin cancer (NMSC)) was observed in subjects treated with the JAK inhibitor compared to those treated with TNF blockers. A higher rate of lymphomas was observed in subjects treated with the JAK inhibitor compared to those treated with TNF blockers. A higher rate of lung cancers was observed in current or past smokers treated with the JAK inhibitor compared to those treated with TNF blockers. In this trial, current or past smokers had an additional increased risk of overall malignancies.
+
+                        Consider the benefits and risks for the individual patient prior to and during treatment with LEQSELVI, particularly in patients with a known malignancy (other than successfully treated NMSC), patients who develop a malignancy, and patients who are current or past smokers.
+
+                           Non-melanoma skin cancers
+
+                        Non-melanoma skin cancers (NMSCs) have been reported in patients treated with LEQSELVI. Periodic skin examination is recommended for patients who are at increased risk for skin cancer.

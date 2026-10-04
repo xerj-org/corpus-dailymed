@@ -1,0 +1,9 @@
+DailyMed f4f06c00-9024-4e04-a882-0da2b24d8ff7 | Atenolol | Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Two long-term (maximum dosing duration of 18 or 24 months) rat studies and one long-term (maximum dosing duration of 18 months) mouse study, each employing dose levels as high as 300 mg/kg/day or 150 times the maximum recommended human antihypertensive dose,* did not indicate a carcinogenic potential of atenolol. A third (24 month) rat study, employing doses of 500 mg/kg/day and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males. No evidence of a mutagenic potential of atenolol was uncovered in the dominant lethal test (mouse),
+
+  in vivocytogenetics test (Chinese hamster) or Ames test
+
+  (S. typhimurium).
+
+                        Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/day or 100 times the maximum recommended human dose*) was unaffected by atenolol administration.

@@ -1,0 +1,3 @@
+DailyMed b4c4c0c7-5372-488c-82ad-4a0f8bb0e427 | Doxepin | 12.1 Mechanism of Action
+
+The mechanism of action of doxepin in sleep maintenance is unclear; however, doxepin's effect could be mediated through antagonism of the H1 receptor.

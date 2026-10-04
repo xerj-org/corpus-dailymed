@@ -1,0 +1,3 @@
+DailyMed 4e8516dc-a3c6-4d8f-aa14-2c37c6c8f6e6 | ISOTRETINOIN | 5.6 Serious Skin Reactions
+
+There have been postmarketing reports of erythema multiforme and severe skin reactions [e.g., Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)] associated with isotretinoin use. These reactions may be serious and result in death, life-threatening events, hospitalization, or disability. Monitor patients closely for severe skin reactions and discontinue isotretinoin if they occur.

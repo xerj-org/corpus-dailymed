@@ -1,0 +1,8 @@
+DailyMed b7491a1a-570e-40ea-b65b-f956c9e284a6 | Rosuvastatin Calcium | 8.5 Geriatric Use
+
+Of the 10,275 patients in clinical studies with rosuvastatin, 3,159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older. No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
+
+                        Advanced age (≥65 years) is a risk factor for rosuvastatin-associated myopathy and rhabdomyolysis. Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy. Monitor geriatric patients receiving rosuvastatin for the increased risk of myopathy
+  [see
+   Warnings and Precautions (5.1)]
+  .

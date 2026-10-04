@@ -1,0 +1,19 @@
+DailyMed 9dff10ec-6a55-47b6-a458-b7c39e32dc55 | Temozolomide | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+  • Myelosuppression
+
+  [see Warnings and Precautions (5.1)].
+
+  • Hepatotoxicity
+
+  [see Warnings and Precautions (5.2)].
+
+  • Pneumocystis Pneumonia
+
+  [see Warnings and Precautions (5.3)].
+
+  • Secondary Malignancies
+
+  [see Warnings and Precautions (5.4)].

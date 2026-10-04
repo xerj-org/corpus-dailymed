@@ -1,0 +1,3 @@
+DailyMed 22728e96-efa0-46c1-bdd1-ad89a796d5e3 | ADZYNMA | 12.1 Mechanism of Action
+
+ADZYNMA is a recombinant form of the endogenous ADAMTS13. ADAMTS13 is a plasma zinc metalloprotease that regulates the activity of von Willebrand factor (VWF) by cleaving large and ultra-large VWF multimers to smaller units and thereby reducing the platelet binding properties of VWF and its propensity to form microthrombi.

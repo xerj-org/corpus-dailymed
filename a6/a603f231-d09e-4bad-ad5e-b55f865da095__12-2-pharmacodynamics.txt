@@ -1,0 +1,9 @@
+DailyMed a603f231-d09e-4bad-ad5e-b55f865da095 | LEQSELVI | 12.2 Pharmacodynamics
+
+Deuruxolitinib Inhibition of IL-6 Induced STAT3 Phosphorylation
+
+                        Deuruxolitinib inhibited whole blood IL-6 stimulated pSTAT3 in healthy subjects 2 hours post-dose. The relevance of this finding in patients is unknown.
+
+                           Cardiac Electrophysiology
+
+                        At concentrations approximately 4-fold higher than the Cmax associated with the highest dose evaluated clinically, 12 mg twice-daily, deuruxolitinib does not prolong the QT interval to any clinically relevant extent.

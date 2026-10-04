@@ -1,0 +1,17 @@
+DailyMed d698c106-2322-401e-b738-cbd83c843ecf | TRUQAP | 8.1 Pregnancy
+
+Risk Summary
+
+                        TRUQAP is used in combination with fulvestrant. Refer to the Full Prescribing Information of fulvestrant for pregnancy information.
+
+                        Based on findings in animals and mechanism of action, TRUQAP can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)]. There are no available data on the use of TRUQAP in pregnant women. In an animal reproduction study, oral administration of capivasertib to pregnant rats during the period of organogenesis caused adverse developmental outcomes, including embryo-fetal mortality and reduced fetal weights at maternal exposures 0.7 times the human exposure (AUC) at the recommended dose of 400 mg twice daily (see Data). Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+
+                        The background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
+
+                           Data
+
+                           Animal Data
+
+                        In an embryo-fetal development study, pregnant rats received oral doses of capivasertib up to 150 mg/kg/day during the period of organogenesis. Administration of capivasertib resulted in maternal toxicities (reduced body weight gain and food consumption, increased blood glucose) and adverse developmental outcomes, including embryo-fetal deaths (post-implantation loss), reduced fetal weights, and minor fetal visceral variations at a dose of 150 mg/kg/day (0.7 times the human exposure at the recommended dose of 400 mg twice daily based on AUC).
+
+                        In a pre- and post-natal assessment, pregnant rats received oral doses of capivasertib up to 150 mg/kg/day from gestation day 6 through at least lactation day 6. Administration of 150 mg/kg/day resulted in reduced litter and pup weights.

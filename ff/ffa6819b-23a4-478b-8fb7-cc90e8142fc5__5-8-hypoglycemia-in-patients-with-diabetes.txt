@@ -1,0 +1,3 @@
+DailyMed ffa6819b-23a4-478b-8fb7-cc90e8142fc5 | TOFACITINIB | 5.8 Hypoglycemia in Patients with Diabetes
+
+Hypoglycemia, including severe hypoglycemia, has been reported following initiation of tofacitinib tablets and other JAK inhibitors in patients with diabetes. During treatment with tofacitinib tablets, consider increased monitoring of blood glucose as clinically indicated in patients with diabetes. Advise patients with diabetes to notify their healthcare provider if they develop signs or symptoms of hypoglycemia.

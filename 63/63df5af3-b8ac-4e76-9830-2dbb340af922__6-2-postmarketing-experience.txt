@@ -1,0 +1,23 @@
+DailyMed 63df5af3-b8ac-4e76-9830-2dbb340af922 | Tivicay PD; Tivicay | 6.2 Postmarketing Experience
+
+In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postmarketing use. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Blood and Lymphatic Systems
+
+                        Sideroblastic anemia.
+
+                           Hepatobiliary Disorders
+
+                        Acute liver failure, hepatotoxicity.
+
+                           Investigations
+
+                        Weight increased.
+
+                           Musculoskeletal
+
+                        Arthralgia, myalgia.
+
+                           Psychiatric
+
+                        Anxiety.

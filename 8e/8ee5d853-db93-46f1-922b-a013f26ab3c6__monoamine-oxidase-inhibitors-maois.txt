@@ -1,0 +1,17 @@
+DailyMed 8ee5d853-db93-46f1-922b-a013f26ab3c6 | Nortriptyline Hydrochloride | Monoamine Oxidase Inhibitors (MAOIs)
+
+The use of MAOIs intended to treat psychiatric disorders with nortriptyline hydrochloride or within 14 days of stopping treatment with nortriptyline hydrochloride is contraindicated because of an increased risk of serotonin syndrome. The use of nortriptyline hydrochloride within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see
+
+                              WARNINGS
+                           and
+
+                              DOSAGE AND ADMINISTRATION
+                           ).
+
+                        Starting nortriptyline hydrochloride in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see
+
+                              WARNINGS
+                           and
+
+                              DOSAGE AND ADMINISTRATION
+                           ).

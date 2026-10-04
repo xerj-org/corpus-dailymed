@@ -1,0 +1,3 @@
+DailyMed 2f73a4db-2c7f-4e42-a914-87aedc2780fb | Ticagrelor | 7.2 Strong CYP3A Inducers
+
+Strong CYP3A inducers substantially reduce ticagrelor exposure and so decrease the efficacy of ticagrelor. Avoid use with strong inducers of CYP3A (e.g., rifampin, phenytoin, carbamazepine and phenobarbital) [see Clinical Pharmacology (12.3)].

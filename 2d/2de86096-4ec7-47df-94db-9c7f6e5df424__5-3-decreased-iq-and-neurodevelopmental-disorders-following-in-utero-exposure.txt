@@ -1,0 +1,7 @@
+DailyMed 2de86096-4ec7-47df-94db-9c7f6e5df424 | divalproex sodium | 5.3 Decreased IQ and Neurodevelopmental Disorders Following in utero Exposure
+
+Valproate can cause decreased IQ scores following in utero exposure. Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another antiepileptic drug or to no antiepileptic drugs. The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% CI 94-101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% CI 105–110]), carbamazepine (105 [95% C.I. 102–108]), and phenytoin (108 [95% CI 104–112]).Because the women in this study were exposed to antiepileptic drugs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed.
+
+                        Although all of the available studies have methodological limitations, the weight of the evidence supports the conclusion that valproate exposure in utero can cause decreased IQ in children.
+
+                        In animal studies, offspring with prenatal exposure to valproate demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].

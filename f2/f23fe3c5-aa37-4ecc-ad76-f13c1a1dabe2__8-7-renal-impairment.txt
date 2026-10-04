@@ -1,0 +1,9 @@
+DailyMed f23fe3c5-aa37-4ecc-ad76-f13c1a1dabe2 | PROPOFOL | 8.7 Renal Impairment
+
+Studies to date in patients with normal or impaired renal function have not shown any alteration in renal function with propofol injectable emulsion containing 0.005% disodium edetate. In patients at risk for renal impairment, urinalysis and urine sediment should be checked before initiation of sedation and then be monitored on alternate days during sedation.
+
+                        Propofol injectable emulsion contains 0.005% disodium edetate. At high doses (2 to 3 grams per day), EDTA has been reported, on rare occasions, to be toxic to the renal tubules.
+
+                        The long-term administration of propofol injectable emulsion to patients with renal failure has not been evaluated.
+
+                        The pharmacokinetics of propofol do not appear to be different in people with chronic renal impairment compared to adults with normal renal function. The effects of acute renal failure on the pharmacokinetics of propofol have not been studied.

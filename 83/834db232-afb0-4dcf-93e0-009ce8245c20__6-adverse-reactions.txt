@@ -1,0 +1,9 @@
+DailyMed 834db232-afb0-4dcf-93e0-009ce8245c20 | UPLIZNA | 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+                     Infusion Reactions [see Warnings and Precautions (5.1)]
+
+                     Infections [see Warnings and Precautions (5.2)]
+
+                     Reduction in Immunoglobulins [see Warnings and Precautions (5.3)]

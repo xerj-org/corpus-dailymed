@@ -1,0 +1,131 @@
+DailyMed 63e0b7ca-6b2d-42a9-b9d4-4523b8a20425 | Rabeprazole Sodium | 12.3 Pharmacokinetics
+
+After oral administration of 20 mg rabeprazole sodium delayed-release tablets, peak plasma concentrations (C
+
+  max) of rabeprazole occur over a range of 2 to 5 hours (T
+
+  max). The rabeprazole C
+
+  maxand AUC are linear over an oral dose range of 10 mg to 40 mg. There is no appreciable accumulation when doses of 10 mg to 40 mg are administered every 24 hours; the pharmacokinetics of rabeprazole is not altered by multiple dosing.
+
+                            
+
+                           Absorption
+
+                        Absolute bioavailability for a 20 mg oral tablet of rabeprazole (compared to intravenous administration) is approximately 52%. When rabeprazole sodium delayed-release tablets are administered with a high fat meal, T
+
+  maxis variable; which concomitant food intake may delay the absorption up to 4 hours or longer. However, the C
+
+  maxand the extent of rabeprazole absorption (AUC) are not significantly altered. Thus rabeprazole sodium delayed-release tablets may be taken without regard to timing of meals.
+
+                           Distribution
+
+                        Rabeprazole is 96.3% bound to human plasma proteins. 
+
+                            
+
+                           Elimination
+                            
+
+                           Metabolism:Rabeprazole is extensively metabolized. A significant portion of rabeprazole is metabolized via systemic nonenzymatic reduction to a thioether compound. Rabeprazole is also metabolized to sulphone and desmethyl compounds via cytochrome P450 in the liver. The thioether and sulphone are the primary metabolites measured in human plasma. These metabolites were not observed to have significant antisecretory activity.
+
+  In vitrostudies have demonstrated that rabeprazole is metabolized in the liver primarily by cytochromes P450 3A (CYP3A) to a sulphone metabolite and cytochrome P450 2C19 (CYP2C19) to desmethyl rabeprazole. CYP2C19 exhibits a known genetic polymorphism due to its deficiency in some sub-populations (e.g., 3 to 5% of Caucasians and 17 to 20% of Asians). Rabeprazole metabolism is slow in these sub-populations, therefore, they are referred to as poor metabolizers of the drug.
+
+                            
+
+                           Excretion:Following a single 20 mg oral dose of
+
+  14C-labeled rabeprazole, approximately 90% of the drug was eliminated in the urine, primarily as thioether carboxylic acid; its glucuronide, and mercapturic acid metabolites. The remainder of the dose was recovered in the feces. Total recovery of radioactivity was 99.8%. No unchanged rabeprazole was recovered in the urine or feces.
+
+                           Specific Populations
+
+                           Geriatric Patients:In 20 healthy elderly subjects administered 20 mg rabeprazole sodium delayed-release tablets once daily for seven days, AUC values approximately doubled and the C
+
+  maxincreased by 60% compared to values in a parallel younger control group. There was no evidence of drug accumulation after once daily administration [
+
+  see Use in Specific Population (
+
+   8.5)
+
+  ].
+
+                            
+
+                           Pediatric Patients:The pharmacokinetics of rabeprazole was studied in 12 adolescent patients with GERD 12 to 16 years of age, in a multicenter study. Patients received 20 mg rabeprazole sodium delayed-release tablets once daily for five or seven days. An approximate 40% increase in rabeprazole exposure was noted following 5 to 7 days of dosing compared with the exposure after 1 day dosing. Pharmacokinetic parameters in adolescent patients with GERD 12 to 16 years of age were within the range observed in healthy adult subjects.
+
+                           Male and Female Patients and Racial or Ethnic Groups:In analyses adjusted for body mass and height, rabeprazole pharmacokinetics showed no clinically significant differences between male and female subjects. In studies that used different formulations of rabeprazole, AUC
+
+  0-∞values for healthy Japanese men were approximately 50 to 60% greater than values derived from pooled data from healthy men in the United States.
+
+                           Patients with
+                           Renal Impairment:In 10 patients with stable end-stage renal disease requiring maintenance hemodialysis (creatinine clearance ≤5 mL/min/1.73 m
+
+  2), no clinically significant differences were observed in the pharmacokinetics of rabeprazole after a single 20 mg dose of rabeprazole sodium delayed-release tablets when compared to 10 healthy subjects.
+
+                           Patients with
+                           Hepatic Impairment:In a single dose study of 10 patients with mild to moderate hepatic impairment (Child-Pugh Class A and B, respectively) who were administered a single 20 mg dose of rabeprazole sodium delayed-release tablets, AUC
+
+  0-24was approximately doubled, the elimination half-life was 2- to 3-fold higher, and total body clearance was decreased to less than half compared to values in healthy men.
+
+                        In a multiple dose study of 12 patients with mild to moderate hepatic impairment administered 20 mg rabeprazole sodium delayed-release tablets once daily for eight days, AUC
+
+  0-∞and C
+
+  maxvalues increased approximately 20% compared to values in healthy age- and gender-matched subjects. These increases were not statistically significant.
+
+                        No information exists on rabeprazole disposition in patients with severe hepatic impairment (Child-Pugh Class C)
+
+  [see Use in Specific Populations (
+
+   8.6)].
+
+                           Drug Interaction Studies
+
+                           Combined Administration with Antimicrobials:Sixteen healthy subjects genotyped as extensive metabolizers with respect to CYP2C19 were given 20 mg rabeprazole sodium delayed-release tablets, 1,000 mg amoxicillin, 500 mg clarithromycin, or all 3 drugs in a four-way crossover study. Each of the four regimens was administered twice daily for 6 days. The AUC and C
+
+  maxfor clarithromycin and amoxicillin were not different following combined administration compared to values following single administration. However, the rabeprazole AUC and C
+
+  maxincreased by 11% and 34%, respectively, following combined administration. The AUC and C
+
+  maxfor 14-hydroxyclarithromycin (active metabolite of clarithromycin) also increased by 42% and 46%, respectively. This increase in exposure to rabeprazole and 14-hydroxyclarithromycin is not expected to produce safety concerns.
+
+                        Effects of Other Drugs on Rabeprazole
+
+                           Antacids:Co-administration of rabeprazole sodium delayed-release tablets and antacids produced no clinically relevant changes in plasma rabeprazole concentrations.
+
+                        Effects of Rabeprazole on Other Drugs
+
+                        Studies in healthy subjects have shown that rabeprazole does not have clinically significant interactions with other drugs metabolized by the CYP450 system, such as theophylline (CYP1A2) given as single oral doses, diazepam (CYP2C9 and CYP3A4) as a single intravenous dose, and phenytoin (CYP2C9 and CYP2C19) given as a single intravenous dose (with supplemental oral dosing). Steady state interactions of rabeprazole and other drugs metabolized by this enzyme system have not been studied in patients. 
+
+                              Clopidogrel
+                           : Clopidogrel is metabolized to its active metabolite in part by CYP2C19. A study of healthy subjects including CYP2C19 extensive and intermediate metabolizers receiving once daily administration of clopidogrel 75 mg concomitantly with placebo or with 20 mg rabeprazole sodium delayed-release tablets (n=36), for 7 days was conducted. The mean AUC of the active metabolite of clopidogrel was reduced by approximately 12% (mean AUC ratio was 88%, with 90% CI of 81.7 to 95.5%) when rabeprazole sodium delayed-release tablets were coadministered compared to administration of clopidogrel with placebo
+
+  [see Drug Interactions (
+
+   7)].
+
+   
+
+                           Digoxin:In healthy adult subjects (n=16), co-administration of 20 mg rabeprazole sodium delayed-release tablets with 2.5 mg once daily doses of digoxin at steady state resulted in approximately 29% and 19% increase in mean C
+
+  maxand AUC(0 to 24) of digoxin
+
+  [see Drug Interactions (
+
+   7)].
+
+                           Ketoconazole:In healthy adult subjects (n=19), co-administration of 20 mg rabeprazole sodium delayed-release tablets at steady state with a single 400 mg oral dose ketoconazole resulted in approximately an average of 31% reduction in both C
+
+  maxand AUC(0 to inf) of ketoconazole
+
+  [see Drug Interactions (
+
+   7)].
+
+                            
+
+                           Cyclosporine: In vitroincubations employing human liver microsomes indicated that rabeprazole inhibited cyclosporine metabolism with an IC
+
+  50of 62 micromolar, a concentration that is over 50 times higher than the C
+
+  maxin healthy volunteers following 14 days of dosing with 20 mg of rabeprazole sodium delayed-release tablets. This degree of inhibition is similar to that by omeprazole at equivalent concentrations.

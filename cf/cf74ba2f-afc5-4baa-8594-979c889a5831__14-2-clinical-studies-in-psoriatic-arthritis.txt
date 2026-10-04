@@ -1,0 +1,17 @@
+DailyMed cf74ba2f-afc5-4baa-8594-979c889a5831 | XELJANZ; XELJANZXR | 14.2 Clinical Studies in Psoriatic Arthritis
+
+The psoriatic arthritis (PsA) clinical development program with XELJANZ tablets (referred to as “XELJANZ” in this subsection of labeling) included 2 multicenter, randomized, double-blind, placebo-controlled trials in 816 adults with active PsA (Studies PsA-I and PsA-II).
+
+                           Trial Designs and Population
+
+                        All patients had active PsA for at least 6 months based upon the Classification Criteria for Psoriatic Arthritis (CASPAR), at least 3 tender/painful joints and at least 3 swollen joints, and active plaque psoriasis. Patients randomized and treated across the 2 clinical trials represented different PsA subtypes at screening, including <5 joints or asymmetric involvement (21%), ≥5 joints involved (90%), distal interphalangeal (DIP) joint involvement (61%), arthritis mutilans (8%), and spondylitis (19%). Patients in these clinical trials had a diagnosis of PsA for a mean (SD) of 7.7 (7.2) years. At baseline, 80% and 53% of patients had enthesitis and dactylitis, respectively. At baseline, all patients were required to receive treatment with a stable dose of a nonbiologic DMARD (79% received methotrexate, 13% received sulfasalazine, 7% received leflunomide, 1% received other nonbiologic DMARDs). In both clinical trials, the primary endpoints were the ACR20 response and the change from baseline in HAQ-DI at Month 3.
+
+                              •
+
+Study PsA-I was a 12-month clinical trial in 422 patients who had an inadequate response to a nonbiologic DMARD (67% and 33% were inadequate responders to 1 nonbiologic DMARD and ≥2 nonbiologic DMARDs, respectively) and who were naïve to treatment with a TNF blocker. Although Study PsA-1 included patients who are TNF blocker-naïve, XELJANZ and XELJANZ XR are not approved for use in TNF blocker-naïve patients [see Indications and Usage (1.2)]. Patients were randomized in a 2:2:2:1:1 ratio to receive XELJANZ 5 mg twice daily, XELJANZ 10 mg twice daily, adalimumab 40 mg subcutaneously once every 2 weeks, placebo to XELJANZ 5 mg twice daily treatment sequence, or placebo to XELJANZ 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment. At the Month 3 visit, all patients randomized to placebo treatment were switched in a blinded fashion to a predetermined XELJANZ dosage of 5 mg or 10 mg twice daily. Study PsA-I was not designed to demonstrate non‑inferiority or superiority to adalimumab.
+
+                              •
+
+Study PsA-II was a 6-month clinical trial in 394 patients who had an inadequate response to at least 1 approved TNF blocker (66%, 19%, and 15% were inadequate responders to 1 TNF blocker, 2 TNF blockers and ≥3 TNF blockers, respectively). Patients were randomized in a 2:2:1:1 ratio to receive XELJANZ 5 mg twice daily, XELJANZ 10 mg twice daily, placebo to XELJANZ 5 mg twice daily treatment sequence, or placebo to XELJANZ 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment. At the Month 3 visit, placebo patients were switched in a blinded fashion to a predetermined XELJANZ dosage of 5 mg or 10 mg twice daily as in Study PsA-I.
+
+                        Although other dosages have been studied, the recommended dosage of XELJANZ is 5 mg twice daily. XELJANZ 10 mg twice daily is not recommended for treatment of PsA [see Dosage and Administration (2.3)].

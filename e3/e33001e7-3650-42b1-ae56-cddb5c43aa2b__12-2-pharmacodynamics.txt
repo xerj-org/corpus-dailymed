@@ -1,0 +1,11 @@
+DailyMed e33001e7-3650-42b1-ae56-cddb5c43aa2b | SCEMBLIX | 12.2 Pharmacodynamics
+
+Exposure-Response Relationships
+
+                        Over asciminib dosages of 10 mg to 200 mg twice daily (0.25 to 5 times the recommended 80 mg daily dosage), a lower exposure was associated with a smaller decrease in BCR::ABL1 level and a lower MMR rate at Week 24.
+
+                        Over asciminib dosages of 10 mg to 280 mg twice daily (0.25 to 7 times the recommended 80 mg daily dosage), a higher exposure was associated with slightly higher incidence of some adverse reactions (e.g., Grade ≥ 3 lipase increase, Grade ≥ 3 hemoglobin decrease, Grade ≥ 2 ALT increase, Grade ≥ 2 AST increase, Grade ≥ 2 bilirubin increase, and any grade lipase increase).
+
+                           Cardiac Electrophysiology
+
+                        Asciminib does not cause a large mean increase in QTc interval (i.e., > 20 msec) at the maximum recommended clinical dosage (200 mg twice daily). Based on available clinical data, small mean QTc increase (< 10 msec) cannot be excluded.

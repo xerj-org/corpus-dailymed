@@ -1,0 +1,5 @@
+DailyMed ddbef60d-c20a-4ada-928f-e87074c08a54 | NOREPINEPHRINE BITARTRATE IN SODIUM CHLORIDE | 7.1 MAO-Inhibiting Drugs
+
+Co-administration of Norepinephrine Bitartrate in Sodium Chloride Injection with monoamine oxidase (MAO) inhibitors or other drugs with MAO-inhibiting properties (e.g., linezolid) can cause severe, prolonged hypertension.
+
+                        If administration of Norepinephrine Bitartrate in Sodium Chloride Injection cannot be avoided in patients who recently have received any of these drugs and in whom, after discontinuation, MAO activity has not yet sufficiently recovered, monitor for hypertension.

@@ -1,0 +1,75 @@
+DailyMed c604e181-e336-4194-bf96-f65dd164d461 | Selexipag; Selexipag TITRATION PACK | 12.3 Pharmacokinetics
+
+The pharmacokinetics of selexipag and its active metabolite have been studied primarily in healthy subjects. The pharmacokinetics of selexipag and the active metabolite, after both single-and multiple-dose oral administration, were dose-proportional up to a single dose of 800 mcg and multiple doses of up to 1,800 mcg twice daily.
+
+                        In healthy subjects, inter-subject variability in exposure (area under the curve over a dosing interval, AUC) at steady-state following oral administration was 43% and 39% for selexipag and the active metabolite, respectively. Intra-subject variability in exposure was 24% and 19% for selexipag and the active metabolite, respectively.
+
+                        Exposures to selexipag and the active metabolite at steady-state in PAH patients and healthy subjects were similar. The pharmacokinetics of selexipag and the active metabolite in PAH patients were not influenced by the severity of the disease and did not change with time.
+
+                        The corresponding selexipag tablets and selexipag for injection doses (Table 2) provide similar exposure to the active metabolite in PAH patients at steady-state, whereas the exposure to selexipag is approximately twice as high after intravenous administration compared to oral administration.
+
+                        Both in healthy subjects and PAH patients, after oral administration, exposure at steady-state to the active metabolite is approximately 3- to 4-fold that of selexipag.
+
+                           Absorption
+
+                        The absolute bioavailability of orally administered selexipag is approximately 49%. Upon oral administration, maximum observed plasma concentrations of selexipag and its active metabolite are reached within about 1 to 3 hours and 3 to 4 hours, respectively.
+
+                           Effect of Food 
+
+                        In the presence of food, the absorption of selexipag was prolonged resulting in a delayed time to peak concentration (Tmax) and ~30% lower peak plasma concentration (Cmax). The exposure to selexipag and the active metabolite (AUC) did not significantly change in the presence of food.
+
+                           Distribution
+
+                        The volume of distribution of selexipag at steady-state is 11.7 L.
+
+                        Selexipag and its active metabolite are highly bound to plasma proteins (approximately 99% in total and to the same extent to albumin and alpha1-acid glycoprotein).
+
+                           Metabolism
+
+                        Selexipag is hydrolyzed to its active metabolite, (free carboxylic acid) in the liver and intestine by carboxylesterases. Oxidative metabolism, catalyzed mainly by CYP2C8 and to a smaller extent by CYP3A4, leads to the formation of hydroxylated and dealkylated products. UGT1A3 and UGT2B7 are involved in the glucuronidation of the active metabolite. Except for the active metabolite, none of the circulating metabolites in human plasma exceeds 3% of the total drug-related material.
+
+                           Elimination
+
+                        Elimination of selexipag is predominately via metabolism with a mean terminal half-life of 0.8 to 2.5 hours. The terminal half-life of the active metabolite is 6.2 to 13.5 hours. Selexipag does not accumulate following twice daily repeat administration. There is minimal accumulation of the active metabolite upon twice daily repeat administration suggesting that the effective half-life is in the range of 3 to 4 hours. The total body clearance of selexipag is 17.9 L/hour.
+
+                           Excretion
+
+                        In a study in healthy subjects with radiolabeled selexipag, approximately 93% of radioactive drug material was eliminated in feces and only 12% in urine. Neither selexipag nor its active metabolite were found in urine.
+
+                           Specific Populations
+
+                        No clinically relevant effects of sex, race, age or body weight on the pharmacokinetics of selexipag and its active metabolite have been observed in healthy subjects or PAH patients.
+
+                           Geriatric Patients
+
+                        The pharmacokinetic variables (Cmax and AUC) were similar in adult and elderly subjects up to 75 years of age. There was no effect of age on the pharmacokinetics of selexipag and the active metabolite in PAH patients.
+
+                           Hepatic Impairment
+
+                        In subjects with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, exposure to selexipag was 2-and 4-fold that seen in healthy subjects. Exposure to the active metabolite of selexipag remained almost unchanged in subjects with mild hepatic impairment and was doubled in subjects with moderate hepatic impairment [see Use in Specific Populations (8.6)].
+
+                        Based on pharmacokinetic modeling of data from a study in subjects with hepatic impairment, the exposure to the active metabolite at steady-state in subjects with moderate hepatic impairment (Child-Pugh class B) after a once daily regimen is expected to be similar to that in healthy subjects receiving a twice daily regimen. The exposure to selexipag at steady-state in these patients during a once daily regimen is predicted to be approximately 2-fold that seen in healthy subjects receiving a twice-daily regimen.
+
+                           Renal Impairment
+
+                        A 40 to 70% increase in exposure (maximum plasma concentration and area under the plasma concentration-time curve) to selexipag and its active metabolite was observed in subjects with severe renal impairment (estimated glomerular filtration rate ≥15 mL/min  and <30 mL/min) [see Use in Specific Populations (8.7)].
+
+                           Drug Interaction Studies
+
+                        Drug interaction studies have been performed in adult subjects using selexipag tablets.
+
+                           In Vitro Studies
+
+                        Selexipag is hydrolyzed to its active metabolite by carboxylesterases. Selexipag and its active metabolite both undergo oxidative metabolism mainly by CYP2C8 and to a smaller extent by CYP3A4. The glucuronidation of the active metabolite is catalyzed by UGT1A3 and UGT2B7. Selexipag and its active metabolite are substrates of OATP1B1 and OATP1B3. Selexipag is a substrate of P-gp, and the active metabolite is a substrate of the transporter of breast cancer resistance protein (BCRP).
+
+                        Selexipag and its active metabolite do not inhibit or induce cytochrome P450 enzymes and transport proteins at clinically relevant concentrations.
+
+                        The results of in vivo drug interaction studies are presented in Figures 1 and 2.
+
+                           Figure 1 Effect of Other Drugs on Selexipag and its Active Metabolite
+
+                        *PDE-5 inhibitor data from GRIPHON.
+
+                           Figure 2 Effect of Selexipag on Other Drugs
+
+                           Pediatric use information is approved   for Actelion Pharmaceuticals US, Inc.'s Uptravi® (Selexipag)   Tablets. However, due to Actelion Pharmaceuticals US, Inc.'s marketing   exclusivity rights, this drug product is not labeled with that information.

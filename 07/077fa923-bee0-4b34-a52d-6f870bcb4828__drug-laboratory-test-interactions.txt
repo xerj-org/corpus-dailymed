@@ -1,0 +1,3 @@
+DailyMed 077fa923-bee0-4b34-a52d-6f870bcb4828 | Methocarbamol | Drug/Laboratory Test Interactions
+
+Methocarbamol may cause a color interference in certain screening tests for 5-hydroxyindoleacetic acid (5-HIAA) using nitrosonaphthol reagent and in screening tests for urinary vanillylmandelic acid (VMA) using the Gitlow method.

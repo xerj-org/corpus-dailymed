@@ -1,0 +1,3 @@
+DailyMed 2f73a4db-2c7f-4e42-a914-87aedc2780fb | Ticagrelor | 4.1 History of Intracranial Hemorrhage
+
+Ticagrelor tablet is contraindicated in patients with a history of intracranial hemorrhage (ICH) because of a high risk of recurrent ICH in this population [see Clinical Studies (14.1, 14.2)].

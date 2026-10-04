@@ -1,0 +1,5 @@
+DailyMed 4fe97dac-d952-40f5-9c6a-67cda048ad8f | Gamunex-C | 5.4 Thrombosis
+
+Thrombosis may occur following treatment with immune globulin products, including GAMUNEX-C FlexBag. Risk factors may include: advanced age, prolonged immobilization, hypercoagulable conditions, history of venous or arterial thrombosis, use of estrogens, indwelling central vascular catheters, hyperviscosity, and cardiovascular risk factors. Thrombosis may occur in the absence of known risk factors.
+
+                        Consider baseline assessment of blood viscosity in patients at risk for hyperviscosity, including those with cryoglobulins, fasting chylomicronemia/markedly high triacylglycerols (triglycerides), or monoclonal gammopathies. For patients at risk of thrombosis, administer GAMUNEX-C FlexBag at the minimum dose and infusion rate practicable. Ensure adequate hydration in patients before administration. Monitor for signs and symptoms of thrombosis and assess blood viscosity in patients at risk for hyperviscosity. [see Boxed Warning, Dosage and Administration (2.3), Patient Counseling Information (17)]

@@ -1,0 +1,37 @@
+DailyMed 5ca218af-b3f4-512a-e063-6394a90a3ec6 | HYDROXYCHLOROQUINE SULFATE | 5.1 Cardiomypathy and Ventricular Arrhythmias
+
+Fatal and life-threatening cases of cardiotoxicity, including cardiomyopathy, have been reported in patients treated with hydroxychloroquine sulfate tablets.  Signs and symptoms of cardiac compromise have occurred during acute and chronic hydroxychloroquine sulfate tablets treatment. In multiple cases, endomyocardial biopsy showed association of the cardiomyopathy with phospholipidosis in the absence of inflammation, infiltration, or necrosis. Drug-induced phospholipidosis may occur in other organ systems
+
+  [see Warnings and Precautions (
+
+   5.8,
+
+   5.11)].
+
+                        Patients may present with ventricular hypertrophy, pulmonary hypertension and conduction disorders including sick sinus syndrome. ECG findings include atrioventricular, right or left bundle branch block.
+
+                        Hydroxychloroquine sulfate tablets has a potential to prolong the QT interval. Ventricular arrhythmias (including torsades de pointes) have been reported in hydroxychloroquine sulfate tablets-treated patients. The magnitude of QT prolongation may increase with increasing concentrations of the drug. Therefore, the recommended dose should not be exceeded
+
+  [see
+
+   Adverse Reactions (6),
+
+   Overdosage (10)].
+
+  Avoid hydroxychloroquine sulfate tablets administration in patients with congenital or documented acquired QT prolongation and/or known risk factors for prolongation of the QT interval such as:
+
+                           Cardiac disease, e.g., heart failure, myocardial infarction.
+
+                           Proarrhythmic conditions, e.g., bradycardia (< 50 bpm).
+
+                           History of ventricular dysrhythmias.
+
+                           Uncorrected hypokalemia and/or hypomagnesemia.
+
+                           Concomitant administration with QT interval prolonging agents as this may lead to an increased risk for ventricular arrhythmias
+
+   [see
+
+    Drug Interactions (7.1)].
+
+                        Therefore, hydroxychloroquine sulfate tablets are not recommended in patients taking other drugs that have the potential to prolong the QT interval. Correct electrolyte imbalances prior to use. Monitor cardiac function as clinically indicated during hydroxychloroquine sulfate tablets therapy. Discontinue hydroxychloroquine sulfate tablets if cardiotoxicity is suspected or demonstrated by tissue biopsy.

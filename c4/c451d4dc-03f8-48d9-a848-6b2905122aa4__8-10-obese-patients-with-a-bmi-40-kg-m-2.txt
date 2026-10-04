@@ -1,0 +1,11 @@
+DailyMed c451d4dc-03f8-48d9-a848-6b2905122aa4 | sugammadex | 8.10 Obese Patients with a BMI ≥40 kg/m 2
+
+A trial of 188 obese patients, with a body mass index ≥40 kg/m
+
+  2, investigated the time to recovery from moderate or deep neuromuscular blockade induced by rocuronium or vecuronium. Patients received 2 mg/kg or 4 mg/kg Sugammadex Injection, as appropriate for level of block, dosed according to either actual body weight (ABW) or ideal body weight (IBW) in random, double-blinded fashion. Pooled across depth of block and neuromuscular blocking agent, the median time to recover to a train-of-four (TOF) ratio ≥0.9 in patients dosed by ABW (1.8 minutes) was statistically significantly faster compared to patients dosed by IBW (3.3 minutes).
+
+                        The adverse reaction profile was generally similar to the profile in adult patients in pooled Phase 1 to 3 studies
+
+  [see Adverse Reactions (6.1)]. No dosage adjustment is necessary
+
+  [see Dosage and Administration (2.2)].

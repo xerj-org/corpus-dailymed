@@ -1,0 +1,5 @@
+DailyMed 9333d92f-2585-4b99-aaea-87c01c95125e | ESTRADIOL | 3. Dementia
+
+In the Women’s Health Initiative Memory Study (WHIMS), 4,532 generally healthy postmenopausal women 65 years of age and older were studied, of whom 35% were 70 to 74 years of age and 18% were 75 or older. After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n = 2,229) and 21 women in the placebo group (0.9%, n = 2,303) received diagnoses of probable dementia. The relative risk for CE/MPA versus placebo was 2.05 (95% confidence interval 1.21 – 3.48), and was similar for women with and without histories of menopausal hormone use before WHIMS. The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 22 cases per 10,000 women-years, and the absolute excess risk for CE/MPA was 23 cases per 10,000 women-years. It is unknown whether these findings apply to younger postmenopausal women (See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use).
+
+                        It is unknown whether these findings apply to estrogen alone therapy.

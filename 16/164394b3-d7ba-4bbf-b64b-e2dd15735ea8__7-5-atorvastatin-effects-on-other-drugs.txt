@@ -1,0 +1,45 @@
+DailyMed 164394b3-d7ba-4bbf-b64b-e2dd15735ea8 | Caduet | 7.5 Atorvastatin Effects on Other Drugs
+
+Table 5 presents atorvastatin's effect on other drugs and instructions for preventing or managing them.
+
+                           Table 5. Atorvastatin Effects on Other Drugs
+
+                                       Oral Contraceptives
+
+                                  |
+
+                                       Clinical Impact:
+
+                                  |
+
+                                    Co-administration of atorvastatin and an oral contraceptive increased plasma concentrations of norethindrone and ethinyl estradiol [see Clinical Pharmacology (12.3)].
+
+                                  |
+
+                                       Intervention:
+
+                                  |
+
+                                    Consider this when selecting an oral contraceptive for patients taking atorvastatin.
+
+                                  |
+
+                                       Digoxin
+
+                                  |
+
+                                       Clinical Impact:
+
+                                  |
+
+                                    When multiple doses of atorvastatin and digoxin were co-administered, steady state plasma digoxin concentrations increased [see Clinical Pharmacology (12.3)].
+
+                                  |
+
+                                       Intervention:
+
+                                  |
+
+                                    Monitor patients taking digoxin appropriately.
+
+                                  |

@@ -1,0 +1,108 @@
+DailyMed a617b089-ce66-464b-987b-b45d029b4d6f | Tecentriq Hybreza | 2.4 Dosage Modifications for Adverse Reactions
+
+No dose reduction for TECENTRIQ HYBREZA is recommended. In general, withhold TECENTRIQ HYBREZA for severe (Grade 3) immune-mediated adverse reactions. Permanently discontinue TECENTRIQ HYBREZA for life-threatening (Grade 4) immune-mediated adverse reactions, recurrent severe (Grade 3) immune-mediated reactions that require systemic immunosuppressive treatment, or an inability to reduce the daily corticosteroid dosage to 10 mg or less of prednisone or equivalent corticosteroid dosage within 12 weeks of initiating corticosteroids.
+
+                        Dosage modifications for TECENTRIQ HYBREZA for adverse reactions that require management different from these general guidelines are summarized in Table 2.
+
+                           Table 2:	Recommended Dosage Modifications for Adverse Reactions
+
+                                 Adverse Reaction |
+                                 SeverityBased on Common Terminology Criteria for Adverse Events (CTCAE), version 5
+
+                                  |
+                                 Dosage Modification |
+
+                                 ALT = alanine aminotransferase, AST = aspartate aminotransferase, ULN = upper limit normal, DRESS = Drug Rash with Eosinophilia and Systemic Symptoms, SJS = Stevens Johnson syndrome, TEN = toxic epidermal necrolysis |
+
+                                    Immune-Mediated Adverse Reactions
+                                     [see Warnings and Precautions (5.1)]
+                                  |
+
+                                 Pneumonitis |
+                                 Grade 2 |
+                                 WithholdResume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper.  Permanently discontinue if no complete or partial resolution within 12 weeks of initiating steroids or inability to reduce prednisone to 10 mg per day or less (or equivalent) within 12 weeks of initiating steroids
+
+                                  |
+
+                                 Grades 3 or 4 |
+                                 Permanently discontinue  |
+
+                                 Colitis |
+                                 Grades 2 or 3 |
+                                 Withhold
+                                  |
+
+                                 Grade 4 |
+                                 Permanently discontinue |
+
+                                 Hepatitis with no tumor involvement of the liver |
+                                 AST or ALT increases to more than 3 and up to 8 times ULN or
+
+Total bilirubin increases to more than 1.5 and up to 3 times ULN  |
+                                 Withhold
+                                  |
+
+                                 AST or ALT increases to more than 8 times ULN
+
+or
+
+Total bilirubin increases to more than 3 times ULN  |
+                                 Permanently discontinue |
+
+                                 Hepatitis with tumor involvement of the liverIf AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue TECENTRIQ HYBREZA based on recommendations for hepatitis with no liver involvement
+
+                                  |
+                                 Baseline AST or ALT is more than 1 and up to 3 times ULN and increases to more than 5 and up to 10 times ULN or
+
+Baseline AST or ALT is more than 3 and up to 5 times ULN and increases to more than 8 and up to 10 times ULN |
+                                 Withhold
+                                  |
+
+                                 AST or ALT increases to more than 10 times ULN or
+
+Total bilirubin increases to more than 3 times ULN |
+                                 Permanently discontinue |
+
+                                 Endocrinopathies |
+                                 Grades 3 or 4 |
+                                 Withhold until clinically stable or permanently discontinue depending on severity |
+
+                                 Nephritis with Renal Dysfunction |
+                                 Grades 2 or 3 increased blood creatinine |
+                                 Withhold
+                                  |
+
+                                 Grade 4 increased blood creatinine |
+                                 Permanently discontinue |
+
+                                 Exfoliative Dermatologic Conditions |
+                                 Suspected SJS, TEN, or DRESS |
+                                 Withhold |
+
+                                 Confirmed SJS, TEN, or DRESS |
+                                 Permanently discontinue |
+
+                                 Myocarditis or pericarditis |
+                                 Grades 2, 3, or 4 |
+                                 Permanently discontinue |
+
+                                 Neurological Toxicities |
+                                 Grade 2 |
+                                 Withhold
+                                  |
+
+                                 Grades 3 or 4 |
+                                 Permanently discontinue |
+
+                                    Other Adverse Reactions
+                                  |
+
+                                 Infusion-Related Reactions [see Warnings and Precautions (5.2)]
+                                  |
+                                 Grades 1 or 2 |
+                                 Pause or slow the rate of injection
+
+ Premedication with antipyretic and antihistamines may be considered for subsequent doses. |
+
+                                 Grades 3 or 4 |
+                                 Permanently discontinue |

@@ -1,0 +1,9 @@
+DailyMed 7d6447e3-22c9-48d9-87c0-d0b576d7ea9e | Cyclophosphamide | 5.2 Urinary Tract and Renal Toxicity
+
+Hemorrhagic cystitis, pyelitis, ureteritis, and hematuria have been reported with cyclophosphamide. Medical and/or surgical supportive treatment may be required to treat protracted cases of severe hemorrhagic cystitis. Discontinue cyclophosphamide therapy in case of severe hemorrhagic cystitis.
+
+                        Urotoxicity (bladder ulceration, necrosis, fibrosis, contracture and secondary cancer) may require interruption of cyclophosphamide treatment or cystectomy. Urotoxicity can be fatal. Urotoxicity can occur with short-term or long-term use of cyclophosphamide.
+
+                        Before starting treatment, exclude or correct any urinary tract obstructions
+
+  [see CONTRAINDICATIONS (4)]. Urinary sediment should be checked regularly for the presence of erythrocytes and other signs of urotoxicity and/or nephrotoxicity. Cyclophosphamide should be used with caution, if at all, in patients with active urinary tract infections. Aggressive hydration with forced diuresis and frequent bladder emptying can reduce the frequency and severity of bladder toxicity. Mesna has been used to prevent severe bladder toxicity.

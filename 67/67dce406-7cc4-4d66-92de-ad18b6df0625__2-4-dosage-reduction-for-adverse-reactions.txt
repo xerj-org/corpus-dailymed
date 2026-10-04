@@ -1,0 +1,38 @@
+DailyMed 67dce406-7cc4-4d66-92de-ad18b6df0625 | SOHONOS | 2.4 Dosage Reduction for Adverse Reactions
+
+If patients experience adverse reactions that require dosage reduction during either the SOHONOS daily dosing or flare-up dosing, reduce the daily dosage to the next lower dose as shown in Table 2 at the discretion of the healthcare provider; reduce the dosage further if adverse reactions do not improve. If the patient is already receiving the lowest possible tolerated dose, then consider discontinuing SOHONOS temporarily or permanently. Initiate subsequent flare-up dosing at the same reduced dose that was tolerated previously.
+
+                           Table 2. Dose Reduction of SOHONOS for Flare-Up and Chronic TreatmentOnce daily dosing
+
+                                 Dose Prescribed |
+                                 Reduced Dose |
+
+                                 20 mg |
+                                 15 mg |
+
+                                 15 mg |
+                                 12.5 mg |
+
+                                 12.5 mg |
+                                 10 mg |
+
+                                 10 mg |
+                                 7.5 mg |
+
+                                 7.5 mg |
+                                 5 mg |
+
+                                 6 mg |
+                                 4 mg |
+
+                                 5 mg |
+                                 2.5 mg |
+
+                                 4 mg |
+                                 2 mg |
+
+                                 3 mg |
+                                 1.5 mg |
+
+                                 2.5 mg |
+                                 1 mg |

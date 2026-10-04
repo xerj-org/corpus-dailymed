@@ -1,0 +1,9 @@
+DailyMed c604e181-e336-4194-bf96-f65dd164d461 | Selexipag; Selexipag TITRATION PACK | 2.6 Dosage Adjustment in Patients with Hepatic Impairment
+
+No dose adjustment of selexipag is necessary for patients with mild hepatic impairment (Child-Pugh class A).
+
+                            For adult patients with moderate hepatic impairment (Child-Pugh class B), reduce the starting dose of selexipag tablets (200 mcg for adults) to once daily. Increase in increments equal to the starting dose once daily at weekly intervals, as tolerated [see Dosage and Administration (2.1), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)]. 
+
+                        Avoid use of selexipag in patients with severe hepatic impairment (Child-Pugh class C).
+
+                           Pediatric use information is approved for Actelion Pharmaceuticals US, Inc.'s Uptravi® (Selexipag) Tablets. However, due to Actelion Pharmaceuticals US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.

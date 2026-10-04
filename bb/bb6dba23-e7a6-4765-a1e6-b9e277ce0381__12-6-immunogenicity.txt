@@ -1,0 +1,5 @@
+DailyMed bb6dba23-e7a6-4765-a1e6-b9e277ce0381 | NIKTIMVO | 12.6 Immunogenicity
+
+The observed incidence of ADAs is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of ADAs in the studies described below with the incidence of ADAs in other studies, including those of NIKTIMVO or of other axatilimab products.
+
+ADAs were assessed in 276 patients with cGVHD who received NIKTIMVO. The incidence of axatilimab-csfr treatment-emergent ADAs was 33.7% (93/276) following a median exposure time of 7.8 months. NAb were detected in 47 of 93 cGVHD patients with treatment-emergent ADAs. There was no clinically meaningful effect of anti–axatilimab-csfr antibodies or NAb on the pharmacokinetics, pharmacodynamics, or effectiveness of NIKTIMVO. The presence of NAb correlated with the occurrence of hypersensitivity reactions [see Adverse Reactions (6.1)].

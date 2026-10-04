@@ -1,0 +1,3 @@
+DailyMed 8fac192f-48ab-4def-9c3a-f1cd50b3e2b7 | POTASSIUM CHLORIDE | 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+
+NSAIDs may produce potassium retention by reducing renal synthesis of prostaglandin E and impairing the renin-angiotensin system. Closely monitor potassium in patients on concomitant NSAIDs.

@@ -1,0 +1,19 @@
+DailyMed 3c5101a0-0c7e-4078-8dc3-a57beb9a0e92 | Gadavist | WARNING: RISK ASSOCIATED WITH INTRATHECAL USE and NEPHROGENIC SYSTEMIC FIBROSIS
+
+Risk Associated with Intrathecal Use
+
+                     Intrathecal administration of gadolinium-based contrast agents (GBCAs) can cause serious adverse reactions including death, coma, encephalopathy, and seizures. GADAVIST is not approved for intrathecal use [see Warnings and Precautions (5.1)].
+
+                     Nephrogenic Systemic Fibrosis
+
+                     GBCAs increase the risk for nephrogenic systemic fibrosis (NSF) among patients with impaired elimination of the drugs. Avoid use of GADAVIST in these patients unless the diagnostic information is essential and not available with non-contrasted MRI or other modalities. NSF may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs.
+
+                     The risk for NSF appears highest among patients with:
+
+                        Chronic, severe kidney disease (GFR < 30 mL/min/1.73m2), or
+
+                        Acute kidney injury.
+
+                     Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (for example, age > 60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing.
+
+                     For patients at highest risk for NSF, do not exceed the recommended GADAVIST dose and allow a sufficient period of time for elimination of the drug from the body prior to any re-administration [see Warnings and Precautions (5.2)].

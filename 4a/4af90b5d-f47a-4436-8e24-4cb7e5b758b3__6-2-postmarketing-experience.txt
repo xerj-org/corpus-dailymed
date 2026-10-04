@@ -1,0 +1,19 @@
+DailyMed 4af90b5d-f47a-4436-8e24-4cb7e5b758b3 | FAMOTIDINE | 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of famotidine. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+                           Cardiovascular: arrhythmia, AV block, prolonged QT interval
+
+                           Gastrointestinal: cholestatic jaundice, hepatitis
+
+                           Hematologic: agranulocytosis, pancytopenia, leukopenia
+
+                           Hypersensitivity: anaphylaxis, angioedema, facial edema, urticaria
+
+                           Musculoskeletal: rhabdomyolysis, muscle cramps
+
+                           Nervous System/Psychiatric: confusion, agitation, paresthesia
+
+                           Respiratory: interstitial pneumonia
+
+                           Skin: toxic epidermal necrolysis/Stevens-Johnson syndrome

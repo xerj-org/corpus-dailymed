@@ -1,0 +1,13 @@
+DailyMed 496e258d-a5fd-42da-9a86-73afc8be359b | Cimetidine | INDICATIONS AND USAGE
+
+Cimetidine tablets USP are indicated in:
+
+                        Short-term treatment of active duodenal ulcer. Most patients heal within 4 weeks and there is rarely reason to use cimetidine at full dosage for longer than 6 to 8 weeks (see DOSAGE AND ADMINISTRATION, Duodenal Ulcer). Concomitant antacids should be given as needed for relief of pain. However, simultaneous administration of oral cimetidine and antacids is not recommended, since antacids have been reported to interfere with the absorption of oral cimetidine.
+
+                        Maintenance therapy for duodenal ulcer patients at reduced dosage after healing of active ulcer. Patients have been maintained on continued treatment with cimetidine 400 mg at bedtime for periods of up to five years.
+
+                        Short-term treatment of active benign gastric ulcer. There is no information concerning usefulness of treatment periods of longer than 8 weeks.
+
+                        Erosive gastroesophageal reflux disease (GERD). Erosive esophagitis diagnosed by endoscopy. Treatment is indicated for 12 weeks for healing of lesions and control of symptoms. The use of cimetidine beyond 12 weeks has not been established [see DOSAGE AND ADMINISTRATION, Erosive Gastroesophageal Reflux (GERD)].
+
+                        The treatment of pathological hypersecretory conditions (i.e., Zollinger-Ellison Syndrome, systemic mastocytosis, multiple endocrine adenomas).

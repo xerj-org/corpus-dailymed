@@ -1,0 +1,5 @@
+DailyMed aad6e18f-04f8-4799-b366-873ec5a50317 | Lactated Ringers | 5.1 Serious Risk with Concomitant Use with Ceftriaxone
+
+Precipitation of ceftriaxone-calcium can occur when ceftriaxone is mixed with calcium-containing solutions, such as Lactated Ringer’s Injection, in the same intravenous administration line.  Deaths have occurred in neonates (28 days of age or younger) who received concomitant intravenous calcium-containing solutions with ceftriaxone resulting from calcium-ceftriaxone precipitates in the lungs and kidneys, even when separate infusion lines were used:
+
+                        Lactated Ringer’s Injection is contraindicated in neonates who receive ceftriaxone [see Contraindications (4), Use in Specific Populations (8.4)]. However, in patients older than 28 days, ceftriaxone and Lactated Ringer’s Injection may be administered sequentially if the infusion lines are thoroughly flushed between infusions with a compatible fluid.

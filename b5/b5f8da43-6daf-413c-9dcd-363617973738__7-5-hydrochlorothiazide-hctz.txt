@@ -1,0 +1,3 @@
+DailyMed b5f8da43-6daf-413c-9dcd-363617973738 | TOPIRAMATE | 7.5 Hydrochlorothiazide (HCTZ)
+
+Topiramate Cmax and AUC increased when HCTZ was added to immediate-release topiramate. The clinical significance of this change is unknown. The addition of HCTZ to topiramate extended-release capsules may require a decrease in the topiramate extended-release capsules dose [see Clinical Pharmacology (12.3)].

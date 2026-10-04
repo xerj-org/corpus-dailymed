@@ -1,0 +1,3 @@
+DailyMed ed789dc1-0b39-4efc-990d-7b6b43a8b3ba | Irbesartan | 5.2 Hypotension in Volume or Salt-Depleted Patients
+
+In patients with an activated renin-angiotensin system, such as volume or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initialization of treatment with irbesartan tablets. Correct volume or salt depletion prior to administration of irbesartan tablets or use a lower starting dose [see Dosage and Administration (2.4)].

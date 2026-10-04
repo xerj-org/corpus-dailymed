@@ -1,0 +1,7 @@
+DailyMed 8cd23ff7-71ba-4391-95bd-a3a7f347713d | Tolterodine Tartrate | 2.3 Dosage Adjustment in Presence of Concomitant Drugs
+
+For patients who are taking drugs that are potent inhibitors of CYP3A4 [e.g., ketoconazole, clarithromycin, ritonavir], the recommended dose of tolterodine tartrate extended-release capsules is 2 mg once daily
+  [see
+
+                                 DRUG INTERACTIONS (7.2)
+                              ].

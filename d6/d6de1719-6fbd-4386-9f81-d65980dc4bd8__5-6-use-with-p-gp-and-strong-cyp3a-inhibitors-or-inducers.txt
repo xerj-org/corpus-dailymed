@@ -1,0 +1,5 @@
+DailyMed d6de1719-6fbd-4386-9f81-d65980dc4bd8 | RIVAROXABAN | 5.6 Use with P-gp and Strong CYP3A Inhibitors or Inducers
+
+Avoid concomitant use of rivaroxaban with known combined P-gp and strong CYP3A inhibitors [see Drug Interactions (7.2)].
+
+                        Avoid concomitant use of rivaroxaban with drugs that are known combined P-gp and strong CYP3A inducers [see Drug Interactions (7.3)].

@@ -1,0 +1,11 @@
+DailyMed 5b050245-aa03-4e28-e063-6394a90aeabc | Ertapenem | 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis and Mutagenesis
+
+                        No long-term studies in animals have been performed to evaluate the carcinogenic potential of ertapenem.
+
+                        Ertapenem was not genotoxic in in vitro or in vivo assays, including: an alkaline elution/rat hepatocyte assay, a chromosomal aberration assay in Chinese hamster ovary cells, a TK6 human lymphoblastoid cell mutagenesis assay and a mouse micronucleus assay.
+
+                           Impairment of Fertility
+
+                        In rats, intravenous dosages up to 700 mg/kg/day (approximately 1.2 times the human exposure at the recommended human dose of 1 g based on plasma AUC) did not impair fertility.

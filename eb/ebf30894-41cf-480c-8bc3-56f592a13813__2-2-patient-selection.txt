@@ -1,0 +1,5 @@
+DailyMed ebf30894-41cf-480c-8bc3-56f592a13813 | Herceptin Hylecta | 2.2 Patient Selection
+
+Select patients based on HER2 protein overexpression or HER2 gene amplification in tumor specimens [see Indications and Usage (1) and Clinical Studies (14)]. Assessment of HER2 protein overexpression and HER2 gene amplification should be performed using FDA-authorized tests specific for breast cancer by laboratories with demonstrated proficiency. Information on the FDA-authorized tests for the detection of HER2 protein overexpression and HER2 gene amplification is available at: http://www.fda.gov/CompanionDiagnostics.
+
+                        Improper assay performance, including use of suboptimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.

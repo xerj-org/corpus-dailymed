@@ -1,0 +1,84 @@
+DailyMed fa8f1f52-3f05-4ae8-bfec-7f0a029e6825 | Pemetrexed | 14.2 Mesothelioma
+
+The efficacy of pemetrexed for injection was evaluated in Study JMCH (NCT00005636), a multicenter, randomized (1:1), single-blind study conducted in patients with MPM who had received no prior chemotherapy. Patients were randomized (n=456) to receive pemetrexed for injection 500 mg/m2 intravenously over 10 minutes followed 30 minutes later by cisplatin 75 mg/m2 intravenously over two hours on Day 1 of each 21-day cycle or to receive cisplatin 75 mg/m2 intravenously over 2 hours on Day 1 of each 21-day cycle; treatment continued until disease progression or intolerable toxicity. The study was modified after randomization and treatment of 117 patients to require that all patients receive folic acid 350 mcg to 1,000 mcg daily beginning 1 to 3 weeks prior to the first dose of pemetrexed for injection and continuing until 1 to 3 weeks after the last dose, vitamin B12 1,000 mcg intramuscularly 1 to 3 weeks prior to first dose of pemetrexed for injection and every 9 weeks thereafter, and dexamethasone 4 mg orally, twice daily, for 3 days starting the day prior to each pemetrexed for injection dose. Randomization was stratified by multiple baseline variables including KPS, histologic subtype (epithelial, mixed, sarcomatoid, other), and gender. The major efficacy outcome measure was overall survival and additional efficacy outcome measures were time to disease progression, overall response rate, and response duration.
+
+                        A total of 448 patients received at least one dose of protocol-specified therapy; 226 patients were randomized to and received at least one dose of pemetrexed for injection plus cisplatin, and 222 patients were randomized to and received cisplatin. Among the 226 patients who received cisplatin with pemetrexed for injection, 74% received full supplementation with folic acid and vitamin B12 during study therapy, 14% were never supplemented, and 12% were partially supplemented. Across the study population, the median age was 61 years (range: 20 to 86 years); 81% were male; 92% were White, 5% were Hispanic or Latino, 3.1% were Asian, and <1% were other ethnicities; and 54% had a baseline KPS score of 90 to 100% and 46% had a KPS score of 70 to 80%. With regard to tumor characteristics, 46% had Stage IV disease, 31% Stage III, 15% Stage II, and 7% Stage I disease at baseline; the histologic subtype of mesothelioma was epithelial in 68% of patients, mixed in 16%, sarcomatoid in 10% and other histologic subtypes in 6%. The baseline demographics and tumor characteristics of the subgroup of fully supplemented patients was similar to the overall study population.
+
+                        The efficacy results from Study JMCH are summarized in Table 18 and Figure 9.
+
+                           Table 18: Efficacy Results in Study JMCH
+
+                                       a Hazard ratios are not adjusted for stratification variables.
+
+                                  |
+
+                                       b Not a pre-specified analysis.
+
+                                  |
+
+                                    Efficacy Parameter
+                                  |
+
+                                    All Randomized and Treated Patients
+
+                                    (N=448)
+                                  |
+
+                                    Fully Supplemented Patients
+
+                                    (N=331)
+                                  |
+
+                                    Pemetrexed for Injection/Cisplatin (N=226)
+                                  |
+
+                                    Cisplatin
+
+                                    (N=222)
+                                  |
+
+                                    Pemetrexed for Injection/Cisplatin (N=168)
+                                  |
+
+                                    Cisplatin (N=163)
+                                  |
+
+                                 Median overall survival (months)
+ |
+                                 12.1
+ |
+                                 9.3
+ |
+                                 13.3
+ |
+                                 10.0
+ |
+
+                                 (95% CI)
+ |
+                                 (10.0 to 14.4)
+ |
+                                 (7.8 to 10.7)
+ |
+                                 (11.4 to 14.9)
+ |
+                                 (8.4 to 11.9)
+ |
+
+                                 Hazard ratioa
+                                  |
+                                 0.77
+ |
+                                 0.75
+ |
+
+                                 Log rank p-value
+ |
+                                 0.020
+ |
+                                 NAb
+                                  |
+
+                              Figure 9: Kaplan-Meier Curves for Overall Survival in Study JMCH
+
+                        Based upon prospectively defined criteria (modified Southwest Oncology Group methodology) the objective tumor response rate for pemetrexed for injection plus cisplatin was greater than the objective tumor response rate for cisplatin alone. There was also improvement in lung function (forced vital capacity) in the pemetrexed for injection plus cisplatin arm compared to the control arm.
